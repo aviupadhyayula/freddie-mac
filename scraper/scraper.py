@@ -18,14 +18,14 @@ def create_csv():
     global csv_name
     global dirname
     dirname = r'%s' % os.path.dirname(__file__)
-    csv_name = dirname + '/app/data.csv'
+    csv_name = dirname + '/data.csv'
     with open(csv_name, mode='w') as data:
         writer = csv.writer(data, delimiter='*', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         entry = ["State", "City/County", "Ordinance", "Site"]
         writer.writerow(entry)
 
 def make_driver():
-    driverpath = dirname + r'/app/chromedriver'
+    driverpath = dirname + r'/chromedriver'
     options = webdriver.ChromeOptions()
     global driver
     driver = webdriver.Chrome(options=options, executable_path=driverpath)
