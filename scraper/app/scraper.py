@@ -19,8 +19,9 @@ from selenium.common.exceptions import TimeoutException
 def create_csv():
     global csv_name
     global dir_name
-    dir_name = r"%s" % os.path.abspath(os.getcwd())
+    dir_name = r"%s" % os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     csv_name = dir_name + "/data.csv"
+    print(csv_name)
     with open(csv_name, mode="w") as f:
         writer = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
         writer.writerow(["State", "City/County", "Ordinance", "Site"])
