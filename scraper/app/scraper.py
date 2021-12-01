@@ -6,6 +6,7 @@ import time
 import html
 from parse import *
 from compile import *
+from pathlib import Path
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -18,7 +19,7 @@ from selenium.common.exceptions import TimeoutException
 def create_csv():
     global csv_name
     global dir_name
-    dir_name = r"%s" % os.path.dirname(__file__)
+    dir_name = r"%s" % os.path.abspath(os.getcwd())
     csv_name = dir_name + "/data.csv"
     with open(csv_name, mode="w") as f:
         writer = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -34,7 +35,7 @@ def write_entry(info):
 
 class Scraper:
     def make_driver(self):
-        driver_path = dir_name + r"/chromedriver"
+        driver_path = dir_name + r"/app/chromedriver"
         options = webdriver.ChromeOptions()
         self.driver = webdriver.Chrome(options=options, executable_path=driver_path)
     def general_code(self):
