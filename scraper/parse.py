@@ -16,6 +16,15 @@ initials = [["AL", "Alabama"], ["AK", "Alaska"], ["AZ", "Arizona"], ["CA", "Cali
             ["WY", "Wyoming"]]
 
 def parse(csv_name):
+    def bubblesort(arr):
+        def swap(arr, x, y):
+            temp = arr[x]
+            arr[x] = arr[y]
+            arr[y] = temp
+        for i in range(len(arr)):
+            for j in range(len(arr) - 1, i, -1):   
+                if arr[j][1] < arr[j - 1][1]:
+                    swap(arr, j, j - 1)
     with open(csv_name, "r") as f:
         entries = f.readlines()
     for i in range(0, len(entries)):
@@ -32,11 +41,11 @@ def parse(csv_name):
                         collection.append([state[0], entry[1], entry[2], entry[3]])
                     except IndexError:
                         print(entry)
-            sorted(collection, key=lambda x : x[1])
+            bubblesort(collection)
             for entry in collection:
                 count += 1
                 writer.writerow(entry)
-    print(str(count) + '/' + str(len(entries)) + ' entries parsed')
+        print(str(count) + '/' + str(len(entries)) + ' entries parsed')
 
 if __name__ == '__main__':
     target = input("File you'd like to parse: ")
