@@ -1,5 +1,6 @@
 import csv
 import html
+import os
 from prettytable import PrettyTable
 
 def make_html(csv_name):
@@ -14,7 +15,9 @@ def make_html(csv_name):
         table.add_row([row[0], row[1], url, row[3]])
     code = table.get_html_string(format=True)
     code = html.unescape(code)
-    html_file = open('index.html', 'w')
+    file_name = r"%s" % os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/index.html'
+    print(file_name)
+    html_file = open(file_name, 'w')
     html_file = html_file.write(code)
 
 if __name__ == '__main__':
