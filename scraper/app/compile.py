@@ -16,7 +16,6 @@ def make_html(csv_name):
     code = table.get_html_string(format=True)
     code = html.unescape(code)
     file_name = r"%s" % os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/index.html'
-    print(file_name)
     html_file = open(file_name, 'w')
     html_file = html_file.write(code)
 
