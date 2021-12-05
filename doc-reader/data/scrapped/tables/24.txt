@@ -1,0 +1,183 @@
+historic districts
+https://ecode360.com/8186733
+0.4384344523147688
+ | 241 | 1-27, inclusive | 
+ | 241 | 34-53, inclusive | 
+ | 241 | 55 | 
+ | 241 | 72-76, inclusive | 
+ | 241 | 79-87, inclusive | 
+ | 241 | 93, except that portion thereof used for commercial
+purposes | 
+ | 241 | 94-151 | 
+ | 241 | 156-157 | 
+ | 241 | 165-168, inclusive | 
+ | 241 | 186-201, inclusive | 
+ | 241 | 201A-202A | 
+ | 241 | 202-205, inclusive | 
+ | 241 | 210-213, inclusive | 
+ | 241 | 214, that portion fronting on Pequot Avenue
+to a depth of 200 feet | 
+ | 231 | 418-427, inclusive | 
+ | 231 | 441 | 
+ | 231 | 453-455, inclusive | 
+
+
+noise
+https://ecode360.com/8187249
+0.3409771381419084
+Weekday Schedule: | 
+10:00 p.m. Sunday through 7:00 a.m. on Monday | 
+10:00 p.m. Monday through 7:00 a.m. on Tuesday | 
+10:00 p.m. Tuesday through 7:00 a.m. on Wednesday | 
+10:00 p.m. Wednesday through 7:00 a.m. on Thursday | 
+10:00 p.m. Thursday through 7:00 a.m. on Friday | 
+Weekend Schedule: | 
+11:00 p.m. Friday through 8:00 a.m. on Saturday | 
+11:00 p.m. Saturday through 8:00 a.m. on Sunday | 
+
+
+buildings  demolition of
+https://ecode360.com/8187183
+0.32552527985437785
+ | A permit for demolition of this structure may
+be issued [insert number of days specified in the written notification
+from the Building Official] days after the posting of this sign and
+no earlier than [insert date specified by the written notification
+from the Building Official]. | 
+
+
+disorderly conduct
+https://ecode360.com/8187200
+0.2420089804756521
+that your/their actions were in violation of Connecticut General Statutes Section 53a-181, 53a-181a or 53a-182 and that if, within three years of the above date of this notice and warning, you/persons are found by a law enforcement officer to be in violation of such sections and arrested or given a citation for further such acts at or arising from the location set forth above, and a disposition designated in Town Code § 61-1A thereafter results, you may be required to pay the reasonable costs of police response, notice and warning processing, arrest, processing, court-related costs and any related costs necessarily incurred by the Town of Fairfield both for the first appearance at the location which resulted in the issuance of this notice and warning and for law enforcement officers' return to the location/your property which led to such arrest or citation and any disposition set forth in § 61-1A. | 
+Notwithstanding the foregoing, if the owner of the property
+at the time of the subsequent violation did not own the property at
+the time of the issuance of the initial notice and warning, the owner
+shall not be liable for the charges set forth above and the subsequent
+violation shall be deemed the initial notice and warning as to the
+current owner. | 
+
+
+disorderly conduct
+https://ecode360.com/8187200
+0.2335765065722119
+you, or, persons on such property owned by you, were warned
+or cited by | 
+(name of enforcement officer) | 
+
+
+dl      disposition list
+https://ecode360.com/8187676
+0.21900113251070574
+9-23-2019 | Historic Districts Amendment | Ch. 26 | 30.1 | 
+2-24-2020 | Taxation: Tax Relief for Elderly and Disabled Homeowners Amendment | Ch. 95, Art. III | 30.1 | 
+
+
+transient merchants
+https://ecode360.com/8187538
+0.17667989355879596
+ | License No: .............................................................. | 
+ | Date of Issue: .............................................................. | 
+ | Date of Expiration: .............................................................. | 
+ | Police Department, Fairfield, Connecticut | 
+
+
+historic districts
+https://ecode360.com/8186733
+0.1665062400566038
+ | 171 | 28-32, inclusive | 
+ | 173 | 17-19, inclusive | 
+ | 173 | 28, 29 | 
+ | 173 | 35-37, inclusive | 
+ | 173 | 43, 44 | 
+ | 173 | 54-56, inclusive | 
+ | 173 | 60-85, inclusive | 
+ | 223 | 1, 10, 11 | 
+
+
+historic districts
+https://ecode360.com/8186733
+0.11317290672327043
+ | 241 | 181 | 
+ | 241 | 221-226, inclusive | 
+ | 243 | 25-27, inclusive | 
+ | 243 | 39-41, inclusive | 
+
+
+noise
+https://ecode360.com/8187249
+0.09957363844019146
+ | Industrial | 70 dBA | 66 dBA | 51 dBA | 
+ | Business | 62 dBA | 62 dBA | 45 dBA | 
+ | Residential | 62 dBA | 55 dBA | 45 dBA | 
+
+
+dl      disposition list
+https://ecode360.com/8187676
+-0.12642104554580724
+7-26-1999 | Historic districts amendment | Ch. 26 | 
+7-26-1999 | Historic properties | NCM | 
+7-26-1999 | Unfit properties and structures amendment | Ch. 100 | 
+9-27-1999 | Streets and sidewalks amendment | Ch. 91 | 
+10-25-1999 | Real property management amendment | Ch. 35 | 
+10-25-1999 | Tax relief for elderly amendment | Ch. 95, Art. III | 
+9-25-2000 | Disorderly conduct: recovery of costs for repeat
+violations | Superseded 3-25-2019 | 
+4-23-2001 | Town Facilities Commission amendment | Ch. 39A | 
+12-16-2002 | Tax relief for elderly and disabled homeowners
+amendment | Ch. 95, Art. III | 
+2-24-2003 | Board of Assessment Appeals | Ch. 8 | 
+3-24-2003 | Elections amendment (district boundaries) | Ch. 19 | 
+1-26-2004 | Delinquent motor vehicles taxes | Ch. 95, Art. V | 
+9-27-2004 | Blight prevention | Ch. 51 | 
+9-27-2004 | Citations hearings | Ch. 11 | 
+10-25-2004 | Ethics | Ch. 21 | 
+12-20-2004 | Tax relief for elderly and disabled homeowners
+amendment | Ch. 95, Art. III | 
+11-7-2006 | Charter amendments | Charter | 
+12-18-2006 | Tax relief for elderly and disabled homeowners
+amendment | Ch. 95, Art. III | 
+2-26-2007 | Eminent domain | Ch. 20 | 
+2-26-2007 | Blight prevention amendment | Ch. 51 | 
+4-23-2007 | Affordable Housing Committee | Ch. 6 | 
+9-24-2007 | Waiting period before demolition of buildings | Ch. 57, Art. I | 
+9-24-2007 | Rules for regulation of proceedings of Representative
+Town Meeting | Ch. A115 | 
+10-22-2007 | Historic Districts amendment | Ch. 26 | 
+4-28-2008 | Harbor management amendment | Ch. 24 | 
+6-23-2008 | Other Post-Employment Benefits Trust | Ch. 37, Art. II | 
+9-22-2008 | Demolition of buildings: demolition permit waiting
+period amendment | Ch. 57, Art. I | 
+11-24-2008 | Tax relief for elderly and disabled homeowners
+amendment | Ch. 95, Art. III | 
+11-24-2008 | Harbor management amendment | Ch. 24 | 
+3-23-2009 | Blight prevention amendment | Ch. 51 | 
+6-22-2009 | Other post-employment benefits trust amendment | Ch. 37, Art. II | 
+9-21-2009 | Joint Retirement Investment Board | Ch. 37, Art. III | 
+3-22-2010 | Regional organizations: Greater Bridgeport Regional Council
+of Elected Officials | Ch. 36, Art. I | 
+5-24-2010 | Tax bills amendment | Ch. 95, Art. IV | 
+7-26-2010 | Taxation: solar energy exemptions | Ch. 95, Art. II | 
+11-22-2010 | Tax relief for elderly and disabled homeowners amendment | Ch. 95, Art. III | 
+5-23-2011 | Recycling and solid waste: recycling program amendment | Ch. 84, Art. III | 
+8-31-2011 | Municipal union labor contracts | Ch. 12, Art. I | 
+1-28-2013 | Tax relief for elderly and disabled homeowners amendment | Ch. 95, Art. III | 
+9-23-2013 | Tax relief for elderly and disabled homeowners amendment | Ch. 95, Art. III | 
+5-19-2014 | Blight prevention amendment | Ch. 51 | 
+2-3-2015 | Elections amendment | Ch. 19 | 
+2-3-2015 | FairTV | Ch. 22 | 
+2-23-2015 | Tax relief for elderly and disabled homeowners amendment | Ch. 95, Art. III | 
+10-26-2015 | Retirement system: establishment and administration of system
+amendment; retirement savings plans other than retirement system | Ch. 37, Art. I; Ch. 37, Art IV | 
+10-26-2015 | Transient merchants amendment | Ch. 99 | 
+9-25-2017 | Noise Amendment | Ch. 78 | 
+10-23-2017 | Animals: Dog Waste Removal Amendment | Ch. 48, Art. I | 
+3-26-2018 | Affordable Housing Trust Fund | Ch. 7 | 
+5-29-2018 | Tax Abatement for Low- or Moderate-Income Housing | Ch. 95, Art. I | 
+5-29-2018 | Tax Relief for Elderly and Disabled Homeowners Amendment | Ch. 95, Art. III | 
+6-25-2018 | Firearms: Safe Discharge of Firearms | Ch. 63, Art. I | 
+1-28-2019 | Alarms Amendment | Ch. 45 | 
+3-25-2019 | Disorderly Conduct: Recovery of Costs for Violations | Ch. 61, Art. I | 
+5-28-2019 | Recycling and Solid Waste: Reusable Checkout Bags | Ch. 84, Art. IV | 
+
+

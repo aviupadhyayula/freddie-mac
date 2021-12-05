@@ -1,0 +1,149 @@
+health department permits and fees
+https://ecode360.com/8894303
+0.546960101133137
+Soils test - new lot | $100 | 
+Soils test - repair | $75 | 
+Site plan review - new | $100 | 
+Site plan review - repair | $50 | 
+Site plan review greater than 2,000 gallons per day | $100 | 
+Each revised site plan after one free revision | $150/lot | 
+Subdivision, multi-lot plan review - subsurface sewage disposal | $50/lot | 
+Each revised subdivision, multi-lot plan after one free revision
+- subsurface system | $75/lot | 
+Subdivision plan review - municipal sewered sites | $10/lot | 
+Each revised site plan after one free revision - municipal sewer | $10/lot | 
+Septic permit - new lot | $125 | 
+Septic permit - repair | $75 | 
+Septic permit greater than 2,000 gallons per day | $150 | 
+Septic permit greater than 2,000 gallons per day, repair | $150 | 
+Well permit | $60 | 
+Mortgage/Bank inspections | $25 | 
+
+
+iii      zoning and planning fees
+https://ecode360.com/8894243
+0.477071087281034
+ | *Note: The public hearing fee will be charged
+for any subdivision wherein the density factor yields 10 or more lots. | 
+
+
+iii      zoning and planning fees
+https://ecode360.com/8894243
+0.4428799631873729
+8.5" x 11" Site Map with USGS Topography | $1.00 | 
+8.5" x 11" Site Map with Orthophotography | $3.00 | 
+11" x 17" Site Map with USGS Topography | $3.00 | 
+11" x 17" Site Map with Orthophotography | $5.00 | 
+24" x 36" Site Map with USGS Topography | $25.00 | 
+24" x 36" Site Map with Orthophotography | $30.00 | 
+36" x 42" Site Map with USGS Topography | $27.00 | 
+36" x 42" Site Map with Orthophotography | $32.00 | 
+24" x 36" Town-wide USGS Topography Map | $30.00 | 
+24" x 36" Town-wide Orthophotography Map | $30.00 | 
+36" x 42" Town-wide USGS Topography Map | $35.00 | 
+36" x 42" Town-wide Orthophotography Map | $35.00 | 
+11" x 17" Zoning Map | $5.00 | 
+24" x 36" Zoning Map | $25.00 | 
+36" x 42" Zoning Map | $30.00 | 
+11" x 17" Wetlands Map | $ 5.00 | 
+24" x 36" Wetlands Map | $25.00 | 
+36" x 42" Wetlands Map | $30.00 | 
+11" x 17" Open Space Map | $5.00 | 
+24" x 36" Open Space Map | $25.00 | 
+36" x 42" Open Space Map | $30.00 | 
+
+
+viii      exemption for volunteer fire department
+https://ecode360.com/8894699
+0.4234469620406206
+Each full year of service | 3 | 
+Each emergency call attended (as a volunteer) | 1 | 
+Each "pre-approved" training session | 1* (50 maximum) | 
+Each "pre-approved" special work/activity completed | 1** (25 maximum) | 
+Each meeting attended (includes regular and special company
+meetings, committee meetings, board meetings, Department staff, and
+officer meetings) | 1 | 
+Each volunteer shift a CHVFD member volunteers for and works
+(includes ambulance, EMT, fire, and duty officer) | 3 | 
+Each CHVFD member who maintains the minimum certification in
+more than one of the following three divisions
+EMS Division (EMR and ambulance driver, EMT, or
+paramedic
+Fire Division (Firefighter One or greater)
+Fire Police Division (state certification) | 25 | 
+
+
+viii      exemption for volunteer fire department
+https://ecode360.com/8894699
+0.3353568166765294
+NOTES: | 
+* An annual maximum of 50 points may be earned in any one calendar
+year | 
+**An annual maximum of 25 points may be earned in any one calendar
+year | 
+
+
+dl      disposition list
+https://ecode360.com/8894782
+0.15327204702742073
+STM | 9-30-2020 | Taxation: Exemption for Volunteer Fire Department | Ch. 129, Art. VIII | 22 | 
+
+
+dl      disposition list
+https://ecode360.com/8894782
+-0.010657248390121554
+Board of Selectmen | 9-14-2000 | Inland wetland and watercourse application fees | Ch. 56, Art. II | 
+STM | 11-9-2000 | Tax exemption for ambulance-type and modified
+handicap-accessible vehicles amendment | Ch. 129, Art. IV | 
+STM | 12-14-2000 | Open burning | Ch. 91 | 
+STM | 1-11-2001 | Health Department permits and fees | Ch. 72 | 
+STM | 3-8-2001 | Tax exemption for Volunteer Fire Department | Ch. 129, Art. VIII | 
+STM | 4-12-2001 | Fiscal Year repealer | Ch. 60 | 
+STM | 4-12-2001 | Adoption of Code | Ch. 1, Art. I | 
+STM | 8-9-2001 | Delinquent motor vehicle taxes | Ch. 129, Art. IX | 
+STM | 8-9-2001 | Building construction: disposition of building
+application upon delinquent taxes | Ch. 24, Art. IV | 
+STM | 2-7-2002 | Additional fees for processing land use applications | Ch. 56, Art. I | 
+STM | 5-6-2003 | Fair Rent Commission amendment | Ch. 18 | 
+STM | 5-6-2003 | Delinquent motor vehicle taxes amendment | Ch. 129 | 
+STM | 5-6-2003 | Zoning and Planning Commission amendment | Ch. 18 | 
+STM | 6-5-2003 | Open Space Preservation Fund | Ch. 92 | 
+STM | 12-18-2003 | Commission on Aging | Ch. 18, Art. V | 
+STM | 4-1-2004 | Additional veterans tax exemption | Ch. 129, Art X | 
+STM | 5-6-2004 | Peddling and soliciting amendment | Ch. 98 | 
+Board of Selectmen | 6-17-2004 | Zoning and Planning fees amendment | Ch. 56, Art. III | 
+STM | 11-18-2004 | Conservation Commission amendment | Ch. 39 | 
+STM | 1-20-2005 | Aquifer Protection Agency | Ch. 18, Art. XI | 
+STM | 6-16-2005 | Commission on Aging amendment | Ch. 18, Art. V | 
+STM | 1-19-2006 | Sewer and Water Commission amendment | Ch. 18, Art. X | 
+STM | 5-18-2006 | Retirement Board | Ch. 18, Art. XII | 
+STM | 10-19-2006 | Open Space Advisory Committee | Ch. 18, Art. XIII | 
+ | 11-7-2006 | Charter | §§ C-101 through C-1511 | 
+STM | 12-7-2006 | Building permit fees amendment | Ch. 24, Art. III | 
+STM | 12-20-2007 | Retention of tax overpayments | Ch. 129, Art. XI | 
+STM | 6-19-2008 | Tax relief for elderly or permanently and totally
+disabled | Ch. 129, Art. VI | 
+Board of Selectmen | 3-19-2009 | Health Department permits and fees amendment | Ch. 72 | 
+Board of Selectmen | 4-16-2009 | Building permit fees amendment; fee structure for inland wetland
+and watercourses application amendment; zoning and planning fees amendment | Ch. 24, Art. III; Ch. 56, Arts. II and III | 
+STM | 10-15-2009 | Dogs at large | Ch. 10, Art. I | 
+STM | 10-15-2009 | Right to farm | Ch. 55, Art. I | 
+Board of Selectmen | 1-6-2011 | Fee structure for inland wetland and watercourses applications
+amendment | Ch. 56, Art. II | 
+STM | 6-29-2011 | Agriculture Commission | Ch. 18, Art. XIV | 
+STM | 6-29-2011 | Fire hydrants | Ch. 57 | 
+STM | 6-29-2011 | Rapid access systems | Ch. 103 | 
+STM | 6-29-2011 | Alarm systems | Ch. 6 | 
+STM | 10-18-2012 | Alcoholic beverages: hours of sale amendment | Ch. 7, Art. I | 
+STM | 10-18-2012 | Open Space Advisory Committee amendment | Ch. 18, Art. XIII | 
+STM | 10-2-2014 | Taxation: Exemption for Horses and Ponies | Ch. 129, Art. XII | 
+STM | 10-16-2014 | Economic Development Commission amendment; Commission on Aging
+amendment | Ch. 18, Arts. II and V | 
+Board of Selectmen | 12-9-2016 | Blighted premises | Ch. 16 | 
+Board of Selectmen | 6-1-2017 | Boards, committees and commissions: Parks and Recreation Commission
+amendment | Ch. 18, Art. III | 
+Board of Selectmen | 10-19-2017 | Boards, committees and commissions: Sewer and Water Commission:
+establishment; powers and duties | Ch. 18, Art. XV | 
+Referendum | 11-7-2017 | Charter | §§ C-101 through C-1511 | 
+
+

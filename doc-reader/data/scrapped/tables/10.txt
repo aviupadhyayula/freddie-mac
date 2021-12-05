@@ -1,0 +1,1288 @@
+a         town meeting rules
+https://ecode360.com/8893608
+0.6094119986379457
+ | 1 | Board of Finance | 
+ | 2 | Branford Cable Television | 
+ | 3 | Capital Projects that require Bonding | 
+ | 4 | Contingency | 
+ | 5 | Employee Group Insurance | 
+ | 6 | Fiscal Services | 
+ | 7 | Interest Debt Service | 
+ | 8 | Municipal Insurance | 
+ | 9 | Parker Memorial Park | 
+ | 10 | Parks and Open Space | 
+ | 11 | Pensions and Contributions | 
+ | 12 | Principal Debt Service | 
+ | 13 | Public Celebration | 
+ | 14 | Recreation Department | 
+ | 15 | Sewer Assessment | 
+ | 16 | Water Assessment | 
+
+
+a         town meeting rules
+https://ecode360.com/8893608
+0.59648306294829
+ | 1 | Assessor | 
+ | 2 | Board of Assessment Appeals | 
+ | 3 | Elderly Services | 
+ | 4 | East Shore District Health Department | 
+ | 5 | Elections | 
+ | 6 | Executive | 
+ | 7 | Human Resources and Labor Relations | 
+ | 8 | Human Services | 
+ | 9 | Information Technology | 
+ | 10 | Legal Services | 
+ | 11 | Legislative | 
+ | 12 | Probate Court | 
+ | 13 | Tax Collector | 
+ | 14 | Town Clerk | 
+
+
+a         town meeting rules
+https://ecode360.com/8893608
+0.5431181358923761
+ | 1 | Building Inspection and Enforcement | 
+ | 2 | Conservation and Environment | 
+ | 3 | Economic Development | 
+ | 4 | Inland Wetlands and Natural Resources | 
+ | 5 | Planning and Zoning | 
+ | 6 | Shellfish Commission | 
+ | 7 | Water Pollution Control Authority | 
+ | 8 | Zoning Board of Appeals | 
+
+
+a         town meeting rules
+https://ecode360.com/8893608
+0.5309174494584052
+ | 1 | Animal Control | 
+ | 2 | Docks and Recreation | 
+ | 3 | Engineering | 
+ | 4 | Fire Services | 
+ | 5 | Municipal Buildings | 
+ | 6 | Police Services | 
+ | 7 | Police Service Special Detail | 
+ | 8 | Public Works | 
+ | 9 | Solid Waste Management and Recycling | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.47061522860818605
+AN ACT CONCERNING THE ESTABLISHMENT OF
+A POLICE RETIREMENT FUND IN THE TOWN OF BRANFORD. | 
+SECTION 1 — The
+Town of Branford is authorized to establish a police retirement fund.
+The board of police commissioners and the first selectman of said
+town shall be ex-officio[1] trustees of said fund. Said board shall have power to
+make such rules and regulations as may be necessary for the administration
+of said fund, and shall appoint a clerk of said fund and define his
+duties and supervise, by and with the advice of the board of finance
+of said town, the investment and reinvestment of said fund in such
+investments and in the same manner as funds held in trust funds may
+be invested. | 
+SECTION 2 — Regular
+members of the department shall be eligible to participate in this
+fund but supernumeraries, school guards and auxiliary police are not
+to be considered regular members and are not eligible to participate
+in this fund nor receive any benefits from it except as provided in
+section 8 herein. | 
+SECTION 3 — Each
+regular member of the police department of the Town of Branford upon
+the effective date of this act shall become a participating member
+of said retirement fund unless on or before thirty days after this
+act shall become effective, he sends a written notice to the police
+commissioners of said town stating he does not desire to become a
+member. The years of service of those who are regular members of the
+department upon the effective date of this act shall count for retirement,
+but after the effective date, only years of service while participating
+in the fund shall be counted toward retirement. | 
+SECTION 4 — Said
+fund shall consist of all bequests or donations made to the police
+department of said town or to the trustees of said fund; all moneys
+or property presented to any participating regular member of said
+department because of special or meritorious services, except such
+as by vote of said board may be retained by such participating regular
+member; quarterly or monthly assessments upon the salaries of any
+such participating regular member not to exceed five percent per annum,
+as the trustees shall determine; such sums of money as are appropriated
+by the board of finance of said town for said fund; money realized
+from the sale of lost, abandoned, or forfeited property in the hands
+of the police department and any unclaimed money remaining in the
+hands of such department for a period of one year or more, the owner
+of which is unknown, and which property does not by law escheat to
+the state. | 
+SECTION 5 — The
+treasurer of the Town of Branford shall be treasurer of said fund.
+He shall receive, disburse, invest or reinvest said funds as the trustees,
+by and with the advice of the board of finance, direct. Said treasurer
+shall, annually, on or before the second Monday of October, make a
+report to said board of the account of said fund in his hands and
+the manner in which the same is invested, with a statement of the
+receipts and disbursements for the year preceding the first day of
+September, and said report shall be published by the selectmen in
+the annual report Said treasurer shall give such bond for the security
+of said fund and for the faithful performance of his duty as the trustees
+shall require. | 
+SECTION 6. | 
+a.  When any participating
+regular member of the police department of said town has served for
+a period of twenty-five years or more as a regular member of said
+police department and shall have attained the age of fifty-five years,
+he shall, upon his request in writing, be retired by the board of
+police commissioners and, when he is so retired, the trustees of the
+police retirement fund shall thereupon pay to such member, during
+his life, a sum equal to one-half of his annual salary at the time
+of his retirement, or one-half of the highest annual salary earned
+by said participating regular member during the five years next preceding
+the time of his retirement, whichever sum is greater, in monthly instalments;[2] provided no such participating regular member so retired
+shall receive less than two thousand dollars per annum. In addition
+thereto any such participating regular member of the police department
+who has served more than twenty-five years in the police department
+shall receive an additional two percent of his basic salary at the
+time of his retirement for each year over and above said twenty-five
+years of service, but in no event shall his pension exceed two-thirds
+of his basic salary at the time of his retirement. Social security
+benefits being received by the participating regular member shall
+first be credited against the total pension due. | 
+b.  When any participating
+regular member of the police department of the Town of Branford shall,
+in the regular performance of police duty and without wilful cause
+or wanton misconduct on his part, have become totally and permanently
+incapacitated for further police duty, the board of police commissioners
+shall cause such participating regular member of the police department
+to be examined by three reputable physicians, one to be selected by
+such member, one to be selected by the board of police commissioners
+and the third to be chosen by two physicians selected as hereinbefore
+set forth; and, if at least two of such physicians shall certify,
+in writing, that such participating regular member of the police department
+so examined is so incapacitated for further police duty, said board
+of police commissioners shall place such participating regular member
+of the police department on the retirement list, and the trustees
+of the police retirement fund shall thereupon pay to such participating
+regular member of the police department so retired, during his life,
+while so incapacitated a sum equal to one-half of his annual salary
+at the time of his retirement, or one-half of the highest annual salary
+earned by said member during the five years next preceding the time
+of his retirement, whichever sum is greater, in monthly installments;
+provided no such member so retired shall receive less than two thousand
+dollars per annum. In addition thereto any such participating regular
+member who has served more than twenty-five years in the police department
+shall receive an additional two percent of his basic salary at the
+time of his retirement for each year over and above said twenty-five
+years of service, but in no event shall his pension exceed two-thirds
+of his basic salary at the time of his retirement. The board of police
+commissioners may from time to time cause such member to be reexamined
+in the same manner as provided herein for the original examination,
+and so long as the physicians continue to certify that such member
+remains totally and permanently incapacitated for police duty, said
+payments shall continue. Social security benefits, and any compensation
+under the provisions of the general statutes as amended relating to
+workmen's compensation, if being received by the participating member
+shall first be credited against the total pension due. | 
+c.  When any participating
+regular member of the police department attains sixty-five years of
+age, the board of police commissioners shall place such participating
+regular member of the police department on the retirement list, and
+the trustees of the police retirement fund shall thereupon pay to
+such participating regular member of the police department so retired,
+during his life, a sum equal to one-half of his annual salary at the
+time of his retirement, or one-half of the highest annual salary earned
+by said participating regular member during the five years next preceding
+the time of his retirement, whichever sum is greater, in monthly installments;
+provided no such member so retired shall receive less than two thousand
+dollars per annum. In addition thereto any such member who has served
+more than twenty-five years in the police department shall receive
+an additional two percent of his basic salary at the time of his retirement
+for each year over and above the said twenty-five years of service,
+but in no event shall his pension exceed two-thirds of his basic salary
+at the time of his retirement. Social security benefits, if being
+received by the participating regular member, shall first be credited
+against the total pension due. | 
+SECTION 7 — The
+board of finance of said town shall, when making up recommendations
+for appropriations for the various departments of said town for each
+year, appropriate such sum or sums as are needed to carry out the
+purposes of this act. The selectmen of said town are authorized, on
+or before the first day of November in each year, to pay to the treasurer
+of the police retirement fund, the money so appropriated by said board
+of finance. | 
+SECTION 8 — The
+widow of any participating member, who is in active service at the
+time of his death, and qualified to receive benefits under section
+6 of this act, at the time of his death, shall receive, until her
+death or remarriage, a monthly sum equal to one-half of the monthly
+pension for which such member had qualified, but if such member was
+retired, the widow shall receive a monthly sum equal to one-half of
+the monthly pension being received by such member at the time of his
+death. There shall be paid to the widow of a participating regular
+member who has not qualified for pension benefits and to the widow
+or widower of supernumeraries and school guards hired by the Town,
+who shall have been killed while in the actual performance of duty
+or shall have died from the proximate effects of any injury sustained
+while in the actual discharge of such duty, irrespective of the length
+of service of such member at the time of his death or failure to participate
+in said fund, a monthly sum equal to one-fourth of the monthly salary
+being earned by said member at the time of his or her death. In any
+of the above cases, upon the death of such widow or widower before
+or after remarriage, leaving a child or children of such deceased
+member, under the age of eighteen years, the board of police commissioners,
+by a majority vote, may cause to be paid monthly, to the legally appointed
+guardian of such child or children for his or their use and benefit,
+a sum or sums not exceeding in the aggregate the amount hereinbefore
+provided to be received by such widow or widower, and may, from time
+to time, apportion such sums between or among such children as it
+may deem best provided, as each such child arrives at the age of eighteen
+years, the payments to such child shall cease. Any compensation under
+the provisions of the general statutes relating to workmen's compensation
+and any social security benefits being received by such widow, widower
+or children shall first be credited against the total pension due
+said widow, widower or children. As used in this section, the term
+"widow," in reference to a participating regular member, shall mean
+the surviving wife of such member who was living with him at the time
+of his death or, if not so living with him, was absent by reason of
+his fault, and who, if such member was retired was married to him
+prior to his retirement and the term "widow or widower," in reference
+to a supernumerary or school guard shall mean the surviving spouse
+of such supernumerary or guard who was living with him or her at the
+time of his or her death or, if not so living with him or her, was
+absent by reason of his or her fault. The term "child or children,"
+as used in this section, shall be limited in its meaning to the child
+or children born, either before or after the death of such participating
+regular member, supernumerary or guard to such member, supernumerary
+or guard and his or her spouse, provided if any such participating
+regular member was retired, such wife shall have been married to him
+prior to his retirement from such department. | 
+SECTION 9 — All
+pensions herein provided for shall be based on the salaries being
+paid at the time of retirement, and in the event of an increase in
+the salaries of the positions covered by this act, all pensions then
+being paid thereunder shall be increased to the amount that said pensions
+would have been had said increase been in effect at the time of his
+retirement. | 
+SECTION 10 — Upon
+termination of the services of a participating regular member for
+any cause before qualifying for any retirement benefit, such member's
+contributions to the pension fund with interest thereon at the rate
+to be determined by the trustees to the date of termination shall
+be returned to the member or his designated beneficiary or estate. | 
+SECTION 11 — The
+board may enter into a contract with any insurance company authorized
+to transact business in Connecticut to insure the entire police retirement
+system or such portion thereof as the board shall deem advisable;
+provided any such contract, before actually being consummated, shall
+be approved by a majority vote of the board of selectmen. All premiums
+paid to any insurance company under this section shall be paid out
+of the funds received by said board from members and from the Town,
+as hereinbefore provided. | 
+SECTION 12 — The
+right of any person to a pension or to the return of contributions,
+any benefit or right accrued or accruing to any person under the provisions
+of this act, and the cash and securities held under this act, shall
+be exempt from any state or municipal tax, and exempt from levy and
+sale, garnishment, attachment or any other process, and shall be unassignable. | 
+SECTION 13 — The
+provisions of this act may be amended at any time by the Town of Branford
+at a town meeting specially called for that purpose, provided such
+amendment shall be in accordance with requirements and procedure established
+by the general statutes concerning local action on charters and special
+acts, as the same may be from time to time amended, but such amendment
+shall not adversely affect the rights of those members who, at the
+date of adoption thereof, had already retired, reached their normal
+retirement date or were entitled to pension benefits hereunder for
+retirement by reason of accidental disability nor to those persons
+described in section 8 of this act who were entitled to benefits hereunder.
+In the event of amendment, the rights of participating regular members
+who have not retired or reached their normal or accidental disability
+retirement date shall be as provided by this act as amended. | 
+SECTION 14 — This
+act shall not take effect unless it is approved by a majority vote
+of the electors and those qualified to vote under section 209d of
+the 1955 supplement to the general statutes, present and voting at
+a referendum called for that purpose by the first selectman on or
+before the first day of August 1957, which referendum shall be conducted
+and the results determined in the manner provided for town elections,
+and if so approved shall become effective on the first day of the
+fiscal year of the Town of Branford next following said referendum. | 
+Approved June 4, 1957.
+Approved: Date of vote, July 30, 1957. Vote
+for, 628. Vote against, 114.
+Vol. 28. Pages 647-653, Special Laws. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.46335945772057063
+AN ACT CREATING A BOARD OF FIRE COMMISSIONERS
+IN THE TOWN OF BRANFORD. | 
+Be it enacted by the Senate and House of Representatives
+in General Assembly convened: | 
+SECTION 1 — There
+shall be a board of fire commissioners in the Town of Branford which
+shall consist of six electors of said town to be appointed by the
+selectmen within one month from the passage of this act. Two of said
+fire commissioners shall serve until February 1, 1926, two until February
+1, 1925, and two until February 1, 1924. In the month of January,
+1924, and annually thereafter, the selectmen shall appoint two fire
+commissioners to serve for the term of three years from February first
+in the year of their respective appointment and until their successors
+are appointed and qualified. The first selectman shall be chairman
+ex-officio[1] of said board and shall vote only in case of a tie. Each
+of said commissioners shall be sworn to the faithful performance of
+his duties and not more than three members of said board shall at
+the same time be members of the same political party. | 
+Said board shall make an annual report to the
+selectmen which shall be published in the annual report of the Town,
+The members of said board shall serve without compensation but the
+necessary expenses of the board, upon approval by a majority of the
+selectmen, shall be paid by the Town. | 
+SECTION 2 — Said
+board of fire commissioners is authorized to organize and maintain
+a fire department, to make all necessary rules and regulations for
+the control of the same and the discipline of the members thereof.
+The control of all apparatus, equipment and buildings owned and used
+by said town for fire purposes shall be under its control and management.
+Said board shall appoint such officers and firemen in said town as
+may be necessary. | 
+SECTION 3 — Any
+person appointed an officer or fireman under the provisions of this
+act shall remain in office until removed for cause, which cause shall
+be only such as affects his efficiency as an officer or a fireman.
+If charges are filed against any officer or fireman, the same shall
+be in writing and such officer or fireman may file any proper answer
+thereto and action shall not be taken upon such charges until after
+reasonable notice thereof and an opportunity afforded such officer
+or fireman to appear before the board and be heard concerning the
+same. | 
+SECTION 4 — Said
+board shall have exclusive jurisdiction of the hydrants used for fire
+purposes and the location of the same and may make suitable ordinances
+for their protection and care. It is authorized to license, regulate
+or prohibit the manufacture, keeping, sale or use of fireworks, torpedoes,
+firecrackers, gunpowder, petroleum, gasoline or any other explosive
+or inflammable substance or the conveyance thereof in or through any
+portion of said town. | 
+SECTION 5 — Before
+passing any regulations concerning the manufacture, keeping, sale
+or use of any article mentioned in section 4 of this act, said board
+shall give to the citizens of said town a reasonable opportunity to
+be heard in reference thereto at a meeting of said board, notice of
+which meeting shall be given by publishing such proposed rules and
+regulations and the time and place of hearing thereon, in some newspaper
+published in said town at least five days before the time of such
+meeting, which meeting may be adjourned from time to time. | 
+SECTION 6 — Any
+person violating any rule or regulation made by said board under the
+provisions of sections 4 and of this act shall be fined not more than
+fifty dollars. | 
+Approved, March 6, 1923.
+Vol. 19 Pages 32-33 Special Laws | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.45202338974859546
+AN ACT CREATING A BOARD OF FINANCE IN
+THE TOWN OF BRANFORD. | 
+Be it enacted by the Senate and House of Representatives
+in General Assembly convened: | 
+SECTION 1 — There
+shall be in the Town of Branford a board of finance consisting of
+six electors of said town who shall hold no other office in said town
+government and who shall be taxpers[1] in said town. Three members of said board shall be appointed
+from each of the two political parties polling, respectively, the
+highest and the next highest number of votes for governor at the last
+state election. The members of the board shall be sworn to the faithful
+performance of their duties and no member shall receive compensation
+for his services, but the necessary expenses of the board shall be
+paid by the Town. | 
+SECTION 2 — The
+present members of the board of finance shall hold office during the
+respective terms for which they are appointed and in July, 1923, and
+in each July thereafter, the selectmen shall appoint two members of
+said board for a term of three years from the first day of August
+next succeeding, one member to be from each of the two political parties
+polling respectively, the highest and the next highest number of votes
+for governor at the last state election. In case of a vacancy in said
+board the selectmen shall forthwith appoint a successor for the remainder
+of the term. The members of said board shall hold office during the
+time for which they are appointed and until their successors are appointed
+and have qualified. | 
+SECTION 3 — The
+first selectman of the Town shall be a member, ex-officio,[2] of said board and shall preside at all meetings at which
+he is present but shall have no vote except in case of a tie. The
+town clerk shall be clerk of the board and shall receive such compensation
+for his services as may be determined by vote of the board. Said clerk
+shall be sworn to the faithful performance of his duties, shall keep
+a record of all meetings of said board, shall attend the adjourned
+annual town meeting and keep a record of all votes passed, and shall
+report to the selectmen and town treasurer all appropriations and
+transfers made in accordance with this act. | 
+SECTION 4 — The
+board may hold such regular and special meetings as may be advisable,
+at any time, on reasonable personal notice to the members thereof
+or on written or printed notice sent to the residence of each member
+at least twenty-four hours before the time of holding such meeting.
+The clerk of the board shall issue a call for a special meeting either
+at the direction of the chairman of the board or upon written request
+of any two members thereof. | 
+SECTION 5 — Not
+less than two weeks before the annual town meeting said board shall
+hold a public meeting, which may adjourn from time to time, at which
+itemized estimates of the expenditures of the Town for the ensuing
+fiscal year shall be presented and shall give notice to each board
+or department of the Town of the time and place of meeting to consider
+the needs of such board or department. After such public hearing,
+the board shall hold an executive session, at which it shall consider
+the estimates so presented and any other matter brought to its attention,
+and shall thereupon prepare an estimate and recommendation of the
+amount of money necessary to be appropriated for the expenses of the
+Town for the ensuing fiscal year. Such estimate shall include the
+amount of revenue to be received during the ensuing year from all
+sources except that of taxes to be raised on the grand list next to
+be completed and such statement shall also contain an itemized list
+of the debts and obligations of the Town. Such estimates shall be
+filed in the Town clerk's office on or before the twentieth day of
+September in each year and shall be included in the printed report
+of the Town. Such estimate, with the recommendation of the finance
+board, shall be submitted in the odd numbered years to the adjourned
+annual town meeting next thereafter to be held on the second Monday
+of October[3] at the usual time and place for holding meetings in said
+town and in the even numbered years to the annual town meeting next
+thereafter to be held on the second Monday of October at the usual
+time and place for holding meetings in said town. Said meeting shall
+take action upon such estimate and recommendation and make such specific
+appropriations as may appear advisable, but no appropriation shall
+be made exceeding the amount recommended for such purpose by said
+board and no appropriation shall be made for any purpose not recommended
+by said board. | 
+(Section 5. As amended, July 26, 1949. Vol.
+25 Page 1179-1180 Special Laws) | 
+SECTION 6 — Immediately
+after the grand list shall have been completed, the board of finance
+shall meet and lay such tax as shall be sufficient, in addition to
+the other estimated yearly income of the Town, to pay the expenses
+of the Town for the current year. | 
+SECTION 7 — If
+the electors of such town shall, at a legal meeting held for such
+purpose, vote to issue or authorize the issue of bonds, the interest
+on such bonds and an annual appropriation for a sinking fund sufficient
+to pay the same at maturity shall be included in the budget as a fixed
+charge. | 
+SECTION 8 — The
+board shall have power to transfer any unexpended balance from one
+appropriation to another, but no amount appropriated for any purpose,
+whether general or special, shall be used or appropriated for any
+other purpose unless the same shall be recommended by said board. | 
+SECTION 9 — If
+a special appropriation shall be required for any purpose, an estimate
+of the same shall be prepared and submitted to said board of finance
+at a special meeting called for that purpose, and said board at such
+meeting, or any adjournment thereof, shall have power to make any
+such appropriation and to lay a special tax to meet the same; but
+no such appropriation shall be made unless a special tax is laid sufficient
+to cover the amount when such appropriation is in excess of the unappropriated
+revenue of said town. Such appropriations and the rate of taxation
+so recommended shall be submitted by the board of selectmen to a special
+town meeting called for that purpose, and said special town meeting
+shall have the power to decrease the appropriations or any item thereof,
+or the rate of taxation recommended by said board of finance, or said
+special town meeting may vote not to make such appropriation or levy
+such special tax, but in no case shall any special town meeting have
+power to increase any special appropriation or any rate of taxation
+recommended by said board of finance. The provisions of this section
+shall not be construed as applying to any appropriation or expenditure
+which is to be met by the proceeds of a bond or note issue, and which
+shall have been recommended by said board of finance and authorized
+by a vote of a town meeting called for that purpose. | 
+(Section 9. As amended, April 27, 1939. Vol.
+23, Page 140 Special Laws.) | 
+SECTION 10 — Except
+as otherwise provided by law, no officer of the Town shall draw any
+order upon the treasurer unless there shall have been appropriated
+sufficient money for the object for which such order is drawn, and
+each order shall designate the object for which and the account upon
+which it is drawn. The town treasurer, unless otherwise provided by
+law, shall not pay any order unless there shall have been sufficient
+funds appropriated for such object. | 
+SECTION 11 — Any
+officer of said town who shall violate any provision of section 10
+of this act shall be subject to the penalties provided in section
+58 of the general statutes. | 
+SECTION 12 — An
+act creating a department of finance in the Town of Branford, approved
+May 14, 1907, as amended by an act approved May 21, 1919, is repealed. | 
+Approved, May 1, 1923.
+Vol. 19 Pages 106-108 Special Laws | 
+AN ACT AMENDING AN ACT CREATING A BOARD
+OF FINANCE IN THE TOWN OF BRANFORD. | 
+Be it enacted by the Senate and House of Representatives
+in General Assembly convened: | 
+The board of finance of the Town of Branford
+shall have charge of the investment and control of all sinking funds,
+amortization funds, deposit funds and all other trust funds which
+shall have been placed in the hands of the Town of Branford for some
+special purpose. Said board shall keep all necessary books and records,
+which shall be open, during business hours, to the inspection of the
+selectmen and town treasurer. The town treasurer shall have the custody
+of all cash, stocks, bonds and other property belonging to any said
+funds and shall keep said funds separate and distinct from all other
+funds and property of the Town of Branford and shall only invest or
+dispose of said funds or any part thereof upon the written order of
+said board. A special report of the condition and investment of each
+of said funds shall be made and published in the annual report of
+the Town of Branford. | 
+Approved, July 13, 1925.
+Vol. 19 Page 882 Special Laws | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.4412153514498747
+AN ACT CREATING A DEPARTMENT OF SOCIAL
+WELFARE IN THE TOWN OF BRANFORD. | 
+Be it enacted by the Senate and House of Representatives
+in General Assembly convened: | 
+SECTION 1 — There
+shall be, in the Town of Branford, a department of social welfare,
+which shall be charged with the care of the poor of said town, matters
+pertaining to public assistance and social welfare; and the powers
+and duties pertaining to the office of selectmen relating to the above
+purposes, except as herein provided, are transferred to said department;
+but the provisions of this act shall not affect the powers and duties
+of the selectmen in respect to the appointment and supervision of
+conservators, guardians and overseers, the commitment of insane persons
+and indigent or imbecile children to proper institutions, the indenture
+of apprentices, the giving of children in adoption, the education
+of children, the collection and return of statistics of the deaf,
+dumb and blind and prosecutions for bastardy. | 
+SECTION 2 — The
+board of selectmen of said town shall appoint a supervisor of the
+department of social welfare who shall be a qualified social worker
+and may dismiss such supervisor for cause. Other necessary personnel
+of the department, not to exceed four members, may be appointed and
+dismissed by the supervisor with the approval of the board of selectmen
+of said town. | 
+SECTION 3 — All
+decisions of matters pertaining to the department shall be made by
+the supervisor and all orders or other commitments shall be made by
+the supervisor or upon the written order of the supervisor, provided
+no action as to a pauper's settlement of this or any other town or
+the liability of this or any other town, for the relief or care of
+a pauper shall be binding upon this town without the written concurrence
+of the board of selectmen. The supervisor shall keep or cause to be
+kept all necessary records and make all reports required of the department,
+and particularly an annual report to be published with the annual
+report of the Town. Said supervisor may make necessary rules and regulations
+for the conduct of the affairs of the department. | 
+SECTION 4 — The
+salary of the supervisor and the salary or other compensation of any
+additional personnel shall be determined in advance by the board of
+finance. | 
+SECTION 5 — Number
+73 of the special acts of 1915 is repealed. | 
+Approved, June 24, 1941.
+Vol. 23, Pages 1097-1098, Special Laws. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.43858031580450485
+AN ACT CONCERNING THE BOARD OF POLICE
+COMMISSIONERS OF THE TOWN OF BRANFORD. | 
+Be it enacted by the Senate and House of Representatives
+in General Assembly convened: | 
+SECTION 1 — The
+board of police commissioners of the Town of Branford shall have,
+within the limits of said town, authority to organize, maintain and
+equip, and shall organize, maintain and equip, a suitable police department
+for said town and shall make all necessary rules and regulations for
+the control of the same and the discipline of the members thereof.
+The control of all apparatus, equipment and buildings owned and used
+by said town for police purposes shall be under its control and management
+Said board shall appoint such officers and policemen in said town
+as may be necessary. Such officers and policemen shall have all the
+authority in criminal matters which town constables have and may perform
+all duties which town constables may perform. Said board shall have
+authority to make such educational and physical tests as it may deem
+necessary. | 
+SECTION 2 — Section
+4 of number 270 of the special acts of 1929 is amended to read as
+follows: The board of police commissioners of the Town of Branford
+shall have jurisdiction within the Town of the parking of motor vehicles
+upon the highways of said town and of such regulations concerning
+traffic by motor vehicles on its highways as are not inconsistent
+with the provisions of the general statutes. | 
+SECTION 3 — Section
+5 of said act is repealed. | 
+SECTION 4 — Section
+6 of said act is amended to read as follows: Any person who shall
+violate any rule or regulation made by said police commissioners under
+the provisions of said act, as amended by section 2 of this act, shall
+be fined not more than fifty dollars. | 
+Approved June 9, 1933.
+Vol. 21, Page 1103 Special Laws | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.43395773299637364
+AN ACT CONCERNING GARBAGE AND REFUSE COLLECTION
+IN THE TOWN OF BRANFORD. | 
+The Town of Branford may, by ordinance, provide
+for the collection of ashes, garbage, rubbish, waste material or other
+refuse matter in said town and may make appropriations for such purpose,
+provided this act is approved by a majority vote of the following: | 
+1. Those eligible to
+vote in meetings in the Borough of Branford. | 
+2. The members of such
+associations within the Town and borough as have power by special
+act to provide for the collection and regulation of the disposal of
+either garbage, ashes, waste material or other refuse. | 
+3. The legal voters of
+any district within the Town or borough organized under chapter 35
+of the general statutes and those voting in town meetings under section
+209d of the 1956 supplement in the Town of Branford, present and voting
+separately at special meetings duly warned and held for such purpose
+within twelve months after the passage of this act. Upon such approval,
+and the enactment of the ordinance for the purposes as provided herein,
+the Town of Branford shall assume the responsibility for the collection
+and disposal of such ashes, garbage, waste material or other refuse
+matter within the limits of said Town of Branford including the Borough
+of Branford and of such associations and districts within said town
+and borough and all rights, powers and duties of said borough and
+of such associations, districts, or of any board, committee or officer,
+employees or agents thereof in regard only as to the purposes of the
+collection and disposal of ashes, garbage, waste material or other
+refuse matter, shall cease and terminate. Any association, district,
+the borough, or the Town having the power to approve this act in the
+manner and as provided herein, not exercising such right of approval
+or reporting approval or disapproval thereof to the Town clerk of
+Branford within said twelve month period after the passage of this
+act, shall be deemed to have approved of the same. | 
+Approved, April 25, 1957.
+Vol. 28, Pages 144-145, Special Laws. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.4297346611804929
+AN ACT CREATING A BOARD OF POLICE COMMISSIONERS
+IN THE TOWN OF BRANFORD. | 
+Be it enacted by the Senate and House of Representatives
+in General Assembly convened: | 
+SECTION 1 — There
+shall be a board of police commissioners in the Town of Branford which
+shall consist of six electors of said town to be appointed by the
+selectmen within one month from the passage of this act. Two of said
+police commissioners shall serve until February 1, 1932, two until
+February 1, 1931, and two until February 1, 1930. In the month of
+January, 1930, and annually thereafter, the selectmen shall appoint
+two police commissioners to serve for the term of three years from
+February first in the year of their respective appointments and until
+their successors shall be appointed and shall have qualified. The
+first selectman shall be chairman, ex-officio,_ of said board and
+shall vote only in case of a tie. Each of said commissioners shall
+be sworn to the faithful performance of his duties and not more than
+three members of said board shall, at the same time, be members of
+the same political party. Said board shall make an annual report to
+the selectmen which shall be published in the annual report of the
+Town. Said board of selectmen shall have power to fill any vacancy
+on said board. The members of said board shall serve without compensation,
+but the necessary expenses of the board, upon approval by a majority
+of the selectmen, shall be paid by the Town. Meetings may be called
+by the chairman of the board or a majority of the members of the board.
+A majority of the members shall constitute a quorum. | 
+SECTION 2 — Said
+board of police commissioners is authorized to organize and maintain
+a police department and make all necessary rules and regulations for
+the control of the same and the discipline of the members thereof.
+The control of all apparatus, equipment and buildings owned and used
+by said town for police purposes shall be under its control and management.
+Said board shall appoint such officers and policemen in said town
+as may be necessary. Such officers and policemen shall have the authority
+and perform all the duties delegated to town constables in criminal
+matters. Said board shall have authority to make such educational
+and physical tests as it may deem necessary. | 
+SECTION 3 — Any
+person appointed an officer or policeman under the provisions of this
+act shall remain in office until removed for cause, which cause shall
+be only such as affects his efficiency as an officer or a patrolman,
+provided any officer may be promoted or demoted by a majority vote
+of the commissioners. If charges shall be filed against any officer
+or policeman, the same shall be in writing and such officer or policeman
+may file any proper answer thereto and action shall not be taken upon
+such charges until after reasonable notice thereof and an opportunity
+afforded such officer or policeman to appear before the board and
+be heard concerning the same. After such hearing, the action of the
+police commissioners shall be final and there shall be no appeal therefrom. | 
+SECTIONS 4, 5 and 6 — See
+amending act approved June 9, 1933. Vol. 21, Page 1103 Special Laws
+(See Sections 2, 3 and 4, pages and .) | 
+SECTION 7 — In
+the event of the arrest of any person upon a criminal charge not punishable
+by imprisonment in state prison, the chief of other officer in charge
+of the office of said department in the Town of Branford may take
+the bonds of the accused to the treasurer of the Town of Branford,
+to an amount not less than fifty dollars with sufficient surety for
+his appearance before the Town court of Branford, to abide the order
+and judgment of said court. When any person shall be arrested, charged
+with a misdemeanor, said chief or other officer in charge may accept
+cash as bail. In case of the forfeiture of such bail, such cash so
+accepted shall be forfeited to the Town of Branford and shall be paid
+to the clerk of the Town court of Branford. | 
+Approved June 3, 1929.
+Vol. 20, Pages 852-853 Special Laws | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.4268163974732892
+[House Bill No. 8993]
+Special Act No. 73-91 | 
+AN ACT PROVIDING FOR A FEASIBILITY STUDY
+OF AN EAST SHORE CAREER EDUCATION CENTER. | 
+Be it enacted by the Senate and House of Representatives
+in General Assembly convened: | 
+(NEW) The state board of education and the Connecticut
+State Advisory Council on Vocational Education shall conduct a feasibility
+study with respect to an East Shore Career Education Center to serve
+the Towns of Branford, East Haven, North Branford and Guilford and
+report the results thereof, with recommendations, to the governor
+and the general assembly on or before February 15, 1974. | 
+Approved June 11, 1973 | 
+
+
+a         town meeting rules
+https://ecode360.com/8893608
+0.42527664621701006
+ | Administrative Services[Amended 1-8-1986] | 7 | 
+ | Public Services | 7 | 
+ | Education | 7 | 
+ | Ways and Means | 5 | 
+ | Rules and Ordinances[Amended 1-8-1986] | 7 | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.42389871751482056
+AN ACT PROVIDING FOR A FIREMEN'S RELIEF
+FUND IN THE TOWN OF BRANFORD AND FOR THE CONTROL OF THE INSTALLATION
+OF OIL BURNERS IN SAID TOWN BY THE BOARD OF FIRE COMMISSIONERS. | 
+Be it enacted by the Senate and House of Representatives
+in General Assembly convened: | 
+SECTION 1 — There
+shall be in the Town of Branford, a fund to be known as the firemen's
+relief fund of the Town of Branford, which shall consist of monies
+received as gifts and donations from other sources and monies which
+may be appropriated to said fund by said town. Said town is authorized
+to make appropriations to said fund, from time to time. | 
+SECTION 2 — The
+board of fire commissioners of said town shall administer said fund
+and make such rules and regulations relating thereto as it shall deem
+advisable. | 
+SECTION 3 — Said
+board of fire commissioners shall have exclusive control of the installation
+of oil burners in the Town of Branford. | 
+Approved, May 24, 1927.
+Vol. 20 Page 425 Special Laws | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.410968333995143
+[House Bill No. 2693.]
+[542.] | 
+AN ACT CONCERNING THE INSTALLATION OF
+A TRAFFIC LIGHT IN BRANFORD. | 
+The state traffic commission shall install a
+traffic light at the intersection of Kirkham and West Main Streets
+in the Town of Branford. | 
+Approved June 29, 1959. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.410104611542645
+[House Bill No. 2369.]
+[258.] | 
+AN ACT TO INCLUDE BRUSHY PLAIN ROAD AND
+CEDAR STREET IN THE TRUNK LINE SYSTEM. | 
+The highway commissioner shall take and maintain
+as part of the trunk line system Brushy Plain road and Cedar street
+in the Town of Branford, provided the governing authority of the Town
+of Branford shall execute an agreement with said highway commissioner
+for maintenance by the Town of those parts of state roads 445 and
+143 which now are state maintained. | 
+Approved June 11, 1959. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.4076036114716827
+AN ACT VALIDATING ACTS AND DEEDS, VALID
+EXCEPT FOR CERTAIN IRREGULARITIES AND OMISSIONS. | 
+SECTIONS 1 — 20 ..... | 
+SECTION 21 — The
+sale or conveyance of any common or undivided land by the selectmen
+of the Town of Branford during the term of their office when there
+was at the time no proprietors' committee of common or undivided lands
+in said town, and otherwise valid except that, at a town meeting of
+said town held after such sale or conveyance, a vote was passed denying
+the validity of such sales or conveyances, and pursuant to said vote
+a notation was entered on the margin of the record of such deeds of
+sale or conveyance in the Town clerk's records of said town, are validated
+and no cloud on the title of any land acquired by such sales or conveyances
+shall exist because of the notation of such vote on the land records
+of said town, provided a certified copy of this section shall be filed
+for record in the office of the Town clerk of said town on or before
+January 1, 1938. | 
+SECTIONS 22 — 24 ..... | 
+Approved, June 9, 1937.
+Vol. 22, Page 849, Special Laws. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.4071500767924149
+[House Bill No. 4483.]
+[290.] | 
+AN ACT CONCERNING CONVEYANCE OF STATE
+LAND TO THE TOWN OF BRANFORD. | 
+The state treasurer is authorized to convey
+to the Town of Branford the following-described land of the state,
+located in said town and required by said town for highway construction
+purposes: Starting at the northwest property corner-pipe of property
+now or formerly of Michael Desi and Montowese Street and proceeding
+Northwesterly straight a distance of 72.04 feet on the east street
+line of Montowese Street. Thence proceeding thirty feet parallel with
+centerline of Pine Orchard Road as shown on map entitled "Pine Orchard
+Road over Branford River" prepared by the office of the Town engineer
+dated December, 1960 to a point a distance of 244.86 feet to the intersection
+of this arc and the southerly property line. Thence proceeding to
+the starting point a distance of 242.38 feet along said southerly
+property line to Montowese Street. | 
+Approved June 14, 1961. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.406111722153749
+[Substitute Senate Bill No. 1120]
+Special Act No. 87-32 | 
+AN ACT EXEMPTING CERTAIN TOWNS FROM REIMBURSING
+THE STATE FOR THE PROVISION OF POTABLE WATER. | 
+Notwithstanding any provision of subsection
+(b) of section 22a-471 of the general statutes, the Towns of Branford,
+East Windsor, Ellington, Enfield, Farmington, Glastonbury, Simsbury,
+Somers and Suffield shall not be required to reimburse the commissioner
+of environmental protection for any funds expended for the construction
+of cost-effective water main extensions or filter systems or (2) the
+long term provision of potable water which are not recovered by said
+commissioner from the parties responsible for contamination of wells
+in said towns with the pesticide EDB or Vorlex. | 
+Approved June 2, 1987 | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.4028153660025412
+[House Bill No. 3823.]
+[281.] | 
+AN ACT AMENDING AN ACT ESTABLISHING THE
+TOWN COURT OF BRANFORD. | 
+SECTION 1. Section 14 of number
+304 of the special acts of 1897 is amended to read as follows: The
+judge of said court shall appoint some reputable citizen residing
+within said town of Branford as clerk of said court. Such clerk shall
+be sworn to the faithful performance of his duties, shall receive
+the files, processes and documents returnable to said court, shall
+make records of all proceedings required to be recorded, shall have
+custody of the files and records of the court, shall make and keep
+dockets of causes therein, shall issue execution in judgments, shall
+collect and receive all fines and forfeitures imposed or ordered by
+the court, including fines paid after commitment, shall pay all fines
+and other sums coming into his hands into the Town treasury, shall
+perform all duties as clerk of the small claims court of Branford
+and shall perform all other duties imposed on him by law. | 
+SEC. 2. Section 17 of number 304
+of the special acts of 1897, as amended by section 2 of number 1 of
+the special acts of 1925, as amended by section 1 of number 329 of
+the special acts of 1947, as amended by section 1 of number 204 of
+the special acts of 1953, is amended to read as follows: The judge
+of said town court shall receive a salary of two thousand five hundred
+dollars per annum. The deputy judge of said town court shall receive
+a salary of two thousand five hundred dollars per annum. The clerk
+of said court shall receive a salary of two thousand five hundred
+dollars per annum. The prosecuting attorney shall receive a salary
+of three thousand dollars per annum and the assistant prosecuting
+attorney shall receive a salary of six hundred dollars per annum.
+The salary and compensation provided in this act shall be in lieu
+of all fees whatsoever for the service of said officers arising from
+their proceedings in said town court and shall be paid monthly from
+the treasury of said town of Branford upon the order of the judge
+of said court. | 
+SEC. 3. This act shall take effect
+July 1, 1959. | 
+Approved June 12, 1959. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.39865962515192777
+[House Bill No. 4304.]
+ [132.] | 
+AN ACT AMENDING THE CHARTER OF THE BRANFORD
+CEMETERY ASSOCIATION, CONCERNING ITS PROPERTY HOLDINGS. | 
+Section 2 of number 196 of the special acts
+of 1923 is amended to read as follows: The Branford Cemetery Association
+is authorized to hold in trust personal property not exceeding the
+sum of five hundred thousand dollars, the income from which shall
+be used for cemetery purposes. | 
+Approved June 2, 1967. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.396728864464459
+AN ACT CONCERNING VOTING DISTRICTS IN
+THE TOWN OF BRANFORD. | 
+SECTION 1 — An
+act dividing the Town of Branford into voting districts, approved
+July 15, 1874, as amended by number 105 of the special acts of 1921
+and number 106 of the special acts of 1923, is repealed, provided
+the voting districts of said town shall remain as constituted prior
+to the passage of this act until the legislative body of said town
+has established voting districts therein in accordance with section
+1052 of the general statutes. | 
+SECTION 2 — At
+the Town election to be held on the first Monday of October, 1953,
+and biennially thereafter, two registrars of voters shall be elected
+for said town. Said registrars shall take office on the first day
+of January next succeeding their election and shall hold office for
+the term of two years and until their successors are duly elected
+and qualified. Said registrars may appoint deputies and assistants
+for each of the voting districts of said town, as provided by the
+general statutes. | 
+Approved, May 19, 1953.
+Vol. 26, Page 893, Special Laws. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.393243908491105
+AN ACT OF CONCERNING THE CONSTRUCTION
+AND MAINTENANCE OF A FLOATING DOCK OR LANDING PLACE IN THE TOWN OF
+BRANFORD. | 
+Be it enacted by the State and House of Representatives
+in General Assembly convened: | 
+The Town of Branford shall construct, maintain,
+and control a floating dock or landing place at or near Frink's dock,
+so-called, in said town, twenty by thirty feet, or two smaller floats,
+as the board of selectmen shall deem necessary, but not of less capacity,
+at such distance from said dock as will enable boats drawing three
+feet of water to come alongside said float at mean low water, and
+shall connect the same with the main shore at the so-called Frink's
+dock by two approaches, with guard rails, and suited to the rise and
+fall of the tide, and shall maintain said float or landing place between
+the first day of June and the first day of October of each year until
+such time as an extension of the dock or dredging shall give three
+feet of water at mean tow water at Frink's dock, so-called. "The selectmen
+of said Town of Branford shall have authority to enact by-laws or
+ordinances concerning the use, policing and control of said floating
+dock and landing place, and may provide a penalty not exceeding twenty
+dollars for violation of the provisions of such by-law or ordinance." | 
+Approved, May 29, 1901.
+Vol. 13, Page 882, Special Laws. (Amended May
+16, 1917, Vol. 17, Pages 1153-1154, Special Laws.) | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.3912928488451731
+ANNEXING A PART OF THE TOWN OF BRANFORD
+TO THE TOWN OF GUILFORD. | 
+Upon the petition of John B. Norton and others,
+praying for the annexation of a part of the Town of Branford to the
+Town of Guilford: | 
+Resolved by this Assembly, That all that part
+of the Town of Branford lying east and south of a line commencing
+at a large cedar tree on the shore of Long Island Sound, a little
+southwest of the house of Nelson T. Crowell; thence, running north
+five degrees west of the magnetic meridian, eighty rods, to a stake
+and stones; thence, north seventeen degrees east, ninety-two and a
+half rods, to a stake and stones on the south bank of the New Haven,
+New London and Stonington Railroad; thence, north seventy-two and
+a half degrees east, seventy-three rods, to an ancient bounds on the
+line between said towns; and bounded south by said Long Island Sound;
+with all the inhabitants residing thereon, be and the same is hereby
+incorporated into and made a part of the Town of Guilford, and the
+same is also, in like manner, annexed to and made a part of the Leete's
+Island school district, in said Guilford: always provided, however,
+that the jurisdiction of the fisheries in said sound waters, in front
+of said territory so annexed, shall remain a part of and be subject
+to said Town of Branford, as fully as if this resolution had not passed.
+And this act shall take effect from and after the first day of September
+next. | 
+Approved, June 20, 1860.
+Vol. 5, Page 370. Special Laws. | 
+
+
+a         special acts
+https://ecode360.com/8893706
+0.37964459797582917
+CHANGING BOUNDARY LINE BETWEEN BRANFORD
+AND GUILFORD. | 
+Resolved by this Assembly: That all that part
+of the Town of Branford lying east and south of the line commencing
+at a point in the center of Hoadley's Creek, at Leete's Island, so-called,
+where the present boundary line between Branford and Guilford crosses
+said creek, and running southerly from said point along the center
+or channel of said creek to the mouth of said creek on Long Island
+Sound, with all the inhabitants residing therein, be and the same
+is hereby incorporated into and made a part of the Town of Guilford,
+and the same is in like manner annexed to and made a part of the Leete's
+Island school district in said Guilford; provided, however, that the
+jurisdiction over all the fisheries in the waters of Long Island Sound
+which lie south of the territory hereby annexed, and which are now
+within and under the jurisdiction of the Town of Branford, shall remain
+a part of and be subject to said Town of Branford as fully as if this
+resolution had not passed; and provided further, that the Town of
+Guilford shall pay to the Town of Branford on or before August first,
+1885, such proportion of the present indebtedness of the Town of Branford
+as the assessed valuation of the taxable property in said transferred
+territory bears to the whole grand list of said Branford. | 
+Approved, April 1, 1885.
+Vol. 10, Page 104, Special Laws. | 
+
+
+a         town meeting rules
+https://ecode360.com/8893608
+0.36562417438448713
+ | 1 | Adult Education | 
+ | 2 | Board of Education | 
+ | 3 | School Age Child Care | 
+ | 4 | James Blackstone Memorial Library | 
+ | 5 | Willoughby Wallace Memorial Library | 
+
+
+sa      table of special acts
+https://ecode360.com/8893606
+0.3368564737751878
+6-20-1860 | Annexing part of the Town of Branford | 
+4-1-1885 | Changing boundary line between the Town of Guilford
+and Town of Branford | 
+5-29-1901 | Construction and maintenance of floating dock | 
+3-6-1923 | Creating a Board of Fire Commissioners | 
+5-1-1923 | Creating a Board of Finance | 
+7-13-1925 | Amending the Act creating a Board of Finance | 
+5-24-1927 | Creating Firemen's Relief Fund and vesting control
+of the installation of oil burners with the Board of Fire Commissioners | 
+6-3-1929 | Creating a Board of Police Commissioners | 
+6-9-1933 | Amending the Act creating a Board of Police
+Commissioners | 
+6-9-1937 | Validating sale or conveyance of land by Selectmen | 
+4-27-1939 | Amending the Act creating a Board of Finance | 
+6-24-1941 | Creating a Department of Social Welfare | 
+7-26-1949 | Amending the Act creating a Board of Finance | 
+5-19-1953 | Concerning the establishment of voting districts | 
+7-13-1953 | Amending the Act creating a Board of Finance | 
+4-25-1957 | Providing for garbage and refuse collection | 
+6-4-1957 | Establishing a Police Retirement Fund | 
+6-11-1959
+(258) | Include certain streets in the trunk line system | 
+6-12-1959
+(281) | Amend Act establishing Town Court | 
+6-29-1959
+(542) | Installation of traffic light | 
+6-14-1961
+(290) | Conveyance of state land to town | 
+6-2-1967
+(132) | Amend Charter of Branford Cemetery Association | 
+6-11-1973
+(73-91) | Feasibility Study with respect to an East Shore
+Career Education Center | 
+4-23-1976
+(76-35) | Validity appeal from assessment of Branford
+Sewer Authority | 
+6-2-1987
+(87-32) | Exempt certain towns from reimbursing the state
+for provision of potable water | 
+6-2-1988
+(88-48) | Providing funds for restoration of Branford
+land records | 
+6-1-1988
+(88-50) | Providing funds for improvement of Branford
+Park and for garbage containers for recycling program | 
+6-1-1988
+(88-56) | Authorizing state grant commitment for elementary
+school building project | 
+6-6-1990
+(90-23) | Authorizing state grant commitment for high
+school building project | 
+6-2-1994
+(94-14) | Authorizing state grant commitment for school
+building projects | 
+6-12-1996
+(96-15) | Authorizing state grant commitment for school
+building projects | 
+6-8-1998
+(98-242) | Various changes relating to the assessment and
+valuation of property and property taxes (Fire, January 28, 1998) | 
+
+
+iv      sewer use
+https://ecode360.com/8892687
+0.2864665223813299
+ | Arsenic as As | 0.05 | 
+ | Barium as Ba | 5.0 | 
+ | Boron as B | 5.0 | 
+ | Cyanides as CN (amendable) | 0.1 | 
+ | Fluoride as F | 20 | 
+ | Chromium (Total) | 1.0 | 
+ | Chromium (Cr +6) | 0.1 | 
+ | Magnesium as Mg | 100 | 
+ | Manganese as Mn | 5.0 | 
+ | Copper as Cu | 1.0 | 
+ | Zinc as Zn | 1.0 | 
+ | Cadmium | 0.1 | 
+ | Lead | 0.1 | 
+ | Tin | 2.0 | 
+ | Silver | 0.1 | 
+ | Mercury | 0.01 | 
+ | Nickel | 1.0 | 
+ | Iron as Fe | 5.0 | 
+
+
+buildings  demolition of
+https://ecode360.com/8891998
+0.28558957742072966
+ | $0 to $1,000 | $18 | 
+ | Each additional $1,000 | $12 for each $1,000 or fraction thereof | 
+
+
+general provisions
+https://ecode360.com/8891417
+0.27613487575136864
+[The Code of the Town of Branford was
+adopted by Representative Town Meeting 10-10-1984.] | 
+
+
+iv      sewer use
+https://ecode360.com/8892687
+0.26384534204230314
+ | Note: All metals are to be measured as total metals. | 
+
+
+oil and fuel burning equipment
+https://ecode360.com/8892386
+0.17747710493548777
+ | Less than 60 | 16-gauge | 
+ | 60 to 200 | 14-gauge | 
+ | 201 to 350 | 12-gauge | 
+ | 351 to 4,000 | 7-gauge | 
+
+
+noise
+https://ecode360.com/8892438
+0.04459611222106982
+ | Residential | 62 dBA | 55 dBA | 55 dBA | 45 dBA | 
+
+
+noise
+https://ecode360.com/8892438
+0.037469049913667896
+ | Industrial | 70 dBA | 66 dBA | 61 dBA | 51 dBA | 
+
+
+noise
+https://ecode360.com/8892438
+0.023184883198862583
+ | Commercial | 62 dBA | 62 dBA | 55 dBA | 45 dBA | 
+
+
+dl      disposition list
+https://ecode360.com/8893727
+-0.3714069530639845
+2-9-2005 | Fire safety: key access box | Ch. 157, Art. II | 
+2-9-2005 | Fire safety: fire hydrants | Ch. 157, Art. III | 
+3-9-2005 | Dogs amendment | Ch. 118, Art. I | 
+4-13-2005 | Financial obligations review | Ch. 42 | 
+6-8-2005 | Demolition of buildings amendment | Ch. 129 | 
+10-12-2005 | Voting districts amendment | Ch. 102 | 
+10-12-2005 | Water Pollution Control Authority amendment | Ch. 106 | 
+2-8-2006 | Veterans' tax exemption amendment | Ch. 220, Art. VII | 
+5-8-2006 | Tax relief for elderly and disabled citizens
+amendment | Ch. 220, Art. VI | 
+6-14-2006 | Tax credit for elderly and disabled citizens | Ch. 220, Art. VIII | 
+6-14-2006 | Bidding amendment | Ch. 75, Art. II | 
+7-12-2006 | Cosgrove Animal Shelter Commission | Ch. 17 | 
+7-12-2006 | Building construction permit fees amendment | Ch. 128, Art. I | 
+10-11-2006 | Sewer use amendment | Ch. 204, Art. IV | 
+11-8-2006 | Inland wetlands and watercourses violations
+amendment | Superseded 10-12-2011 | 
+11-8-2006 | Boats and boating: restrictions on speed amendment | Ch. 126, Art. I | 
+12-13-2006 | Sewer use amendment; citation procedure | Ch. 204, Arts. IV and V | 
+2-27-2007 | Sewer use amendment (sewer use charges) | Ch. 204, Art. IV | 
+2-27-2007 | Sidewalk construction and maintenance amendment | Ch. 216, Art. V | 
+4-12-2007 | Tax credit for qualified elderly and disabled
+citizens amendment | Ch. 220, Art. VIII | 
+4-12-2007 | Tax relief for elderly and disabled citizens
+amendment | Ch. 220, Art. VI | 
+8-8-2007 | Tax exemption for solar energy systems amendment | Ch. 220, Art. II | 
+10-10-2007 | Zoning citations amendment | Ch. 225 | 
+7-30-2008 | Voting districts amendment | Ch. 102 | 
+7-30-2008 | Building construction: permit fees amendment | Ch. 128, Art. I | 
+1-14-2009 | Community Forest Commission | Ch. 16 | 
+3-11-2009 | Code of Ethics amendment | Ch. 38 | 
+3-11-2009 | Strategic Review Committee | Superseded 10-14-2009 | 
+4-7-2009 | Bidding amendment | Ch. 75, Art. II | 
+4-7-2009 | Tax relief for elderly and disabled citizens
+amendment; waiver of property tax bills; retention of excess taxes | Ch. 220, Arts. VI; IX; X | 
+7-29-2009 | Post-employment benefits trust agreement | Ch. 83, Art. II | 
+10-14-2009 | Voting Districts amendment | Ch. 102 | 
+10-14-2009 | Strategic Review Committee | Ch. 93 | 
+4-14-2010 | Town Meeting Rules amendment | Ch. A236 | 
+6-9-2010 | Town Meeting Rules amendment | Ch. A236 | 
+6-9-2010 | Town Meeting Rules amendment | Ch. A236 | 
+11-10-2010 | Floodplain management | Superseded 12-12-2012 | 
+11-10-2010 | Town Meeting Rules amendment | Ch. A236 | 
+3-3-2011 | Motor vehicles tax amendment | Ch. 220, Art. III | 
+3-9-2011 | Strategic Review Committee | Ch. 93 | 
+10-12-2011 | Penalties and citations: citations for zoning and inland wetlands
+and watercourses violations | Ch. 196, Art. I | 
+10-12-2011 | Zoning citations repealer | Ch. 225 (reference only) | 
+2-8-2012 | Town Meeting Rules amendment | Ch. A236 | 
+6-13-2012 | Town Meeting Rules amendment | Ch. A236 | 
+12-12-2012 | Floodplain management | Superseded 5-14-2013 | 
+12-12-2012 | Town Meeting Rules amendment | Ch. A236 | 
+1-9-2013 | Town Meeting Rules amendment | Ch. A236 | 
+5-14-2013 | Floodplain management | Ch. 161 | 
+9-11-2013 | Assessor and Board of Assessment Appeals | Ch. 11 | 
+9-11-2013 | Election of Town officials amendment | Ch. 34, Art. I | 
+9-11-2013 | Motor vehicles tax amendment | Ch. 220, Art. III | 
+2-12-2014 | Town Meeting rules amendment | Ch. A236 | 
+6-11-2014 | Public Building Commission | Ch. 74 | 
+6-11-2014 | Purchasing: bidding amendment | Ch. 75, Art. II | 
+10-8-2014 | Floodplain management | Ch. 161 | 
+12-10-2014 | Veterans' Advisory Committee | Ch. 99 | 
+12-10-2014 | Building construction: permit fees amendment | Ch. 128, Art. I | 
+3-11-2015 | Taxation: veterans' tax exemption amendment | Ch. 220, Art. VII | 
+6-10-2015 | Outdoor fires amendment | Ch. 154 | 
+10-14-2015 | Voting districts amendment | Ch. 102 | 
+1-13-2016 | Town Meeting rules amendment | Ch. A236 | 
+2-10-2016 | Stony Creek Architectural Review Board | Ch. 92 | 
+3-9-2016 | Green Committee amendment | Ch. 53 | 
+3-9-2016 | Public Building Commission amendment | Ch. 74 | 
+12-14-2016 | Gas and oil exploration: storage, disposal or use of hydraulic
+fracturing waste prohibited | Ch. 164, Art. I | 
+1-18-2018 | Town Meeting Rules Amendment | Ch. A236 | 
+10-10-2018 | Taxation: Veterans' Tax Exemption Amendment | Ch. 220, Art. VII | 
+3-13-2019 | Taxation: Handicapped Vehicle Tax Exemption | Ch. 220, Art. XI | 
+4-10-2019 | Floodplain Management Amendment | Ch. 161 | 
+5-14-2019 | Housing, Affordable Amendment | Ch. 169 | 
+6-12-2019 | Retail Checkout Bags | Ch. 200 | 
+10-9-2019 | Boats and Boating: Tie-ups; Loading and Unloading Amendment | Ch. 126, Art. II | 
+10-9-2019 | Community Forest Commission; Trees: Tree Warden and Public Tree
+Protection; Trees on Scenic Roads | Ch. 16, Art. II; Ch. 16, Art. III | 
+
+

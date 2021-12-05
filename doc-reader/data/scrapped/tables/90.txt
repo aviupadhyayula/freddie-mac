@@ -1,0 +1,173 @@
+iii      establishment of zoning map and zoning districts
+https://ecode360.com/13105830
+0.7792706646430586
+ | AR | Agricultural Residential District | 
+ | R | Residential District | 
+ | RPC | Residential Planned Community District | 
+ | MPC | Master Planned Community District | 
+ | C1 | Town Center Commercial District[1] | 
+ | C2 | Town Commercial | 
+ | FH | Flood Hazard District | 
+
+
+general provisions
+https://ecode360.com/14636094
+0.48063079741645987
+Chapter Title | Chapter Number | 
+Moving of Buildings | 58 | 
+Construction Hours | 72 | 
+Firearms | 80 | 
+Licenses | 90 | 
+Noise | 97 | 
+Property Maintenance | 111 | 
+Subdivision of Land | 125 | 
+Taxation | 132 | 
+Zoning | 155 | 
+
+
+vi      district regulations
+https://ecode360.com/13105863
+0.3384595384356692
+ | Up to 800 | 10 | 18 feet - not to exceed 1 1/2 stories | 
+ | 800 to 1,000 | 15 | 18 feet - not to exceed 1 1/2 stories | 
+ | More than 1,000 | 20 | 18 feet - not to exceed 1 1/2 stories | 
+
+
+vi      district regulations
+https://ecode360.com/13105863
+0.3384595384356692
+ | Up to 800 | 10 | 18 feet - not to exceed 1 1/2 stories | 
+ | 800 to 1,000 | 15 | 18 feet - not to exceed 1 1/2 stories | 
+ | More than 1,000 | 20 | 18 feet - not to exceed 1 1/2 stories | 
+
+
+dl      disposition list
+https://ecode360.com/14563550
+0.30794527445110575
+82 Del. Laws, c. 145 | 7-23-2019 | Charter Amendment | Section 31 | 17 | 
+20-01 | 8-27-2019 | Construction Hours Amendment | Ch. 72 | 17 | 
+20-02 | 8-27-2019 | Property Maintenance Amendment | Ch. 111 | 17 | 
+20-03 | 9-10-2019 | Utilities Franchise Agreement | NCM | 17 | 
+20-04 | 10-8-2019 | 2019 Comprehensive Plan | NCM | 17 | 
+20-05 | 11-12-2019 | Clean Hands Policy Amendment | Ch. 10 | 17 | 
+20-06 | 2-11-2020 | Littering | Ch. 93 | 18 | 
+20-07 | 2-11-2020 | Licenses Amendment; Taxation: Gross Rental Receipt Tax Repealer | Ch. 90; Ch. 132, Art. III | 18 | 
+20-08 | 2-11-2020 | Zoning Amendment | Ch. 155 | 18 | 
+20-09 | 2-11-2020 | Taxation: Lodging Tax | Ch. 132, Art. III | 18 | 
+21-01 | 5-12-2020 | Personnel Policy Manual Amendment | NCM | 18 | 
+21-02 | 7-14-2020 | Licenses Amendment | Ch. 90 | 18 | 
+21-03 | 9-8-2020 | Extending Cable Franchise | NCM | 20 | 
+21-04 | 1-12-2021 | Authorization of Cable Franchise Agreement | NCM | 20 | 
+21-05 | 12-8-2020 | Zoning Map Amendment | NCM | 20 | 
+21-06 | 2-9-2021 | Planning and Zoning Commission Amendment | Ch. 33 | 20 | 
+21-07 | 3-9-2021 | Building Construction Amendment | Ch. 48 | 20 | 
+83 Del. Laws, c. 189 | 9-17-2021 | Charter Amendment | Ch. C | 20 | 
+
+
+v      other maintenance
+https://ecode360.com/35216095
+0.29589043324276576
+Section 111.1. Application for appeal. | 
+Appeals of orders, decisions, or determinations made by the Building and/or Code Official relative to the application and interpretation of this code, may proceed as described in Chapter 155, Article XI, of the Code of the Town of Millville. | 
+
+
+v      other maintenance
+https://ecode360.com/35216095
+0.2839687629960512
+112.4. Failure to comply. | 
+Any person, persons, partnerships, corporations, or other entity
+who or which shall in any way violate a provision of this chapter
+of this chapter shall, upon conviction thereof, forfeit and pay to
+the Town of Millville a fine not less than the sum of $50 and not
+exceeding the sum of $99 for each and every offense, together with
+the costs of prosecution. Each day or part of the separate day a violation
+continues shall be deemed a separate offense. For repeated offenses
+within the same calendar year, fines will be $99 for each continued
+offense. | 
+
+
+v      other maintenance
+https://ecode360.com/35216095
+0.2814356146904179
+Section 111.2. Stays of enforcement. | 
+Appeals of notice and orders (other than imminent danger notices)
+shall stay the enforcement of the notice and order until the appeal
+is heard by the Board of Adjustment. | 
+
+
+ii      street naming
+https://ecode360.com/14525924
+0.1890001162760473
+Alley | Aly | 
+Branch | Br | 
+Boardwalk | Blk | 
+Circle | Cir | 
+Court | Ct | 
+Cove | Cove | 
+Crossing | Crsg | 
+Drive | Dr | 
+Driveway | Drway | 
+Harbor | Hbr | 
+Inlet | Inlet | 
+Landing | Lndg | 
+Lane | Ln | 
+Loop | Loop | 
+Mall | Mall | 
+Neck | Neck | 
+Orchard | Orch | 
+Path | Path | 
+Point | Point | 
+Road | Rd | 
+Shore | Shore | 
+Square | Sq | 
+Station | Stat | 
+Street | St | 
+Terrace | Ter | 
+Walk | Walk | 
+Way | Way | 
+
+
+dl      disposition list
+https://ecode360.com/14563550
+-0.010664790126088786
+11-01 | 12-14-2010 | Zoning amendment | Ch. 155 | 
+11-02 |  |  | Not adopted | 
+11-03 | 12-14-2010 | Adoption of Code | Ch. 1, Art. I | 
+78 Del. Laws, c. 163 | 8-3-2011 | Charter amendment | Section 31(a)(30) | 
+13-01 | 6-12-2012 | Zoning amendment | Ch. 155 | 
+13-02 | 8-14-2012 | Zoning amendment | Ch. 155 | 
+13-03 | 8-14-2012 | Authority to sign contracts | Ch. 7 | 
+14-01 | 7-9-2013 | Building construction amendment | Ch. 48 | 
+14-02 | 1-14-2014 | Zoning amendment | Ch. 155 | 
+79 Del. Laws, c. 192 | 2-14-2014 | Charter amendment | Section 19(c) | 
+14-03 | 3-11-2014 | Public records | Ch. 115 | 
+15-01 | 2-10-2015 | Zoning amendment | Ch. 155 | 
+15-02 | 3-10-2015 | Zoning amendment | Ch. 155 | 
+16-01 | 8-11-2015 | Zoning amendment | Ch. 155 | 
+16-02 | 11-10-2015 | Firearms | Ch. 80 | 
+16-03 | 12-8-2015 | Zoning amendment | Ch. 155 | 
+16-04 | 12-8-2015 | Planning and Zoning Committee amendment | Ch. 33 | 
+16-05 |  |  | Not adopted | 
+16-06 | 4-12-2016 | Zoning amendment | Ch. 155 | 
+17-01 | 5-10-2016 | Licenses amendment | Ch. 90 | 
+17-02 | 6-14-2016 | Zoning amendment | Ch. 155 | 
+17-03 | 5-24-2016 | Dogs | Ch. 41, Art. I | 
+80 Del. Laws, c. 267 | 6-22-2016 | Charter amendment | Sections 2; 5; 7; 8; 9; 13; and 31(a) | 
+17-04 | 11-8-2016 | Zoning amendment | Ch. 155 | 
+17-05 | 2-15-2017 | Dangerous buildings repealer; property maintenance amendment | Ch. 54, reference only; Ch. 111 | 
+17-06 | 3-28-2017 | Zoning amendment | Ch. 155 | 
+18-01 | 8-8-2017 | Zoning amendment | Ch. 155 | 
+18-02 | 10-10-2017 | Taxation: abatement of real estate taxes | Ch. 132 | 
+18-03 | 10-10-2017 | Taxation: realty transfer tax amendment | Ch. 132, Art. II | 
+18-04 | 1-9-2018 | Zoning amendment | Ch. 155 | 
+19-01 | 5-8-2018 | Firearms Amendment | Ch. 80 | 
+19-02 | 5-8-2018 | Zoning Amendment | Ch. 155 | 
+19-03 | 5-8-2018 | Licenses Amendment | Ch. 90 | 
+19-04 | 10-9-2018 | Violations and Penalties Amendment | Ch. 1, Art. II; Ch. 58; Ch. 72; Ch. 80; Ch. 90; Ch. 97; Ch. 111; Ch. 125; Ch. 132, Art. II; Ch. 155 | 
+19-05 | 6-12-2018 | Taxation Amendment | Ch. 132 | 
+19-06 | 10-9-2018 | Property Maintenance Amendment | Ch. 111 | 
+19-07 | 11-13-2018 | Subdivision of Land Amendment; Zoning Amendment | Ch. 125; Ch. 155 | 
+19-08 | 1-8-2019 | Planning and Zoning Committee Amendment | Ch. 33 | 
+19-09 | 2-12-2019 | Zoning Amendment | Ch. 155 | 
+
+

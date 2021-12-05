@@ -1,0 +1,340 @@
+a         fees
+https://ecode360.com/8848182
+0.4803904778141948
+ | Consumer fireworks (1.4G) | For sale, on-site handling, manufacture and storage of consumer
+fireworks (1.4G) | $500 per year | 
+ | Fairs, no rides | To conduct the event | $50 per event | 
+ | Exhibit and trade shows | For operation of all exhibits and trade shows held within the
+Town limits. | $50 per year | 
+ | Flame effects | To use flame effects before an audience | $100 per event | 
+ | Liquid- or gas-fueled vehicles | To display, compete or demonstrate liquid- or gas-fueled vehicles
+or equipment in a building | $30, single use
+$60, multi-use | 
+ | Membrane structures, tents and canopies - permanent | For construction, location, erection or placement | $100 per structure | 
+ | Membrane structures, tents and canopies - temporary | To operate an air-supported temporary membrane structure or
+tents having an area in excess of 200 square feet or a canopy in excess
+of 400 square feet; exception: temporary membrane structures, tents,
+or canopy structures used exclusively for camping | $50, single use
+$100, multi-use | 
+ | Pyrotechnics before a proximate audience | For display and use | $50 per event | 
+ | Reinspection of residential, commercial, industrial, business,
+retail facilities including health care, apartments, hotels, etc., | Reinspection due to noncompliance | $250 for 3rd inspection*
+*per unit for apartment/condo complexes | 
+ | Special outdoor events, carnivals and fairs | For the location and operation of special outdoor events, carnivals
+and fairs | $60 per event | 
+ | Removal of underground fuel storage tanks | Fire Marshal must be contacted prior to removal and permit obtained | $25 per tank | 
+ | Fuel trucks | To obtain the required permit | $25 per year per vehicle | 
+ | Fire alarm systems/automatic sprinkler systems | Notification must be made to the Fire Marshal if a monitored
+fire alarm and/or sprinklers system is disconnected from a monitoring
+service (public or private) regardless of the length of time the systems
+are to be off-line | Notification only, no fee associated | 
+
+
+a         fees
+https://ecode360.com/8848182
+0.4515123627501617
+Building permits | $25.00 per $1,000 of work or any fraction thereof
+$16.00 per $1,000 thereafter or any fraction
+thereof | 
+Electrical permits | Same as building permits | 
+Plumbing permits | Same as building permits | 
+Heating permits | Same as building permits | 
+Oil-burner permits | Same as building permits | 
+Air-conditioning permits | Same as building permits | 
+Demolition permit | Same as building permits | 
+Certificate of occupancy |  | 
+Residential | $30.00 | 
+Nonresidential | $50.00 | 
+Freedom of information copies | $0.50 | 
+
+
+sewers and sewage disposal
+https://ecode360.com/8847851
+0.4094301633408886
+ | Sand/Soil | Ledge Rock | 
+Single-, 2- or 3-family structure | 100 feet | Sanitary sewer exists at property line | 
+Structure with 4 or more family units; residential developments with
+fewer than 10 dwelling units | 500 feet | 250 feet | 
+Residential development with 10 or more dwelling units | 3,000 feet | 1,500 feet | 
+Commercial structures or properties with multiple commercial structures
+with a combined, designed sewage flow of less than 2,000 gallons per day | 750 feet | 500 feet | 
+
+
+noise
+https://ecode360.com/8847685
+0.3892537454082269
+Residential | Day 55
+Night 45 | 55 | 62 | 55 | 55 | 
+Commercial | Day 61
+Night 51 | 62 | 62 | 62 | 62 | 
+Business Park | Day 61
+Night 51 | 62 | 62 | 62 | 62 | 
+Office Park | Day 61
+Night 51 | 62 | 62 | 62 | 62 | 
+Waterfront | Day 61
+Night 51 | 62 | 62 | 62 | 62 | 
+Agricultural | Day 61
+Night 51 | 62 | 62 | 62 | 62 | 
+
+
+v      abatement for dairy farms
+https://ecode360.com/8848046
+0.339431386423061
+ | More than 10 | 0 | 
+ | 10 | 10% | 
+ | 9 | 20% | 
+ | 8 | 30% | 
+ | 7 | 40% | 
+ | 6 | 50% | 
+ | 5 | 60% | 
+ | 4 | 70% | 
+ | 3 | 80% | 
+ | 2 | 90% | 
+ | 1 | 100% | 
+
+
+dl      disposition list
+https://ecode360.com/8848201
+0.23293939901897254
+286-19 | 8-19-2019 | Purchase of Property | NCM | 18 | 
+287-19 | 9-16-2019 | Taxation: Abatement for Fire Fighters and EMS Personnel Amendment | Ch. 223, Art. VI | 18 | 
+288-21 | 4-19-2021 | Commission on Inclusion and Innovation | Ch. 24 | 19 | 
+
+
+a         fees
+https://ecode360.com/8848182
+0.20794740321764937
+Application fee | $15.00 |  | 
+Freedom of information copies | $0.50 |  | 
+
+
+a         fees
+https://ecode360.com/8848182
+0.18565661741687678
+Aerial maps | $7.50 |  | 
+Grand List, printed copy | Cost |  | 
+Freedom of information copies | $0.50 |  | 
+
+
+v      salons
+https://ecode360.com/10523108
+0.17109132400226662
+ | Quaternary ammonium compounds | 1:1000 dilution for 30 seconds | Odorless, nontoxic, highly stable and noncorrosive. | 
+ | Boiling Water | 5 minutes | The addition of 1% sodium carbonate will prevent
+rusting | 
+ | Lysol (or compound cresol solution or phenolic
+compound) | 5% solution for 3 minutes
+2% solution for 10 minutes | For use on colored gowns or towels | 
+ | Commercial formalin | 10% solution for 1 minutes | May be irritating; Deteriorates on standing. | 
+ | Alcohol (70% ethyl alcohol or 99% isopropyl
+alcohol) | 3 minutes |  | 
+ | Lubricant sanitizer | Combination | Recommended for electric clippers | 
+ | Other EPA-registered disinfectants |  | Use according to the manufacturer's instructions | 
+
+
+ix      senior tax relief
+https://ecode360.com/30800714
+0.15386720693347083
+ | Step 1 | $0 | $10,000 | $500 | 
+ | Step 2 | $10,000 | $17,300 | $400 | 
+ | Step 3 | $17,300 | $23,200 | $250 | 
+ | Step 4 | $23,200 | $29,000 | $200 | 
+ | Step 5 | $29,000 | $34,600 | $150 | 
+ | Step 6 | $34,600 | $42,200 | $100 | 
+
+
+vi      use of police personnel during work on high traffic roads
+https://ecode360.com/30800711
+0.14542345011569408
+Bailey Road | 
+Brook Street | 
+Capital Boulevard | 
+Century Hills Drive | 
+Chapin Avenue | 
+Charter Road | 
+Church Street | 
+Cobey Road | 
+Cold Spring Road | 
+Cromwell Avenue | 
+Dividend Road | 
+Elm Street | 
+Falcon Ridge Drive | 
+Fern Street | 
+Forest Street | 
+France Street | 
+Gilbert Avenue | 
+Glastonbury Avenue | 
+Grimes Road | 
+Hayes Road | 
+Henkel Way | 
+Main Street | 
+Maple Street | 
+Marshall Road | 
+Meadow Road | 
+New Britain Avenue | 
+New Road | 
+Old Forge Road | 
+Old Main Street | 
+Orchard Street | 
+Parsonage Street | 
+Pratt Street | 
+Silas Deane Highway | 
+Town Line Road | 
+Trinity Ridge Drive | 
+Valley View Road | 
+Waters Avenue | 
+West Street | 
+Westerly Terrace | 
+Woodfield Crossing | 
+
+
+a         fees
+https://ecode360.com/8848182
+0.028608096711336017
+Full operation food establishment |  | 
+Class I | $50.00 | 
+Class II | $100.00 | 
+Class III | $125.00 | 
+Class IV (0-50 seats) | $150.00 | 
+Class IV (51-100 seats) | $175.00 | 
+Class IV (101 + seats) | $225.00 | 
+ |  | 
+Itinerant Vendor Class I | $50.00 | 
+Itinerant Vendor Class II | $100.00 | 
+Itinerant Vendor Class III | $125.00 | 
+Itinerant Vendor Class IV | $150.00 | 
+ |  | 
+Caterers Class I | $50.00 | 
+Caterers Class II | $100.00 | 
+Caterers Class III | $125.00 | 
+Caterers Class IV | $150.00 | 
+Seasonal | $75.00 | 
+ |  | 
+Grocery |  | 
+Less than 5,000 square feet | $75.00 | 
+5,000 square feet + | $225.00 | 
+Second reinspection fee | 50% of license fee | 
+No license penalty fee | 50% of license fee | 
+Temporary license - 14 days or less | $50.00 | 
+Plan review | 50% of license fee | 
+ |  | 
+Motels |  | 
+1 to 25 units | $75.00 | 
+26 to 50 units | $125.00 | 
+51 or more units | $175.00 | 
+ |  | 
+Septic systems |  | 
+Soil testing-new | $100.00 | 
+Soil testing-repair | $50.00 | 
+Plan review + permit to install-new | $100.00 | 
+Plan review + permit to install-repair | $50.00 | 
+Subdivision plan review | $50.00 | 
+Addition review | $25.00 | 
+Soil testing-addition | $25.00 | 
+ |  | 
+Private Well |  | 
+Permit to install | $75.00 | 
+ |  | 
+Public Swimming Pools |  | 
+Permit to operate | $100.00 | 
+Subsurface Sewage Disposal Systems |  | 
+Repair | $25 | 
+New system | $75 | 
+
+
+dl      disposition list
+https://ecode360.com/8848201
+-0.457149875698775
+207-02 | 5-6-2002 | Fees amendment | Ch. A249 | 
+208-02 | 6-17-2002 | Parks and recreation areas amendment | Ch. 189 | 
+209-02 | 7-22-2002 | Purchase of property | NCM | 
+210-02 | 7-22-2002 | On-site fire protection facilities amendment | Ch. 129, Art. I | 
+211-02 | 8-19-2002 | Alcohol possession by minors | Ch. 77, Art. II | 
+212-02 | 10-7-2002 | Fees amendment | Ch. A249 | 
+213-03 | 12-2-2002 | Youth services counseling fee scale | Ch. A249 | 
+214-03 | 4-21-2003 | Blighted premises | Repealed by Ord. No. 260-12 | 
+215-03 | 5-19-2003 | Fees amendment | Ch. A249 | 
+216-03 | 9-2-2003 | Parks and recreation areas amendment | Ch 189 | 
+217-03 | 9-15-2003 | Purchase of land | NCM | 
+218-03 | 3-1-2004 | Land Preservation Trust Fund | Ch. 32 | 
+219-04 | 3-1-2004 | Regulation of dogs | Ch. 83, Art. III | 
+220-04 | 3-1-2004 | Building on unaccepted streets amendment | Ch. 100, Art. II | 
+221-04 | 3-1-2004 | Policy for naming municipal facilities | Ch. 36, Art. I | 
+222-04 | 5-3-2004 | Aquifer Protection Agency | Ch. 50, Art. II | 
+223-04 | 5-3-2004 | Drainage improvements | Ch. 142 | 
+224-04 | 12-6-2004 | Blighted buildings | Repealed by Ord. No. 260-12 | 
+225-04 | 12-7-2004 | Passive recreation area | NCM | 
+226-05 | 8-15-2005 | Design Review Advisory Board | Repealed by Ord. No. 262-13 | 
+227-05 | 9-19-2005 | Motocross riding and racing | Ch. 175 | 
+228-06 | 2-6-2006 | General Fund undesignated fund balance | Ch. 4, Art. I | 
+229-06 | 2-6-2006 | Sidewalk construction and repair amendment | Ch. 212, Art. IV | 
+230-06 | 3-20-2006 | On-site fire protection facilities amendment | Ch. 129, Art. I | 
+231-06 | 5-1-2006 | Naming of municipal facilities amendment | Ch. 36, Art. I | 
+232-06 | 12-4-2006 | Illicit discharge and connection to stormwater
+drainage systems | Ch. 209, Art. I | 
+233-06 | 12-18-2006 | Tax abatement for fire fighters and EMS personnel
+amendment | Ch. 223, Art. VI | 
+234-07 | 2-5-2007 | Design Review Advisory Board amendment | Repealed by Ord. No. 262-13 | 
+235-07 | 5-7-2007 | Land Preservation Trust Fund amendment | Ch. 32 | 
+236-07 | 9-17-2007 | Property tax relief for elderly homeowners | Ch. 223, Art. VII | 
+237-07 | 9-17-2007 | Sanitary Code; licensing of food service establishments,
+motels and rooming units and public swimming pools repealed | Ch. 202; Chs. 145, Art. II; 174; and 221, reference only | 
+238-07 | 10-15-2007 | Ethics, Code of | Ch. 16 | 
+239-07 | 12-3-2007 | Commercial truck traffic amendment | Ch. 230, Art. II | 
+240-08 | 5-19-2008 | Sanitary Code amendment | Ch. 202 | 
+241-08 | 6-16-2008 | Development applications: peer review; fees
+for consulting services | Ch. 114, Art. I | 
+242-08 | 6-16-2008 | Commercial truck traffic amendment | Ch. 230, Art. II | 
+243-08 | 7-21-2008 | Penalties for violation of inland wetlands and
+watercourses regulations | Ch. 160, Art. II | 
+244-08 | 7-21-2008 | Flood damage prevention amendment | Ch. 141 | 
+245-09 | 2-18-2009 | Assessments: additional members for Board of Assessment Appeals | Ch. 2, Art. I | 
+246-09 | 4-6-2009 | Purchasing: preferential bidding process | Ch. 52, Art. I | 
+247-09 | 4-29-2009 | Parks and recreation areas amendment | Ch. 189 | 
+248-09 | 4-29-2009 | Vehicles and traffic: street closings amendment | Repealed by Ord. No. 279-17 | 
+249-09 | 4-29-2009 | Loitering and panhandling | Ch. 170 | 
+250-09 | 5-4-2009 | Acquisition of property | Repealed by Ord. No. 258-11 | 
+251-09 | 6-1-2009 | Pensions and retirement benefits: Other Post-Employment Benefits
+(OPEB) System | Ch. 46, Art. II | 
+252-09 | 6-15-2009 | Vehicles and traffic: commercial truck traffic amendment | Ch. 230, Art. II | 
+253-09 | 9-9-2009 | Vehicles and traffic: commercial truck traffic amendment | Ch. 230, Art. II | 
+254-09 | 10-19-2009 | Citation procedures for zoning violations | Ch. 5, Art. I | 
+255-10 | 8-16-2010 | Vehicles and traffic: parking amendment | Ch. 230, Art. IV | 
+256-10 | 8-16-2010 | Fire zones amendment | Ch. 137 | 
+257-11 | 4-4-2011 | Wood-burning furnaces, outdoor | Ch. 242 | 
+258-11 | 10-17-2011 | Acquisition repealer | NCM | 
+259-12 | 1-17-2012 | Fees amendment | Ch. A249 | 
+260-12 | 4-2-2012 | Blighted premises | Repealed by Ord. No. 276-16 | 
+261-12 | 4-16-2012 | Fees amendment | Ch. A249 | 
+262-13 | 2-19-2013 | Architectural Review Advisory Board | Ch. 15 | 
+Resolution | 3-13-2013 | Fees amendment | Ch. A249 | 
+263-14 | 3-3-2014 | Moratorium on establishment of marijuana production facilities
+and dispensaries | NCM | 
+264-14 | 3-3-2014 | Streets and sidewalks: use of police personnel during work on
+high-traffic roads | Ch. 212, Art. VI | 
+265-14 | 4-7-2014 | Fees amendment | Ch. A249 | 
+266-14 | 4-7-2014 | Licenses and permits: payment of delinquent taxes prior to issuance
+of certain permits, licenses or certificates | Ch. 165, Art. I | 
+267-14 | 9-15-2014 | Noise | Ch. 180 | 
+268-14 | 8-18-2014 | Taxation: disclosure of rental income and expenses | Ch. 223, Art. X | 
+269-14 | 8-18-2014 | Acquisition of property | NCM | 
+270-14 | 11-17-2014 | Taxation: exemption for horses and ponies | Ch. 223, Art. VIII | 
+271-15 | 3-16-2015 | Lease or licensing of Town-owned land | NCM | 
+ | 6-18-2015 | Charter | Charter | 
+272-15 | 8-17-2015 | Taxation: senior tax relief | Ch. 223, Art. IX | 
+ | 8-17-2015 | Vehicles and traffic: parking amendment | Ch. 230, Art. IV | 
+273-15 | 10-19-2015 | Purchase of development rights | NCM | 
+274-16 | 4-18-2016 | Parks and recreation areas amendment | Ch. 189 | 
+275-16 | 10-3-2016 | Acquisition of property | NCM | 
+276-16 | 11-14-2016 | Blighted premises | Ch. 98 | 
+277-16 | 12-5-2016 | Blasting agents and explosives repealer | Ch. 97 (reference only) | 
+278-17 | 6-19-2017 | Purchase of Development Rights | NCM | 
+279-17 | 10-16-2017 | Vehicles and Traffic: Vehicles on Certain Meadows Roads | Ch. 230, Art. I | 
+280-17 | 10-16-2017 | Rocky Hill Housing Standards | Ch. 155 | 
+281-17 | 12-4-2017 | Natural Gas and Oil Extraction Waste Prohibition | Ch. 240 | 
+282-18 | 3-5-2018 | Purchase of Development Rights | NCM | 
+283-18 | 3-5-2018 | Purchase of Property | NCM | 
+284-19 | 12-3-2018 | Farming | Ch. 121 | 
+285-19 | 5-6-2019 | Vehicles and Traffic Amendment | Ch. 230 | 
+
+

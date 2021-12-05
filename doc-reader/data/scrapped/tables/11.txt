@@ -1,0 +1,349 @@
+noise
+https://ecode360.com/15584337
+0.5656233168343657
+Industrial | 65 | 60 | 55 | 45 | 
+Commercial | 60 | 60 | 55 | 45 | 
+Residential | 55 | 55 | 55 | 45 | 
+
+
+ii      adoption of technical amendments
+https://ecode360.com/14369816
+0.4444478310925695
+ | "1. The Town of Brookfield does hereby create a Water Pollution
+Control Authority to serve as the Sewer Authority of the Town under
+and pursuant to Chapter 103 of the Connecticut General Statutes, Revision
+of 1958, as amended. | 
+ | "2. (a) The Authority shall consist of seven electors and taxpayers
+of the Town who shall hold no other Town office, shall be sworn to
+the faithful performance of their duties and shall serve without compensation.
+The Water Pollution Control Authority members shall be appointed by
+the Board of Selectmen. The terms of office of said members shall
+be in accordance with the Charter; members to serve until their successors
+shall be appointed and shall have qualified. A certificate of the
+appointment of a member by the Selectmen shall be filed with the Town
+Clerk and shall be conclusive evidence of the legal appointment of
+such member. | 
+ | "3. The Authority shall choose one of its members to be Chairman
+and shall appoint a Clerk, who need not be a member of the Authority,
+and such agents and employees as it may require and determine their
+qualifications, duties and compensation. At all meetings of the Authority,
+four members shall constitute a quorum, and the concurrence of four
+votes shall be necessary for the transaction of business. Said Authority
+may hold such regular and special meetings as may be advisable at
+any time upon giving at least 24 hours' notice to each member
+before the time of such meeting. The Clerk shall issue a call for
+a special meeting either at the direction of the Chairman or upon
+the written request of any two members. The Clerk shall keep a complete
+record of the proceedings of the Authority and forthwith after each
+regular or special meeting of the Authority shall cause a copy of
+the minutes thereof to be filed with the Town Clerk. | 
+ | "4. The Authority shall have authority in the name and on behalf
+of the Town: | 
+ | "(a) To do any and all things necessary or appropriate to construct
+any sewerage system authorized by the Town, including, but not in
+limitation thereof, the taking and holding by purchase, condemnation
+or otherwise of the whole or any part of any real property or interest
+therein which it may determine to be necessary or desirable for use
+in connection therewith, to apportion and assess lands and buildings
+in the Town which shall, in its judgment, be specially benefited thereby
+and upon the owners of such lands and buildings in such proportions
+as it may deem equitable, to establish such charges as it may deem
+proper for connections with and the use of said sewerage system, and
+to maintain and operate said system, all in accordance with the provisions
+of Chapter 103 of the Connecticut General Statutes, Revision of 1958,
+as amended. | 
+ | " (b) Subject to the prior approval of the Board of Selectmen,
+to contract for engineering services required to comply with the State
+of Connecticut order to the Town to abate pollution and to design
+and supervise the construction of the sewerage systems contemplated
+under the agreements between the Town and the Town of New Milford,
+and the Town and the City of Danbury, said agreements having been
+authorized by Town Meetings. | 
+ | " (c) To establish and revise rules and regulations for the
+supervision, management, control and operation and use of the sewerage
+system, including rules and regulations prohibiting or regulating
+the discharge into the sewerage system of any sewage or any stormwater
+runoff which, in the opinion of the Authority, will adversely affect
+any part or any process of the sewerage system. | 
+ | "(d) To fulfill contracts entered into between the Town and
+other municipalities to obtain sewerage system service. | 
+ | "(e) Through its Chairman, to execute and file applications
+and agreements with the Cornmissioner of Environmental Protection
+for state grants and/or advances pursuant to the provisions of Public
+Act 872 of the 1971 General Assembly, and to execute all the applications,
+instruments and documents and accept payments and do all other things
+that may be necessary for state grants and/or advances, and to apply
+for and accept any and all federal grants-in-aid in connection with
+the sewerage system." | 
+
+
+ii      adoption of technical amendments
+https://ecode360.com/14369816
+0.3999239028398564
+ | "1. Historic District No. 1 is situated in the center of Town
+and is located on both sides of a portion of Route 25 beginning at
+the intersection of Route 133 and traveling south for approximately
+0.4 mile to include property owned by Bradley on the westerly side
+and Ceysens on the easterly side. | 
+ | "2. Also on both sides of Route 25 beginning at the intersection
+of Route 133 and traveling north for approximately 0.4 mile to include
+property owned by Gregory on the westerly side and Baker on the easterly
+side. | 
+ | "3. Also on both sides of Long Meadow Hill Road beginning at
+the intersection of Route 25 and traveling north for approximately
+0.4 mile to include property owned by Douglas on the westerly side
+and the trustees of the Fund for Ministers on the easterly side. | 
+ | "4. Also on both sides of Winding Road beginning at the intersection
+of Route 25 and traveling east for approximately 0.2 mile to include
+property owned by B. Rippy on the northerly side and C. Rippy on the
+southerly side. | 
+ | "5. Also on both sides of School Street beginning at the intersection
+of Route 25 and traveling east for approximately 0. 1 mile to include
+property owned by Phillips on the northerly side and Narwold on the
+southerly side. All the property owners hereinbefore set forth being
+now or formerly." | 
+
+
+wetlands penalties
+https://ecode360.com/14371896
+0.39192075639765694
+ | § 220-5C | The conduct of activities delineated in § 220-5C without
+the required permit pursuant to § 220-7 | Up to $1,000 | 
+ | § 220-5D | Failure to inform the Agency or provide necessary data as mandated
+by § 220-5D prior to the commencement of any operation | Up to $1,000 | 
+ | § 220-12K(4) | Failure to control stormwater discharges, prevent erosion and
+sedimentation, or prevent pollution of wetlands and watercourses | Maximum $1,000 | 
+ | § 220-12K(8) | Failure to conform to the terms, conditions, limitations or
+modifications set forth in any permit, including any time period established
+therein | Up to $1,000 | 
+ | § 220-13 | Failure to post the required bond or to obtain liability insurance
+as required by the Agency | Up to $1,000 | 
+
+
+ii      adoption of technical amendments
+https://ecode360.com/14369816
+0.343737576946346
+ | "There is hereby established a maximum speed limit of 35 miles
+per hour on all Town roads in the Town of Brookfield, except as otherwise
+posted." | 
+
+
+iv      tax abatement for certain emergency services volunteers
+https://ecode360.com/8019785
+0.34107283741348493
+ | Up to 2 | $0 | 
+ | More than 2, up to 4 | $250 | 
+ | More than 4, up to 9 | $500 | 
+ | More than 9 | $1,000 | 
+
+
+ii      adoption of technical amendments
+https://ecode360.com/14369816
+0.3302904616884472
+ | "(b) The Brookfield Zoning Commission shall consist of five
+members who shall be electors of the Town not holding any other elected
+or appointed Town office and who shall be elected biennially on the
+first Tuesday after the first Monday in November in the odd years.
+The term of office for each member of said Commission shall be four
+years. In the event of the resignation or death of any member of said
+Commission, or in the event of any other vacancy existing of said
+Commission, the Board of Selectmen shall appoint a successor who shall
+serve until the next regularly scheduled biennial election, at which
+time the vacancy shall be filled for the remainder of the term for
+which the original member was elected. The representation of the minority
+political party on said Commission shall be guaranteed in accordance
+with Section 9-167a of the Connecticut General Statutes, Revision
+of 1958, as amended. | 
+ | "(c) The Brookfield Planning Commission shall consist of five
+members who shall be electors of the Town not holding any other elected
+or appointed Town office and who shall be elected biennially on the
+first Tuesday after the first Monday in November in the odd years.
+The term of office for each member of said Commission shall be four
+years. The representation of the minority political party on said
+Commission shall be guaranteed in accordance with Section 9-167a of
+the Connecticut General Statutes, Revision of 1958, as amended. Any
+vacancies in the Commission shall be filled as provided by law." | 
+
+
+ii      adoption of technical amendments
+https://ecode360.com/14369816
+0.3281135875009583
+ | "All applications for approval of the sewerage facilities shall
+be filed with the Director of Health or the inspector appointed by
+him. All applications for approval shall be accompanied by a plan
+of the proposed sewerage facilities. The fees which shall accompany
+said application shall be as established from time to time by the
+Board of Selectmen." | 
+
+
+ii      adoption of technical amendments
+https://ecode360.com/14369816
+0.3092840425545883
+ | "Said license shall be valid for a period of one year from the
+date of issue. The fee for such license shall be as established from
+time to time by the Board of Selectmen. | 
+
+
+citations
+https://ecode360.com/8019249
+0.30810458398292695
+§§ 242-201A and 242-301B | Construction of a building or structure contrary
+to the cited section number(s) of the regulations | $100 | 
+§§ 242-201A, 242-401A and B,
+242-501B, 242-309B | Use of property for a purpose(s) which is in
+violation of the permitted use provisions of any one or more of the
+cited section numbers(s) of the regulations and which does not constitute
+a legal nonconforming use of the property | $150 | 
+§§ 242-201A, 242-201B, 242-201C | Noncompliance with the area dimensions, access,
+or open space provisions of the cited section number(s) of the regulations | $150 | 
+§ 242-301B | Use of property without obtaining a certificate
+of zoning compliance | $100 | 
+§ 242-301C | Noncompliance with any condition of a design
+review permit issued by the Zoning Commission or any stipulations
+or drawings attached thereto | $150 | 
+§ 242-302 | Noncompliance with the provisions of the natural
+resources removal, regulations | $150 | 
+§ 242-303 | Noncompliance with the provisions of the excavation,
+filling or grading regulations | $150 | 
+§ 242-304 | Noncompliance with the provisions of the woodcutting,
+lumbering and forestry operations regulations | $150 | 
+§ 242-305 | Noncompliance with the provisions of the off-street
+parking regulations | $50 | 
+§ 242-306 | Noncompliance with the permit requirements,
+location, size, number of signs on a parcel of land, wording, height
+setback, illumination, type, or other standards or provisions of the
+sign regulations | $50 | 
+§ 242-308 | Noncompliance with the height, setback, temporary
+permit, tag sale, street obstruction, liquor outlets, swimming pool,
+fence and temporary living quarters requirements of the miscellaneous
+provisions of the regulations | $50 | 
+§ 242-310 | Noncompliance with the provisions of the conservation
+subdivision regulations | $150 | 
+§ 242-312 | Noncompliance with the provisions of the telecommunications
+tower and antennae regulations | $150 | 
+§ 242-401A(6) | Noncompliance with the provisions of the livestock
+and/or poultry regulations | $50 | 
+§§ 242-401D, 242-402, 242-403 | Noncompliance with the lot area, width, yards,
+coverage or height provisions of the cited section number(s) of the
+regulations | $150 | 
+§ 242-404 or 242-405 | Creation and/or maintenance of a multifamily
+dwelling(s) or apartment within a single-family dwelling without a
+permit | $150 | 
+§§ 242-501C, 242-501D, 242-501E,
+242-501F, 242-501G | Noncompliance with the area, yard, height, buffer,
+land coverage, setback, road and drive, or special conditions provisions
+of the cited section number(s) of the regulations | $150 | 
+§ 242-502 | Noncompliance with the provisions of the Aquifer
+Protection District regulations | $150 | 
+§ 242-503 | Noncompliance with the provisions of the Floodplain
+District regulations | $150 | 
+§ 242-505 | Noncompliance with the provisions of the Central
+Business District regulations | $150 | 
+§ 242-601 | Noncompliance with the provisions of the land
+use standards and design criteria of the regulations | $100 | 
+
+
+ii      adoption of technical amendments
+https://ecode360.com/14369816
+0.2979215518778979
+ | "The first two persons named shall serve for a period of one
+year, term to run until March 31, 1975; the next two persons named
+for a period of two years, term to run until March 31, 1976; and the
+fifth person named shall serve for a period of three years, term to
+run until March 31, 1977. All appointments subsequent to the original
+appointment shall be for a term of two years commencing April 1 in
+the year of appointment." | 
+
+
+solid waste
+https://ecode360.com/14371709
+0.287554510473115
+ | [including those addressed by regulations adopted by the United
+States Environmental Protection Agency (EPA) pursuant to the Resource
+Conservation Recovery Act of 1976, as amended, or other federal statutes
+or adopted by the Connecticut Department of Environmental Protection
+(DEP), such as, but not limited to, cleaning fluids, crankcase oils,
+cutting oils, hazardous paints, acids, caustics, poisons, drugs, radioactive
+materials, fine powdery earth used to filter cleaning fluid and refuse
+of similar nature]. | 
+
+
+viii      business incentive tax
+https://ecode360.com/29234452
+0.20337684797281977
+Costs of Improvements | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 | Year 7 | 
+$3,000,000 or more | 25% | 40% | 60% | 80% | X | X | X | 
+$500,000 to $2,999,999 | 30% | 50% | X | X | X | X | X | 
+$100,000 to $499,999 | 50% | 50% | X | X | X | X | X | 
+
+
+dl      disposition list
+https://ecode360.com/8019889
+0.19623101444220656
+BOS | 9-9-2019 | Energy Advisory Board | Ch. 20A | 42 | 
+BOS | 11-4-2019 | Blighted Buildings and Properties Amendment | Ch. 83 | 42 | 
+BOS | 1-6-2020 | Fees Amendment | Ch. 127 | 43 | 
+BOS | 2-7-2020 | Sewage Disposal Systems, On-Site Amendment | Ch. 182 | 43 | 
+
+
+dl      disposition list
+https://ecode360.com/8019889
+-0.20057548708570327
+BOS | 2-6-2006 | Tax credit for elderly homeowners amendment | Ch. 197, Art. I | 
+BOS | 2-6-2006 | Tax deferral for elderly homeowners | Ch. 197, Art. VI | 
+BOS | 3-6-2006 | Trees | Ch. 201 | 
+BOS | 3-6-2006 | Veterans property tax exemption amendment | Ch. 197, Art. V | 
+BOS | 3-16-2006 | Fees amendment | Ch. 127 | 
+BOS | 5-1-2006 | Tax exemption for severely disabled veterans | Ch. 197, Art. VII | 
+BOS | 9-11-2006 | Citations for violation of Zoning Regulations | Ch. 84, Art. II | 
+BOS | 10-3-2006 | Lead-based and deteriorated paint | Ch. 166 | 
+BOS | 12-4-2006 | Gurski Homestead Commission | Ch. 24 | 
+BOS | 1-8-2007 | Lake Candlewood Authority amendment | Ch. 38, Art. II | 
+BOS | 1-8-2007 | Water systems | Ch. 215, Art. I | 
+BOS | 6-15-2007 | Emergencies | Ch. 20 | 
+Referendum | 11-6-2007 | Charter amendment | Charter | 
+BOS | 2-4-2008 | Snow and ice removal | Superseded 5-2-2016 | 
+BOS | 3-3-2008 | Public pools | Ch. 174, Art. I | 
+BOS | 3-3-2008 | Food service establishments | Superseded 6-4-2012 | 
+BOS | 6-1-2009 | Sex offenders | Ch. 186 | 
+BOS | 10-26-2009 | Code of Ethics | Ch. 21 | 
+BOS | 2-1-2010 | Retirement Benefits Advisory Committee | Ch. 57, Art. I | 
+BOS | 7-21-2010 | Peddling and soliciting amendment | Ch. 171 | 
+BOS | 8-13-2010 | Water system | Ch. 215, Art. I | 
+BOS | 10-4-2010 | Fees amendment | Ch. 127 | 
+BOS | 10-4-2010 | Fees amendment | Ch. 127 | 
+BOS | 5-2-2011 | Tax credit for elderly homeowners amendment | Ch. 197, Art. I | 
+BOS | 10-3-2011 | Building construction: restrictions on building permits amendment | Ch. 96, Art. IV | 
+BOS | 1-3-2012 | Retirement Benefits Advisory Committee amendment | Ch. 57, Art. I | 
+BOS | 2-6-2012 | Building construction: demolition of buildings amendment | Ch. 96, Art. V | 
+STM | 4-4-2012 | Conservation Commission amendment | Ch. 15 | 
+BOS | 5-2-2012 | Salons and spas: licenses, fees, inspections and technical standards | Ch. 178, Art. I | 
+BOS | 6-4-2012 | Food service establishments | Superseded 1-7-2019 | 
+BOS | 7-2-2012 | Water Pollution Control Authority | Ch. 71 | 
+BOS | 8-6-2012 | Excess tax payments | Ch. 197, Art. IX | 
+Referendum | 11-6-2012 | Charter amendment | Charter | 
+BOS | 12-3-2012 | Parks and Recreation Commission amendment | Ch. 46 | 
+BOS | 12-3-2012 | Fees amendment | Ch. 127 | 
+BOS | 6-3-2013 | Water system amendment | Ch. 215, Art. I | 
+BOS | 3-3-2014 | Aquifer Protection Agency | Ch. 5 | 
+BOS | 7-7-2014 | Business incentive tax | Ch. 197, Art. VIII | 
+Referendum | 11-4-2014 | Charter amendment | Charter, §§ C8-3, 9-1, 9-3 | 
+BOS | 12-1-2014 | Retirement Benefits Advisory Committee amendment | Ch. 57, Art. I | 
+BOS | 3-2-2015 | Retirement: Other Post-Employment Benefits Trust | Ch. 57, Art. II | 
+BOS | 7-6-2015 | Blighted buildings and properties amendment | Ch. 83 | 
+BOS | 10-5-2015 | On-site sewage disposal systems | Ch. 182 | 
+BOS | 5-2-2016 | Snow and ice removal and maintenance; assessment of benefits
+for sidewalk improvements | Ch. 192, Art. IV; Ch. 192, Art. V | 
+BOS | 9-12-2016 | Fees amendment | Ch. 127 | 
+BOS | 10-5-2016 | Emergency services | Ch. 122 | 
+BOS | 12-5-2016 | Fees amendment | Ch. 127 | 
+BOS | 5-1-2017 | Fees amendment | Ch. 127 | 
+BOS | 6-5-2017 | Restrictions on building permits amendment | Ch. 96, Art. IV | 
+BOS | 6-5-2017 | Food service establishments amendment | Superseded 1-7-2019 | 
+BOS | 7-10-2017 | Tax deferral for elderly homeowners amendment | Ch. 197, Art. VI | 
+BOS | 11-6-2017 | Library Board of Trustees | Ch. 42 | 
+BOS | 2-5-2018 | Parking amendment | Ch. 168 | 
+BOS | 9-4-2018 | Blighted Buildings and Properties Amendment | Ch. 83 | 
+BOS | 1-7-2019 | Food Service Establishments | Ch. 134 | 
+
+

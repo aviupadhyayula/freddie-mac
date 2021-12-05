@@ -1,0 +1,264 @@
+zoning
+https://ecode360.com/8869032
+0.7133271202077504
+ | Single-family dwelling or townhouse | 2 per dwelling |  | 
+ | Church or temple, auditorium or place of assembly | 1 per 5 seats or bench seating spaces | (Seats in main auditorium only) | 
+ | Public buildings such as public library, museum, art gallery
+or community center | 10 per use | Plus 1 additional space for each 300 square feet of floor area | 
+ | Motel/hotel | 1 per sleeping unit | Plus 1 for each 10 rooms or portion thereof | 
+ | Professional services building | 1 per 200 square feet of floor area | 6 minimum, 10 minimum for a clinic | 
+ | Restaurant or eatery | 1 per 100 square feet of total patron area |  | 
+ | Retail store | 1 per 300 square feet of floor area |  | 
+
+
+zoning
+https://ecode360.com/8869032
+0.4679794064830842
+ | 0 | 9 | 9 feet | 26 feet 4 inches | 
+ | 20 | 9 | 15 feet | 23 feet | 
+ | 30 | 9 | 17 feet 4 inches | 18 feet | 
+ | 40 | 9 | 19 feet 2 inches | 14 feet 10 inches | 
+ | 45 | 9 | 19 feet 10 inches | 12 feet 9 inches | 
+ | 50 | 9 | 20 feet 5 inches | 11 feet 9 inches | 
+ | 60 | 9 | 21 feet | 10 feet 5 inches | 
+ | 70 | 9 | 21 feet | 9 feet 8 inches | 
+ | 80 | 9 | 20 feet 4 inches | 9 feet 2 inches | 
+ | 90 | 9 | 19 feet | 9 feet | 
+
+
+zoning
+https://ecode360.com/8869032
+0.376345431963876
+ | 0 | 14 | 
+ | 20 | 14 | 
+ | 30 | 14 | 
+ | 40 | 14 | 
+ | 45 | 14 | 
+ | 50 | 14 | 
+ | 60 | 20 | 
+ | 70 | 20 | 
+ | 80 | 25 | 
+
+
+ii      absentee voting  detailed provisions of the state law
+https://ecode360.com/8868204
+0.29069655299660624
+ | I do solemnly swear (affirm) that to the best
+of my knowledge I am eligible to vote in this municipal election and
+that the address that appears on the label on this envelope is the
+address at which I am qualified to vote in this municipal election.
+I also do solemnly swear (affirm) under penalty of perjury that I
+have not received or accepted, or offered to receive or accept, any
+money or other item of value as compensation, inducement or reward
+for the giving or withholding of a vote at this municipal election,
+nor that I am acting under duress or threat of duress or harm. | 
+
+
+dl      disposition list
+https://ecode360.com/8869327
+0.2504572022097017
+ | 6-28-2019 | Building and Utility Construction Amendment | Ch. 61 | 26 | 
+
+
+i      elections for council members
+https://ecode360.com/8868188
+0.2204835906160447
+ | Fill out statement (1) or (2) below, whichever
+is applicable to you. | 
+
+
+i      elections for council members
+https://ecode360.com/8868188
+0.03249186356219583
+ |  | (SEAL) | 
+
+
+i      elections for council members
+https://ecode360.com/8868188
+0.03249186356219583
+ |  | (SEAL) | 
+
+
+dl      disposition list
+https://ecode360.com/8869327
+-1.6909121311224584
+Ord. No. 76 | 5-31-1996 | Notice of tort claims | Ch. 37 | 
+ | 5-31-1996 | Property maintenance amendment | Ch. 120 | 
+Ord. No. 77 | 7-26-1996 | Adoption of Code | Ch. 1, Art. I | 
+ | 7-26-1996 | Property maintenance amendment | Ch. 120 | 
+ | 7-26-1996 | Licensing amendment | Ch. 100 | 
+ | 7-26-1996 | Zoning amendment | Ch. 160 | 
+ | 7-26-1996 | Outdoor burning amendment | Ch. 73 | 
+ | 7-26-1996 | General lighting regulations | Superseded 2-26-2010 | 
+ | 9-27-1996 | Lighting in residential zones | Superseded 2-26-2010 | 
+ | 9-27-1996 | Noise amendment | Superseded 3-26-2010 | 
+Ord. No. 78 | 3-21-1997 | Pensions | Ch. 31 Repealer | 
+ | 5-30-1997 | Signs amendment | Ch. 135 | 
+ | 10-31-1997 | Noise amendment | Superseded 3-26-2010 | 
+ | 11-21-1997 | Building construction amendment | Ch. 61 | 
+ | 11-21-1997 | Building construction amendment | Ch. 61 | 
+ | 2-27-1998 | Building construction amendment | Ch. 61 | 
+ | 2-27-1998 | Lighting amendment | Superseded 2-26-2010 | 
+ | 7-31-1998 | Realty transfer tax | Ch. 146, Art. III | 
+ | 7-31-1998 | Lighting amendment | Superseded 2-26-2010 | 
+ | 7-31-1998 | Disorderly conduct amendment | Superseded 3-26-2010 | 
+ | 8-28-1998 | Building construction amendment | Ch. 61, Art. II | 
+ | 1-29-1999 | Realty transfer tax amendment | Ch. 146, Art. III | 
+ | 1-29-1999 | Signs amendment | Ch. 135 | 
+ | 1-29-1999 | Charter amendment | Charter | 
+ | 2-26-1999 | Building and utility construction amendment | Ch. 61, Arts. I, II and III | 
+ | 3-26-1999 | Building and utility construction amendment | Ch. 61, Art. I | 
+ | 3-26-1999 | Activities on dunes amendment | Ch. 52, Art. II | 
+ | 3-26-1999 | Parking amendment | Ch. 112, Art. III | 
+ | 3-26-1999 | Zoning amendment | Ch. 160 | 
+ | 3-26-1999 | Waterfowl | Ch. 48, Art. II | 
+ | 4-28-2000 | Zoning amendment | Ch. 160 | 
+ | 4-28-2000 | Zoning amendment | Ch. 160 | 
+ | 6-30-2000 | Zoning amendment | Ch. 160 | 
+ | 7-24-2000 | Zoning amendment | Ch. 160 | 
+ | 8-25-2000 | Handling and disposition of solid waste amendment | Ch. 127, Art. II | 
+ | 10-20-2000 | Outdoor burning amendment | Ch. 73 | 
+ | 10-20-2000 | Zoning amendment | Ch. 160 | 
+ | 6-22-2001 | Zoning amendment | Ch. 160 | 
+ | 6-22-2001 | Licensing amendment | Ch. 100 | 
+ | 6-22-2001 9-28-2001 | Licensing amendment Licensing amendment | Ch. 100 Ch. 100 | 
+ | 9-28-2001 | Licensing amendment | Ch. 100 | 
+ | 9-28-2001 | Zoning amendment | Ch. 160 | 
+ | 3-22-2002 | Parking amendment | Ch. 112 | 
+ | 3-22-2002 | Gross rental receipts tax amendment | Ch. 146, Art. II | 
+ | 5-31-2002 | Zoning amendment | Ch. 160 | 
+ | 11-15-2002 | Building and utility construction amendment | Ch. 61 | 
+ | 11-15-2002 | Zoning amendment | Ch. 160 | 
+ | 12-13-2002 | Licensing amendment | Ch. 100 | 
+ | 12-13-2002 | Gross rental receipts tax amendment | Ch. 146, Art. II | 
+ | 3-28-2003 | Street names | Ch. 140, Art. I | 
+ | 5-23-2003 | Zoning amendment | Ch. 160 | 
+ | 10-31-2003 | Building construction amendment | Ch. 61 | 
+ | 12-19-2003 | Building construction amendment | Ch. 61 | 
+ | 12-19-2003 | Erosion control amendment | Ch. 81 | 
+74 Del. Laws, c. 251 | 6-8-2004 | Charter amendment | Section 4 | 
+ | 2-27-2004 | Zoning amendment | Ch. 160 | 
+ | 3-26-2004 | Signs amendment | Ch. 135 | 
+ | 3-26-2004 | Building construction amendment | Ch. 61 | 
+ | 3-26-2004 | Sanitation amendment | Ch. 127 | 
+ | 4-23-2004 | Zoning amendment | Ch. 160 | 
+ | 5-28-2004 | Zoning amendment | Ch. 160 | 
+ | 5-28-2004 | Pets and other animals amendment | Ch. 48, Art. I | 
+ | 6-25-2004 | Pets and other animals amendment | Ch. 48, Art. I | 
+ | 9-24-2004 | Beaches | Ch. 52 | 
+ | 12-10-2004 | Beaches amendment | Ch. 52 | 
+ | 12-10-2004 | Outdoor burning amendment | Ch. 73 | 
+ | 3-1-2005 | Building code amendment | Ch. 61 | 
+ | 3-18-2005 | Zoning amendment | Ch. 160 | 
+ | 9-23-2005 | Zoning amendment | Ch. 160 | 
+ | 9-23-2005 | Licensing amendment | Ch. 100 | 
+ | 9-23-2005 | Gross rental receipts tax amendment | Ch. 146, Art. II | 
+ | 11-18-2005 | Signs amendment | Ch. 135 | 
+ | 4-28-2006 | Signs amendment | Ch. 135 | 
+ | 6-23-2006 | Zoning amendment | Ch. 160 | 
+ | 6-23-2006 | Emergency management amendment | Ch. 17 | 
+ | 4-27-2007 | General provisions amendment | Ch. 1, Art. I | 
+ | 4-27-2007 | Outdoor burning amendment | Ch. 73 | 
+ | 4-27-2007 | Parking | Ch. 112 | 
+ | 4-27-2007 | Property maintenance amendment | Ch. 120 | 
+ | 7-27-2007 | Zoning amendment | Ch. 160 | 
+ | 7-27-2007 | Zoning amendment | Ch. 160 | 
+ | 3-28-2008 | Elections | Ch. 13 | 
+ | 5-23-2008 | Building and utility construction: building
+permits amendment | Ch. 61, Art. I | 
+ | 6-20-2008 | Parking amendment | Ch. 112 | 
+76 Del. Laws, c. 363 | 7-16-2008 | Charter amendment | Sections 6, 7 and 9 | 
+ | 7-25-2008 | Parking amendment | Ch. 112 | 
+ | 8-22-2008 | Parking amendment | Ch. 112 | 
+ | 8-22-2008 | Building and utility construction: building
+permits amendment | Ch. 61, Art. I | 
+ | 8-22-2008 | Zoning amendment | Ch. 160 | 
+77 Del. Laws, c. 25 | 10-24-2008 | Charter amendment | Section 33 | 
+ | 1-23-2009 | Elections amendment | Ch. 13 | 
+ | 1-23-2009 | Utility construction amendment | Ch. 61, Art. III | 
+ | 4-24-2009 | Beaches amendment | Ch. 52 | 
+ | 5-29-2009 | Zoning amendment | Ch. 160 | 
+77 Del. Laws, c. 250 | 8-28-2009 | Charter amendment | Ch. 15 | 
+ | 8-28-2009 | Zoning amendment | Ch. 160 | 
+ | 8-28-2009 | Outdoor burning amendment | Ch. 73 | 
+ | 9-25-2009 | Licensing amendment | Ch. 100 | 
+ | 9-25-2009 | Peace and good order amendment | Ch. 116 | 
+ | 10-23-2009 | Pets and other animals amendment; attraction and retention of
+waterfowl amendment | Ch. 48, Arts. I and II | 
+ | 10-23-2009 | Beaches amendment | Ch. 52 | 
+ | 12-11-2009 | Boating amendment | Ch. 56 | 
+ | 2-26-2010 | Hazardous materials amendment | Ch. 95 | 
+ | 2-26-2010 | Lighting | Ch. 102 | 
+ | 3-26-2010 | Disorderly conduct | Ch. 77 | 
+ | 3-26-2010 | Noise | Ch. 107 | 
+ | 4-23-2010 | Parking amendment | Ch. 112 | 
+ | 4-23-2010 | Peace and good order amendment | Ch. 116 | 
+ | 4-23-2010 | Property maintenance amendment | Ch. 120 | 
+ | 6-25-2010 | Sewers amendment | Ch. 131 | 
+ | 7-23-2010 | Sanitation | Ch. 127 | 
+ | 9-24-2010 | Subdivision of land amendment | Ch. 142 | 
+ | 9-24-2010 | Vehicles and traffic | Ch. 153 | 
+ | 12-10-2010 | Signs amendment | Ch. 135 | 
+ | 1-28-2011 | Streets and sidewalks: street names amendment | Ch. 140, Art. I | 
+ | 5-20-2011 | Zoning amendment | Ch. 160 | 
+ | 5-20-2011 | Zoning amendment | Ch. 160 | 
+ | 6-24-2011 | Peace and good order: special events | Ch. 116, Art. II | 
+ | 7-22-2011 | Building and utility construction: building permits amendment;
+hours of operation and construction site conditions amendment | Ch. 61, Arts. I, II | 
+ | 7-22-2011 | Zoning amendment | Ch. 160 | 
+ | 4-27-2012 | Property maintenance amendment | Ch. 120 | 
+ | 5-18-2012 | Zoning amendment | Ch. 160 | 
+ | 6-2-2012 | Subdivision of land amendment | Ch. 142 | 
+ | 8-24-2012 | Licensing amendment | Ch. 100 | 
+ | 8-24-2012 | Parking amendment | Ch. 112 | 
+ | 8-24-2012 | Zoning amendment | Ch. 160 | 
+ | 10-25-2012 | Building permits amendment | Ch. 61, Art. I | 
+ | 1-25-2013 | Beaches amendment | Ch. 52 | 
+ | 1-25-2013 | Utility construction amendment | Ch. 61, Art. III | 
+ | 1-25-2013 | Regulations regarding camping, beaches, parks and vehicles amendment | Ch. 116, Art. I | 
+ | 2-22-2013 | Zoning amendment | Ch. 160 | 
+ | 2-22-2013 | Zoning amendment | Ch. 160 | 
+ | 4-26-2013 | Zoning amendment | Ch. 160 | 
+ | 3-28-2014 | Zoning amendment | Ch. 160 | 
+ | 4-25-2014 | Zoning amendment | Ch. 160 | 
+ | 12-11-2014 | Peace and good order: special events amendment | Ch. 116, Art. II | 
+ | 1-23-2015 | Flood damage reduction | Ch. 88 | 
+ | 6-26-2015 | Signs amendment | Ch. 135 | 
+ | 7-24-2015 | Zoning amendment | Ch. 160 | 
+ | 10-23-2015 | Peace and good order: possession of firearms, ammunition, components
+of firearms, or explosives in municipal buildings, on municipal properties,
+and in police stations | Ch. 116, Art. III | 
+ | 12-11-2015 | Zoning amendment | Ch. 160 | 
+ | 2-26-2016 | Zoning amendment | Ch. 160 | 
+ | 2-26-2016 | Temporary moratorium on new motel/hotel uses | NCM | 
+ | 4-1-2016 | Zoning amendment | Ch. 160 | 
+ | 7-22-2016 | Peace and good order: offenses against public peace and safety | Ch. 116, Art. IV | 
+ | 8-26-2016 | Property maintenance amendment | Ch. 120 | 
+ | 8-26-2016 | Taxation: real estate tax | Ch. 146, Art. I | 
+ | 12-9-2016 | Property maintenance amendment | Ch. 120 | 
+ | 12-9-2016 | Zoning amendment | Ch. 160 | 
+ | 1-27-2017 | Building and utility construction: building permits amendment | Ch. 61, Art. I | 
+ | 6-23-2017 | Zoning Amendment | Ch. 160 | 
+ | 7-28-2017 | Peace and Good Order: Regulations Regarding Camping, Beaches,
+Parks and Vehicles Amendment | Ch. 116, Art. I | 
+ | 7-28-2017 | Beaches Amendment | Ch. 52 | 
+ | 8-25-2017 | Beaches Amendment; Peace and Good Order: Regulations Regarding
+Camping, Beaches, Parks and Vehicles Amendment | Ch. 52; Ch. 116, Art. I | 
+ | 12-8-2017 | Zoning Amendment | Ch. 160 | 
+ | 12-8-2017 | Charter Amendment | Ch. C | 
+ | 2-23-2018 | Zoning Amendment | Ch. 160 | 
+ | 2-23-2018 | Building and Utility Construction: Wireless Infrastructure Construction | Ch. 61, Art. IV | 
+ | 2-23-2018 | Charter Amendment | Ch. C | 
+ | 4-27-2018 | Zoning Amendment | Ch. 160 | 
+ | 6-22-2018 | Taxation: Gross Rental Receipts Amendment | Ch. 146, Art. III | 
+ | 8-24-2018 | Zoning Amendment | Ch. 160 | 
+ | 12-7-2018 | Zoning Amendment | Ch. 160 | 
+ | 12-7-2018 | Flood Damage Reduction Amendment | Ch. 88 | 
+ | 3-22-2019 | Building and Utility Construction: Wireless Infrastructure Construction
+Amendment | Ch. 61, Art. IV | 
+ | 3-22-2019 | Erosion Control Amendment | Ch. 81 | 
+ | 5-3-2019 | Zoning Amendment | Ch. 160 | 
+ | 5-3-2019 | Building and Utility Construction: Building Permits Amendment | Ch. 61, Art. I | 
+ | 5-3-2019 | Flood Damage Reduction Amendment | Ch. 88 | 
+
+

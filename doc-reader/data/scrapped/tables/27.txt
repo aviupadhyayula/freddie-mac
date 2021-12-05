@@ -1,0 +1,303 @@
+ii      planning and zoning  inland wetlands  and administrative fees
+https://ecode360.com/37515553
+0.5852788693243439
+Final review of any activity within the regulated area will
+require a regulated activity application and be charged at the rates
+listed above for residential uses and commercial/industrial/residential
+three units or greater/all other activities. Separate regulated activity
+applications are required for each approved lot and subdivision infrastructure. | 
+
+
+vii      elderly tax relief program
+https://ecode360.com/8828726
+0.43558766455050557
+ | NOTES: | 
+ | * The increase in the Participant's Property
+Tax thereby increases the base and establishes a new base tax (adjusted
+basis). | 
+ | "Base tax" shall be defined as the amount of
+tax levied on the property at the time the taxpayer qualifies under
+the elderly tax relief program. | 
+ | "Base year" shall be defined as the first year
+of qualification in the elderly tax relief program. | 
+ | "Excess over cap" shall be defined as the amount
+of tax relief which exceeds the cap set by the Board of Finance | 
+ | An example of the proposal would be: | 
+ | Cap Set by the Board of Finance: $300,000. | 
+ | Total Tax of All Participants: $1,000,000. | 
+ | Total Relief to All Participants: $350,000. | 
+ | Sample Tax for Participant A-Base Year: $ 3,000. | 
+
+
+ii      excavations and obstructions  driveways and private roads
+https://ecode360.com/8828574
+0.3324326494392352
+ | General Liability | Each occurrence | $1,000,000 | 
+ |  | General aggregate | $2,000,000 | 
+ |  | Products/completed operations aggregate | $2,000,000 | 
+ | Auto Liability | Combined single limit each accident | $1,000,000 | 
+ | Umbrella | Each occurrence aggregate | $1,000,000 | 
+ | (Excess Liability) |  | $1,000,000 | 
+
+
+town meeting
+https://ecode360.com/12053384
+0.3292510498789264
+ | Any proposed appropriation may, however, be
+reduced by the meeting to a sum less than that recommended by the
+Board of Finance - provided that at least 300 eligible voters are
+in attendance and voting upon a motion to reduce, and at least 200
+vote in favor of said motion. | 
+
+
+vii      elderly tax relief program
+https://ecode360.com/8828726
+0.29785933335606884
+Excess Over Cap ($350,000-$300,000) = | $50,000
+$1,000,000 | X | 3,000 = $150 (amount of increase of Participant
+A's property tax) | 
+
+
+elections and elective offices
+https://ecode360.com/12053227
+0.2788513828397199
+ | The elected Town Treasurer in office on the date of adoption of this Charter shall continue to hold office for the term for which he was elected, during such time shall continue as agent of the town deposit fund and shall have the powers and duties prescribed by the General Statutes and by this charter. Effective upon the conclusion of the term of office of the Town Treasurer elected in the election of November 6, 2007, the office of the Town Treasurer shall no longer be a separate office of the town, elective or appointive. The Finance Director (Fiscal Officer) shall thereafter have all the powers and duties conferred or imposed on town treasurers by the Connecticut General Statutes, by this charter or any other law and shall hold office in accordance with the provisions of Section 5-6.[1] | 
+
+
+elections and elective offices
+https://ecode360.com/12053227
+0.2726623362860857
+ | The registered voters shall elect a Board of
+Finance of seven members for terms of four years. At each regular
+town election there shall be elected a sufficient number of members
+to such a board to maintain its number at seven. The Board of Finance
+shall have the powers and duties prescribed by the Connecticut General
+Statutes and as provided in this charter. | 
+
+
+elections and elective offices
+https://ecode360.com/12053227
+0.27246293220220863
+ | The registered voters shall elect a Board of
+Education of nine members for terms of four years. At each regular
+town election there shall be elected a sufficient number of members
+to such board to maintain its number at nine. The Board of Education
+shall have the powers and duties of boards of education prescribed
+by the Connecticut General Statutes. | 
+
+
+vii      elderly tax relief program
+https://ecode360.com/8828726
+0.26624227169630676
+ | 1 to 4 | $29,600 | $36,000 | 
+ | 5 to 8 | $44,500 | $54,000 | 
+ | 9 to 20 | $62,500 | $75,000 | 
+ | 20 or more | $79,000 | $95,000 | 
+
+
+elections and elective offices
+https://ecode360.com/12053227
+0.2584049790530317
+ | The registered voters shall elect a Board of
+Assessment Appeals of three members for terms of four years with the
+power and duties of Boards of Assessment Appeals prescribed by the
+Connecticut General Statutes. | 
+
+
+elections and elective offices
+https://ecode360.com/12053227
+0.2465781276665436
+ | At each regular town election there shall be
+elected a Board of Selectmen consisting of the First Selectman and
+four Selectmen. The votes cast for the unsuccessful candidate for
+First Selectman shall be counted as votes for him or her as a member
+of such board. These officers shall serve terms of four years and
+shall have the powers and duties prescribed for their offices by the
+Connecticut General Statutes and by this charter. | 
+
+
+ii      excavations and obstructions  driveways and private roads
+https://ecode360.com/8828574
+0.24354183509949312
+ | EL each accident | $500,000 | 
+ | EL disease each employee | $500,000 | 
+ | EL disease policy limit | $500,000 | 
+
+
+dl      disposition list
+https://ecode360.com/8831132
+0.2278889988897173
+Board of Selectmen | 6-3-2019 | Solid Waste and Recycling Amendment | Ch. 236 | 26 | 
+Board of Selectmen | 8-5-2019 | Peddling and Soliciting | Ch. 218 | 26 | 
+Board of Selectmen | 9-5-2019 | Building Construction Amendment | Ch. 148 | 27 | 
+Board of Selectmen | 11-4-2019 | Harbor Management Amendment | Ch. 48 | 26 | 
+Board of Selectmen | 11-16-2020 | Fees Amendment | Ch. 166 | 27 | 
+
+
+noise
+https://ecode360.com/12509033
+0.1668168123268743
+ | Emitter's Zone |  |  |  |  | 
+ | Residential | 62dBA | 55dBA | Day 55 dBA | Night 45 dBA | 
+
+
+noise
+https://ecode360.com/12509033
+0.1583239311640099
+ | Emitter's Zone |  |  |  |  | 
+ | Industrial | 70 dBA | 66 dBA | Day 61 dBA | Night 51 dBA | 
+
+
+noise
+https://ecode360.com/12509033
+0.14736357629849078
+ | Emitter's Zone |  |  |  |  | 
+ | Commercial | 62dBA | 62 dBA | Day 55 dBA | Night 45 dBA | 
+
+
+miscellaneous
+https://ecode360.com/12053404
+0.10422481315273777
+"You do solemnly swear (or affirm, as the case
+may be) that you will support the Constitution of the United States
+and the Constitution of the State of Connecticut, so long as you continue
+a citizen thereof; and that you will faithfully discharge, according
+to law, the duties of the office of .......... to the best of your
+abilities. So help you God." | 
+
+
+miscellaneous
+https://ecode360.com/12053404
+0.03346999005115231
+No other oath or affirmation shall be required. | 
+
+
+vii      elderly tax relief program
+https://ecode360.com/8828726
+-0.029341171861927
+ |  |  |  | 
+
+
+dl      disposition list
+https://ecode360.com/8831132
+-0.8668681579024626
+Board of Selectmen | 6-2-1997 | Adoption of Code | Ch. 1, Art. I | 
+Board of Selectmen | 12-15-1997 | Code of ethics amendment | Ch. 31 | 
+Planning and Zoning Commission | 1-7-1998 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 1-21-1998 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 2-18-1998 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 2-18-1998 | Subdivision of land amendment; Zoning amendment | Ch. 272; Ch. 273 | 
+Planning and Zoning Commission | 3-18-1998 | Zoning amendment | Ch. 273 | 
+Board of Selectmen | 4-20-1998 | Boards, commissions and committees amendment | Ch. 9 | 
+Board of Selectmen | 4-20-1998 | Shellfish commission: establishment amendment | Ch. 106, Art. I | 
+Planning and Zoning Commission | 5-6-1998 | Subdivision of land amendment | Ch. 272 | 
+Planning and Zoning Commission | 5-6-1998 | Zoning amendment | Ch. 273 | 
+ATM | 5-11-1998 | Shellfish commission: alternate members amendment | Ch. 106, Art. II | 
+Planning and Zoning Commission | 8-5-1998 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 10-7-1998 | Acceptance of Code by Planning and Zoning Commission | Ch. 270, Art. II | 
+Planning and Zoning Commission | 4-7-1999 | Zoning amendment | Ch. 273 | 
+Board of Selectmen | 5-10-1999 | Harbor Management | Ch. 48 | 
+Board of Selectmen | 10-4-1999 | Parks and public places amendment | Ch. 214 | 
+Planning and Zoning Commission | 10-6-1999 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 10-20-1999 | Subdivision of land amendment; zoning amendment | Ch. 272; Ch. 273 | 
+Planning and Zoning Commission | 11-3-1999 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 1-4-2000 | Subdivision of land amendment; zoning amendment | Ch. 272; Ch. 273 | 
+Planning and Zoning Commission | 1-5-2000 | Moratorium on site plan applications in C-2,
+C-3, C-D and C-4 Zones | NCM | 
+Planning and Zoning Commission | 2-2-2000 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 3-1-2000 | Zoning amendment | Ch. 273 | 
+Board of Selectmen | 4-3-2000 | Flood damage prevention | Ch. 174 | 
+Planning and Zoning Commission | 4-19-2000 | Subdivision of land amendment; zoning amendment | Ch. 272; Ch. 273 | 
+Planning and Zoning Commission | 5-3-2000 | Zoning amendment | Ch. 273 | 
+Board of Selectmen | 5-15-2000 | Inland wetlands regulations: penalties for violation | Ch. 191, Art. I | 
+Board of Selectmen | 7-3-2000 | Golf Course Commission | Ch. 45 | 
+Planning and Zoning Commission | 8-2-2000 | Zoning amendment | Ch. 273 | 
+Board of Selectmen | 11-6-2000 | Planting, maintenance and removal amendment | Ch. 252, Art. I | 
+Board of Selectmen | 11-6-2000 | Removal or damage of trees on state scenic roads | Ch. 252, Art. II | 
+Planning and Zoning Commission | 12-11-2000 | Zoning amendment (Post Road Village District) | Ch. 273 (Art. XVI) | 
+Planning and Zoning Commission | 12-11-2000 | Zoning amendment (Transition and Service District) | Ch. 273 (Art. XVII) | 
+Planning and Zoning Commission | 12-11-2000 | Zoning amendment (Shopping Center District) | Ch. 273 (Art. XVIII) | 
+Planning and Zoning Commission | 12-11-2000 | Zoning amendment (Design review) | Ch. 273 (Art. XIX) | 
+Planning and Zoning Commission | 12-11-2000 | Zoning amendment | Ch. 273 | 
+Inland Wetlands Commission | 12-14-2000 | Acceptance of Code by Inland Wetlands Commission | Ch. 270, Art. I | 
+Inland Wetlands Commission | 12-21-2000 | Inland wetlands and watercourses amendment | Ch. 271 | 
+Board of Selectmen | 2-27-2001 | Elderly Tax Relief Program | Ch. 247, Art. VII | 
+Board of Selectmen | 5-7-2001 | Land Acquisition Commission | Ch. 73 | 
+Board of Selectmen | 5-21-2001 | Property tax refunds and waivers | Ch. 247, Art. VIII | 
+Board of Selectmen | 6-4-2001 | Pool Commission | Ch. 90 | 
+Board of Selectmen | 6-4-2001 | Historic district amendment | Ch. 187 | 
+Planning and Zoning Commission | 8-1-2001 | Zoning amendment (Historic District Commission) | Ch. 273 | 
+Planning and Zoning Commission | 9-5-2001 | Zoning amendment | Ch. 273 | 
+Board of Selectmen | 9-17-2001 | Nonprofit organization tax exemption amendment | Ch. 247, Art. II | 
+Planning and Zoning Commission | 9-19-2001 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 10-17-2001 | Zoning amendment | Ch. 273 | 
+Referendum | 11-6-2001 | Charter | Charter | 
+Planning and Zoning Commission | 12-17-2001 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 1-2-2002 | Subdivision of land amendment | Ch. 272 | 
+Board of Selectmen | 1-30-2002 | Voting districts amendment | Ch. 24, Art. IV | 
+Planning and Zoning Commission | 9-4-2002 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 11-6-2002 | Zoning amendment | Ch. 273 | 
+Planning and Zoning Commission | 12-18-2002 | Zoning amendment | Ch. 273 | 
+Board of Selectmen | 1-21-2003 | Sewage/Septic disposal | Ch. 228 | 
+Planning and Zoning Commission | 5-7-2003 | Zoning amendment | Ch. 273 | 
+Board of Selectmen | 6-11-2003 | Building construction | Repealed 4-6-2009 | 
+Board of Selectmen | 6-11-2003 | Fees | Ch. 166 | 
+Board of Selectmen | 6-11-2003 | Shellfish Commission amendment | Ch. 106, Arts. I and II | 
+Board of Selectmen | 6-11-2003 | Solid waste: collection and recycling amendment | Ch. 236, Art. III | 
+Board of Selectmen | 3-1-2004 | Voting districts amendment | Ch. 24, Art. IV | 
+Board of Selectmen | 5-17-2004 | Possession of alcohol by minors | Ch. 129, Art. I | 
+Board of Selectmen | 7-6-2004 | Aquifer Protection Agency | Ch. 4 | 
+Board of Selectmen | 8-2-2004 | Youth and Family Services Board | Ch. 123 | 
+Board of Selectmen | 9-20-2004 | Tax exemption for farm machinery and buildings | Ch. 247, Art. IX | 
+Board of Selectmen | 8-1-2005 | Elderly tax relief program amendment | Ch. 247, Art. VII | 
+Board of Selectmen | 8-1-2005 | Veterans' property tax exemption | Ch. 247, Art. X | 
+Board of Selectmen | 8-1-2005 | Demolition delay | Ch. 160, Art. I | 
+Referendum | 11-8-2005 | Charter amendment | §§ 2-5; 2-6; 3-4; 4-1; 4-2; 4-8;
+5-3; 6-6; 6-7; 7-3; 7-5; 8-1; 9-1 | 
+Board of Selectmen | 4-17-2006 | Open space | Ch. 211 | 
+Board of Selectmen | 8-7-2006 | Agricultural Commission | Ch. 3 | 
+Board of Selectmen | 9-18-2006 | Fees amendment | Ch. 166 | 
+Board of Selectmen | 11-6-2006 | Fire zones/fire lanes | Ch. 259, Art. III | 
+Board of Selectmen | 6-18-2007 | Noise | Ch. 208 | 
+Board of Selectmen | 2-19-2008 | Sewage/septic disposal amendment | Ch. 228 | 
+Board of Selectmen | 4-7-2008 | Public Works Commission | Ch. 92 | 
+Board of Selectmen | 10-6-2008 | Elderly tax relief program amendment | Ch. 247, Art. VII | 
+Referendum | 11-4-2008 | Charter amendment | §§ 2-1; 2-2; 2-5 – 2-7;
+3-1 – 3-4; 4-5 – 4-7; 4-10 – 4-13; 5-1 – 5-3;
+5-8; 5-9; 6-2 – 6-4; 6-6; 6-7; 8-1; 8-3; 9-1 | 
+Board of Selectmen | 2-2-2009 | Blight | Ch. 142 | 
+Board of Selectmen | 4-6-2009 | Building construction | Ch. 148 | 
+Board of Selectmen | 11-16-2009 | Harbor management amendment | Ch. 48 | 
+Board of Selectmen | 11-16-2009 | Land Acquisition Commission amendment | Ch. 73 | 
+Board of Selectmen | 3-1-2010 | Alternate energy systems tax exemption amendment | Ch. 247, Art. I | 
+Board of Selectmen | 4-5-2010 | Board of Assessment Appeals amendment | Ch. 5 | 
+Board of Selectmen | 12-6-2010 | Flood damage prevention amendment | Ch. 174 | 
+Board of Selectmen | 5-2-2011 | Right to farm | Ch. 164, Art. I | 
+Board of Selectmen | 8-15-2011 | Pension plans | Ch. 88 | 
+Board of Selectmen | 3-5-2012 | Voting Districts amendment | Ch. 24, Art. IV | 
+Board of Selectmen | 1-7-2013 | Code of Ethics amendment | Ch. 31 | 
+Board of Selectmen | 1-7-2013 | Hazard Mitigation Commission | Ch. 50 | 
+Board of Selectmen | 1-7-2013 | Marina Commission amendment | Ch. 80 | 
+Board of Selectmen | 6-17-2013 | Flood damage prevention amendment | Ch. 174 | 
+Board of Selectmen | 6-17-2013 | Demolition of buildings: delay for significant buildings amendment | Ch. 160, Art. I | 
+Board of Selectmen | 7-1-2013 | Harbor management amendment | Ch. 48 | 
+Board of Selectmen | 10-21-2013 | Veterans' Advisory Joint Committee | Ch. 117 | 
+Board of Selectmen | 12-23-2013 | Elderly tax relief program amendment | Ch. 247, Art. VII | 
+Board of Selectmen | 6-2-2014 | Blight amendment | Ch. 142 | 
+Board of Selectmen | 7-7-2014 | Boards, commissions and committees amendment | Ch. 9 | 
+Board of Selectmen | 6-15-2015 | Parks and public places amendment | Ch. 214 | 
+Board of Selectmen | 9-8-2015 | Parks and public places amendment | Ch. 214 | 
+Board of Selectmen | 1-4-2016 | Streets and sidewalks: excavations and obstructions; driveways
+and private roads amendment | Ch. 241, Art. II | 
+Board of Selectmen | 3-21-2016 | Parks and public places amendment | Ch. 214 | 
+Board of Selectmen | 8-1-2016 | Taxation: disclosure of income and expense information of rental
+property | Ch. 247, Art. XI | 
+Board of Selectmen | 10-16-2017 | Water: Water Main Extensions | Ch. 264, Art. II | 
+Board of Selectmen | 3-13-2018 | Gas and Oil Exploration: Hydraulic Fracturing and Extraction
+Waste | Ch. 183 | 
+Board of Selectmen | 1-7-2019 | Solid Waste Amendment; Littering Repealer | Ch. 236; Ch. 198 | 
+Board of Selectmen | 1-7-2019 | Storm Sewers: Illicit Connections and Illegal Discharges | Ch. 239, Art. I | 
+Board of Selectmen | 1-7-2019 | Floodplain Management Amendment | Ch. 174 | 
+Board of Selectmen | 2-4-2019 | Human Rights Commission | Ch. 58 | 
+
+

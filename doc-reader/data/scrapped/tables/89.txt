@@ -1,0 +1,885 @@
+iii      zoning districts and zoning map
+https://ecode360.com/8028074
+0.8587924410766553
+MR | Medium-Density Residential | 
+HR | High-Density Residential | 
+MH | Mobile Home Park | 
+UB | Urban Business | 
+C | Commercial | 
+HC | Highway Commercial | 
+LI | Light Industry | 
+RPC | Residential Planned Community | 
+PC | Planned Commercial | 
+OS | Open Space | 
+WP | Wellhead Protection Overlay | 
+TND | Traditional Neighborhood Development | 
+
+
+subdivision of land
+https://ecode360.com/8027476
+0.5954407648163373
+ | Medium-Density Residential (MR) | 15.1 - 25 | 10% | 
+ |  | 25.1 or more | 15% | 
+ | High-Density Residential (HR) | 5.1 - 15 | 10% | 
+ |  | 15.1 - 25 | 15% | 
+ |  | 25.1 or more | 20% | 
+ | Residential Planned Community (RPC) | 15.1 - 25 | 20% | 
+ |  | 25.1 or more | 25% | 
+ | Mobile Home Park (MH) | 15.1 - 25 | 15% | 
+ |  | 25.1 or More | 20% | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.488039560504108
+1 | Existing agricultural operations may continue
+if using state-approved BMPs. | 
+2 | If connected to public sewer system which is
+in compliance with state and federal law and regulations. | 
+3 | Limit size. (Limits should be based on municipal
+needs.) | 
+4 | Shall be reviewed under subdivision regulations
+to insure that groundwater quality meets the preliminary and secondary
+drinking water standards at the property line. | 
+5 | Must comply with BMP established by DNREC. | 
+6 | Wells must be filled with inert, compact natural
+soil material and all piping removed. | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+0.48133847472054303
+Agriculture | none | 2 | 2 | 1 | 2 | 2 | 2 | 
+Single-family residential | 2 | none | 2 | 3 | 3 | 3 | 4 | 
+Multifamily residential | 2 | none | none | 3 | 3 | 4 | 5 | 
+Institutional | 1 | 2 | 3 | none | 2 | 2 | 4 | 
+Commercial/
+office | 2 | 3 | 3 | 2 | none | 2 | 4 | 
+Highway commercial | 2 | 4 | 4 | 3 | 2 | none | 3 | 
+Industrial | 2 | 5A | 5A | 3 | 3 | 3 | none | 
+
+
+subdivision of land
+https://ecode360.com/8027476
+0.45112439133240456
+ | *See residential street standards incorporated
+by reference into said subsection. | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.44670698347725246
+ | Immediate | 120,000 square feet* | 
+ | Primary | 80,000 square feet* | 
+ | Secondary | As in underlying district | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.42438879402726226
+ | Note:
+If the dwelling is served by public water and
+sewer, the minimum lot size in the underlying district shall apply. | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.42346430725212103
+ | Coverage of the lot, including the principal
+building and all accessory buildings | 60% | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.4099056781253787
+ | Lot area | 7,500 square feet | 
+ | Lot frontage | 75 feet | 
+ | Lot depth | 100 feet | 
+ | Each side yard | 10 feet | 
+ | For lots with less than 75 feet in width (lot
+frontage) existing at the time of this amendment (January 6, 2003) | 6 feet | 
+ | Front yard setback | 10 feet | 
+ | Rear yard setback | 10 feet | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.4012008458946769
+Central Alley | East | -- | 
+Laurel Road | West | 50 feet from Route 113, by commercial vehicles | 
+Main Street | East | At Truitt Alley to Route 24 bridge | 
+Mitchell Street[Added 6-5-2000] | East | From Old Landing Road to Wilson Highway | 
+Mitchell Street[Added 6-5-2000] | West | From Old Landing Road to Wilson Highway | 
+Moore Alley[Added 6-5-2000] | North | From Main Street to Washington Street | 
+Moore Alley[Added 6-5-2000] | South | From Main Street to Washington Street | 
+Old Landing Road[Added 11-4-2019] | North and South | From U.S. Route 113 to Mitchell Street | 
+Route 113 | Southwest | From the intersection of the southeastern right-of-way
+line of Delaware Avenue with the southwesterly right-of-way line of
+Route 113 such a distance as is required to reach the southeastern
+property line of land owned or occupied by McDonald's Corporation | 
+Washington Street | West | 300 feet south of Route 24 bridge | 
+Wilson Highway[Added 11-5-2018] | East | 300 feet to the corner of State Street, on weekdays only (i.e.,
+Monday through Friday) between the hours of 7:00 a.m. and 4:00 p.m. | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.4003865064101056
+Central Alley | East | Burton Alley to Church Street | 
+Laurel Road | West | 50 feet from Route 113, by commercial vehicles | 
+Main Street | East | At Truitt Alley to Route 24 bridge | 
+Mitchell Street[Added 6-5-2000] | East | From Old Landing Road to Wilson Highway | 
+Mitchell Street[Added 6-5-2000] | West | From Old Landing Road to Wilson Highway | 
+Moore Alley[Added 6-5-2000] | North | From Main Street to Washington Street | 
+Moore Alley[Added 6-5-2000] | South | From Main Street to Washington Street | 
+Old Landing Road[Added 11-4-2019] | North and South | From U.S. Route 113 to Mitchell Street | 
+Route 113 | South-
+west | From the intersection of the southeastern right-of-way
+line of Delaware Avenue with the southwesterly right-of-way line of
+Route 113 such a distance as is required to reach the southeastern
+property line of land owned or occupied by McDonald's Corporation | 
+Washington Street | West | South of Route 24 bridge | 
+Wilson Highway[Added 11-5-2018] | East | 300 feet to the corner of State Street, on weekdays only (i.e.,
+Monday through Friday) between the hours of 7:00 a.m. and 4:00 p.m. | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.3987529296764454
+y | = | Permitted | 
+n | = | Not permitted | 
+SP | = | Permitted subject to site plan review and use
+of best management practices | 
+
+
+subdivision of land
+https://ecode360.com/8027476
+0.39710368414226327
+ | "I hereby certify that this map and the survey
+have been made under my supervision and comply with the Laws of the
+State of Delaware, the Ordinance of the Town and that the error in
+closure does not exceed one in five thousand. I further certify that
+all monuments and corner markers have been accurately set under my
+supervision.
+Licensed Engineer or Land Surveyor No. _____" | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.3624447904585823
+Church Street | East | 2 hours | 8:00 a.m. prevailing time to 5:00 p.m. prevailing
+time, from intersection with Wilson Highway northerly for a distance
+of 100 feet | 
+Main Street | -- | 2 hours | 130 feet south of Church Street | 
+Main Street | -- | 2 hours | At Johnson Alley | 
+Main Street | -- | 2 hours | 20 feet north of Magee Alley | 
+Main Street | -- | 2 hours | 40 feet south of Magee Alley | 
+Main Street | -- | 2 hours | At Monroe Alley | 
+Main Street | -- | 2 hours | 80 feet south of Monroe Alley | 
+Main Street | East | 2 hours | 40 feet north of Church Street | 
+Main Street | East | 2 hours | 20 feet north of Dodd Street | 
+Main Street | East | 2 hours | 20 feet north of Magee Alley | 
+Main Street | East | 2 hours | 60 feet south of State Street | 
+Main Street | West | 2 hours | 20 feet north of Church Street | 
+Main Street | West | 2 hours | 60 feet south of Church Street | 
+State Street | North | 15 minutes | Between Washington Street and Main Street | 
+State Street | South | 15 minutes | Between Washington Street and Main Street | 
+Washington Street | -- | 2 hours | At Burton Alley | 
+Washington Street | -- | 2 hours | At Johnson Alley | 
+Washington Street | -- | 2 hours | At Monroe Alley | 
+Washington Street | East | 2 hours | At Church Street | 
+Wilson Highway | East | School hours | 500 feet to State Street | 
+
+
+building construction
+https://ecode360.com/8026256
+0.3587858098629021
+ | An automatic fire sprinkler system may be, but is not required
+to be, installed in residential dwellings, including, but not limited
+to, single-family homes and townhomes. Where an automatic fire sprinkler
+system is not installed, the building components in garages, ceilings,
+and roof assemblies must be constructed of materials with at least
+a one-hour fire resistance rating and must be installed so as to prevent
+the passage of smoke and fire between rooms within the dwelling and/or
+other buildings or structures. | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.3553702130245212
+ | Immediate | 30% | 
+ | Primary | 50% | 
+ | Secondary | 50% | 
+
+
+building construction
+https://ecode360.com/8026256
+0.33487203339904437
+"Any person, firm or corporation or agent thereof
+who shall violate a provision of this Code, or fail to comply therewith,
+or with any of the requirements thereof, or who shall erect, construct,
+alter, demolish or move any structure, or who has erected, constructed,
+altered, repaired, moved or demolished a building or structure in
+violation of this Code, shall be guilty of a misdemeanor and upon
+conviction thereof shall be fined not less than $25 nor more than
+$50 and shall pay the costs of prosecution. Each such person, firm
+or corporation shall be deemed guilty of a separate offense for each
+and every day or portion during which any violation of any of the
+provisions of this Code is committed or continued."[1] | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.3298301125767139
+ | Lot area | 2 acres | 
+ | Lot frontage | 100 feet | 
+ | Front yard setback | 50 feet | 
+ | Side yard setback | 50 feet | 
+ | Rear yard setback | 50 feet | 
+
+
+elections for town council
+https://ecode360.com/14322872
+0.31885133412768507
+ | I, ______, do solemnly swear (or affirm) that I will support
+the Constitution of the United States and the Constitution of the
+State of Delaware, and that I will faithfully discharge the duties
+as a member of the Board of Election for the Town of Millsboro by
+ensuring that elections within the Town are conducted fairly, impartially
+and in accordance with the Delaware Code, Town Charter and ordinances,
+to the best of my ability. | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.30669905840902206
+Central Alley | Northbound | Railroad Avenue to the westerly property line
+of the PNC Bank | 
+Dodd Street[Added 9-3-2019] | Eastbound | Between North Washington Street and Main Street/Delaware Route
+24 | 
+First Street | Eastbound | U.S. Route 113 to Division Avenue | 
+Johnson Alley | Westbound | Central Alley to Washington Street | 
+Main Street | Northbound | Between Railroad Avenue and Truitt Alley | 
+Monroe Alley | Westbound | Central Alley to Ellis Street | 
+Moore Alley | Westbound | Central Alley to Washington Street | 
+Washington Street | Southbound | Between Truitt Alley and Railroad Avenue | 
+
+
+dl      disposition list
+https://ecode360.com/8028990
+0.29399594706858545
+2-2-2015 | Flood Damage Reduction | Ch. 109 | 66 | 
+10-3-2016 | Zoning Amendment | Ch. 210 | 66 | 
+3-6-2017 | Impact Fees Amendment | Ch. 127 | 66 | 
+5-1-2017 | Zoning Amendment | Ch. 210 | 66 | 
+11-6-2017 | Zoning Amendment | Ch. 210 | 66 | 
+1-2-2018 | Special Events | Ch. 172 | 67 | 
+4-2-2018 | Firearms Amendment | Ch. 105 | 66 | 
+11-5-2018 | Vehicles and Traffic Amendment | Ch. 200 | 66 | 
+11-5-2018 | Vehicles and Traffic Amendment | Ch. 200 | 66 | 
+11-5-2018 | Vehicles and Traffic Amendment | Ch. 200 | 66 | 
+1-7-2019 | Brush, Grass and Weeds Amendment | Ch. 66 | 66 | 
+1-7-2019 | Charter Amendment | Ch. C | 66 | 
+82 Del. Laws c. 157 | Charter Amendment | Ch. C | 66 | 
+2-4-2019 | Subdivision of Land Amendment | Ch. 178 | 66 | 
+3-4-2019 | Subdivision of Land Amendment | Ch. 178 | 66 | 
+9-3-2019 | Streets and Sidewalks: Excavations Amendment | Ch. 174, Art. II | 67 | 
+9-3-2019 | Vehicles and Traffic Amendment | 200 | 67 | 
+11-4-2019 | Vehicles and Traffic Amendment | 200 | 67 | 
+8-3-2020 | Mercantile Licensing Amendment | 140 | 67 | 
+
+
+elections for town council
+https://ecode360.com/14322872
+0.2851961812698135
+ | I do solemnly swear (or affirm) that in the election to be held
+on the ___day of _________, A.D. 20___, I will not knowingly or willfully
+receive or consent to the receiving of the vote of any person who
+is not a citizen, and also that I will not receive or consent to the
+receiving of the vote of any person whom I shall believe not entitled
+to vote, unless my associates shall adjudge such person to be entitled
+to vote; that I will not receive or reject, nor concur in receiving
+or rejecting any vote through partiality or under bias, and that I
+will determine every matter that shall come before me and perform
+every act and duty by law required of me, touching the election, truly,
+faithfully and impartially, according to the best of my skill and
+judgment; that I have not received, nor will I receive directly or
+indirectly from or through any candidate to be voted for at such election,
+or any other person, any money, pay, or other valuable thing or reward;
+that I have not been promised, or in any manner been led to believe
+that I will at any time directly or indirectly receive any money,
+pay or other valuable thing or reward from such candidate or other
+person other than that provided by law and if I shall discover any
+partiality, unfairness or corruption in the conduct of the election,
+I shall disclose the same to the Board of Elections that is conducting
+the election and to the Attorney General to the end that the subject
+may be investigated, so help me God (or so I solemnly affirm). | 
+
+
+vi      use of wastewater sewers
+https://ecode360.com/8027258
+0.28385556718960225
+ | 10.0 | Aluminum sulfate | 
+ | 0.1 | Arsenic as AS | 
+ | 2.0 | Barium | 
+ | 1.0 | Boron as B | 
+ | 0.2 | Cadmium as Cd | 
+ | 0.1 | Chromium (hexavalent) | 
+ | 0.5 | Chromium (total) | 
+ | 1.0 | Copper as Cu | 
+ | 2.0 | Cyanide as CN | 
+ | 10.0 | Ether soluble matter | 
+ | 5.0 | Iron as Fe | 
+ | 1.0 | Lead as Pb | 
+ | 0.01 | Mercury as Hg | 
+ | 1.0 | Nickel as Ni | 
+ | 0.005 | Phenols | 
+ | 0.2 | Silver as Ag | 
+ | 0.02 | Selenium | 
+ | 50 | Total nitrogen | 
+ | 5000 | Total solids | 
+ | 3.0 | Zinc as Zn | 
+ | 100 | Oil, grease or fat | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.27729813832017014
+Washington Street | West | Between southern and northern entrance into
+the FoodRite parking area | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.26815401784312565
+Mitchell Street[Amended 11-5-2018] | 40 | From the top of the hill near M&T Bank (Sussex
+County Tax Map and Parcel No. 233-5.00-11.00) to the southern boundary
+of the Town | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+0.26709499859387753
+ | Up to 10 | .0305 | 
+ | 10+ -20 | .0153 | 
+ | 20+ -30 | .0102 | 
+ | 30+ -40 | .0076 | 
+ | 40+ -50 | .0061 | 
+ | 50+ -60 | .0051 | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.2656525766545729
+Morris Street | East | One space extending 20 feet north of the entrance
+to the parking lot of Grace Methodist Church | 
+Wilson Highway | -- | Limited temporary space in front of Wesleyan
+Church during church services and special events or meetings held
+at the church | 
+
+
+vi      exceptions and modifications
+https://ecode360.com/8028855
+0.2564179980006286
+ | Lot area | 7,500 square feet | 
+ | Lot frontage | 75 feet | 
+ | Lot depth | 100 feet | 
+ | Each side yard | 10 feet | 
+ | Front yard | 25 feet | 
+ | Rear yard | 25 feet | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.24267855875047462
+Northern Avenue | Eastbound | North | At Delaware for the length of the street | 
+Northern Avenue | Westbound | South | At Houston for the length of the street | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.22999643354290397
+Wilson Highway | 20 | From intersection of Wilson Highway and South
+State Street to Allen Alley | 
+
+
+vii      class iii industrial dischargers
+https://ecode360.com/8027285
+0.22525237700676226
+ | Less than 100,000 | Semiannually | 
+ | 100,000 to 999,999 | Quarterly | 
+ | More than 999,999 | Monthly | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.22433558912482054
+ | Front | 20 | 
+ | Rear | 10 | 
+ | Side, each | 10 | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.19843036187788554
+Main Street | Northbound | From Route 113 to Route 24 bridge, both sides | 
+Washington Street | Southbound | From Route 24 bridge to Route 113, both sides | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+0.13150690442164542
+ | 90º | 22 | 25 | 
+ | 60º | 18 | 20 | 
+ | 45º | 15 | 20 | 
+ | 30º | 12 | 18 | 
+ | Parallel | 12 | 18 | 
+
+
+vi      use of wastewater sewers
+https://ecode360.com/8027258
+0.11226619131752269
+ | BOD | 300 ppm | 
+ | Chlorine demand | 15 ppm | 
+ | Settleable solids | 20 ml/l | 
+ | Suspended solids | 300 ppm | 
+ | Ammonia nitrogen | 30 ppm | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+0.1007019931119292
+Table l: Bufferyard Requirements | 
+
+
+v      schedules
+https://ecode360.com/8027875
+0.08156314168038958
+All streets | All directions | Wherever a curb is marked directions yellow
+or a yellow line is placed at the edge of a roadway or shoulder | 
+All public Town-owned streets in the Plantation Lakes development[Added 11-5-2018] | All sides/directions | Within 30 feet of all stop signs | 
+Central Alley | East | 45 feet from Church Street, southbound | 
+Central Alley | East | Northbound Burton Alley to Church Street | 
+Church Street | North | From Main Street to Central Alley | 
+Church Street | North | From Washington Street to Main Street | 
+Church Street | North | From Washington Street to Sussex Alley | 
+Church Street | South | From Central Alley to Main Street | 
+Church Street | South | From Main Street to Washington Street | 
+First Street | North | From Route 113 to Division Avenue | 
+First Street | South | From Route 113 to Division Avenue | 
+Hudson Street | South | 30 feet from Old Landing Road | 
+Kendall Street | East | A distance of 50 feet from the corner of Laurel
+Highway, northbound | 
+Main Street | East | Between Railroad Street and the southerly boundary
+of the town | 
+Main Street | East | 20 feet north of Truitt Alley | 
+Main Street | East | From 30 feet south of Church Street to corner
+of Church Street | 
+Main Street | East | From Post Office entrance south, a distance
+of 47 feet | 
+Main Street | West | State Street northbound for a distance of 40
+feet | 
+Mitchell Street[Added 6-5-2000] | East | From Old Landing Road to Wilson Highway | 
+Mitchell Street[Added 6-5-2000] | West | From Old Landing Road to Wilson Highway | 
+Monroe Alley[Added 1-3-2000] | East | From Central Alley on north to Morris Street
+on south | 
+Monroe Alley[Added 1-3-2000] | West | From Central Alley on north to Morris Street
+on south | 
+Moore Alley[Amended 6-5-2000] | North | From Main Street to Washington Street | 
+Moore Alley[Amended 6-5-2000] | South | From Main Street to Washington Street | 
+Morris Street | East | From Church Street south a distance of 45 feet | 
+Morris Street | East | From State Street south a distance of 30 feet | 
+Morris Street | West | From State Street south a distance of 30 feet | 
+Old Landing Road[Added 11-4-2019] | North and South | From U.S. Route 113 to Mitchell Street | 
+Route 113 | Southwest | From the intersection of the southeastern right-of-way
+line of Delaware Avenue with the southwesterly right-of-way line of
+Route 113 such a distance as is required to reach the southeastern
+property line of land owned or occupied by McDonald's Corporation | 
+South State Street | West | For the entire frontage adjoining Millsboro
+Cemetery | 
+State Street | North | Westbound River Drive to Atkins Street | 
+State Street | North | Westbound beginning 50 feet south of Sussex
+Street to town limit | 
+State Street | North | 10 yards from Washington Street to Washington
+Street | 
+State Street | South | Between Morris and Main Street | 
+State Street | South | Eastbound beginning at town limit to Sussex
+Street | 
+State Street | School zone | -- | 
+Sussex Alley | East | Between State Street and Church Street | 
+Sussex Alley | West | Between State Street and Church Street | 
+Washington Street[Added 9-4-2001] | East | From the loading entrance of the Georgia House
+Restaurant to the entrance/exit of Dairy Queen for a distance of 40
+feet (Tax Map Nos. 1-33-17.13-118 to 1-33-17.13-117) | 
+Washington Street | East | Between Railroad Street and northerly junction
+of Washington Street and Main Streets | 
+Washington Street | East | South of Route 24 bridge | 
+Washington Street | West | South of Route 24 bridge | 
+Wilson Highway | East | 300 feet to corner of State Street | 
+
+
+elections for town council
+https://ecode360.com/14322872
+0.08026202475201225
+ | ____________________(SEAL) | 
+
+
+elections for town council
+https://ecode360.com/14322872
+0.08026202475201225
+ | ___________________(SEAL) | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.0614674098096511
+ | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.0614674098096511
+ | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.0614674098096511
+ | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.0614674098096511
+ | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.0614674098096511
+ | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+0.0614674098096511
+ | 
+
+
+ii      definitions
+https://ecode360.com/8027977
+-0.03135213081102173
+ | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+-0.0456073055312784
+ |  | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+-0.0456073055312784
+ | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+-0.0456073055312784
+ |  | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+-0.0456073055312784
+ |  | 
+
+
+v      general provisions
+https://ecode360.com/8028650
+-0.0456073055312784
+ |  | 
+
+
+iv      district regulations
+https://ecode360.com/8028079
+-0.24698899673039243
+1. Abandoned wells6 | n | n | n | 
+2. Agricultural chemical spreading, spraying | n | SP1 | SP1 | 
+3. Agricultural chemical storage | n | SP1 | SP1 | 
+4. Airport fire-fighter training areas | n | n | SP | 
+5. Airport fueling areas | n | n | SP | 
+6. Airport maintenance | n | n | SP | 
+7. Auto chemical supplies wholesalers | n | SP3 | SP | 
+8. Auto repair | n | SP3 | SP | 
+9. Auto washes | n | SP2 | SP | 
+10. Beauty salons | n | SP | SP | 
+11. Boat builders, refinishers | n | SP3 | SP | 
+12. Body shops | n | SP3 | SP | 
+13. Chemical reclamation | n | n | n | 
+14. Chemical bulk storage | n | n | SP | 
+15. Concrete, asphalt, tar, coal companies | n | SP | SP | 
+16. Construction sites/demolition activities | SP | y | y | 
+17. Covered salt or sand/salt piles | n | SP | SP | 
+18. Demolition of uses listed in this table | SP | SP | SP | 
+19. Dry cleaners | n | SP3 | SP | 
+20. Feed lots | n | n1 | SP1 | 
+21. Fertilized fields, agricultural | n | SP1 | y | 
+22. Food processors | n | SP3 | SP | 
+23. Fuel distributors, fuel storage | n | SP3 | SP | 
+24. Furniture strippers | n | SP3 | SP | 
+25. Gas stations, service stations | n | SP3 | SP | 
+26. Golf courses | n | SP | SP | 
+27. Parks | SP | SP | y | 
+28. Graveyards | n | SP | y | 
+29. Hazardous or special waste disposal | n | n | SP | 
+30. Heat treaters, smelters, annealers, descalers | n | n | SP | 
+31. Heating oil storage (consumptive use) | n | y | y | 
+32. Industrial manufacturers | n | SP3 | SP | 
+33. Industrial waste disposal | n | n | n | 
+34. Junk, salvage yards (including tire storage) | n | n | n | 
+35. Landfills, dumps | n | n | n | 
+36. Transfer stations and recycling facilities | n | SP3 | SP | 
+37. Laundromats | n | SP2 | SP | 
+38. Machine shops | n | SP3 | SP | 
+39. Manure piles | n | SP1 | SP1 | 
+40. Meat packers, slaughter houses, abattoirs | n | SP2 | SP | 
+41. Medical, dental, vet offices | n | SP | SP | 
+42. Metal plating/electroplating | n | n | SP3 | 
+43. Nurseries (horticultural) | n | SP | SP | 
+44. Oil pipelines | n | n | SP | 
+45. Painters, finishers | n | SP3 | SP | 
+46. Pesticide, herbicide, wholesalers or retailers | n | SP3 | SP | 
+47. Pesticide, herbicide bulk storage | n | n | SP | 
+48. Photo processors | n | SP2 or 3 | SP | 
+49. Printers | n | SP2 or 3 | SP | 
+50. Railroad yards | n | SP3 | SP | 
+51. Research laboratories | n | SP2 or 3 | SP | 
+52. Residential homes | n | y | y | 
+53. Rust-proofers | n | SP | SP | 
+54. Open salt or sand/salt piles | n | n | SP | 
+55. Sand and gravel, mining, other mining | n | SP | SP | 
+56. Sludge utilization | n | n | SP | 
+57. Small engine repair shops | n | SP | SP | 
+58. Snow dumps | n | n | SP | 
+59. Stormwater impoundment | n | SP3 | SP | 
+60. Subdivisions | 4 | 4 | 4 | 
+61. Transportation corridors including rail | n | SP | SP | 
+62. Truck terminals | n | SP3 | SP | 
+63. Utility corridors | n | SP | SP | 
+64. Wastewater impoundment areas | n | n | SP | 
+65. Wastewater treatment plants | n | SP | SP | 
+66. Wood preserving operations (commercial) | n | n | SP | 
+
+
+v      schedules
+https://ecode360.com/8027875
+-0.5442689141387016
+Abbey Road | Eastbound | Wharton Street | 
+Atkins Street | Northbound | River Drive | 
+Atkins Street | Northbound | State Street | 
+Boulevard Avenue | Both | Hudson Street* | 
+Boulevard Avenue | Eastbound | Mitchell Street | 
+Cedar Street | Northbound | Hickory Hill Road | 
+Church Street | Both | Morris Street* | 
+Church Street | Eastbound | Main Street | 
+Church Street | Eastbound | Washington Street | 
+Church Street | Eastbound | Wilson Highway | 
+Church Street | Westbound | Main Street | 
+Church Street | Westbound | Sussex Alley | 
+Country Place | Northbound | Millstone Lane | 
+Delaware Avenue | Both | Hickory Hill Road* | 
+Delaware Avenue | Both | Monroe Street* | 
+Delaware Avenue | Eastbound | Laurel Road | 
+Delaware Avenue | Northbound | Route 113 | 
+Delaware Avenue | Northbound | State Street | 
+Delaware Avenue | Southbound | Route 113 | 
+Delaware Avenue | Westbound | Laurel Road | 
+Division Avenue | Northbound | Old Landing Road | 
+Dodd Street | Eastbound | Atkins Street | 
+Dodd Street | Eastbound | Morris Street | 
+Dodd Street | Eastbound | River Drive | 
+Ellis Street | Both | Morris Street* | 
+Ellis Street | Southbound | Railroad Street | 
+Godwin Street | Southbound | Monroe Street | 
+Grace Street | Northbound | Hickory Hill Road | 
+Hickory Hill Road | Both | Delaware Avenue* | 
+Hickory Hill Road | Eastbound | Route 113 | 
+Holly Street | Northbound | Hickory Hill Road | 
+Houston Street | Northbound | Monroe Street | 
+Houston Street | Westbound | Route. 113 | 
+Hudson Street | Both | Boulevard Avenue* | 
+Hudson Street | Northbound | Wilson Highway | 
+Hudson Street | Southbound | Old Landing Road | 
+Irons Avenue | Both | Wharton Street* | 
+Irons Avenue | Southbound | Old Landing Road | 
+Kendall Street | Southbound | Laurel Road | 
+Millers Run | Southbound | Pine Street | 
+Millstone Lane | Northbound | Millers Run | 
+Mitchell Street | Both | Old Landing Road* | 
+Mitchell Street | Northbound | Wilson Highway | 
+Monroe Street | Both | Delaware Avenue* | 
+Monroe Street | Southbound | Washington Street | 
+Monroe Street | Southbound | Wilson Highway | 
+Monroe Street | Westbound | Route 113 | 
+Morris Street | Both | Church Street* | 
+Morris Street | Both | Ellis Street* | 
+Morris Street | Northbound | State Street | 
+Morris Street | Northbound | Truitt Alley/Cubalo Street | 
+Morris Street | Southbound | State Street | 
+New Street | Eastbound | Wharton Street | 
+Northern Avenue | Northbound | Delaware Avenue | 
+Northern Avenue | Southbound | Houston Street | 
+Old Landing Road | Both | Mitchell Street* | 
+Old Landing Road | Eastbound | Route 113 | 
+Old Landing Road | Eastbound | State Street | 
+Old Landing Road | Southbound | Delaware Avenue | 
+Old Landing Road | Westbound | Route 113 | 
+Pine Street | Southbound | Monroe Street | 
+Railroad Street | Northbound | Main Street | 
+Railroad Street | Northbound | Washington Street | 
+Railroad Street | Southbound | Wilson Highway | 
+River Drive | Southbound | State Street | 
+River Drive | Westbound | Morris Street | 
+Second Street | Westbound | Route 113 | 
+Spencer's Court[Added 5-2-2005] | Southbound | Abbey Road | 
+Sussex Alley | Northbound | State Street | 
+Truitt Alley | Eastbound | Morris Street | 
+Union Street | Northbound | Wilson Highway | 
+Union Street | Southbound | Old Landing Road | 
+Union Street | Southbound | Wilson Highway | 
+Washington Street Ext. | Southbound | Irons Avenue | 
+Wharton Street | Both | Irons Avenue* | 
+Wharton Street | Eastbound | Laurel Road | 
+Wharton Street | Northbound | Northern Avenue | 
+Wharton Street | Northbound | Route 113 | 
+Wharton Street | Southbound | Old Landing Road | 
+Wharton Street | Southbound | Route 113 | 
+Wharton Street | Westbound | Laurel Road | 
+Wilson Highway | Northbound | State Street | 
+
+
+dl      disposition list
+https://ecode360.com/8028990
+-0.9914574451135738
+5-4-1998 | Vehicles and traffic amendment | Ch. 200 | 
+7-6-1998 | Adoption of Code | Ch. 1, Art. I | 
+8-3-1998 | Real estate transfer tax amendment | Ch. 183, Art. I | 
+8-3-1998 | Building construction: hours of operation amendment | Ch. 70, Art. II | 
+9-8-1998 | Dwelling units: disorderly conduct prohibited | Ch. 94, Art. I | 
+10-5-1998 | Zoning amendment | Ch. 210 | 
+10-5-1998 | Solid waste: accumulation on premises amendment | Superseded 6-3-2002 | 
+10-5-1998 | Board of Health amendment | Ch. 25 | 
+10-5-1998 | Real estate transfer tax amendment | Ch. 183, Art. I | 
+4-5-1999 | Charter amendment | Charter | 
+4-5-1999 | Charter amendment | Charter | 
+5-3-1999 | Zoning amendment | Ch. 210 | 
+5-3-1999 | Zoning amendment | Ch. 210 | 
+5-3-1999 | Code of Ethics amendment | Ch. 16 | 
+6-7-1999 | Solid waste: accumulation on premises amendment | Superseded 6-3-2002 | 
+8-2-1999 | Zoning amendment | Ch. 210 | 
+8-2-1999 | Zoning amendment | Ch. 210 | 
+8-2-1999 | Parades amendment | Ch. 146 | 
+9-7-1999 | Zoning amendment | Ch. 210 | 
+11-1-1999 | Code of Ethics amendment | Ch. 16 | 
+12-6-1999 | Mercantile licensing amendment | Ch. 140 | 
+1-3-2000 | Vehicles and traffic amendment | Ch. 200 | 
+4-3-2000 | Zoning amendment | Ch. 210 | 
+4-3-2000 | Zoning amendment | Ch. 210 | 
+4-3-2000 | Massage parlors amendment | Ch. 137 | 
+5-1-2000 | Zoning amendment | Ch. 210 | 
+6-5-2000 | Vehicles and traffic amendment | Ch. 200 | 
+6-5-2000 | Vehicles and traffic amendment | Ch. 200 | 
+6-5-2000 | Vehicles and traffic amendment | Ch. 200 | 
+9-5-2000 | Zoning amendment | Ch. 210 | 
+11-6-2000 | Animals amendment | Ch. 52 | 
+4-2-2001 | Zoning amendment | Ch. 210 | 
+7-2-2001 | Subdivision of land amendment | Superseded 7-7-2008 | 
+7-2-2001 | Real estate transfer tax amendment | Ch. 183, Art. I | 
+9-4-2001 | Nuisances | Ch. 144 | 
+9-4-2001 | Vehicles and traffic amendment | Ch. 200 | 
+11-5-2001 | Zoning amendment | Ch. 210 | 
+73 Del. Laws, c. 281 | Charter amendment | § 9 | 
+73 Del. Laws, c. 363 | Charter amendment | §§ 30, 34 | 
+73 Del. Laws, c. 400 | Charter amendment | § 30 | 
+6-3-2002 | Zoning amendment | Ch. 210 | 
+6-3-2002 | Solid waste | Ch. 170 | 
+12-2-2002 | Zoning amendment | Ch. 210 | 
+1-6-2003 | Zoning amendment | Ch. 210 | 
+6-2-2003 | Subdivision of land amendment | Superseded 7-7-2008 | 
+7-7-2003 | Zoning amendment | Ch. 210 | 
+10-6-2003 | Vehicles and traffic amendment | Ch. 200 | 
+10-6-2003 | Annexation of land amendment | Ch. 56 | 
+10-6-2003 | Annexation procedure | Ch. 4 | 
+12-1-2003 | Zoning amendment | Ch. 210 | 
+12-1-2003 | Zoning amendment | Ch. 210 | 
+12-1-2003 | Zoning amendment | Ch. 210 | 
+2-2-2004 | Subdivision amendment | Superseded 7-7-2008 | 
+2-2-2004 | Subdivision amendment | Superseded 7-7-2008 | 
+3-1-2004 | Zoning amendment | Ch. 210 | 
+3-1-2004 | Zoning amendment | Ch. 210 | 
+74 Del. Laws c. 244 | Charter amendment | § 30 | 
+74 Del. Laws c. 245 | Charter amendment | § 3 | 
+5-3-2004 | Zoning amendment | Ch. 210 | 
+6-7-2004 | Zoning amendment | Ch. 210 | 
+6-7-2004 | Connection to public water system amendment;
+wells amendment | Ch. 206, Arts. I and VI | 
+9-7-2004 | Vehicles and traffic amendment (handicapped
+parking) | Ch. 200 | 
+11-1-2004 | Water amendment | Ch. 206, Art. VII | 
+2-7-2005 | Building Code amendment | Ch. 70, Art. I | 
+4-4-2005 | Zoning amendment | Ch. 210 | 
+5-2-2005 | Vehicles and traffic amendment | Ch. 200 | 
+75 Del. Laws c. 35 | Charter amendment | § 30 | 
+75 Del. Laws c. 65 | Charter amendment | § 30 | 
+75 Del. Laws c. 87 | Charter amendment | § 34B | 
+8-1-2005 | Building Code amendment | Ch. 70, Art. I | 
+10-3-2005 | Impact fees | Ch. 127 | 
+10-3-2005 | Zoning amendment | Ch. 210 | 
+11-7-2005 | Zoning amendment | Ch. 210 | 
+12-5-2005 | Zoning amendment | Ch. 210 | 
+6-5-2006 | Zoning amendment | Ch. 210 | 
+75 Del. Laws c. 425 | Charter amendment | § 26A | 
+7-3-2006 | Building construction: hours of construction
+amendment | Ch. 70, Art. II | 
+11-6-2006 | Impact fees amendment | Ch. 127 | 
+12-4-2006 | Zoning amendment | Ch. 210 | 
+12-4-2006 | Zoning amendment | Ch. 210 | 
+12-4-2006 | Zoning amendment | Ch. 210 | 
+1-2-2007 | Zoning amendment | Ch. 210 | 
+1-2-2007 | Zoning amendment | Ch. 210 | 
+3-5-2007 | Zoning amendment | Ch. 210 | 
+4-2-2007 | Mercantile licensing amendment | Ch. 140 | 
+8-6-2007 | Impact fees amendment | Ch. 127 | 
+9-4-2007 | Water: wells amendment | Ch. 206, Art. VI | 
+3-3-2008 | Elections for Town Council | Ch. 12 | 
+4-7-2008 | Vehicles and traffic amendment | Ch. 200 | 
+6-2-2008 | Zoning amendment | Ch. 210 | 
+7-7-2008 | Subdivision of land | Ch. 178 | 
+76 Del. Laws c. 13 | Charter amendment | § 30 | 
+2-2-2009 | Vehicles and traffic amendment | Ch. 200 | 
+2-2-2009 | Zoning amendment | Ch. 210 | 
+2-2-2009 | Zoning amendment | Ch. 210 | 
+2-2-2009 | Zoning amendment | Ch. 210 | 
+2-2-2009 | Zoning amendment | Ch. 210 | 
+6-1-2009 | Zoning amendment | Ch. 210 | 
+6-1-2009 | Zoning amendment | Ch 210 | 
+8-3-2009 | Zoning amendment | Ch. 210 | 
+10-5-2009 | Zoning amendment | Ch. 210 | 
+9-7-2010 | Zoning amendment | Ch. 210 | 
+11-1-2010 | Firearms amendment | Ch. 105 | 
+2-7-2011 | Building and residential codes amendment | Ch. 70, Art. I | 
+4-4-2011 | Zoning amendment | Ch. 210 | 
+5-2-2011 | Building and residential codes amendment | Ch. 70, Art. I | 
+12-5-2011 | Skateboards and games/objects in streets amendment | Ch. 165 | 
+1-3-2012 | Zoning amendment | Ch. 210 | 
+2-6-2012 | Zoning amendment | Ch. 210 | 
+3-5-2012 | Building and residential codes amendment | Ch. 70, Art. I | 
+6-4-2012 | Fire prevention and extinguishment | Ch. 20 | 
+1-7-2013 | Building construction: hours of construction amendment | Ch. 70, Art. II | 
+5-6-2013 | Lawn mowing hours | Ch. 129 | 
+2-3-2014 | Building construction: hours of construction amendment | Ch. 70, Art. II | 
+4-7-2014 | Zoning amendment | Ch. 210 | 
+
+

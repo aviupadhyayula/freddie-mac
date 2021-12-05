@@ -1,0 +1,1075 @@
+zoning
+https://ecode360.com/35127281
+0.8304777983825868
+UR | Urban Reserve | 
+RA | Rural Residential | 
+R-1 | Single-Family Residential, minimum lot size of 6,500 square
+feet | 
+R-1-5 | Single-Family Residential, minimum lot size of 5,000 square
+feet | 
+R-1-4.25 | Single-Family Residential, minimum lot size of 4,250 square
+feet | 
+R-1 (TN) | Single-Family Residential (Traditional Neighborhood Development),
+minimum lot size of 6,500 square feet | 
+R-1-5 (TN) | Single-Family Residential (Traditional Neighborhood Development),
+minimum lot size of 5,000 square feet | 
+R-1-4.25 (TN) | Single-Family Residential (Traditional Neighborhood Development),
+minimum lot size of 4,250 square feet | 
+R-2 | Low-Density Multiple-Family Residential, one unit per 3,250
+square feet of lot area | 
+R-3 | Medium-High-Density Multiple-Family Residential, one unit per
+1,500 square feet of lot area | 
+C-1 | Neighborhood Commercial | 
+C-2 | Central Commercial | 
+C-3 | General Commercial | 
+M-1 | Light Industrial | 
+M-2 | Heavy Industrial | 
+O | Open Space | 
+G | Government | 
+MHP | Mobile Home Park | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6681091794304862
+Exhibit 37-2
+
+The front of this industrial site has the appearance of an office
+and has generous landscaping. Equipment storage and industrial activities
+are primarily on the back side of the building. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6669440394283358
+Vertical Mixed Use
+
+Vertical mixed use project has retail commercial and offices
+on the ground floor, with dwelling units above. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6596333237720735
+R-2 | One dwelling per 3,250 square feet of lot area. | 
+R-3 | One dwelling per 1,500 square feet of lot area. Residential
+development on parcels larger than 3/4 acre shall have a minimum density
+of 20 units per acre to ensure affordability, consistent with state
+affordability standards, unless it can be demonstrated that affordability
+can be achieved with a lesser density. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6512806347294585
+(1) | Detached accessory structures no taller than 12 feet may have
+a zero rear or side yard setback if set back behind the front yard
+setback, and behind the side yard setback on the street side yard
+of a corner lot. | 
+(2) | There shall be a minimum setback of six feet between accessory
+structures and a dwelling. | 
+(3) | Architectural features, including eaves, sills, chimneys, cornices,
+and bay windows may extend up to 30 inches into a required yard. | 
+(4) | No building shall be located closer than five feet to an alley. | 
+(5) | Portable carports are prohibited between a dwelling and any
+street abutting the lot. | 
+(6) | Swimming pools shall not be located in any required front yard,
+or a required side yard on the street side of a corner lot. Swimming
+pools located in a rear or side yard must be set back at least five
+feet from the rear and side property lines. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6335849609355264
+Horizontal Mixed Use
+
+Example of a horizontal mixed use project - a shopping center
+with a multifamily project tucked into one corner. A pedestrian paseo
+allows residents to walk directly into the shopping center. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.630613676440771
+Exhibit 23-5: Building Height and Scale
+
+The height and scale of new developments should be compatible
+with the scale of surrounding development | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6271564368904399
+Front yard | 15 feet minimum, except that garages and carports shall be set
+back at least 20 feet. All dwellings shall include a front porch at
+least 8 feet deep that spans at least 1/2 the width of the facade
+of the dwelling. In no case shall a garage or carport extend forward
+of the remainder of the dwelling. | 15 feet minimum, except that garages and carports facing a street
+shall be set back at least 20 feet. All dwellings shall include a
+front porch at least 8 feet deep that spans at least 1/2 the width
+of the facade of the dwelling. In no case shall a garage extend forward
+of the remainder of the dwelling. | 10 feet minimum, except that garages and carports shall be set
+back at least 20 feet. All dwellings shall include a front porch at
+least 8 feet deep that spans at least 1/2 the width of the facade
+of the dwelling. In no case shall a garage extend forward of the remainder
+of the dwelling. | 
+Side yards |  |  |  | 
+Interior side yard | 5 feet, minimum | 5 feet, minimum | 5 feet, minimum | 
+Corner lot street side yard | 10 feet minimum, except 20 feet required for that portion of
+a dwelling where a garage or a carport faces a street. The facade
+of a dwelling facing a street side yard on a corner lot shall have
+a usable porch at least 6 feet deep, spanning at least 1/4 the width
+of the facade. | 10 feet minimum, except 20 feet required for that portion of
+a dwelling where a garage or carport faces a street. The facade of
+a dwelling facing a street side yard on a corner lot shall have a
+usable porch at least 6 feet deep, spanning at least 1/4 the width
+of the facade. | 10 feet minimum, except 20 feet required for that portion of
+a dwelling where a garage or carport faces a street. The facade of
+a dwelling facing a street side yard on a corner lot shall have a
+usable porch at least 6 feet deep, spanning at least 1/4 the width
+of the facade. | 
+Rear yard | 10 feet, minimum | 10 feet, minimum | 10 feet, minimum | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6227719336796704
+Exhibit 23-3
+Desirable Facade Elements for Downtown Buildings
+
+This graphic displays some of the most desirable elements of
+good downtown building design | 
+
+
+zoning
+https://ecode360.com/35127281
+0.61992299923916
+Small Sites Design Strategies
+
+With small development sites, care should be taken that parking
+does not dominate the site. Sites should be designed with parking
+to the rear or the side of buildings. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6187631974505688
+"P" = The use is permitted in that particular zone | 
+"CUP" = The use is permitted by conditional use permit in that
+particular zone | 
+"-" = The use is not permitted in that particular zone | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6163864303482535
+Site Planning for Auto Repair | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6137300429169883
+Front yard | 20 feet, minimum, except that a front yard setback of 14 feet
+(minimum) is permitted if a front porch is provided that is at least
+6 feet deep and 10 feet wide. Regardless, garages and carports facing
+a street must be set back at least 20 feet. | 20 feet, minimum, except that a front yard setback of 14 feet
+(minimum) is permitted if a front porch is provided that is at least
+6 feet deep and 10 feet wide. Regardless, garages and carports facing
+a street must be set back at least 20 feet. | 10 feet, minimum, except that 20 feet is required for the garage
+portion of a dwelling that faces a street | 
+Side yards |  |  |  | 
+Interior side yard | 5 feet, minimum | 5 feet, minimum | 5 feet, minimum | 
+Corner lot street side yard | 10 feet, minimum, except 20 feet required where a garage or
+carport faces a street | 10 feet, minimum, except 20 feet required where a garage or
+carport faces a street | 10 feet, minimum, except 20 feet required where a garage or
+carport faces a street | 
+Rear yard | 10 feet, minimum | 10 feet, minimum | 10 feet, minimum | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6062055936550362
+Trash enclosures should be designed to complement the overall
+project with architectural detailing and landscaping. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.6020708689853224
+Exhibit 19-5: Preferred Site Planning Concepts for Multifamily
+Design | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5982568454948353
+Exhibit 47-1: Selected Commercial Sign Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.595704359596539
+Where used, metal buildings should include heightened architectural
+detailing such as varied wall and roof planes, colors and awnings. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5891234430799562
+Exhibit 47-2: Calculation of Permitted Wall Sign Area | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5875578653408905
+Exhibit 19-1: Key Development Standards in the R-2/R-3
+Zones | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5868537950036057
+Front yard: | 15 feet, minimum | 
+Side yards: |  | 
+Interior side yard: | 5 feet, minimum | 
+Corner lot street side: | 10 feet, minimum, except 20 feet required where a garage or
+carport opens to a street. | 
+Rear yard: | 10 feet, minimum | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5842425699448369
+Exhibit 37-3
+
+Long expanses of screening walls (particularly along public
+streets) should feature varied setbacks and textures. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5835045682658202
+Freestanding monument-style signs should receive architectural
+treatment that relates to the overall site. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5798186432124929
+Lighting should be architecturally appropriate to the overall
+project. Decorative lighting is preferred over standard utilitarian
+light fixtures. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.579721706812876
+Exhibit 15-2: Yard Setback Requirements in the R-1 Zones
+illustrated on typical lot types | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5779314165773614
+Exhibit 23-1: Building Placement Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5771624855712455
+Exhibit 15-4
+Energy and Water Conservation Measures | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5771624855712455
+Exhibit 17-4
+Energy and Water Conservation Measures | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5752076314176774
+Exhibit 37-1: Selected Mobile Home Park Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5728337376474258
+Exhibit 23-4: Display Windows
+
+Large display windows help to make the downtown a more inviting
+place. Windows should extend a significant width and height of the
+wall. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5695209437921663
+Exhibit 23-2
+
+Sidewalk dining helps to add life to the downtown streetscape. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5654533030093749
+Exhibit 19-3: Front Orientation and Porch Requirement
+
+Ground floor units along streets shall be oriented to face the
+street with the front door opening onto a usable porch. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.564154845861209
+Walls that would otherwise be "blank" should receive some type
+of architectural treatment, such as trellises, as illustrated above. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5622665932988153
+No blank walls! This building has generous windows (shaded with
+awnings) along the street. It could have just as easily been a blank
+wall. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.561103108652519
+Decorative pedestrian-oriented light fixtures are encouraged. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5595110955298851
+Exhibit 67-3: Sign Area Measurement | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5590618791480714
+Exhibit 45-3: Typical Parking Lot Landscaping Scheme | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5488169825121739
+Service Station Fuel Island Canopies | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5484332568224384
+Width: interior lots | 60 feet | 50 feet | 40 feet | 
+Width: corner lots | 65 feet | 55 feet | 45 feet | 
+Cul-de-sac/curve frontage lots | 40 feet | 40 feet | 40 feet | 
+Depth | 100 feet | 90 feet | No standard, though the depth must be sufficient to meet minimum
+lot area requirement of 4,250 square feet | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5484332568224384
+Width: interior lots | 60 feet | 50 feet | 40 feet | 
+Width: corner lots | 65 feet | 55 feet | 45 feet | 
+Cul-de-sac/curve frontage lots | 40 feet | 40 feet | 40 feet | 
+Depth | 100 feet | 90 feet | No standard, though the depth must be sufficient to meet minimum
+lot area requirement of 4,250 square feet | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5380901037860205
+Parking Lot Landscaping Strategies | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5378521874530472
+PD | Planned Development | 
+
+
+zoning
+https://ecode360.com/35127281
+0.536791297706528
+Exhibit 21-1: Zoning Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.536791297706528
+Exhibit 25-1: Zoning Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.536791297706528
+Exhibit 29-1: Zoning Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.536791297706528
+Exhibit 31-1: Zoning Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.536791297706528
+Exhibit 33-1: Zoning Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.536791297706528
+Exhibit 35-1: Zoning Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5321903497525375
+Exhibit 17-2: Yard Setback Requirements in the R-1 (TN),
+R-1-5 (TN) and R-1-4.25 (TN) Zones on Typical Lots | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5240979672484887
+Exhibit 15-3: Fencing Standards Shown on Typical Lots | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5240979672484887
+Exhibit 19-4: Fencing Standards Shown on Typical Lots | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5198841914462126
+Exhibit 23-8: Awnings over the public sidewalk | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5182147530891068
+Exhibit 45-1: Parking Design | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5174631148217664
+Exhibit 19-7: Energy Conservation | 
+
+
+zoning
+https://ecode360.com/35127281
+0.516501705153237
+Preferred
+Variety in facade and roofline | 
+
+
+impact fees
+https://ecode360.com/34895914
+0.5123428604825132
+Single Family Residential | $1,007 | $951 | $740 | $895 | $1,847 | $1,571 | $4,133 | $334 | $11,479 | 
+Multi-Family Residential | $584 | $761 | $592 | $716 | $1,477 | $1,257 | $3,607 | $261 | $8,955 | 
+Retail | $3,755 | $479 | $373 | $451 | $960 | $791 | $2,081 | $266 | $9,126 | 
+Office | $3,755 | $359 | $279 | $338 | $697 | $593 | $1,561 | $228 | $7,811 | 
+Institutional | $1,878 | $180 | $140 | $169 | $349 | $297 | NA | $90 | $3,102 | 
+Industrial | $977 | $120 | $93 | $113 | $232 | $198 | $520 | $68 | $2,320 | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5088176947684123
+Exhibit 15-1: Lot Width and Depth Requirements Shown on
+Typical Lots | 
+
+
+zoning
+https://ecode360.com/35127281
+0.5078597650996007
+Walls should be planted with climbing vines and buffered with
+shade trees and shrubs. | 
+
+
+streets  sidewalks and sanitation
+https://ecode360.com/34896167
+0.504344932013372
+SPACE ABOVE THIS LINE FOR RECORDER | 
+CITY OF FIREBAUGH
+DEPARTMENT OF PUBLIC WORKS | 
+NOTICE OF POTENTIAL LIEN | 
+In accordance with section 13-3 of the Firebaugh Municipal Code, as constituted on the date of this notice, the City of Firebaugh shall, prior to development or further development of the following described real property ("subject property") and as a condition of such development, require the developer of the subject property to pay to the City the sum of $ _____, which represents the estimated cost of right-of-way to be acquired for street construction in connection with [here name the development of the entity who bore the initial cost of such right-of-way acquisition or improvements], which sum is proposed to be paid to [here name the entity who bore the initial cost of such right-of-way acquisition or improvements]. | 
+In addition to said sum, the City of Firebaugh shall also, prior
+to development or further development of the subject property, collect
+all estimated fees, charges, and improvement costs which may have
+been paid by others, which can be assessed to the developer of the
+subject property to the extent allowed by the Firebaugh Municipal
+Code. The actual amounts to be assessed shall be determined by the
+Director of Public Works, City of Firebaugh, at such time described
+below. | 
+The potential lien which is the subject of this notice shall
+not attach until and unless a development entitlement is sought from
+the City of Firebaugh, including but not limited to a subdivision
+map, parcel map, rezone, or special permit, and must be paid prior
+to issuance of a building permit. | 
+The property affected by this notice is commonly known as [give
+common description], Assessor's Parcel Number(s) _____; | 
+and more particularly described as follows: [here give legal
+description of the subject property]. | 
+ATTEST: | 
+By 
+City Clerk | 
+CITY OF FIREBAUGH
+A Municipal Corporation | 
+By 
+Director of Public Works | 
+APPROVED AS TO FORM | 
+By 
+City Attorney | 
+
+
+zoning
+https://ecode360.com/35127281
+0.498399215288468
+Exhibit 67-1: Typical Lot Types | 
+
+
+zoning
+https://ecode360.com/35127281
+0.4974624732853442
+Exhibit 23-6: Building Compatibility | 
+
+
+zoning
+https://ecode360.com/35127281
+0.497339170280916
+Franchise Architecture | 
+
+
+zoning
+https://ecode360.com/35127281
+0.4949556614002999
+Exhibit 45-2: Striping and Handicap Space Design Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.4948521647286399
+Drive-Through Screening | 
+
+
+zoning
+https://ecode360.com/35127281
+0.4882234971842023
+Exhibit 23-7: Window Awnings
+
+Window awnings are a desirable element, when properly scaled. | 
+
+
+zoning
+https://ecode360.com/35127281
+0.48544167128160154
+R-2 | 6,500 square feet, minimum | 
+R-3 | 7,500 square feet, minimum | 
+
+
+zoning
+https://ecode360.com/35127281
+0.4851327639162324
+Exhibit 23-9: Screening Roof Equipment | 
+
+
+zoning
+https://ecode360.com/35127281
+0.47178845883110376
+R-1 | 6,500 square feet | 
+R-1-5 | 5,000 square feet | 
+R-1-4.25 | 4,250 square feet | 
+
+
+zoning
+https://ecode360.com/35127281
+0.47178845883110376
+R-1 | 6,500 square feet | 
+R-1-5 | 5,000 square feet | 
+R-1-4.25 | 4,250 square feet | 
+
+
+zoning
+https://ecode360.com/35127281
+0.4608688770572047
+Exhibit 47-3: Selected Sign Design Criteria | 
+
+
+zoning
+https://ecode360.com/35127281
+0.45783528823262376
+Exhibit 67-2: Selected Sign Definitions | 
+
+
+zoning
+https://ecode360.com/35127281
+0.45672887527386286
+Exhibit 67-4: Site Width and Depth | 
+
+
+zoning
+https://ecode360.com/35127281
+0.44186205115305344
+Exhibit 17-3: Fencing Standards | 
+
+
+zoning
+https://ecode360.com/35127281
+0.43694433543941136
+65 feet, minimum | 60 feet, minimum | 
+
+
+zoning
+https://ecode360.com/35127281
+0.43301909231922586
+Drive-Through Trellis | 
+
+
+dangerous building abatement
+https://ecode360.com/34895586
+0.39823243776873374
+"DO NOT ENTER 
+UNSAFE TO OCCUPY — 
+ BUILDING OFFICIAL OF CITY OF FIREBAUGH. | 
+It is a misdemeanor to occupy this building or to remove or
+deface this notice.
+Firebaugh Municipal Code Section 
+8.5-12" | 
+Whenever such notice is posted, the building official shall include a notification thereof in the notice and order issued by him under paragraph b of section 8.5-11, reciting the emergency and specifying the conditions which necessitate the posting. No person shall remain in or enter any building which has posted at each entrance door thereof a notice as prescribed in this section, except that entry may be made to repair, demolish or remove such building. No person shall remove or deface any such notice so posted until the required repairs, demolition, or removal have been completed and a certificate of occupancy issued pursuant to the provisions of this chapter or Chapter 8, as the case may be.[Ord. #85-2, S1] | 
+
+
+zoning
+https://ecode360.com/35127281
+0.39480792237432827
+R-2 | 50% maximum | 
+R-3 | 80% maximum | 
+
+
+dangerous building abatement
+https://ecode360.com/34895586
+0.3906165234112077
+"DANGEROUS BUILDING
+DO NOT OCCUPY  — 
+BUILDING OFFICIAL OF CITY OF FIREBAUGH
+It is a misdemeanor to occupy this building or to remove or
+deface this notice. Firebaugh Municipal Code Section 8.5-14c1." | 
+
+
+dangerous building abatement
+https://ecode360.com/34895586
+0.36893648351628683
+No person shall occupy any building which has been posted at
+each entrance door thereto a notice as prescribed in this subparagraph.
+No person shall remove or deface any such notice so posted until the
+repairs, demolition, or removal ordered by the building official have
+been completed and certificate of occupancy issued pursuant to the
+provisions of the Firebaugh Municipal Code. | 
+
+
+sewer and water
+https://ecode360.com/34896255
+0.3670621891030739
+Manufacturer's name; | 
+Size; | 
+Model number; | 
+Direction of flow, by arrow; | 
+Assembly serial number; | 
+Maximum working water pressure (MWWP); | 
+Maximum working water temperature (MWWT); | 
+
+
+zoning
+https://ecode360.com/35127281
+0.3480296669387989
+Discouraged | 
+
+
+sewer and water
+https://ecode360.com/34896255
+0.30961352141896653
+* Means that this equipment or fixture should also have individual,
+interior protection with the type of backflow assembly shown | 
+A.G. - means approved air gap separation | 
+R.P. - means approved reduced pressure principle backflow assembly | 
+D.C. - means approved double check backflow assembly | 
+PVB - means approved pressure vacuum breaker backflow assembly | 
+
+
+sewer and water
+https://ecode360.com/34896255
+0.3093887661282627
+Foundation for Cross-Connection Control & Hydraulic Research
+University of Southern California
+University Park
+Los Angeles, California 90089 | 
+
+
+sewer and water
+https://ecode360.com/34896255
+0.3089129550320641
+January | January | January | April | April | 
+February | February | February | May | May | 
+March | March | March | June | June | 
+April | April | April | July | July | 
+May | May | May | August | August | 
+June | June | June | September | September | 
+July | July | July | October | October | 
+August | August | August | November | November | 
+September | September | September | December | December | 
+October | October | October | January | January | 
+November | November | November | February | February | 
+December | December | December | March | March | 
+
+
+impact fees
+https://ecode360.com/34895914
+0.30070394198764105
+City of Firebaugh
+Development Impact Fee Summary | 
+
+
+zoning
+https://ecode360.com/35127281
+0.2905668987009238
+Exhibit 19-6: Stairways | 
+
+
+dl      disposition list
+https://ecode360.com/34905290
+0.28856545971041764
+13-02 | 4-15-2013 | Utility User's Tax-wireless telecommunication services,
+failed at public referendum, removed from Code at direction of the
+City, deleted 22.5-lj,k; 22.5-3A; 22.5-15 | 27 | 
+2015-01 | 8-17-2015 | Amends Ch. 30, Residential Density Bonuses and Incentives; repeals and replaces entire chapter | 27 | 
+2015-02 | 8-17-15 | Amends Ch. 25, Zoning; Re: Home Occupations-25-1.7, Definitions; 25-2.4.1, Uses Permitted (R-1); 25-2.4.2, Uses Permitted Subject to Conditional Use Permit (R-1); 25-2.4B1, Uses Permitted (R-1-5); 25-2.4B2, Uses Permitted Subject to Conditional Use Permit; 25-2.6.1, Uses Permitted (R-2); 25-2.6.2, Uses Permitted Subject to Conditional Use Permit; 25-2.8.1, Uses Permitted (R-3); 25-2.8.2, Uses Permitted Subject to Conditional Use Permit | 27 | 
+2015-03 | 10-5-2015 | Amends Ch. 25, Zoning; 25-2.1, Zoning Districts; amends zoning map | 27 | 
+2016-01 | 8-1-2016 | Amends Ch. 25, Zoning; 25-2.1, Zoning Districts, amends zoning map | 27 | 
+2016-02 | 8-1-2016 | Establishes Ch. 8.8, Impact Fees; 8.8-1 through 8.8-3 | 27 | 
+Resolution 2016-25 | 7-18-2016 | Amends Ch. 8.8, Impact Fees; Establishes and Imposes Impact
+Fees as authorized by Ord. No. 2016-02, creates 8.8-4, Development
+Impact Fees | 27 | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35127281
+0.26967876529720936
+ | 
+
+
+sewer and water
+https://ecode360.com/34896255
+0.2468793425415792
+$65 (includes 1 hr. minimum for repairs) 3/4 inches to 1 inches | 
+$80 (includes 1 hr. minimum for repairs) 1 1/2 inches to
+2 inches | 
+$90 (includes 1 hr. minimum for repairs) 2 1/2 inches to
+4 inches | 
+$150 (includes 1 hr. minimum for repairs) 6 inches to 8 inches | 
+
+
+zoning
+https://ecode360.com/35127281
+0.24361341399441003
+MAWA = (ETo)(0.62) [0.7 x LA) + (0.3 x SLA)] | 
+
+
+streets  sidewalks and sanitation
+https://ecode360.com/34896167
+0.2373625342618165
+RECORDED REQUESTED BY:
+CITY OF FIREBAUGH
+When Recorded Mail To:
+City of Firebaugh
+1575 Eleventh Street
+Firebaugh, CA 93622 | 
+
+
+sewer and water
+https://ecode360.com/34896255
+0.234307642775789
+3/4" to 1" = $45 | 
+1 1/2" to 2" = $60 | 
+2 1/2" to 4" = $80 | 
+4 1/2" to 8" = $90 | 
+
+
+dl      disposition list
+https://ecode360.com/34905290
+0.22236737283197544
+16-03 | 8-1-2016 | Telephone, Gas and Electricity Users Tax Amendment | Ch. 22.5 | 28 | 
+16-04 |  |  | No Action Taken | 28 | 
+16-05 | 12-5-2016 | Zoning | Ch. 25 | 28 | 
+16-06 |  |  | Failed | 28 | 
+16-07 | 1-23-2016 | Streets, Sidewalks and Sanitation Amendment | Ch. 13 | 28 | 
+17-01 | 2-6-2017 | Franchises Amendment | Ch. 27 | 28 | 
+17-02 | 4-3-2017 | Administration Amendment | Ch. 2 | 28 | 
+17-03 | 11-20-2017 | Zoning Amendment | Ch. 25 | 28 | 
+18-01 | 1-17-2018 | General Amendment | Ch. 1 | 28 | 
+18-02 | 6-4-2018 | Zoning Amendment | Ch. 25 | 28 | 
+18-03 | 10-1-2018 | Zoning Map Amendment | Ch. 25 | 1 | 
+19-01 | 2-19-2019 | Zoning Map Amendment | Ch. 25 | 1 | 
+19-02 | 5-20-2019 | Police Regulations Amendment; Licenses and Business Regulations
+Amendment | Ch. 3; Ch. 4 | 28 | 
+19-03 | 7-15-2019 | Zoning Amendment | Ch. 25 | 28 | 
+19-04 | 8-5-2019 | Zoning Map Amendment | Ch. 25 | 1 | 
+19-05 | 8-19-2019 | Zoning Map Amendment | Ch. 25 | 1 | 
+19-06 | 10-21-2019 | Administration Amendment | Ch. 2 | 28 | 
+19-07 | 1-6-2020 | Zoning Map Amendment | Ch. 25 | 1 | 
+20-01 | 4-6-2020 | Zoning Map Amendment | Ch. 25 | 1 | 
+20-02 | 4-6-2020 | Sewer and Water Amendment | Ch. 15 | 1 | 
+20-03 | 6-15-2020 | Building and Housing Amendment | Ch. 8 | 1 | 
+20-04 | 10-5-2020 | Administration Amendment | Ch. 2 | 1 | 
+
+
+density bonuses and housing goals
+https://ecode360.com/34905246
+-0.053732540657869754
+5% | 20% | — |  | — | 20% | 
+6% | 22.5% | — | — | — | 20% | 
+7% | 25% | — | — | — | 20% | 
+8% | 27.5% | — | — | — | 20% | 
+9% | 30% | — | — | — | 20% | 
+10% | 32.5% | 20% | 5% | 15% | 20% | 
+11% | 35% | 21.5% | 6% | 16% | 20% | 
+12% | 35% | 23% | 7% | 17% | 20% | 
+13% | 35% | 24.5% | 8% | 18% | 20% | 
+14% | 35% | 26% | 9% | 19% | 20% | 
+15% | 35% | 27.5% | 10% | 20% | 20% | 
+16% | 35% | 29% | 11% | 21% | 20% | 
+17% | 35% | 30.5% | 12% | 22% | 20% | 
+18% | 35% | 32% | 13% | 23% | 20% | 
+19% | 35% | 33.5% | 14% | 24% | 20% | 
+20% | 35% | 35% | 15% | 25% | 20% | 
+21% | 35% | 35% | 16% | 26% | 20% | 
+22% | 35% | 35% | 17% | 27% | 20% | 
+23% | 35% | 35% | 18% | 28% | 20% | 
+24% | 35% | 35% | 19% | 29% | 20% | 
+25% | 35% | 35% | 20% | 30% | 20% | 
+26% | 35% | 35% | 21% | 31% | 20% | 
+27% | 35% | 35% | 22% | 32% | 20% | 
+28% | 35% | 35% | 23% | 33% | 20% | 
+29% | 35% | 35% | 24% | 34% | 20% | 
+30% | 35% | 35% | 25% | 35% | 20% | 
+31% | 35% | 35% | 26% | 35% | 20% | 
+32% | 35% | 35% | 27% | 35% | 20% | 
+33% | 35% | 35% | 28% | 35% | 20% | 
+34% | 35% | 35% | 29% | 35% | 20% | 
+35% | 35% | 35% | 30% | 35% | 20% | 
+36% | 35% | 35% | 31% | 35% | 20% | 
+37% | 35% | 35% | 32% | 35% | 20% | 
+38% | 35% | 35% | 33% | 35% | 20% | 
+39% | 35% | 35% | 34% | 35% | 20% | 
+40% | 35% | 35% | 35% | 35% | 20% | 
+
+
+sewer and water
+https://ecode360.com/34896255
+-0.886634954762826
+Agricultural chemical companies | RP | 
+Air conditioning plants (Commercial A.C. equipments) | RP | 
+Animal clinics, animal grooming shops and boarding | RP | 
+Apartment or office complex with pond, lake or fountain | RP | 
+Apartments with laundromats/laundry rooms | DC or RP | 
+Automatic or manual irrigation systems, Commercial or private | DC or RP | 
+Autoclave equipment* | AG, RP or PVB | 
+Automotive detail shops | RP | 
+Automotive repair with steam cleaner, acid cleaning or | RP solvent equipment | 
+Auxiliary water system or sources (interconnected or not) | RP | 
+Bakeries | RP | 
+Barber shops, beauty shops or salons | DC or RP | 
+Bars or cocktail lounges | DC or RP | 
+Battery manufacturing and rebuilding | RP | 
+Boat manufacturing and repair | RP | 
+Bottling plants-beverage or chemical | RP | 
+Building 2 stories and higher | RP | 
+Buildings with boilers, cooling towers, water tanks, and booster
+pumps | RP | 
+Buildings with sewage pumps | AG | 
+Camera repairing | DC or RP | 
+Canneries, packing houses or reduction plants | RP | 
+Car washes | RP | 
+Carpet, rug and upholstery cleaning firms | RP | 
+Catering firms | RP | 
+Chemical processing or storage facilities | RP | 
+Chemically treated (nonpotable) water systems | RP | 
+Chemically treated (potable) water systems | DC | 
+Chiller equipment* | PVB, DC or RP | 
+Churches with baptismal pools | RP | 
+Civic works exempt from City of Firebaugh inspection | RP | 
+Cleaning and dye plants | RP | 
+Cold storage and ice manufacturing plants | RP | 
+Commercial meat cutting, packaging and cold storage lockers | RP | 
+Commercial photography firms | RP | 
+Concrete plants | DC or RP | 
+Convalescent homes and clinics | DC or RP | 
+Convenience stores and markets | DC or RP | 
+Dairies | DC or RP | 
+Dark rooms | RP | 
+Dehydrating firms | RP | 
+Dental offices, clinics, and labs | RP | 
+Dialysis clinics, experimental labs | RP | 
+Diesel repair shops | RP | 
+Doctor's offices | RP | 
+Donut shops | RP | 
+Drain cleaning service firms | AG or RP | 
+Drapery cleaning firms | RP | 
+Drip irrigation systems | RP | 
+Dry cleaning equipment | RP | 
+Fabrication plants (metal, fiberglass, foam and plastic) | RP | 
+Fast food restaurants | RP | 
+Fire protection systems Classes 1 and 2 (No protection required
+with permission from specialist) | DC | 
+Fire protection systems Class 3 | DC | 
+Fire protection systems Class 4 | DC or RP | 
+Fire protection systems Class 5 | RP | 
+Fire protection systems Class 6 (determined by specialist and
+fire chief) |  | 
+Food processing facilities using nontoxic materials | DC or RP | 
+Food processing facilities using toxic materials | RP | 
+Frozen food processing plants | RP | 
+Fruit and vegetable packers | RP | 
+Funeral homes | RP | 
+Garbage disposal firms | RP | 
+Garden centers and nurseries | RP | 
+Gas service stations | DC or RP | 
+Gasoline, oil and lubricant marketers and distributors | RP | 
+Graphic art photographers | RP | 
+Gymnasiums with saunas, whirlpools, boilers, etc | RP | 
+Heat pump equipment* | PVB, DC or RP | 
+Hospitals | AG or RP | 
+Hot tank equipment* | PVB, DC or RP | 
+Hotels and motels with laundry facilities and restaurants | RP | 
+Industrial X-ray equipment | RP | 
+Inspection and herbicide manufacturing and storage facilities | RP | 
+Laboratories | RP | 
+Landscaping with elevated areas | RP | 
+Laundries |  | 
+Laundromats (with boilers) | RP | 
+Lawn mower shops | RP | 
+Machine shops | RP | 
+Manufacturing, processing and fabrication facilities | DC or RP | 
+Medical offices | RP | 
+Metal stripping facilities | RP | 
+Mobile home parks | DC or RP | 
+Mobile services (pest control, drain cleaning, steam cleaning,
+rug cleaning) | RP | 
+Mortuaries and morgues | RP | 
+Offices or shopping centers with uncommitted lease spaces | RP | 
+Oil and gas bulk or production facilities | DC or RP | 
+Paint spray booths | RP | 
+Painting shops using water in any process | RP | 
+Paper processing and production facilities | RP | 
+Pest control services and suppliers | RP | 
+Pet shops and suppliers | RP | 
+Photography studios with processing equipment | RP | 
+Planting works | RP | 
+Pressure vessel equipment* | RP | 
+Pressure washing equipment | RP | 
+Public utility companies | RP | 
+Radiator shops (repairs and backflushing) | RP | 
+Refineries | RP | 
+Rendering and reduction plants | RP | 
+Rest homes | DC or RP | 
+Restaurants or buildings with commercial kitchen (180° water,
+commercial dishwasher) | RP | 
+Sanitary dump for recreation vehicles or septic system service
+tankers | AG or RP | 
+Schools, colleges, trade schools | RP | 
+Sewage and stormwater pumping facilities | AG or RP | 
+Shows and movie theaters | RP | 
+Solar systems and related equipment* | RP | 
+Spa and hot tub equipment* | RP | 
+Steam cleaners* | DC or RP | 
+Swimming pools | PVB or RP | 
+Tank trucks filling from fire hydrant | AG or RP | 
+Taxidermists | RP | 
+Temporary construction water[Ord. 709 (part), 1988; Ord. 677 S1 (part), 1985] | AG or RP | 
+Testing laboratories | RP | 
+Tire recapping, retreading and repairing services | RP | 
+Vats* | PVB, DC or RP | 
+Waste water treatment facilities | RP | 
+Water filtration and purification facilities | AG or RP | 
+Where a cross-connection is maintained (actual or potential) | RP | 
+Where the use of public water is such as to subject it to deterioration
+in sanitary quality | DC or RP | 
+
+

@@ -1,0 +1,810 @@
+inland wetlands and watercourses
+https://ecode360.com/8850851
+0.5226960079504093
+ | Building Official | 
+ | Engineering Consultant | 
+ | Health Officer or State Department of Health | 
+ | Planner | 
+ | Planning Commission | 
+ | Public Works | 
+ | Water Pollution Control Authority | 
+ | Zoning Board of Appeals | 
+ | Zoning Commission | 
+ | Zoning Enforcement Officer | 
+ | Erosion Control/Wetlands Control Officer | 
+
+
+iii      residential districts
+https://ecode360.com/8851778
+0.5164639791138597
+Somers | Somersville | 
+Residential | Agricultural | 
+
+
+iii      residential districts
+https://ecode360.com/8851778
+0.44792958806746014
+ZPNR | Permitted; zoning permit not required | 
+ZP | Permitted with zoning permit (from Zoning Enforcement Officer) | 
+SPA | Permitted with site plan approval (from Zoning Commission) | 
+SUP | Permitted with special use permit approval (from Zoning Commission) | 
+X | Not permitted in this district | 
+
+
+iii      residential districts
+https://ecode360.com/8851778
+0.44792958806746014
+ZPNR | Permitted; zoning permit not required | 
+ZP | Permitted with zoning permit (from Zoning Enforcement Officer) | 
+SPA | Permitted with site plan approval (from Zoning Commission) | 
+SUP | Permitted with special use permit approval (from Zoning Commission) | 
+X | Not permitted in this district | 
+
+
+iv      business industrial districts
+https://ecode360.com/8851811
+0.44452756102569985
+ZPNR | Permitted; zoning permit not required | 
+ZP | Permitted with zoning permit (from Zoning Enforcement Officer) | 
+SPA | Permitted with site plan approval (from Zoning Commission) | 
+SUP | Permitted with special use permit approval (from Zoning Commission) | 
+X | Not permitted in this district | 
+
+
+iv      business industrial districts
+https://ecode360.com/8851811
+0.44452756102569985
+ZPNR | Permitted; zoning permit not required | 
+ZP | Permitted with zoning permit (from Zoning Enforcement Officer) | 
+SPA | Permitted with site plan approval (from Zoning Commission) | 
+SUP | Permitted with special use permit approval (from Zoning Commission) | 
+X | Not permitted in this district | 
+
+
+inland wetlands and watercourses
+https://ecode360.com/8850851
+0.44386692565661445
+ | Applications (including supporting materials) | 10 years | - | 
+ | Decision letters | 10 years | Permanent | 
+ | Approved site plans | 10 years | — | 
+ | Legal notices | 10 years | Permanent | 
+ | Staff and public written testimony (hearing
+records) | 10 years | — | 
+ | Minutes of meetings and public hearings | 15 years | Permanent | 
+ | Tapes, audio-inland wetland matters | 4 years | — | 
+ | Notices of violation and orders | 10 years | — | 
+ | Text of changes adopted in regulations | Continuous update/ permanent | — | 
+ | General correspondence issued or received | 5 years | — | 
+
+
+vi      use related provisions
+https://ecode360.com/8851834
+0.4378861780091487
+(1) | Maximum density (units per acre of buildable land) | As determined by the Planning Commission but not to exceed 4
+units per buildable acre | 
+(2) | Minimum parcel area | 20 acres | 
+(3) | Minimum buildable area on parcel | 10 acres | 
+(4) | Minimum parcel frontage | 100 feet | 
+(5) | Minimum building setback at perimeter of parcel | 80 feet | 
+(6) | Maximum building height | 35 feet; 1.5 stories | 
+(7) | Maximum lot coverage | As determined by the Planning Commission | 
+(8) | Minimum perimeter landscaped buffer (shall be located within
+building setback requirement) | 30 feet | 
+
+
+iii      residential districts
+https://ecode360.com/8851778
+0.42508555099532297
+Provisions may be different in an open space subdivision approved in accordance with Section 214-6.6 of the Zoning Regulations and § 213-62 of the Somers Subdivision Regulations. | 
+
+
+iv      business industrial districts
+https://ecode360.com/8851811
+0.42470222939391444
+See Section 214-4.2 for declaration of the Village Business District as a "Village District" in accordance with C.G.S. Section 8-2j. | 
+
+
+iv      formal application procedures
+https://ecode360.com/8851230
+0.3972339238533195
+ | Town Planning Commission, Somers, Connecticut | 
+ | Approved on __________________, 19______ | 
+ | Date signed __________________, 19______ | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ | This approval shall expire __________________ | 
+
+
+v      special districts
+https://ecode360.com/8851816
+0.37915203372007966
+The Floodplain Overlay District is established to implement
+the provisions of the National Flood Insurance Program. The numbering
+of this section differs from other sections of the Regulations since
+it is intended to replicate the Model Floodplain Management Regulations
+(October 2018) promulgated by the Federal Emergency Management Agency
+(FEMA) and the Connecticut Department of Energy and Environmental
+Protection (DEEP). | 
+
+
+iii      residential districts
+https://ecode360.com/8851778
+0.37656559228338615
+A. | Residential |  |  |  | 
+(1) | One single-family detached dwelling per lot, except no lot shall
+be occupied for residential purposes unless it has the required frontage
+on a Town-approved or state-approved street | ZP | ZP | ZP | 
+(2) | Two-family building, provided that there shall be at least 80,000
+square feet of contiguous buildable area and at least 300 feet of
+frontage | X | ZP | ZP | 
+(3) | Age-restricted housing subject to the requirements of Section 214-6.5 of these regulations | X | SUP | SUP | 
+(4) | Open space subdivision subject to the requirements of Section 214-6.6 of these regulations and § 213-62 of the Somers Subdivision Regulations | X | Approval by Planning Commission | Approval by Planning Commission | 
+B. | Open Space |  |  |  | 
+(1) | Open space | ZPNR | ZPNR | ZPNR | 
+(2) | Parks and playgrounds | SUP | SUP | SUP | 
+C. | Agricultural |  |  |  | 
+(1) | Farm/agriculture | ZPNR | ZPNR | ZPNR | 
+(2) | Water harvesting for commercial purposes | SUP | SUP | SUP | 
+(3) | Commercial horse farm subject to the requirements of Section 214-6.3B of these regulations | X | SUP | X | 
+(4) | Greenhouse operations and nurseries, provided that any on-premises
+sales are limited to products raised on the premises | X | SUP | X | 
+D. | Institutional |  |  |  | 
+(1) | Convalescent or nursing home or home for the aged | X | SUP | SUP | 
+(2) | Place of worship or religious institution | SUP | SUP | SUP | 
+(3) | Nonprofit institution | X | SUP | SUP | 
+(4) | Private museum | X | SUP | SUP | 
+(5) | Governmental uses and public service uses, such as firehouse,
+library, etc. | SUP | SUP | SUP | 
+(6) | Public or private school (not including business or trade schools),
+nursery, dancing school or riding school, conservatory for music or
+other arts | X | SUP | SUP | 
+E. | Recreational |  |  |  | 
+(1) | Golf course or country club | X | SUP | X | 
+(2) | Golf center | X | SUP | X | 
+(3) | Public or quasi-public camp, provided that a minimum boundary
+buffer of 50 feet shall be provided to camping areas | X | SUP | X | 
+(4) | Membership club, outdoor recreation provided that the property
+shall contain at least 400 square feet of land per member | X | SUP | X | 
+(5) | Commercial swimming club | X | SUP | X | 
+F. | Utility/Infrastructure |  |  |  | 
+(1) | Public utility lines, substations and buildings in accordance
+with Section 214-6.10 of these regulations | SUP | SUP | SUP | 
+(2) | Wireless telecommunications in accordance with Section 214-8.3 of these regulations | X | See Section 214-8.3 | See Section 214-8.3 | 
+G. | Other |  |  |  | 
+(1) | Cemetery, provided that a minimum boundary buffer of 20 feet
+shall be provided to burial plots | X | SUP | SUP | 
+(2) | Adaptive reuse of an existing structure on a state highway in accordance with Section 214-6.7 of these regulations | X | SUP | SUP | 
+
+
+vii      standards
+https://ecode360.com/8851853
+0.37282151672653824
+(a) | Retail and personal service stores | 5 per 1,000 square feet of gross floor area | 
+(b) | Restaurants | 1 per 3 seats | 
+(c) | Business offices and banks | 4 per 1,000 square feet of gross floor area excluding basement
+storage/utility areas | 
+(d) | Physician/dentist office, clinics | 1 per doctor, 1 per employee, and 2 per examining room | 
+(e) | Lodging facilities | 1 per guest sleeping room, plus office, restaurant and dwelling
+requirement where applicable | 
+(f) | Meeting or conference facilities | 1 per 3 persons/design capacity | 
+
+
+vii      standards
+https://ecode360.com/8851853
+0.36658117371622734
+(a) | Single-family dwelling | 2 per dwelling unit | 
+(b) | Multifamily development | 2.00 per dwelling unit, plus 0.20 per dwelling unit in a common
+lot for guests | 
+(c) | Dwelling with home occupation | 2 per dwelling unit, plus 1 for clients | 
+(d) | Dwelling with professional office (not medical or dental) | 2 per dwelling unit, 1 per employee, plus 2 for clients | 
+(e) | Dwelling with professional office (medical or dental) | 2 per dwelling unit, 1 per employee, plus 4 for patients | 
+(f) | Convalescent or nursing home or home for the aged | 2 per 3 beds and 1 per 3 employees | 
+(g) | Housing for the elderly | 2 per 3 dwelling units | 
+
+
+v      general criteria for review of applications
+https://ecode360.com/8851340
+0.35230009992345934
+ | This parcel contains inland wetlands and/or
+watercourses. Any activity in or around these areas must be consistent
+with Connecticut General Statutes Sections 22a-36 through 22a-45 and
+the Somers Inland Wetlands and Watercourses Regulations, which are
+presently enforced by the Somers Conservation Commission. | 
+
+
+vii      standards
+https://ecode360.com/8851853
+0.3503827361166004
+(a) | Signs pertaining to a home-based business permitted as an accessory
+use of the lot | 4 | 1 per lot | Back of street line | 
+(b) | Signs giving the name of the farm on a wall of an accessory
+building | Up to 3 per linear feet of wall where displayed | 1 per farm | 30 feet back of street line | 
+(c) | Signs pertaining to and during the construction or repair of
+property on which they are located | 25 for all such signs | 2 per lot | 15 feet back of street line | 
+(d) | Signs on the premises offering lots and/or homes for sale within
+approved subdivisions; these signs shall not be displayed for more
+than 12 months | 25 per sign | 2 per subdivision | 15 feet back of street line | 
+(e) | Special event signs of civic and nonprofit organizations on
+the premises for not more than 90 days within any 12-month period | 25 | 1 per lot | 15 feet back of street line | 
+(f) | Temporary special event sign for noncommercial or civic events
+at the site of the event may be posted no sooner than 30 days prior
+to the event and removed within 5 days of the event. | 32 total | 1 per lot |  | 
+(g) | Off-premises temporary signs announcing special events posted
+no sooner than 30 days prior to the event and removed within 5 days
+of the event | 12 | Up to 15 off-premises locations |  | 
+
+
+i      subdivision applications
+https://ecode360.com/8850420
+0.3410680870939059
+ | 1 to 20 | $150 | 
+ | 21 to 50 | 125 | 
+ | 51 to 100 | 100 | 
+ | Each over 100 | 75 | 
+
+
+vi      local tax relief program
+https://ecode360.com/29925167
+0.33756220295657
+ | NOTE: The income levels will continue to be adjusted annually
+by the Assessor to conform with the state tax relief program. | 
+
+
+v      general criteria for review of applications
+https://ecode360.com/8851340
+0.33682200261498674
+ | Neither the approval of this plan nor the review
+or signing thereof by any Town consulting engineer, commission, board,
+officer, official, employee, agent or representative shall constitute
+or be construed as a representation, guaranty or warranty by such
+consulting engineer, commission, board, officer, official, employee,
+agent, representative or the Town of Somers as to the chemical content,
+quantity, quality or potability of any water supply. Any determination
+concerning the chemical content, quantity, quality or potability of
+any water supply shall be the sole responsibility of the purchaser
+or other transferee of the property on which the water supply is located
+or proposed to be located. | 
+
+
+viii      special provisions
+https://ecode360.com/8851906
+0.3337681331661694
+Existing earthwork operations may continue as nonconforming
+uses until the expiration of their yearly permit, but the operator
+must then file a statement with the Commission setting forth the area
+included in the operation and the nature, extent and purpose of the
+operation now being carried on. After such a statement is filed with
+and approved by the Commission, any extension, change or renewal of
+the operation shall be considered a new operation and shall require
+compliance with these regulations. | 
+
+
+vii      standards
+https://ecode360.com/8851853
+0.33345932523658595
+Industrial | 70 | 66 | 61 daytime
+51 nighttime | 
+Commercial and retail trade | 62 | 62 | 55 daytime
+45 nighttime | 
+Residential and all other zones | 62 | 55 | 55 daytime
+45 nighttime | 
+
+
+iv      formal application procedures
+https://ecode360.com/8851230
+0.32870074853001396
+ | Town Engineering Consultant | Date | 
+
+
+i      technical amendments
+https://ecode360.com/8849989
+0.3279501896539485
+ | When any building or other structure previously served by a connection
+to any public sanitary sewer is demolished, destroyed, abandoned or altered
+so that any sewer or portion of a plumbing system which is directly or indirectly
+connected to any public sanitary sewer is no longer used and is no longer
+connected to the sewer system which discharged, directly or indirectly, into
+a public sanitary sewer, the abandoned sewer or portion of a plumbing system
+shall be promptly closed and sealed off at the property line so that no water
+or wastes not otherwise permitted to enter the public sanitary sewer shall
+be so discharged thereinto. | 
+
+
+ii      words and terms
+https://ecode360.com/8851627
+0.32540364689396906
+FLOOD-RELATED TERMS — See Section 214-5.1, Floodplain Overlay District, for the definitions of terms applicable in such areas. | 
+
+
+i      technical amendments
+https://ecode360.com/8849989
+0.3155079892051953
+ | The Town of Somers shall adopt the minimum State Building Code adopted
+from the Basic Code of the Building Officials Conference of America, Inc.,
+being particularly the 1951 edition thereof, as amended from time to time,
+of which three (3) copies have been and now are filed in the office of the
+Town of Somers. The effective date of the Building Code shall be June 15,
+1953. | 
+
+
+v      general criteria for review of applications
+https://ecode360.com/8851340
+0.310317843887872
+ | Notice: This subdivision has been exempted from the open space
+requirements and the requirements for fees in lieu of open space upon
+the express condition that all lots in the subdivision will be transferred
+by the subdivider to persons who are the subdivider's parent,
+child, brother, sister, grandparent, grandchild, aunt, uncle or first
+cousin for no consideration. No portion of this subdivision shall
+be deemed a lot until all of such transfers have been perfected. The
+Planning Commission and the Zoning Enforcement Officer may require
+reasonable evidence of the relationship of the transferee to the transferor
+and the fact that the transfer was made for no consideration before
+any portion of this subdivision will be treated as a lot. | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.3091181811310177
+1/3 EDU | Each room of a rooming house or boardinghouse | 
+2/3 EDU | Each room of a hotel or motel | 
+1 EDU | Single-family home | 
+ | Each unit of a multifamily home | 
+ | Each unit of an apartment house | 
+ | Church (or other place of worship) or rectory | 
+ | Photographer's business | 
+ | Florist's business | 
+ | Commercial parking garage | 
+ | Warehouse | 
+ | Fire station | 
+ | Each operator in a barbershop | 
+ | Dairy bar with window service only | 
+ | Post office with fewer than 12 employees | 
+ | Business office with fewer than 12 employees | 
+ | Factory/light industry with no showers and fewer
+than 12 employees | 
+ | Factory/light industry with showers and fewer
+than 10 employees | 
+ | Mercantile store with fewer than 12 employees | 
+ | Supermarket with fewer than 12 employees | 
+ | Package store | 
+ | Police station (add 1/5 of an EDU for each cell) | 
+ | Luncheonette (seating capacity of 15 or less
+and paper service only) | 
+1 1/3 EDU | Billiard parlor | 
+ | Hall or place of public assembly (without bar
+license) | 
+ | Doctor's or dentist's office | 
+ | Bakery | 
+ | Fish or meat market | 
+ | Each operator in a beauty salon | 
+1 2/3 EDU | Service station or auto dealership | 
+ | Drive-in restaurant | 
+ | Drugstore | 
+2 EDU | Funeral parlor/mortuary | 
+3 1/2 EDU | Restaurant, bar or nightclub (with capacity
+for fewer than 100 persons) | 
+ | Lodge hall (with bar license) | 
+
+
+ii      words and terms
+https://ecode360.com/8851627
+0.30872227855695356
+A. | WETLANDS — Land, including submerged land, . . . which
+consists of any of the soil types designated as poorly drained, very
+poorly drained, alluvial, and floodplain by the National Cooperative
+Soils Survey, as may be amended from time to time, of the Natural
+Resources Conservation Service of the United States Department of
+Agriculture . . . | 
+
+
+vi      local tax relief program
+https://ecode360.com/29925167
+0.3079022165294024
+ | 1/2 of 1% of Total Operating Budget
+Cost of Program | = Prorate % | 
+
+
+vi      use related provisions
+https://ecode360.com/8851834
+0.30272729741803284
+1 | 2 | 
+2 | 3 | 
+3 | 4 | 
+4 or more | See Section 214-6.3B | 
+
+
+viii      special provisions
+https://ecode360.com/8851906
+0.28621991149976844
+Please note that antenna structures operated by licensed amateur
+radio operators are addressed in Sections 214-3.3C(7) and 214-4.4B(4)(h). | 
+
+
+ii      words and terms
+https://ecode360.com/8851627
+0.28396601457750625
+A. | WATERCOURSES — Rivers, streams, brooks, waterways, lakes,
+ponds, marshes, swamps, bogs and all other bodies of water, natural
+or artificial, vernal or intermittent, public or private, which are
+contained within, flow through or border upon this state or any portion
+thereof,. . . . | 
+B. | INTERMITTENT WATERCOURSES — Shall be delineated by a defined
+permanent channel and bank and the occurrence of two or more of the
+following characteristics: (A) Evidence of scour or deposits of recent
+alluvium or detritus, (B) the presence of standing or flowing water
+for a duration longer than a particular storm incident, and (C) the
+presence of hydrophytic vegetation . . . | 
+
+
+inland wetlands and watercourses
+https://ecode360.com/8850851
+0.2812446489756202
+ | Such notice shall be made by certified mail,
+return receipt requested, and shall be mailed within seven days of
+the date of receipt of the application, petition, appeal, request
+or plan. | 
+
+
+viii      special provisions
+https://ecode360.com/8851906
+0.2744705654510699
+URL active as of April 2021 | 
+https://portal.ct.gov/-/media/DEEP/site clean up/potable
+water/Blasting-Guidance-Dec2019.pdf | 
+
+
+vii      standards
+https://ecode360.com/8851853
+0.26102394992620725
+See "Noise-Related Terms" in Article II of these regulations for definitions of terms used in this section. | 
+
+
+vii      standards
+https://ecode360.com/8851853
+0.25378900695085127
+Example Of Name/Address Sign | Example Of Real Estate Sign | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+0.2521391030186979
+ | Arterial | 60 | 36 | 
+ | Collector | 60 | 32 | 
+ | Local and dead end | 50 | 28 | 
+
+
+vii      standards
+https://ecode360.com/8851853
+0.24633902123207896
+With spaces perpendicular to aisle | 24 | 24 | 
+With spaces at 60° to aisle | 20 | 18 | 
+With spaces at 45° to aisle | 20 | 15 | 
+With spaces at 30° to aisle | 20 | 13 | 
+With spaces parallel to aisle | 20 | 12 | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.24387057769886336
+ | Use Charge = #EDU's x Base Rate Per EDU | 
+
+
+ethics  code of
+https://ecode360.com/8850108
+0.19058369103269027
+ | c/o Town Clerk - Confidential | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.18186533260400348
+ | (0.18 gallons) x (# square feet floor space)
+÷ (225 gpd/DU) = #EDU | 
+
+
+vi      local tax relief program
+https://ecode360.com/29925167
+0.17640051053261757
+ | Step 1 | $0 | $13,800 | 75% | 75% | 
+ | Step 2 | $13,800 | $18,600 | 75% | 65% | 
+ | Step 3 | $18,600 | $23,200 | 75% | 50% | 
+ | Step 4 | $23,200 | $27,700 | 60% | 35% | 
+ | Step 5 | $27,700 | $33,900 | 40% | 15% | 
+
+
+iv      formal application procedures
+https://ecode360.com/8851230
+0.1718935259441922
+ | Town Sanitarian | Date | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.16345376050878394
+ | (0.18 gallons) x (# sq. ft. floor space) ÷
+(225 gpd/DU) = #EDU | 
+
+
+vii      standards
+https://ecode360.com/8851853
+0.15784574741339596
+Prohibited | Required | 
+ |  | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.15744007622289544
+ | (0.1 gallons) x (# square feet floor space)
+÷ (225 gpd/EDU) = #EDU | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.15744007622289544
+ | (0.1 gallons) x (# square feet floor space)
+÷ (225 gpd/EDU) = #EDU | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.1183758353040231
+ | (# pupils and employees) x (75 gpd/person) ÷
+(225 gpd/DU) = #EDU | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.1183758353040231
+ | (# pupils and employees) x (15 gpd/person) ÷
+(225 gpd/DU) = #EDU | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.11117894994539393
+ | (capacity) x (8 gpd/person capacity) ÷
+(225 gpd/DU) = #EDU | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.10910471163358185
+ | (# car stalls) x (5 gpd/car stall) ÷
+(225 gpd/DU) = #EDU | 
+
+
+i      water main extensions
+https://ecode360.com/8850805
+0.0887367478075057
+ | FPU | = | NFF/750 (rounded to nearest 0.5) | 
+
+
+dl      disposition list
+https://ecode360.com/13558624
+0.06659460386175908
+4-14-2020 | Zoning Amendment | Superseded 5-1-2021 | 3 | 
+5-1-2021 | Zoning | Ch. 214 | 3 | 
+
+
+iv      business industrial districts
+https://ecode360.com/8851811
+0.04600751410287873
+ | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.04240469788219425
+ | (# seats) x (2 1/2 gpd/seat) ÷ (225
+gpd/DU) = #EDU | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+0.031287724423607555
+ | (# bedrooms) x (100 gpd/bedroom) ÷ (225
+gpd/DU) = #EDU | 
+
+
+iv      business industrial districts
+https://ecode360.com/8851811
+0.009209483934403767
+Somers | Somersville | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+-0.0028898635696257557
+ | (# beds) x (100 gpd/bed) ÷ (225 gpd/DU)
+= #EDU | 
+
+
+sewer use charge system
+https://ecode360.com/8851096
+-0.007662467835281822
+ | (# alleys) x (75 gpd/alley) ÷ (225 gpd/DU)
+= #EDU | 
+
+
+v      general criteria for review of applications
+https://ecode360.com/8851340
+-0.017196826333784998
+ | 
+
+
+ii      words and terms
+https://ecode360.com/8851627
+-0.05386616050753856
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vi      streets and sidewalks  utilities
+https://ecode360.com/8851428
+-0.05591799563015576
+ | 
+
+
+vii      standards
+https://ecode360.com/8851853
+-0.06635336202174612
+ | 
+
+
+dl      disposition list
+https://ecode360.com/13558624
+-0.41035607414526787
+8-5-1996 | Adoption of Code | Ch. 1, Art. III | 
+8-5-1996 | Special Project Committee | Ch. 62 | 
+7-1-1997 | Zoning amendment | Superseded 5-1-2021 | 
+10-20-1997 | Inland wetlands and watercourses | Ch. 211 | 
+11-1-1997 | Zoning amendment | Superseded 5-1-2021 | 
+11-26-1997 | Inland wetlands and watercourses amendment | Ch. 211 | 
+4-27-1998 | Zoning amendment | Superseded 5-1-2021 | 
+5-26-1998 | Code of Ethics | Ch. 26 | 
+6-15-1998 | Zoning amendment | Superseded 5-1-2021 | 
+6-15-1998 | Zoning amendment | Superseded 5-1-2021 | 
+7-1-1998 | Zoning amendment | Superseded 5-1-2021 | 
+7-13-1998 | Zoning amendments | Superseded 5-1-2021 | 
+7-16-1998 | Subdivision of land amendments | Ch. 213 | 
+9-8-1998 | Zoning amendment | Superseded 5-1-2021 | 
+1-4-1999 | Adult-oriented establishments | Ch. 72 | 
+2-1-1999 | Economic Development Commission | Ch. 24 | 
+2-16-1999 | Zoning amendment | Superseded 5-1-2021 | 
+2-22-1999 | Water main extensions amendment | Ch. 204, Art. I | 
+2-22-1999 | Sewer use charge system amendment | Ch. 212 | 
+6-9-1999 | Town property: zoning and subdivision regulations amendment | Ch. 51, Art. I | 
+8-16-1999 | Solid waste amendment | Ch. 166 | 
+8-30-1999 | Designation of scenic roads | Ch. 57 | 
+9-30-1999 | Subdivision of land amendment | Ch. 213 | 
+11-1-1999 | Zoning amendments | Superseded 5-1-2021 | 
+11-2-1999 | Charter amendment | Charter | 
+7-31-2000 | Denial of permits, Town contracts and vendor payments for delinquent
+taxes | Ch. 179, Art. III | 
+1-29-2001 | Tax refunds | Ch. 179, Art. IV | 
+11-2-2001 | Zoning amendment | Superseded 5-1-2021 | 
+2-1-2003 | Zoning amendment | Superseded 5-1-2021 | 
+6-30-2003 | Zoning amendments | Superseded 5-1-2021 | 
+4-14-2004 | Economic Development Commission amendment | Ch. 24 | 
+4-14-2004 | Local Scholarship Fund | Repealed 3-15-2018 | 
+4-14-2004 | Special Project Committee amendment | Ch. 62 | 
+4-26-2004 | Delinquent motor vehicle tax fee | Ch. 114, Art. II | 
+4-26-2004 | Payment of motor vehicle taxes in installments | Ch. 179, Art. V | 
+4-26-2004 | Local tax relief program | Ch. 179, Art. VI | 
+7-7-2004 | Inland wetlands and watercourses | Ch. 211 | 
+7-26-2004 | Zoning amendments | Superseded 5-1-2021 | 
+12-2-2004 | Subdivision of land amendment | Ch. 213 | 
+10-3-2005 | Zoning amendments | Superseded 5-1-2021 | 
+2-2-2006 | Local tax relief program amendment | Ch. 179, Art. VI | 
+4-3-2006 | Zoning amendments | Superseded 5-1-2021 | 
+7-24-2006 | Zoning amendments | Superseded 5-1-2021 | 
+11-7-2006 | Charter amendments | Charter | 
+7-23-2007 | Zoning amendments | Superseded 5-1-2021 | 
+10-1-2007 | Fire fighting water supply | Ch. 204, Art. II | 
+10-9-2007 | Sewer use charge system amendment | Ch. 212 | 
+2-25-2008 | Tax exemption for property leased to charitable, religious or
+nonprofit organizations | Ch. 179, Art. VII | 
+6-18-2008 | Tax abatement for housing for low- or moderate-income persons | Ch. 179, Art. VIII | 
+7-14-2008 | Zoning amendments | Superseded 5-1-2021 | 
+10-6-2008 | Tax abatement for members of volunteer canine search and rescue
+teams | Ch. 179, Art. IX | 
+4-6-2009 | Zoning amendments | Superseded 5-1-2021 | 
+4-9-2009 | Subdivision of land amendment | Ch. 213 | 
+7-23-2009 | Fees for permits from Building Official and Fire Marshal | Ch. 114, Art. III | 
+12-21-2010 | Central Connecticut Solid Waste Authority | Ch. 61 | 
+12-21-2010 | Fees for significant land use applications and affordable housing
+applications | Ch. 114, Art. IV | 
+1-26-2012 | Amusement devices repealer | Ch. 79, reference only | 
+12-2-2013 | Zoning amendments | Superseded 5-1-2021 | 
+11-6-2013 | Charter amendments | Charter | 
+1-13-2014 | Testing of water quality in new private water supply systems | Ch. 204, Art. III | 
+4-7-2014 | Zoning amendments | Superseded 5-1-2021 | 
+4-7-2014 | Subdivision of land amendments | Ch. 213 | 
+10-6-2014 | Zoning amendments | Superseded 5-1-2021 | 
+1-21-2016 | Board of Selectmen repeal of Board of Fire Commissioners | See Charter § 5-10 (Editor's Note) | 
+11-10-2016 | Building Official Schedule of Fees amendment | Ch. 114 (Att. 1) | 
+11-21-2016 | Zoning amendment | Superseded 5-1-2021 | 
+1-3-2017 | Building permit fee waiver policy | Ch. 114 (Att. 3) | 
+3-15-2018 | Budget and Finance: Local Scholarship Fund Repealer | Ch. 7, Art. II, reference only | 
+3-15-2018 | Capital Region Planning Agency Repealer | Ch. 14, reference only | 
+3-15-2018 | Design Advisory Board | Ch. 23 | 
+3-15-2018 | Citations: Citations for Zoning Violations | Ch. 96, Art. I | 
+3-15-2018 | Citations: Citation Appeals and Hearing Process | Ch. 96, Art. II | 
+3-15-2018 | Mass Gatherings | Ch. 135 | 
+3-15-2018 | Property Maintenance | Ch. 145 | 
+3-15-2018 | Sewers Amendment; Soil Erosion and Sediment Control Amendment;
+Zoning Amendment | Ch. 155; Ch. 161; Ch. 214 (Superseded 5-1-2021) | 
+3-15-2018 | Vendors, Hawkers, Peddlers, Canvassers and Solicitors | Ch. 196 | 
+3-15-2018 | Vending and Sidewalk, Tag and Auction Sales Amendment | Ch. 198 | 
+
+

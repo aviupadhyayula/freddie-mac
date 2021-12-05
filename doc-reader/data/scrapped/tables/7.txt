@@ -1,0 +1,151 @@
+vii      tax credit for elderly or disabled homeowners
+https://ecode360.com/14030573
+0.35213774614884674
+* Data for homeowners only. | 
+* For married couples, both incomes must be counted. | 
+(Source: State of CT, Office of Policy & Management) | 
+
+
+ix      incentive program for owners of business real and personal property
+https://ecode360.com/14030539
+0.33691447701289035
+$5,000,000+ | Up to 50% of increased assessment | Up to 7 years | 
+$3,000,000+ | Up to 50% of increased assessment | Up to 5 years | 
+$500,000+ | Up to 50% of increased assessment | Up to 2 years | 
+$25,000+ | Up to 50% of increased assessment | Up to 3 years | 
+
+
+i      land use related applications
+https://ecode360.com/14029597
+0.3244492306555939
+ | Less than 1,000 | $50 | 
+ | 1,000 to 5,000 "a" plus | $500 | 
+ | More than 5,000 "b" plus | $750 | 
+
+
+i      land use related applications
+https://ecode360.com/14029597
+0.3244492306555939
+ | Less than 500 | $50 | 
+ | 500 to 1,000 "a" plus | $500 | 
+ | More than 1,000 "b" plus | $750 | 
+
+
+ix      incentive program for owners of business real and personal property
+https://ecode360.com/14030539
+0.3161584342883059
+Note: This table lists the minimum value of an improvement that
+qualifies a project for an abatement, the maximum abatement amount
+and the maximum abatement period. The Board of Selectmen shall determine
+the specific abatement for each project based upon the benefits to
+the Town. | 
+
+
+ix      incentive program for owners of business real and personal property
+https://ecode360.com/14030539
+0.2907011557588436
+$3,000,000 | Up to 50% | Not more than 7 years | 
+$500,000+ | Up to 50% | Not more than 2 years | 
+$25,000+ | Not more than 30% | Not more than 3 years | 
+
+
+vi      property tax relief
+https://ecode360.com/14030509
+0.05201024355936404
+ | 1 | $800 | 
+ | 2 | $600 | 
+ | 3 | $400 | 
+ | 4 | $200 | 
+ | 5 | $100 | 
+
+
+vii      tax credit for elderly or disabled homeowners
+https://ecode360.com/14030573
+0.025903818826074176
+$0 | $13,400 | 50% | 40% | $400 | $350 | $1,250 | $1,000 | 
+$13,400 | $18,100 | 40% | 30% | $350 | $250 | $1,000 | $750 | 
+$18,100 | $22,600 | 30% | 20% | $250 | $150 | $750 | $500 | 
+$22,600 | $27,100 | 20% | 10% | $150 | $150 | $500 | $250 | 
+$27,100 | $33,000 | 10% | 0% | $150 | $0 | $250 | $0 | 
+
+
+seal
+https://ecode360.com/14029456
+-0.10002523336017956
+ | 
+
+
+dl      disposition list
+https://ecode360.com/14030686
+-0.24002052328362228
+STM 12-7-1992 | Adoption of Code | Ch. 1, Art. I | 
+STM 12-7-1992 | Planning and Zoning Commission | Ch. 1, Art. II (see also Ch. 63) | 
+STM 12-7-1992 | Bidding amendment | Ch. 12 | 
+STM 12-14-1993 | Road specifications amendment | Ch. 1, Art. II (see also Ch. 166) | 
+ATM 5-16-1994 | Inland Wetlands Commission amendment | Ch. 45 | 
+ATM 5-16-1994 | Special constables | Ch. 21 | 
+STM 3-18-1996 | Building construction amendment | Ch. 114 | 
+ATM 5-20-1996 | Justices of the Peace amendment | Ch. 49 | 
+ATM 5-19-1997 | Building construction amendment | Ch. 114 | 
+ATM 5-19-1997 | Scenic roads | Ch. 168 | 
+ATM 5-19-1997 | Effective date of exemption | Ch. 184, Art. IV | 
+ATM 5-18-1998 | Delinquent motor vehicle property tax payments | Ch. 184, Art. V | 
+STM 10-25-1999 | Gifts to town | Ch. 41 | 
+STM 10-25-1999 | Town Officers Committee meeting | Ch. 54, Art. I | 
+STM 10-25-1999 | Burglar, fire, holdup and automatic telephone dialer alarms | Ch. 102, Art. I | 
+STM 10-25-1999 | Excavations in public roads | Ch. 165, Art. I | 
+STM 10-25-1999 | Parking | Ch. 194, Art. I | 
+STM 10-25-1999 | Election of Board of Assessment Appeals members amendment; Voting
+for members amendment | Ch. 88, Arts. I and II | 
+STM 2-7-2000 | Property tax relief | Ch. 184, Art. VI | 
+ATM 5-15-2000 | Property tax relief amendment | Ch. 184, Art. VI | 
+STM 9-28-2000 | Sewage disposal amendment | Ch. 170 | 
+STM 9-28-2000 | Building construction fees amendment | Ch. 114 | 
+ATM 5-22-2001 | Fees: land-use-related applications amendment | Ch. 129, Art. I | 
+STM 6-25-2002 | Property tax relief amendment | Ch. 184, Art. VI | 
+ATM 5-19-2003 | Land-use related application fees amendment | Ch. 129, Art. I | 
+ATM 5-19-2003 | Building construction amendment | Ch. 114 | 
+STM 12-18-2003 | Town Attorney | Ch. 9 | 
+STM 4-19-2004 | Land-use related applications amendment | Ch. 129, Art. I | 
+ATM 5-17-2004 | Planning and Zoning Commission amendment | Ch. 63 | 
+STM 10-21-2004 | Board of Education terms and method of rotation amendment | Ch. 32, Art. I | 
+STM 10-21-2004 | Effective date of tax exemption amendment | Ch. 184, Art. IV | 
+STM 1-26-2006 | Tax credit program for elderly or dis- abled homeowners | Ch. 184, Art. VII | 
+STM 1-26-2006 | Tax exemption for ambulance-type motor vehicles | Ch. 184, Art. VIII | 
+STM 1-26-2006 | Planning and Zoning Commission amendment | Ch. 63 | 
+STM 10-30-2006 | Tax incentive program for owners of business real and personal
+property | Ch. 184, Art. IX | 
+ATM 5-21-2007 | Stormwater management | Ch. 178 | 
+STM 11-3-2009 | Peddling and soliciting amendment | Ch. 157 | 
+STM 11-3-2009 | Fees; fines; hearing procedures: fines for land use violations;
+citation hearing procedure | Ch. 129, Arts. II and III | 
+STM 11-4-2010 | Fees; fines; hearing procedures: land-use-related applications
+amendment | Ch. 129, Art. I | 
+ATM 5-21-2012 | Bidding amendment | Ch. 12 | 
+ATM 5-21-2012 | Conservation Commission amendment | Ch. 20 | 
+STM 6-27-2012 | Cemetery Commission | Ch. 14 | 
+ATM 5-19-2014 | Building construction amendment | Ch. 114 | 
+STM 7-24-2014 | Fees; fines; hearing procedures: land-use-related applications
+amendment | Ch. 129, Art. I | 
+STM 3-26-2015 | Assessor amendment | Ch. 8 | 
+STM 3-26-2015 | Dog control amendment | Ch. 24 | 
+STM 3-26-2015 | Economic Development Commission amendment | Ch. 28 | 
+STM 3-26-2015 | Inland Wetlands Commission amendment | Ch. 45 | 
+STM 3-26-2015 | Park and Recreation Commission amendment | Ch. 59 | 
+STM 3-26-2015 | Annual budget report repealer | Ch. 72, reference only | 
+STM 3-26-2015 | Board of Selectmen: cemeteries amendment; electors service on
+Planning and Zoning Commission and Zoning Board of Appeals repealer;
+committee appointments amendment | Ch. 80, Art. I; Ch. 80, Art. III, footnote only; Ch. 80, Art. IV | 
+STM 3-26-2015 | Social security amendment | Ch. 84 | 
+STM 3-26-2015 | Board of Assessment Appeals: election amendment | Ch. 88, Art. I | 
+STM 3-26-2015 | Taxation: effective date of exemption amendment | Ch. 184, Art. IV | 
+ATM 5-16-2016 | Fees; fines; hearing procedures: land-use-related applications
+amendment | Ch. 129, Art. I | 
+STM 11-29-2016 | Cemetery Commission amendment | Ch. 14 | 
+STM 7-27-2017 | Bidding Amendment | Ch. 12 | 
+STM 7-27-2017 | Planning and Zoning Commission Amendment | Ch. 63 | 
+STM 7-27-2017 | Zoning Board of Appeals: Alternates Amendment | Ch. 97, Art. II | 
+STM 7-27-2017 | Vehicles and Traffic: Parking Amendment | Ch. 194, Art. I | 
+STM 1-18-2018 | Taxation: Gold Star Families Exemption | Ch. 184, Art. X | 
+
+

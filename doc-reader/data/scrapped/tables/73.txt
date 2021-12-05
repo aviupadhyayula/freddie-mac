@@ -1,0 +1,317 @@
+water
+https://ecode360.com/30567325
+0.36933670324976364
+6 and larger | Annually | 
+4 | 2 | 
+3 | 3 | 
+2 | 6 | 
+1.5 | 6 | 
+1 and smaller | 15 | 
+
+
+v      business incentive tax abatement
+https://ecode360.com/30567184
+0.3085562238442273
+3 | $100,000 to $2,999,999 | 
+5 | $3,000,000 to $5,999,999 | 
+6 | $6,000,000 to $9,999,999 | 
+7 | $10,000,000 and over | 
+
+
+v      business incentive tax abatement
+https://ecode360.com/30567184
+0.2793640546255967
+$100,000 to $999,999 | 50% | 30% | 10% | None | None | None | None | 
+$1,000,000 to $1,999,999 | 50% | 35% | 20% | None | None | None | None | 
+$2,000,000 to $2,999,999 | 50% | 40% | 25% | None | None | None | None | 
+$3,000,000 to $5,999,999 | 70% | 60% | 45% | 30% | 15% | None | None | 
+$6,000,000 to $9,999,999 | 80% | 70% | 60% | 45% | 30% | 15% | None | 
+$10,000,000 and over | 90% | 80% | 70% | 60% | 45% | 30% | 15% | 
+
+
+storm sewers
+https://ecode360.com/33929417
+0.19135003331531514
+Notice of Intent to Discharge Stormwater | 
+P&Z Commission
+Town of Wolcott
+10 Kenea Avenue
+Wolcott, CT 06716 | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.17981439420216888
+3 | 8° to 18° | 31 | 35 | 125 | 140 | 
+4 | 8° to 18° | 31 | 35 | 125 | 140 | 
+6 | 7° to 07° | 27 | 30 | 145 | 160 | 
+8 | 5° to 21° | 20 | 22 | 195 | 220 | 
+10 | 5° to 21° | 20 | 22 | 195 | 220 | 
+12 | 5° to 21° | 20 | 22 | 195 | 220 | 
+14 | 3° to 35° | 13 1/2 | 15 | 285 | 320 | 
+16 | 3° to 35° | 13 1/2 | 15 | 285 | 320 | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.16926759519726542
+ | Note: | 
+* | If the pipeline under test contains sections of various
+diameters, the allowable leakage will be the sum of the computed leakage
+for each size. | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.16106161966060792
+in which L is the allowable leakage, in gallons per hour; S
+is the length of pipe tested, in feet; D is the nominal diameter of
+the pipe, in inches; and P is the average test pressure during the
+leakage test, in pounds per square inch gauge. This formula is based
+on an allowable leakage of 11.65 gallons per day, per mile, per inch
+nominal diameter at a pressure of 150 pounds per square inch. Allowable
+leakage at various pressures is shown in Table 5. | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.14774731952132422
+* | For 14-inch and larger push-on joints, maximum deflection angle
+may be larger than shown above. Consult manufacturer. | 
+
+
+sewers
+https://ecode360.com/30567013
+0.13675776464035655
+Cadmium | 2.0 | 
+Chromium (total) | 2.0 | 
+Copper | 2.0 | 
+Lead | 5.0 | 
+Mercury | None | 
+Nickel | 3.0 | 
+Silver | 0.05 | 
+Zinc | 2.0 | 
+Iron | 5.0 | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.12648106086883545
+1 | 100% | 
+3/4 | 90% to 100% | 
+1/2 | 20% to 50% | 
+3/8 | 0% to 20% | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.09981439420216881
+3 | 5/8 | 45 to 60 (61 to 81) | 
+4 to 24 | 3/4 | 75 to 90 (102 to 122) | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.09634875019101945
+Pass 3 1/2" | 100% | — | 
+Pass 1 1/2" | 55% to 100% | — | 
+Pass 1" | — | 100 | 
+Pass 3/4" | — | 90 to 100 | 
+Pass 1/2" | — | 20 to 50 | 
+Pass 3/8" | — | 0 to 20 | 
+Pass 1/4" | 25% to 60% | — | 
+Pass #4 | — | 0 to 5 | 
+Pass #10 | 15% to 45% | — | 
+Pass #40 | 5% to 25% | — | 
+Pass #100 | 0% to 10% | — | 
+Pass #200 | 0% to 5% | — | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.09072937671107026
+* | For 18- or 20-foot (5.5- or 6.1-meter) lengths. | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.050183027591784085
+L = S*D*(Square Root of P)/133,200 | 
+
+
+x      specifications
+https://ecode360.com/30568677
+0.021302922587975906
+450 | 0.48 | 0.64 | 0.95 | 1.27 | 1.59 | 1.91 | 2.23 | 2.55 | 
+400 | 0.45 | 0.60 | 0.90 | 1.20 | 1.50 | 1.80 | 2.10 | 2.40 | 
+350 | 0.42 | 0.56 | 0.84 | 1.12 | 1.40 | 1.69 | 1.97 | 2.25 | 
+300 | 0.39 | 0.52 | 0.78 | 1.04 | 1.30 | 1.56 | 1.82 | 2.08 | 
+275 | 0.37 | 0.50 | 0.75 | 1.00 | 1.24 | 1.49 | 1.74 | 1.99 | 
+250 | 0.36 | 0.47 | 0.71 | 0.95 | 1.19 | 1.42 | 1.66 | 1.90 | 
+225 | 0.34 | 0.45 | 0.68 | 0.90 | 1.13 | 1.35 | 1.58 | 1.80 | 
+200 | 0.32 | 0.43 | 0.64 | 0.85 | 1.06 | 1.28 | 1.48 | 1.70 | 
+175 | 0.30 | 0.40 | 0.59 | 0.80 | 0.99 | 1.19 | 1.39 | 1.59 | 
+150 | 0.28 | 0.37 | 0.55 | 0.74 | 0.92 | 1.10 | 1.29 | 1.47 | 
+125 | 0.25 | 0.34 | 0.50 | 0.67 | 0.84 | 1.01 | 1.18 | 1.34 | 
+100 | 0.23 | 0.30 | 0.45 | 0.60 | 0.75 | 0.90 | 1.05 | 1.20 | 
+
+
+x      specifications
+https://ecode360.com/30568677
+-0.03203041074535744
+3 | 18 | 
+4 | 16 | 
+6 | 13 | 
+8 | 11 | 
+10 | 10 | 
+12 | 9 | 
+14 | 8 | 
+16 | 7 | 
+
+
+x      specifications
+https://ecode360.com/30568677
+-0.03203041074535744
+3 | 5° | 19 | 21 | 205 | 230 | 
+4 | 5° | 19 | 21 | 205 | 230 | 
+6 | 5° | 19 | 21 | 205 | 230 | 
+8 | 5° | 19 | 21 | 205 | 230 | 
+10 | 5° | 19 | 21 | 205 | 230 | 
+12 | 5° | 19 | 21 | 205 | 230 | 
+14 | 3°* | 11 | 12 | 340 | 380 | 
+16 | 3°* | 11 | 12 | 340 | 380 | 
+
+
+sewer installation
+https://ecode360.com/30567765
+-0.051586983288233856
+4 |  | 180 | 216 | 250 | 
+6 |  | 700 | 840 | 1,000 | 
+8 | 1,400 | 1,600 | 1,920 | 2,300 | 
+
+
+x      specifications
+https://ecode360.com/30568677
+-0.12536374407869078
+3,000 | 6.00 | 5.5 | 
+
+
+dl      disposition list
+https://ecode360.com/34459403
+-0.8225341843835815
+ | 11-30-1964 | Economic Development Commission | Ch. 137 | 
+Ord. No. 1 | 7-5-1966 | Planning and Zoning Commission: Alternate Members | Ch. 178, Art. I | 
+Ord. No. 1A | 11-30-1964 | Conservation Commission | REP | 
+Ord. No. 2 | 7-5-1966 | Sewer and Water Commission | Ch. 183 | 
+Ord. No. 3 | 7-5-1966 | Building Construction: Building Code | Ch. 228, Art. I | 
+Ord. No. 4 | 10-4-1966 | Firearms and Weapons | Superseded by Ord. No. 20 | 
+Ord. No. 5 | 12-14-1966 | Economic Development Commission |  | 
+Ord. No. 6 | 4-6-1967 | Park and Recreation Commission | Repealed by Ord. No. 29 | 
+Ord. No. 7 | 9-26-1967 | Loitering | Ch. 276 | 
+Ord. No. 8 | 2-4-1969 | Peddling and Soliciting: Licensing of Solicitors | Ch. 291, Art. I | 
+Ord. No. 9 | 2-4-1969 | Peddling and Soliciting: Licensing of Peddlers | Ch. 291, Art. II | 
+Ord. No. 10 | 2-4-1969 | Vehicles: Storage of Unregistered Vehicles | Superseded by Ord. No. 25 | 
+Ord. No. 11 | 1-6-1970 | Park and Recreation Commission Amendment | Repealed by Ord. No. 29 | 
+Ord. No. 12 | 2-3-1970 | Authorizing Application for Loan and Grants | NCM | 
+Ord. No. 13 | 4-21-1970 | Board of Admissions of Electors | REP | 
+Ord. No. 14 | 4-21-1970 | Library Board | Repealed 3-2-1976 | 
+Ord. No. 15 | 8-3-1970 | Regional Council of Elected Officials of Central Naugatuck Valley
+Council of Governments | Superseded | 
+Ord. No. 16 | 9-1-1970 | Community Development Action Plan Agency | Ch. 124 | 
+Ord. No. 17 | 1-5-1971 | Sewers | Ch. 304 | 
+Ord. No. 18 | 11-1-1971 | Sewers Amendment | Ch. 304 | 
+Ord. No. 19 | 4-25-1972 | Building Code Violations | REP | 
+Ord. No. 20 | 4-25-1972 | Firearms and Weapons: Air Guns and Rifles | Ch. 241, Art. I | 
+Ord. No. 21 | 5-16-1972 | Commission on Aging | Ch. 120 | 
+Ord. No. 22 | 12-5-1972 | Term of Office of Town Clerk | REP | 
+Ord. No. 23 | 12-5-1972 | Term of Office of Registrar of Voters | REP | 
+Ord. No. 23A | 7-17-1974 | Inlands Wetlands Commission | REP | 
+Ord. No. 24 | 10-18-1974 | Alcoholic Beverages: Use on School Grounds | Ch. 213, Art. I | 
+Ord. No. 25 | 3-21-1975 | Storage of Unregistered Vehicles | Superseded by Ord. No. 48 | 
+Ord. No. 26 | 2-25-1975 | Dogs | Ch. 235 | 
+Ord. No. 27 | 5-20-1975 | Streets and Sidewalks: Snow and Ice Removal | Repealed by Ord. No. 59 | 
+Ord. No. 28 | 5-20-1975 | Department of Municipal Country Clubs | Superseded by Ord. No. 35 | 
+Ord. No. 29 | 6-3-1975 | Park and Recreation Commission Amendment | See Ch. 171 | 
+Ord. No. 30 | 6-3-1975 | Tri-Town Health District | NCM | 
+Ord. No. 31 | 9-5-1975 | Floodplain Management | Superseded by Ord. No. 49 | 
+Ord. No. 32 | 9-5-1975 | Civil Preparedness Agency | Ch. 111 | 
+Ord. No. 33 | 9-5-1975 | Emergency Management | Ch. 16 | 
+Ord. No. 34 | 9-5-1975 | Building Construction: Building Code Amendment | Ch. 228, Art. I | 
+Ord. No. 35 | 2-25-1975 | Municipal Country Club | Ch. 165 | 
+Ord. No. 36 | 5-12-1976 | Sanitary landfill | REP | 
+Ord. No. 37 | 5-18-1976 | Dogs Amendment | Ch. 235 | 
+Ord. No. 38 | 12-6-1977 | Officers and Employees: Library Board Chairman | Ch. 48, Art. I | 
+Ord. No. 39 | 1-24-1978 | Vehicles: Winter Parking Plan | Ch. 338, Art. I | 
+Ord. No. 40 | 12-5-1978 | Commission for Individuals with Special Needs | Ch. 116 | 
+Ord. No. 41 | 4-3-1979 | Parks and Open Spaces | Ch. 287 | 
+Ord. No. 42 | 3-6-1980 | Commission on Aging Amendment | Ch. 120 | 
+Ord. No. 43 | 10-21-1980 | Sewers Amendment | Ch. 304 | 
+Ord. No. 44 | 11-18-1980 | Building Code Fees | Superseded by Ord. No. 71 | 
+Ord. No. 45 | 3-2-1981 | Ethics | Repealed by Ord. No. 81 | 
+Ord. No. 46 | 5-5-1981 | Taxation: Exemption for Solar Energy Systems | NCM (expired) | 
+Ord. No. 47 | 10-6-1981 | Alcoholic Beverages: Hours for Sale or Dispensing | Ch. 213, Art. II | 
+Ord. No. 48 | 10-6-1981 | Abandoned Vehicles, Material and Equipment | Repealed by Ord. No. 56 | 
+Ord. No. 49 | 5-5-1982 | Floodplain Management | Repealed by Ord. No. 94 | 
+Ord. No. 50 | 6-7-1983 | Withdrawal from Central Naugatuck Valley Regional Planning Agency | NCM | 
+Ord. No. 51 | 9-6-1983 | Taxation: Veterans Exemption | Repealed by Ord. No. 90 | 
+Ord. No. 52 | 10-18-1983 | Taxation: Veterans Exemption | Repealed by Ord. No. 90 | 
+Ord. No. 53 | 6-5-1984 | Officers and Employees: Justices of the Peace | Superseded by Ord. No. 54 | 
+Ord. No. 54 | 1-7-1986 | Officers and Employees: Justices of the Peace | Superseded by Ord. No. 80 | 
+Ord. No. 55 | 10-7-1986 | Flood and Erosion Control Board | Ch. 143 | 
+Ord. No. 56 | 3-24-1987 | Abandoned Vehicles, Material and Equipment | Repealed by Ord. No. 66 | 
+Ord. No. 57 | 4-7-1987 | Commission for Acquired Facilities | Superseded by Ord. No. 68 | 
+Ord. No. 58 | 9-1-1987 | Collection and Disposal of Solid Waste | Superseded by Ord. No. 69 | 
+Ord. No. 59 | 2-2-1988 | Streets and Sidewalks: Snow and Ice Removal | Ch. 313, Art. I | 
+Sewer and Water Commission | 6-23-1988 | Water Mains and Service Installations | Ch. 460 | 
+Ord. No. 60 | 7-19-1988 | Bazaars and Raffles | Ch. 220 | 
+Ord. No. 61 | 7-19-1988 | Water: Water Main Extensions | Ch. 346, Art. I | 
+Ord. No. 62 | 11-1-1988 | Firearms and Weapons: Air Guns and Rifles Amendment | Ch. 241, Art. I | 
+Ord. No. 63 | 11-1-1988 | Alcoholic Beverages: Use on School Grounds Amendment | Ch. 213, Art. I | 
+Ord. No. 64 | 12-6-1988 | Peddling and Soliciting: Licensing of Solicitors Amendment | Ch. 291, Art. I | 
+Ord. No. 65 | 12-6-1988 | Sewers Amendment | Ch. 304 | 
+Ord. No. 66 | 6-6-1989 | Property Maintenance: Abandoned Vehicles, Blighted Properties
+and Unsightly Material and Equipment | Ch. 295, Art. I | 
+Ord. No. 67 | 7-5-1989 | Bonds | NCM | 
+Ord. No. 68 | 10-2-1990 | Commission for Acquired Facilities Amendment | See Ch. 171 | 
+Ord. No. 69 | 11-20-1990 | Solid Waste: Collection and Disposal | Ch. 309, Art. I | 
+Ord. No. 70 | 3-16-1993 | Water: Water Main Extensions Amendment | Ch. 346, Art. I | 
+Ord. No. 71 | 3-16-1993 | Building Code Fees | NI | 
+Ord. No. 72 | 4-6-1993 | Building Construction: Numbering of Buildings | Ch. 228, Art. II | 
+Ord. No. 73 | 4-23-1993 | Building Construction: Delinquent Taxes and Denial of Permits
+and Town Contracts | Repealed by Ord. No. 77 | 
+Ord. No. 74 | 4-20-1993 | Alarm Systems | Ch. 209 | 
+Ord. No. 74A | 5-3-1994 | Commission for Acquired Facilities Amendment | See Ch. 171 | 
+Ord. No. 75 | 9-20-1994 | Purchasing: Public Bidding Process | Ch. 62, Art. I | 
+Ord. No. 76 | 11-15-1994 | Pension Committee | Ch. 174 | 
+Ord. No. 77 | 4-16-1996 | Building Construction: Delinquent Taxes and Denial of Permits,
+Town Contracts and Vendor Payments | Repealed by Ord. No. 92 | 
+Ord. No. 78 | 10-7-1997 | Taxation: Exemption for Ambulance-Type Vehicles | Ch. 320, Art. I | 
+Town Council | 11-1-1997 | Street Construction and Acceptance | Ch. 430 | 
+Ord. No. 79 | 5-3-1998 | Commission for Acquired Facilities Amendment | See Ch. 171 | 
+Ord. No. 80 | 6-20-2000 | Officers and Employees: Justices of the Peace | Ch. 48, Art. II | 
+Ord. No. 81 | 12-5-2000 | Board of Ethics | Repealed by Ord. No. 89 | 
+Ord. No. 82 | 2-26-2002 | Water: Water Conservation | Ch. 346, Art. II | 
+Ord. No. 83 | 5-21-2002 | Penalties and Enforcement: Citation Procedures and Fines for
+Zoning Violations | Ch. 57, Art. I | 
+Ord. No. 84 | 6-18-2002 | Adult Businesses | Ch. 205 | 
+Ord. No. 85 | 9-16-2003 | Tobacco Products | Ch. 325 | 
+Ord. No. 86 | 11-18-2003 | Taxation: Abatement for Surviving Spouses of Police Officers
+and Firefighters | Ch. 320, Art. II | 
+Ord. No. 87 | 4-13-2004 | Groundwater Protection | Ch. 262 | 
+Ord. No. 88 | 4-13-2004 | Boats and Boating | Ch. 224 | 
+Ord. No. 89 | 9-20-2005 | Ethics | Repealed by Ord. No. 91 | 
+Conservation, Inland Wetlands and Watercourses Commission | 3-28-2006 | Inland Wetlands and Watercourses | Ch. 400 | 
+Ord. No. 90 | 9-5-2006 | Taxation: Veterans Exemption | Ch. 320, Art. III | 
+Ord. No. 91 | 6-19-2007 | Ethics | Ch. 20 | 
+Ord. No. 92 | 9-2-2008 | Taxation: Issuance of Permits and Certificates and Contract
+Payments to Delinquent Taxpayers | Ch. 320, Art. IV | 
+Ord. No. 93 | 10-6-2009 | Taxation: Business Incentive Tax Abatement | Ch. 320, Art. V | 
+ | 1-1-2011 | Charter | Charter | 
+Water and Sewer Department | 9-2011 | Sewer Installation | Ch. 425 | 
+Ord. No. 94 | 1-4-2011 | Floodplain Management | Ch. 245 | 
+Ord. No. 95 | 4-5-2011 | Property Maintenance: Abandoned Vehicles, Blighted Properties
+and Unsightly Material and Equipment Amendment | Ch. 295, Art. I | 
+Ord. No. 96 | 4-8-2014 | Council of Governments | Ch. 9 | 
+Ord. No. 97 | 7-17-2018 | Storm Sewers: Illicit Discharge and Connection | Ch. 311, Art. I | 
+
+

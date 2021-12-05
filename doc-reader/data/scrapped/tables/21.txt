@@ -1,0 +1,283 @@
+housing partnership
+https://ecode360.com/8895033
+0.5436901622782678
+ | Town Council | 2 | 
+ | Social Services Advisory Committee | 1 | 
+ | Ecumenical Council | 1 | 
+ | East Hampton Lions Club | 1 | 
+ | Senior Citizens Club | 1 | 
+ | Agent for the Elderly | 1 | 
+ | Chamber of Commerce | 1 | 
+ | Inland/Wetlands and Watercourses Agency | 1 | 
+ | Planning and Zoning Commission | 1 | 
+ | Housing Authority | 1 | 
+ | Judge of Probate | 1 | 
+ | East Hampton Rotary Club | 1 | 
+ | Board of Finance | 1 | 
+ | Ministerial Association | 1 | 
+ | Concerned Citizens Group | 1 | 
+ | Historic District Commission | 1 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.4431316455774633
+15 | $3M or larger investment in construction or renovations | 
+14 | $1M or larger investment in construction or renovations | 
+13 | $800k or larger investment in construction or renovations | 
+12 | $500k or larger investment in construction or renovations | 
+11 | A business new to that parcel investing over $300k or a business
+existing on that parcel investing at least $250k in construction or
+renovations | 
+10 | A business new to that parcel investing over $200k or a business
+existing on that parcel investing at least $100,000 in construction
+or renovations | 
+
+
+housing partnership
+https://ecode360.com/8895033
+0.35678953407434927
+ | Social Services Coordinator | 1 | 
+ | Senior Center Coordinator | 1 | 
+ | Youth Services Director | 1 | 
+ | Midstate Regional Planning Agency | 1 | 
+ | Greater Middletown Community Corp. | 1 | 
+ | Planning Administrator | 1 | 
+
+
+water system construction
+https://ecode360.com/8896221
+0.33413124448452414
+Under 10 | 75 | 
+10 to 50 | 150 | 
+Over 50 | 200 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.3199171986101028
+Fewer than 24 | Denied | 
+25-44 | Third-tier benefit: 70% of fixed assessment abated for 2 years,
+or 50% of fixed assessment abated for 4 years | 
+45-69 | Second tier benefit: 70% of fixed assessment abated for 3 years,
+or 50% of fixed assessment abated for 5 years | 
+More than 70 | Highest benefit: 100% of fixed assessment abated for Years 1-3,
+70% of fixed assessment abated for Years 4-5, 50% of fixed assessment
+abated for Year 6 | 
+
+
+vi      use of public sewers
+https://ecode360.com/8895862
+0.2976408611533257
+ | Arsenic as As | 0.05 | 
+ | Barium as Ba | 5.0 | 
+ | Boron as Bo | 5.0 | 
+ | Cyanides as CN (amenable) | 0.1 | 
+ | Fluride as F | 20.Q | 
+ | Chromium (total) | 1.0 | 
+ | Chromium (Cr + 6) | 0.1 | 
+ | Magnesium as Mg | 100.0 | 
+ | Manganese as MN | 5.0 | 
+ | Copper as Cu | 1.0 | 
+ | Zinc as Zn | 1.0 | 
+ | Cadmium | 0.1 | 
+ | Lead | 0.1 | 
+ | Tin | 2.0 | 
+ | Silver | 0.1 | 
+ | Mercury | 0.01 | 
+ | Nickel | 1.0 | 
+
+
+iv      parking violations
+https://ecode360.com/8896189
+0.2973613165484782
+ | 1 to 10 | $20 | 
+ | 11 to 12 | $40 | 
+ | 13 to 14 | $90 | 
+
+
+water system construction
+https://ecode360.com/8896221
+0.25974245501427307
+Note: All separating distances shown should
+be measured horizontally. | 
+
+
+vi      use of public sewers
+https://ecode360.com/8895862
+0.2593468665510218
+ | NOTE: All metals are to be measured as total metals. | 
+
+
+dl      disposition list
+https://ecode360.com/8896373
+0.24332710000475957
+2019.02 | 7-23-2019 | Taxation: Exemptions for Volunteer Fire and Ambulance Personnel
+and Civil Preparedness Director Amendment | Ch. 278, Art. V | 28 | 
+2020.01 | 1-28-2020 | Arts and Cultural Commission Amendment | Ch. 7 | 27 | 
+2020.02 | 9-8-2020 | Cemetery Board Amendment; Conservation-Lake Pocotopaug Commission
+Amendment; Economic Development Commission Amendment; Brownfields
+Redevelopment Agency Amendment | Ch. 12; Ch. 20; Ch. 33; Ch. 120 | 27 | 
+2021.01 | 4-27-2021 | Finance and Budget: Budget Meetings and Referendums Amendment | Ch. 45, Art. IV | 28 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.24227484337266492
+1-5 | 5 | 
+5-10 | 7 | 
+More than 10 | 10 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.22802629300232258
+Maximum points: 15 | 
+Total Available Points: 90 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.13474641943139506
+Maximum points: 10 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.13474641943139506
+Maximum points: 10 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.13474641943139506
+Maximum points: 10 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.13474641943139506
+Maximum points: 10 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.13474641943139506
+Maximum points: 10 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.13474641943139506
+Maximum points: 5 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.13474641943139506
+Maximum points: 10 | 
+
+
+ix      business incentive program
+https://ecode360.com/27844623
+0.13474641943139506
+Maximum points: 10 | 
+
+
+dl      disposition list
+https://ecode360.com/8896373
+0.11680305023180243
+2-22-2005 | Vacancies on boards, commissions and agencies | Ch. 143 | 
+4-25-2006 | Design Review Board | Ch. 28 | 
+5-23-2006 | Lake Pocotopaug Commission | Repealed 6-9-2009 | 
+8-8-2006 | Ethics Commission | Ch. 43 | 
+12-12-2006 | Adoption of Code | Ch. 1, Art. I | 
+4-10-2007 | Redevelopment Agency | Superseded 3-10-2009 | 
+4-8-2008 | Economic Development Commission amendment | Ch. 33 | 
+9-9-2008 | Commission on Aging | Ch. 18 | 
+9-23-2008 | Taxation: exemption for buildings used in farming | Ch. 278, Art. VI | 
+2-10-2009 | Property tax relief for certain elderly homeowners | Ch. 278, Art. VII | 
+3-3-2009 | Water system construction: acceptance of public
+water systems under certificate of public convenience and necessity | Ch. 295, Art. II | 
+3-10-2009 | Brownfields Redevelopment Agency | Ch. 120 | 
+5-12-2009 | Conservation-Lake Pocotopaug Commission | Ch. 20 | 
+6-9-2009 | Conservation Commission repealer; Lake Pocotopaug
+Commission repealer | Ch. 20; Ch. 77 | 
+1-26-2010 | Taxation: disabled veterans exemption | Ch. 278, Art. VIII | 
+2-23-2010 | Historic Districts amendment | Ch. 211 | 
+4-13-2010 | Snow and ice on sidewalks; snow removal from sidewalks | Ch. 273, Arts. IV and V | 
+8-10-2010 | Boating and navigation amendment | Ch. 173 | 
+12-14-2010 | Arts and Cultural Commission | Ch. 7 | 
+2-8-2011 | Commission on Aging amendment | Ch. 18 | 
+9-11-2012 | Lower Connecticut River Valley Council of Governments | Ch. 88 | 
+11-13-2012 | Blight and nuisances | Ch. 171 | 
+4-9-2013 | Water and Sewer Authority amendment | Ch. 146 | 
+7-23-2013 | Commission on Aging amendment | Ch. 18 | 
+10-8-2013 | Agriculture Commission | Ch. 6 | 
+10-8-2013 | Taxation: business incentive program | Ch. 278, Art. IX | 
+11-26-2013 | Fire Department | Ch. 49 | 
+9-23-2014 | Public Library Advisory Board | Ch. 83, Art. III | 
+4-14-2015 | Mass gatherings repealer | Ch. 237, reference only | 
+6-9-2015 | Special events: public safety | Ch. 271, Art. I | 
+11-8-2016 | Charter amendment | Charter | 
+12-13-2016 | Finance and budget: budget process; unexpended balances; payment
+of claims amendment | Ch. 45, Art. III | 
+6-27-2017 | Gas and oil exploration: use and disposal of fracking waste | Ch. 207, Art. I | 
+1-23-2018 | Purchasing | Ch. 117 | 
+1-23-2018 | Taxation: Retention of Excess Payments and Waiver of Tax Bills | Ch. 278, Art. X | 
+8-14-2018 | Fire Department Amendment | Ch. 49 | 
+9-25-2018 | Taxation: Business Incentive Program Amendment | Ch. 278, Art. IX | 
+1-22-2019 | Taxation: Low-Income Veterans Exemption | Ch. 278, Art. XI | 
+
+
+historic districts
+https://ecode360.com/8895467
+-0.09344449171001973
+Northerly | 01C/9/8A | 
+ | 01C/9/6 | 
+ | 01C/10/3 | 
+ | 01C/10/11 | 
+ | 01C/10/13 | 
+ | 01C/11/1 | 
+ | 06/11/2A | 
+ | 06/11/1 | 
+ | 06/12/8 | 
+Easterly | 06/12/8A | 
+ | 06/12/7B | 
+ | 06/12/7A | 
+ | 02/C/12/7 | 
+ | 02/C/12/5 | 
+ | 02C/12/4 | 
+ | 02C/12/2 | 
+ | 02C/12/17 | 
+ | 02C/12/18 | 
+ | 02C/21/34-2 | 
+ | 02C/21/34-3 | 
+ | 02C/21/4A | 
+ | 07/21/7 | 
+ | 07/21/7B | 
+ | 02/18/20A | 
+ | 02/18/20-2A | 
+Southerly | 02/18/21-1C | 
+ | 02/18/20-2B | 
+Westerly | 02/18/20-2A | 
+ | 02/18/19B | 
+ | 02C/18/16 | 
+ | 02C/18/1 | 
+ | 02C/19A/2A | 
+ | 02C/19A/7A | 
+ | 02C/19A/6 | 
+ | 02C/19A/4 | 
+ | 02C/19A/1 | 
+ | 02C/9/19 | 
+ | 02C/9/18 | 
+ | 02C/9/17 | 
+ | 02C/9/12-5 | 
+ | 02C/9/12-6 | 
+ | 02C/9/12A | 
+ | 02C/9/12-7 | 
+ | 02C/9/12-8 | 
+ | 02C/9/12-9 | 
+ | 02C/9/12-10 | 
+
+

@@ -1,0 +1,153 @@
+a         special acts
+https://ecode360.com/27503182
+0.36248985825237917
+Special Act (1779), An Act Incorporating the Town of Southington. | 
+Special Act (1780), An Act Concerning a Brand of Horses. | 
+Special Act (1780), An Act Annexing Land to the Town of Southington. | 
+Special Act (1796), An Act Alienating Land from the Town of
+Southington. | 
+Special Act (1797), An Act Annexing the Moore Farm to the Town
+of Southington. | 
+Special Act (1834), An Act Annexing the Barns and Bradley Farms
+to the Town of Southington. | 
+Special Act (1860), An Act Changing the Divisional Line Between
+Berlin and Southington. | 
+Special Act (1875), An Act Annexing a Part of the Town of Southington
+to the Town of Bristol. | 
+Special Act No. 411, (1931), An Act Creating a Board of Finance
+in the Town of Southington. | 
+Special Act No. 91 (1943), An Act Authorizing the Town of Southington
+to Regulate the Sale and Use of Fireworks. | 
+Special Act No. 43 (1945), An Act Authorizing the Town of Southington
+to Own a Motor Vehicle Ambulance and Operate such Ambulance for Hire. | 
+Special Act No. 332 (1947), An Act Consolidating the Town and
+Borough of Southington. | 
+Special Act No. 579 (1959), An Act Concerning the Sewerage System
+of the Town of Southington. | 
+Special Act No. 90 (1974), An Act Concerning the Authorization
+of Bonds of the State for Capital Improvements and Other Purposes. | 
+Special Act No. 1 (1981), An Act Validating the Filing of Notice
+of Injury by Susan Bates. | 
+Special Act No. 46 (1982), An Act Concerning the Authorization
+of Bonds of the State of Connecticut for Capital Improvements and
+other Purposes. | 
+Special Act No. 2 (1983), An Act Concerning Authorization of
+State Grant Commitment for School Construction Projects. | 
+Special Act No. 358 (1985), An Act Concerning Authorization
+of State Grant Commitments for School Construction Projects. | 
+Special Act No. 460 (1985), An Act Concerning Grants to Municipalities
+for Recycling and Establishing a Solid Waste Disposal Pilot Program
+in the Town of Southington. | 
+Special Act No. 70 (1986), An Act Appropriating Funds to the
+Department of Aging for Grants for Senior Centers. | 
+Special Act No. 55 (1987), An Act Concerning Authorization of
+State Grant Commitments for School Construction Projects. | 
+Special Act No. 75 (1987), An Act Concerning Grants for Senior
+Citizens in Southington and Enfield. | 
+Special Act No. 77 (1987), An Act Concerning the Authorization
+of Bonds of the State for Capital Improvements and other Purposes. | 
+Special Act No. 95 (1987), An Act Concerning a Grant to Help
+Us Grow, Inc., Southington, and a Lien on Property as Security for
+a Grant-in-Aid to New Hope Manor in Manchester. | 
+Special Act No. 91-25 (1991), An Act Validating Certain Late
+Filings Related to Applications for Property Tax Relief for Elderly
+and Totally Disabled Homeowners. | 
+Special Act No. 94-14 (1994), An Act Concerning the Authorization
+of State Grant Commitments for School Building Projects. | 
+Special Act No. 05-1 (2005), An Act Authorizing Bonds of the
+State for Capital Improvements and Other Purposes. | 
+Special Act No. 06-10 (2006), An Act Concerning the Conveyance
+of Certain Parcels of State Land. | 
+Special Act No. 08-8 (2008), An Act Concerning the Conveyance
+of Certain Parcels of State Land | 
+Special Act No. 09-11 (2009), An Act Establishing the Greenway
+Commons Improvement District in the Town of Southington. | 
+
+
+dl      disposition list
+https://ecode360.com/27548377
+0.3562541757542624
+12-9-2013 | Adoption of Code | Ch. 1, Art. II | 
+12-9-2013 | Fees schedule amendment | Ch. 37, Art. I | 
+2-10-2014 | Alcoholic beverages and tobacco products | Ch. 193 | 
+9-22-2014 | Alcoholic beverages and tobacco products amendment | Ch. 193 | 
+2-23-2015 | Streets and sidewalks amendment | Ch. 364 | 
+10-13-2015 | Taxation amendment | Ch. 375 | 
+10-13-2015 | Massage establishments | Ch. 290 | 
+9-12-2016 | Streets and sidewalks amendment | Ch. 364 | 
+10-11-2016 | Noise: construction activity amendment | Ch. 300, Art. II | 
+9-12-2016 | Taxation Amendment | Ch. 375 | 
+9-12-2016 | Purchasing and Contracts: Bidding Procedures Resulting in Tie | Ch. 118, Art. IV | 
+5-8-2017 | Code of Ethics Amendment | Ch. 28 | 
+1-8-2018 | Purchasing and Contracts: Preferential Bidding Procedures Amendment | Ch. 118, Art. III | 
+3-12-2018 | Blight Amendment | Ch. 203 | 
+7-23-2018 | Seal and Flag: Reproduction/Use of Seal | Ch. 144, Art. II | 
+9-24-2018 | Nuisance Properties: Excessive Emergency Service Responses | Ch. 326, Art. I | 
+
+
+noise
+https://ecode360.com/27502902
+0.31269765430232344
+ | Sound levels determined by the Police Department through measurement
+to be in excess of these values shall constitute proof of excessive
+noise and violation of this article. | 
+
+
+seal and flag
+https://ecode360.com/27502899
+0.2589333027409566
+ | "Resolved, that the Town of Southington adopt as its official
+flag, the Town seal, in color, centered on a rectangular field of
+blue." | 
+
+
+taxation
+https://ecode360.com/27503131
+0.2126764627086999
+First | 100% | 
+Second | 100% | 
+Third | 50% | 
+Fourth | 40% | 
+Fifth | 30% | 
+Sixth | 20% | 
+Seventh | 10% | 
+
+
+dt      derivation table
+https://ecode360.com/27503184
+0.2100247143507971
+NCM | = | Not Code material (legislation is
+not general or permanent in nature). | 
+REP | = | Repealed effective with adoption of Code; see Ch. 1, Art. II. | 
+NI | = | Not included in Code but saved from
+repeal. | 
+NLP | = | New legislation is pending. | 
+
+
+dl      disposition list
+https://ecode360.com/27548377
+0.16397772442345193
+3-11-2019 | Alcoholic Beverages and Tobacco Products Amendment | Ch. 193 | 4 | 
+10-15-2019 | Taxation Amendment | Ch. 375 | 4 | 
+10-15-2019 | Taxation Amendment | Ch. 375 | 4 | 
+10-15-2019 | Taxation Amendment | Ch. 375 | 4 | 
+10-28-2019 | Taxation Amendment | Ch. 375 | 4 | 
+2-10-2020 | Vehicles and Traffic Amendment | Ch. 390 | 5 | 
+4-26-2021 | Taxation Amendment | Ch. 375 | 5 | 
+
+
+noise
+https://ecode360.com/27502902
+0.08402910207335168
+ | Class B Emitter to | 55 dBA | 55 dBA | 45 dBA | 
+ | Class A Emitter to | 55 dBA | 55 dBA | 45 dBA | 
+
+
+noise
+https://ecode360.com/27502902
+0.016128339397841723
+ | 3 | 15 | 
+ | 6 | 7.5 | 
+ | 8 | 5 | 
+
+

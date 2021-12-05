@@ -1,0 +1,206 @@
+iv      zoning districts
+https://ecode360.com/36347588
+0.7038171416893317
+Single-family dwelling with or without in-law apartments | 90,000 | 25,000 | 
+Two-family dwelling | 90,000 | 25,000 | 
+Group day-care homes and community residences | 90,000 | 25,000 | 
+Home occupations included in residential dwelling or within
+accessory structures | 90,000 | 25,000 | 
+Agriculture | None | None | 
+Farm stand | None | None | 
+Farm store | None | None | 
+Farmers' market | None | None | 
+Cemeteries | As determined in special permit | None | 
+Boarding, rooming, or lodging, and bed-and-breakfast | 90,000 or larger as determined in special permit | 25,000 or larger as determined in special permit | 
+Places of worship, education, and philanthropy | 90,000 or larger as determined in special permit | 25,000 or larger as determined in special permit | 
+Rural business - 2,500 square feet or less | 90,000 | 25,000 | 
+Rural business - 2,501 to 5,000 square feet | 90,000 or larger as determined in special permit | 25,000 or larger as determined in special permit | 
+Golf clubs or sporting clubs | As determined in special permit | As determined in special permit | 
+Amateur radio tower | No addition lot size as long as setbacks are met | N/A | 
+Wireless telecommunication towers | See Article VI | N/A | 
+Outdoor wood-burning furnace | See state regulations | N/A | 
+
+
+inland wetlands and watercourses regulations
+https://ecode360.com/36346587
+0.5658791671043808
+Permitted uses as of right and non-regulated uses | No fee | 
+Residential uses | $60 | 
+Residential uses involving subdivision | $170 plus $30 per lot | 
+Commercial uses | $170 | 
+Logging review - with wetlands involvement | $60 | 
+All other uses | $170 | 
+Regulation and/or map amendments | $170 | 
+Wetlands Agent approval | $60 | 
+Modification of prior wetlands permit | $75 | 
+State fee | As set per statute | 
+
+
+iv      zoning districts
+https://ecode360.com/36347588
+0.5176569661296688
+Single-family dwelling | Minimum 900 | 
+Two-family dwelling | Minimum 900 for each unit | 
+Agriculture | N/A | 
+
+
+vi      special standards
+https://ecode360.com/36348211
+0.5007690667837396
+Single-family dwelling | 2 spaces | 
+Two-family dwelling | 2 spaces per dwelling unit | 
+Bed-and-breakfast | 2 spaces for the dwelling unit plus 1 space for each guest room | 
+Boarding rooms and rooming houses | 2 spaces for the dwelling unit plus 1 space for each guest room | 
+Home occupation (including family day-care homes) | 2 spaces for the dwelling unit plus 1 space per employee plus
+1 space for visitors | 
+Group day-care homes | 2 spaces for the dwelling unit plus 1 space per 500 square feet
+of gross floor area or 1 space per every 6 children cared for in the
+home, whichever is greater | 
+Day-care centers | 1 space per 500 square feet of gross floor area or 1 space for
+every 6 children or adults cared for at the center, whichever is greater | 
+Community residence | 1 space for every 2 residents plus 1 space for every nonresident
+staff member | 
+Accessory apartment | 2 spaces for the dwelling unit plus 2 spaces for the accessory
+apartment | 
+Retail sales | 1 space per 200 square feet of gross floor area | 
+Rural business | 1 space per employee plus 1 space for customers | 
+Restaurant | 1 space per 2 seats plus 5 stacking spaces per drive-up window | 
+Offices | 1 space per 250 square feet of gross floor area | 
+Manufacturing | 1 space per 750 square feet of gross floor area or 1 space per
+2 employees on the largest work shift, the greater of either | 
+Other type uses | 1 space for every 250 square feet of gross floor area, except
+that the Commission may vary this requirement based on a professionally
+prepared traffic and parking analysis | 
+
+
+iv      zoning districts
+https://ecode360.com/36347588
+0.4850058737898172
+Up to 20,000 square feet | 2 acres minimum | 200 feet | 50 feet for the first 5,000 square feet of gross floor area
+and 10 feet for each additional 1,000 square feet of gross floor area
+to a maximum of 100 feet | 
+20,000 square feet to 250,000 square feet | 5 acres minimum | 400 feet | 100 feet for the first 20,000 square feet of gross floor area
+and 10 feet for each additional 1,000 square feet of gross floor area
+to a maximum of 200 feet | 
+
+
+iii      abatements for dairy farms  orchards and vineyards
+https://ecode360.com/36346541
+0.36210902205002515
+More than 10 | 0% | 
+Between 9 and 10 | 10% | 
+Between 8 and 9 | 20% | 
+Between 7 and 8 | 30% | 
+Between 6 and 7 | 40% | 
+Between 5 and 6 | 50% | 
+Between 4 and 5 | 60% | 
+Between 3 and 4 | 70% | 
+Between 2 and 3 | 80% | 
+Between 1 and 2 | 90% | 
+Between 0 and 1 | 100% | 
+
+
+dl      disposition list
+https://ecode360.com/36349432
+0.05638855701539541
+7-12-2021 | Zoning Regulations Amendment | Ch. 300 | 1 | 
+
+
+dl      disposition list
+https://ecode360.com/36349432
+-0.5088013083353049
+10-28-1939 | Finance, Board of: Establishment | Ch. 44, Art. I | 
+9-16-1953 | Vote To Permit the Sale of Alcoholic Liquors on Sunday in Hotels,
+Restaurants, Clubs and Social Gatherings | NCM; superseded by state law | 
+7-10-1958 | Planning Commission | Repealed 4-6-2009; see Ch. 95 | 
+10-1-1962 | Boating | Ch. 147 | 
+6-17-1965 | Peddling and Soliciting | Ch. 228 | 
+10-6-1969 | Planning and Zoning Commission and Zoning Board of Appeals | Repealed 4-6-2009; see Ch. 95 | 
+1-11-1971 | Planning and Zoning Commission Amendment | Repealed 4-6-2009; see Ch. 95 | 
+1-11-1971 | Zoning Board of Appeals Amendment | Repealed 4-6-2009; see Ch. 95 | 
+1-25-1971 | Vehicles and Traffic: Parking During Winter Storms | Superseded 12-16-1975; see Ch. 267, Art. I | 
+2-21-1972 | Conservation Commission | Ch. 20 | 
+9-15-1972 | Driveways | Ch. 162 | 
+10-23-1972 | Inland Wetlands and Watercourses | Repealed 6-5-2006; see Ch. 62 | 
+10-14-1975 | Flood Protection and Flood Insurance | Ch. 185 | 
+12-16-1975 | Budget: Distribution of Budget | Ch. 14, Art. I | 
+12-16-1975 | Vehicles and Traffic: Parking on Town Roads | Ch. 267, Art. I | 
+12-16-1975 | Finance, Board of: Alternate Members | Ch. 44, Art. II | 
+1-15-1976 | Resolution for Selectmen To Enter Into Agreement with Ashford
+Volunteer Fire Department as Sole Provider of Fire Protection for
+the Town and as the Designated Emergency Medical Service Responder | NCM | 
+6-5-1978 | Aging, Commission on | Ch. 5 | 
+3-19-1979 | Parks and Recreation Commission | Ch. 91 | 
+4-29-1980 | Budget: Limit on Budget Increase | Ch. 14, Art. II | 
+4-29-1980 | Ethics: Conflict of Interest | Ch. 39, Art. I | 
+12-6-1982 | Taxation: Exemption for Ambulance-Type Motor Vehicle | Ch. 253, Art. I | 
+6-7-1983 | Officers and Employees: Assessor | Ch. 84, Art. I | 
+11-10-1983 | Education, Board of | Ch. 35 | 
+4-3-1984 | Resolution To Form and Join the Northeast Regional Tourist District
+for the Purpose of Establishing a Travel/Convention and Visitors Commission | NCM | 
+5-16-1985 | Resolution To Join Northeast District Department of Health | Repealed effective 7-1-2004 | 
+7-22-1986 | Streets and Sidewalks: Street Numbering System | Ch. 247, Art. I | 
+7-22-1986 | Streets and Sidewalks: Posting of Street Numbers | Ch. 247, Art. II | 
+6-9-1987 | Fire Lanes | Ch. 177 | 
+6-9-1987 | Vehicles, Abandoned, Inoperable and Junked | Ch. 264 | 
+12-8-1988 | Waste Management: Refuse Hauling | Ch. 273, Art. I | 
+8-31-1989 | Streets and Sidewalks: Scenic Roads | Ch. 247, Art. III | 
+12-29-1990 | Waste Management: Recycling | Ch. 273, Art. II | 
+5-13-1991 | Salaries and Compensation: Town Clerk | Ch. 106, Art. I | 
+5-13-1991 | Water Pollution Control Authority | Ch. 128 | 
+11-8-1993 | Taxation: Waiver of Property Tax Collection | Ch. 253, Art. II | 
+11-8-1993 | Contracts and Purchasing | Ch. 23 | 
+10-20-1994 | Aging, Commission on Amendment | Ch. 5 | 
+10-20-1994 | Waste Management: Refuse Hauling Amendment | Ch. 273, Art. I | 
+10-20-1994 | Waste Management: Recycling Amendment | Ch. 273, Art. II | 
+3-11-1996 | Taxation: Tax Abatements for Dairy Farms | Repealed 4-26-2005; see Ch. 253, Art. III | 
+3-11-1996 | Waste Management: Littering and Dumping | Ch. 273, Art. III | 
+6-11-1996 | Taxation: Excess Tax Payments | Repealed 6-17-2013; see Ch. 253, Art. V | 
+1-26-1998 | Regional Council of Governments | Repealed 12-28-2006 | 
+1-26-1998 | Economic Development Commission | Ch. 32 | 
+5-14-1998 | Parks and Recreation Commission Amendment | Ch. 91 | 
+6-4-1998 | Fee Schedule for Planning and Zoning | Superseded 10-3-2005; see Ch. 173, Art. II | 
+5-8-2000 | Citations: Inland Wetland Violations | Ch. 154, Art. I | 
+6-15-2000 | Taxation: Abatements for Volunteer Fire Department Personnel | Repealed 11-21-2016; see Ch. 253, Art. VIII | 
+7-2-2001 | Officers and Employees: Constables | Ch. 84, Art. II | 
+6-2-2003 | Fees: Building Permit Fees | Ch. 173, Art. I | 
+12-15-2003 | Resolution To Apply for Membership in Eastern Highlands Health
+District | NCM | 
+12-26-2004 | Ordinances, Publication of | Ch. 87 | 
+4-26-2005 | Taxation: Abatements for Dairy Farms, Orchards and Vineyards | Ch. 253, Art. III | 
+5-31-2005 | Annual Budget | Repealed 9-18-2006; see Ch. 75, Art. II | 
+10-3-2005 | Economic Development Commission Amendment | Ch. 32 | 
+10-3-2005 | Fees: Land Use Agency Fees | Ch. 173, Art. II | 
+12-5-2005 | Economic Development Commission Amendment | Ch. 32 | 
+3-13-2006 | Waste Management: Transfer Station | Ch. 273, Art. IV | 
+6-5-2006 | Inland Wetlands and Watercourses Commission | Ch. 62 | 
+12-28-2006 | Withdrawal from Regional Council of Governments | NCM | 
+4-2-2007 | Meetings: Emergency Cancellation | Ch. 75, Art. I | 
+4-2-2007 | Selectmen, Board of: Setting Fees and Fines | Ch. 110, Art. I | 
+10-20-2008 | Parks and Recreation Commission Amendment | Ch. 91 | 
+4-6-2009 | Officers and Employees: Town Clerk and Registrar of Vital Statistics | Ch. 84, Art. III | 
+4-6-2009 | Officers and Employees: Treasurer | Ch. 84, Art. IV | 
+4-6-2009 | Officers and Employees: Tax Collector | Ch. 84, Art. V | 
+4-6-2009 | Planning and Zoning Commission and Zoning Board of Appeals | Ch. 95 | 
+3-15-2010 | Agriculture Commission | Ch. 8 | 
+5-3-2010 | Subdivision Regulations | Ch. 295 | 
+2-16-2012 | Inland Wetlands and Watercourses Commission Amendment | Ch. 62 | 
+2-16-2012 | Taxation: Exemption for Personal Property Leased to Town | Ch. 253, Art. IV | 
+5-7-2012 | Meetings: Annual Town Meeting and Budget Meeting | Ch. 75, Art. II | 
+9-17-2012 | Officers and Employees: Temporary Employees | Ch. 84, Art. VI | 
+4-23-2013 | Selectmen, Board of: State and Federal Grants | Ch. 110, Art. II | 
+6-17-2013 | Taxation: Excess Tax Payments | Ch. 253, Art. V | 
+6-17-2013 | Taxation: Exemption for Farm Buildings | Ch. 253, Art. VI | 
+10-1-2013 | Inland Wetlands and Watercourses Regulations | Ch. 290 | 
+11-16-2015 | Taxation: Exemption for Horses and Ponies | Ch. 253, Art. VII | 
+11-21-2016 | Taxation: Abatements for Volunteer Fire Department Personnel | Ch. 253, Art. VIII | 
+11-21-2016 | Natural Gas and Oil Waste | Repealed 6-7-2021 | 
+12-9-2019 | Officers and Employees: Registrars of Voters | Ch. 84, Art. VII | 
+8-1-2020 | Zoning Regulations | Ch. 300 | 
+5-4-2021 | Approval of Codification of Inland Wetlands and Watercourses
+Regulations | See Ch. 290 | 
+5-10-2021 | Approval of Codification of Subdivision Regulations and Zoning
+Regulations | See Ch. 295 and Ch. 300 | 
+6-7-2021 | General Provisions: Adoption of Code | Ch. 1, Art. I | 
+
+

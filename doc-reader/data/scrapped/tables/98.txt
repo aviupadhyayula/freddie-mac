@@ -1,0 +1,1452 @@
+iii      zoning districts
+https://ecode360.com/14079132
+0.8566431206530286
+Land Use Category | Zoning District | 
+Residential Low | RS-70 Single Family Residential | 
+Residential Low | RS-50 Single Family Residential | 
+Residential Low | RS-35 Single Family Residential | 
+Residential Low Medium | RM-10 Residential Multifamily | 
+Residential Medium | RM-12.5 Residential Multifamily | 
+Residential Medium | RM-15 Residential Multifamily | 
+Residential Medium | MH-13.5 Mobile Home Residential | 
+Residential High | RM-15.5 Residential Multifamily | 
+Commercial General | Commercial General FAR 0.55 | 
+Commercial water-dependent | Commercial General FAR 0.50 | 
+Institutional | Commercial General FAR 0.65 | 
+Institutional-public | Commercial General FAR 0.65 | 
+Preservation | Aquatic Lands, Preservation | 
+Rec/Open Space | All districts except preservation and aquatic lands | 
+Planned Redevelopment-Mixed Use (Overlay) | PR-Planned Redevelopment | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.7452648593734907
+ | Amusement facilities | 
+ | Automotive repair facilities | 
+ | Gas and service stations | 
+ | Hotels, motels, motor inns and interval-ownership apartments | 
+ | Marina and marine repair facilities | 
+ | Outdoor storage, such as garden supplies and plant nurseries | 
+ | Outdoor storage of building materials | 
+ | Outdoor storage of nonsalable items only | 
+ | Shopping centers containing more than 50,000 square feet under
+roof | 
+ | Teen social clubs | 
+ | Vehicle dealership/agency, minimum lot size 40,000 square feet
+for any operation; must provide a showroom | 
+ | Vehicles for hire | 
+ | Watercraft rental or watercraft clubs | 
+ | Any use permitted in the CG Zoning District with a land use
+designation "Institutional-Public," except that said use shall be
+restricted to 5 acres or less | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.6940982246850891
+ | City Hall | 
+ | Community center | 
+ | Fire station | 
+ | Libraries | 
+ | Police stations | 
+ | Post offices | 
+ | Similar public-service or government uses involved with federal,
+state or local governments | 
+ | Telecommunication towers and antennas which meet the requirements set forth in § 130-36. | 
+ | Traffic infraction detection equipment | 
+ | Utilities of all types, including electrical substations, distribution
+and transformers, sewage pumping facilities, radio and television
+facilities, water storage and pumping facilities | 
+ | Ancillary nonresidential; transportation/utility use: shall
+not exceed a maximum area of 10 acres. Any such use, alone or when
+added to existing contiguous like use(s), which exceeds this threshold
+shall require a plan map amendment which shall include such use and
+all contiguous like uses. | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.6544162786272041
+ | Churches, synagogues and other places of worship | 
+ | Convenient-care clinics | 
+ | Hospitals | 
+ | Medical offices including day surgery facilities | 
+ | Nursing homes | 
+ | Schools, public and private, of general education | 
+ | Telecommunication towers and antennas which meet the requirements set forth in § 130-36. | 
+ | Traffic infraction detection equipment | 
+ | Ancillary nonresidential; transportation/utility use: shall
+not exceed a maximum area of 10 acres. Any such use, alone or when
+added to existing contiguous like use(s), which exceeds this threshold
+shall require a plan map amendment which shall include such use and
+all contiguous like uses. | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.6430378607375342
+ | (1) | Commercial | < 1 acre | 0.75 FAR | 0.80 | 
+ |  | 1 to 3 acres | 1.00 FAR |  | 0.75 | 
+ |  | > 3 acres | 1.25 FAR |  | 0.70 | 
+ | (2) | Office | < 1 acre | 0.75 FAR | 0.80 | 
+ |  | 1 to 3 acres | 1.00 FAR |  | 0.75 | 
+ |  | > 3 acres | 1.25 FAR |  | 0.70 | 
+ | (3) | Institutional | < 1 acre | 0.75 FAR | 0.80 | 
+ |  | 1 to 3 acres | 1.00 FAR |  | 0.75 | 
+ |  | > 3 acres | 1.25 FAR |  | 0.70 | 
+ | (4) | Temporary lodging2 | < 1 acre | 50 TLU/Ac. | 0.80 | 
+ |  | 1 to 3 acres | 60 TLU/Ac. |  | 0.75 | 
+ |  | > 3 acres | 75 TLU/Ac. |  | 0.70 | 
+ | (5) | Residential3 | < 1 acre | 15 DU/Ac. | 0.80 | 
+ |  | 1 to 3 acres | 20 DU/Ac. |  | 0.75 | 
+ |  | > 3 acres | 25 DU/Ac. |  | 0.70 | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.6075331417783588
+ | Commercial general | 0.55 | 0.80 | 
+ | Commercial general water-dependent | 0.50 | 0.80 | 
+ | Institutional | 0.65 | 0.80 | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.5578558940237716
+ | 1 | Mixed-use projects may be combined based on the maximum density/intensity
+allowed for each use, calculated on the basis of the proportionate
+share of the property attributed to each use. | 
+ | 2 | All temporary lodging uses which are located in Hurricane Evacuation
+Level A, as identified by the Pinellas County Emergency Management
+Agency, shall prepare a legally enforceable mandatory evacuation/closure
+covenant, stating that the temporary lodging use will be closed as
+soon as practicable after a hurricane watch is posted for Pinellas
+County by the National Hurricane Center. Further, a plan implementing
+the closure and evacuation procedures shall be prepared and submitted
+to the county or municipal emergency management coordinator, whichever
+is applicable, within 90 days of the issuance of a certificate of
+occupancy. This plan will be updated and sent for review when there
+is a change of ownership or substantive change to the plan or as required
+by the county or municipal emergency management coordinator, whichever
+is applicable. The development limitations set forth in the development
+agreement shall be memorialized in a deed restriction, which shall
+be recorded in the Official Records of Pinellas County prior to the
+issuance of a building permit for the temporary lodging use. | 
+ | 3 | Residential use permitted under the PR-Planned Redevelopment
+District process shall not exceed the total number of residential
+dwelling units permitted within the PR-MU (Overlay) plan category
+at the time of adoption of the PR-MU (Overlay) plan map amendment
+(which number is 235). | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.5290506659754654
+ | * | Building height and setbacks standards may be adjusted by the
+Commission under an approved site plan and development agreement at
+the time of rezoning to PR based on the merits of the proposed project
+design and its relationship to adjoining uses where it is determined
+to be in the public interest; except that in no case shall building
+height exceed 66 feet. | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.5048638062691817
+ | Docks for live-aboard | 
+ | Fueling facilities at marinas | 
+ | Cruises which permit gambling | 
+ | Watercraft rentals | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.49533110730547836
+ | < 1 acre | Current standard - 3 stories (36 feet) plus an additional 10
+feet to a total of 46 feet for structures with parking beneath the
+building | 
+ | 1 to 3 acres | Current std. plus 1 story; or 10 feet to max. 4 stories or 46
+feet; or 4 stories over parking beneath building to max. 56 feet | 
+ | > 3 acres | Current std. plus 2 stories; or 20 feet to max. 5 stories or
+56 feet; or 5 stories over parking beneath building to max. 66 feet | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.48830967604404324
+ | Boat sales | 
+ | Dock rentals (excluding live-aboard) | 
+ | Marinas (excluding fueling facilities) | 
+ | Sightseeing cruises (excluding gambling cruises) | 
+ | Traffic infraction detection equipment | 
+
+
+iv      traffic lane closures
+https://ecode360.com/7149643
+0.48653701963756685
+ | Traffic Lane Blockage (one location only)
+Print or type
+APPLICATION DATE: | 
+ | Name of Applicant: _________________________
+Phone: | 
+ | Address: 
+Contact: | 
+ | __________________________________ Div./Dept: | 
+ | Field Project Supervisor: _____________ Crew
+Number | 
+ | Reason for blockage: | 
+ |  | 
+ |  | 
+ | Requested date(s) of blockage: | 
+ | Requested time(s) of blockage | 
+ | Requested location of blockage: | 
+ | Attach a sketch detailing the exact location
+and signage proposed for the lane closure. Include references to Manual
+of Uniform Traffic Control Devices. | 
+ | Signature: ___________________________ Date: | 
+
+
+iv      off street parking and loading
+https://ecode360.com/14079457
+0.4805378562602639
+ | Adult congregate-living facilities | 1 for each 3 beds; 1 for each employee on the largest shift | 
+ | Bowling alleys | 5 for each alley | 
+ | Business offices, retail | 1 for each 200 square feet of floor area used for transaction
+of business | 
+ | Churches, theaters, auditoriums and places of assembly | 1 for each 3 seats | 
+ | Colleges, universities and com- mercial schools | 1 for each 5 students, design capacity | 
+ | Elementary and secondary public- type schools | 1 for each 15 students, design capacity | 
+ | Funeral homes | 1 for each 100 square feet of parlor space. | 
+ | Hospitals | 1 for each 2 beds. | 
+ | Hotels and motels[Amended 4-15-2008 by Ord. No. 2008-03] | 1 for each sleeping room, plus 1 for every 5 units or fraction
+thereof | 
+ | Manufacturing plants, wholesale firms, warehouses and laboratories | 1 for each 1,000 square feet of gross floor area, plus 1 for
+each employee on the maximum work shift | 
+ | Marina (See also § 130-17G.)[Added 4-15-2008 by Ord. No. 2008-03] Pleasure craft | 1 for every 2 wet slips | 
+ | Live-aboard | 1 for every slip | 
+ | Dry dock | 1 for every 4 storage spaces | 
+ | Medical or dental offices | 8 for each doctor | 
+ | Nursing homes | 1 for each 4 beds | 
+ | Residential dwellings Single-family zone Multifamily zones | 2 per dwelling 1 1/2 per dwelling | 
+ | Restaurants, taverns, nightclubs[Amended 7-1-2011 by Ord. No. 2011-07] | No minimum | 
+ | Rooming houses and dormitories | 1 for each 2 beds | 
+ | Self storage, air-conditioned[Added 9-24-1996 by Ord. No. 96-12] | A minimum of 2 regular and 1 handi- capped space, plus 1 space
+for each 5,000 square feet of floor space | 
+ | Social halls, clubs and lodges | 1 for each 200 square feet of floor area | 
+ | Telecommunication towers[Added 1-14-1997 by Ord. No. 96-19] | 1 for each side | 
+
+
+iv      traffic lane closures
+https://ecode360.com/7149643
+0.42037642052027135
+ | Permit No. _____________  Issued to:
+_____________ | 
+ | Issuance Date: ________  Location:
+_______________ | 
+ | Valid period: (time) ____________________________ | 
+ | Valid date(s): _______________ ________________ | 
+ | Special conditions/remarks: ________________________ | 
+ | _____________________________________________________ | 
+ | _____________________________________________________ | 
+ | APPROVED BY: _______________  TITLE:
+_________________ | 
+ | SIGNATURE: ______________  DATE: _____________________ | 
+ | THIS PERMIT VALID ONLY FOR LOCATION, DATES AND
+TIMES AS SHOWN. | 
+
+
+xi      administration of florida building code
+https://ecode360.com/7147475
+0.40027097785503896
+ | Example 1: When a space has two 10-ton systems
+with each having an independent duct system, the contractor may design
+these two systems since each system is less than 15 tons. | 
+ | Example 2: Consider a small single story office
+building, which consists of six individual offices where each office
+has a single three-ton package air conditioning heat pump. The six
+heat pumps are connected to a single water-cooling tower. The cost
+of the entire heating, ventilation and air conditioning work is $47,000
+and the office building accommodates fewer than 100 persons. | 
+ | Note: It was further clarified by the commission
+that the limiting criteria of 100 persons and $50,000 apply to the
+building occupancy load and the cost of the total air-conditioning
+system of the building. | 
+
+
+xi      administration of florida building code
+https://ecode360.com/7147475
+0.38648676418628014
+A. Any project for improvement of a building required to correct
+existing health, sanitary, or safety code violations identified by
+the Chief Building Official and that are the minimum necessary to
+assure safe living conditions. | 
+B. Any alteration of an historic structure, provided the alteration
+will not preclude the structure's continued designation as an
+historic structure. | 
+
+
+xi      administration of florida building code
+https://ecode360.com/7147475
+0.38648676418628014
+A. Any project for improvement of a building required to correct
+existing health, sanitary, or safety code violations identified by
+the Chief Building Official and that are the minimum necessary to
+assure safe living conditions. | 
+B. Any alteration of an historic structure, provided the alteration
+will not preclude the structure's continued designation as an
+historic structure. | 
+
+
+xi      administration of florida building code
+https://ecode360.com/7147475
+0.3761881081811844
+ | Disclosure Statement | 
+ | State law requires asbestos abatement to be
+done by licensed contractors. You have applied for a permit under
+an exemption to that law. The exemption allows you, as the owner of
+your property, to act as your own asbestos abatement contractor even
+though you do not have a license. You must supervise the construction
+yourself. You may move, remove or dispose of asbestos-containing materials
+on a residential building where you occupy the building and the building
+is not for sale or lease, or the building is a farm outbuilding on
+your property. If you sell or lease such building within one year
+after the asbestos abatement is complete, the law will presume that
+you intended to sell or lease the property at the time the work was
+done, which is a violation of this exemption. You may not hire an
+unlicensed person as your contractor. Your work must be done according
+to all local, state and federal laws and regulations, which apply
+to asbestos abatement projects. It is your responsibility to make
+sure that people employed by you have licenses required by state law
+and by county or City ordinances. | 
+
+
+a         electric franchise
+https://ecode360.com/7150016
+0.3698647973314353
+To City: | To company: | 
+City Clerk | External Relations Department | 
+7047 Sunset Drive South | Progress Energy Services | 
+South Pasadena, FL 33707 | Company, LLC | 
+Phone: (727) 347-4171 | P.O. Box 14042 | 
+Facsimile No.: (727) 345-0518 | St. Petersburg, FL 33733-4042 | 
+ | Facsimile No.: (727) 820-5715 | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.35972598406458034
+ |  | < 36 feet | 36 to 46 feet | 46 to 56 feet | < 56 to 66 | 
+ | Front | 0 to 25 feet | 25 feet | 50 feet | 75 feet | 
+ | Side | 10 feet | 15 feet | 20 feet | 25 feet | 
+ | Rear | 25 feet | 30 feet | 35 feet | 40 feet | 
+
+
+xi      administration of florida building code
+https://ecode360.com/7147475
+0.35370092051984836
+ | If the direct contract is greater than $2,500
+for a construction project, or $7,500 for the repair or replacement
+of an existing heating or air-conditioning system, and as amended
+per F.S. § 713.135 from time to time, the applicant at the
+time of permitting shall file with the City either a certified copy
+of the recorded notice of commencement or a notarized statement that
+the notice of commencement has been filed for recording, along with
+a copy thereof. The certified copy of the notice of commencement must
+contain the name and address of the owner, the name and address of
+the contractor, and the location or address of the property being
+improved. The City shall verify that the name and address of the owner,
+the name of the contractor, and the location or address of the property
+being improved which is contained in the certified copy of the notice
+of commencement is consistent with the information in the building
+permit application. The City shall provide the recording information
+on the certified copy of the recorded notice of commencement to any
+person upon request. Installation of temporary electrical service
+or other temporary utility service, land clearing, or other preliminary
+site work permits may be issued and such inspections may be conducted
+without providing a certified copy of a recorded notice of commencement
+or a notarized statement regarding a recorded notice of commencement. | 
+
+
+iv      traffic lane closures
+https://ecode360.com/7149643
+0.34021204230618973
+ | Permits for traffic lane closure shall be issued to applicants meeting the criteria set forth in § 189-23 by the Department on a form reproduced within this subsection. | 
+
+
+xi      administration of florida building code
+https://ecode360.com/7147475
+0.3136292467586004
+ | Documents requiring an engineer seal by this
+part shall not be valid unless a professional engineer who possesses
+a valid certificate of registration has signed, dated, and stamped
+such document as provided in § 471.025, Florida Statutes. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.31338642471828715
+ | Leave conversions of unused accrued paid time off shall not
+be permitted to be applied toward the accrual of credited service
+either during each plan year of a member's employment with the
+City or in the plan year in which the member terminates employment. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.312992928963174
+There is hereby established an additional plan component to
+provide special benefits in the form of supplemental retirement, termination,
+death and disability benefits to be in addition to the benefits provided
+for in the previous sections of this plan, such benefit to be funded
+solely and entirely by Chapter 175, Florida Statutes, premium tax
+monies for each plan year which are allocated to this supplemental
+component as provided for in § 175.351, Florida Statutes.
+Amounts allocated to this supplemental component ("share plan"), if
+any, shall be further allocated to the members and DROP participants
+as follows: | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.3070034006725908
+ | Beginning January 1, 2009, to the extent required by Section
+414(u)(12) of the code, an individual receiving differential wage
+payments [as defined under Section 3401(h)(2) of the code] from an
+employer shall be treated as employed by that employer, and the differential
+wage payment shall be treated as compensation for purposes of applying
+the limits on annual additions under Section 415(c) of the code. This
+provision shall be applied to all similarly situated individuals in
+a reasonably equivalent manner. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.3023246647252361
+ | In the event a member dies on or after January 1, 2007, while
+performing USERRA qualified military service, the beneficiaries of
+the member are entitled to any benefits (other than benefit accruals
+relating to the period of qualified military service) as if the member
+had resumed employment and then died while employed. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.30197261121144703
+ | If, after 24 months after the date the plan terminated or the
+date the Board received written notice that the contributions thereunder
+were being permanently discontinued, the City or the Board of the
+fund affected has not complied with all the provisions in this subsection,
+the Florida Department of Management Services will affect the termination
+of the fund in accordance with this subsection. | 
+
+
+xi      administration of florida building code
+https://ecode360.com/7147475
+0.2983218745802352
+1612.4.2 Elevation requirements. The minimum elevation
+requirements shall be as specified in ASCE 24 or the base flood elevation
+plus two feet (610 mm), whichever is higher. | 
+
+
+xi      administration of florida building code
+https://ecode360.com/7147475
+0.29811076838397743
+ | NOTE: Sheathing fasteners installed and found
+to be missing the structural member (shiners) shall be removed and
+properly reinstalled prior to installation of the dry-in material. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.2979080546393693
+ | If the retiree recovers from disability and reenters the service
+of the City as a firefighter, his service will be deemed to have been
+continuous, but the period beginning with the first month for which
+he received a disability retirement income payment and ending with
+the date he reentered the service of the City will not be considered
+as credited service for the purposes of the system. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.29485007397657714
+ | The cost of the physical examination and/or reexamination of
+the member claiming or the retiree receiving disability benefits shall
+be borne by the fund. All other reasonable costs as determined by
+the Board incident to the physical examination, such as, but not limited
+to, transportation, meals and hotel accommodations, shall be borne
+by the fund. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.2846861765148978
+ | Provided, however, the disability retiree may select, at any time prior to the date on which benefit payments begin, an optional form of benefit payment as described in Subsection J(1)(a) or (b), which shall be the actuarial equivalent of the normal form of benefit. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.2807177178869693
+ | The monthly benefit to which a member is entitled in the event
+of the member's disability retirement shall be payable on the
+first day of the first month after the Board determines such entitlement.
+However, the monthly retirement income shall be payable as of the
+date the Board determined such entitlement, and any portion due for
+a partial month shall be paid together with the first payment. The
+last payment will be: | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.27981994552491996
+ | Any retiree receiving disability benefits under provisions of
+this section may be required by the Board to submit sworn statements
+of his condition accompanied by a physician's statement (provided
+at the retiree's expense) to the Board annually and may be required
+by the Board to undergo additional periodic reexaminations by a qualified
+physician or physicians and/or surgeon or surgeons who shall be selected
+by the Board, to determine if such disability has ceased to exist.
+If the Board finds that the retiree is no longer permanently and totally
+disabled to the extent that he is unable to render useful and efficient
+service as a firefighter, the Board shall recommend to the City that
+the retiree be returned to performance of duty as a firefighter, and
+the retiree so returned shall enjoy the same rights he had at the
+time he was placed upon pension. In the event the retiree so ordered
+to return shall refuse to comply with the order within 30 days from
+the issuance thereof, he shall forfeit the right to his pension. | 
+
+
+a         electric franchise
+https://ecode360.com/7150016
+0.2791886407734533
+ | The company must revise its payments due to any expansion or
+reduction by annexation within a reasonable time after the company
+has received such notice and updated list from the City, but no later
+than 60 days after receipt of notice and the list. The City understands
+and affirmatively acknowledges that the company will exclusively rely
+upon the City to provide timely and accurate information to the company
+regarding any such annexations or contractions, and that failure to
+do so will impair, inhibit, and/or preclude the company's ability
+to revise any payments due to the City that are impacted by such annexations
+or contractions. Further, the City acknowledges that if such information
+is not timely furnished to the company as required herein, any related
+obligation to collect payments shall be suspended during the period
+of delay. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.27047300238759486
+ | A member shall not become eligible for disability benefits until
+and unless he undergoes a physical examination by a qualified physician
+or physicians and/or surgeon or surgeons, who shall be selected by
+the Board for that purpose. The Board shall not select the member's
+treating physician or surgeon for this purpose except in an unusual
+case where the Board determines that it would be reasonable and prudent
+to do so. | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.26666665566598113
+ | For purposes of this Subsection P(2)(b), distributions are considered to begin on the member's required beginning date or, if Subsection P(2)(b)[4] applies, the date of distributions are required to begin to the surviving spouse under Subsection P(2)(b)[1]. If annuity payments irrevocably commence to the member before the member's required beginning date [or to the member's surviving spouse before the date distributions are required to begin to the surviving spouse under Subsection P(2)(b)[1]], the date distributions are considered to begin is the date distributions actually commence. | 
+
+
+iii      enforcement procedure
+https://ecode360.com/26961369
+0.2646975428081363
+ | [Note: State law references: Similar provisions, F.S. § 162.07(1)
+through (4).] | 
+
+
+iii      fire fighters  pension fund assessment
+https://ecode360.com/7149216
+0.2639635005708546
+ | The Board shall have the power and authority to make the final
+decisions regarding all disability claims. | 
+
+
+dl      disposition list
+https://ecode360.com/7150102
+0.25861942756061296
+Ord. No. 2019-03 | 9-16-2019 | Fiscal Year 2019-2020 Budget | NCM | 70 | 
+Ord. No. 2019-04 | 9-9-2019 | Fees Amendment | Ch. A198 | 70 | 
+Res. No. 2019-13 | 10-8-2019 | Fees Amendment | Ch. A198 | 70 | 
+Ord. No. 2019-05 | 11-12-2019 | Charter Amendment | § 2.08 | 70 | 
+Ord. No. 2019-06 | 12-10-2019 | Budget Amendment | NCM | 70 | 
+Ord. No. 2019-07 | 12-10-2019 | Taxation Amendment | Ch. 180 | 70 | 
+Ord. No. 2019-08 | 12-10-2019 | Charter Amendments | §§ 2.02; 2.03; 2.06; 2.08; 3.01; 4.03; 4.05;
+6.01; 7.01; 7.04 | 70 | 
+Ord. No. 2020-01 | 2-11-2020 | Ballot Title Language Amendment (Ord. No. 2019-08) | NCM | 70 | 
+Res. No. 2020-06 | 7-1-2020 | Fees Amendment | Ch. A198 | 71 | 
+Res. No. 2020-14 | 10-13-2020 | Charter Amendment | Charter § 2.08 | 71 | 
+Ord. No. 2020-03 | 11-10-2020 | Fees Amendment | Ch. A198 | 71 | 
+Ord. No. 2020-04 | 11-10-2020 | Fees Amendment | Ch. A198 | 71 | 
+Res. No. 2021-03 | 3-9-2021 | Fees Amendment | Ch. A198 | 71 | 
+
+
+iii      enforcement procedure
+https://ecode360.com/26961369
+0.25749713086510273
+ | [Note: State law references: Similar provisions, F.S. § 162.09(1),
+(2)(a).] | 
+
+
+a         electric franchise
+https://ecode360.com/7150016
+0.2535071368980886
+ | Progress energy | 
+ | Annexation Coordinator | 
+ | P. O. Box 33199 | 
+ | St. Petersburg, FL 33733-8199 | 
+ | Or by email to: AnnexationRequests@pgnmail.com | 
+
+
+iii      enforcement procedure
+https://ecode360.com/26961369
+0.2429150125177215
+ | [Note: State law reference: Similar provisions, F.S. § 162.06(3).] | 
+
+
+iii      enforcement procedure
+https://ecode360.com/26961369
+0.2429150125177215
+ | (Note: State law reference: Similar provisions, F.S. § 162.08.) | 
+
+
+iii      enforcement procedure
+https://ecode360.com/26961369
+0.2429150125177215
+ | [Note: State law reference: Similar provisions, F.S. § 162.09(3).] | 
+
+
+iii      enforcement procedure
+https://ecode360.com/26961369
+0.2429150125177215
+ | Note: (State law reference: Similar provisions, F.S. § 162.12.) | 
+
+
+iii      enforcement procedure
+https://ecode360.com/26961369
+0.21093936332996108
+ | [Note: State law references: Similar provisions, F.S. § 162.09(2)(b),
+(c).] | 
+
+
+iii      zoning districts
+https://ecode360.com/14079132
+0.14103372650441126
+ | Adult uses which qualify for an adult use permit pursuant to the provisions of Chapter 147, Adult Use, of this code | 
+ | Air-conditioned self storage, which complies with the criteria set forth in § 130-35 | 
+ | Antique stores | 
+ | Bakeries selling retail on premises | 
+ | Barbershops and beauty salons | 
+ | Bars/restaurants | 
+ | Billiard hall | 
+ | Bowling alleys | 
+ | Brokerage houses | 
+ | Car and truck wash | 
+ | Convenience store | 
+ | Day-care centers | 
+ | Department stores | 
+ | Drugstores | 
+ | Financial institutions | 
+ | Florist | 
+ | Food stores | 
+ | Funeral homes | 
+ | Furniture stores | 
+ | Gift stores | 
+ | Gymnasiums | 
+ | Hardware stores | 
+ | Ice cream parlors/yogurt | 
+ | Health clubs/licensed massage therapists | 
+ | Laundry and dry-cleaning pickup facilities | 
+ | Liquor stores | 
+ | Medical laboratory | 
+ | Miniature-golf courses | 
+ | Movie theaters (indoor) | 
+ | Newspaper publishing | 
+ | Novelty stores | 
+ | Office uses of all types, including but not limited to accountants,
+architects, attorneys, dentists, engineers, physicians and like professions,
+as well as corporate business offices | 
+ | Office reproduction services | 
+ | Pawnshops/check cashing | 
+ | Pet shops and grooming | 
+ | Pharmacies | 
+ | Plant nurseries | 
+ | Photographic supplies and studios | 
+ | Printers | 
+ | Real estate offices | 
+ | Repair shops, furniture | 
+ | Retail drapery/blind manufacturing | 
+ | Retail fruit packaging and juicing | 
+ | Restaurants | 
+ | Shoe repair | 
+ | Shoe stores[1] | 
+ | Specialty shops: men's, women's, children's apparel | 
+ | Sporting goods store | 
+ | Stationery, books | 
+ | Studio schools; art, dance, music, crafts and like instruction | 
+ | Supermarkets | 
+ | Tailors | 
+ | Telecommunication towers and antennas which meet the requirements set forth in § 130-36 | 
+ | Travel agencies | 
+ | Television and appliance stores, sales and service | 
+ | Traffic infraction detection equipment | 
+ | Upholstery shop and repairs | 
+ | Veterinary services | 
+ | Video rental stores | 
+
+
+general provisions
+https://ecode360.com/7147084
+0.11447421359499693
+ | I | $150.00 | $10.00 | $160.00 | 
+ | II | $125.00 | $10.00 | $135.00 | 
+ | III | $75.00 | $10.00 | $85.00 | 
+ | IV | $50.00 | $10.00 | $60.00 | 
+ | V | $25.00 | $10.00 | $35.00 | 
+
+
+iv      discharge specifications
+https://ecode360.com/7148957
+0.08179602161504193
+ | Arsenic | 0.1 | 
+ | Barium | 1.0 | 
+ | Boron | 1.0 | 
+ | Cadmium | 0.2 | 
+ | Chromium (total) | 2.0 | 
+ | Chromium (trivalent) | 1.0 | 
+ | Chromium (hexavalent) | 1.0 | 
+ | Copper | 1.0 | 
+ | Cyanide | 0.8 | 
+ | Iron | 5.0 | 
+ | Lead | 0.1 | 
+ | Manganese | 1.0 | 
+ | Mercury | 0.1 | 
+ | Nickel | 1.0 | 
+ | Phenolics | 0.1 | 
+ | Selenium | 0.05 | 
+ | Silver | 0.05 | 
+ | Sulfide | 50.0 | 
+ | Zinc | 0.08 | 
+ | pH | 6.0 to 8.0 | 
+
+
+ii      definitions and word usage
+https://ecode360.com/14079025
+-0.025989501418932026
+ |  | 
+
+
+ii      definitions and word usage
+https://ecode360.com/14079025
+-0.025989501418932026
+ |  | 
+
+
+iii      fees  penalties  construal of terms
+https://ecode360.com/7148456
+-2.7990362711131165
+1 | Abstracts of title |  | $26.25, plus $3.15 for each worker | 
+2 | Acupuncture |  | $26.25, plus $3.15 for each worker | 
+3 | Administrative offices | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+4 | Advertising | Includes advertising boards, agencies, card directories, guidebooks,
+handbill or sample distribution, marketing, outdoor advertising and trade
+inducement | $26.25, plus $3.15 for each worker | 
+5 | Alarm systems | Includes consulting, monitoring, repair and/or service. List unless
+licensed as alarm system contractor; see contractors for installation | $26.25, plus $3.15 for each worker | 
+6 | Ambulance services |  | $26.25, plus $3.15 for each worker | 
+7 | Amusement parks |  | $26.25, plus $3.15 for each worker | 
+8 | Amusement parlors | Where 1 or more amusement devices are located. List unless accessory
+to or incidental to another classification | $26.25, plus $3.15 for each worker | 
+9 | Animal grooming | List unless licensed as a kennel | $26.25, plus $3.15 for each worker | 
+10 | Antiques, dealers in | List unless in connection with and incidental to secondhand sales, pawnbroker,
+jeweler, junk dealer, retail merchant or auction shop | $26.25, plus $3.15 for each worker | 
+11 | Appraisers | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+12 | Architects or architects' offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+13 | Armored-car services |  | $26.25, plus $3.15 for each worker | 
+14 | Artists | List unless in connection with and incidental to another classification.
+Includes commercial, fine and graphic art | $26.25, plus $3.15 for each worker | 
+15 | Attorneys or attorneys' offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+16 | Auctioning | Includes auction shops or stores and auctioneers | $26.25, plus $3.15 for each worker | 
+17 | Audio/Visual | Includes consulting, design, production or related services | $26.25, plus $3.15 for each worker | 
+18 | Audiology |  | $26.25, plus $3.15 for each worker | 
+19 | Aviation | Includes aircraft sales and charter services, fixed-base operators who
+provide more than 1 aviation service, flight schools and/or charters, intrastate
+aircraft transportation, propeller or instrument shops, radio sales and services
+and aircraft | $26.25, plus $3.15 for each worker | 
+20 | Bands/Orchestras |  | $26.25, plus $3.15 for each worker | 
+21 | Barbershops |  | $26.25, plus $3.15 for each worker | 
+ |  | Independent barbers | $26.25 | 
+22 | Bars | Includes cabarets, lounges, nightclubs, and similar establishments.
+List unless licensed as a restaurant and has no separate entrance | $26.25, plus $3.15 for each worker | 
+23 | Poolrooms |  | $26.25, plus $3.15 for each worker | 
+24 | Birds, dealers in |  | $26.25, plus $3.15 for each worker | 
+25 | Bonds, stocks and other investments | Brokers or dealers, includes members of the New York Stock Exchange
+and/or those persons having a leased wire service | $26.25, plus $3.15 for each worker | 
+26 | Bondsmen |  | $26.25, plus $3.15 for each worker | 
+27 | Bookkeeping, accounting, tax services | List unless licensed as a certified public accountant | $26.25, plus $3.15 for each worker | 
+28 | Bottled gas, dealers in |  | $26.25, plus $3.15 for each worker | 
+29 | Bowling |  | $26.25, plus $3.15 for each worker | 
+30 | Brokers | Includes brokers in business opportunities, loans, merchandise, mortgages
+and services | $26.25, plus $3.15 for each worker | 
+31 | Carpet, rug and upholstery cleaning | Establishments, on location only. List unless in connection with and
+incidental to another classification | $26.25, plus $3.15 for each worker | 
+32 | Cemeteries |  | $26.25, plus $3.15 for each worker | 
+33 | Chemists |  | $26.25, plus $3.15 for each worker | 
+34 | Chiropractic physicians or chiropractic offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+35 | Claim, collection or billing service |  | $26.25, plus $3.15 for each worker | 
+36 | Cold storage |  | $26.25, plus $3.15 for each worker | 
+37 | Concessionaires | Public functions when properly permitted; no street sales | $26.25, plus $3.15 for each worker | 
+38 | Congregate living facilities and group-care facilities |  | $26.25, plus $3.15 for each worker | 
+39 | Contractors | List each category separately unless otherwise specified | $26.25, plus $3.15 for each worker | 
+ |  | General contractors |  | 
+ |  | Class A - General |  | 
+ |  | Class B - Building |  | 
+ |  | Class C - Residential Building |  | 
+ |  | Other contractors |  | 
+ |  | Air conditioning, Class A |  | 
+ |  | Air conditioning, Class B |  | 
+ |  | Air conditioning, Class C |  | 
+ |  | Alarm systems, consulting, installing, monitoring, repair and/or service |  | 
+ |  | Aluminum |  | 
+ |  | Asphalt sealing, coating, maintenance; list unless licensed as a paving
+contractor |  | 
+ |  | Carpentry |  | 
+ |  | Communication systems |  | 
+ |  | Drainage and sanitary sewer; list unless licensed as a plumbing contractor |  | 
+ |  | Dredging |  | 
+ |  | Driveway sealing, cool decking, patio coatings |  | 
+ |  | Drywall |  | 
+ |  | Electrical |  | 
+ |  | Elevator |  | 
+ |  | Excavating and land clearing |  | 
+ |  | Fence erecting |  | 
+ |  | Fire protection equipment |  | 
+ |  | Floor and floor sanding |  | 
+ |  | Gas fitter |  | 
+ |  | Glazing |  | 
+ |  | House moving and wrecking |  | 
+ |  | Installation |  | 
+ |  | Insulation |  | 
+ |  | Lathing; list unless licensed for plastering |  | 
+ |  | Lawn irrigation equipment |  | 
+ |  | Low voltage |  | 
+ |  | Marine specialty |  | 
+ |  | Masonry, flatwork |  | 
+ |  | Masonry, structural |  | 
+ |  | Mechanical |  | 
+ |  | Sign construction or installation |  | 
+ |  | Sign painting |  | 
+ |  | Painting and paper hanging |  | 
+ |  | Paving and road grading |  | 
+ |  | Private driveway paving; list unless licensed as commercial paving |  | 
+ |  | Commercial paving; list unless licensed for private driveway paving |  | 
+ |  | Plastering; list unless licensed for lathing |  | 
+ |  | Plumbing |  | 
+ |  | Pressure cleaning; list unless licensed for painting |  | 
+ |  | Refrigeration |  | 
+ |  | Roofing and shingle siding |  | 
+ |  | Sheet metal, installation only |  | 
+ |  | Swimming pool |  | 
+ |  | Swimming pool maintenance |  | 
+ |  | Tile, marble and terrazzo |  | 
+ |  | Underground utility |  | 
+ |  | Veneer specialty, includes aluminum and vinyl siding, gutters, soffitt
+and fascia only |  | 
+ |  | Wallcovering, list unless licensed as a painting contractor, or unless
+in connection with and incidental to interior decorating/designing; no painting
+permitted |  | 
+ |  | Well drilling |  | 
+ |  | Unclassified |  | 
+40 | Cosmetology | Includes cosmetology salons, independent cosmetologists, cosmetology
+specialty salons, independent cosmetology specialists and cosmetology schools | $26.25, plus $3.15 for each worker | 
+41 | Counseling/ Consulting | Includes mental health counseling. List unless in connection with and
+incidental to another classification | $26.25, plus $3.15 for each worker | 
+42 | Court reporting |  | $26.25, plus $3.15 for each worker | 
+43 | Credit agencies or bureaus |  | $26.25, plus $3.15 for each worker | 
+44 | Dance halls |  | $26.25, plus $3.15 for each worker | 
+45 | Delivery or messenger services | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+46 | Dentists or dentists' offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+47 | Diagnostic aid services, medical |  | $26.25, plus $3.15 for each worker | 
+48 | Directories | Persons making or offering for sale state, county or city directories,
+telephone or otherwise | $26.25, plus $3.15 for each worker | 
+49 | Drafting |  | $26.25, plus $3.15 for each worker | 
+50 | Electrology |  | $26.25, plus $3.15 for each worker | 
+ |  | Independent electrologist | $26.25 | 
+51 | Electronic data processing, word processing and related services | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+52 | Employment | Includes agencies, contract employee providers, employee leasing, talent
+agencies (list unless in connection with and incidental to another classification)
+and temporary help services | $26.25, plus $3.15 for each worker | 
+53 | Engineers, professional, or engineers' offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+ |  | Includes architectural, civil, computer, consulting, electrical, industrial,
+management, mechanical, nuclear, refrigeration, sanitary, structural |  | 
+54 | Exhibits, permanent | List unless in connection with and incidental to another classification. | $26.25, plus $3.15 for each worker | 
+ |  | Amusement rides or attractions | $26.25, plus $3.15 for each worker | 
+55 | Express companies |  | $26.25, plus $3.15 for each worker | 
+56 | Exterminating, pest control, fumigating |  | $26.25, plus $3.15 for each worker | 
+57 | Flea markets | Market operator who rents spaces or booths to others or otherwise operates
+the market | $26.25, plus $3.15 for each worker | 
+58 | Flowers | Florists; list unless in connection with and incidental to merchant
+Cut flower sales; allowed only where there is a current license tax for a
+filling station (see "Vehicles") | $26.25, plus $3.15 for each worker | 
+59 | Food services | Includes bakeries with baking on premises, sale of bakery goods only,
+catering from a vehicle at factories and construction jobs only, catering
+at social functions, dairies, fruit packing and shipping, ice cream bicycle/cart
+peddling, ice cream retail stores, produce trucks or vehicles, restaurant
+takeout or delivery where primary food sales are for consumption off the premises,
+restaurant drive-ins, restaurants (lunch or snack counters or stands, cafes,
+cafeterias, dining rooms and similar facilities where the primary food sales
+are for consumption on the premises) and sandwich manufacturing or wholesaling | $26.25, plus $3.15 for each worker | 
+60 | Freight transportation, transfer or forwarding services or similar activities |  | $26.25, plus $3.15 for each worker | 
+61 | Fuel oil | Bulk plant and distribution | $26.25, plus $3.15 for each worker | 
+ |  | Retail truck with no bulk plant at the same address |  | 
+62 | Funeral establishments |  | $26.25, plus $3.15 for each worker | 
+63 | Garbage | Includes collectors of garbage for rendering or processing plant and
+garbage and waste disposal incinerators, barge plants or barge depots | $26.25, plus $3.15 for each worker | 
+64 | Gasoline and oils | Bulk plant and distribution | $26.25, plus $3.15 for each worker | 
+ |  | Trucks not operating from a licensed bulk plant |  | 
+65 | Golf | Includes driving ranges, golf courses, miniature golf and par-3 golf
+courses | $26.25, plus $3.15 for each worker | 
+66 | Guns, dealers in | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+67 | Halls for rent |  | $26.25, plus $3.15 for each worker | 
+68 | Handicrafts | Craft articles made by hand in the home | $26.25, plus $3.15 for each worker | 
+69 | Health clubs or spas, reducing clubs or salons or gymnasiums | $26.25, plus $3.15 for each worker |  | 
+70 | Hearing aids, dispensing of |  | $26.25, plus $3.15 for each worker | 
+71 | Holding companies |  | $26.25, plus $3.15 for each worker | 
+72 | Home health services, agencies or similar activities |  | $26.25, plus $3.15 for each worker | 
+73 | Hospitals |  | $26.25, plus $3.15 for each worker | 
+74 | Hypnosis, non-therapeutic |  | $26.25, plus $3.15 for each worker | 
+75 | Inspection services | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+76 | Insurance | Location: Lations within the city at which insurance services are performed
+or offered; includes adjusters, agencies, booths, branches, claims filing,
+miscellaneous services or title insurance | $26.25, plus $3.15 for each worker | 
+ |  | Company: Each life or health,  marine, casualty, property
+or surety insurance company which is represented in, writes for clients in,
+solicits or  advertises in or services 1 or more policies in the
+city. This tax is in addition to any  applicable insurance location
+taxes. | $315 | 
+77 | Interior decorators | List unless licensed as interior decorator | $26.25, plus $3.15 for each worker | 
+78 | Interior designers | List unless licensed as interior decorator | $26.25, plus $3.15 for each worker | 
+79 | Investment counselors | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+80 | Janitorial or window cleaning | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+81 | Jewelers | Includes buying, selling, repair and service of any type of jewelry.
+List unless in connection with and incidental to pawnbroker, secondhand sales,
+antique dealer, junk dealer or merchant | $26.25, plus $3.15 for each worker | 
+82 | Junk dealers | Buying and/or selling junk, waste or used materials; list unless licensed
+for wrecking yards or secondhand sales when such secondhand merchants confine
+their sales to household furnishings or to the sale of wearing apparel; includes
+junk gatherers, yards or shops | $26.25, plus $3.15 for each worker | 
+83 | Kennels | Domestic pet raising or boarding for profit | $26.25, plus $3.15 for each worker | 
+84 | Knife and scissors sharpening | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+85 | Laboratories | Includes analytical, chemical, dental or medical; list unless in connection
+with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+86 | Landscape architecture |  | $26.25, plus $3.15 for each worker | 
+87 | Landscapers and tree surgeons | List unless licensed as landscape architecture or excavating and land
+clearing contractor; includes landscaping, lawn maintenance, lawn and tree
+spraying, tree surgery | $26.25, plus $3.15 for each worker | 
+88 | Laundry | Includes dry-cleaning services, linen services, wash-and-fold service,
+dropoff service and trucks not operated by a licensed place of business | $26.25, plus $3.15 for each worker | 
+89 | Laundry machines/laundromats | Includes laundromats, laundry machines and washers and dryers (coin-operated
+or otherwise) | $73.50 first 10 machines; $2.62 each additional machine | 
+90 | Loans, financing | Includes making loans and/or discount consumer financing; list unless
+licensed as savings and loan associations and banks | $26.25, plus $3.15 for each worker | 
+91 | Locksmiths |  | $26.25, plus $3.15 for each worker | 
+92 | Machines, coin- or token-operated | See "Laundry machines/laundromats" for laundry machines. Newspaper racks,
+telephones, bulk vending machines and stamp machines are exempt | $13.65 | 
+93 | Manufacturers' representatives or agents |  | $26.25, plus $3.15 for each worker | 
+94 | Manufacturing | Includes fabricating, machine shops and processing; list unless in connection
+with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+95 | Marine | Boats, marinas, yachts and services; includes bait sales (list unless
+in connection with and incidental to merchant), brokers, charters or cruises,
+cleaning, dealers, independent salespeople, marinas or storage, marine ways,
+rental, repair and mobile wash and polish or bottom scraping | $26.25, plus $3.15 for each worker | 
+96 | Massage therapy | List unless taxed as a chiropractic physician, osteopathic physician,
+physician, podiatrist or psychologist. | $26.25, plus $3.15 for each worker | 
+ |  | Independent massage therapist | $26.25 | 
+ |  | School teaching massage | $26.25, plus $3.15 for each worker | 
+97 | Merchants and merchandising | Merchant, no stock in city | $26.25, plus $3.15 for each worker | 
+ |  | Merchant operating from vehicle(s) and having no place of business in
+the city. Taxes for the following categories are based on the business cost
+of their  average annual inventory, including stock on hand and
+in storage in the city (Taxes are not owed on inventory of liquor or tobacco
+items or stock located outside the city.); includes direct sales, distributing,
+import/export, mail order, merchandising via electronic, video or audio/visual
+means, pushcarts, retail sales, showroom, wholesale sales: | $26.25, plus $3.15 for each worker | 
+ |  | Up to $20,000 of stock | $57.75 | 
+ |  | Each additional $1,000 of stock or fraction thereof | $5.25 | 
+98 | Mobile home and trailers, dealers in |  | $26.25, plus $3.15 for each worker | 
+99 | Mobile home and trailer parks |  | $2.10 per space | 
+100 | Motorcycles | Includes motorbikes, motor scooters and similar devices. Rental only:
+list unless in connection with and incidental to another classification. Repair
+only: list unless in connection with and incidental to another classification.
+Sales, repair and rental | $26.25, plus $3.15 for each worker | 
+101 | Naturopathy |  | $26.25, plus $3.15 for each worker | 
+102 | Nurseries and/or kindergartens |  | $26.25, plus $3.15 for each worker | 
+103 | Nursing homes |  | $26.25, plus $3.15 for each worker | 
+104 | Occupational therapy |  | $26.25, plus $3.15 for each worker | 
+105 | Opticianry |  | $26.25, plus $3.15 for each worker | 
+106 | Optometrists or optometrists' offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+107 | Osteopathic physicians or osteopath's office | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+108 | Patrols, guards or watchmen agencies or services |  | $26.25, plus $3.15 for each worker | 
+109 | Pawnbrokers | Lending money on personal property when such property is delivered to
+the pawnee as security for the loan. List unless in connection with and incidental
+to secondhand sales, antique dealer, jeweler, junk dealer or merchant | $26.25, plus $3.15 for each worker | 
+110 | Peddling |  | $26.25, plus $3.15 for each worker | 
+111 | Photography |  | $26.25, plus $3.15 for each worker | 
+112 | Physical therapy |  | $26.25, plus $3.15 for each worker | 
+ |  | Independent physical therapists | $26.25 | 
+113 | Physicians or physicians' offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+114 | Piano tuning | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+115 | Plant nurseries |  | $26.25, plus $3.15 for each worker | 
+116 | Plating | With metals, list unless in connection with and incidental to another
+classification | $26.25, plus $3.15 for each worker | 
+117 | Podiatrists or podiatrists' offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+118 | Pool cleaning, non-chemical | List unless licensed as a swimming pool contractor | $26.25, plus $3.15 for each worker | 
+119 | Postal contract station |  | $26.25, plus $3.15 for each worker | 
+120 | Private investigation |  | $26.25, plus $3.15 for each worker | 
+121 | Promoters |  | $26.25, plus $3.15 for each worker | 
+122 | Property developing, leasing, managing or renting | List unless licensed as a general contractor or for real estate | $26.25, plus $3.15 for each worker | 
+123 | Prosthetics | Includes design, fitting, assembly, sale and/or service to the user
+or patient | $26.25, plus $3.15 for each worker | 
+124 | Psychologists or psychologist's office | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+125 | Public accountants, C.P.A. or public accountants' offices | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+126 | Publications, publishing, writing |  | $26.25, plus $3.15 for each worker | 
+127 | Public relations | List unless in connection with and incidental to advertising | $26.25, plus $3.15 for each worker | 
+128 | Radio and/or television | Includes radio and/or television broadcasting studios and sale and advertising
+offices with no broadcasting | $26.25, plus $3.15 for each worker | 
+129 | Railroads |  | $26.25, plus $3.15 for each worker | 
+130 | Real estate offices |  | $26.25, plus $3.15 for each worker | 
+ |  | Independent real estate brokers or associates | $26.25 | 
+131 | Rental | Includes rental of clothing, films, machinery, video and other equipment
+and renting on location | $26.25, plus $3.15 for each worker | 
+132 | Rental units | Where only 1 unit is offered for rent, no license is required. "Rental
+units" includes rooms, apartments, condominiums and separate condominium units,
+hotels, motels, motor courts, cottages, cabins, live-aboard boat slips and/or
+other buildings rented as living quarters by the day, week, month, season
+or year which are located on 1 lot, plot or parcel of ground or water; includes
+units with cooking facilities or where cooking is permitted and units without
+cooking facilities | $5.25 per unit for up to 99 units; $4.20 per unit for 100 or more units | 
+133 | Repair services | Other than automotive and machine; list unless in connection with and
+incidental to another classification and where 25% or less of the business
+gross floor area is used for repair. Mobile repair; list unless in connection
+with and incidental to  another classification | $26.25, plus $3.15 for each worker | 
+134 | Reproduction, etc. | Includes blueprinting, copying, duplicating, engraving, lithographing,
+mimeographing, multigraphing, printing, typesetting and similar activities;
+list unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+135 | Rinks | For bicycles, skates, skateboards or other devices | $26.25, plus $3.15 for each worker | 
+136 | Savings and loan associations and banks |  | $26.25, plus $3.15 for each worker | 
+137 | Schools and instruction | 1 to 10 students | $10.50 | 
+ |  | Each additional student List unless in connection with and incidental
+to another classification | $1.05 | 
+138 | Secondhand merchants/sales | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+139 | Secretarial, steno and related services | List unless licensed for court reporting or for word processing (electronic
+data processing) | $26.25, plus $3.15 for each worker | 
+140 | Sewing | Commercial; list unless in connection with and incidental to another
+classification. Home occupation | $26.25, plus $3.15 for each worker | 
+141 | Shoe repair | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+142 | Shoeshine stand | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+143 | Shooting ranges, galleries and/or archery ranges | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+144 | Sitting or companion services | Includes adult only and on location (adults or children) | $26.25, plus $3.15 for each worker | 
+145 | Soft-water services |  | $26.25, plus $3.15 for each worker | 
+146 | Stenographers, public |  | $26.25, plus $3.15 for each worker | 
+147 | Surveyors |  | $26.25, plus $3.15 for each worker | 
+148 | Tailors | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+149 | Tattooing |  | $26.25, plus $3.15 for each worker | 
+150 | Taxidermists |  | $26.25, plus $3.15 for each worker | 
+151 | Telegraph services | Includes companies and substations | $26.25, plus $3.15 for each worker | 
+152 | Telephone answering services |  | $26.25, plus $3.15 for each worker | 
+153 | Telephone solicitations | Soliciting business by telephone for others | $26.25, plus $3.15 for each worker | 
+154 | Temporary activities, each event | Tax to be paid by promoter, corporation, association or person responsible
+for the event; includes carnivals, circuses, concerts, dealers in Christmas
+trees (not required if accessory to merchant), entertainments,  exhibits,
+lecturers and instructions to groups, musicals, shows, temporary merchants,
+per location, including individual attractions and/or merchants whose primary
+intent is selling a product (if over 30 days, tax as a  merchant)
+and tent shows | $26.25 | 
+155 | Theaters, stadiums, and other permanent places of amusement |  | $26.25, plus $3.15 for each worker | 
+156 | Therapies, medical or health |  | $26.25, plus $3.15 for each worker | 
+157 | Trade associations |  | $26.25, plus $3.15 for each worker | 
+158 | Transit mix cement | Manufacturing and distribution | $26.25, plus $3.15 for each worker | 
+159 | Travel agencies |  | $26.25, plus $3.15 for each worker | 
+160 | Utility companies | Includes electric companies, gas distribution plant (manufactured or
+natural), telephone companies | $26.25, plus $3.15 for each worker | 
+161 | Valet services |  | $26.25, plus $3.15 for each worker | 
+162 | Vehicle parking, parking lots or storage garages |  | $5.25, plus $1.05 for each space | 
+163 | Vehicles | Includes driveway services, filling stations, hauling, hauling trailers,
+new-car agencies, oil change and lube, painting and undercoating (list  unless
+licensed as automotive repair or incidental to automotive sales; this category
+not intended for businesses engaged in detailing only), rental of hauling
+trucks, rental or leasing agencies, repair, trucks for hire (list unless in
+connection with and incidental to another classification), used-car dealers
+(list unless licensed as a used-car sales lot or as a broker-dealer in merchandise),
+used-car sales, wash and polish (list unless in connection with and incidental
+to another classification), wrecker or towing services | $26.25, plus $3.15 for each worker | 
+164 | Vehicles for hire and taxicabs |  | $26.25 each | 
+165 | Vending machine operators or companies |  | $26.25, plus $3.15 for each worker | 
+166 | Veterinarians or veterinarian's office | Includes 1 professional | $210 | 
+ |  | Each additional professional | $105 | 
+ |  | Each worker | $3.15 | 
+167 | Warehouses, warehousing or storage | Up to 5,000 square feet | $52.50 | 
+ |  | Each additional 1,000 square feet or fraction thereof | $5.25 | 
+168 | Window tinting or filming | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+169 | Wood dealers |  | $26.25, plus $3.15 for each worker | 
+170 | Wrecking yards | List unless in connection with and incidental to another classification | $26.25, plus $3.15 for each worker | 
+171 | Unclassified | Every business, occupation or profession substantial, fixed or temporarily
+engaged in by any person within the city and for which no license has been
+ordained and not  herein specifically designated | $26.25, plus $3.15 for each worker | 
+
+
+dl      disposition list
+https://ecode360.com/7150102
+-3.6165938629807775
+92-28 |  |  | Not adopted | 
+92-29 | 1-26-1993 | Land development amendment | Ch. 130 | 
+92-30 | 12-8-1992 | Budget | NCM | 
+92-31 |  |  | Denied | 
+92-32 | 1-12-1993 | General election | NCM | 
+93-01 | 2-9-1993 | Animal-drawn vehicles | Ch. 73, Art. II | 
+93-02 | 2-9-1993 | Purchasing amendment | Ch. 48 | 
+93-03 | 2-23-1993 | Mangrove trees amendment | Ch. 183, Art. II | 
+93-04 |  | Mangrove trees | Tabled 2-9-1993 | 
+93-05 |  | Mangrove trees | Tabled 2-9-1993 | 
+93-06 | 4-27-1993 | Flood damage prevention amendment | Ch. 108 | 
+93-07 | 4-27-1993 | Concurrency management amendment | Ch. 130, Part 2 | 
+93-08 | 4-27-1993 | Adoption of Code | Ch. 1, Art. I | 
+93-09 |  | Land development amendment (signs) | Failed on first reading 4-27-1993 | 
+93-10 | 5-25-1993 | Land development amendment (signs) | Ch. 130 | 
+93-11 |  | Charter amendment | Failed at special referendum on 11-2-1993 | 
+93-12 | 6-22-1993 | Solid waste amendment | Ch. 172 | 
+93-13 | 9-28-1993 | Budget | NCM | 
+93-14 |  |  | Died for lack of motion | 
+93-15 |  |  | Failed at special referendum on 11-2-1993 | 
+93-16 | 9-28-1993 | Storm sewer system | Ch. 169, Art. VI | 
+93-17 |  |  | Failed | 
+93-18 | 11-23-1993 | General election | NCM | 
+93-19 | 12-14-1993 | Departments amendment | Ch. 18 | 
+93-20 | 12-14-1993 | Officers and employees amendment | Did not pass at referendum 3-1-1994 | 
+94-01 | 1-25-1994 | Departments amendment | Ch. 18 | 
+94-02 |  | Land development regulations | Tabled 2-22-1994 | 
+94-03 | 6-14-1994 | Zoning Map amendment | NCM | 
+94-04 | 2-22-1994 | Flood damage prevention amendment | Ch. 108 | 
+94-05 | 2-22-1994 | Garbage, rubbish and refuse disposal amendment | Ch. 172, Art. I. | 
+94-06 |  | Nuisances | Tabled 2-8-1994 | 
+94-07 | 2-22-1994 | Vehicles and traffic amendment | Ch. 189 | 
+94-08 | 3-15-1994 | Fences amendment | Ch. 103 | 
+94-09 | 6-28-1994 | Land development amendment | Ch. 130, Part 1 | 
+94-10 | 5-24-1994 | Fire prevention amendment | Ch. 106 | 
+94-11 | 6-14-1994 | Juvenile curfew | Ch. 144 | 
+94-12 | 6-14-1994 | Zoning Map amendment | NCM | 
+94-13 | 9-27-1994 | Land development amendment | Ch. 130, Part 1 | 
+94-14 | 9-13-1994 | Cable television rules and regulations | Ch. 195 | 
+94-15 | 9-27-1994 | Land development amendment | Ch. 130, Part 1 | 
+94-16 | 9-27-1994 | Budget | NCM | 
+94-17 | 9-13-1994 | Watercraft and waterways amendment | Ch. 193 | 
+94-18 | 1-24-1994 | Land Use Map amendment | NCM | 
+94-19 | 11-8-1994 | Adult use; land development amendment | Ch. 147; Ch. 130, Part 1 | 
+ |  |  |  | 
+94-20 | 11-8-1994 | Land development amendment | Ch. 130, Part 4 | 
+94-21 | 12-27-1994 | Land development amendment | Ch. 130, Part 1 | 
+94-22 | 12-13-1994 | Holding of general election | NCM | 
+94-23 |  |  | Withdrawn | 
+94-24 |  | Approval of zoning and land use changes by referendum | Did not pass at referendum | 
+94-25 | 1-24-1995 | Fences; land development regulations; fire prevention
+amendments | Chs. 103; 108; 130 | 
+94-26 | 1-10-1995 | Calling for referendum on issue of voter approval
+of zoning and land use changes | NCM | 
+94-27 | 3-14-1995 | Signs amendment | Ch. 130, Part 4 | 
+95-01 | 4-25-1995 | Land use amendment | Ch. 130, Part 1 | 
+95-02 | 4-25-1995 | Street vacation | NCM | 
+95-03 | 4-25-1995 | Street vacation | NCM | 
+95-04 | 6-13-1995 | Occupational licenses amendment | Ch. 146 | 
+95-05 | 6-27-1995 | Land use amendment | Ch. 130, Part 1 | 
+95-06 | 6-13-1995 | Charter amendment; officers and employees amendment | Charter; Ch. 42 | 
+95-07 | 6-27-1995 | Gas franchise amendment | Ch. A200 | 
+95-08 | 6-27-1995 | Garage sales | Ch. 111 | 
+95-09 | 9-26-1995 | Budget | NCM | 
+95-10 | 10-10-1995 | Calling for referendum on whether or not the
+city should join the Pinellas Public Library Cooperative | NCM | 
+95-11 | 11-14-1995 | Pension plans for general employees | Ch. 46, Art. II | 
+95-12 | 11-28-1995 | Comprehensive Plan amendment | Ch. 14 | 
+95-13 | 11-28-1995 | General election | NCM | 
+96-01 | 2-13-1996 | General election amendment | NCM | 
+96-02 | 5-28-1996 | Signs amendment | Ch. 130, Part 4 | 
+96-03 | 6-11-1996 | Nuisances amendment | Ch. 143 | 
+96-04 | 6-25-1996 | Adult use amendment | Ch. 147 | 
+96-05 | 6-25-1996 | Departments amendment | Ch. 18 | 
+96-06 | 8-27-1996 | Purchasing amendment | Ch. 48 | 
+96-07 | 9-24-1996 | Budget | NCM | 
+96-08 |  | Withdrawn 8-27-1996 |  | 
+96-09 | 9-10-1996 | Garbage collection franchise amendment | Ch. A199 | 
+96-10 | 10-22-1996 | Public service tax amendment | Ch. 180 | 
+96-11 | 9-24-1996, Ref. of 3-4-1997 | Charter amendment | Charter | 
+96-12 | 9-24-1996 | Land development amendment | Ch. 130, Part 1 | 
+96-13 |  |  |  | 
+96-14 | 10-22-1996 | Regulation of public ways amendment | Ch. 176, Art. II | 
+96-15 | 10-22-1996 | Elections amendment | Ch. 22 | 
+96-16 |  | Charter amendment | Defeated | 
+96-17 | 11-26-1996 | Sewers amendment | Ch. 169 | 
+96-18 |  | Charter amendment | Withdrawn | 
+96-19 | 1-14-1997 | Land development amendment | Ch. 130, Part 1 | 
+96-20 |  | Towers and antennas moratorium | Failed | 
+Res. No. 96-24 | 11-26-1996 | Sewer rates | Ch. A198 | 
+97-01 |  | Charter amendment | Not adopted | 
+97-02 | 1-28-1997 | Vehicles and traffic amendment | Ch. 189 | 
+97-03 | 2-11-1997 | Elections amendment | Ch. 22 | 
+Res. No. 97-10 | 3-5-1997 | Election results | NCM | 
+97-04 | 4-8-1997 | Alcoholic beverages | Superseded by Ord. No. 97-06 | 
+97-05 | 4-22-1997 | Purchasing amendment | Ch. 48 | 
+97-06 | 5-13-1997 | Alcoholic beverages | Ch. 65 | 
+97-07 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-08 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-09 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-10 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-11 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-12 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-13 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-14 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-15 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-16 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-17 | 9-23-1997 | Comprehensive Plan amendment | NCM | 
+97-18 | 6-10-1997 | Nuisances amendment | Ch. 143 | 
+97-19 | 9-23-1997 | Budget | NCM | 
+97-20 | 9-23-1997 | Land use amendment | Ch. 130, Part 1 | 
+97-21 | 10-14-1997 | Taxation amendment | Ch. 180 | 
+97-22 | 10-28-1997 | Land development amendment | Ch. 130, Part 4 | 
+97-23 | 12-9-1997 | Streets and sidewalks amendment | Ch. 176 | 
+98-01 | 3-10-1998 | Land development amendment; docks and tie poles | Ch. 130, Part 1; Ch. 86 | 
+98-02 |  |  | Failed | 
+98-03 | 2-24-1998 | Watercraft and waterways amendment | Ch. 193 | 
+98-04 | 2-24-1998 | Comprehensive Plan amendment | NCM | 
+98-05 | 4-14-1998 | Abandoned vehicles repealer; vehicles and traffic
+amendment | Ch. 187; Ch. 189 | 
+98-06 | 6-9-1998 | Animal control | Ch. 73, Art. I | 
+98-07 | 6-23-1998 | Fire prevention amendment | Ch. 106 | 
+98-08 | 9-22-1998 | Budget | NCM | 
+98-09 | 10-13-1998 | Fire prevention amendment | Ch. 106 | 
+98-10 | 10-13-1998 | Future Land Use Map amendment | NCM | 
+98-11 | 10-27-1998 | Taxation amendment | Ch. 180 | 
+98-12 | 11-24-1998 | Charter amendment; purchasing amendment | Charter; Ch. 48 | 
+98-13 | 12-8-1998 | Budget amendment | NCM | 
+98-14 | 12-8-1998 | Garbage, rubbish and refuse disposal amendment | Ch. 172, Art. I | 
+98-15 | 12-8-1998 | Emergency management | Ch. 90 | 
+99-01 | 3-23-1999 | Pedestrians soliciting occupants of vehicles | Ch. 176, Art. V | 
+99-02 | 9-14-1999 | Future Land Use Map amendment | NCM | 
+99-03 | 9-14-1999 | Future Land Use Map amendment | NCM | 
+99-04 | 9-28-1999 | 1999-2000 budget | NCM | 
+99-05 | 1-11-2000 | Comprehensive Plan amendment | NCM | 
+99-06 |  | Emergency management amendment | Failed 12-14-1999 | 
+99-07 | 1-11-2000 | Vehicles and traffic amendment | Ch. 189 | 
+99-08 | 1-11-2000 | Purchasing amendment | Ch. 48 | 
+2000-01 | 2-8-2000 | Emergency management amendment | Ch. 90 | 
+2000-02 | 8-22-2000 | Trees: planting and removal amendment; mangrove
+trees repealer | Ch. 183, Arts. I and II | 
+2000-03 |  | Budget | NCM | 
+2000-04 | 10-10-2000 | Paragon Cable amendment | Ch. A196 | 
+Res. No. 2000-32 | 12-11-2000 | Fees amendment | Ch. A198 | 
+2000-05 | 1-9-2001 | Fire Fighters' Retirement System amendment | Ch. 180, Art. III | 
+2001-01 | 6-26-2001 | Land development amendment | Ch. 130, Part 1 | 
+2001-02 | 6-26-2001 | Electric franchise | Ch. A197 | 
+2001-03 | 6-26-2001 | Charter amendment | Charter | 
+2001-04 |  | Budget | NCM | 
+2001-05 | 10-9-2001 | Time Warner Entertainment- Advance/Newhouse
+Partner- ship | Ch. A196, Art. I | 
+2001-06 |  | Cable television channel replacement | Not passed | 
+2001-07 | 12-10-2001 | Land development regulations: signs amendment | Ch. 130, Part IV | 
+2001-08 | 11-13-2001 | Purchasing amendment | Ch. 48 | 
+2001-09 | 11-13-2001 | 2001-2002 budget amendment | NCM | 
+2002-01 | 4-9-2002 | Land development regulations amendment | Ch. 130, Part 1 | 
+2002-02 | 10-8-2002 | Flood damage prevention amendment | Ch. 108 | 
+2002-03 |  |  | Failed | 
+2002-04 | 9-24-2002 | Budget | NCM | 
+2002-05 | 9-10-2002 | Garbage collection franchise | Ch. A199 | 
+2002-06 | 11-12-2002 | Taxation amendment | Ch. 180 | 
+2002-07 |  |  | Failed | 
+2002-08 | 12-10-2002 | Land development regulations amendment | Ch. 130 | 
+2003-01 | 4-8-2003 | General penalty amendment | Ch. 1, Art. I | 
+2003-02 | 4-8-2003 | Animal control amendment | Ch. 73, Art. I | 
+2003-03 | 4-8-2003 | Fire prevention amendment | Ch. 106 | 
+2003-04 | 5-13-2003 | Flood damage prevention amendment | Ch. 108 | 
+2003-05 | 8-26-2003 | Brush, grass and weeds; nuisances amendment | Chs. 81, repealer only; 143 | 
+2003-06 | 9-22-2003 | 2003 - 2004 budget | NCM | 
+2003-07 | 9-8-2003 | Land development regulations amendment | Ch. 130 | 
+2003-08 | 10-14-2003 | Occupational licenses amendment | Ch. 146 | 
+2003-09 | 10-14-2003 | Charter amendment; elections amendment | §§ 3.01, 3.04; Ch. 22 | 
+2003-11 | 11-12-2003 | Fire prevention amendment | Ch. 106 | 
+2003-12 | 12-8-2003 | Budget amendment | NCM | 
+2003-13 | 1-13-2004 | Comprehensive Plan amendment | NCM | 
+2003-14 | 2-10-2004 | Zoning Map amendment | NCM | 
+2003-15 |  |  | NCM | 
+2003-16 | 3-8-2004 | Fire Fighters' Pension Fund assessment amendment | Ch. 180, Art. III | 
+2004-01 | 5-11-2004 | Land use amendment | Ch. 130, Part 1 | 
+2004-02 | 5-11-2004 | Budget amendment | NCM | 
+2004-03 | 6-8-2004 | Stormwater runoff control amendment | Ch. 130, Part 3 | 
+2004-04 | 6-8-2004 | Elections amendment | Ch. 22 | 
+2004-05 | 7-1-2004 | Budget amendment | NCM | 
+2004-06 | 7-1-2004 | Vehicles and traffic | Ch. 189 | 
+2004-07 | 9-20-2004 | Elections amendment | Ch. 22 | 
+2004-08 | 10-12-2004 | Land use amendment | Ch. 130, Part 1 | 
+2004-09 |  | Budget | NCM | 
+2004-10 | 12-14-2004 | Building construction and uniform codes amendment | Ch. 83 | 
+2005-01 | 3-7-2005 | Zoning Map amendment | NCM | 
+2005-02 | 5-10-2005 | Land use amendment | Ch. 130, Part 1 | 
+2005-03 | 5-10-2005 | Flood damage prevention amendment | Ch. 108 | 
+2005-04 |  | Departments amendment | Not adopted | 
+Res. No. 2005-12 | 5-10-2005 | Fees amendment | Ch. A198 | 
+2005-05 | 6-14-2005 | Budget amendment | NCM | 
+2005-06 | 9-12-2005 | Trees: planting and removal amendment | Ch. 183, Art. I | 
+Res. No. 2005-21 | 9-12-2005 | Fees amendment | Ch. A198 | 
+Res. No. 2005-23 | 9-12-2005 | Fees amendment | Ch. A198 | 
+2005-07 | 10-11-2005 | Land use amendment | Ch. 130, Part 1 | 
+2005-08 |  | 2005/2006 budget | NCM | 
+2005-09 | 10-11-2005 | Budget amendment | NCM | 
+2006-01 | 5-9-2006 | Docks and tie poles amendment | Ch. 86 | 
+2006-02 | 4-11-2006 | 2005/2006 budget amendment | NCM | 
+2006-03 | 6-13-2006 | Land development regulations: signs amendment | Ch. 130, Part 4 | 
+2006-04 | 9-13-2006 | Land use amendment | Ch. 130, Part 1 | 
+2006-05 | 9-13-2006 | Comprehensive Plan policy amendment | NCM | 
+2006-06 |  | Budget | NCM | 
+2006-07 | 10-10-2006 | Hazardous material emergency response cost recovery | Ch. 113 | 
+2006-08 | 11-28-2006 | Charter amendment | § 2.08 | 
+2006-09 | 12-12-2006 | Concurrency management amendment | Ch. 130, Part 2 | 
+2006-10 | 12-12-2006 | Taxation amendment | Ch. 180 | 
+2007-01 | 2-13-2007 | Land development regulations: land use amendment;
+concurrency management amendment | Ch. 130, Parts 1 and 2 | 
+2007-02 | 3-13-2007 | Land use amendment; business tax amendment | Chs. 130, Part 1; 146 | 
+2007-03 | 7-2-2007 | Budget amendment | NCM | 
+2007-04 | 9-11-2007 | Budget | NCM | 
+2007-05 | 9-11-2007 | Termination of easements; opening of easement | NCM | 
+2007-06 | 10-9-2007 | Charter amendments | §§ 1.04; 6.03; 7.01; 7.03; 7.04 | 
+2008-01 | 3-10-2008 | Land use amendment | Ch. 130, Part 1 | 
+2008-02 | 3-10-2008 | Budget amendment | NCM | 
+2008-03 | 4-15-2008 | Land use amendment | Ch. 130, Part 1 | 
+2008-04 | 5-13-2008 | Elections amendment | Ch. 22 | 
+2008-05 | 5-13-2008 | Budget amendment | NCM | 
+2008-06 | 7-1-2008 | Budget amendment | NCM | 
+2008-07 | 8-26-2008 | Garbage collection franchise amendment | Ch. A199 | 
+2008-08 | 9-22-2008 | Budget | NCM | 
+2008-09 | 10-14-2008 | Budget amendment | NCM | 
+2008-10 | 10-14-2008 | Elections amendment | Ch. 22 | 
+2008-11 |  |  | Number not used | 
+2008-12 | 11-12-2008 | Land development regulations amendment | Ch. 130 | 
+2008-13 |  |  | Not adopted | 
+2008-14 | 1-13-2009 | Nuisances amendment | Ch. 143 | 
+2009-01 | 3-10-2009 | Grease management program; sewers amendment | Repealed by Ord. No. 2018-05; Ch. 169 | 
+Res. No. 2009-04 | 3-10-2009 | Fees amendment | Ch. A198 | 
+2009-02 | 8-25-2009 | Purchasing amendment | Ch. 48 | 
+2009-03 | 9-21-2009 | Budget | NCM | 
+2009-04 |  | Charter amendment | Not adopted | 
+2009-05 | 1-12-2010 | Land use amendment | Ch. 130, Part 1 | 
+2010-01 |  |  | Not adopted | 
+2010-02 | 5-11-2010 | Land development regulations amendment | Ch. 130 | 
+2010-03 | 5-11-2010 | Land development regulations amendment | Ch. 130 | 
+2010-04 |  |  | Number not used | 
+2010-05 |  |  | Withdrawn | 
+2010-06 | 6-8-2010 | Vehicles and traffic amendment | Ch. 189 | 
+2010-07 | 7-1-2010 | Budget amendment | NCM | 
+2010-08 |  | Budget | NCM | 
+Res. No. 2010-11 | 9-15-2010 | Fees amendment | Ch. A198 | 
+2010-09 | 11-9-2010 | Budget amendment | NCM | 
+2010-10 |  |  | Number not used | 
+2010-11 | 1-11-2011 | Taxation amendment | Ch. 180 | 
+2011-01 | 3-7-2011 | Budget amendment | NCM | 
+2011-02 | 4-12-2011 | Garbage collection franchise amendment | Ch. A199 | 
+2011-03 | 5-10-2011 | Streets and sidewalks: right-of-way permits amendment | Ch. 176, Art. IV | 
+2011-04 | 5-10-2011 | Purchasing: bid protest procedure | Ch. 48, Art. II | 
+2011-05 | 6-14-2011 | Gas franchise amendment | Ch. A200 | 
+2011-06 | 6-14-2011 | Electric franchise amendment | Ch. A197 | 
+2011-07 | 7-1-2011 | Alcoholic beverages amendment; land development regulations:
+land use amendment; noise amendment | Chs. 65; 130, Part 1; 141 | 
+2011-08 | 7-1-2011 | Budget amendment | NCM | 
+Res. No. 2011-07 | 7-1-2011 | Fees amendment | Ch. A198 | 
+2011-09 | 9-20-2011 | Budget | NCM | 
+2011-10 | 10-11-2011 | Noise amendment | Ch. 141 | 
+2011-11 | 10-11-2011 | Charter amendment; elections amendment | §§ 3.01 and 3.04; Ch. 22 | 
+2011-12 | 10-11-2011 | Taxation amendment | Ch. 180 | 
+2011-13 |  |  | Not adopted | 
+2011-14 | 12-13-2011 | Zoning Map amendment | NCM | 
+2012-01 | 9-19-2012 | Budget | NCM | 
+2012-02 | 10-9-2012 | Purchasing amendment | Ch. 48 | 
+2012-03 | 5-14-2013 | Comprehensive Plan amendment | NCM | 
+2012-04 | 12-11-2012 | Building construction and uniform codes amendment; floodplain
+management | Chs. 83; repealed by Ord. No. 2018-04 | 
+Res. No. 2012-23 | 12-11-2012 | Fees amendment | Ch. A198 | 
+2012-05 | 1-8-2013 | Building construction and uniform codes amendment | Ch. 83 | 
+2012-06 | 1-8-2013 | Code enforcement amendment | Ch. 12 | 
+2012-07 | 1-8-2013 | Senior homestead tax exemption amendment | Ch. 180, Art. IV | 
+2013-01 | 6-11-2013 | Budget amendment | NCM | 
+2013-02 | 9-18-2013 | Budget | NCM | 
+2013-03 | 9-11-2013 | Garage sales amendment | Ch. 111 | 
+2013-04 | 10-8-2013 | Taxation amendment | Ch. 180 | 
+2013-05 | 12-10-2013 | Land use amendment | Ch. 130, Part 1 | 
+2013-06 | 12-10-2013 | Land use amendment | Ch. 130, Part 1 | 
+Res. No. 2014-04 | 3-10-2014 | Fees amendment | Ch. A198 | 
+2014-01 | 9-17-2014 | Budget | NCM | 
+2014-02 | 10-14-2014 | Budget amendment | NCM | 
+Res. No. 2014-22 | 11-12-2014 | Fees amendment | Ch. A198 | 
+Ord. No. 2015-01 | 2-10-2015 | Pensions and retirement amendment | Ch. 46 | 
+Ord. No. 2015-02 | 7-1-2015 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2015-03 | 7-1-2015 | Land use amendment | Ch. 130, Part 1 | 
+Ord. No. 2015-04 | 5-12-2015 | Budget amendment | NCM | 
+Ord. No. 2015-05 | 5-12-2015 | Budget amendment | NCM | 
+Res. No. 2015-14 | 9-9-2015 | Fees amendment | Ch. A198 | 
+Ord. No. 2015-06 | 9-16-2015 | Budget | NCM | 
+Ord. No. 2015-07 | 12-8-2015 | Budget amendment | NCM | 
+Ord. No. 2015-08 | 1-12-2016 | Taxation amendment | Ch. 180 | 
+Ord. No. 2015-09 | 1-12-2016 | Land use amendment | Ch. 130, Part 1 | 
+Ord. No. 2016-01 | 3-8-2016 | Floodplain management amendment | Repealed by Ord. No. 2018-04 | 
+Ord. No. 2016-02 | 6-14-2016 | Vehicles and traffic amendment | Ch. 189 | 
+Ord. No. 2016-03 | 6-14-2016 | Budget amendment | NCM | 
+Ord. No. 2016-04 | 11-8-2016 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2016-05 | 11-8-2016 | Land development regulations: concurrency management amendment | Ch. 130, Part 2 | 
+Ord. No. 2016-06 | 9-19-2016 | Fiscal year 2016-2017 budget | NCM | 
+Ord. No. 2016-07 | 10-11-2016 | Garbage collection franchise amendment | Ch. A199 | 
+Ord. No. 2016-08 | 11-8-2016 | Sewers amendment; Fees amendment | Ch. 169; Ch. A198 | 
+Ord. No. 2016-09 | 11-8-2016 | Budget amendment | NCM | 
+Ord. No. 2016-10 | 11-8-2016 | Budget amendment | NCM | 
+Ord. No. 2016-11 | 11-8-2016 | Purchasing: requirements and procedure amendment | Ch. 48, Art. I | 
+Ord. No. 2016-12 | 11-8-2016 | Charter amendment | § 2.08 | 
+Ord. No. 2017-01 | 4-11-2017 | Budget Amendment | NCM | 
+Ord. No. 2017-02 | 5-9-2017 | Budget Amendment | NCM | 
+Ord. No. 2017-03 | 9-25-2017 | Fiscal Year 2017-2018 Budget | NCM | 
+Ord. No. 2017-04 | 11-14-2017 | Fees Amendment | Ch. A198 | 
+Ord. No. 2018-01 | 3-12-2018 | Budget Amendment | NCM | 
+Ord. No. 2018-02 |  |  | Not adopted | 
+Ord. No. 2018-03 | 6-12-2018 | Vehicles and Traffic Amendment | Ch. 189 | 
+Ord. No. 2018-04 | 6-12-2018 | Building Construction and Uniform Codes Amendment; Floodplain
+Management | Ch. 83; Ch. 108 | 
+Ord. No. 2018-05 | 7-2-2018 | Grease Management Program | Ch. 112 | 
+Res. No. 2018-10 | 7-2-2018 | Fees Amendment | Ch. A198 | 
+Ord. No. 2018-06 | 9-26-2018 | Budget | NCM | 
+Res. No. 2018-18 | 10-9-2018 | Fees Amendment | Ch. A198 | 
+Ord. No. 2018-07 | 11-14-2018 | Fees Amendment | Ch. A198 | 
+Ord. No. 2018-08 | 11-26-2018 | Zoning Map Amendment | NCM | 
+Ord. No. 2019-01 | 3-12-2019 | Land Development Regulations Amendment | Ch. 130 | 
+Ord. No. 2019-02 | 4-9-2019 | Taxation Amendment | Ch. 180 | 
+
+

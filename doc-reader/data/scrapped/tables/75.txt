@@ -1,0 +1,19 @@
+i      fees
+https://ecode360.com/32097605
+0.23619030585914902
+ | $0 to $1,000 | $30 | 
+ | Over $1,000 | $30 plus $10 for each additional $1,000 or part thereof | 
+
+
+dt      derivation table
+https://ecode360.com/32098139
+0.14767113237554494
+NI | = | Not included in recodified Code | 
+
+
+dl      disposition list
+https://ecode360.com/33232203
+-0.12390506443096225
+ |  |  | 
+
+

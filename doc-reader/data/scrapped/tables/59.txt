@@ -1,0 +1,1079 @@
+noise
+https://ecode360.com/9062023
+0.5656233168343657
+ | Residential | 62 | 55 | 55 | 45 | 
+ | Commercial | 62 | 62 | 55 | 45 | 
+ | Industrial | 70 | 66 | 61 | 51 | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.5276512116418048
+RETAIL COMMERCIAL NEIGHBORHOOD DISTRICTS CNC | 
+(Neighborhood Shopping Centers) | 
+
+
+section         special cases site plan review and unnamed uses
+https://ecode360.com/35402560
+0.5104400625783041
+Restaurant | 3,000 | 
+Commercial/office | 5,000 | 
+Industrial | 20,000 | 
+Warehouse/wholesale/storage | 50,000 | 
+
+
+section        two family districts  rm
+https://ecode360.com/35401409
+0.509179693474811
+Minimum Lot Area | 120,000 square feet | 
+Maximum Lot Area | 400,000 square feet | 
+Minimum Road Frontage | 60 feet | 
+Required Lot Shape | A square 250 feet by 250 feet to fit on lot in an RS-1 District.
+A 200-foot square is required in all other districts. | 
+Minimum Front Yard | 1.5 times the zoning requirements in which the development is
+located | 
+Minimum Side Yard | 1.5 times the zoning requirements in which the development is
+located | 
+Minimum Rear Yard | 1.5 times the zoning requirements in which the development is
+located | 
+Maximum Building Height | 30 feet | 
+Maximum Building Coverage | 20% of lot area | 
+Maximum Impervious Area | 45% of lot area | 
+Minimum Open Space | 55% of lot area | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.5073210992377177
+Minimum lot area | 7,500 square feet | 
+Minimum lot width | 60 feet | 
+Minimum front yard | 10 feet | 
+Minimum lot depth | 100 feet | 
+Minimum lot area per family unit | 3,750 square feet except for residence apartments. | 
+Minimum lot area per hotel or motel room | 1,000 square feet | 
+One side yard minimum | 16 feet | 
+Rear yard minimum | 32 feet | 
+Building coverage maximum | 50% of lot area | 
+Building height maximum | 35 feet | 
+Maximum impervious area (B) | 80% | 
+Minimum open space (B) | 20% | 
+
+
+section        waterfront business districts  wf
+https://ecode360.com/35401970
+0.5063140728721405
+Minimum Lot Area | 10,000 square feet | 10,000 square feet | 
+Minimum Lot Width | 50 feet | 50 feet | 
+Minimum Lot Depth | None | None | 
+Minimum Front Yard (b) | 25 feet | 25 feet | 
+Minimum Side Yard (a) | 20 feet | 20 feet | 
+Minimum Rear Yard | 15 feet | 15 feet | 
+Maximum Building Height | 30 feet | 30 feet | 
+Maximum Building Coverage | 35% of lot area | 25% of lot area | 
+Maximum Impervious Area (c) | 70% of lot area | 60% of lot area | 
+Minimum Open Space (c) | 20% of lot area | 30% of lot area | 
+Minimum Water Frontage | 100 feet | 100 feet | 
+Mean High Water Setback | Refer to Section 3.14 | Refer to Section 3.14 | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.5040441073741804
+Minimum lot width | 75 feet | 
+Minimum lot area | 10,000 square feet for existing family unit | 
+Minimum side yard to other properties in CNC District | 0 feet | 
+Minimum side yard to properties in all other Districts | 16 feet | 
+Minimum front yard | 15 feet | 
+Minimum lot depth | 100 feet | 
+Minimum rear yard | 32 feet | 
+Maximum building height | 65 feet for uses permitted pursuant to Section 7.6.2(d), 40
+feet for all other uses. | 
+Maximum Impervious Area (B) | 80% | 
+Minimum open space (B) | 20% | 
+
+
+section        districts
+https://ecode360.com/35400999
+0.4983886413202834
+One-Family Residence Districts (RS), comprising: | 
+RS-1 Districts | 
+RS-2 Districts | 
+RS-3 Districts | 
+RS-4 Districts | 
+Resource Conservation Districts | 
+Multifamily Residence Districts (RM), comprising: | 
+RM-1 Districts | 
+Limited Business Districts, comprising: | 
+LB Districts | 
+LBB Districts | 
+Office Park Districts | 
+Retail Commercial Districts, comprising: | 
+CA Districts | 
+CF Districts | 
+CNC Districts | 
+TH Districts (Theater) | 
+Waterfront Business Districts, comprising: | 
+WF Districts | 
+Heavy Commercial Districts (CC), comprising: | 
+CC Districts | 
+Coastal Industrial Districts (MC), comprising; | 
+MC Districts | 
+Light Industrial Districts (MA), comprising: | 
+MA Districts | 
+General Industrial Districts (MB), comprising: | 
+MB Districts | 
+
+
+section         coastal and light industrial districts  mc  ma
+https://ecode360.com/35402115
+0.493139432318657
+Minimum lot width | 100 feet | 
+Minimum lot area | 10,000 square feet | 
+Minimum lot depth | 100 feet | 
+Minimum front yard on a street 50 feet wide | 20 feet(A)** | 
+Minimum side yards | 5 feet one side, 15 feet other side | 
+Minimum rear yard | 15% of lot depth or more as required by off-street parking regulations. | 
+Maximum building area | 50% of lot area or less as required by off-street parking regulations.
+The Board of Zoning Appeals may vary these requirements not to exceed
+10% of this requirement when in their opinion the needs may be adequately
+served. | 
+Maximum height | 60 feet**** | 
+Maximum impervious area | 80% (B) | 
+Minimum open space | 20% (B) | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.48963164027418377
+Lot Area | Standard for RS District | 
+Lot Width | Standard for RS District | 
+Lot Depth | Standard for RS District | 
+Front Yard | Standard for RS District | 
+Side Yard | Standard for RS District | 
+Rear Yard | Standard for RS District | 
+Maximum Building Coverage | 25% | 
+Maximum Building Height | 30 feet | 
+
+
+waterfront and harbor management
+https://ecode360.com/9063764
+0.48299558784273333
+ | Sec. 1. Created; duty to establish certain regulations. | 
+ | There shall be a Waterfront
+Authority for the Town of Stratford. Said authority shall make regulations
+concerning wharfs, channels, docks, wharf lines, bulkhead lines and
+anchorage and mooring of vessels, the establishment of public bathhouses
+and bathing beaches and the maintenance and the improvement of beaches
+and harbor conditions and, in general, shall make regulations to improve
+and enhance the natural waterways of the Town so that they may become
+physical assets of the Town. | 
+ | Sec. 2. Composition; appointment and terms of
+office of members. | 
+ | The Town Council of the Town
+of Stratford shall, on or before June 1, 1957, appoint five persons
+to serve as Commissioners on the Authority, one for five years, one
+for four years, one for three years, one for two years and one for
+one year. Each year thereafter, the Town shall appoint one person
+as the successor of the member whose term shall expire, to serve five
+years and until his successor is duly appointed by the Town Council. | 
+ | Sec. 3. Filling of vacancies. | 
+ | Any vacancies on said Authority
+shall be filled by the Town Council for the unexpired portion of the
+term. | 
+ | Sec. 4. Removal of members. | 
+ | Any member of the Authority
+may be removed by the Town Council only for cause, after being given
+a copy of charges against him and an opportunity to be heard on such
+charges before the Town Council, and removal shall be effective only
+upon the 2/3 vote of the Council. | 
+ | Sec. 5. Meetings. | 
+ | The members of the Authority
+shall hold regular meetings at least once each month and shall hold
+additional meetings as may be required in the proper discharge of
+their duties. | 
+ | Sec. 6. Power to buy, sell, lease or condemn
+land; issuance of bonds; levy and collection of fees. | 
+ | Said Authority shall, with
+the approval of the Town Council, have the right to purchase, sell
+and lease land and take land by eminent domain and have the power
+to acquire financial assistance by the issuance of bonds and the power
+to levy and collect fees. | 
+ | Sec. 7. Investigations; duty to hear petitions
+and complaints. | 
+ | Said Authority shall make
+investigations, hear petitions and complaints from citizens, conduct
+investigations and hearings with regard to the carrying out the purposes
+of the Authority and, from time to time, make such surveys, examinations
+and observations as it may deem necessary with regard to carrying
+out its purposes. | 
+ | Sec. 8. Employment of engineers, clerical help,
+etc. | 
+ | Said Authority may employ
+competent engineers and such clerical and other assistance as it may
+deem necessary and proper to carry out the provisions of this Act. | 
+ | Sec. 9. Power of subpoena, etc; authority to
+administer oaths. | 
+ | Said Authority shall have
+the power to subpoena and require the attendance of witnesses and
+the production by them of maps and papers pertinent to any investigation
+and to administer oaths to such witnesses. | 
+ | Sec. 10. Annual report to Town Council. | 
+ | Said Authority shall report
+annually to the Town Council concerning its activities and needs with
+details of expenditures. | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.4799951591366986
+Minimum Lot Area | Standard for WF District | 
+Minimum Lot Width | Standard for WF District | 
+Minimum Lot Depth | Standard for WF District | 
+Front Yard | Standard for WF District | 
+Side Yard | Standard for WF District | 
+Rear Yard | Standard for WF District | 
+Maximum building coverage | 25% | 
+Maximum building Height | 30 feet | 
+
+
+section         coastal and light industrial districts  mc  ma
+https://ecode360.com/35402115
+0.47649333506840763
+Minimum Lot Area | 20,000 square feet | 
+Lot shape | A square 100 feet by 100 feet to fit on lot | 
+Minimum Lot Width | 100 feet | 
+Minimum Lot Depth | 125 feet | 
+Minimum Front Yard | 25 feet (a) | 
+Minimum Side Yard | 15 feet (a, b) | 
+Minimum Rear Yard | 35 feet (a, b) | 
+Maximum Building Height | 40 feet or 2 stories (c) | 
+Maximum Building Coverage | 30% of lot area | 
+Maximum Impervious Area | 70% of lot area (d) | 
+Minimum Open Space | 25% of lot area (d) | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.4762573725323274
+Minimum Lot Area | Standard for CA, MA Districts | 
+Minimum Lot Width | Standard for CA, MA Districts | 
+Minimum Lot Depth | Standard for CA, MA Districts | 
+Front Yard | Standard for CA, MA District* | 
+Side Yard** | CA- 8 feet, MA - 10 feet | 
+Rear Yard | Standard for CA, MA Districts | 
+Maximum Building Coverage | 35% | 
+Maximum Building Height | 35 feet | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.47129735179445886
+Minimum Lot Area for |  | 
+Hotels and inns | 20,000 square feet minimum and at least 1,500 square feet of
+lot area per room | 
+Maximum Impervious Area | 60% | 
+Minimum Open Space | 40% | 
+Minimum Parking Setback | 12 feet | 
+Parking buffer | 6-foot fence of appropriate natural materials such as wood,
+brick or stone and/or appropriate landscaping | 
+
+
+section        one family residence districts  rs
+https://ecode360.com/35401265
+0.4621923233559079
+Minimum lot area, as defined in Section 1.1 for lots that do
+not abut Town-owned open space of 200 or more acres | 20 acres | 
+Minimum lot area, as defined in Section 1.1, for lots that abut
+Town-owned open space of 200 or more acres | 11 acres | 
+Contiguous open space | 25% of gross parcel area | 
+Minimum Lot depth | 125 feet | 
+Minimum lot width | 150 feet | 
+Maximum building height | 30 feet | 
+Front building setback | When the parcel adjoins or abuts a single-family district, this
+setback shall be 1 1/2 times the setback of the underlying district.
+Where the applicant's property line abuts an open space or recreational
+area, the setback shall be as required in the underlying district. | 
+Side building setback | When the parcel adjoins or abuts a single-family district, this
+setback shall be two times the setback of the underlying district.
+Where the applicant's property line abuts an open space or recreational
+area, the setback shall be as required in the underlying district. | 
+Rear building setback | When the parcel adjoins or abuts a single-family district, this
+setback shall be two times the setback of the underlying district.
+Where the applicant's property line abuts an open space or recreational
+area, the setback shall be as required in the underlying district. | 
+20-acre minimum |  | 
+Setback between buildings | 20 feet | 
+Maximum community building area | 3,500 square feet | 
+Maximum building coverage | 15% of lot area | 
+Maximum impervious area | 30% of lot area | 
+Maximum density | 2.0 units per acre of lot | 
+Area Parking | Two per dwelling unit and six per 1,000 square feet of community
+building and visitor parking | 
+11-acre minimum |  | 
+Setback between buildings | 25 feet | 
+Maximum community building area | 3,500 square feet | 
+Maximum building coverage | 15% of lot area | 
+Maximum impervious area | 25% of lot area | 
+Maximum density area | 1.75 units per acre of lot | 
+Maximum size of units | 2,100 square feet | 
+Parking | Two per dwelling unit and six per 1,000 square feet of community
+building and visitor parking | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.45653109815891163
+Minimum Lot Area for hotels/inns | 15,000 square feet minimum and at least 2,000 square feet of
+lot area per room | 
+Maximum Impervious Area | 40% | 
+Minimum Open Space | 60% | 
+Minimum Parking Setback | 12 feet. | 
+Parking buffer | 6-foot fence of appropriate natural materials such as wood,
+brick or stone and/or appropriate landscaping | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.44729708972885807
+ | 
+ABOVE: Appropriate layout of surface parking lots in the
+TOD Overlay District.
+BELOW: Parking between buildings and the street disrupts
+the pedestrian experience, and is discouraged. | 
+ | 
+
+
+section        limited business districts  lb  civic center
+https://ecode360.com/35401480
+0.4412091474758726
+LBB DISTRICTS | 
+For areas of close and irregular contours where limited business
+use or residence apartments is indicated in the Town plan. | 
+
+
+section         coastal and light industrial districts  mc  ma
+https://ecode360.com/35402115
+0.4378402226152811
+** | Where adjacent to a residential zone 25 feet on adjacent side
+must be provided. | 
+*** | For streets under 50 feet wide, add 25 feet to these figures
+and measure from the center line of existing pavement. | 
+**** | Elevator, mechanical, service, HVAC and/or maintenance components
+of the building may exceed the established building height limit by
+a maximum of 5 feet, subject to any such component or components being
+located no closer than 15 feet from all edges of the roof and enclosed
+or otherwise screened with materials, and/or plantings compatible
+with the design of the building to the extent necessary to prevent
+any such elevator, mechanical, service, HVAC and/or maintenance components
+of the building from being visible from any street/or streets and/or
+highways which abut the building. All screening shall not exceed 5
+feet in height. | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.4351024794917645
+* | The minimum required front yard shall consist of nonimpervious
+surface and shall be landscaped with trees, shrubs, lawns, or suitable
+ground cover. Provision shall be made for walkways and driveways necessary
+for operation. | 
+** | Where commercial or industrial property abuts a residential
+district a twenty-five-foot minimum setback shall be required. | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.43480235611901663
+Maximum Impervious Area | 40% | 
+Minimum Open Space | 60% | 
+Parking Setback | 12 feet | 
+Parking buffer | 6-foot fence of appropriate natural materials such as brick,
+wood or stone and/or appropriate landscaping. | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.4332504939414019
+Minimum lot area | 40,000 square feet | 
+Minimum lot width | 100 square feet | 
+Minimum building size | 4,000 square feet | 
+Maximum building size | No buildings or structures shall exceed a floor area ratio of
+25% of the lot area. | 
+
+
+section        limited business districts  lb  civic center
+https://ecode360.com/35401480
+0.4182630318042463
+Minimum lot width | 75 feet | 
+Minimum lot depth | 100 feet | 
+Minimum lot area | 9,000 square feet | 
+Minimum side yard | 12 feet | 
+Minimum rear yard | 30 feet | 
+Maximum building height | 30 feet | 
+Minimum lot area per family unit | 3,750 square feet | 
+Maximum Building Coverage | 25% | 
+Maximum Impervious Area (B) | 70% | 
+Minimum Open Space (A) (B) | 30% | 
+
+
+section        waterfront business districts  wf
+https://ecode360.com/35401970
+0.4162702130431021
+* | A mixed-use project is one in which the development contains
+at least one marine use and at least one non-marine use so long as
+the marine use, in particular any in-water activities and public access,
+are developed to the maximum extent feasible. | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.41168699002988307
+Except on lots greater than five acres, there shall be no more
+than two separate retail entities located in any one building structure
+in any CF District, and there shall be no more than one building constructed
+on each lot. | 
+
+
+section        one family residence districts  rs
+https://ecode360.com/35401265
+0.40999820660071434
+Minimum lot area | 200,000 square feet | 
+Lot shape | A square 400 x 400 to fit on lot | 
+Minimum lot width | 400 feet | 
+Minimum lot depth | 450 feet | 
+Minimum front yard | 50 feet | 
+Minimum side yard | 75 feet | 
+Minimum rear yard | 100 feet | 
+Maximum building height | 15 feet, one story | 
+Maximum building coverage | 0.5% (1/2 of 1%) | 
+Maximum impervious area | 0.5% (1/2 of 1%) | 
+Minimum open space | 99% | 
+
+
+section         coastal and light industrial districts  mc  ma
+https://ecode360.com/35402115
+0.40919286222302553
+Maximum building coverage | 30% | 
+Maximum impervious area | 70% | 
+Minimum open space area | 30% | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.40908074757455803
+ | 
+Each of these store entrances uses an accent feature that
+is inviting to pedestrians and creates visual interest. Such treatments,
+while dependent on site- specific factors and the character of the
+store, are encouraged. | 
+
+
+section        two family districts  rm
+https://ecode360.com/35401409
+0.3850917683531444
+Any affordable housing development constructed within the Town
+shall be in full compliance with all of the requirements of this regulation
+as well as all other applicable Town ordinances and regulations. | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.3742805854018658
+ | 
+ | 
+The windows at top are obstructed by signage or display
+items, detracting from the streetscape, which should be avoided. The
+windows at the bottom are open and inviting to the pedestrian. | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.37227718878855065
+Setback diagram showing minimum required yards in the
+TOD Overlay District. Front and side yards may be waived in order
+to achieve consistency with existing context. | 
+
+
+section        two family districts  rm
+https://ecode360.com/35401409
+0.3645411811679234
+Franklin | 
+Oronoque-James Farm | 
+Birdseye | 
+Whitney | 
+Center-Academy Hill | 
+Garden | 
+Wilcoxson | 
+Lordship | 
+Second Hill | 
+Chapel | 
+Johnson-Fox Hill | 
+Nichols | 
+Stonybrook | 
+
+
+section        the mayor
+https://ecode360.com/9207677
+0.3449716423632674
+ | Any person assuming the office of Mayor pursuant
+to Section 1.3 (a) for a period of greater than forty-eight (48) consecutive
+hours shall receive compensation in an amount equal to the pro-rated
+salary of the Mayor then in effect, retroactive to the first date
+of such service. | 
+
+
+housing standards
+https://ecode360.com/9061844
+0.3403033601952472
+ | "Every dwelling unit shall be provided with safe, unobstructed
+means of egress as required under the Building Code of the Town of
+Stratford and the applicable requirements of the State of Connecticut." | 
+
+
+section        the mayor
+https://ecode360.com/9207677
+0.335350879217268
+ | The Mayor shall have such additional powers
+and shall perform such other duties as may from time to time be require
+of him or her by ordinance, provided that the same are not inconsistent
+with this Charter or the provisions of the Connecticut General Statutes. | 
+
+
+housing standards
+https://ecode360.com/9061844
+0.33267248556104956
+ | "There is hereby created a Board of Appeals which shall consist
+of the building official, the Fire Chief, the Director of Health,
+the Planning Administrator and the Town Manager. Any member of the
+board may designate an official of his department to represent him
+at meetings of the board." | 
+
+
+section        legal department
+https://ecode360.com/9207728
+0.3229865695095476
+ | The Mayor shall, within two (2) business days
+of making the nomination, notify the Town Clerk, the Council Chairman,
+and the Council Clerk, in writing, of said nomination. Not later than
+thirty (30) days following receipt of the notice of nomination by
+the Council Chairman, the Town Council may, by an affirmative vote
+of two-thirds of the entire membership, vote to reject the nomination.
+In the event the Town Council fails to act, or fails to reject the
+nomination, the nomination shall be deemed approved. In the event
+the nomination is rejected, the Mayor may appoint an acting Town Attorney,
+but in no event shall the person serve in the position for a period
+of time in excess of ninety (90) calendar days. The Mayor shall, within
+said ninety (90) days, following the disapproval by the Town Council
+of the appointment, nominate a Town Attorney, subject to the disapproval
+provisions of this Section. Said nominee may be the same person previously
+submitted, but said person shall not be submitted for approval more
+than twice. | 
+
+
+section        two family districts  rm
+https://ecode360.com/35401409
+0.32040261296387074
+RM-1 | 7,500 | 60 | 100 | 15 | 10 | 25 | 33 1/3 | 30 or as specified in Section 5.3.4 | 3,750 or as specified in Section 5.3.3 | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.3169851030454648
+Variation in roof styles creates visual interest. | 
+
+
+housing standards
+https://ecode360.com/9061844
+0.30208779136897623
+ | "Any person, firm or corporation who shall violate any provision
+of this ordinance may, upon conviction, be punished by a fine of not
+more than $100 or by imprisonment for not more than 30 days, and each
+day's failure to comply with any such provision shall constitute
+a separate violation." | 
+
+
+xiii      property tax exemption for veterans
+https://ecode360.com/14120812
+0.2997036224371803
+ | Step 1 | $0 | $14,400 | $10,000 | $8,000 | $7,000 | 
+ | Step 2 | $14,001 | $19,400 | $9,000 | $7,000 | $6,000 | 
+ | Step 3 | $19,401 | $24,200 | $8,000 | $6,000 | $5,000 | 
+ | Step 4 | $24,201 | $28,800 | $7,000 | $5,000 | $4,000 | 
+ | Step 5 | $24,801 | $35,300 | $6,000 | $4,000 | $3,000 | 
+ | Step 6 | $35,301 | $41,800 | $5,000 | $3,000 | $2,000 | 
+ | Step 7 | $41,801 | Maximum allowed | By state law $4,000 | $2,000 | $1,000 | 
+
+
+i      certificates of appreciation
+https://ecode360.com/9047227
+0.29147857022833035
+"THE TOWN OF STRATFORD,
+CONNECTICUT. | 
+"In grateful recognition of the loyal and devoted
+public service rendered by having _________ served with fidelity and
+devotion as a member of the ____ From ____ To ____ As an evidence
+of its sincere appreciation. This Certificate has been issued pursuant
+to a direction of its Town Council, acting on behalf of his fellow-Townsmen,
+as an enduring testimonial to his unselfish service, in the faithful
+discharge of a Public Trust, and in Witness Whereof has caused the
+same to be subscribed and the Corporate Seal of the Town of Stratford
+to be affixed hereto, by its Town Clerk this ____ day of _______,
+A.D. 19__. | 
+"ATTEST: | 
+______________________
+"Town Clerk of the
+Town of Stratford." | 
+(Town Seal) | 
+
+
+section         signs
+https://ecode360.com/35402401
+0.26958473833423824
+Signs five feet in height (maximum) | 12 | 32 | 44 | 56 | 
+Signs over five feet in height but not exceeding 10 feet in
+height | 9 | 24 | 36 | 44 | 
+
+
+part        fats  oils and grease pretreatment
+https://ecode360.com/32286933
+0.25442201791883123
+ | Equipment not registered | 30 | 
+ | Equipment not properly installed | 90 | 
+ | Major violations (outdoor and indoor) | 30 | 
+ | Major violations | 90 | 
+
+
+section        two family districts  rm
+https://ecode360.com/35401409
+0.25201740316095333
+1 room | 0.5 equivalent | 
+2 or 3 rooms, 1 bedroom | 1.0 equivalent | 
+4 rooms, 2 bedrooms | 2.0 equivalents | 
+5 rooms, 3 bedrooms | 3.0 equivalents | 
+
+
+section         signs
+https://ecode360.com/35402401
+0.24053067009140686
+TYPES OF SIGNS | 
+
+
+section        two family districts  rm
+https://ecode360.com/35401409
+0.22779652457873562
+RS-1 | 3.5 units | 
+RS-2 | 4.0 units | 
+RS-3 | 6.0 units | 
+RS-4 | 6.0 units | 
+RM-1, CA, LB, LBB | 11.5 units | 
+
+
+ii      sewer use
+https://ecode360.com/8175957
+0.18156646329528375
+ | Arsenic4 |  |  |  | 
+ | Aluminum | 2.0 | 4.0 | 6.0 | 
+ | Barium | 2.0 | 4.0 | 6.0 | 
+ | Boron4 |  |  |  | 
+ | Beryllium4 |  |  |  | 
+ | Cadmium2 | 0.1 (0.07) | 0.5 (0.11) | 0.75 | 
+ | Chromium, hexavalent | 0.1 | 0.2 | 0.3 | 
+ | Chromium, total | 1.0 | 2.0 | 3.0 | 
+ | Copper | 1.0 | 2.0 | 3.0 | 
+ | Cyanide, amenable | 0.1 | 0.2 | 0.3 | 
+ | Cyanide, total | 0.65 | 1.2 | __ | 
+ | Fluoride | 20.0 | 30 | 45.0 | 
+ | Gold | 0.1 | 0.5 | 0.75 | 
+ | Iron4 | 3.0 | 5.0 | 7.5 | 
+ | Lead | 0.1 | 0.5 | 0.75 | 
+ | Mercury4 |  |  |  | 
+ | Nickel | 1.0 | 2.0 | 3.0 | 
+ | Silver | 0.1 | 0.5 | 0.75 | 
+ | Tin | 2.0 | 4.0 | 6.0 | 
+ | Zinc | 1.0 | 2.0 | 3.0 | 
+
+
+section        heavy commercial districts  cc
+https://ecode360.com/35402098
+0.16512545455051716
+CC | 20,000 | 100 | 30(A) | 16 | 30 | 50 | 35 | 80(B) | 20(B) | 
+
+
+section        one family residence districts  rs
+https://ecode360.com/35401265
+0.15724544664374832
+RS-1 | 40,000 | 150 feet | 125 feet | 40 feet | 35 feet | 35 feet | 10% | 30 feet | 
+RS-2 | 20,000 | 100 feet | 125 feet | 30 feet | 20 feet | 35 feet | 15% | 30 feet | 
+RS-3 | 10,000 | 100 feet | 90 feet | 25 feet | 12 feet | 30 feet | 20% | 30 feet | 
+RS-4 | 7,500 | 60 feet | 90 feet | 20 feet | 10 feet | 25 feet | 25% | 30 feet | 
+
+
+iii      senior citizen and disabled persons tax relief
+https://ecode360.com/9063376
+0.14396560466196273
+ | Step 1 | $0 | $16,100 | $500 | $400 | 
+ | Step 2 | $16,100 | $21,700 | $450 | $360 | 
+ | Step 3 | $21,700 | $27,100 | $400 | $320 | 
+ | Step 4 | $27,100 | $32,300 | $350 | $280 | 
+ | Step 5 | $32,300 | $39,500 | $300 | $240 | 
+ | Step 6 | $39,500 | $46,900 | $250 | $160 | 
+
+
+section        two family districts  rm
+https://ecode360.com/35401409
+0.10694113855229948
+RS-1 | 1.00 | 1.25 | 2.25 | 3.50 | 
+RS-2 | 2.00 | 2.25 | 3.00 | 4.00 | 
+RS-3 | 4.00 | 4.25 | 5.00 | 6.00 | 
+RS-4 | 5.30 | 5.50 | 5.50 | 6.00 | 
+RM-1, CA, LB, LBB | 10.60 | 10.80 | 11.00 | 11.50 | 
+
+
+dl      disposition list
+https://ecode360.com/9207673
+0.06298140164355781
+Ord. No. 18-14 | 2-11-2019 | Streets and Sidewalks: Roadside Memorial Markers | Ch. 186, Art. VIII | 42 | 
+Ord. No. 18-15 | 3-11-2019 | Parks and Beaches: Dog Park and Exercise Area Amendment | Ch. 152, Art. III | 42 | 
+Ord. No. 18-16 | 2-11-2019 | Parks and Beaches: Recreational Areas Amendment | Ch. 152, Art. II | 42 | 
+Ord. No. 18-17 | 2-11-2019 | Barbershops, Hairdressing and Cosmetology Shops Amendment | Ch. 55 | 42 | 
+Ord. No. 19-01 | 3-11-2019 | Littering Amendment; Solid Waste Amendment | Ch. 133; Ch. 182 | 42 | 
+Ord. No. 19-02 | 4-8-2019 | Citation Hearings, Office of Amendment | Ch. 6 | 42 | 
+Ord. No. 19-03 | 4-8-2019 | Wetlands and Watercourses Amendment | Ch. 217 | 42 | 
+Ord. No. 19-04 | 4-8-2019 | Groundwater and Vapor Intrusion Zones Amendment | Ch. 113 | 42 | 
+Ord. No. 19-05 | 4-8-2019 | Appropriation | NCM | 42 | 
+Ord. No. 19-06 | 4-8-2019 | Bond | NCM | 42 | 
+Ord. No. 19-07 | 5-2-2019 | Budget | NCM | 42 | 
+Ord. No. 19-08 | 5-2-2019 | Tax Rate | NCM | 42 | 
+Ord. No. 19-09 | 5-2-2019 | Appropriation | NCM | 42 | 
+Ord. No. 19-10 | 5-2-2019 | Appropriation | NCM | 42 | 
+Ord. No. 19-11 |  |  | Tabled |  | 
+Ord. No. 19-12 |  |  | Tabled |  | 
+Ord. No. 19-13 | 5-13-2019 | Vehicles and Traffic: Parking and Traffic Generally Amendment | Ch. 203, Art. I | 42 | 
+Ord. No. 19-14 | 7-8-2019 | Vessel-Launching Facilities Amendment | Ch. 60 | 42 | 
+Ord. No. 19-15 | 7-8-2019 | Boards, Commissions and Agencies: Arts Commission Amendment | Ch. 5, Art. IX | 42 | 
+Ord. No. 19-16 | 7-8-2019 | Boards, Commissions and Agencies: Longbrook Park Commission
+Amendment | Ch. 5, Art. V | 42 | 
+Ord. No. 19-17 | 7-8-2019 | Boards, Commissions and Agencies: Short Beach Park Commission
+Amendment | Ch. 5, Art. XI | 42 | 
+Ord. No. 19-18 | 7-8-2019 | Boards, Commissions and Agencies: Veterans' Monument Preservation
+Commission for Academy Hill Amendment | Ch. 5, Art. XVII | 42 | 
+ | 8-19-2019 | Zoning amendment | Ch. A220 | 42.1 | 
+Ord. No. 19-19 | 9-9-2019 | Taxation: Tax Incentive Program | Ch. 191, Art. V | 42 | 
+Ord. No. 19-20 | 10-15-2019 | Boards, Commissions and Agencies: Stratford Commission on Aging;
+Committees: Stratford Commission on Aging Repealer | Ch. 5, Art. XVI; Ch. 7, Art. II | 42 | 
+ | 10-23-2019 | Zoning amendment | Ch. A220 | 42.1 | 
+ | 1-22-2020 | Zoning amendment | Ch. A220 | 42.1 | 
+Ord. No. 20-1 | 2-10-2020 | Boards, Commissions and Agencies: Housing Partnership Amendment | Ch. 5, Art. X | 43 | 
+Ord. No. 20-2 | 5-11-2020 | Vehicles and Traffic: Parking and Traffic Generally Amendment | Ch. 203, Art. I | 43 | 
+Ord. No. 20-3 | 5-11-2020 | Finances: Solid Waste Remediation Special Revenue Fund | Ch. 14, Art. XXV | 43 | 
+Ord. No. 20-4 | 5-21-2020 | Budget | NCM | 43 | 
+Ord. No. 20-5 | 5-21-2020 | Tax Levy | NCM | 43 | 
+Ord. No. 20-06 | 6-8-2020 | Appropriation | NCM | 43 | 
+Ord. No. 20-07 | 6-8-2020 | Bond | NCM | 43 | 
+Ord. No. 20-08 | 6-8-2020 | Appropriation | NCM | 43 | 
+Ord. No. 20-09 | 6-8-2020 | Bond | NCM | 43 | 
+Ord. No. 20-10 | 11-9-2020 | Appropriation | NCM | 43 | 
+Ord. No. 20-11 | 11-9-2020 | Bond | NCM | 43 | 
+
+
+section        retail commercial districts  ca and cnc
+https://ecode360.com/35401595
+0.05519037633397142
+ | 
+
+
+section        miscellaneous provisions
+https://ecode360.com/9207857
+-0.024829107038386283
+ | 
+
+
+dl      disposition list
+https://ecode360.com/9207673
+-3.1563643905492538
+Ord. No. 03-09 | 11-13-2007 | Sale of Town-owned real property | Ch. 35 | 
+Ord. No. 03-23 | 2-9-2004 | Fee for delinquent motor vehicle taxes | Ch. 191, Art. IX | 
+Ord. No. 04-02 | 3-22-2004 | Personal property tax amnesty program | Ch. 191, Art. X | 
+Ord. No. 04-03 | 5-10-2004 | Academy Hill Veterans' Monument Trust Fund | Ch. 14, Art. XVII | 
+Ord. No. 04-04 | 5-10-2004 | Veterans' Monument Preservation Commission for
+Academy Hill | Ch. 5, Art. XVII | 
+Ord. No. 04-05 | 3-29-2004 | Common Interest Community Liaison Committee | Repealed by Ord. No. 06-06 | 
+Ord. No. 04-11 | 9-13-2004 | Property maintenance amendment | Ch. 161 | 
+Referendum | 11-2-2004 | Terms of office: limits amendment | Ch. 32, Art. I | 
+Ord. No. 04-17 | 5-8-2006 | All-terrain vehicles amendment | Ch. 48 | 
+Ord. No. 04-18 | 11-8-2004 | Naming of Fire Headquarters Building | NCM | 
+Ord. No. 05-01 | 4-11-2005 | Feeding of wildlife | Repealed by Ord. No. 11-13 | 
+Ord. No. 05-02 | 2-14-2005 | Tax exemption for nonprofit use of property | Ch. 191, Art. XI | 
+Ord. No. 05-04 | 4-11-2005 | Discharge of firearms amendment | Ch. 212, Art. II | 
+Ord. No. 05-11 | 6-13-2005 | Recognition of individuals: policy | Ch. 27, Art. I | 
+Ord. No. 05-12 | 6-13-2005 | Recycling amendment | Ch. 165 | 
+Ord. No. 05-14 | 6-13-2005 | Auctioneers amendment | Ch. 52, Art. I | 
+Ord. No. 05-15 | 6-13-2005 | Food-handling establishments amendment | Ch. 105 | 
+Ord. No. 05-16 | 6-13-2005 | Barbershops, hairdressing and cosmetology shops
+amendment | Ch. 55 | 
+Ord. No. 05-17 | 6-13-2005 | Health regulations: lead paint amendment | Ch. 120, Part 1 | 
+Ord. No. 05-18 | 6-13-2005 | Air pollution: fugitive dust amendment | Ch. 44, Art. II | 
+Ord. No. 05-19 | 6-13-2005 | Domestic animal complaints | Ch. 83, Art. VIII | 
+Ord. No. 05-20 | 6-13-2005 | Public swimming pools | Ch. 120, Part 3 | 
+Ord. No. 05-23 | 12-8-2005 | Discharge of firearms amendment | Ch. 212, Art. II | 
+Ord. No. 05-26 | 12-8-2005 | Ethics Commission; Ethics Code | Superseded by Ord. No. 08-09 | 
+Ord. No. 05-27 | 10-11-2005 | Reserve for Emergencies Fund amendment | Ch. 14, Art. XII | 
+Ord. No. 05-30 | 12-8-2005 | Sikorsky Memorial Airport Noise Abatement Committee | Ch. 7, Art. IV | 
+Ord. No. 05-31 | 12-8-2005 | Property maintenance amendment | Ch. 161 | 
+Ord. No. 05-35 | 12-8-2005 | Noise amendment | Ch. 142 | 
+Ord. No. 06-02 | 4-10-2006 | Original pension ordinance amendment | NCM | 
+Ord. No. 06-03 | 4-10-2006 | Eminent domain | Ch. 12 | 
+Ord. No. 06-04 | 4-10-2006 | Senior citizen tax relief amendment | Superseded by Ord. No. 07-05 | 
+Ord. No. 06-05 | 6-12-2006 | Repeal of World War II Memorial Commission | NCM | 
+Ord. No. 06-06 | 5-8-2006 | Common Interest Community Liaison Committee
+(repealed) | Ch. 5, Art. XVI (footnote only) | 
+Ord. No. 06-07 | 5-25-2006 | Annual budget | NCM | 
+Ord. No. 06-08 | 5-25-2006 | Tax rate | NCM | 
+Ord. No. 06-09 | 5-8-2006 | Conservation Commission amendment | Ch. 5, Art. I | 
+Ord. No. 06-10 | 5-8-2006 | Roosevelt Forest amendment | Ch. 152, Art. I | 
+Ord. No. 06-11 | 5-8-2006 | Traffic Authority amendment | Ch. 5, Art. XV | 
+Ord. No. 06-12 | 5-8-2006 | Parking and traffic generally amendment | Ch. 203, Art. I | 
+Ord. No. 06-13 | 6-22-2008 | Appropriation | NCM | 
+Ord. No. 06-14 | 6-22-2006 | Bond | NCM | 
+Ord. No. 06-15 | 8-14-2006 | Appropriation | NCM | 
+Ord. No. 06-16 | 8-14-2006 | Bond | NCM | 
+Ord. No. 06-19 | 8-14-2006 | Shellfish Commission amendment | Ch. 5, Art. II | 
+Ord. No. 06-20 | 8-14-2006 | Transfer of assets in Retiree Benefits Reserve
+Fund to Retirement Fund | NCM | 
+Ord. No. 06-21 | 3-12-2007 | Town agenda repealed | Ch. 3 (reference statement only) | 
+Ord. No. 06-23 | 11-13-2007 | Town Historian amendment | Ch. 22, Art. V | 
+Ord. No. 06-24 | 8-14-2006 | Disposition of funds reimbursed by state or
+federal government for public projects | Ch. 14, Art. XVIII | 
+Ord. No. 06-26 | 12-11-2006 | Railroad station parking amendment | Ch. 203, Art. III | 
+Ord. No. 07-01 | 4-9-2007 | Dog park and exercise area | Ch. 152 Art. III | 
+Ord. No. 07-02 | 3-12-2007 | Acceptance of charitable donations | Ch. 14, Art. XIX | 
+Ord. No. 07-03 | 3-12-2007 | Rules of construction amendment; nomenclature
+change | Chs. 1, Art. I; 5, Arts. I, II, and XV; 6; 7, Art. II; 8, Arts. I and II; 14, Art. I; 22, Art. V; 25, Arts. VI and VII; 42; 44, Arts. I and III; 58, Art. I; 83, Art. I; 88; 116, Art. V; 133; 140, Art. I; 143; 144, Art I; 153; 161; 182; 186, Arts. II, IV, and V; 191, Arts V and VI; 196; 203, Art. III; 214 | 
+Ord. No. 07-04 | 3-12-2007 | Waiver of taxes | Ch. 191, Art. XII | 
+Ord. No. 07-05 | 6-11-2007 | Senior citizen and disabled persons tax relief | Ch. 191, Art. III | 
+Ord. No. 07-06 | 9-14-2009 | Architectural Review Board | Ch. 5, Art. XVIII | 
+Ord. No. 07-07 | 5-29-2007 | Levy of tax rate | NCM | 
+Ord. No. 07-09 | 11-13-2007 | Tax relief account amendment | Ch. 14, Art. XIII | 
+Ord. No. 07-11 | 5-29-2007 | Annual budget | NCM | 
+Ord. No. 07-12 | 5-29-2007 | Tax rate | NCM | 
+Ord. No. 07-14 | 5-14-2007 | Proposal for fiscal responsibility and tax relief | Repealed by Ord. No. 12-04 | 
+Ord. No. 07-16 | 9-10-2007 | Temporary borrowing | NCM | 
+Ord. No. 07-17 | 9-10-2008 | Appropriation | NCM | 
+Ord. No. 07-20 | 7-14-2008 | Remediation of hazardous wastes | Chs. 6; 118, Art. II | 
+Ord. No. 07-22 | 11-13-2007 | Emergency management services | Ch. 13 | 
+Ord. No. 07-23 | 5-11-2009 | Stratford Reserve Fund (Long Beach West) | Ch. 14, Art. XX | 
+Ord. No. 08-02 | 5-27-2008 | Annual budget | NCM | 
+Ord. No. 08-03 | 5-27-2008 | Tax rate | NCM | 
+Ord. No. 08-04 | 9-8-2008 | Property maintenance: antiblight program amendment | Ch. 161, Art. I | 
+Ord. No. 08-05 | 10-14-2008 | Defibrillators | Ch. 80 | 
+Ord. No. 08-07 | 8-11-2008 | Appropriation | NCM | 
+Ord. No. 08-08 | 8-11-2008 | Bond | NCM | 
+Ord. No. 08-09 | 9-14-2009 | Ethics Commission; Ethics Code | Ch. 5, Art. IV | 
+Referendum | 11-4-2008 | Charter amendments | Charter | 
+Ord. No. 08-10 | 11-10-2008 | EMS funding amendment | Ch. 88 | 
+Ord. No. 08-11 | 11-10-2008 | Great Meadows Park | Ch. 152, Art. IV | 
+Ord. No. 08-14 | 12-15-2008 | Appropriation | NCM | 
+Ord. No. 08-15 | 12-15-2008 | Appropriation | NCM | 
+Ord. No. 09-01 | 5-11-2009 | Flagmen and safety officer on streets under construction amendment | Ch. 186, Art. VI | 
+Ord. No. 09-02 |  |  | Not adopted | 
+Ord. No. 09-03 |  |  | Not adopted | 
+Ord. No. 09-04 |  |  | Not adopted | 
+Ord. No. 09-05 |  |  | Not adopted | 
+Ord. No. 09-06 |  |  | Not adopted | 
+Ord. No. 09-07 | 7-13-2009 | Noise amendment | Ch. 142 | 
+Ord. No. 09-08 | 5-11-2009 | Property tax exemption for veterans | Ch. 191, Art. XIII | 
+Ord. No. 09-09 | 5-11-2009 | Appropriation | NCM | 
+Ord. No. 09-10 | 7-13-2009 | Noise amendment | Ch. 142 | 
+Ord. No. 09-11 | 5-11-2009 | Historic District amendment | Ch. 121 | 
+Ord. No. 09-12 |  | Appropriation | Not adopted | 
+Ord. No. 09-13 |  | Bonds | Not adopted | 
+Ord. No. 09-14 | 5-7-2009 | Annual budget | NCM | 
+Ord. No. 09-15 | 5-7-2009 | Tax rate | NCM | 
+Ord. No. 09-16 | 2-8-2010 | Greenway improvement | Ch. 112 | 
+Ord. No. 09-17 | 5-7-2009 | Senior citizens and disabled persons tax relief amendment | Ch. 191, Art. III | 
+Ord. No. 09-18 | 6-22-2009 | Appropriation | NCM | 
+Ord. No. 09-19 | 6-22-2009 | Bond | NCM | 
+Ord. No. 09-20 |  | Appropriation | Not adopted | 
+Ord. No. 09-21 |  | Bond | Not adopted | 
+Ord. No. 09-22 | 9-14-2009 | Appropriation | NCM | 
+Ord. No. 09-23 | 9-14-2009 | Appropriation | NCM | 
+Ord. No. 09-24 | 7-13-2009 | Horseshoe crabs amendment | Ch. 175, Art. III (footnote only) | 
+Ord. No. 09-25 |  | Salary of Mayor | Not adopted | 
+Ord. No. 09-26 | 8-10-2009 | Defibrillators amendment | Ch. 80 | 
+ | 9-14-2009 | Horseshoe crabs | Ch. 175, Art. III (footnote only) | 
+ | 10-13-2009 | Great Meadows Park amendment | Ch. 152, Art. IV | 
+ | 3-8-2010 | Arts Commission amendment | Ch. 5, Art. IX | 
+ | 3-8-2010 | Boothe Park Commission amendment | Ch. 5, Art. VI | 
+Ord. No. 10-01 | 3-8-2010 | Office of Citation Hearings amendment | Ch. 6 | 
+Ord. No. 10-02 | 3-8-2010 | Flood damage prevention amendment | Ch. 102 | 
+Ord. No. 10-03 | 3-8-2010 | Antiblight program amendment | Ch. 161, Art. I | 
+Ord. No. 10-04 | 5-10-2010 | Annual budget | NCM | 
+Ord. No. 10-05 | 5-10-2010 | Tax rate | NCM | 
+Ord. No. 10-06 | 6-14-2010 | Tow trucks | Ch. 196 | 
+Ord. No. 10-07 | 4-12-2010 | Barbershops, hairdressing and cosmetology shops amendment | Ch. 55 | 
+Ord. No. 10-08 | 6-14-2010 | Appropriation amendment | NCM | 
+Ord. No. 10-09 | 6-14-2010 | Appropriation amendment | NCM | 
+Ord. No. 10-10 | 6-14-2010 | Appropriation amendment | NCM | 
+Ord. No. 10-11 | 6-14-2010 | Claims for monetary damages amendment | Ch. 14, Art. XVI | 
+Ord. No. 10-12 | 7-14-2010 | Street sales amendment | Ch. 116, Art. III | 
+Ord. No. 10-13 | 6-14-2010 | Ice cream truck vendors | Ch. 116, Art. VI | 
+Ord. No. 10-14 | 6-14-2010 | Flood damage prevention amendment | Ch. 102 | 
+Ord. No. 10-15 |  |  | Tabled | 
+Ord. No. 10-16 |  |  | Tabled | 
+Ord. No. 10-17 |  |  | Tabled | 
+Ord. No. 10-18 |  |  | Tabled | 
+Ord. No. 10-19 | 11-10-2010 | Appropriation | NCM | 
+Ord. No. 10-20 | 11-10-2010 | Bond | NCM | 
+Ord. No. 10-21 | 11-10-2010 | Appropriation | NCM | 
+Ord. No. 10-22 | 11-10-2010 | Bond | NCM | 
+Ord. No. 10-23 |  |  | Tabled | 
+Ord. No. 10-24 | 4-11-2011 | Driveways, curbs and sidewalks amendment | Ch. 186, Art. IV | 
+Ord. No. 10-25 |  |  | Tabled | 
+Ord. No. 10-26 | 10-12-2010 | Antiblight program amendment | Ch. 161, Art. I | 
+Ord. No. 10-27 | 10-12-2010 | Office of Citation Hearings amendment | Ch. 6 | 
+Ord. No. 10-28 | 10-12-2010 | Constable | Ch. 22, Art. VI | 
+Ord. No. 10-29 | 10-12-2010 | Disclosure of rental income and expenses | Ch. 191, Art. XIV | 
+Ord. No. 10-30 | 5-9-2011 | Notification requirements for noncontract work amendment | Ch. 8, Art. II | 
+Ord. No. 10-35 | 2-14-2011 | Greater Bridgeport Regional Council of Elected Officials | Ch. 29, Art. II | 
+Ord. No. 11-02 | 2-14-2011 | Dog leash amendment; recreational areas amendment | Chs. 83, Art. III; 152, Art. II | 
+Ord. No. 11-05 | 4-11-2011 | Tow trucks amendment | Ch. 196 | 
+Ord. No. 11-06 | 5-9-2011 | Annual budget | NCM | 
+Ord. No. 11-07 | 5-9-2011 | Tax rate | NCM | 
+Ord. No. 11-10 | 5-9-2011 | Ice cream truck vendors amendment | Ch. 116, Art. VI | 
+Ord. No. 11-11 | 5-23-2011 | Appropriation amendment | NCM | 
+Ord. No. 11-12 | 5-23-2011 | Bond | NCM | 
+Ord. No. 11-13 | 11-14-2011 | Feeding of wildlife | Ch. 83, Art. VII | 
+Ord. No. 11-14 | 9-12-2011 | Appropriation | NCM | 
+Ord. No. 11-15 | 9-12-2011 | Bond | NCM | 
+Ord. No. 11-16 | 9-12-2011 | Appropriation | NCM | 
+Ord. No. 11-17 | 9-12-2011 | Appropriation | NCM | 
+Ord. No. 11-18 | 11-14-2011 | Compensation of Mayor | NCM | 
+Ord. No. 11-19 | 11-14-2011 | Appropriation amendment | NCM | 
+Ord. No. 11-20 | 11-14-2011 | Bond | NCM | 
+Ord. No. 12-04 | 4-9-2012 | Fiscal responsibility and tax relief repealer | Repealer only | 
+Ord. No. 12-05 | 6-11-2012 | Stratford Redevelopment Agency | Ch. 5, Art. XIX | 
+Ord. No. 12-06 | 4-9-2012 | Senior citizen and disabled persons tax relief amendment | Ch. 191, Art. III | 
+Ord. No. 12-07 | 4-9-2012 | House-to-house solicitation amendment | Ch. 116, Art. II | 
+Ord. No. 12-10 | 6-11-2012 | Appropriation | NCM | 
+Ord. No. 12-11 | 6-11-2012 | Bond | NCM | 
+Ord. No. 12-12 | 6-11-2012 | Appropriation | NCM | 
+Ord. No. 12-13 | 6-11-2012 | Bond | NCM | 
+Ord. No. 12-14 | 7-9-2012 | Historic District amendment | Ch. 121 | 
+Ord. No. 12-14-1 | 5-14-2012 | Other Post-Employment Benefits Trust | Ch. 14, Art. XXI | 
+Ord. No. 12-17 | 8-13-2012 | Abandoned vehicles amendment | Ch. 202 | 
+Ord. No. 12-18 | 7-9-2012 | Parking and traffic generally amendment | Ch. 203, Art. I | 
+Ord. No. 12-19 | 7-9-2012 | Tow trucks amendment | Ch. 196 | 
+ | 7-9-2012 | Stratford Redevelopment Agency amendment | Ch. 5, Art. XIX | 
+Ord. No. 12-20 | 9-25-2012 | Appropriation | NCM | 
+Ord. No. 12-21 | 9-25-2012 | Bond | NCM | 
+Ord. No. 13-01 | 4-8-2013 | Appropriation | NCM | 
+Ord. No. 13-02 | 4-8-2013 | Bond | NCM | 
+Ord. No. 13-03 | 4-8-2013 | Hawkers, peddlers and solicitors: panhandling | Ch. 116, Art. VII | 
+Ord. No. 13-04 | 4-8-2013 | House-to-house solicitation amendment | Ch. 116, Art. II | 
+Ord. No. 13-05 | 4-8-2013 | Adult-oriented establishments amendment | Ch. 42 | 
+Ord. No. 13-06 | 4-22-2013 | Annual budget | NCM | 
+Ord. No. 13-07 | 4-22-2013 | Tax rate | NCM | 
+Ord. No. 13-08 | 5-13-2013 | Hawkers, peddlers and solicitors: street sales amendment | Ch. 116, Art. III | 
+Ord. No. 13-09 | 5-13-2013 | Flood damage prevention amendment | Ch. 102 | 
+Ord. No. 13-10 | 5-13-2013 | Bond | NCM | 
+Ord. No. 13-11 | 5-13-2013 | Bond | NCM | 
+Ord. No. 13-12 | 5-28-2013 | Elections amendment | Ch. 11 | 
+Ord. No. 13-13 | 5-28-2013 | Appropriation | NCM | 
+Ord. No. 13-14 | 5-28-2013 | Bond | NCM | 
+Ord. No. 13-15 | 5-28-2013 | Appropriation | NCM | 
+Ord. No. 13-16 | 5-28-2013 | Bond | NCM | 
+Ord. No. 13-17 | 5-28-2013 | Waterfront and harbor management amendment | Ch. 210 | 
+Ord. No. 13-18 | 7-8-2013 | Appropriation | NCM | 
+Ord. No. 13-19 | 7-8-2013 | Bond | NCM | 
+Ord. No. 13-20 | 10-15-2013 | Flood damage prevention amendment | Ch. 102 | 
+Ord. No. 13-21 | 11-12-2013 | Appropriation | NCM | 
+Ord. No. 13-22 | 11-12-2013 | Bond | NCM | 
+Ord. No. 14-01 | 4-14-2014 | Boothe Park Commission amendment | Ch. 5, Art. VI | 
+Ord. No. 14-02 | 4-14-2014 | Longbrook Park Commission amendment | Ch. 5, Art. V | 
+Ord. No. 14-03 | 4-14-2014 | Parks and beaches: Roosevelt Forest amendment | Ch. 152, Art. I | 
+Ord. No. 14-04 | 4-14-2014 | Short Beach Park Commission amendment | Ch. 5, Art. XI | 
+Ord. No. 14-05 | 4-14-2014 | Sikorsky Memorial Airport Noise Abatement Committee amendment | Ch. 7, Art. IV | 
+Ord. No. 14-06 | 4-14-2014 | Property maintenance: antiblight program amendment | Ch. 161, Art. I | 
+Ord. No. 14-07 | 5-12-2014 | Tax rate | NCM | 
+Ord. No. 14-08 | 5-12-2014 | Annual budget | NCM | 
+Ord. No. 14-09 | 6-30-2014 | Building construction: fees and penalties amendment | Ch. 62, Art. I | 
+Ord. No. 14-10 | 5-9-2016 | Trees, shrubs and woody vegetation | Ch. 200 | 
+Ord. No. 14-11 | 6-30-2014 | Appropriation | NCM | 
+Ord. No. 14-12 | 6-30-2014 | Bond | NCM | 
+Ord. No. 14-13 | 6-30-2014 | Appropriation | NCM | 
+Ord. No. 14-14 | 6-30-2014 | Bond | NCM | 
+Ord. No. 14-15 | 6-30-2014 | Parking and traffic generally amendment | Ch. 203, Art. I | 
+Ord. No. 14-16 | 9-8-2014 | Bond | NCM | 
+Ord. No. 14-17 | 9-8-2014 | Appropriation | NCM | 
+Ord. No. 14-18 | 9-8-2014 | Bond | NCM | 
+Ord. No. 14-19 | 9-8-2014 | Appropriation | NCM | 
+Ord. No. 14-20 | 9-8-2014 | Appropriation | NCM | 
+Ord. No. 14-21 | 9-8-2014 | Bond | NCM | 
+Ord. No. 14-22 | 9-8-2014 | Appropriation | NCM | 
+Ord. No. 14-23 | 9-8-2014 | Bond | NCM | 
+Ord. No. 14-24 | 9-8-2014 | Appropriation | NCM | 
+Ord. No. 14-25 | 9-8-2014 | Bond | NCM | 
+Ord. No. 14-26 | 3-4-2016 | Sewers: fats, oils and grease pretreatment | Ch. 172, Part 4 | 
+Ord. No. 14-28 | 4-13-2015 | Vehicles and traffic: parking and traffic generally amendment | Ch. 203, Art. I | 
+Ord. No. 15-01 | 4-13-2015 | Body-piercing and tattoo establishments amendment | Ch. 59 | 
+Ord. No. 15-03 | 5-11-2015 | Annual budget | NCM | 
+Ord. No. 15-04 | 5-11-2015 | Tax rate | NCM | 
+Ord. No. 15-05A | 5-11-2015 | Appropriation | NCM | 
+Ord. No. 15-05B | 5-11-2015 | Bond | NCM | 
+Ord. No. 15-06A | 5-11-2015 | Appropriation | NCM | 
+Ord. No. 15-06B | 5-11-2015 | Bond | NCM | 
+Ord. No. 15-07A | 5-11-2015 | Appropriation | NCM | 
+Ord. No. 15-07B | 5-11-2015 | Bond | NCM | 
+Ord. No. 15-08A | 5-11-2015 | Appropriation | NCM | 
+Ord. No. 15-08B | 5-11-2015 | Bond | NCM | 
+Ord. No. 15-09A | 5-11-2015 | Appropriation | NCM | 
+Ord. No. 15-10 | 5-11-2015 | Appropriation | NCM | 
+Ord. No. 15-11A | 5-11-2015 | Appropriation | NCM | 
+Ord. No. 15-11B | 5-11-2015 | Bond | NCM | 
+Ord. No. 15-12A | 5-11-2015 | Appropriation | NCM | 
+Ord. No. 15-12B | 5-11-2015 | Bond | NCM | 
+Ord. No. 15-13 | 4-9-2015 | Water Pollution Control Authority | Repealed by 11-3-2015 referendum | 
+Ord. No. 16-01 | 6-13-2016 | Finances: Department of Finance publications | Ch, 14, Art. XXII | 
+Ord. No. 16-02 |  | Appropriation amendment | Not adopted | 
+Ord. No. 16-03 |  | Bond amendment | Not adopted | 
+Ord. No. 16-04 |  | Budget amendment | Tabled | 
+Ord. No. 16-05 |  | Competitive bidding on purchases greater than $7,500 | Not adopted | 
+Ord. No. 16-06 |  | Contributions to Town political campaigns by contractors | Not adopted | 
+Ord. No. 16-07 | 5-9-2016 | Annual budget; appropriation | NCM | 
+Ord. No. 16-08 | 5-9-2016 | Tax rate | NCM | 
+Ord. No. 16-09 | 6-13-2016 | Appropriation | NCM | 
+Ord No. 16-10 | 6-13-2016 | Appropriation | NCM | 
+Ord. No. 16-11 | 6-13-2016 | Appropriation | NCM | 
+Ord. No. 16-12 | 6-13-2016 | Bond | NCM | 
+Ord. No. 16-13 |  |  | Number not used | 
+Ord. No. 16-14 |  |  | Tabled | 
+Ord. No. 16-15 | 11-14-2016 | Appropriation | NCM | 
+Ord. No. 16-16 | 11-14-2016 | Appropriation | NCM | 
+Ord. No. 16-17 | 8-14-2017 | Finances: purchasing amendment | Ch. 14, Art. I | 
+Ord. No. 17-01 | 3-13-2017 | Parks and beaches: recreational areas amendment | Ch. 152, Article II | 
+Ord. No. 17-02 | 12-18-2017 | Budget | NCM | 
+Ord. No. 17-03 | 12-18-2017 | Tax rate | NCM | 
+Ord. No. 17-04 | 4-10-2017 | Contracts: change orders amendment | Ch. 8, Art. I | 
+Ord. No. 17-09 | 7-10-2017 | Groundwater and vapor intrusion zones | Ch. 113 | 
+Ord. No. 17-10 | 11-13-2017 | Natural gas and oil extraction: storage, disposal, sale and
+treatment of wastes | Ch. 139, Art. I | 
+Ord. No. 17-11 |  | Bicycle operation | Not adopted | 
+Ord. No. 17-12 |  | Blocking of intersections by motor vehicles | Not adopted | 
+Ord. No. 17-13 | 11-13-2017 | Open Space and Property Acquisition Fund amendment | Ch. 14, Art. XV | 
+Ord. No. 17-14 | 11-13-2017 | Revaluation Fund | Ch. 14, Art. XXIII | 
+Ord. No. 17-15 | 11-13-2017 | Police Special Revenue Fund | Ch. 14, Art. XXIV | 
+Ord. No. 18-01 | 2-13-2018 | Revised Fees for the Office of Planning and Zoning | NCM | 
+Ord. No. 18-02 | 2-13-2018 | Property Maintenance: Antiblight Program Amendment | Ch. 161, Art I | 
+Ord. No. 18-03 |  |  | Not Adopted | 
+Ord. No. 18-04 | 4-9-2018 | Vehicles and Traffic: Bicycles | Ch. 203, Art. IV | 
+Ord. No. 18-05 | 4-9-2018 | Vehicles and Traffic: Blocking the Box | Ch. 203, Art. V | 
+Ord. No. 18-06 | 5-2-2018 | Budget | NCM | 
+Ord. No. 18-07 | 5-2-2018 | Tax Rate | NCM | 
+Ord. No. 18-08 | 4-9-2018 | Appropriation | NCM | 
+Ord. No. 18-09 | 4-9-2018 | Bond | NCM | 
+Ord. No. 18-10 | 4-9-2018 | Officers and Employees: Community and Economic Development Coordinator | Ch. 22, Art. VII | 
+Ord. No. 18-11 | 9-10-2018 | Boards, Commissions and Agencies: Boothe Park Commission Amendment | Ch. 5, Art. VI | 
+Ord. No. 18-12 | 9-10-2018 | Parks and Beaches: Dog Park and Exercise Area Amendment | Ch. 152, Art. III | 
+Ord. No. 18-13 | 11-13-2018 | Sewers: Illicit Discharges and Connections | Ch. 172, Part 5 | 
+
+

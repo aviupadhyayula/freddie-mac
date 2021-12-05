@@ -1,0 +1,742 @@
+iii      establishment of zoning districts
+https://ecode360.com/34496500
+0.743694647541062
+Farming and Residential - R-1/2 | 
+Farming and Residential - R-1 | 
+Farming and Residential - R-2 | 
+Farming and Residential - R-3 | 
+Multiple Family for Elderly Housing -EH-10 | 
+Incentive Housing Overlay Zone - IHOZ | 
+Business and Professional Office - BPO | 
+Retail Business - B-1 | 
+General Business - B-2 | 
+Industrial - M-1 | 
+Planned Commercial Development - M-2A[Added 4-17-2000] | 
+Industrial - M-3 | 
+Industrial - M-4 | 
+Industrial - M-5 | 
+Special Development District #1 - SDD-1 | 
+Fairfield Hills Adaptive Reuse - FHAR | 
+Conservation and Agriculture - CA[Added 5-18-1998] | 
+Hawleyville Center Design District (HCDD)[Added 8-9-1999] | 
+Sandy Hook Design District - SHDD[Added 10-2-1995] | 
+Public School - PS[Added 8-14-2000] | 
+And the following overlay zones: | 
+Aquifer Protection District - APD | 
+South Main Village Design District - SMVDD | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.6273610948024216
+ | Surrounding parking lots and non-residential
+uses (including buildings, storage and all activity areas) in Residential
+Zones. | Screening, planted buffer, or effective natural
+buffer. | 
+ | Parking lot islands, and adjacent to paved parking
+in all Zones. | Shade trees at average spacing of 30 to 40 feet
+plus landscaping or natural buffer. | 
+ | Bank slopes within and adjacent to developed
+areas in all Zones. | Slope Plantings | 
+ | Roadsides, in all non-residential zones. | Shade trees at average spacing of 30 to 40 feet
+plus appropriate open landscaping or natural buffer. | 
+ | Adjacent to Residential Zone Boundary lines,
+in all non-residential zones. | Screening or effective natural buffer, or planted
+buffer or the combination. | 
+ | Front, side and rear yards, wherever roadways
+or available for Planting, in all Zones. | Open landscaping, natural buffer, or visible
+combination of both. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.580926366389551
+No zoning permits or site plans shall be approved
+if the proposed signage is not in conformance with these sign regulations. | 
+Directional signs shall contain no advertising. | 
+In all zones other than Residential, signs must
+be located on the same lot as the building or use to which the sign
+applies, the wording on the sign shall be limited to the name, trade
+name, address and profession of the person, organization, building,
+business or industry using the building lot or building, words descriptive
+of the items grown, produced, manufactured, sold or stored thereon
+or the services rendered thereon. | 
+If any lot lies in two or more zones, the sign
+regulations for the more restrictive zone will apply to the entire
+lot. | 
+Window advertising signs are not allowed in
+any zone. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5779399900660419
+ | The application for the particular Facility
+and use shall: | 
+ | A. identify the applicants, | 
+ | B. identify, with particularity, the public
+safety problem to be addressed and resolved by the proposed Facility, | 
+ | C. describe, with particularity, the physical
+components required and proposed to address and resolve the stated
+safety problem, and | 
+ | D. describe other measures considered by the
+agency to resolve the safety problem which would not require a special
+exception under this section, and the reasons why the proposed Facility
+presents a solution that is sufficiently superior to the others as
+to justify an exception to the general prohibition of multiple uses
+for properties. | 
+ | Any special exception granted pursuant to this
+section shall be for the use and the Facility described in the application.
+Any addition or expansion of such Facility is hereby prohibited in
+the absence of a subsequent exception granted pursuant to this section. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5721604987941472
+ | Access to any industrial zone may be had through
+any Business or any other Industrial Zone, but the area of the lot
+through which access is obtained shall not be included in computing
+minimum lot area or frontage. Access to Business and Industrial Zones
+is not allowed through Residential or Professional Zones except by
+special exception. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5625144154694158
+INTRODUCTION
+In 1998, the Zoning Commission of the Borough
+of Newtown began a project to establish a Village District in accordance
+with the authority provided by § 8-2j of the General Statutes
+and to incorporate in the district a set of design guidelines that
+would protect the distinctive character, landscape and historic values
+set forth in the Plan of Development. The members of the committee
+considered State, regional and municipal policies and past decisions
+and studied similar documents from regulatory commissions of village
+districts in other jurisdictions, as well as the federal standards
+for rehabilitation of properties. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5622454712391108
+Historic Continuity
+The historic value of the commercial center
+of the Borough is found in the design of its individual buildings,
+the street scene, and the overall relationship of buildings, streets
+and topography as well as vehicular and pedestrian traffic and densities
+of uses. The architecture and the street scene are a reflection of
+a society, economy, and technology somewhat different from today's.
+The Borough's commercial center evolved in a simpler society and before
+the widespread availability of electricity, large machinery, easy
+transportation, low cost steel and glass, and elevators. The general
+appearance of street vistas and the present character of separate
+buildings represent an accumulation of many periods. The overall pattern
+of streets, lots, buildings, and landmarks was established in the
+18th century and followed in the 19th and 20th centuries. Today, caution
+and vigilance remain essential to the continued preservation of the
+Borough through regulation of the commercial center. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5368708485545524
+ | The minimum lot area for such special exception uses shall be
+computed as (1) four times the gross floor area of all buildings of
+the lot; (2) two times the area of the lot devoted to the proposed
+use, including without limitation, the gross floor area of all buildings
+and the area of all other structures, parking areas, loading areas
+and driveways; or (3) where a lot is split by a zone line the minimum
+lot area of the highest acre zone in which any part of the lot lies,
+whichever is greater. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5348976032856524
+The guidelines are not designed to promote any
+particular architectural styles. Their role is to protect existing
+properties against incorrect alterations and, as new buildings are
+built and additions made to existing structures, to preserve the continuity
+and architectural unity of the district. Within that overall unity
+today are a variety of styles and settings, and, as a result, different
+new buildings could be compatible. Some buildings, however, may not
+be. For that reason, the intent of the guidelines is to be selective-and
+sometimes restrictive-in order to exclude designs that would erode
+the historic, cultural and economic resource built up over generations. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5259379548716189
+Village District development is controlled by
+zoning regulations that are to be interpreted with the help of such
+Village District Design Guidelines as may be adopted by the Commission
+from time to time. Guidelines have a role that is different in nature
+from the zoning regulations. Guidelines do not always dictate specific
+limits, nor does strict adherence to them necessarily assure approval.
+Evaluation of buildings requires judgment in studying plans submitted.
+The Commission has to consider each design on its own merit, as well
+as its effect on the neighborhood and the Borough as a whole. By themselves,
+guidelines do not guarantee excellent or even mediocre architecture.
+The important point is that by following these guidelines, the property
+owner is doing his part to help the Commission protect the fragile,
+irreplaceable environment of the Borough. | 
+
+
+iv      landscape  screening and buffer requirements
+https://ecode360.com/34498208
+0.5249311607056064
+Surrounding parking lots and nonresidential uses (including
+buildings, storage and all activity areas) in residential zones | Screening, planted buffer, or effective natural buffer | 
+Parking lot islands and adjacent to paved parking in all zones | Shade trees at average spacing of 30 to 40 feet plus landscaping
+or a natural buffer | 
+Bank slopes within and adjacent to developed areas in all zones | Slope plantings | 
+Roadsides in all zones | Shade trees at average spacing of 30 to 40 feet or appropriate
+open landscaping or natural buffer | 
+Adjacent to residential zone boundary lines, in all nonresidential
+zones | Screening or effective natural buffer, or planted buffer or
+combination | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5224240787715952
+Overall Unity
+Courts have not attempted to define these special
+qualities but rather have looked more toward a total concept or overall
+unity, as the definitive statement. The wording of the "Village District"
+statute, general rather than categorical, seems to take into account
+that, within the overall entity of a Village District, there is a
+spread of historic styles, cultural influence, land use and density.
+However general this phraseology, its thrust and intention are unmistakable. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.516305618834696
+Distinctive Character
+Anything as subtle as charm is difficult to
+define, and the quaint and distinctive character of the center defies
+exact definition as well. Its history and that of the Town as a whole
+inform it. The component parts of the Borough interrelate in a subtle
+and distinctive way: the repetition and similarity of house after
+house with similar or special architectural details and seldom of
+greater height than three stories; a mix of small and grand houses
+on small lots facing adjacent streets; a variety of small business
+and professional offices. These elements have produced the ambience
+of the Borough for leisurely living and have given it quaint and distinctive
+New England small town charm that is found with decreasing frequency. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.5121667661879988
+Design Quality
+While the quality of a building's design may
+not improve with age, every generation must evaluate the significance
+of architectural styles and examples, being guided by the wisdom of
+the past and wary of its folly. Some buildings that are interesting
+and intriguing now, for instance, were previously considered to have
+very little value. | 
+
+
+iii      parking  driveway and loading standards
+https://ecode360.com/34498088
+0.501874869938157
+Single-Family Driveway |  | 
+One dwelling | 10 | 
+Two or more dwellings (common driveway) | 16 | 
+Commercial, Industrial, Multiple-Family Access from Street |  | 
+One-way | 12 | 
+Two-way | 20 | 
+Common Driveway | 12 (each lane) | 
+Median | 3 | 
+Commercial, Industrial, Multiple-Family One-way with Parking |  | 
+Parallel and 30-degree angle parking | 12 | 
+45-degree angle parking | 15 | 
+60-degree angle parking | 18 | 
+90-degree angle parking | 20 | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.49398352192529693
+ | Where the paved or traveled portion of such
+street is widened, then any sign obstructing the new lines of sight
+shall be set further back to conform to these requirements. | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.48839698235510987
+ | The provisions of this paragraph shall be deemed applicable
+to any property for which one or more suspension applications have
+been approved prior to the effective date of the amendment to these
+regulations providing for previous suspension orders and, provided
+further, that any application submitted pursuant to this subparagraph
+is submitted within 30 days after the effective date of this amendment. | 
+
+
+capital improvement plan
+https://ecode360.com/15288387
+0.4812504746318862
+July/August/September | Board of Selectmen departments prepare their CIP requests | 
+ | First Selectman presents the proposed First Selectmen CIP to
+the Board of Selectmen | 
+ | Board of Education develops their CIP based on that Board's
+policy and procedure | 
+Board of Finance 3rd meeting in September | Board of Education presents its proposed CIP to the Board of
+Finance | 
+Board of Finance 1st meeting in October | Board of Selectmen presents its proposed CIP to the Board of
+Finance | 
+ | Finance Director presents the combined Town of Newtown CIP along
+with analysis including a debt forecast schedule | 
+By November 30 | Board of Finance presents its recommended CIP to the Legislative
+Council | 
+By January 31 | Legislative Council adopts its approved CIP | 
+ | Legislative Council determines which first-year CIP projects
+go to referendum in April | 
+February/March | Bond resolutions go through the approval process for CIP projects
+that have been approved for referendum | 
+
+
+i      general provisions
+https://ecode360.com/15257760
+0.47294274079336246
+BOD | biochemical oxygen demand | 
+CFR | Code of Federal Regulations | 
+CGS | Connecticut General Statutes, as amended | 
+COD | chemical oxygen demand | 
+DEEP | Connecticut Department of Energy and Environmental Protection | 
+EDU | equivalent dwelling unit | 
+EPA | U.S. Environmental Protection Agency | 
+FOG | fats, oils and grease (generated from food preparation processes) | 
+gpd | gallons per day | 
+I&I | inflow and infiltration | 
+mg/l | milligrams per liter | 
+NPDES | National Pollutant Discharge Elimination System | 
+RCSA | Regulations of Connecticut State Agencies | 
+SSA | sewer service area | 
+USC | United States Code | 
+WSA | Newtown Water and Sewer Authority | 
+WWTP | wastewater treatment plant | 
+
+
+i      tax relief for seniors and totally permanently disabled
+https://ecode360.com/9875345
+0.4639695598326127
+ | Federal adjusted gross income, as defined in the Internal Revenue
+Code of 1986, as may be amended from time to time ("AGI") | $XXX | 
+ | PLUS: |  | 
+ | Social security/railroad retirement benefits not included in
+AGI | $XXX | 
+ | Tax-exempt interest income | $XXX | 
+ | Net losses per Form 1040 (used to arrive at AGI) | $XXX | 
+ | Business losses per Form 1040 | $XXX | 
+ | Capital losses per Form 1040 | $XXX | 
+ | Other losses per Form 1040 | $XXX | 
+ | Schedule E losses per Form 1040 | $XXX | 
+ | Farm losses per Form 1040 | $XXX | 
+ | Net operating losses per Form 1040 | $XXX | 
+ | Disability income not included in AGI | $XXX | 
+ | MINUS: |  | 
+ | Unreimbursed gross medical expenses qualifying as and included
+on a federal income tax return of the calendar year immediately preceding
+the year of application as an itemized deduction in excess of 7.5%
+of AGI (per form 1040, Schedule A) | ($XXX) | 
+
+
+special acts
+https://ecode360.com/15258118
+0.46293802551336466
+7-23-1872 | Electors and elections |  | 
+6-8-1875 | Second voting district |  | 
+3-24-1931 | Creation of Board of Managers of Edmond Town Hall | 7-1-1953 | 
+3-25-1931 | Incorporation of Cyrenius H. Booth Library |  | 
+5-20-1941 | State park |  | 
+7-21-1949 | Tax Collector |  | 
+5-27-1957 | Route 25 in City of Bridgeport and Town of Trumbull |  | 
+5-13-1959 | Investment of funds in Cyrenius H. Booth |  | 
+4-22-1976 | Possession of original deed of Newtown |  | 
+
+
+iii      parking  driveway and loading standards
+https://ecode360.com/34498088
+0.4335356860317629
+Residential |  | 
+Affordable housing developments and dwelling units for elderly
+families | 1.5 spaces for one bedroom units, 2.0 spaces for 2- and 3-bedroom
+units, plus one space for every 4 units | 
+Assisted living facility | 1 space per 6 assisted units, plus 1 space per employee on the
+largest shift | 
+Community residence | 2 spaces (which may be provided by the use of an enclosed garage
+or carport) | 
+Congregate housing for elderly families | 1 space per unit containing not more than one bedroom and 1.25
+spaces per 2-bedroom unit. Parking spaces for units may be provided
+by use of a garage or carport. In addition, there shall be 1 space
+per 6 assisted living units and health care units, plus 1 space per
+employee on the largest shift | 
+Residential dwellings within a commercial structure located
+in a commercial, professional or design district | 1 space per dwelling in addition to the commercial spaces | 
+Roomers or boarders kept by a family pursuant to § 3.01.400E | Single-family residential requirements plus 1 space per roomer
+or boarder | 
+Single-family residential dwellings | 2 spaces (which may be provided by the use of an enclosed garage
+or breezeway) | 
+Commercial/Industrial |  | 
+All industrial uses, public utilities, printing establishments,
+storage in bulk and warehouses | 1 space per employee on the largest shift plus 1 space per industry
+or business vehicle usually kept on the premises | 
+Bowling alleys | 5 per alley | 
+Commercial recreational facilities, tennis, paddle tennis/platform
+tennis, racquet ball, handball and squash and/or swimming recreational
+facility, and similar physical and recreational uses | 40% of the maximum number of members or occupants permitted
+to use such facility at any one time | 
+Home occupation which is neither a professional office nor devoted
+to retail sales | 2 spaces plus 1 space per employee not residing on the premises | 
+Horse farms and riding academies providing horse lesson programs
+or horse day camps | 1 space per employee plus 1 space per 3 horse lesson students
+or horse day campers which will be utilizing the parking facilities
+during peak hours of operation | 
+Hotels or motels | 1 space per bedroom, plus 1 space per 2 employees on the largest
+shift | 
+Professional and general offices, banks, motor vehicle salesrooms,
+wholesale business, kennel, and professional offices carried on as
+an accessory use to a single-family residence | 1 space per 350 square feet of gross floor area (limited in
+the case of residences to the areas of the residence actually devoted
+to the accessory use) | 
+Restaurant, bar, grill or tavern | 1 space per 2 seats (or 1 space per 4 linear feet of bench),
+plus 1 space for each 2 employees on the shift with the largest number
+of employees | 
+Retail businesses, personal service establishments, medical
+offices, any single building with multiple use tenants | 1 space per 200 square feet of gross floor area or part thereof | 
+Roadside stands for a sale of agricultural produce or nursery
+stock | 1 space per linear foot measured on the longest dimension of
+the stand - or 10 spaces whichever is more. | 
+Institutional/Health Care |  | 
+Child day-care centers | 1 space per employee in the largest shift, reserve parking for
+visitors, and adequate space for the pick-up and drop-off of children | 
+Family or group day-care home | 2 spaces plus 1 space per employee or other supervising parent | 
+Hospitals or extended care facility | 1 space per 6 patient beds, plus there shall be 1 space per
+employee or on-site worker on the largest shift | 
+Places of assembly with fixed seats, such as a theater, church,
+auditorium, or funeral parlor | 1 space per 6 seats. Where pews or benches are used as fixed
+seats, 1 space per 9 linear feet | 
+Places of assembly without fixed seats such as banquet halls
+and club houses, including volunteer fire departments | 1 space per 200 square feet of gross floor area (limited in
+the case of volunteer fire departments to the area of the firehouse
+used for meetings or banquets) | 
+
+
+b        special acts
+https://ecode360.com/9878220
+0.39736132960363185
+May 1824 | Incorporation of Borough | 
+1848 | Restoring corporate privileges to Borough | 
+May 3, 1883 | Charter amendment (superseded by 1931 Charter) | 
+May 27, 1907 | Charter amendment (territorial limits) (See
+Charter Sec. 2.) | 
+May 1, 1931 | Charter | 
+May 24, 1933 | Validating election and appointment of certain
+officials | 
+May 8, 1935 | Validating acts of Board of Assessors, Board
+of Relief, Warden and Burgesses and Tax Collector | 
+April 9, 1953 | Charter amendment | 
+
+
+alarm systems
+https://ecode360.com/15283372
+0.3955478298917026
+ | 1 | $0 | 
+ | 2 | $25 | 
+ | 3 | $50 | 
+ | 4 | $50 | 
+ | 5 | $100 | 
+ | 6 | $100 | 
+ | 7 | $100 | 
+ | 8 | $200 | 
+ | 9 | $200 | 
+ | 10 | $250 | 
+ | 11 | $250 | 
+ | 12 and beyond | $250 | 
+
+
+membership  rules  and duties for newtown offices
+https://ecode360.com/32430294
+0.36504100407990153
+ | 3 | 2 | 
+ | 4 | 3 | 
+ | 5 | 4 | 
+ | 6 | 4 | 
+ | 7 | 5 | 
+ | 8 | 5 | 
+ | 9 | 6 | 
+ | more than 9 | 2/3rds of total membership | 
+
+
+x      general provisions
+https://ecode360.com/15258026
+0.35491956240510525
+CGS | Connecticut General Statutes, as amended | 
+DEP | Connecticut Department of Environmental Protection | 
+DPH | State of Connecticut Department of Public Health | 
+DPUC | State of Connecticut Department of Public Utility Control | 
+gpd | Gallons per day | 
+mg/L | Milligrams per liter | 
+WSA | Newtown Water and Sewer Authority | 
+
+
+iii      general sewer use requirements
+https://ecode360.com/15257850
+0.3210079843677138
+ | Arsenic as As | 0.05 |  | 
+ | Barium as Ba | 5.0 |  | 
+ | Boron as B | 5.0 |  | 
+ | Cadmium | 0.07 |  | 
+ | Chromium (total) | 1.0 |  | 
+ | Chromium (Cr +6) | 0.1 |  | 
+ | Copper as Cu | 1.0 |  | 
+ | Cyanides as CN (amenable) | 0.1 |  | 
+ | Fluoride as F | 20 |  | 
+ | Lead | 0.1 |  | 
+ | Magnesium as Mg | 100 |  | 
+ | Manganese as Mn | 5.0 |  | 
+ | Mercury | 0.01 |  | 
+ | Nickel | 1.0 |  | 
+ | Silver | 0.1 |  | 
+ | Tin | 2.0 |  | 
+ | Zinc as Zn | 1.0 |  | 
+
+
+vi      tax abatement for volunteer fire  ambulance and underwater rescue personnel
+https://ecode360.com/9875380
+0.31804485015273903
+3 | $250 | 
+4 | $440 | 
+5 | $675 | 
+6 | $860 | 
+7 or more | $1,000 | 
+
+
+b        terms of office
+https://ecode360.com/9878225
+0.30194033277875754
+1 | Warden | 
+1 | Clerk | 
+1 | Treasurer | 
+3 | Fire Inspectors | 
+1 | Tax Collector | 
+1 | Pound Keeper | 
+2 | Assessors | 
+2 | Board of Tax Review | 
+
+
+health district
+https://ecode360.com/9877712
+0.29635343573255046
+ | 100 or less | 5 | 
+ | 101 to 150 | 3 1/2 | 
+ | 151 to 200 | 2 | 
+ | 201 to 300 | 1 | 
+ | Over 300 | 1/2 | 
+
+
+b        zoning
+https://ecode360.com/9878268
+0.2847455556103625
+ | 31.5 | 72 | 
+ | 63 | 71 | 
+ | 125 | 65 | 
+ | 250 | 57 | 
+ | 500 | 51 | 
+ | 1,000 | 45 | 
+ | 2,000 | 39 | 
+ | 4,000 | 34 | 
+ | 8,000 | 32 | 
+
+
+i      tax relief for seniors and totally permanently disabled
+https://ecode360.com/9875345
+0.27599859710850483
+ | (Deduction of unreimbursed gross medical expenses effective
+the fiscal year commencing July 1, 2015, and the application period
+commencing March 1, 2015) | 
+
+
+i      tax relief for seniors and totally permanently disabled
+https://ecode360.com/9875345
+0.22778171214562218
+ | Group A | $0 to $45,000 | $2,525 | 
+ | Group B | $45,001 to $55,000 | $1,750 | 
+ | Group C | $55,001 to $65,000 | $1,300 | 
+ | Group D | $65,001 to $70,000 | $800 | 
+
+
+littering
+https://ecode360.com/9874524
+0.22361516215926475
+ | 1 to 25 | 1 | 
+ | 26 to 50 | 2 | 
+ | 51 to 100 | 4 | 
+ | 101 to 200 | 5 | 
+ | 201 to 400 | 6 | 
+ | Over 400 | Add one trash container for each additional
+200 parking spaces | 
+
+
+dl      disposition list
+https://ecode360.com/9879032
+0.17412873560396233
+Ord. | 7-21-2021 | Commissions and Committees: Community Center Commission | Ch. 20, Art. IX | 7.2 | 
+
+
+b       charter
+https://ecode360.com/9878155
+0.1509385902880703
+RESOLVED BY THIS ASSEMBLY: That the territorial
+limits of the body politic and corporate existing under the name of
+The Warden, Burgesses and Freemen of the Borough of Newtown shall
+hereafter be as follows: Beginning at the railroad crossing on the
+Berkshire division of the New York, New Haven, and Hartford railroad
+first southerly from the residence of the Misses Mary J. and Margaret
+F. Houlihan; thence following the highway called Hall land S. 73°
+W. 73 rods crossing the Hanover road; thence S. 72° W. 48 rods;
+thence S. 62° W. 21 rods to the highway leading to Brookfield;
+thence following said highway, N. 18° W. 31 rods to old highway
+near the residence of Mrs. Martin Hourigan; thence, following said
+old highway, N. 89° W. 33 rods; thence S. 51° W. 9 rods; thence
+N. 61° W. 12 rods; thence S. 86° W. 9 rods; thence S. 66°
+W. 16 rods; thence S. 74° W. 8 rods; thence N. 68° W. 6 rods;
+thence S 66° W. 25 rods; thence N. 85° W. 21 rods; thence
+S. 62° W. 13 rods; thence S 38° W. 9 rods; thence S. 54°
+W. 8 rods; thence S. 30° W. 9 rods to a point forty-six rods from
+the Danbury road near the residence of Marcus Camp thence through
+the fields in the rear of the residence of Marcus Camp, Frank J. Narramore,
+Adelia Nichols, and Robert W. and Albert W. Peck, Junior, N. 59°
+W. 121 rods to line of J. Albert Blackman; thence, crossing the Danbury
+road, S. 30° W. 105-1/2 rods to Taunton lake, at a point in the
+division line between Robert W. and Albert W. Peck, Junior, and Miss
+Julia E. DeVires; thence along the easterly shore of said Taunton
+lake S. 62° E. 6 rods; thence S. 38° E. 17 rods; thence S.
+62° E. 54 rods; thence S. 9° E. 9 rods; thence S. 4° W.
+19 rods; thence S. 14° E. 8 rods; thence S. 26° E. 8 rods;
+thence S. 42° E. 11 rods to the pumping station of the Newtown
+Water Company; thence S. 50° E. 11 rods; thence S. 31° E.
+30 rods; thence, leaving the shore of Taunton lake, S 29° E. 196
+rods to a bridge over the brook on the highway first easterly from
+the residence of Mamert Woicheowski; thence, following said highway,
+S 85° E. 14 rods; thence S. 52° E. 42 rods; thence S. 86°
+E. 63-1/4 rods to Bethel road; thence, following said Bethel road,
+N. 35° E. 59 rods to road leading to Palestine; thence following
+said Palestine Road, S. 5° W. 21 rods to the brook first below
+the residence of Mrs. Philo Clark; thence, following down said brook,
+S 79° E. 19 rods; thence N. 80° E. 20 rods; thence N. 84°
+E. 12 rods; thence S. 82° E. 14 rods; thence S. 85° E. 9 rods;
+thence N. 32° E. 5 rods; thence S. 87° E. 8 rods; thence S.
+20° E. 5 rods; thence S. 33° E. 21 rods; thence S. 57°
+E. 14 rods; thence S. 50° E. 9 rods; thence S. 89° E. 5 rods;
+thence S. 44° E. 17 rods; thence S. 21° E. 7 rods; thence
+S. 42° E. 5 rods to the bridge first below the Newton village
+cemetery; thence, along the highway by the said cemetery, N. 60°
+E. 10 rods; thence N. 26° E. 27 rods; thence N. 19° E. 27
+rods; thence, following the highway to South Center district; N 70°
+E. 7-3/4 rods; thence S. 18° E. 19 rods; thence, following the
+highway towards the residence of Herman H. Peck N. 82° E. 42 rods;
+thence N. 57° E. 7 rods to the Bridgeport road; thence N. 32°
+E. 5 rods; thence, following the highway by the residence of Allison
+P. Smith, N. 66° E. 27 rods; thence N. 85° E. 31 rods to highway
+running to residence of Michael Keating; thence, following said highway,
+N. 57° E. 39 rods; thence N. 80° E. 7 rods; thence N. 63°
+E. 21 rods; thence N. 81° E. 23 rods to the New York, New Haven,
+and Hartford railroad; thence, following said railroad, N. 37°
+E. 19 rods; thence N. 35° E. 12 rods; thence N. 28° E. 11
+rods; thence N. 20° E. 25 rods; thence N 15° E. 20 rods; thence
+N. 3° E. 19 rods; thence N. 2° W. 20 rods; thence N. 9°
+W. 15 rods; thence N. 15° W. 20 rods; thence N 24° W. 20 rods;
+thence N. 27° W. 26 rods; thence N. 39° W. 27 rods; thence
+N. 48° W. 26 rods to the highway leading to Sandy Hook; thence,
+on same course on railroad, 60 rods; thence N. 43° W. 26 rods;
+thence N. 39° W. 149 rods to place of beginning. | 
+
+
+xvi      adoption
+https://ecode360.com/15258112
+0.14797134907122397
+ | Legislative Council
+c/o the First Selectman's Office
+45 Main Street
+Newtown, CT 06470 | 
+
+
+xvi      adoption
+https://ecode360.com/15258112
+0.13013803191302545
+ | Board of Selectman 
+c/o the First Selectman's Office
+45 Main Street
+Newtown, CT 06470 | 
+
+
+noise
+https://ecode360.com/15257197
+0.04741916540975388
+ | Residential zone emitter | 55 dBA | 45 dBA | 55 dBA | 45 dBA | 
+ | Nonresidential zone emitter | 55 dBA | 45 dBA | 52 dBA | 45 dBA | 
+
+
+dl      disposition list
+https://ecode360.com/9879032
+-0.10055572757292752
+Ord. | 3-7-2012 | Cats | Ch. 113, Art. II | 
+Ord. (Borough) | 3-20-2012 | Borough Zoning amendment | Ch. B70 | 
+Ord. (Borough) | 5-16-2012 | Borough Zoning amendment | Ch. B70 | 
+Ord. (Borough) | 2-6-2013 | Borough Zoning amendment | Ch. B70 | 
+Ord. (Borough) | 4-10-2013 | Borough Zoning amendment | Ch. B70 | 
+Ord. | 8-7-2013 | Blight | Ch. 116 | 
+Ord. | 9-4-2013 | Firearms amendment | Ch. 128 | 
+Ord. (Borough) | 2-12-2014 | Borough Zoning amendment | Ch. B70 | 
+Ord. (Borough) | 2-12-2014 | Borough Zoning amendment | Ch. B70 | 
+Ord. | Eff. 3-31-2014 | Zoning amendment | Ch. 595 | 
+Ord. | 5-7-2014 | Tax relief for seniors and totally permanently disabled amendment | Ch. 208, Art. I | 
+Ord. (Borough) | 6-11-2014 | Borough Zoning amendment | Ch. B70 | 
+Ord. | Eff. 6-16-2014 | Temporary moratorium (medical marijuana dispensary and production
+facilities) | NCM | 
+Ord. | Eff. 6-16-2014 | Zoning amendment | Ch. 595 | 
+Ord. (Borough) | 7-8-2014 | Bamboo | Ch. B4 | 
+Ord. (Borough) | 12-10-2014 | Borough Zoning amendment | Ch. B70 | 
+Ord. | Eff. 12-15-2014 | Zoning amendment | Ch. 595 | 
+Reg. | 1-8-2015 | Sewer use regulations amendment | Ch. 690, Part 1 | 
+Reg. | 1-8-2015 | Water Pollution Control Plan | Ch. 690, Part 3 | 
+Ord. | 10-7-2015 | Sustainable Energy Commission amendment | Ch. 20, Art. VIII | 
+Ord. | 10-7-2015 | Supplemental veterans property tax exemption amendment | Ch. 208, Art. V | 
+Ord. | 10-28-2015 | Alarm systems | Ch. 104 | 
+Ord. | 10-28-2015 | Purchasing | Ch. 350 | 
+Reg. | 10-29-2015 | Sewer use regulations amendment | Ch. 690, Part 1 | 
+Ord. (Borough) | 12-9-2015 | Borough Zoning amendment | Ch. B70 | 
+Ord. | Eff. 1-20-2016 | Zoning amendment | Ch. 595 | 
+Ord. (Borough) | 8-10-2016, eff. 8-22-2016 | Borough Zoning amendment | Ch. B70 | 
+Ord. (Borough) | 9-21-2016, eff. 10-3-2016 | Borough Zoning amendment | Ch. B70 | 
+Ord. | 11-8-2016 | Charter | Ch. C | 
+Ord. (Borough) | 11-8-2016 | Borough Zoning amendment | Ch. B70 | 
+Ord. | 9-6-2017 | Roads and sidewalks | Ch. 185; Ch. 191 (repealer only); Ch. 204 (repealer only) | 
+Ord. | 9-6-2017 | Tax abatement for volunteer fire, ambulance and underwater rescue
+personnel | Ch. 208, Art. VI | 
+Ord. | 9-6-2017 | Tax exemption for farm buildings | Ch. 208, Art. IX | 
+Ord. | 11-1-2017 | Finances: pension and other post-employment benefits | Ch. 33, Art. I | 
+Ord. | 11-1-2017 | Acquisition and disposition of property | Ch. 456 | 
+Ord. | 11-1-2017 | Capital Improvement Plan | Ch. 310 | 
+Ord. | 12-5-2018 | Prohibiting the Storage, Disposal or Use of Fracking Waste | Ch. 144 | 
+P&ZC | 12-20-2018 | Zoning Amendment | Ch. 595 | 
+Ord. (Borough) | 4-12-2017 | Borough Zoning Amendment | Ch. B70 | 
+P&ZC | 4-10-2019 | Borough Zoning Amendment | Ch. B70 | 
+Reg. | 3-14-2019 | Water and Sewer Authority: Water Pollution Control Plan | Ch. 690, Part 3 | 
+Ord. | 6-5-2019 | Elections: Board of Education Elections | Ch. 124, Art. I | 
+Ord. | 6-5-2019 | Reusable Checkout Bag Initiative | Ch. 183 | 
+P&ZC | 6-2019 | Zoning Amendment | Ch. 595 | 
+P&ZC | 1-2020 | Zoning Amendment | Ch. 595 | 
+Ord. | 11-4-2020 | Capital Improvement Plan | Ch. 310 | 
+P&ZC | 2-2021 | Zoning Amendment | Ch. 595 | 
+P&ZC | 3-4-2021 | Zoning Amendment | Ch. 595 | 
+
+

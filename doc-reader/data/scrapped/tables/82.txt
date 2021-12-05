@@ -1,0 +1,771 @@
+iv      districts and district maps
+https://ecode360.com/6477036
+0.5459273171693293
+UR1 - Urban Residential District | 
+UR2 - Medium Residential District | 
+UR3 - Neighborhood Residential District[Added 12-16-1992 by Ord. No. 93-001] | 
+MR1 - Multifamily Residential District | 
+MR2 - Townhouse Residential District | 
+
+
+iv      districts and district maps
+https://ecode360.com/6477036
+0.5227252048237587
+UB1 - Urban Business District | 
+UB2 - Neighborhood Business District | 
+UB3 - Professional Business District | 
+HC - Highway Commercial District | 
+
+
+iv      districts and district maps
+https://ecode360.com/6477036
+0.5112298337749125
+LI1 - Limited Industrial District | 
+LI2 - Light Industrial District | 
+
+
+iv      districts and district maps
+https://ecode360.com/6477036
+0.5080239930100352
+AGRICULTURAL DISTRICTS[Added 1-27-2010 by Ord. No. 2010-1] | 
+AR1 - Agricultural District | 
+
+
+xxvii      source water protection areas
+https://ecode360.com/11757295
+0.4506934456426118
+NOTES: | 
+Conditional | 
+ | 
+Dry wells/sumps, except for single-family residences
+directing gutter downspouts to a drywell. | 
+ | 
+Injection wells other than those used in the
+remediation of groundwater contamination that inject oxygen-releasing
+compounds. | 
+
+
+xx      off street parking and loading requirements
+https://ecode360.com/6477668
+0.44698760687375905
+ | Retail store, depart- ment store, restaurant,
+wholesale house, ware- house, general service, manufacturing or industrial
+establishment | 2,000 - 10,000
+10,000 - 20,000
+20,000 - 40,000
+40,000 - 60,000
+Each 50,000 over
+60,000 | 1
+2
+3
+4
+1 addt'l | 
+ | Apartment building, motel, hotel, offices or
+office building, hospital or similar institutions, or places of public
+assembly | 5,000 - 25,000
+25,000 - 100,000
+100,000 - 200,000
+Each 100,000 over
+200,000 | 1
+2
+3
+1 addt'l | 
+ | Funeral home or mortuary | 1 berth for each chapel |  | 
+
+
+iv      districts and district maps
+https://ecode360.com/6477036
+0.42470300662370053
+HD - Historic District | 
+ED - Education District | 
+
+
+iv      snow emergencies
+https://ecode360.com/14847558
+0.417097891889038
+ | East Market Street | 
+ | West Market Street | 
+ | North Bedford Street | 
+ | South Bedford Street | 
+ | Bridgeville Road | 
+ | East Pine Street | 
+ | West Pine Street | 
+ | North Race Street | 
+ | South Race Street | 
+ | North Front Street | 
+ | South Front Street | 
+ | East Laurel Street – North Bedford Street to North Race
+Street | 
+ | West Laurel Street – North Bedford Street to North Front
+Street | 
+ | Edward Street – North Bedford Street to North Front Street | 
+ | West North Street – North Bedford Street to DuPont Highway
+(Route 113) | 
+ | Albury Avenue – East Market Street to Cedar Street | 
+
+
+vii      plan requirements
+https://ecode360.com/6476402
+0.4079468337546742
+ | "It is hereby certified that the undersigned
+are the owner and developers of the land shown on this subdivision
+plot plan and that the streets, lanes, avenues and park areas hereon
+shown with the section approved for development are dedicated for
+the general use of the traveling public and for the use of the abutting
+property owners. This dedication shall impose no duty nor obligation
+upon the Town of Georgetown respecting the maintenance and improvement
+of the dedicated streets, lanes, avenues and park areas, unless otherwise
+agreed by the Town of Georgetown." | 
+
+
+v      parking meters
+https://ecode360.com/26961459
+0.3780180065339743
+East Market Street | Both | From the Circle to Race Street | 
+East Pine Street | Both | From South Bedford Street to South Race Street | 
+North Front Street | Both | From West Market Street to West Laurel Street | 
+South Race Street | Both | From East Market Street to East Pine Street | 
+
+
+v      parking meters
+https://ecode360.com/26961459
+0.3780180065339743
+ | East Market Street | Both | From the Circle to Race Street | 
+ | East Pine Street | Both | From South Bedford Street to South Race Street | 
+ | North Front Street | Both | From West Market Street to West Laurel Street | 
+ | South Race Street | Both | From East Market Street to East Pine Street | 
+
+
+iii      general penalty
+https://ecode360.com/30579444
+0.37114983192372325
+Animals | 52 | Immediate | 
+Building Construction | 61 | 10 days | 
+Burning, Outdoor | 70 | Immediate | 
+Circuses, Carnival and Exhibitions | 79 | Immediate | 
+Farming | 94 | 10 days | 
+Hotels and Motels | 114 | 10 days | 
+Housing Standards | 116 | Immediate - imminent danger; 10 days - all other | 
+Ice Cream Peddlers | 119 | Immediate | 
+Junkyards | 123 | 10 days | 
+Licensing of Businesses | 130 | 5 days | 
+Littering and Dumping | 135 | Immediate | 
+Noise | 144 | Immediate | 
+Peace and Good Order | 157 | Immediate | 
+Property Maintenance | 165 | Immediate - imminent danger; 10 days - all other | 
+Sewers | 176 | Immediate | 
+Solid Waste | 185 | Immediate | 
+Street and Sidewalks | 190 | 10 days | 
+Trailers | 206 | 10 days | 
+Trees | 208 | Immediate - imminent danger; 10 days - all other | 
+Vehicles, Abandoned or Inoperable | 212 | 15 days | 
+Vehicles and Traffic | 215 | Immediate | 
+Water | 222 | Immediate | 
+Yard Sales | 225 | Immediate | 
+
+
+ix      holidays  benefits  and leave
+https://ecode360.com/6475126
+0.3636479302294171
+ | Probationary period completion to 5 | 6.66 | 
+ | 6 | 7.33 | 
+ | 7 | 8.00 | 
+ | 8 | 8.66 | 
+ | 9 | 9.33 | 
+ | 10 | 10.00 | 
+ | 11 | 10.66 | 
+ | 12 | 11.33 | 
+ | 13 | 12.00 | 
+ | 14 | 12.66 | 
+ | 15 and over | 13.33 | 
+
+
+housing standards
+https://ecode360.com/6475708
+0.35341595341537857
+Building | 12 | 1 | 
+Unit numbers visible from walks and drives | 6 | 0.5 | 
+Interior doors | 4 | 0.5 | 
+
+
+xia      rpc   residential planned community
+https://ecode360.com/6477186
+0.3439081681467383
+NOTES:
+* Area and width per building | 
+
+
+housing standards
+https://ecode360.com/6475708
+0.34011997294832974
+It shall be unlawful to occupy this building
+or to deface this (notice) (order). Failure to comply with this notice
+shall subject the violator to penalties in accordance with the Housing
+Code of the Town of Georgetown, the ordinances of the Town of Georgetown,
+and the laws of the State of Delaware. | 
+
+
+fees
+https://ecode360.com/6475517
+0.3267928634324371
+Under 2,300 square feet | $250 | $0 | $1,500 | $1,500 | 
+Between 2,300 and 10,000 square feet | $250 | $1,200 | $2,000 | $1,500 | 
+Between 10,000 and 49,9000 square feet | $250 | $1,500 | $2,600 | $2,000 | 
+Between 50,000 and 100,00 square feet | $500 | $2,500 | $3,200 | $2,000 | 
+Over 100,000 square feet | $500 | $2,500 | $4,000 | $2,000 | 
+Multifamily, townhouse:  20 or fewer units | $500 | $2,500 | $3,200 | $2,000 | 
+Multifamily residential: over 20 units | $500 | $2,500 | $4,000 | $2,000 | 
+
+
+xxvii      source water protection areas
+https://ecode360.com/11757295
+0.3218027786369933
+Aboveground storage tanks (any size) See § 230-224A(2). | N |  |  |  | n/a | 
+Automobile body/repair shop | N | C | C | C | n/a | 
+Chemical processing/ storage facility | N | C | C | C | n/a | 
+Dry cleaner | N | N | N | N | n/a | 
+Electrical/ electronic manufacturing facility | N | C | C | C | n/a | 
+Equipment maintenance/ fueling areas | N | C | C | C | n/a | 
+Fleet/ trucking/ bus terminal | N | C | C | C | n/a | 
+Gas station | N | C | C | C | n/a | 
+Hazardous substance UST (any size) | N | N | N | N | n/a | 
+Hazardous waste | N | N | N | N | n/a | 
+Dry wells/sumps | N |  |  |  | n/a | 
+Injection wells (used in remediation practices) | Y |  |  |  | n/a | 
+Infiltration Type SWM structure | N |  |  |  |  | 
+Junk/scrap/ salvage yard | N | C | C | C | n/a | 
+Land divisions resulting in high density (Greater
+than 1 acre) | N | C | C | C | n/a | 
+Machine shop | N | C | C | C | n/a | 
+Manure storage | N |  | N | N | n/a | 
+Metal plating/ finishing/ fabricating facility | N | C | C | C | n/a | 
+Mines/gravel pit | N |  |  |  | n/a | 
+On-site wastewater treatment and disposal systems | N | N | N | N | n/a | 
+Permanent sheet piling | N |  |  |  | n/a | 
+Treated timber pilings | N | N | N | N | n/a | 
+Underground storage tanks (any size) | N | C | C | C | n/a | 
+Vessel storage (incl. vehicles) | N | C | C | C | n/a | 
+Wood preserving/ treating facility | N | N | N | N | n/a | 
+
+
+housing standards
+https://ecode360.com/6475708
+0.3046059023287221
+ | Living room | No requirements | 120 | +additional 150 | 
+ | Dining room | No requirements | 80 | +additional 100 | 
+ | Kitchen | 50 | +additional 50 | +additional 60 | 
+
+
+iii      definitions of allowable waste
+https://ecode360.com/6476136
+0.2988181024310244
+ | Arsenic as AS | 0.5 | 
+ | Cadmium as Cd | 0.4 | 
+ | Chromium (hexavalent) as Cr | 0.2 | 
+ | Cyanide as CN | 0.5 | 
+ | Lead as Pb | 0.5 | 
+ | Copper as Cu | 1.0 | 
+ | Mercury as Hg | 0.5 | 
+ | Nickel as Ni | 2.0 | 
+ | Zinc as Zn | 5.0 | 
+
+
+dl      disposition list
+https://ecode360.com/6478148
+0.2897179993321154
+2019-03 | 6-12-2019 | Personnel Amendment | Ch. 29 | 35 | 
+82 Del. Laws, c. 49 | 6-19-2019 | Charter Amendment | Charter | 35 | 
+2019-04 | 7-10-2019 | Taxation: Lodging Tax | Ch. 199, Art. III | 35 | 
+2019-05 | 9-25-2019 | General Provisions: General Penalty Amendment; Housing Standards
+Amendment; Noise Amendment | Ch. 1, Art. III; Ch. 116; Ch. 144 | 35 | 
+2019-06 | 12-13-2019 | Personnel Amendment | Ch. 29 | 35 | 
+2020-01 | 3-11-2020 | Zoning Map Amendment | NCM | 36 | 
+2020-02 | 8-26-2020 | Housing Standards Amendment | Ch. 116 | 36 | 
+2020-03 | 9-23-2020 | Streets and Sidewalks: Discharge of Water onto Sidewalk | Ch. 190, Art. V | 36 | 
+2020-04 | 9-23-2020 | Zoning Map Amendment | NCM | 36 | 
+2021-01 | 4-14-2021 | Zoning Amendment | Ch. 230 | 37 | 
+2021-02 | 4-14-2021 | Zoning Map Amendment | NCM | 37 | 
+2021-03 |  |  | Pending Adoption |  | 
+83 Del. Laws, c. 19 | 6-3-2021 | Charter Amendment | Charter | 38 | 
+2021-04 | 6-23-2021 | General Provisions: General Penalty Amendment | Ch. 1, Art. III | 37 | 
+2021-05 | 6-23-2021 | Housing Standards Amendment | Ch. 116 | 37 | 
+2021-06 | 8-11-2021 | General Provisions: General Penalty Amendment | Ch. 1, Art. III | 38 | 
+2021-07 | 10-13-2021 | Zoning Amendment | Ch. 230 | 38 | 
+2021-08 | 10-13-2021 | Fees Amendment | Ch. 98 | 38 | 
+
+
+housing standards
+https://ecode360.com/6475708
+0.2823937986054852
+ | NOTES: | 
+ | *Number of occupants includes adults and children. | 
+
+
+fees
+https://ecode360.com/6475517
+0.2810056187907934
+Parking overtime | $20 | 
+Blocking street, driveway, alley, sidewalk,
+etc. | $40 | 
+Parking too close to fire plug | $40 | 
+Parking in space reserved | $40 | 
+Parking on left | $40 | 
+Parking in no-parking zone | $40 | 
+Parking in handicapped parking | $75 | 
+
+
+vii      sewer impact and connection fees
+https://ecode360.com/6476205
+0.27385615713562106
+Sewage flow per year in gallons @ (production
+days x 225 gal/day/EDU) | 
+
+
+fees
+https://ecode360.com/6475517
+0.2730958559009911
+Property tax | $3.17 per $100 assessed | 
+Pole/Wire tax rate | $3.69 per $100 assessed | 
+Real estate transfer tax rate | 1.5% | 
+
+
+housing standards
+https://ecode360.com/6475708
+0.24287823043691636
+Building | 12 | 1 | 
+Suites (front and rear) | 6 | 0.5 | 
+Interior hallway suites | 4 | 0.5 | 
+
+
+viii      connection charge and impact fee
+https://ecode360.com/6476885
+0.24171224527248944
+Water flow per year in gallons @ (production days x 225 gal/day/EDU) | 
+
+
+voting
+https://ecode360.com/6475405
+0.23692986850146666
+That I will be absent from the Town of Georgetown
+on the day of the Annual Municipal Election because of ( ) being in
+the public service of the United States or of this state, ( ) being
+the spouse of a person in the public service of the United States
+or of this state, ( ) being unavoidably absent from the Town, ( )
+being sick or physically disabled, ( ) being on vacation, ( ) being
+unable to vote at a certain time or day due to the tenets or teachings
+of my religion, I cannot appear at the polling place of the Town of
+Georgetown in which I am a qualified voter and for the reason indicated
+I request an absentee ballot." | 
+
+
+voting
+https://ecode360.com/6475405
+0.23368584322654143
+"I do solemnly swear (affirm) that I am a resident
+of the Town of Georgetown and have resided there at least _______________
+years preceding the date of the Annual Municipal Election in which
+this ballot is to be voted; and my local address is ______________________________________________in
+Georgetown. | 
+
+
+housing standards
+https://ecode360.com/6475708
+0.22441457872483564
+House | 3 | 0.5 | 
+
+
+iv      materials and methods of construction
+https://ecode360.com/6476169
+0.22404540289878158
+ | Attn. Wastewater Treatment Facility
+24027 Cedar Lane
+Georgetown, DE 19947 | 
+
+
+xiv      educational assistance
+https://ecode360.com/6475366
+0.21888383059240743
+Excellent | A | 90 to 100 | 100% | 
+Good | B | 80 to 89 | 90% | 
+Passing | C | 70 to 79 | 80% | 
+Failing | D and F | 69 or under | 0% | 
+
+
+fees
+https://ecode360.com/6475517
+0.21195803461017143
+Copy fee (per page) | $0.30 | 
+Copy of Comprehensive Plan | $15.00 | 
+Town of Georgetown Specifications | $15.00 | 
+
+
+xxvii      source water protection areas
+https://ecode360.com/11757295
+0.20301125834673067
+N — NO | 
+Y — YES | 
+C — CONDITIONAL | 
+
+
+voting
+https://ecode360.com/6475405
+0.20092248459406095
+"I do solemnly swear (affirm) that I am a resident
+of the Town of Georgetown, State of Delaware, and that my voting address
+is as it appears on this label. I do solemnly swear (affirm) under
+penalty of perjury that I have not received or accepted, or offered
+to receive or accept, any money or other item of value as compensation,
+inducement or reward for the giving or withholding of a vote at the
+Annual Municipal Election, nor that I am acting under duress or threat
+of duress or harm. | 
+
+
+voting
+https://ecode360.com/6475405
+0.19573492310275473
+Request received from ___________________________________
+of ______________________ by mail _____________ in person; ____________
+ballot and official envelope number ___________ mailed to applicant
+on _____________ or ballot and official envelope delivered to ________________
+on ____________________; marked ballot sealed in package of official
+ballots; marked ballot forward to polls ________________________________; | 
+
+
+iii      incentives
+https://ecode360.com/31938555
+0.19086842739155357
+Less than $99,999 | 0.10% | 0.10% | 50% | 
+$100,000 to $499,999 | 0.30% | 0.30% | 50% | 
+Over $500,000 | 0.50% | 0.50% | 50% | 
+
+
+ii      organization of personnel system
+https://ecode360.com/6474866
+0.15159376224321908
+ | A | Nonexempt hourly | 
+ | B | Exempt salaried | 
+
+
+vi      sewer service charges
+https://ecode360.com/6476192
+0.13872073788190456
+ | Transmission System | 
+
+
+voting
+https://ecode360.com/6475405
+0.121992434203747
+ |  | 
+ | Signature of voter | 
+
+
+viii      conditions of employment
+https://ecode360.com/6475018
+0.07274662676044222
+ | Amphetamines (Uppers) | 
+ | Opiates (Opium) | 
+ | Barbiturates (Downers) | 
+ | Phencyclidine (PCP) | 
+ | Benzodiazepines(Valium) | 
+ | Methaqualone (Quaaludes) | 
+ | Cocaine | 
+ | Alcohol | 
+ | Marijuana | 
+
+
+housing standards
+https://ecode360.com/6475708
+0.040980051547461704
+ | 70 | 1 | 
+ | 170 | 2 | 
+ | 320 | 3 | 
+ | 370 | 4 | 
+
+
+iii      incentives
+https://ecode360.com/31938555
+-0.022991461229556573
+$300 | $1,000,000 | 15% | 
+$1,000,000.01 | $2,000,000 | 30% | 
+$2,000,000.01 | $3,000,000 | 45% | 
+$3,000,000.01 | $4,000,000 | 60% | 
+$4,000,000.01 |  | 75% | 
+
+
+dl      disposition list
+https://ecode360.com/6478148
+-3.01147475144471
+99-05-01 | 5-12-1999 | Zoning Map amendment | NCM | 
+99-06-01 | 6-24-1999 | Adoption of Code | Superseded by Ord. No. 00-01-01 | 
+99-06-02 | 6-24-1999 | Price to purchase code | NCM | 
+99-06-03 | 6-24-1999 | Price for pamphlets | NCM | 
+99-06-02 | 6-24-1999 | Price for annual Code supplements | NCM | 
+99-08-01 | 8-11-1999 | Zoning Map amendment | NCM | 
+99-08-02 | 9-11-1999 | Solid waste amendment | Ch. 185 | 
+99-09-01 | 9-23-1999 | Sewers amendment | Ch. 176 | 
+99-11-01 | 11-10-1999 | Business license fees amendment | Repealed by Ord. No. 2003-3 | 
+99-11-02 | 11-10-1999 | Personnel | Ch. 29 | 
+00-01-01 | 1-12-2000 | Adoption of Code | Ch. 1, Art. I | 
+00-01-02 | 1-12-2000 | Zoning Map amendment | NCM | 
+00-01-03 | 1-12-2000 | Zoning Map amendment | NCM | 
+00-03-01 | 3-23-2000 | Zoning amendment | Ch. 230 | 
+00-03-02 | 3-23-2000 | Zoning amendment | Ch. 230 | 
+00-04-01 | 4-5-2000 | Zoning Map amendment | NCM | 
+00-04-02 | 4-5-2000 | Zoning Map amendment | NCM | 
+00-07-01 | 7-12-2000 | Zoning Map amendment | NCM | 
+00-07-02 | 7-12-2000 | Election workers tax waiver | NCM | 
+00-08-01 | 8-30-2000 | Zoning Map amendment | NCM | 
+00-08-02 | 8-30-2000 | Zoning amendment | Ch. 230 | 
+01-01-02 | 1-25-2001 | Alarms | Ch. 49 | 
+01-003 | 7-11-2001 | Solid waste amendment | Ch. 185 | 
+2001-4 | 11-8-2001 | Zoning amendment | Ch. 230 | 
+2001-5 |  |  | Number not used | 
+2001-6 |  | Zoning Map amendment | Denied | 
+2001-7 | 10-24-2001 | Zoning amendment | Ch. 230 | 
+2001-8 | 10-8-2001 | Business license fees amendment | Repealed by Ord. No. 2003-3 | 
+2001-9 |  | Noise | Tabled | 
+2001-10 | 1-9-2002 | Zoning Map amendment | NCM | 
+2002-1 | 1-23-2002 | Zoning Map amendment | NCM | 
+2002-2 | 3-13-2002 | Zoning amendment | Ch. 230 | 
+2002-3 | 4-24-2002 | Budget | NCM | 
+2002-4 | 5-8-2002 | Fees amendment | Ch. 98 | 
+2002-5 | 5-8-2002 | Fees amendments | Ch. 61; Ch. 130, Ch. 176; Ch. 185; Ch. 230 | 
+2002-6 | 5-8-2002 | Brush, grass and weeds amendment | Ch. 165, Art. I | 
+2002-7 | 6-12-200 | Zoning Map amendment | NCM | 
+2002-8 | 8-28-2002 | Solid waste amendment | Ch. 185 | 
+2002-9 | 9-11-2002 | Zoning Map in GIS format | NCM | 
+2002-10 | 1-9-2003 | Zoning Map amendment | NCM | 
+2003-1 | 2-12-2003 | Zoning Map amendment | NCM | 
+2003-2 | 2-26-2003 | Zoning Map amendment | NCM | 
+2003-3 | 3-12-2003 | Licensing of businesses | Repealed by Ord. No. 2003-8 | 
+2003-4 | 3-26-2003 | Flood damage prevention | Repealed by Ord. No. 2015-1 | 
+2003-5 | 4-23-2003 | Zoning amendment | Ch. 230 | 
+2003-6 | 5-28-2003 | Zoning Map amendment | NCM | 
+2003-7 | 6-25-2003 | Zoning Map amendment | NCM | 
+2003-8 | 6-25-2003 | Licensing of businesses | Ch. 130 | 
+2003-9 | 6-25-2003 | Fees amendment | Ch. 98 | 
+2003-10 | 12-10-2003 | Zoning amendment | Ch. 230 | 
+2003-11 | 9-24-2003 | Fees amendment | Ch. 98 | 
+2004-1 | 8-25-2004 | Solid waste amendment | Ch. 185 | 
+2004-2 | 8-25-2004 | Real estate transfer tax amendment | Ch. 199, Art. I | 
+2004-3 | 9-22-2004 | Fees amendment | Ch. 98 | 
+2004-4 | 10-27-2004 | Licensing of businesses amendment | Ch. 130 | 
+2004-5 | 10-27-2004 | Fees amendment | Ch. 98 | 
+2004-6 | 10-27-2004 | Fees amendment | Ch. 98 | 
+2004-7 | 9-22-2004 | Personnel | Ch. 29 | 
+2005-1 | 1-12-2005 | Fees amendment | Ch. 98 | 
+2005-2 | 1-26-2005 | Personnel amendment | Ch. 29 | 
+2005-3 | 5-11-2005 | Adoption of Building Code amendment | Ch. 61, Art. II | 
+2005-4 | 5-25-2005 | Fees amendment | Ch. 98 | 
+2005-5 | 7-13-2005 | Zoning amendment | Ch. 230 | 
+2005-6 | 7-13-2005 | Subdivision of land amendment | Ch. 194 | 
+2005-7 | 7-13-2005 | Zoning amendment | Ch. 230 | 
+2005-8 | 7-13-2005 | Fees amendment | Ch. 98 | 
+2005-9 | 8-10-2005 | Fees amendment | Ch. 98 | 
+2005-10 | 8-10-2005 | Building permits amendment | Ch. 61, Art. I | 
+2005-11 | 12-14-2005 | Fees amendment | Ch. 98 | 
+2006-1 | 2-8-2006 | Fees amendment | Ch. 98 | 
+2006-2 | 3-8-2006 | Zoning Map amendment | NCM | 
+2006-3 | 3-22-2006 | Zoning Map amendment | NCM | 
+2006-4 | 4-12-2006 | Fees amendment | Ch. 98 | 
+2006-5 | 4-26-2006 | Personnel amendment (Appendix A and Appendix
+B) | See Ch. 29 | 
+2006-6 | 7-12-2006 | Fees amendment | Ch. 98 | 
+2006-7 | 7-26-2006 | Zoning Map amendment | NCM | 
+2006-8 | 7-26-2006 | Zoning Map amendment | NCM | 
+2006-9 | 7-12-2006 | Personnel amendment (Appendix A) | See Ch. 29 | 
+2006-10 | 8-30-2006 | Zoning Map amendment | NCM | 
+2006-11 | 9-13-2006 | Zoning Map amendment | NCM | 
+2007-1 | 1-10-2007 | Fees amendment | Ch. 98 | 
+2007-2 | 1-24-2007 | Abandoned, inoperable or unregistered vehicles
+amendment | Ch. 212 | 
+2007-3 | 2-28-2007 | Personnel amendment (Appendix A) | See Ch. 29 | 
+2007-4 | 3-14-2007 | Fees amendment | Ch. 98 | 
+2007-5 | 3-14-2007 | Fees amendment | Ch. 98 | 
+2007-6 | 3-28-2007 | Personnel amendment (Appendix A) | See Ch. 29 | 
+2007-7 | 5-23-2007 | Smoke-free and tobacco-free policy | Ch. A240, Art. I | 
+2007-8 | 6-13-2007 | Housing standards amendment | Ch. 116 | 
+2007-9 | 6-13-2007 | Housing standards amendment | Ch. 116 | 
+2007-10 | 6-13-2007 | Ice cream peddlers | Ch. 119 | 
+2007-11 | 7-25-2007 | Street acceptance | NCM | 
+2007-12 | 8-8-2007 | Zoning Map amendment | NCM | 
+2007-13 | 8-22-2007 | Animals: curbing of dogs | Ch. 52, Art. IV | 
+2007-14 | 8-22-2007 | Ethics | Ch. 18 | 
+2007-15 | 10-25-2007 | Recreation, education and arts trust funding
+program | NCM | 
+2007-16 | 10-25-2007 | Personnel amendment | Ch. 29 | 
+2007-17 | 11-14-2007 | Property maintenance: habitual offenders | Ch. 165, Art. III | 
+2007-18 | 11-14-2007 | Fees amendment | Ch. 98 | 
+2007-19 | 11-14-2007 | Licensing of businesses amendment | Ch. 130 | 
+2007-20 | 11-14-2007 | Ordinance adoption procedures | Ch. 25 | 
+2007-21 | 1-23-2008 | Zoning amendment | Ch. 230 | 
+2008-1 | 2-13-2008 | Sewers amendment | Ch. 176 | 
+2008-2 | 2-13-2008 | Zoning Map amendment | NCM | 
+2008-3 | 2-13-2008 | Zoning Map amendment | NCM | 
+2008-4 | 3-26-2008 | Zoning amendment | Ch. 230 | 
+2008-5 | 4-9-2008 | Enforcement of Town obligations | Ch. 89 | 
+2008-6 | 4-23-2008 | Sewers amendment | Ch. 176 | 
+2008-7 | 4-23-2008 | Fees amendment | Ch. 98 | 
+2008-8 | 4-23-2008 | Fees amendment | Ch. 98 | 
+2008-9 | 4-8-2008 | Personnel amendment (Appendix A) | See Ch. 29 | 
+2008-10 | 4-23-2008 | Ice cream peddlers amendment | Ch. 119 | 
+2008-11 | 6-25-2008 | Sewers amendment | Ch. 176 | 
+2008-12 | 7-9-2008 | Use of Town property | Ch. 1, Art. II | 
+2008-13 | 7-9-2008 | Ethics amendment | Ch. 18 | 
+2008-14 |  |  | Tabled | 
+2008-15 | 8-13-2008 | Zoning amendment | Ch. 230 | 
+2008-16 | 8-13-2008 | Zoning amendment | Ch. 230 | 
+2008-17 | 8-13-2008 | Zoning Map amendment | NCM | 
+2008-18 | 9-10-2008 | Fees amendment | Ch. 98 | 
+2008-19 | 11-12-2008 | Zoning Map amendment | NCM | 
+2008-20 | 12-10-2008 | Fees amendment | Ch. 98 | 
+2008-21 |  |  | Repealed by Ord. No. 2008-24 | 
+2008-22 | 12-10-2008 | Subdivision of land amendment | Ch. 194 | 
+2008-23 | 1-14-2009 | Property maintenance: brush, grass and weeds
+amendment | Ch. 165, Art. I | 
+2008-24 |  | Ord. No. 2008-21 repealer | Repealer only | 
+2008-25 | 1-14-2009 | Zoning amendment | Ch. 230 | 
+2009-1 | 2-11-2009 | Noise amendment | Ch. 144 | 
+2009-2 | 2-25-2009 | Zoning Map amendment | NCM | 
+2009-3 |  |  | Not adopted | 
+2009-4 |  |  | Not adopted | 
+2009-5 |  |  | Not adopted | 
+2009-6 | 3-25-2009 | Ethics amendment | Ch. 18 | 
+2009-7 | 3-25-2009 | Weather and emergency events policy | Ch. A240, Art. III | 
+2009-8 | 4-22-2009 | Fees amendment | Ch. 98 | 
+2009-9 | 5-13-2009 | Fees amendment | Ch. 98 | 
+2009-10 | 5-27-2009 | Identity theft policies and procedures | Ch. A240, Art. II | 
+2009-11 | 7-8-2009 | Housing standards amendment | Ch. 116 | 
+2009-12 | 8-26-2009 | Zoning amendment | Ch. 230 | 
+2009-13 | 8-26-2009 | Fees amendment | Ch. 98 | 
+2009-14 | 9-23-2009 | Brush, grass and weeds amendment | Ch. 165, Art. I | 
+2009-15 | 9-23-2009 | Housing standards amendment | Ch. 116 | 
+2009-16 | 12-9-2009 | Fees amendment | Ch. 98 | 
+2009-17 | 1-13-2010 | Distribution of printed material | Ch. 135, Art. II | 
+2010-1 | 1-27-2010 | Prohibited animals amendment; fertilizer amendment; zoning amendment | Chs. 52, Art. II; 94, Art. I; 230 | 
+2010-2 | 3-10-2010 | Zoning amendment | Ch. 230 | 
+2010-3 | 3-24-2010 | Streets and sidewalks: snow emergencies | Ch. 190, Art. IV | 
+2010-4 | 6-23-2010 | Licensing of businesses amendment | Ch. 130 | 
+2010-5 | 6-23-2010 | Fees amendment | Ch. 98 | 
+2010-6 |  |  | Not adopted | 
+2010-7 | 10-27-2010 | Enforcement of Town obligations amendment | Ch. 89 | 
+2011-1 | 1-26-2011 | Skateboards amendment | Ch. 181 | 
+2011-2 | 1-26-2011 | Demolition | Ch. 84 | 
+2011-3 | 1-26-2011 | Fees amendment; housing standards amendment | Chs. 98; 116 | 
+2011-4 |  |  | Tabled | 
+2011-5 | 2-9-2011 | Personnel amendment | Ch. 29 | 
+2011-6 | 3-9-2011 | Zoning amendment | Ch. 230 | 
+2011-7 | 4-27-2011 | Fees amendment | Ch. 98 | 
+2011-8 | 4-27-2011 | Personnel amendment (Appendix A) | See Ch. 29 | 
+2011-9 | 4-27-2011 | Animals: dogs at large amendment | Ch. 52, Art. I | 
+2011-10 | 5-25-2011 | Property maintenance: brush, grass and weeds amendment | Ch. 165, Art. I | 
+2011-11 | 5-25-2011 | Subdivision of land amendment | Ch. 194 | 
+2011-12 | 5-25-2011 | Fees amendment | Ch. 98 | 
+2011-13 | 5-25-2011 | Animals: dogs at large amendment | Ch. 52, Art. I | 
+78 Del. Laws, c. 145 | 7-25-2011 | Charter amendment | Sec. 34 | 
+2011-14 |  |  | Denied | 
+2011-15 | 7-27-2011 | Licensing of businesses amendment | Ch. 130 | 
+2011-16 | 9-14-2011 | Vehicles and traffic | Ch. 215 | 
+2011-17 | 9-14-2011 | Water: disconnection and reconnection amendment | Ch. 222, Art. II | 
+2011-18 |  |  | Tabled | 
+2011-19 | 10-12-2011 | Parking violation appeal process | Ch. A240, Art. IV | 
+2011-20 | 12-14-2011 | Zoning amendment | Ch. 230 | 
+2011-21 |  |  | Tabled | 
+2011-22 |  |  | Tabled | 
+2012-1 | 5-9-2012 | Zoning amendment | Ch. 230 | 
+2012-2 | 2-8-2012 | Zoning amendment | Ch. 230 | 
+2012-3 |  |  | Not adopted | 
+2012-4 | 3-8-2012 | Transitional Housing Task Force | NCM | 
+2012-5 | 3-28-2012 | Personnel amendment | Ch. 29 | 
+2012-6 | 4-25-2012 | Salaries amendment | NCM | 
+2012-7 |  |  | Tabled | 
+2012-8 | 7-25-2012 | Vehicles and traffic amendment | Ch. 215 | 
+2012-9 |  |  | Tabled | 
+2012-10 |  |  | Tabled | 
+2013-1 | 2-27-2013 | Enforcement of Town obligations amendment; licensing of businesses
+amendment | Ch. 89; Ch. 130 | 
+2013-2 | 2-27-2013 | Demolition amendment | Ch. 84 | 
+2013-3 | 3-13-2013 | Yard sales | Ch. 225 | 
+2013-4 |  | Zoning amendment | Tabled | 
+2013-5 | 2-13-2013 | Zoning Map amendment | NCM | 
+2013-6 | 3-27-2013 | Licensing of businesses amendment | Ch. 130 | 
+2013-7 | 4-24-2013 | Building permits amendment | Ch. 61, Art. I | 
+2013-8 | 4-24-2013 | Zoning amendment | Ch. 230 | 
+2013-9 | 4-24-2013 | Fees amendment | Ch. 98 | 
+79 Del. Laws, c. 14 | 5-3-2013 | Charter amendment | Charter | 
+2013-10 | 6-26-2013 | Zoning amendment | Ch. 230 | 
+2013-11 | 6-26-2013 | Zoning amendment | Ch. 230 | 
+2013-12 | 6-26-2013 | Zoning Map amendment | NCM | 
+2013-13 |  |  | Tabled | 
+2013-14 | 10-9-2013 | Voting amendment | Ch. 39 | 
+2013-15 | 10-9-2013 | Licensing of businesses amendment | Ch. 130 | 
+2013-16 |  |  | Tabled | 
+2013-17 |  |  | Tabled | 
+2013-18 | 11-13-2013 | Trees | Ch. 208 | 
+2013-19 |  |  | Tabled | 
+2013-20 | 11-13-2013 | Solid waste amendment | Ch. 185 | 
+2013-21 | 12-11-2013 | Ice cream peddlers amendment | Ch. 119 | 
+2014-1 | 4-9-2014 | Fees amendment | Ch. 98 | 
+2014-2 | 5-14-2014 | Housing standards amendment; zoning amendment | Ch. 116; Ch. 230 | 
+2014-3 | 5-14-2014 | Vehicles and traffic amendment | Ch. 215 | 
+2014-4 | 5-14-2014 | Licensing of businesses amendment | Ch. 130 | 
+2014-5 | 6-25-2014 | Zoning amendment | Ch. 230 | 
+2014-6 | 6-25-2014 | Zoning amendment | Ch. 230 | 
+2014-7 | 8-27-2014 | Hotels and motels | Ch. 114 | 
+2014-8 | 9-24-2014 | Yard sales amendment | Ch. 225 | 
+2014-9 | 10-8-2014 | Zoning amendment | Ch. 230 | 
+2014-10 | 9-10-2014 | Zoning Map amendment | NCM | 
+2014-11 | 10-22-2014 | Water amendment | Ch. 222 | 
+2014-12 | 11-12-2014 | Fees amendment | Ch. 98 | 
+2015-1 | 1-28-2015 | Flood damage reduction | Ch. 107 | 
+2015-2 | 3-11-2015 | Zoning amendment | Ch. 230 | 
+2015-3 |  | Personnel amendment | Not adopted | 
+2015-4 | 3-11-2015 | Zoning amendment | Ch. 230 | 
+2015-5 | 2-25-2015 | Property maintenance: clothing donation bins | Ch. 165, Art. IV | 
+2015-6 | 2-25-2015 | Fees amendment | Ch. 98 | 
+2015-7 | 4-8-2015 | Fees amendment | Ch. 98 | 
+2015-8 | 4-8-2015 | Annexations | Ch. 2 | 
+2015-9 |  |  | Tabled | 
+2015-10 | 7-8-2015 | Zoning amendment | Ch. 230 | 
+2015-11 | 5-13-2015 | Zoning Map amendment | NCM | 
+2015-12 | 7-8-2015 | Zoning amendment | Ch. 230 | 
+2015-13 | 10-14-2015 | Hotels and motels amendment | Ch. 114 | 
+2015-14 | 10-28-2015 | Zoning amendment | Ch. 230 | 
+2015-15 | 10-28-2015 | General penalty | Ch. 1, Art. III | 
+2015-16 | 10-28-2015 | Penalties amendment | Ch. 52; Ch. 61; Ch. 70; Ch. 79; Ch. 94; Ch. 114; Ch. 119; Ch. 123; Ch. 130; Ch. 135; Ch. 157; Ch. 165; Ch. 176; Ch. 185; Ch. 190; Ch. 206; Ch. 208; Ch. 212; Ch. 215; Ch. 222; Ch. 225 | 
+2015-17 | 11-10-2015 | Housing standards amendment | Ch. 116 | 
+2015-18 |  |  | Tabled | 
+2015-19 | 1-13-2016 | Building permits amendment | Ch. 61, Art. I | 
+2016-1 | 2-10-2016 | Special events policy | Ch. A240, Art. V | 
+2016-2 | 2-24-2016 | Streets and sidewalks: removal of snow or ice amendment; snow
+emergencies amendment | Ch. 190, Art. I; Ch. 190, Art. IV | 
+2016-3 | 3-9-2016 | Fees amendment; food vendors amendment | Ch. 98; Ch. 119 | 
+2016-4 | 4-13-2016 | Zoning amendment | Ch. 230 | 
+2016-5 | 5-11-2016 | Animals: control of animals amendment | Ch. 52, Art. I | 
+2016-6 | 4-27-2016 | Property maintenance: storage of detrimental objects or materials
+amendment | Ch. 165, Art. II | 
+2016-7 | 5-11-2016 | Fees amendment | Ch. 98 | 
+2016-8 | 8-10-2016 | Licensing of businesses amendment | Ch. 130 | 
+2016-9 | 8-10-2016 | Fees amendment | Ch. 98 | 
+2016-10 | 11-16-2016 | Peace and good order: vehicle repossession | Ch. 157, Art. IV | 
+2016-11 | 11-16-2016 | Downtown Development District incentives | Ch. A250 | 
+2016-12 | 11-16-2016 | Zoning Map amendment | NCM | 
+2017-01 | 4-26-2017 | Zoning amendment | Ch. 230 | 
+2017-02 | 5-10-2017 | Outdoor burning amendment | Ch. 70 | 
+2017-03 | 5-10-2017 | Personnel amendment | Ch. 29 | 
+2017-04 | 6-28-2017 | Zoning amendment | Ch. 230 | 
+81 Del. Laws, c. 138 | 8-30-2017 | Charter amendment | Charter | 
+2017-05 | 9-27-2017 | Zoning amendment | Ch. 230 | 
+2017-06 |  |  | Tabled | 
+2017-07 | 9-27-2017 | Building permits amendment | Ch. 61, Art. I | 
+2017-08 | 9-27-2017 | Licensing of businesses amendment | Ch. 130 | 
+2018-01 | 3-14-2018 | Zoning Map amendment | NCM | 
+2018-02 | 3-28-2018 | Housing Standards amendment | Ch. 116 | 
+2018-03 | 9-12-2018 | Zoning Amendment | Ch. 230 | 
+2018-04 | 12-12-2018 | Peace and Good Order: Camping | Ch. 157, Art. V | 
+2018-05 | 12-12-2018 | Sewers Amendment; Water Amendment | Ch. 176; Ch. 222 | 
+2018-06 | 1-23-2019 | Zoning Amendment | Ch. 230 | 
+2019-01 | 2-27-2019 | Zoning Map Amendment | NCM | 
+2019-02 | 5-22-2019 | Housing Standards Amendment | Ch. 116 | 
+
+

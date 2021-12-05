@@ -1,0 +1,309 @@
+building construction
+https://ecode360.com/8856019
+0.4473025844653628
+Building, plumbing, mechanical, electrical and
+demolition value |  | 
+0 to $2,000 | $28 | 
+Over $2,000 | $14 per thousand or any part thereof | 
+Late fee | $50 (for work started prior to permit) | 
+All certificates of occupancies, Housing Code certificates of
+compliance and all reinspections | $10 per unit | 
+
+
+vehicles and traffic
+https://ecode360.com/8857158
+0.4208752792677395
+ | "WARNING | 
+ | The accumulation of three or more unsatisfied | 
+ | municipal vehicle parking citations upon any one | 
+ | vehicle may result in the impoundment or | 
+ | immobilization of said vehicle upon the occasion | 
+ | of any subsequent violation of any municipal | 
+ | traffic ordinance, rule or regulation." | 
+
+
+reserve accounts
+https://ecode360.com/8855875
+0.3462565825751168
+Town Departments and Board of Education | $400,000 | 
+Water Division | $100,000 | 
+Sewer Division | $100,000 | 
+Electric Division | $150,000 | 
+
+
+amusements
+https://ecode360.com/8855952
+0.3290345421304235
+Circus or menagerie |  | 
+Per day | $100 | 
+Per week | 200 | 
+Carnival or amusement rides |  | 
+Per day | 100 | 
+Per week | 200 | 
+Auction, nonresident, per day | 20 | 
+Auction, resident, per day | 5 | 
+Dance, per day | 2 | 
+Banquet | 2 | 
+Bazaar, per day | 10 | 
+Auctioneer, per year | 25 | 
+
+
+vi      abatement for members of volunteer fire departments
+https://ecode360.com/8857045
+0.31239072117718536
+Except that the years of service shall not begin
+to be credited unless and until the volunteer has qualified for the
+Town of Wallingford Length of Service Award Program (LOSAP), for the
+next preceding calendar year. | 
+
+
+vi      abatement for members of volunteer fire departments
+https://ecode360.com/8857045
+0.2997584901795195
+1-4 | $500 | 
+5-6 | $750 | 
+7-9 | $1,000 | 
+10 or more | $1,500 | 
+
+
+vi      abatement for members of volunteer fire departments
+https://ecode360.com/8857045
+0.2997584901795195
+1-4 | $750 | 
+5-6 | $1,000 | 
+7-9 | $1,250 | 
+10 or more | $2,000 | 
+
+
+dl      disposition list
+https://ecode360.com/8857313
+0.26636388059980226
+630 | 5-22-2019 | Bond | NCM | 1 | 
+631 | 8-16-2019 | Bond | NCM | 1 | 
+632 | 11-12-2019 | Property Maintenance: Blighted Properties Amendment | Ch. 156, Art. I | 1 | 
+633 | 11-12-2019 | Vehicles, Abandoned Repealer | Ch. 214 | 1 | 
+634 | 1-21-2020 | Taxation: Abatement for Members of Volunteer Fire Departments
+Amendment | Ch. 203, Art. VI | 1 | 
+
+
+vi      abatement for members of volunteer fire departments
+https://ecode360.com/8857045
+0.2261010681581179
+Firefighter I, II or III
+Fire Instructor I, II
+Fire Officer I, II
+Safety Officer
+Hazardous Material Technician
+Pump Operator
+Public Educator I, II | 
+
+
+vi      abatement for members of volunteer fire departments
+https://ecode360.com/8857045
+0.2086510166600406
+Chief | 10 | 
+Assistant Chief | 8 | 
+Captain | 6 | 
+Lieutenant | 4 | 
+Engineer | 4 | 
+Treasurer | 2 | 
+Secretary | 2 | 
+
+
+vi      abatement for members of volunteer fire departments
+https://ecode360.com/8857045
+-0.006439271045396766
+ | 
+
+
+dl      disposition list
+https://ecode360.com/8857313
+-1.7430129556917668
+457 | 5-12-1998 | Appropriation | NCM | 
+458 | 6-23-1998 | Appropriation | NCM | 
+459 | 9-22-1998 | Appropriation | NCM | 
+460 | 10-6-1998 | Water line assessment for Seiter Hill | NCM | 
+461 | 10-6-1998 | Appropriation | NCM | 
+462 | 11-10-1998 | Appropriation | NCM | 
+463 | 12-8-1998 | Water line assessment for Fox Run Drive | NCM | 
+464 | 1-12-1999 | Appropriation | NCM | 
+465 | 1-12-1999 | Appropriation | NCM | 
+466 | 1-26-1999 | Historic properties | Ch. 127 | 
+467 | 1-26-1999 | Adoption of Code | Ch. 1, Art. I | 
+468 | 2-23-1999 | Appropriation | NCM | 
+469 | 2-23-1999 | Appropriation | NCM | 
+470 | 4-13-1999 | Appropriation | NCM | 
+471 | 5-11-1999 | Appropriation | NCM | 
+472 | 8-17-1999 | Cats | Ch. 71, Art. III | 
+473 | 8-17-1999 | Center Street Cemetery | Ch. 95, Art. I | 
+474 | 10-26-1999 | Building construction amendment | Ch. 8 | 
+475 | 12-14-1999 | Appropriation | NCM | 
+476 | 3-6-2000 | Appropriation | NCM | 
+477 | 3-22-2000 | Appropriation | NCM | 
+478 | 5-13-2000 | Appropriation | NCM | 
+479 | 6-27-2000 | Tax exemption for vehicles owned by disabled
+persons | Repealed by Ord. No. 482 | 
+480 | 10-10-2000 | Appropriation | NCM | 
+481 | 11-14-2000 | Tax abatement for members of volunteer fire
+departments | Ch. 203, Art. VI | 
+482 | 3-13-2001 | Tax exemption for vehicles owned by disabled
+persons or parents of disabled children | Ch. 203, Art. VII | 
+483 | 4-10-2001 | Appropriation | NCM | 
+484 | 5-22-2001 | Appropriation | NCM | 
+485 | 5-22-2001 | Blighted premises | Repealed by Ord. No. 502 | 
+486 | 6-12-2001 | Snow and ice on sidewalks amendment | Ch. 198, Art. II | 
+487 | 6-26-2001 | Purchasing amendment | Repealed by Ord. No. 542 | 
+488 | 8-20-2001 | Appropriation | NCM | 
+489 | 11-27-2001 | Appropriation | NCM | 
+490 | 1-8-2002 | Appropriation | NCM | 
+491 | 2-26-2002 | Food service establishments | Repealed by Ord. No. 576 | 
+492 | 2-26-2002 | Bond | NCM | 
+493 | 3-26-2002 | Bond | NCM | 
+494 | 3-12-2002 | Noise | Repealed by Ord. No. 499 | 
+495 | 3-26-2002 | Bond | NCM | 
+496 | 5-14-2002 | Bond | NCM | 
+497 | 5-14-2002 | Bond | NCM | 
+498 | 6-11-2002 | Bond | NCM | 
+499 | 9-10-2002 | Noise | Ch. 144 | 
+500 | 9-10-2002 | Tree Warden | Ch. 210 | 
+501 | 9-10-2002 | Street trees amendment | Ch. 198, Art. II | 
+502 | 9-24-2002 | Blighted premises amendment | Repealed by Ord. No. 555 | 
+503 | 10-22-2002 | Newsracks | Ch. 142 | 
+504 | 10-22-2002 | Bond | NCM | 
+505 | 12-10-2002 | Bond | NCM | 
+506 | 5-13-2003 | Bond | NCM | 
+507 | 6-17-2003 | Bond | NCM | 
+508 | 9-9-2003 | Dog leashing amendment | Repealed by Ord. No. 571 | 
+509 | 9-9-2003 | Vendors, hawkers and peddlers | Ch. 221 | 
+510 | 10-28-2003 | Bond amendment | NCM | 
+511 | 10-14-2003 | Littering | Repealed by Ord. No. 558 | 
+512 | 10-28-2003 | Tax abatement for members of volunteer fire
+departments | Ch. 203, Art. VI | 
+513 | 12-9-2003 | Private sewage disposal systems amendment | Ch. 177, Art. II | 
+514 | 2-24-2004 | Alcoholic beverages: seasonal outdoor sidewalk
+dining | Ch. 62, Art. IV | 
+515 | 2-24-2004 | Appropriation | NCM | 
+516 | 3-23-2004 | Solid waste | Repealed by Ord. No. 544 | 
+517 | 3-23-2004 | Veterans tax exemption | Repealed by Ord. No. 537 | 
+518 | 4-27-2004 | Aquifer Protection Agency | Ch. 3 | 
+519 | 5-11-2004 | Appropriation | NCM | 
+520 | 6-8-2004 | Appropriation | NCM | 
+521 |  |  | Number not used | 
+522 | 8-17-2004 | Appropriation | NCM | 
+523 | 10-12-2004 | Appropriation | NCM | 
+524 | 12-14-2004 | Appropriation | NCM | 
+525 | 12-14-2004 | Appropriation | NCM | 
+526 | 1-11-2005 | Appropriation | NCM | 
+527 | 6-13-2005 | Capital improvements | NCM | 
+528 | 6-24-2005 | Land acquisition | NCM | 
+529 | 8-18-2005 | School system renovation appropriation | NCM | 
+530 | 12-29-2005 | Land acquisition | NCM | 
+531 | 12-29-2005 | Land acquisition | NCM | 
+532 | 1-18-2006 | Appropriation | NCM | 
+533 | 5-6-2006 | Appropriation | NCM | 
+534 | 6-8-2006 | Appropriation | NCM | 
+535 | 6-27-2006 | Appropriation | NCM | 
+536 | 9-12-2006 | Tax exemption for certain farm machinery and
+buildings | Ch. 203, Art. VIII | 
+537 | 9-12-2006 | Veterans tax exemption | Ch. 203, Art. II | 
+538 | 9-12-2006 | Alcoholic beverages: hours of sale amendment | Ch. 62, Art. III | 
+539 | 10-10-2006 | Appropriation | NCM | 
+540 | 10-10-2006 | Appropriation | NCM | 
+541 | 12-12-2006 | Parks and park facilities | Ch. 151 | 
+542 | 12-12-2006 | Purchasing | Repealed by Ord. No. 564 | 
+543 | 1-23-2007 | Reserve account for capital and nonrecurring
+expenditures | Ch. 46, Art. II | 
+544 | 1-23-2007 | Solid waste | Ch. 190 | 
+545 | 4-10-2007 | Appropriation | NCM | 
+546 | 4-24-2007 | Appropriation | NCM | 
+547 | 4-24-2007 | Rodents | Ch. 170 | 
+548 | 5-14-2007 | Bond | NCM | 
+549 | 9-25-2007 | Parks and park facilities | Repealed by Ord. No. 553 | 
+550 | 9-25-2007 | Littering: objectionable products | Ch. 139, Art. II | 
+551 | 10-23-2007 | Bonds | NCM | 
+552 | 1-8-2008 | Conservation Commission | Ch. 8, Art. II | 
+553 | 2-25-2008 | Parks and park facilities | Ch. 151 | 
+554 | 5-13-2008 | Bonds | NCM | 
+555 | 7-15-2008 | Blighted premises | Repealed by Ord. No. 588 | 
+556 | 7-15-2008 | Tax exemption for owners of hybrid passenger
+cars or high-mileage motor vehicles | Ch. 203, Art. IX | 
+557 | 7-15-2008 | Bonds | NCM | 
+558 | 9-9-2008 | Litter control | Ch. 139, Art. I | 
+559 | 12-2-2008 | Additional tax exemption for senior citizens
+and disabled persons | Ch. 203, Art. IX | 
+560 | 2-24-2009 | Bonds | NCM | 
+561 | 6-9-2009 | Capital improvements | NCM | 
+562 | 8-31-2009 | Acquisition of property | NCM | 
+563 | 8-31-2009 | Acquisition of property | NCM | 
+564 | 10-27-2009 | Purchasing | Ch. 43 | 
+565 | 6-23-2010 | Capital improvements | NCM | 
+566 | 9-28-2010 | Sewers: subsurface sewage disposal systems | Ch. 177, Art. II | 
+567 | 3-8-2011 | Abandoned vehicles | Repealed by Ord. No. 633 | 
+568 | 5-10-2011 | Capital improvements | NCM | 
+569 | 8-30-2011 | School roof bonding | NCM | 
+570 | 9-13-2011 | Open burning | Ch. 93 | 
+571 | 10-11-2011 | Dog leashing | Ch. 71, Art. II | 
+572 | 10-11-2011 | Health insurance benefits fund | Ch. 25, Art. I | 
+573 |  | School roof bonding | NCM | 
+574 | 2-28-2012 | Purchasing amendment | Ch. 43 | 
+575 | 2-28-2012 | Insurance Commission repealer | Ch. 8, Art. V, footnote only | 
+576 | 4-24-2012 | Food-service establishments | Ch. 122 | 
+577 | 4-24-2012 | Sewers: drains | Ch. 177, Art. I | 
+578 | 4-24-2012 | Purchasing amendment | Ch. 43 | 
+579 | 5-8-2012 | Capital improvements | NCM | 
+580 | 5-8-2012 | Ambulance enterprise fund | Ch. 25, Art. II | 
+581 | 5-8-2012 | Defined contribution retirement plan | Ch. 49, Art. I | 
+582 |  | Bonding | NCM | 
+583 |  | Bonding | NCM | 
+584 | 1-22-2013 | Bicycles repealer | Ch. 75, reference only | 
+585 | 4-9-2013 | Housing partnership | Ch. 28 | 
+586 | 4-9-2013 | Abandoned vehicles amendment | Repealed by Ord. No. 633 | 
+587 |  | Capital improvements bonding | NCM | 
+588 | 5-14-2013 | Blighted properties | Ch. 156, Art. I | 
+589 |  | Bonding | NCM | 
+590 | 5-28-2013 | Seasonal outdoor sidewalk dining | Ch. 62, Art. IV | 
+591 | 7-16-2013 | Appropriation | NCM | 
+592 | 12-10-2013 | Salon establishments | Ch. 173 | 
+593 | 1-14-2014 | Citations: penalties for violations of zoning regulations | Ch. 97, Art. I | 
+594 | 5-13-2014 | Capital improvements | NCM | 
+595 | 7-15-2014 | Athletic advertising fund | NCM | 
+596 | 10-28-2014 | Streets and sidewalks: new sidewalks; snow, ice and obstruction
+removal | Ch. 198, Art. II; Ch. 198, Art. III | 
+597 | 10-28-2014 | Trees and shrubs amendment | Ch. 210 | 
+598 | 11-12-2014 | Appropriation | NCM | 
+599 | 1-13-2015 | Appropriation | NCM | 
+600 | 1-13-2015 | Appropriation | NCM | 
+601 | 4-28-2015 | Appropriation | NCM | 
+602 | 4-28-2015 | Appropriation | NCM | 
+603 | 5-12-2015 | Appropriation | NCM | 
+604 | 6-9-2015 | Veterans tax exemption amendment | Ch. 203, Art. II | 
+605 | 7-6-2015 | Appropriation | NCM | 
+606 | 9-10-2015 | Sewers: inflow infiltration into sanitary sewer system amendment | Ch. 177, Art. I | 
+607 | 9-10-2015 | Property maintenance: blighted properties amendment | Ch. 156, Art. I | 
+608 | 10-27-2015 | Taxation: deferral program for senior citizens and disabled
+persons; additional deferral program for senior citizens and disabled
+persons | Ch. 203, Art. III; Ch. 203, Art. X | 
+609 | 12-28-2015 | Appropriation | NCM | 
+610 | 12-28-2015 | Appropriation | NCM | 
+611 | 2-9-2016 | Appropriation | NCM | 
+612 | 5-10-2016 | Appropriation | NCM | 
+613 | 5-24-2016 | Appropriation | NCM | 
+614 | 6-14-2016 | Alarms amendment | Ch. 59 | 
+615 | 6-14-2016 | Economic Development Commission amendment | Ch. 8, Art. III | 
+616 | 6-28-2016 | Building construction amendment | Ch. 82 | 
+617 | 9-27-2016 | Fire prevention: plan review and certification license inspection
+fees | Ch. 112, Art. I | 
+618 | 6-1-2017 | Capital improvements | NCM | 
+619 |  | Bond | NCM | 
+620 |  | Bond | NCM | 
+621 | 3-14-2018 | Stormwater management | Ch. 195 | 
+622 |  | Bond | NCM | 
+623 |  | Bond | NCM | 
+624 |  | Bond | NCM | 
+625 | 3-26-2019 | Code of Ethics Amendment | Ch. 20 | 
+626 | 3-26-2019 | Minimum Age for Sale and Distribution of Tobacco Products | Ch. 206 | 
+627 | 3-26-2019 | Board and Commission Training Requirements | Ch. 8, Art. IX | 
+628 |  | Bond | NCM | 
+629 | 5-14-2019 | Alcoholic Beverages Amendment | Ch. 62 | 
+
+

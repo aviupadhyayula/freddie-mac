@@ -1,0 +1,168 @@
+stormwater management
+https://ecode360.com/31791940
+0.3039183260035292
+* | The yearly average of the CPI shall be determined by taking
+each published yearly average beginning with 1953 up to and including
+the most recent published yearly average, adding the averages together
+and dividing the total by the number of years included. | 
+** | The yearly average yield of the notes shall be determined by
+taking each published yearly average yield beginning with 1953 up
+to and including the most recent published yearly average yield, adding
+the average yields together and dividing the total by the number of
+years included. | 
+
+
+viii      property tax relief
+https://ecode360.com/31791996
+0.29637794855835614
+$11,000 to 14,400 | $1,375 | $1,100 | 
+$14,401 to 19,400 | $1,100 | $825 | 
+$19,401 to 24,200 | $825 | $605 | 
+$24,201 to 28,800 | $605 | $495 | 
+$28,801 to 35,300 | $495 | $330 | 
+$35,301 to 40,000 | $330 | $330 | 
+$40,001 to 50,000 | $330 | $275 | 
+
+
+fees
+https://ecode360.com/31791879
+0.2863281772871079
+* | In addition to fees listed, the Town Building Department shall
+collect all other fees or surcharges required by the Connecticut General
+Statutes, including State Department of Energy and Environmental Protection
+land use fees. | 
+
+
+ix      exemption for veterans
+https://ecode360.com/31792005
+0.22651532929426224
+Veteran | Burlington Veteran's Maximum Annual Income Limit | 
+Each qualifying veteran | $50,000 | 
+Veteran | Burlington Veteran's Exemption Against Assessed Value | 
+Each qualifying veteran | $10,000 | 
+
+
+dl      disposition list
+https://ecode360.com/31792012
+-0.0038905912188090253
+11-3-2020 | Charter Amendment | Ch. C | 1 | 
+
+
+dl      disposition list
+https://ecode360.com/31792012
+-0.8598495604577662
+7-30-1927 | Board of Finance | REP | 
+7-6-1935 | Sale of Alcoholic Beverages on Sunday | REP | 
+9-13-1950 | Election Date | REP | 
+2-27-1951 | Election Date Amendment | REP | 
+2-27-1951 | Fiscal Year and Property Tax Due Date | Ch. 269, Art. I | 
+10-1-1951 | Surety Bonds for Constables | REP | 
+6-3-1953 | Fish and Game | REP | 
+10-1-1953 | Participation in Old Age and Survivors Insurance System | REP | 
+6-7-1955 | Development Commission (now Economic Development Commission) | Ch. 21 | 
+11-4-1955 | Bazaars and Raffles | Ch. 137 | 
+1-24-1957 | Zoning Board of Appeals | REP | 
+1-24-1957 | Zoning Board (Planning and Zoning Commission) | Ch. 82 | 
+10-5-1959 | Dissolve Planning Commission; Designate Zoning Board as Planning
+and Zoning Commission | Ch. 82 | 
+6-7-1960 | Bingo | Ch. 142 | 
+12-8-1960 | Excavation and Obstruction of Streets | Ch. 260, Art. I | 
+2-2-1961 | Elimination of Filing Real Estate Tax Lists | Ch. 269, Art. II | 
+2-2-1961 | Elimination of Filing Motor Vehicle Tax Lists | Ch. 269, Art. II | 
+2-2-1961 | Zoning Board of Appeals Amendment | REP | 
+2-2-1961 | Planning and Zoning Commission Amendment | Ch. 82 | 
+11-6-1961 | Economic Development Commission Amendment | Ch. 21 | 
+10-1-1962 | Fiscal Year and Property Tax Due Date Amendment | Ch. 269, Art. I | 
+1-18-1963 | Parking | Ch. 288, Art. I | 
+1-18-1963 | Peddlers and Hawkers | Superseded 6-20-2017; see Ch. 188 | 
+10-5-1964 | Justices of the Peace | Repealed 6-24-1996; see Ch. 54 | 
+12-21-1964 | Library | Ch. 60 | 
+12-21-1964 | Voting District and Polling Place | Ch. 25, Art. I | 
+12-21-1964 | Zoning Board of Appeals Amendment | REP | 
+12-21-1964 | Planning and Zoning Commission Amendment | Ch. 82 | 
+5-5-1966 | Economic Development Commission Amendment | Ch. 21 | 
+2-13-1967 | Adoption of State Building Code | Ch. 149, Art. I | 
+2-13-1967 | Cemeteries | Ch. 156 | 
+6-4-1968 | Election Date Amendment | REP | 
+8-20-1970 | Outdoor Fires | Ch. 177, Art. I | 
+9-1-1970 | Conservation Commission (now Inland Wetlands and Watercourses
+Commission) | Ch. 48 | 
+6-1-1971 | Sewer Commission | REP | 
+12-22-1972 | Inland Wetlands and Watercourses Commission Amendment | Ch. 48 | 
+12-22-1972 | Planning and Zoning Commission Amendment | Ch. 82 | 
+3-23-1973 | Acquisition and Lease of Old Tavern on the Town Green | NCM | 
+3-23-1973 | Board of Appeals | Ch. 149, Art. II | 
+3-23-1973 | Term of Office for Town Clerk and Registrars of Voters | REP | 
+4-1-1973 | Central Connecticut Regional Planning Agency | Repealed 6-3-2014; see Ch. 66 | 
+6-5-1973 | Board of Appeals Amendment | Ch. 149, Art. II | 
+3-1-1974 | Water Supply System | Ch. 300, Art. I | 
+4-2-1974 | Due Date for Taxes on Motor Vehicles and Aircraft | Ch. 269, Art. III | 
+4-2-1974 | Inland Wetlands and Watercourses Commission Amendment | Ch. 48 | 
+9-26-1974 | Parks and Recreation Commission | Ch. 77 | 
+1-21-1975 | Parks and Recreation Commission Amendment | Ch. 77 | 
+1-21-1975 | Application for Flood Insurance (Part A) | Ch. A401, Art. I | 
+1-21-1975 | Application for Flood Insurance (Part B) | Ch. A401, Art. II | 
+1-21-1975 | Board of Admission of Electors | REP | 
+1-8-1976 | Permit Fees | Superseded 4-16-1979; see Ch. 173, Art. I | 
+1-8-1976 | Hours for Referenda | Ch. 25, Art. II | 
+6-1-1976 | Economic Development Commission Amendment | Ch. 21 | 
+12-22-1976 | Economic Development Commission Amendment | Ch. 21 | 
+5-17-1977 | Exemption for Solar Energy | REP | 
+4-16-1979 | Permit Fees | Ch. 173, Art. I | 
+4-16-1979 | Commission on Senior Citizens | Ch. 95 | 
+5-29-1979 | Health Department | Ch. 42 | 
+2-14-1981 | Treasurer and Agent of Town Deposit Fund | Ch. 71, Art. I | 
+2-14-1981 | Appointment of Constables | Ch. 71, Art. II | 
+8-17-1981 | Floodplain Management | Superseded 10-5-1998; see Ch. 181 | 
+6-30-1982 | Commission on Senior Citizens Amendment | Ch. 95 | 
+6-30-1982 | Parks and Recreation Commission Amendment | Ch. 77 | 
+10-4-1982 | Waiver of Certain Property Taxes | Ch. 269, Art. IV | 
+12-13-1982 | Street Numbers | Ch. 260, Art. II | 
+10-3-1983 | Sewerage System Charges | Ch. 248, Art. I | 
+3-20-1984 | Junked Motor Vehicles | Ch. 288, Art. II | 
+3-29-1985 | Participation in Old Age and Survivors Insurance System Amendment | REP | 
+8-19-1985 | Agreement for Municipal Solid Waste Disposal and Resource Recovery | NCM | 
+1985 | Ratification of Agreement | NCM | 
+9-5-1985 | Solid Waste Collection and Disposal | Superseded 6-5-2018; see Ch. 296, Art. II | 
+9-5-1985 | Sewer Commission Amendment | REP | 
+10-1-1985 | Exemption for Blind Persons | Ch. 269, Art. V | 
+4-3-1986 | Parks and Recreation Commission Amendment | Ch. 77 | 
+4-3-1986 | Economic Development Commission Amendment | Ch. 21 | 
+11-7-1986 | Use of Town Landfill with Windshield Stickers | REP | 
+1-29-1990 | Injuries Caused by Dogs | Superseded 6-20-2017; see Ch. 131, Art. I | 
+2-28-1991 | Recycling | Superseded 6-5-2018; see Ch. 296, Art. II | 
+6-3-1996 | Littering, Dumping and Mixing of Solid Waste and Recyclables | Ch. 296, Art. I | 
+6-24-1996 | Justices of the Peace | Ch. 54 | 
+11-25-1997 | Bristol Resource Recovery Facility | NCM | 
+6-2-1998 | Exemption for Ambulance-Type Vehicles | Ch. 269, Art. VI | 
+10-5-1998 | Floodplain Management | Ch. 181 | 
+11-18-1999 | Code of Ethics | Ch. 29 | 
+11-26-2001 | Tobacco Vending Machines | REP | 
+1-28-2002 | Tax Relief for Volunteer Firefighters | Ch. 269, Art. VII | 
+6-28-2002 | Dog Control | Superseded 6-20-2017; see Ch. 131, Art. I | 
+7-1-2006 | Adult-Oriented Establishments | Ch. 122 | 
+10-23-2006 | Conservation Commission | Ch. 12 | 
+2-9-2007 | Aquifer Protection Agency | Superseded 1-22-2018; see Ch. 5 | 
+10-1-2007 | Land Use Fees | Ch. 173, Art. II | 
+10-18-2007 | Property Tax Relief | Ch. 269, Art. VIII | 
+10-18-2007 | Exemption for Veterans | Ch. 269, Art. IX | 
+3-3-2008 | Stormwater Management | Ch. 256, Art. I | 
+2-26-2010 | Property Tax Relief Amendment | Ch. 269, Art. VIII | 
+2-26-2010 | Exemption for Veterans Amendment | Ch. 269, Art. IX | 
+6-5-2012 | Code of Ethics Amendment | Ch. 29 | 
+12-6-2012 | Charter | Charter | 
+6-3-2014 | Northwest Hills Council of Governments | Ch. 66 | 
+6-20-2017 | Advertising Matter and Newspapers | Ch. 123 | 
+6-20-2017 | Alarm Systems | Ch. 125 | 
+6-20-2017 | Possession or Consumption of Alcoholic Beverages on Town Property | Ch. 126, Art. I | 
+6-20-2017 | Dogs | Ch. 131, Art. I | 
+6-20-2017 | Drones | Ch. 164 | 
+6-20-2017 | Hawkers and Peddlers | Ch. 188 | 
+6-20-2017 | Parks and Public Places | Ch. 230 | 
+6-20-2017 | Sidewalk and Hydrant Maintenance | Ch. 260, Art. III | 
+1-22-2018 | Aquifer Protection Agency | Ch. 5 | 
+6-5-2018 | Appointment of Constables Amendment | Ch. 71, Art. II | 
+6-5-2018 | Recyclables and Solid Waste | Ch. 296, Art. II | 
+4-23-2019 | Adoption of Code | Ch. 1, Art. I | 
+
+

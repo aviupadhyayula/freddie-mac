@@ -1,0 +1,912 @@
+ii      zoning classifications
+https://ecode360.com/10132523
+0.7191851043203503
+Single-Family Residential Zone (R-1) | 
+Duplex Residential Zone (R-2) | 
+Townhouse Residential Zone (R-3) | 
+Multifamily Residential Zone (R-4) | 
+Neighborhood Commercial Zone (C-1) | 
+Central Commercial Zone (C-2) | 
+Service Commercial Zone (C-3) | 
+Manufacturing Zone (M) | 
+Industrial Park Manufacturing Zone (IMP) | 
+Traditional Neighborhood Development Zone (TND) | 
+
+
+xv      parking and access
+https://ecode360.com/10132858
+0.5427785514067677
+Residential | 60% | 100% | 100% | 80% | 100% | 100% | 
+Office | 100% | 10% | 5% | 5% | 5% | 5% | 
+Commercial | 90% | 80% | 5% | 100% | 60% | 5% | 
+Restaurant | 70% | 100% | 10% | 70% | 100% | 20% | 
+Entertainment | 40% | 100% | 10% | 80% | 100% | 50% | 
+Institutional (nonreligious) | 100% | 40% | 5% | 10% | 10% | 5% | 
+Religious institution | 20% | 40% | 5% | 100% | 50% | 5% | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.4447864019067218
+Rough wiring |  | 
+1 to 50 devices/outlets | $55 | 
+Each additional 25 devices/outlets | $15 | 
+Finals |  | 
+1 to 50 devices/outlets | $55 | 
+Each additional 25 devices/outlets | $15 | 
+Equipment |  | 
+First outlet of maximum 30 KW | $55 | 
+Each additional outlet | $15 | 
+Heat pumps | $55 | 
+Service equipment |  | 
+Maximum 400 amp | $75 | 
+Over 400 amp to 1,000 amp | $100 | 
+Over 1,000 amp | Quote | 
+
+
+ii      parking regulations
+https://ecode360.com/10132324
+0.4425040864523284
+Center Street | Both | From Weiner Avenue for a distance of 40 feet
+east and 40 feet west | 
+Clark Street[Added 6-14-1982] | North | From the east side of Delaware Avenue east for
+a distance of 138 feet | 
+Weiner Avenue | Both | From Center Street for a distance of 30 feet
+north and 30 feet south | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.44161652175360633
+Administrative fee, prohibited weed growth violations | $100 | $0 | $100 | No | 
+Property maintenance violations |  |  |  |  | 
+First offense | $25 | $0 | $25 | No | 
+Second offense | $50 | $0 | $50 | No | 
+Third offense | $100 | $0 | $100 | No | 
+Abatement of property maintenance violations | Contractor service fee + 10% ($25 total minimum) | $0 | Contractor service fee + 10% ($25 total minimum) | Yes | 
+Property maintenance ticket |  |  |  |  | 
+Property maintenance ticket | $50 | $0 | $50 | No | 
+Formal appeal to City Manager | $200 | $0 | $200 | No | 
+Formal appeal to City Council | $500 | $0 | $500 | No | 
+Show-cause hearing | $100 | $0 | $100 | No | 
+Property maintenance criminal penalties |  |  |  |  | 
+First conviction | $250-$1,000 | $0 | $250-$1,000 | No | 
+Second conviction | $500-$2,500 | $0 | $500-$2,500 | No | 
+All subsequent convictions | $1,000-$5,000 | $0 | $1,000-$5,000 | No | 
+Street and sidewalk violations |  |  |  |  | 
+First offense | $25 | $0 | $25 | No | 
+Second offense | $50 | $0 | $50 | No | 
+Third offense | $100 | $0 | $100 | No | 
+Abatement of street and sidewalk violations | Contractor service fee + 10% ($25 total minimum) | $0 | Contractor service fee + 10% ($25 total minimum) | Yes | 
+
+
+ii      sewer use
+https://ecode360.com/10131464
+0.413972686521984
+ | Telephone notification | Pretreatment coordinator (WWS) | 
+ | Notice of violation | Pretreatment coordinator (WWS) | 
+ | Administrative order | City Manager | 
+ | Show-cause hearing | City Manager | 
+ | Administrative fine | City Manager | 
+ | Civil action | City Manager | 
+ | Termination of service | City Manager | 
+ | Criminal investigation | City Manager | 
+ | Search warrant | City Manager | 
+
+
+xv      parking and access
+https://ecode360.com/10132858
+0.40972331603390766
+Figure 15.4. Sketch of Mixed Use Buildings and Parking
+ 
+
+Aerial perspective sketch of a mixed-use area integrating commercial
+(ground floor) and residential (second story) uses. A relatively narrow
+gap in the continuous street wall (created by the mixed-use buildings)
+provides access from the street to a landscaped, pedestrian-friendly
+parking lot. | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.4073404674397249
+Additional room | $50 | 
+Finished basement/bonus room | $4.50 | 
+Bath (additional plus square feet) | $300 lump sum | 
+Siding/roofing | $3 | 
+Open deck or porch | $8.50 | 
+Porch with roof | $14 | 
+Porch enclosed (finished) | $22 | 
+Porch enclosed (unfinished) | $19 | 
+Renovations (structural) | $25 | 
+Renovations (non-structural) | $4.50 | 
+Fireplace prefab/wood pellet | $1,250 flat rate | 
+Fireplace masonry | $3,500 flat rate | 
+Chimney | $1,000 flat rate | 
+
+
+xv      parking and access
+https://ecode360.com/10132858
+0.40598953280968864
+ | All dwelling units: single-family, cottage, duplex, townhouse,
+and multifamily dwellings | 2 spaces per unit | 
+ | Residents dwellings in mixed-use buildings | 2 spaces per unit | 
+ | Day-care center/kindergarten | 1 space for each adult attendant plus 2 spaces for every 10
+children | 
+ | Educational institutions | Elementary/junior high - 1 space for every 20 classroom seats,
+1 space for every 5 seats in all-purpose room, 3 spaces for visitors
+High school/technical/college/university - 2 spaces for every
+3 students, plus 1 space for each staff member, 20 spaces for visitors,
+1 space for every 3 seats in auditorium or 1 space for each 40 square
+feet of seating where fixed seating is not used | 
+ | Equipment sales/service shop/wholesale storage and facilities | 2 spaces per 1,000 sq. ft. GFA plus 1 space per 300 sq. ft.
+GFA over 1,000 sq. ft. | 
+ | Financial institution | 1 space per 300 sq. ft. GFA plus 1 space for each employee | 
+ | Fitness/wellness center | 10 spaces per every 1,000 sq. ft. GFA plus 1 per every 2 employees | 
+ | Food/beverage processing and packaging | Same as for manufacturing | 
+ | Funeral home | 1 space per for every 2 employees plus 10 spaces per public
+room | 
+ | Home occupation | 1 space per nonresident employee, 1 space per 100 sq. ft. of
+floor area for those home occupations with a visiting clientele | 
+ | Hospital, medical center, nursing home (emergency/overnight
+services) | 1 space for each 2 beds, 1 space per staff, 1 space per hospital
+vehicle, and 10 spaces per outpatient services | 
+ | Hotel, motel, bed-and-breakfast | 1 space per guest room plus 1 space for each 3 employees and
+1 space per 200 sq. ft. of common or public use (lobby, bar, meeting
+rooms, etc.) | 
+ | Kennel, veterinary boarding hospital | 1 space per 400 sq. ft. floor space in office with a 4 space
+minimum | 
+ | Laundry, dry-cleaning, clothes-pressing establishment | 1 space per 300 sq. ft. GFA | 
+ | Manufacturing | 1 space per 200 sq. ft. floor area devoted to sales plus 1 space
+for every 2 employees of the largest shift | 
+ | Motor vehicle filling station, repair, service, storage | 1 space per 300 sq. ft. GFA plus 1 space per employee | 
+ | Motor vehicle sales | 10 spaces for customers plus 1 space per employee | 
+ | Nursery, commercial greenhouse, garden and agriculture supply
+sales | Same as for manufacturing | 
+ | Offices: business, professional, social services including health
+care/dental walk-in services | 1 space per 200 sq. ft. GFA plus 1 space for each 2 employees | 
+ | Places of worship | 1 space per 5 seats or 1 per 200 sq. ft. GFA | 
+ | Post office | 1 space per 600 sq. ft. GFA plus 1 space per employee | 
+ | Private clubs, fraternal organizations, community centers, theater,
+entertainment establishment, museum | 1 space for each 3 seats or 1 space for each 1,000 sq. ft. of
+floor area | 
+ | Public safety facilities, including ambulance, fire, police,
+emergency medical services | 1 space per 200 sq. ft. GFA of office space plus 1 per 400 sq.
+ft. GFA of meeting space | 
+ | Research/design/development laboratories | 1 space per 1,000 sq. ft. GFA | 
+ | Restaurants, including fast food | 1 space per 3 seats or 1 space for each 100 sq. ft. GFA, whichever
+is greater | 
+ | Retail sales, retail food establishment, personal service (excluding
+supermarkets) | 1 space per 200 sq. ft. floor area devoted to sales/service
+plus 1 space for each 2 employees | 
+ | Shopping center | 4 spaces per 1,000 sq. ft. GFA | 
+ | Supermarket, shopping center | 3 spaces per 3,000 sq. ft. GFA | 
+ | Transshipment/distribution/ trucking terminals | Same as for manufacturing | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.4051150698470379
+Alterations/additions, maximum of 30 devices | $85 | 
+Alterations/additions, more than 30 devices | $100 | 
+Services/feeder equipment, up to 400 amp | $75 | 
+Temporary construction service | $75 | 
+Swimming pools/hot tubs, 1 trip | $75 | 
+Swimming pools/hot tubs, 2 trips | $120 | 
+Alternate power sources, maximum 25 KVA | $120 | 
+Generators, maximum 30 KVA | $75 | 
+Reintroduction of power/survey | $100 | 
+
+
+vii      plan requirements
+https://ecode360.com/10131836
+0.40282871151481314
+ | "It is hereby certified that the undersigned
+are the owner and developers of the land shown on this subdivision
+plot plan and that the streets, lanes, avenues and park areas hereon
+shown with the section approved for development are dedicated for
+the general use of the traveling public and for the use of the abutting
+property owners. This dedication shall impose no duty nor obligation
+upon the City of Harrington respecting the maintenance and improvement
+of the dedicated streets, lanes, avenues and park areas, unless otherwise
+agreed by the City of Harrington." | 
+
+
+iv      incentives for downtown development district
+https://ecode360.com/31274824
+0.4027827652908468
+ | * | Number of impact fees waived is for both water and sewer (1
+= 1 water impact fee and 1 sewer impact fee) | 
+
+
+ix      application and approval procedure
+https://ecode360.com/10131961
+0.3941742516688198
+ | "It hereby is certified that this subdivision
+plan was granted final approval by the City Council of the City of
+Harrington, Delaware, on __________, and accordingly is eligible for
+recording in the office of the Recorder of Deeds for Kent County,
+Delaware. | 
+ |  | 
+ | City Manager or City representative" | 
+
+
+ix      application and approval procedure
+https://ecode360.com/10131961
+0.3927912241076542
+ | "It hereby is certified that the section or
+sections of this subdivision plan distinctively shown hereon as the
+part to be recorded were granted final approval by the City Council
+of City of Harrington, Delaware, on __________, and, accordingly,
+the section or sections so shown are eligible for recording in the
+office of the Recorder of Deeds for Kent County, Delaware. | 
+ |  | 
+ | City Manager or City representative" | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.39246260377429354
+Agricultural building | $30 flat rate | 
+Attached garage | $13 | 
+Detached garage | $16 | 
+Pole structure with floor | $10 | 
+Pole structure-no floor (carport) | $6 | 
+Shed (less than 300 square feet) | $7 | 
+Shed (more than 300 square feet) | $10 | 
+
+
+ix      application and approval procedure
+https://ecode360.com/10131961
+0.3905656416580976
+ | "It hereby is certified that this subdivision
+plan was granted preliminary approval valid for five years by the
+City Council of the City of Harrington, Delaware, on __________, subject
+to presentation to the Planning Commission of successive sections
+thereof to be considered for final approval. Only such sections hereof
+as may be granted specific City Council final approval and so certified
+by the City Manager or City representative shall be eligible for recording
+in the office of the Recorder of Deeds for Kent County, Delaware. | 
+ |  | 
+ | City Manager or City representative" | 
+
+
+xiii      general regulations
+https://ecode360.com/10132765
+0.38731689361445204
+1. | See § 440-142, Height limit exemptions. | 
+2. | Includes both principal and accessory buildings, and impervious
+coverage. | 
+3. | Tract area is the minimum acreage or square footage needed to
+develop land for each unit type. | 
+4. | Lot area is the minimum lot size for each dwelling unit type. | 
+5. | See § 440-145, Front yard adjustments. | 
+
+
+iv      incentives for downtown development district
+https://ecode360.com/31274824
+0.38543882977167765
+ | 1 | 5 to 9 | 1 | 
+ | 2 | 10 to 14 | 2 | 
+ | 3 | 15 to 19 | 3 | 
+ | 4 | 20 to 24 | 4 | 
+ | 5 | 25 to 29 | 5 | 
+ | 6 | 30 or more | All | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.3744523471472277
+Single-family, maximum 200 amp service* | $110 | 
+Single-family, over 200 amp service* | $125 | 
+Modular dwelling, service and final only | $100 | 
+Modular dwelling, with additions | $120 | 
+Manufactured (mobile homes), service only | $85 | 
+
+
+iii      commercial vehicle traffic
+https://ecode360.com/10132368
+0.37278719933949467
+Hanley Street | From Clark Street to Reese Avenue | 
+Mechanic Street | From Dorman Street to West Street | 
+Porter Street | From alley in back of Hy-Grade Dairies to U.S.
+13 South | 
+Reese Avenue[Added 11-17-1997] | Entire length | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.3695287452611694
+Full bath | $1,200 flat rate |  | 
+Half bath | $850 flat rate |  | 
+Prefab fireplace | $1,250 flat rate |  | 
+Masonry fireplace | $3,250 flat rate |  | 
+Finished basement | $4.50 |  | 
+Open deck or porch | $8.50 |  | 
+Porch with roof | $13 |  | 
+Porch enclosed (unfinished) | $19 |  | 
+Renovations (nonstructural) | $4.50 |  | 
+Attached garage | $13 | $16 | 
+Detached garage | $16 | $19 | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.36407103588109535
+Business license |  |  |  |  | 
+All other trades, businesses or occupations | $50 | $0 | $50 | No | 
+Distributors and manufacturers, 1-49 employees | $250 | $0 | $350 | No | 
+Distributors and manufacturers, 50 or more employees | $500 | $0 | $500 | No | 
+Gas, light, power, cable, TV, telephone, satellite
+companies | $825 | $0 | $825 | No | 
+Hotels and motels, per room | $10 | $0 | $10 | No | 
+Hotels and motels, per suite | $15 | $0 | $15 | No | 
+Mobile home park, per space | $25 | $0 | $25 | No | 
+Railroads | $825 | $0 | $825 | No | 
+Contractor license | $100 | $0 | $100 | No | 
+Duplicate license | $7.50 | $0 | $7.50 | No | 
+Failure to obtain license fine, per month |  |  |  |  | 
+First month | $100 | $0 | $100 | No | 
+Second month | $200 | $0 | $200 | No | 
+Third and every month thereafter | $300 | $0 | $300 | No | 
+Failure to obtain a rental inspection fine, per month |  |  |  |  | 
+First month | $50 | $0 | $50 | No | 
+Second month | $100 | $0 | $100 | No | 
+Third and every month thereafter | $150 | $0 | $150 | No | 
+Manufactured home registration sticker | $225 | $0 | $225 | No | 
+Manufactured home annual license | $225 | $0 | $225 | No | 
+Manufactured home license, fine for failure to renew, per month | 10% | $0 | 10% | No | 
+Manufactured home park operator fines |  |  |  |  | 
+Allowing placement of manufactured home without
+registration sticker, doubled if not paid within 10 days | $100 | $0 | $100 | No | 
+Allowing manufactured home to remain in park without
+license, doubled if not paid within 10 days | $100 | $0 | $100 | No | 
+Peddler/solicitor license | $50 | $0 | $50 | No | 
+Rental license | $75 | $0 | $75 | No | 
+
+
+xv      parking and access
+https://ecode360.com/10132858
+0.360281656266069
+ | * | GFA = Gross Floor Area; When determination of the number of
+parking spaces required results in a fractional space, any fraction
+shall be counted as one parking space. | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.349601026111952
+BVD value based on Occupancy Classification and Construction
+Type | 
+X    Square footage of occupancy/structure | 
+X    Locality multiplier (standard
+0.001) | 
+Inspection fee | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.33951353851650035
+* In addition to the sewer usage fee, users will be billed for
+a Kent County treatment fee approved by Kent County. As of 2014, Kent
+County approved rate is $2.34 per 1,000 gallons. | 
+
+
+rental properties
+https://ecode360.com/12355472
+0.3338526100271244
+ | In addition to all other terms of the lease, landlord and tenant
+agree as follows: | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.3319627481354124
+* See § 180-1E for the sewer impact fee step increase schedule. Applicants will also be billed for the current Kent County sewer impact fee. | 
+** (See Subsections B and C for more permit and inspection fees) | 
+
+
+xv      parking and access
+https://ecode360.com/10132858
+0.3181507866061845
+ | One-way traffic | 15 | 16 | 18 | 24 | 
+ | Two-way traffic | 22 | 22 | 23 | 24 | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.30257165046815565
+One-story | $55 | $58 | 
+One-and-one-half story | $50 | $54 | 
+Split and bilevel | $50 | $54 | 
+Two-story | $50 | $54 | 
+Townhouse | $48 |  | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.29967784234680295
+* | Includes rough-in with service equipment and final inspection
+(one trip each, two trips total). | 
+
+
+xiii      general regulations
+https://ecode360.com/10132765
+0.29604507906721467
+ | * | The minimum setback may be adjusted based on the location of
+tax ditch easements. Contact the Tax Ditch Association (DNREC) to
+determine easement locations. | 
+
+
+ii      sewer use
+https://ecode360.com/10131464
+0.2849614749052567
+ | First | $100 | 
+ | Second | $200 | 
+ | Third | $300 | 
+ | Fourth | $400 | 
+ | Fifth | $500 | 
+ | Sixth | $600 | 
+ | Seventh | $700 | 
+ | Eighth | $800 | 
+ | Ninth | $900 | 
+ | Tenth | $1,000 | 
+ | Additional | $1,000 | 
+
+
+ii      sewer use
+https://ecode360.com/10131464
+0.27765274930952893
+ | Arsenic as AS | 0.5 | 
+ | Cadmium as Cd | 0.4 | 
+ | Chromium (hexavalent) as Cr | 0.2 | 
+ | Cyanide as CN | 0.5 | 
+ | Lead as pb | 0.5 | 
+ | Copper as Cu | 1.0 | 
+ | Mercury as Hg | 0.5 | 
+ | Nickel as Ni | 2.0 | 
+ | Zinc as Zn | 5.0 | 
+
+
+xiv      signs
+https://ecode360.com/10132786
+0.2751639830233308
+ | R-1 | Single-Family Residential. | 
+ | R-2 | Duplex Residential. | 
+ | R-3 | Townhouse Residential. | 
+ | R-4 | Multifamily Residential. | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.2718378680553307
+Administrative fee, per certified mail letter/notice | $25 | $0 | $25 | No | 
+Animals Chapter violations | $100 | $0 | $100 | No | 
+Copies, per page | $0.30 | $0 | $0.30 | No | 
+Disorderly premises |  |  |  |  | 
+First offense, minimum fine | $100 | $0 | $100 | No | 
+Second offense, minimum fine | $300 | $0 | $300 | No | 
+Each subsequent like offense | $500 | $0 | $500 | No | 
+Maximum fine per offense | $1,000 | $0 | $1,000 | No | 
+FOIA request |  |  |  |  | 
+Standard size copies/printout, black and white,
+per page | $0.30 | $0 | $0.30 | No | 
+Standard size copies/printout, color, per page | $1 | $0 | $1 | No | 
+Labor, materials, and other costs charged at cost | At cost | $0 | At cost | No | 
+Juvenile curfew violations fines |  |  |  |  | 
+First offense by a parent | $5 | $0 | $5 | No | 
+Second offense by a parent | $15 | $0 | $15 | No | 
+Third and all subsequent offenses by a parent | $25 | $0 | $25 | No | 
+Personnel costs, per hour | $35 | $0 | $35 | No | 
+First offense by an operator | $100 | $0 | $100 | No | 
+Second offense by an operator | $150 | $0 | $150 | No | 
+Third and all subsequent offenses by an operator | $300 | $0 | $300 | No | 
+Parent knowingly provided false information | $100 | $0 | $100 | No | 
+Notary services, per stamp | $2 | $0 | $2 | No | 
+Open burning violations | $50 | $0 | $50 | No | 
+Property tax rate | $1.06/$100 on 100% | $0 | $1.06/$100 on 100% | No | 
+Returned checks | $30 | $0 | $30 | No | 
+Tax relief for senior citizens | 5% | $0 | 5% | No | 
+Transfer tax | 1.5% | $0 | 1.5% | No | 
+Vacant buildings |  |  |  |  | 
+Vacant building inspection (yearly after first year) | $75 | $0 | $75 | No | 
+Vacant building registration | $75 | $0 | $75 | No | 
+Failure-to-register fine (monthly) | $50 | $0 | $50 | No | 
+
+
+i      adoption of standards
+https://ecode360.com/10131322
+0.2705266098860132
+ | 111.2 Membership of board. Appeals shall be heard
+by the City Council. | 
+
+
+building standards
+https://ecode360.com/12355454
+0.24566250636566878
+a. | Tabulated values assume #2 grade lumber | 
+b. | Truss reactions = Total load. | 
+
+
+xiii      general regulations
+https://ecode360.com/10132765
+0.24121177568247962
+ | (NOTE: Permanent amenities include, but are not limited to,
+fixed benches, fixed picnic tables, pavilions, amphitheaters, kiosks,
+fountains, monuments, trash receptacles, bicycle racks, aesthetic
+lighting, perennial gardens, and similar features.) | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.23751654956421533
+Vinyl |  | $5 | $7 |  | 
+Rail fence | $2 | $3 |  |  | 
+Chain link |  | $3 | $5 | $6 | 
+Wood |  | $5 | $7 |  | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.23751654956421533
+Vinyl |  | $5 | $7 |  | 
+Rail fence | $2 | $3 |  |  | 
+Chain link |  | $3 | $5 | $6 | 
+Wood |  | $5 | $7 |  | 
+
+
+building standards
+https://ecode360.com/12355454
+0.2141596226838509
+25 | 90 | No | A & B | Severe | 24" | Moder-
+ate To heavy | 18 89/75 | No | 06/01/1977
+07/07/2014
+330 07/07/2014
+337 07/07/2014
+341 07/07/2014 | 325 | 56.2 | 2000 psf | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.18922750994596732
+Annexation application | $400 + $50/acre | $0 | $400 + $50/acre | Yes | 
+Board of Adjustment variances | $400 | $0 | $400 | Yes | 
+Board of Adjustment appeals | $500 | $0 | $500 | Yes | 
+Category A, Conceptual site plan review | $400 | $0 | $400 | Yes | 
+Category A, Preliminary site plan review | $400 + $50/1,000 sq. ft. new gross floor area | $0 | $400 + $50/1,000 sq. ft. new gross floor area | Yes | 
+Category A, Final site plan review | $400 + $50/1,000 sq. ft. new gross floor area | $0 | $400 + $50/1,000 sq. ft. new gross floor area | Yes | 
+Category B, Administrative plan review, R-1 and R-2 residential
+properties except in approved residential subdivisions | $350 | $0 | $350 | Yes | 
+Category B, Administrative plan review, all others besides R-1
+and R-2 residential properties | $400 | $0 | $400 | Yes | 
+Category B, Administrative plan review, R-1 and R-2 properties
+in approved subdivisions | $200 | $0 | $200 | Yes | 
+Conditional use | $500 | $0 | $500 | Yes | 
+Demolition permit |  |  |  |  | 
+Accessory structure | $40 | $0 | $40 | No | 
+Residential | $85 | $0 | $85 | No | 
+Commercial/institutional | $150 | $0 | $150 | No | 
+Impact fees* |  |  |  |  | 
+Community impact fee | $1,000 | $0 | $1,000 | No | 
+Water impact fee, per EDU | $1,170 | $0 | $1,170 | No | 
+Major subdivision, conceptual | $400 | $0 | $400 | Yes | 
+Major subdivision, preliminary | $400 + $10/lot or dwelling unit | $0 | $400 + $10/lot or dwelling unit | Yes | 
+Major subdivision, final plat approval | $400 + $10/lot or dwelling unit | $0 | $400 + $10/lot or dwelling unit | Yes | 
+Minor subdivision | $400 | $0 | $400 | Yes | 
+Professional fees | Billable to applicant |  |  | Yes | 
+Portable storage unit permit |  |  |  |  | 
+Initial permit | $25 | $0 | $25 | No | 
+Permit renewal | $25 | $0 | $25 | No | 
+Violation, first offense | $25 | $0 | $25 | No | 
+Violation, second offense | $50 | $0 | $50 | No | 
+Violation, third offense | $100 | $0 | $100 | No | 
+Public open space contribution | $325/dwelling unit | $0 | $325/dwelling unit | No | 
+Rezoning | $500 + $25/acre | $0 | $500 + $25/acre | Yes | 
+Site inspection, per visit | $35 | $0 | $35 | No | 
+Street opening permit | 10% of project cost | $0 | 10% of project cost | No | 
+Temporary sign permit | $15 | $0 | $15 | No | 
+Utility review | $150 | $0 | $150 | Yes | 
+Zoning compliance certificate for lot line adjustment | $100 | $0 | $100 | Yes | 
+Zoning compliance certificate, residential |  |  |  |  | 
+Project cost $5,000 and below | $25 | $0 | $25 | Yes | 
+Project cost $5,001 and above | 0.5% of total project cost | $0 | 0.5% of total project cost | Yes | 
+Zoning violations fines |  |  |  |  | 
+First offense | Not less than $100 | $0 | Not less than $100 | No | 
+Second offense | $250 | $0 | $250 | No | 
+Third offense | $500 | $0 | $500 | No | 
+Fourth and subsequent offenses | $1,000 | $0 | $1,000 | No | 
+
+
+xiv      signs
+https://ecode360.com/10132786
+0.1808318806428086
+Figure 14.1. Sign Height for Roadways with Higher Grade | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.16598271978269918
+2017 | $1,260 | 
+2018 | $1,260 | 
+2019 | $1,575 | 
+2020 | $1,890 | 
+2021 | $2,205 | 
+2022 | $2,520 | 
+2023 | $2,595 | 
+2024 | $2,647 | 
+2025 | $2,700 | 
+2026 | $2,755 | 
+2027 | $2,810 | 
+2028 | $2,866 | 
+2029 | $2,923 | 
+2030 | $2,980 | 
+
+
+xiv      signs
+https://ecode360.com/10132786
+0.16060160681193
+FREESTANDING SIGNS
+usually perpendicular to viewer's line-of-sight. May be
+double or multi faced and contain thematic embellishment and integral
+covers or cladding to conceal structural supports. | 
+
+
+viii      central commercial zone  c
+https://ecode360.com/10132639
+0.1254478295401277
+ | 
+
+
+viii      central commercial zone  c
+https://ecode360.com/10132639
+0.1254478295401277
+ | 
+
+
+viii      central commercial zone  c
+https://ecode360.com/10132639
+0.1254478295401277
+ | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+0.09228782374056457
+Basement | $13 | 
+
+
+i      introduction and definitions
+https://ecode360.com/10132482
+-0.025416541359866512
+ | 
+
+
+fees  municipal
+https://ecode360.com/12355460
+-0.026655262511624644
+Fire service connection |  |  |  |  | 
+4-inch | $3,000 + actual cost to install | $0 | $3,000 + actual cost to install | Yes | 
+6-inch | $3,500 + actual cost to install | $0 | $3,500 + actual cost to install | Yes | 
+8-inch | $4,000 + actual cost to install | $0 | $4,000 + actual cost to install | Yes | 
+10-inch | $6,000 + actual cost to install | $0 | $6,000 + actual cost to install | Yes | 
+Food service facility FOG interceptor or trap |  |  |  |  | 
+Inspection, per trap | $50 | $0 | $50 | No | 
+Reinspection, per trap | $50 | $0 | $50 | No | 
+Prohibited discharges violation fine, least serious
+offenses | $500 or more | $0 | $500 or more | No | 
+Prohibited discharges violation fine, moderately
+serious offenses | $3,000-$5,000 | $0 | $3,000-$5,000 | No | 
+Prohibited discharges violation fine, most serious
+offenses | $5,000-$10,000 | $0 | $5,000-$10,000 | No | 
+Food service facility FOG interceptor or trap, criminal penalties |  |  |  |  | 
+§ 330-13B(1) per violation, per day | Up to $5,000 | $0 | Up to $5,000 | No | 
+§ 330-13B(2) | At least $5,000 | $0 | At least $5,000 | No | 
+§ 330-13B(3) per violation, per day | Up to $5,000 | $0 | Up to $5,000 | No | 
+§ 330-13B(4) per violation, per day | Up to $10,000 | $0 | Up to $10,000 | No | 
+Infrastructure inspection fee | 4% of project cost | $0 | 4% of project cost | Yes | 
+Public works service fee |  |  |  |  | 
+Normal business hours (8:00 a.m.-4:00 p.m.) | $50 | $0 | $50 | No | 
+After hours and weekends | $100 | $0 | $100 | No | 
+Backhoe, per hour | $85 | $0 | $85 | No | 
+Dump truck, per hour | $75 | $0 | $75 | No | 
+Public Works rate, per hour | $50 | $0 | $50 | No | 
+Sewer connection fee |  |  |  |  | 
+4-inch service | $1,700 | $0 | $1,700 | Yes | 
+6-inch service | $2,600 | $0 | $2,600 | Yes | 
+Road restoration/additional pipe, beyond 20 feet | Cost + 15% | $0 | Cost + 15% | Yes | 
+Water connection fee |  |  |  |  | 
+1-inch service | $1,250 | $0 | $1,250 | Yes | 
+2-inch service | $3,600 | $0 | $3,600 | Yes | 
+Road restoration/additional pipe, beyond 20 feet | Cost + 15% | $0 | Cost + 15% | Yes | 
+Water meter |  |  |  |  | 
+5/8 inch | Cost | $0 | Cost | No | 
+1 inch or larger | Cost | $0 | Cost | Yes | 
+Water meter pit and lid | Cost | $0 | Cost | No | 
+Irrigation water meter permit | $50 | $0 | $50 | No | 
+Water meter antenna replacement | $125 | $0 | $125 | No | 
+Water meter calibration | $50 | $0 | $50 | No | 
+Utility rate, in-City users, quarterly |  |  |  |  | 
+Sewer base fee, per EDU | $80 | $0 | $80 | No | 
+Sewer usage fee, per 1,000 gallons* | $5.76 | $0 | $5.76 | No | 
+Trash | $51.70 | $0 | $51.70 | No | 
+Water base fee, per EDU | $35 | $0 | $35 | No | 
+Water usage fee, per 1,000 gallons | $3.25 | $0 | $3.25 | No | 
+Sprinklers (as fire suppression), 2-inch | $125 | $0 | $125 | No | 
+Sprinklers (as fire suppression), 4-inch | $200 | $0 | $200 | No | 
+Sprinklers (as fire suppression), 6-inch | $250 | $0 | $250 | No | 
+Sprinklers (as fire suppression), 8-inch | $300 | $0 | $300 | No | 
+Utility rate, out-of-City users, quarterly |  |  |  |  | 
+Sewer base fee, per EDU | $106.40 | $0 | $106.40 | No | 
+Sewer usage fee, per 1,000 gallons* | $7.66 | $0 | $7.66 | No | 
+Water base fee, per EDU | $46.55 | $0 | $46.55 | No | 
+Water usage fee, per 1,000 gallons | $4.32 | $0 | $4.32 | No | 
+Utility late payment fee, per month | 2% | $0 | 2% | No | 
+
+
+xiv      signs
+https://ecode360.com/10132786
+-0.1181404274657199
+ | 
+
+
+xiv      signs
+https://ecode360.com/10132786
+-0.1181404274657199
+ | 
+
+
+xiv      signs
+https://ecode360.com/10132786
+-0.1181404274657199
+ | 
+
+
+dl      disposition list
+https://ecode360.com/12355491
+-1.2229588275739909
+09-01 | 5-18-2009 | Fees amendment | Ch. 180 | 
+09-02 | 12-7-2009 | Property maintenance: weeds and trash amendment | Ch. 305, Art. II | 
+09-03 | 12-7-2009 | Building standards: adoption of county standards repealer | Repealed by Ord. No. 15-02 | 
+09-04 | 12-7-2009 | Building standards: adoption of City building standards | Repealed by Ord. No. 15-02 | 
+09-05 | 12-7-2009 | Building standards: International Residential Code | Repealed by Ord. No. 15-02 | 
+09-06 | 12-7-2009 | Property maintenance: adoption of standards amendment | Ch. 305, Art. I | 
+09-07 | 12-7-2009 | Building Inspection Department | Ch. 7 | 
+09-08 | 12-7-2009 | Permits and approvals: building permits; certificates of occupancy | Ch. 292, Art. II | 
+09-09 | 12-7-2009 | Municipal fees amendment | Ch. 180 | 
+09-10 | 12-7-2009 | Zoning amendment | Repealed by Ord. No. 15-06 | 
+09-11 | 12-7-2009 | Floodplain regulations amendment | Ch. 212 | 
+09-12 | 12-7-2009 | Zoning amendment | Repealed by Ord. No. 15-06 | 
+10-01 | 4-5-2010 | Zoning Map amendment | NCM | 
+10-02 | 6-21-2010 | Municipal fees amendment | Ch. 180 | 
+10-03 | 12-6-2010 | Property maintenance: weeds and trash amendment | Ch. 305, Art. II | 
+10-04 | 2-22-2011 | Municipal fees amendment | Ch. 180 | 
+11-01 | 6-20-2011 | Vacant buildings | Ch. 108 | 
+11-02 | 6-20-2011 | Municipal fees amendment | Ch. 180 | 
+11-03 | 6-20-2011 | Discount for early tax payment; capitation tax | Repealed by Ord. No. 12-07 | 
+11-04 | 6-20-2011 | Payment for utility services | Ch. 399 | 
+11-05 | 6-20-2011 | Zoning amendment | Repealed by Ord. No. 15-06 | 
+11-06 | 6-20-2011 | Municipal fees amendment | Ch. 180 | 
+78 Del. Laws, c. 69 | 6-30-2011 | Charter amendment | Charter | 
+11-07 | 11-7-2011 | Zoning amendment | Repealed by Ord. No. 15-06 | 
+12-01 | 3-5-2012 | Property maintenance: weeds and trash amendment; external placement
+of interior furniture and appliances amendment | Ch. 305, Art. II; Ch. 305, Art. III | 
+12-02 | 3-5-2012 | Payment for utility services amendment | Ch. 399 | 
+12-03 | 3-5-2012 | Municipal fees amendment | Ch. 180 | 
+12-04 | 3-5-2012 | Source water protection | Ch. 350 | 
+12-05 | 3-5-2012 | Adoption of District Map | See Charter, § 5.3 | 
+12-06 | 4-16-2012 | Portable storage units amendment | Ch. 297 | 
+12-07 | 5-7-2012 | Partial tax relief for senior citizen and disabled property
+owners amendment; downtown revitalization area tax incentive program
+amendment; discount for early tax payment repealer; capitation tax
+repealer | Ch. 378, Art. II; Ch. 378, Art. III (footnote only); Ch. 378, Art. IV (footnote only); Ch. 378, Art. V (footnote only) | 
+12-08 | 4-2-2012 | Water amendment | Ch. 425 | 
+12-09 | 4-16-2012 | Municipal fees amendment | Ch. 180 | 
+12-10 | 6-4-2012 | Streets and sidewalks: supervision; maintenance; use amendment;
+trees, bushes and shrubs amendment; sidewalk maintenance amendment;
+special assessments for public improvements amendment | Ch. 365, Art. I; Ch. 365, Art. II; Ch. 365, Art. III; Ch. 365, Art. IV (footnote only) | 
+12-11 | 6-4-2012 | Municipal fees amendment | Ch. 180 | 
+12-12 | 6-4-2012 | Planning and inspections department amendment | Ch. 7 | 
+12-13 | 9-4-2012 | Sewers: fat, oil and grease interceptors and traps | Ch. 330, Art. III | 
+12-14 | 7-2-2012 | Zoning amendment | Repealed by Ord. No. 15-06 | 
+12-15 | 7-16-2012 | Zoning amendment | Repealed by Ord. No. 15-06 | 
+12-16 | 8-6-2012 | Animal control amendment | Ch. 82, Art. I | 
+12-17 | 8-6-2012 | Property maintenance: adoption of standards amendment | Ch. 305, Art. I | 
+12-18 | 8-6-2012 | Sewer use amendment | Ch. 330, Art. II | 
+12-19 | 8-6-2012 | Municipal fees amendment | Ch. 180 | 
+12-20 | 8-6-2012 | Water amendment | Ch. 425 | 
+12-21 | 8-20-2012 | Streets and sidewalks: sidewalk maintenance amendment | Ch. 365, Art. III | 
+12-22 | 10-15-2012 | Elections: absentee voting amendment | Ch. 16, Art. I | 
+12-23 | 10-15-2012 | Council meetings amendment | Ch. 9 | 
+12-24 | 11-19-2012 | Business licenses amendment | Ch. 120 | 
+12-25 | 11-19-2012 | Rental properties: rental unit licenses amendment | Ch. 314, Art. I | 
+13-01 | 2-19-2013 | Sewer use amendment | Ch. 330, Art. II | 
+13-02 | 2-19-2013 | Water amendment | Ch. 425 | 
+13-03 | 3-18-2013 | Rental properties: rental unit licenses amendment | Ch. 314, Art. I | 
+79 Del. Laws, c. 103 | 7-15-2013 | Charter amendment | Charter | 
+13-04 |  | Comprehensive Plan | NCM | 
+13-05 | 10-21-2013 | Municipal fees amendment | Ch. 180 | 
+13-06 |  |  | Not adopted | 
+14-01 | 2-18-2014 | Rental properties: rental unit licenses amendment | Ch. 314, Art. I | 
+14-02 | 3-19-2014 | Streets and sidewalks: sidewalk maintenance amendment | Ch. 365, Art. III | 
+14-03 | 4-21-2014 | Floodplain regulations | Ch. 212 | 
+14-04 | 6-16-2014 | Municipal fees amendment | Ch. 180 | 
+14-05 | 6-16-2014 | Vacant buildings amendment | Ch. 108 | 
+14-06 | 6-16-2014 | Sewers: user charge system amendment; sewer use amendment | Ch. 330, Art. I; Ch. 330, Art. II | 
+14-07 | 6-16-2014 | Water amendment | Ch. 425, Art. I; Ch. 425, Art. II | 
+14-08 | 6-16-2014 | Payment for utility services amendment | Ch. 399 | 
+14-09 | 6-2-2014 | Zoning amendment | Repealed by Ord. No. 15-06 | 
+14-10 | 6-2-2014 | Business licenses amendment | Ch. 120 | 
+14-11 | 6-2-2014 | Rental properties: rental unit licenses amendment | Ch. 314, Art. I | 
+14-12 | 7-28-2014 | Floodplain regulations amendment | Ch. 212 | 
+14-13 | 8-18-2014 | Municipal fees amendment | Ch. 180 | 
+14-14 | 9-16-2014 | Municipal fees amendment | Ch. 180 | 
+14-15 | 3-2-2015 | Manufactured home licenses | Ch. 255 | 
+14-16 | 11-17-2014 | Rental properties: rental unit licenses amendment | Ch. 314, Art. I | 
+14-17 | 1-5-2015 | Municipal fees amendment | Ch. 180 | 
+14-18 | 1-5-2015 | Sewers: user charge system amendment | Ch. 330, Art. I | 
+15-01 | 3-2-2015 | Open burning | Ch. 114 | 
+15-02 | 3-16-2015 | Building standards | Ch. 102 | 
+15-03 | 3-16-2015 | Property maintenance: adoption of standards amendment | Ch. 305, Art. I | 
+15-04 |  |  | Voided | 
+15-05 | 6-15-2015 | Municipal fees amendment | Ch. 180 | 
+15-06 | 7-20-2015 | Zoning | Ch. 440 | 
+15-07 | 7-20-2015 | Zoning Map amendment | NCM | 
+15-08 | 8-17-2015 | Municipal fees amendment | Ch. 180 | 
+15-09 | 8-17-2015 | Disorderly premises | Ch. 145 | 
+15-10 | 8-17-2015 | Zoning amendment | Ch. 440 | 
+15-11 | 9-28-2015 | Zoning amendment | Ch. 440 | 
+15-12 | 10-19-2015 | Municipal fees amendment | Ch. 180 | 
+15-13 |  |  | Not adopted | 
+15-14 | 11-16-2015 | Zoning amendment | Ch. 440 | 
+15-15 | 12-7-2015 | Zoning amendment | Ch. 440 | 
+15-16 |  | Future Land Use Map amendment | NCM | 
+16-01 | 3-21-2016 | Zoning amendment | Ch. 440 | 
+16-02 | 3-21-2016 | Municipal fees amendment | Ch. 180 | 
+16-03 | 4-18-2016 | Juvenile curfew | Ch. 240 | 
+16-04 | 4-18-2016 | Taxation: realty transfer tax amendment | Ch. 378, Art. I | 
+16-05 | 5-2-2016 | Municipal fees amendment | Ch. 180 | 
+16-06 |  | Downtown Development District Plan | NCM | 
+16-07 | 5-16-2016 | Economic development and redevelopment; downtown revitalization
+area tax incentive program repealer | Ch. 157; Ch. 378, Art. III (reference only) | 
+16-08 | 6-27-2016 | Zoning amendment | Ch. 440 | 
+16-09 | 7-5-2016 | Economic development and redevelopment amendment | Ch. 157 | 
+16-10 | 7-5-2016 | Municipal fees amendment | Ch. 180 | 
+16-11 | 7-5-2016 | Juvenile curfew amendment | Ch. 240 | 
+16-12 | 10-3-2016 | Zoning amendment | Ch. 440 | 
+16-13 | 11-21-2016 | Zoning amendment | Ch. 440 | 
+17-01 | 2-21-2017 | Taxation: partial relief for senior citizen and disabled property
+owners amendment | Ch. 378, Art. II | 
+17-02 | 3-20-2017 | Zoning amendment | Ch. 440 | 
+81 Del. Laws, c. 33 | 6-8-2017 | Charter amendment | § 5.2.3 and § 16.2.1 | 
+17-03 | 6-19-2017 | Imposition of Impact fees amendment | Ch. 175, Art. I | 
+17-04 | 6-19-2017 | Business licenses amendment | Ch. 120 | 
+17-05 | 6-19-2017 | Contractor licenses | Ch. 130 | 
+17-06 | 6-19-2017 | Peddlers and solicitors | Ch. 280 | 
+17-07 | 6-19-2017 | Municipal fees amendment | Ch. 180 | 
+17-08 | 6-19-2017 | Zoning amendment | Ch. 440 | 
+17-09 | 6-19-2017 | Economic development and redevelopment amendment | Ch. 157 | 
+17-10 | 10-2-2017 | Zoning Amendment | Ch. 440 | 
+17-11 | 10-2-2017 | Zoning Amendment | Ch. 440 | 
+17-12 | 10-2-2017 | Subdivision of Land Amendment | Ch. 370 | 
+17-13 |  |  | NCM | 
+17-14 | 10-16-2017 | Freedom of Information Act Requests; Fees, Municipal Amendment | Ch. 216; Ch. 180 | 
+17-15 |  |  | NCM | 
+17-16 |  |  | NCM | 
+18-01 | 2-20-2018 | Fees, Municipal Amendment | Ch. 180 | 
+18-02 | 2-20-2018 | Roller Skates, Rollerblades and Skateboards Repealer | Ch. 319 (reference only) | 
+18-03 |  |  | NCM | 
+18-04 | 4-16-2018 | Taxation: Realty Transfer Tax Amendment | Ch. 378, Art. I | 
+18-05 |  |  | NCM | 
+18-06 |  |  | NCM | 
+18-07 | 5-21-2018 | Zoning Amendment | Ch. 440 | 
+18-08 | 5-21-2018 | Fees, Municipal Amendment | Ch. 180 | 
+18-09 | 5-21-2018 | Zoning Amendment | Ch. 440 | 
+18-10 | 8-20-2018 | Economic Development and Redevelopment Amendment | Ch. 157 | 
+18-11 |  |  | Void | 
+18-12 | 11-19-2018 | Council Meetings Repealer | Ch. 9, reference only | 
+19-01 | 3-4-2019 | Property Maintenance: Weeds and Trash Amendment | Ch. 305, Art. II | 
+19-02 | 3-18-2019 | Graffiti Repealer | Ch. 224, reference only | 
+19-03 |  |  | NCM | 
+19-04 | 8-5-2019 | Economic Development and Redevelopment Amendment | Ch. 157 | 
+
+

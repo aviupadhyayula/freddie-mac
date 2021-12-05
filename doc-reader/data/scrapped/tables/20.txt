@@ -1,0 +1,29 @@
+dt      derivation table
+https://ecode360.com/27031980
+0.20521712271165718
+NCM | = | Not Code material (legislation is
+not general or permanent in nature). | 
+REP | = | Repealed effective with adoption of Code; see Ch. 1, Art. I. | 
+NI | = | Not included in Code but saved from
+repeal. | 
+NLP | = | New legislation is pending. | 
+
+
+dl      disposition list
+https://ecode360.com/28011642
+0.17413006399451258
+12-3-2015 | Adoption of Code | Ch. 1, Art. I | 
+10-25-2017 | Taxation: exemption for volunteer fire and ambulance personnel
+amendment | Ch. 255, Art. VII | 
+
+
+dl      disposition list
+https://ecode360.com/28011642
+0.16255866896814214
+12-16-2019 | Taxation Amendment | Ch. 255 | 5 | 
+12-16-2019 | Taxation Amendment | Ch. 255 | 5 | 
+12-16-2019 | Zoning Amendment | Ch. 280 | 5 | 
+11-10-2020 | Youth Services, Commission on Amendment | Ch. 165 | 6 | 
+11-10-2020 | Feeding of Wildlife | Ch. 184 | 6 | 
+
+

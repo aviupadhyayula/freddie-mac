@@ -1,0 +1,197 @@
+vi      establishment of districts
+https://ecode360.com/8880776
+0.427717805097202
+R-1 | Single-Family Dwelling | 
+R-2 | Residential Unsubdivided | 
+C-1 | Commercial | 
+P | Public | 
+CFP | Coastal Floodplain | 
+
+
+dl      disposition list
+https://ecode360.com/8881085
+0.2044624017703947
+196-19 | 12-13-2019 | Wireless Infrastructure Construction | Ch. 143 | 37 | 
+197-20 | 3-13-2020 | Parking Amendment | Ch. 94 | 37 | 
+198-20 | 3-13-2020 | Zoning Amendment | Ch. 145 | 37 | 
+199-20 | 3-13-2020 | Voting, Absentee Amendment | Ch. 138 | 37 | 
+200-20 | 11-13-2020 | Concessions and Concessionaires | Ch. 58 | 39 | 
+201-21 | 3-12-2021 | Animals | Ch. 30 | 40 | 
+202-21 | 3-12-2021 | Parking Amendment | Ch. 94 | 40 | 
+83 Del. Laws, c. 43 | 6-15-2021 | Charter Amendment | Charter | 40 | 
+
+
+voting  absentee
+https://ecode360.com/8880548
+0.18498938710010568
+ | Determination of voter eligibility. The Board
+of Elections is responsible to determine voter qualifications as prescribed
+in this subsection. | 
+
+
+iv      general provisions
+https://ecode360.com/8880736
+0.11677620482705017
+Diagram 145-9.1
+Sight Triangle at Intersections | 
+
+
+dl      disposition list
+https://ecode360.com/8881085
+-1.443852440757913
+51-95 | 3-8-1996 | Tort claims | Ch. 22 | 
+52-96 | 5-10-1996 | Zoning amendment | Ch. 145 | 
+53-96 | 4-12-1996 | Commercial establishments: alcoholic beverages | Ch. 56, Art. I | 
+54-96 | 4-12-1996 | Zoning amendment | Ch. 145 | 
+55-96 | 6-14-1996 | Building construction amendment | Ch. 42 | 
+56-96 | 6-14-1996 | Building construction amendment | Ch. 42 | 
+57-96 | 7-12-1996 | Building construction amendment | Ch. 42 | 
+58-96 | 7-12-1996 | Parking amendment | Ch. 94 | 
+59-96 | 8-9-1996 | Zoning amendment | Ch. 145 | 
+60-96 | 1-10-1997 | Planning Commission | Ch. 20 | 
+61-96 | 2-14-1997 | Commercial establishments amendment | Ch. 56 | 
+62-97 |  |  | Tabled | 
+63-97 | 5-9-1997 | Zoning Map amendment | NCM | 
+64-97 | 5-9-1997 | Subdivision of land | Ch. 116 | 
+65-97 | 5-9-1997 | Parking amendment | Ch. 94 | 
+66-97 | 11-14-1997 | Commercial establishments amendment | Ch. 56 | 
+67-97 | 11-14-1997 | Zoning amendment | Ch. 145 | 
+68-97 | 1-9-1998 | Zoning amendment | Ch. 145 | 
+69-97 | 1-9-1998 | Absentee voting | Ch. 138 | 
+70-97 | 1-9-1998 | Solid waste amendment | Superseded by Ord. No. 169-13 | 
+71-98 | 4-17-1998 | Zoning amendment | Ch. 145 | 
+72-98 | 4-10-1998 | Traffic obstructions amendment | Ch. 125 | 
+73-98 | 5-8-1998 | Mercantile licenses amendment; tax on gross
+rental receipts amendment | Ch. 84, Art. I; Ch. 118, Art. III | 
+74-98 | 4-17-1998 | Zoning amendment | Ch. 145 | 
+75-98 | 4-17-1998 | Property maintenance: oceanfront property amendment | Ch. 104, Art. I | 
+76-98 | 4-17-1998 | Solid waste amendment | Superseded by Ord. No. 169-13 | 
+71 Del. Laws, c. 338 | 6-29-1998 | Charter amendment | Charter | 
+77-98 |  |  | Defeated | 
+78-98 | 8-8-1998 | Zoning amendment | Ch. 145 | 
+79-98 |  |  | Tabled | 
+80-98 | 8-8-1998 | Transfer tax amendment | Ch. 118, Art. II | 
+81-98 | 10-9-1998 | Property maintenance: general provisions amendment | Ch. 104, Art. II | 
+82-98 | 2-12-1999 | Building construction amendment | Ch. 42 | 
+83-98 |  |  | Rescinded | 
+84-98 | 2-12-1999 | Water service | Ch. 141 | 
+85-98 | 2-12-1999 | Absentee voting amendment | Ch. 138 | 
+86-99 | 8-13-1999 | Zoning amendment | Ch 145 | 
+88-99 | 8-13-1999 | Zoning Map amendment | NCM | 
+90-99 | 3-10-2000 | Beaches amendment | Ch. 34 | 
+91-99 | 4-14-2000 | Property maintenance: general provisions amendment | Ch 104, Art. II | 
+92-99 |  |  | Rescinded | 
+72 Del. Laws, c. 354 | 6-28-2000 | Charter amendment | Charter | 
+93-00 | 3-9-2001 | Zoning amendment | Ch. 145 | 
+94-00 | 12-8-2000 | Building construction amendment | Ch. 42 | 
+95-00 | 3-9-2001 | Zoning amendment | Ch. 145 | 
+96-00 | 3-9-2001 | Zoning amendment | Ch. 145 | 
+97-01 |  |  | Hold | 
+98-01 | 6-8-2001 | Building construction amendment | Ch. 42 | 
+99-01 | 6-8-2001 | Tax on gross rental receipts amendment | Ch. 118, Art. III | 
+100-01 | 6-8-2001 | Renters licenses; permit fees | Ch. 84, Arts. II and III | 
+101-01 | 6-8-2001 | Mercantile licenses amendment | Ch. 84, Art. I | 
+102-01 | 7-13-2001 | Parking amendment | Ch. 94 | 
+103-01 |  |  | Withdrawn | 
+104-01 | 10-12-2002 | Emergency services and disasters amendment | Ch. 8 | 
+105-01 | 2-8-2002 | Licenses and permits amendment | Ch. 84, Arts. I and II | 
+106-01 | 2-8-2002 | Zoning amendment | Ch. 145 | 
+107-01 | 2-8-2002 | Building construction amendment | Ch. 42 | 
+108-02 | 10-11-2002 | Bulkheads amendment | Ch. 50 | 
+109-02 | 8-8-2002 | Property maintenance amendment | Ch. 104 | 
+110-02 |  |  | No action | 
+111-02 |  |  | Tabled | 
+112-02 | 12-13-2002 | Contracts and bidding | Ch. 6 | 
+113-02 | 12-13-2002 | Code of conduct | Ch. 7 | 
+114-02 | 2-14-2003 | Planning Commission amendment | Ch. 20 | 
+115-02 |  |  | Withdrawn | 
+116-02 |  |  | Withdrawn | 
+117-02 | 3-14-2003 | Tax on gross receipts amendment | Ch. 118, Art. III | 
+118-03 | 5-9-2003 | Pets amendment | Superseded by Ord. No. 201-21 | 
+119-03 | 6-13-2003 | Solid waste amendment | Superseded by Ord. No. 169-13 | 
+120-03 |  | Town staffing | Rejected | 
+121-03 | 2-13-2004 | Zoning amendment | Ch. 145 | 
+122-03 | 3-12-2004 | Zoning amendment | Ch. 145 | 
+123-03 |  |  | Withdrawn | 
+74 Del. Laws, c. 218 | 4-6-2004 | Charter amendment | Charter | 
+124-04 | 4-8-2004 | Traffic obstructions amendment | Ch. 125 | 
+125-04 | 5-14-2004 | Parking amendment | Ch. 94 | 
+126-04 | 6-11-2004 | Code of conduct for Town employees, officers
+and elected officials amendment | Ch. 7 | 
+127-04 | 8-13-2004 | Zoning amendment | Ch. 145 | 
+128-04 | 12-10-2004 | Voting amendment | Ch. 138 | 
+129-04 | 12-10-2004 | Beaches amendment | Ch. 34 | 
+130-04 | 12-29-2004 | Zoning amendment | Ch. 145 | 
+131-05 | 3-11-2005 | Bulkheads amendment | Ch. 50 | 
+132-05 | 4-8-2005 | Building amendment | Ch. 42 | 
+75 Del. Laws, c. 173 | 7-12-2005 | Charter amendment | Charter | 
+133-05 |  |  | Withdrawn | 
+134-05 |  |  | Withdrawn | 
+135-06 | 5-12-2006 | Parking amendment | Ch. 94 | 
+136-06 | 7-14-2006 | General provisions amendment | Ch. 1, Art. III | 
+137-06 | 7-14-2006 | Code of Conduct repealer | Ch. 7 (reference only) | 
+138-06 | 11-9-2006 | Property maintenance: grass and weeds amendment | Ch. 104, Art. II | 
+139-07 | 12-14-2007 | Solid waste amendment | Superseded by Ord. No. 169-13 | 
+140-07 | 12-14-2007 | Solid waste amendment | Superseded by Ord. No. 169-13 | 
+141-08 | 5-13-2008 | Operation of vehicles amendment | Ch. 134 | 
+142-08 | 8-8-2008 | Building construction amendment | Ch. 42 | 
+143-08 | 12-12-2008 | Property maintenance: grass and weeds amendment | Ch. 104, Art. II | 
+144-08 | 12-12-2008 | Licenses and permits amendment | Ch. 84, Arts. I and II | 
+145-08 | 12-12-2008 | Water service amendment | Ch. 141 | 
+146-08 | 12-12-2008 | Zoning amendment | Ch. 145 | 
+147-08 | 12-12-2008 | Building construction amendment | Ch. 42 | 
+148-08 | 2-13-2009 | Operation of vehicles amendment | Ch. 134 | 
+149-09 | 5-8-2009 | Property maintenance: general provisions amendment | Ch. 104, Art. III | 
+150-09 |  |  | Withdrawn | 
+151-09 | 4-21-2009 | Emergency ordinance to continue Town operations without the
+adoption of the 2010FY budget | NCM | 
+152-09 | 3-12-2010 | Planning Commission amendment | Ch. 20 | 
+153-10 | 5-14-2010 | Zoning amendment | Ch. 145 | 
+154-10 | 7-9-2010 | Zoning amendment | Ch. 145 | 
+155-10 | 12-10-2010 | Zoning amendment | Ch. 145 | 
+156-11 | 8-5-2011 | Renters licenses amendment | Ch. 84, Art. II | 
+157-11 | 8-5-2011 | Tax on gross rental receipts amendment | Ch. 118, Art. III | 
+158-11 | 2-10-2012 | Building construction amendment | Ch. 42 | 
+159-11 | 2-10-2012 | Zoning amendment | Ch. 145 | 
+160-11 | 3-9-2012 | Contracts and bidding amendment | Ch. 6 | 
+161-12 | 4-13-2012 | Licenses and permits: mercantile licenses amendment | Ch. 84, Art. I | 
+162-12 | 4-13-2012 | Property maintenance: general provisions amendment | Ch. 104, Art. III | 
+163-12 | 4-13-2012 | Zoning amendment | Ch. 145 | 
+78 Del. Laws, c. 324 | 7-12-2012 | Charter amendment | Charter | 
+164-12 | 10-12-2012 | Participation in meetings by remote electronic access | Ch. 17 | 
+165-12 | 11-9-2012 | Building construction amendment | Ch. 42 | 
+166-12 | 11-9-2012 | Zoning amendment | Ch. 145 | 
+167-12 | 2-8-2013 | Building construction amendment | Ch. 42 | 
+168-13 | 5-10-2013 | Property maintenance: general provisions amendment | Ch. 104, Art. III | 
+169-13 | 4-12-2013 | Solid waste | Ch. 114 | 
+170-13 | 4-12-2013 | Planning Commission amendment | Ch. 20 | 
+171-13 | 3-14-2014 | Zoning amendment | Ch. 145 | 
+172-14 | 8-8-2014 | Zoning amendment | Ch. 145 | 
+173-14 | 10-10-2014 | Property maintenance: grass and weeds amendment; general provisions
+amendment | Ch. 104, Art. II; Ch. 104, Art. III | 
+174-14 | 11-14-2014 | Building construction amendment | Ch. 42 | 
+175-14 | 11-14-2014 | Solid waste amendment | Ch. 114 | 
+176-14 | 2-13-2015 | Zoning amendment | Ch. 145 | 
+177-14 | 2-13-2015 | Zoning amendment | Ch. 145 | 
+178-14 | 2-13-2015 | Building construction amendment | Ch. 42 | 
+80 Del. Laws, c. 100 | 7-15-2015 | Charter amendment | Charter | 
+179 |  |  | Not adopted | 
+180-16 | 5-13-2016 | Zoning amendment | Ch. 145 | 
+181-16 | 6-23-2016 | Zoning amendment | Ch. 145 | 
+182-16 | 10-14-2016 | Bulkheads amendment | Ch. 50 | 
+183-16 | 9-9-2016 | Zoning amendment | Ch. 145 | 
+184-16 | 10-14-2016 | Zoning amendment | Ch. 145 | 
+185-17 | 4-7-2017 | Operation of vehicles amendment | Ch. 134 | 
+186-17 | 4-7-2017 | Beaches amendment | Ch. 34 | 
+187-17 | 5-12-2017 | Animals: wild mammals and stray cats | Superseded by Ord. No. 201-21 | 
+188-17 | 11-17-2017 | Zoning amendment | Ch. 145 | 
+189-17 | 11-17-2017 | Planning Commission amendment | Ch. 20 | 
+190-17 | 11-17-2017 | Participation in meetings by remote electronic access amendment | Ch. 17 | 
+191-18 | 5-11-2018 | Property Maintenance: Grass and Weeds Amendment | Ch. 104, Art. II | 
+192-18 | 5-11-2018 | Solid Waste Amendment | Ch. 114 | 
+81 Del. Laws, c. 259 | 6-7-2018 | Charter Amendment | Charter | 
+193 |  |  |  | 
+194-19 | 3-8-2019 | Parking Amendment | Ch. 94 | 
+195-19 | 8-9-2019 | Beaches Amendment | Ch. 34 | 
+
+

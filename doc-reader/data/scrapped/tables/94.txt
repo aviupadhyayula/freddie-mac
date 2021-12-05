@@ -1,0 +1,1171 @@
+iii      height  density and area requirements
+https://ecode360.com/7276964
+0.5465559079786768
+ | Permitted residential uses | 50% | 
+ | Mid-rise apartment and garden apartment | 50% | 
+ | Hotel, motel, inn | 50% | 
+ | All other commercial uses | 100% of net lot area | 
+ | Underground parking | 100% of gross area, provided that no parts of the parking structure,
+except accessways, are above sidewalk level or above the undisturbed
+ground level of adjacent properties | 
+
+
+iii      height  density and area requirements
+https://ecode360.com/7276964
+0.5085468376362288
+ | Education facilities and conditional uses | 5% | 0.10 | 70% | 
+ | Residential uses | 50% | 0.60 | 40% | 
+
+
+i      general provisions
+https://ecode360.com/7276698
+0.49915927853482395
+R-1(S) | Special Single-Family Residence District | 
+R-1 | Single-Family Residence District | 
+R-2 | General Residence District | 
+C-1 | Central Commercial District | 
+C-2 | Commercial-Amusement District | 
+C-3 | Secondary Commercial District | 
+ER | Educational/Residential District | 
+CM | Cemetery District | 
+O-1 | Open Space District | 
+
+
+noise
+https://ecode360.com/7274046
+0.4980172187498325
+All commercial districts | Daytime | 70 |  | 31.5 | 85 | 
+ |  |  |  | 63 | 84 | 
+ | Nighttime | 55 | 120 | 125 | 79 | 
+ |  |  |  | 250 | 74 | 
+ |  |  |  | 500 | 68 | 
+ |  |  |  | 1,000 | 62 | 
+ |  |  |  | 2,000 | 57 | 
+ |  |  |  | 4,000 | 53 | 
+ |  |  |  | 8,000 | 50 | 
+ |  |  |  |  |  | 
+All residential districts | Daytime | 65 |  | 31.5 | 80 | 
+ |  |  |  | 63 | 79 | 
+ | Nighttime | 55 | 100 | 125 | 74 | 
+ |  |  |  | 250 | 69 | 
+ |  |  |  | 500 | 63 | 
+ |  |  |  | 1,000 | 57 | 
+ |  |  |  | 2,000 | 52 | 
+ |  |  |  | 4,000 | 48 | 
+ |  |  |  | 8,000 | 45 | 
+
+
+ix      parking meters
+https://ecode360.com/7276049
+0.49163431477232516
+Brooklyn Avenue | From First Street to Philadelphia Street, both
+sides | 
+Christian Street | From Second Street to Scarborough Avenue, both
+sides | 
+Delaware Avenue | From First Street to Second Street, both sides | 
+First Street | From Brooklyn Avenue to Virginia Avenue, both
+sides | 
+Fourth Street | From Rehoboth Avenue to Sussex Street, both
+sides | 
+Grove Park Parking Lot[Added 3-19-2021 by Ord. No. 0321-04] | Entire parking lot | 
+Hickman Street | From King Charles Avenue westerly for a distance
+of 100 feet on the north side | 
+King Charles Avenue | From Hickman Street to Laurel Street, both sides,
+and in front of the American Legion on the east side between Philadelphia
+Street and Laurel Street | 
+Lake Avenue | From Third Street to Rehoboth Avenue, both sides,
+including the west side entrance to the Convention Hall parking lot,
+Meter Nos. CH-1 to CH-4, inclusive | 
+Laurel Street | From King Charles Avenue westerly for a distance
+of 100 feet on the north side, and from King Charles Avenue westerly
+for a distance of 37 feet on the south side | 
+Martin's Lawn | Entire parking lot | 
+Maryland Avenue | From Second Street to Third Street, both sides | 
+Olive Avenue | From First Street to Second Street, Meter Nos.
+O-300 through O-311, inclusive, and from Second Street to Third Street,
+both sides | 
+Parking lot, west side of Convention Center | Entire parking lot | 
+Philadelphia Street | From King Charles Avenue to Second Street, both
+sides | 
+Second Street | From Rehoboth Avenue to Maryland Avenue, west
+side | 
+Third Street[Repealed 4-16-2021 by Ord. No. 0421-03] |  | 
+
+
+ix      parking meters
+https://ecode360.com/7276049
+0.490783977232883
+Baltimore Avenue[Repealed 1-18-2019 by Ord. No. 0119-01] |  | 
+Brooklyn Avenue | From the Boardwalk to First Street, both sides | 
+City parking lot | On Lakeview Street between the Pennsylvania
+Railroad property and the VIA property, north side | 
+Delaware Avenue | From the Boardwalk to First Street, both sides | 
+Grenoble Place | From the Boardwalk to Lakeview Street, both
+sides | 
+Hickman Street | From the Boardwalk to King Charles Avenue, both
+sides | 
+Lake Avenue | From Lakeview Street to the Gerar Lake Bridge,
+south side | 
+Lakeview Street | From Lake Avenue south to its termination point
+on the west side, and from Grenoble Place south to its termination
+point on the east side | 
+Laurel Street | From the Boardwalk to King Charles Avenue, both
+sides | 
+Maryland Avenue | From the Boardwalk to First Street, both sides | 
+Olive Avenue | From the Boardwalk to First Street, both sides | 
+Philadelphia Street | From the Boardwalk to King Charles Avenue, both
+sides | 
+Rehoboth Avenue[Amended 1-18-2019 by Ord. No. 0119-01] | From Fourth Street to Canal Street, both sides
+of the street and both sides of the islands | 
+Surf Avenue | From the north side of Henlopen Hotel to Lake
+Avenue, east side | 
+Surfside Park | Entire triangle, north side of Henlopen Hotel | 
+Virginia Avenue | From the Boardwalk to First Street, both sides | 
+Wilmington Avenue[Repealed 1-18-2019 by Ord. No. 0119-01] |  | 
+
+
+iii      height  density and area requirements
+https://ecode360.com/7276964
+0.4799092027595951
+ | Notes: | 
+ | 1Functional chimneys
+may exceed the height limit if required by the building code, but
+only to the extent required by the building code. | 
+ | 2Heating, ventilation
+and cooling devices, which are to be enclosed so as to be obscured
+from view, elevator shafts, one stairway entry for maintenance access
+to the roof, chimneys and antennas shall not be included in calculating
+height. | 
+ | 3No roofs of less
+than 5/12 pitch shall be permitted above a height of 14 feet, including
+the roofs on dormers. Roof pitch shall start at a wall plate height
+of not more than 24 feet. No railings or roof decks shall be permitted
+where any part of the surface is above a height of 14 feet. All heights
+in this section shall be measured from a point where the center line
+of the building to be erected intersects with the center line of the
+street on which the building will front. | 
+ | 4A dome, spire, cupola,
+belfry, chimney or pinnacle serving as an architectural embellishment
+and not for occupancy or storage may be erected to a height in excess
+of that authorized in this subsection for the district in which the
+building concerned is located, provided that the aggregate of the
+bases of all such structures does not exceed 10% of the building's
+ground floor area. The total height of a building with such embellishments
+shall not exceed 50 feet. | 
+
+
+ii      administration and enforcement
+https://ecode360.com/7275752
+0.47374196732214846
+§ 92-12B | Accident-duty of driver-driver's information | 
+§ 92-13 | Accident-injury/death-duty of driver - leaving
+scene | 
+§ 92-81A | Compliance/direction of police required-fail
+to obey | 
+§ 92-81B | Compliance/direction of police required-fail
+to stop | 
+§ 92-126A | Reckless driving | 
+§ 92-237.4A | No motor vehicle insurance | 
+§ 92-237.4B | No proof of motor vehicle insurance | 
+§ 92-238A | No valid license | 
+§ 92-238B | Driving with a suspended/revoked license | 
+§ 92-238.1A | Failure to reinstate drivers' license | 
+§ 92-238.1E | Driving with an expired drivers' license | 
+§ 92-238.1G | No drivers' license in possession | 
+§ 92-238.4A | Display/possess a suspended/revoked drivers'
+license | 
+§ 92-238.4B | Display/possess a fictitious drivers' license | 
+§ 92-238.5D | Display/possess a license of another | 
+
+
+xvi      modifications to residential code
+https://ecode360.com/7273441
+0.4691372219411808
+Ground Snow Load: 20 | 
+Wind Speed (mph): 120 | 
+Seismic Design Category: A | 
+Subject To Damage From Weathering: Severe | 
+Subject To Damage From Frost Line Depth: 24 | 
+Subject To Damage From Termite: Moderate | 
+Winter Design Temp: 14 | 
+Ice Barrier Underlayment Required: No | 
+Flood Hazards: November 18, 1974 | 
+Air Freezing Index: 330 | 
+Mean Annual Temperature: 55.2° F | 
+
+
+iii      height  density and area requirements
+https://ecode360.com/7276964
+0.4601628979082115
+Notes: | 
+1An open front porch
+of any size that meets the requirements of § 270-21(B)(1)
+may encroach up to five feet into the front yard setback area. | 
+2For a building built
+on a corner lot, the side that faces the street which is not the front
+shall have a minimum building setback line of 10 feet. This setback
+shall substitute for one of the two required side yards. | 
+3Tier 1 uses within
+a mixed-use structure shall meet the required setback. | 
+
+
+transportation  public
+https://ecode360.com/7275407
+0.45979269130565237
+APPLICATION FOR TAXICAB OPERATING
+PERMIT IN REHOBOTH BEACH, DELAWARE | 
+________________, 19______ | 
+To The Chief of Police 
+Rehoboth Beach, Delaware | 
+Sir: | 
+_________________ hereby make application for ____________ permit to
+operate taxicab on and over the streets of the City of Rehoboth Beach, Delaware,
+according to the City Ordinance pertaining to taxicabs. I furnish below your
+required information therefor: | 
+Owner's Name | 
+Owner's Address | 
+Name of Maker of Cab | 
+Type or Style of Cab ______________________. Year | 
+Factory No. ____________________________ . Horsepower | 
+Seating Capacity ____________________. | 
+State Motor Vehicle License No. _____________ (for 20__) ______ | 
+Method of Lighting and Heating | 
+ | 
+Exits--Number ____________________. Location | 
+Total Number of Cabs to be Operated by Applicant _______________ | 
+___________________________ (Owner or Owners Sign Here) | 
+
+
+iv      off street parking  loading and unloading
+https://ecode360.com/7277005
+0.4593439557640048
+Apartment house with more than 20 family units
+in districts where permitted | 1 | 
+Office building or hotel with over 15,000 to
+100,000 square feet of gross floor area in commercial districts | 1 | 
+Office building or hotel with over 100,000 square
+feet of gross floor area in commercial districts | 2 | 
+Retail or service establishment or other commercial
+use with over 15,000 square feet of gross floor area in commercial
+districts | 1 | 
+
+
+ix      parking meters
+https://ecode360.com/7276049
+0.42976986029235537
+Baltimore Avenue | From the Boardwalk to Second Street, Meter Nos.
+B-114 through B-117, inclusive, Meter Nos. B-25 through B-28, inclusive,
+Meter Nos. B-4 and B-5, Meter Nos. B-133 and B-134, and Meter Nos.
+B15A and B15B | 
+Convention Center Lot | In the Convention Center parking lot directly behind the Rehoboth
+Beach Fire Company. Four spaces are designated for City Hall business
+only from 8:30 a.m. until 4:30 p.m. and there shall be no charge for
+use of these spaces during these hours | 
+First Street, North | From Rehoboth Avenue to Maryland Avenue, east
+side, Meter Nos. FN-3 through FN-6, inclusive, Meter Nos. FN-11 through
+FN-13, inclusive | 
+Lake Avenue | From Third Street to Fourth Street, north side,
+Meter Nos. LA-1 to LA-4 inclusive | 
+Rehoboth Avenue | From the Boardwalk to First Street, Meter Nos. R-1, north side,
+spaces 1 through 10 inclusive; R-6, south side, spaces 1 through 8
+inclusive; R-9, north side, spaces 1 through 6 inclusive. | 
+Rehoboth Avenue | From First Street to Second Street, Meter Nos. R-107, north
+side, spaces 1 through 6 inclusive; R-114, south side, spaces 1 through
+6 inclusive. | 
+Rehoboth Avenue | From Second Street to Lake Avenue, north side, Meter No. R-203,
+spaces 1 through 4, inclusive, between the hours of 10:00 a.m. and
+5:00 p.m. | 
+Wilmington Avenue | From the Boardwalk to Second Street, Meter Nos.
+W31 and W32, inclusive | 
+
+
+iii      height  density and area requirements
+https://ecode360.com/7276964
+0.42089595025112747
+ | 1Tier 1 uses within
+a mixed-use structure shall provide the required rear yard. | 
+
+
+ii      modifications to building code
+https://ecode360.com/7273320
+0.4052174034380456
+105.8 Storage of construction material. No applications
+for building permits for construction between May 15 and September
+15 of any year shall be granted by the Building Official unless the
+storage of all materials for such construction shall be maintained
+on the site of construction in such a manner as not to interfere with
+pedestrian or vehicular traffic and adequate barriers and lighting
+are maintained. | 
+105.9 Hours of construction. No construction shall be carried on between the hours of 5:00 p.m., prevailing time, and 8:00 a.m. of the following morning, prevailing time. No construction shall take place on any Saturday, Sunday or the following State of Delaware holidays: New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, and Christmas Day; provided, however, that construction shall be permitted on Saturdays (except where a Saturday falls on a holiday) between the hours of 9:00 a.m. and 5:00 p.m., from November 1 to April 30; further provided, however, that nothing contained herein shall prevent any homeowner from working within his own property boundaries, provided that such work is done by himself and is used exclusively by him or his family or guests. Such privilege does not convey the right to violate any of the provisions of the Building Code, nor is it to be construed as exempting any such property owner from obtaining a permit and paying the required fees therefor. Any violation of this section is declared a civil offense pursuant to Chapter 126 of the Municipal Code of the City of Rehoboth Beach. Any person who violates this section shall pay a civil assessment of $100. | 
+
+
+xvi      modifications to residential code
+https://ecode360.com/7273441
+0.40369403999494946
+R105.10 Storage of construction material. No applications
+for building permits for construction between May 15 and September
+15 of any year shall be granted by the Building Official unless the
+storage of all materials for such construction shall be maintained
+on the site of construction in such a manner as not to interfere with
+pedestrian or vehicular traffic and adequate barriers and lighting
+are maintained. | 
+R105.11 Hours of construction. No construction shall be carried on between the hours of 5:00 p.m., prevailing time, and 8:00 a.m. of the following morning, prevailing time. No construction shall take place on any Saturday, Sunday or the following State of Delaware holidays: New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, and Christmas Day, provided, however, that construction shall be permitted on Saturdays (except where a Saturday falls on a holiday) between the hours of 9:00 a.m. and 5:00 p.m., from November 1 to April 30; further provided, however, that nothing contained herein shall prevent any homeowner from working within his own property boundaries, provided that such work is done by himself and is used exclusively by him or his family or guests. Such privilege does not convey the right to violate any of the provisions of the Building Code, nor is it to be construed as exempting any such property owner from obtaining a permit and paying the required fees therefor. Any violation of this section is declared a civil offense pursuant to Chapter 126 of the Municipal Code of the City of Rehoboth Beach. Any person who violates this section shall pay a civil assessment of $100. | 
+
+
+xvi      modifications to residential code
+https://ecode360.com/7273441
+0.38271698600719584
+R313.1 General. Dwelling unit fire sprinkler systems
+shall not be required per this Section R313 in the City of Rehoboth
+Beach, but if a dwelling unit fire sprinkler system is installed,
+said installation shall comply with the requirements of Section P2904
+or NFPA 13D, as applicable. | 
+
+
+ii      modifications to building code
+https://ecode360.com/7273320
+0.37375747975141305
+"Where terms are explicitly defined in the Municipal Code of
+the City of Rehoboth Beach, such definitions shall be controlling
+in all instances, unless inconsistent with the manifest intent of
+the Commissioners or the context clearly requires otherwise." | 
+
+
+ix      parking meters
+https://ecode360.com/7276049
+0.3711231502704858
+Grove Park Parking Lot | On the north side of Rehoboth Avenue between the Lewes and Rehoboth
+Canal and the City traffic circle, all spaces, except that meters
+shall not be operational until two hours after the close of the farmers
+market on any day the farmers market is convened, and further excepting
+spaces designated for use by the Rehoboth Beach Museum, the Chamber
+of Commerce Visitor Center and Main Street. During the hours those
+organizations are open to the public, there shall be no charge for
+the use of those designated spaces. | 
+
+
+ix      parking meters
+https://ecode360.com/7276049
+0.3693158165018203
+Baltimore Avenue[Added 5-4-2020 by Ord. No. 0520-01] | From the Boardwalk to Second Street, on both sides except for meters designated as thirty-minute parking pursuant to § 92-69B | 
+Brooklyn Avenue | From the Boardwalk to Philadelphia Street, both sides | 
+Christian Street | From Second Street to Scarborough Avenue, south side, and to
+the west end of Wilmington Avenue, north side | 
+City Parking Lot | On the east side of Municipal Building | 
+City Parking Lot | On Lakeview Street between the Pennsylvania Railroad property
+and the VIA property, north side | 
+Delaware Avenue | From the Boardwalk to Second Street, both sides | 
+First Street, North[Amended 5-4-2020 by Ord. No. 0520-01] | From Rehoboth Avenue to Virginia Avenue, both sides, except for meters designated as thirty-minute parking pursuant to § 92-69B | 
+First Street, South[Amended 5-4-2020 by Ord. No. 0520-01] | From Rehoboth Avenue to Wilmington Avenue, west side, and from
+Wilmington Avenue to Brooklyn Avenue, both sides | 
+Fourth Street | From Rehoboth Avenue to Sussex Street, both sides | 
+Grenoble Place | From the Boardwalk to Lakeview Street, both sides | 
+Hickman Street | From the Boardwalk to King Charles Avenue, both sides, and from
+King Charles Avenue westerly 100 feet along the north side of said
+street | 
+King Charles Avenue | From Hickman Street to Laurel Street, both sides, and in front
+of the American Legion on the east side between Philadelphia Street
+and Laurel Street | 
+Lake Avenue | From the Gerar Bridge to Lakeview Street, south side | 
+Lake Avenue | From Third Street to Rehoboth Avenue, north side | 
+Lakeview Street | From Lake Avenue south to its termination point on west side,
+and from Grenoble Place south side to its termination point on east
+side, respectively | 
+Laurel Street | From the Boardwalk to King Charles Avenue, both sides and from
+King Charles Avenue westerly along the south side of said street 37
+feet | 
+Martin's Lawn | Entire parking lot | 
+Maryland Avenue | From the Boardwalk to First Street and from Second Street to
+Third Street, both sides | 
+Olive Avenue | From the Boardwalk to Third Street, both sides, where a meter
+is present | 
+Philadelphia Street | From the Boardwalk to Bayard Avenue, both sides | 
+Rehoboth Avenue[Amended 5-4-2020 by Ord. No. 0520-01] | From the boardwalk to Fourth Street, north and south sides and both sides of the islands, except for meters designated as thirty-minute parking pursuant to § 92-69B, and from First Street to Second Street, in front of the United States Post Office on the north side, excepting Meter No. R-115, spaces 6 and 7 inclusive, solely between the hours of 10:00 a.m. and 5:00 p.m., and from Second Street to Lake Avenue, north side, Meter No. R-203, spaces 1 through 4, inclusive, between the hours of 5:00 p.m. and 10:00 p.m., and from Fourth Street westerly to Canal Street, north and south sides of street and both islands | 
+Second Street, North | From Rehoboth Avenue north to Maryland Avenue, west side | 
+Surf Avenue | From the north side of Henlopen Hotel to Lake Avenue, east side | 
+Surfside Park | Entire triangle, north side of Henlopen Hotel, except for Meter
+Nos. H1 and H2 designated for electric vehicle charging | 
+Third Street, North[Repealed 4-16-2021 by Ord. No. 0421-03] |  | 
+Virginia Avenue | From the Boardwalk to First Street, both sides | 
+Wilmington Avenue[Added 5-4-2020 by Ord. No. 0520-01] | From the boardwalk to Second Street, on both sides, except for meters designated as thirty- minute parking pursuant to § 92-69B | 
+
+
+iii      sewer impact and other fees
+https://ecode360.com/7274743
+0.36619005912732333
+ | Sink | 2 | 
+ | Washstand or lavatory | 1 | 
+ | Toilet | 2 | 
+ | Bath and shower | 1 | 
+ | Mop sink or service sink | 1 | 
+ | Flush urinal | 1 | 
+ | Continuous flush urinal | 3 | 
+ | Convenience outlet | 1 | 
+ | Domestic dishwasher | 1 | 
+ | Commercial dishwasher | 3 | 
+ | Drinking fountain | 1 | 
+ | Garbage disposal | 1 | 
+ | Washing machine | 1 | 
+
+
+i      water
+https://ecode360.com/7274591
+0.35406728718867686
+1 and smaller | $10.56 | 
+1 1/2 | $10.24 | 
+2 | $12.80 | 
+3 | $25.61 | 
+4 | $51.21 | 
+6 and larger | $102.43 | 
+
+
+ix      parking meters
+https://ecode360.com/7276049
+0.3533459581120112
+Baltimore Avenue | From the Boardwalk to Second Street, both sides | 
+Rehoboth Avenue | From the Boardwalk to Fourth Street, both sides of the street
+and both sides of the islands | 
+Wilmington Avenue | From the Boardwalk to Second Street, both sides | 
+First Street | From Baltimore Avenue to Wilmington Avenue, both sides | 
+
+
+iii      plat plans
+https://ecode360.com/7275116
+0.3450455489709211
+ | "I hereby certify that this map and the survey
+have been made under my supervision and comply with the laws of the
+State of Delaware and the ordinances of the City of Rehoboth Beach
+and that the error in closure does not exceed one in 5,000. I further
+certify that (all monuments and corner markers have been accurately
+set under my supervision) -- (a bond has been given to the City guaranteeing
+the setting of such monuments and corner markers which are being deferred
+for a specified period)."** | 
+ | Licensed Engineer or Land Surveyor No. ___________ | 
+ | **Strike out inappropriate phrase. | 
+
+
+ix      modifications to fuel gas code
+https://ecode360.com/7273396
+0.3403773769948324
+106.6.2 Fee schedule. The fees for work shall be
+as indicated in the fee schedule maintained by the Building and Licensing
+Department. | 
+
+
+iii      plat plans
+https://ecode360.com/7275116
+0.33513261270155187
+ |  | PLANNING COMMISSION | 
+ | Attest: | By: | 
+ |  |  | 
+ | Secretary | Chairman | 
+ |  |  | 
+ | Member | Member | 
+ |  |  | 
+ | Member | Member | 
+ |  |  | 
+ | Member | Member | 
+ |  |  | 
+ | Member | Member | 
+
+
+property maintenance
+https://ecode360.com/31760714
+0.3322195585326333
+ | 302.4.1 Cost of removal by City; payment by owner. Whenever the City Manager has affected the removal of any unregulated
+growth or has paid for its removal pursuant to the provisions of this
+chapter, the actual cost thereof, together with an additional charge
+of 20% of the actual charge to defray administrative expenses, plus
+accrued interest at the rate of 6% per annum from the date of completion
+of the work, if not paid by the owner or occupier prior thereto, shall
+be charged to the owner or occupier of such property on the next regular
+tax bill by the City. Such charge shall be due and payable by the
+owner at the time of payment of such tax bill. | 
+
+
+xiv      modifications to plumbing code
+https://ecode360.com/7273417
+0.3293457265923282
+106.6.2 Fee schedule. The fees for all plumbing
+work shall be as indicated in the fee schedule maintained by the Building
+and Licensing Department. | 
+
+
+xxxvi      parking permit system
+https://ecode360.com/7276618
+0.3162054908405697
+20 feet to 30 feet | $30 | $40 | 
+More than 30 feet | $45 | $60 | 
+
+
+i      water
+https://ecode360.com/7274591
+0.3137052614352536
+ | 2-inch water service |  | $1,250 | 
+ | 2-inch meter, pit and lid |  | $3,350 | 
+ | Street excavation and replacement fee |  | $1,000 | 
+ | TOTAL |  | $5,600 | 
+ | New 2-inch water service capitalization fee |  | $ 8,000 | 
+
+
+xi      modifications to mechanical code
+https://ecode360.com/7273405
+0.31347772167631893
+106.5.2 Fee schedule. The fees for mechanical work
+shall be as indicated in the fee schedule maintained by the Building
+and Licensing Department. | 
+
+
+iii      sewer impact and other fees
+https://ecode360.com/7274743
+0.31286540574665267
+ | A minimum of one EDU, plus additional EDU's
+based on FU's in excess of six, will be assigned to the following: | 
+
+
+property maintenance
+https://ecode360.com/31760714
+0.3100196092887101
+ | 106.4 Violation penalties. Any person who shall violate a provision of this Code, or fail to comply therewith, or with any of the requirements thereof, where no specific penalty or assessment is provided therefor, the violation of any such provision of this chapter shall have committed a civil offense pursuant to Chapter 126 of the Municipal Code of the City of Rehoboth Beach and pay a civil assessment of $100. Each day that a violation continues after due notice has been served shall be deemed a separate offense. | 
+
+
+i      water
+https://ecode360.com/7274591
+0.30562561293724416
+ | 1-inch service |  | $580 | 
+ | 1-inch meter, pit and lid |  | $1,500 | 
+ | Street excavation and replacement fee |  | $1,000 | 
+ | TOTAL |  | $3,080 | 
+ | New 1-inch water service capitalization fee |  | $2,000 | 
+
+
+i      water
+https://ecode360.com/7274591
+0.30562561293724416
+ | 1-inch service |  | $830 | 
+ | 2 1-inch meters, pit and lid |  | $2,568 | 
+ | Street excavation and replacement fee |  | $1,000 | 
+ | TOTAL |  | $4,398 | 
+ | New 1-inch water service capitalization fee |  | $2,000 | 
+
+
+i      water
+https://ecode360.com/7274591
+0.30562561293724416
+ | 1 1/2-inch service |  | $831 | 
+ | 1 1/2-inch meter, pit and lid |  | $2,598 | 
+ | Street excavation and replacement fee |  | $1,000 | 
+ | TOTAL |  | $ 4,429 | 
+ | New 1 1/2-inch water service capitalization
+fee |  | $4,500 | 
+
+
+i      water
+https://ecode360.com/7274591
+0.30562561293724416
+ | 1 1/2-inch service |  | $831 | 
+ | 1-inch meter, pit and lid |  | $2,136 | 
+ | Street excavation and replacement fee |  | $1,000 | 
+ | TOTAL |  | $3,967 | 
+ | New 1-inch water service capitalization fee |  | $2,000 | 
+
+
+i      water
+https://ecode360.com/7274591
+0.30562561293724416
+ | 2-inch service |  | $1,250 | 
+ | 1-inch meter, pit and lid |  | $2,392 | 
+ | Street excavation and replacement fee |  | $1,000 | 
+ | TOTAL |  | $4,642 | 
+ | New 1-inch water service capitalization fee |  | $2,000 | 
+
+
+ii      sewer service
+https://ecode360.com/7274700
+0.30013799933676566
+ | Category | Charge | 
+ | New sewer connection |  | 
+ | Add for sewer tap | $150.00 | 
+ | Total | $2,390.00 | 
+
+
+ii      administration and enforcement
+https://ecode360.com/7275752
+0.2994856184741576
+Bayard Avenue | Both | Entire length | 
+Rehoboth Avenue | Both | Entire length | 
+State Road | Both | Entire length | 
+
+
+transportation  public
+https://ecode360.com/7275407
+0.2987402711569179
+ | NO PARKING | 
+ | TAXI STAND | 
+ | BY ORDER OF | 
+ | THE COMMISSIONERS | 
+
+
+i      water
+https://ecode360.com/7274591
+0.2920358030321941
+ | Concrete removal and replacement | $5.00 per square foot | 
+ | Dewatering pumping | $15.00 per hour | 
+ | Well points (minimum charge) | $250.00 | 
+
+
+ii      sewer service
+https://ecode360.com/7274700
+0.28906457427512844
+1 and less | $31.05 | 
+1 1/2 | $30.11 | 
+2 | $37.63 | 
+3 | $75.26 | 
+4 | $150.53 | 
+6 and larger | $301.06 | 
+
+
+iv      garbage and refuse collection
+https://ecode360.com/7274842
+0.28583721385771144
+Condominiums | $275 | $300 | 
+Rental units | $275 | $300 | 
+Single-family dwellings | $275 | $300 | 
+
+
+iv      license tax schedule
+https://ecode360.com/7273511
+0.2752169381498618
+ | Conjuration | $1,500.00 | 
+ | Dealing with spirits | $1,500.00 | 
+ | Divining | $1,500.00 | 
+ | Telling fortunes | $1,500.00 | 
+ | Inspection of leaves or crystal balls | $1,500.00 | 
+ | Palm reading | $1,500.00 | 
+ | Phrenology | $1,500.00 | 
+
+
+iii      sewer impact and other fees
+https://ecode360.com/7274743
+0.26853001823006895
+ | One EDU shall be equal to six FU's. For assessment
+purposes, FU's shall be assigned as follows: | 
+
+
+ii      sewer service
+https://ecode360.com/7274700
+0.2567222452173876
+ | Lateral replacement or installation |  | 
+ | 6-inch SDR PVC pipe | $60 | 
+ | 2 each 6-inch 45-degree bends | $45 | 
+ | 1 each 6-inch wye | $26 | 
+ | 1 each 6-inch cleanout | $27 | 
+ | 1 each 6-inch cleanout cover | $82 | 
+ | Labor and equipment | $1,000 | 
+ | Street excavation | $1,000 | 
+ | Total | $2,240 | 
+
+
+personnel
+https://ecode360.com/7146822
+0.25186506818197474
+The City of Rehoboth Beach is hereby giving notice to all employees
+that use of its electronic data, computer equipment, software, operating
+systems, storage media, network access, electronic mail, WWW browsing,
+FTP access, phones, and voice communications systems are subject to
+monitoring and recording. I understand that all electronic communication
+systems and all information transmitted by, received from, or stored
+in these systems are the property of the City of Rehoboth Beach. I
+also understand that I have no expectation of privacy in connection
+with the use of this equipment or with the transmission, receipt,
+or storage of information in this equipment. | 
+
+
+personnel
+https://ecode360.com/7146822
+0.2433788506151835
+5 | $650 | 
+10 | $900 | 
+15 | $1,150 | 
+20 | $1,650 | 
+25 and every 5 years thereafter | $2,150 | 
+
+
+personnel
+https://ecode360.com/7146822
+0.2383035080002934
+0 through 4 | 80 | 40 | 
+5 through 9 | 120 | 60 | 
+10 through 18 | 160 | 80 | 
+19 or more | 200 | 100 | 
+
+
+personnel
+https://ecode360.com/7146822
+0.2363737806997749
+All department heads may receive up to 160 hours per year at
+the discretion of the City Manager until they reach 20 or more years
+of service at which time they shall receive the number of hours set
+forth above. | 
+
+
+iii      height  density and area requirements
+https://ecode360.com/7276964
+0.22675369272752588
+ | R-1(S) | 35% | 10% | 
+ | R-1 and R-2 | 40% | 10% | 
+
+
+personnel
+https://ecode360.com/7146822
+0.19861303073756328
+More than 20 | $750 | 
+Less than 20 but more than 15 | $500 | 
+Less than 15 but more than 10 | $250 | 
+Less than 10 | — | 
+
+
+trees
+https://ecode360.com/7275484
+0.1833026295220222
+Small Trees | Medium Trees | Large Trees | 
+Bradford pear | Kwawnzan cherry | Schwedler maple | 
+Fruitless crabapple | Amur corktree | Summershade maple | 
+Amur maple | Japanese pagoda tree | European hackberry | 
+Thornless hawthorne | Thornless honeylocust | Common hackberry | 
+ | Arizona ash | Sawtooth oak | 
+ | Sargeant cherry | Shingle oak | 
+ |  | Willow oak | 
+ |  | Pin oak | 
+ |  | Red oak | 
+ |  | London plane | 
+ |  | Male ginkgo | 
+ |  | Green ash | 
+ |  | Horse chestnut | 
+ |  | Siberian elm | 
+ |  | Greenspire linden | 
+
+
+dl      disposition list
+https://ecode360.com/7277227
+0.172856624449623
+0619-01 | 6-21-2019 | Advertising Amendment; Businesses: Licensing Procedure Amendment;
+Property Maintenance Amendment | Ch. 74; Ch. 120, Art. II; Ch. 208 | 65 | 
+0619-02 | 6-21-2019 | Solid Waste Amendment | Ch. 227 | 65 | 
+82 Del. Laws, c. 105 | 7-17-2019 | Charter Amendment | § 29 | 65 | 
+0719-01 | 7-19-2019 | Zoning Amendment | Ch. 270 | 65 | 
+0719-02 | 7-19-2019 | Smoking, Outdoor Amendment | Ch. 224 | 65 | 
+0819-01 | 8-16-2019 | Sewers and Water: Water Amendment; Sewer Service Amendment | Ch. 220, Art. I; Ch. 220, Art. II | 65 | 
+0819-02 | 8-16-2019 | Taxation: Lodging Tax | Ch. 245, Art. III | 65 | 
+0919-01 | 9-9-2019 | Zoning Amendment | Ch. 270 | 65 | 
+1119-01 | 11-15-2019 | Zoning Amendment | Ch. 270 | 65 | 
+1119-02 | 11-15-2019 | Building Construction Amendment | Ch. 102 | 65 | 
+1219-01 | 12-20-2019 | Zoning Amendment | Ch. 270 | 66 | 
+1219-02 | 12-20-2019 | Building Construction Amendment | Ch. 102 | 66 | 
+1219-03 | 12-20-2019 | Planning Commission Amendment | Ch. 51 | 66 | 
+0120-01 | 1-17-2020 | Animals: General Provisions Amendment; Dogs, Cats or Other Animals
+Amendment; Impoundment of Dogs Amendment; Rabies Control Amendment;
+Waterfowl Amendment; Trappings of Dogs, Cats or Other Animals Amendment;
+Enforcement and Penalties Amendment | Ch. 88, Art. I; Ch. 88, Art. II; Ch. 88, Art. III; Ch. 88, Art. IV; Ch. 88, Art. VI; Ch. 88, Art. VII; Ch. 88, Art. VIII | 66 | 
+0520-01 | 5-4-2020 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 67 | 
+0520-02 | 5-4-2020 | Pools Amendment | Ch. 206 | 67 | 
+0520-03 | 5-4-2020 | Emergency Planning and Operations Amendment | Ch. 22 | 67 | 
+1220-01 | 12-18-2020 | Alcoholic Beverages Amendment; Peace and Good Order: Offenses
+Against Public Peace and Safety Amendment | Ch. 83; Ch. 198, Art. IV | 68 | 
+0121-01 | 1-15-2021 | Food and Food Establishments: General Provisions Amendment;
+Grease Interceptors Amendment | Ch. 162, Art. I; Ch. 162, Art. III | 68 | 
+0121-02 | 1-15-2021 | Solid Waste Amendment | Ch. 227 | 68 | 
+0321-01 | 3-19-2021 | Zoning Amendment | Ch. 270 | 68 | 
+0321-02 | 3-19-2021 | Zoning Amendment | Ch. 270 | 68 | 
+0321-03 | 3-19-2021 | Zoning Amendment | Ch. 270 | 68 | 
+0321-04 | 3-19-2021 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 68 | 
+0321-05 | 3-19-2021 | Farmers Market Amendment | Ch. 148 | 68 | 
+0421-01 | 4-16-2021 | Special Events and Expressive Activity Amendment; Subdivision
+of Land and Site Plan Review Amendment; Trees: Comprehensive Tree
+Regulations Amendment; Zoning Amendment | Ch. 230; Ch. 236; Ch. 253, Art. II; Ch. 270 | 68 | 
+0421-02 | 4-16-2021 | Unclaimed Property, Sale of Amendment | Ch. 64 | 68 | 
+0421-03 | 4-16-2021 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 68 | 
+0421-04 | 4-16-2021 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 68 | 
+
+
+iii      sewer impact and other fees
+https://ecode360.com/7274743
+0.1523393552325543
+ | 1 sink | 2 | 
+ | 1 toilet | 2 | 
+ | 1 lavatory | 1 | 
+ | 1 bath or shower | 1 | 
+
+
+personnel
+https://ecode360.com/7146822
+0.10842221392546786
+1 to 7 | No overtime | 
+8 to 22 | 15 minutes overtime | 
+23 to 37 | 30 minutes overtime | 
+38 to 52 | 45 minutes overtime | 
+53 to 60 | 60 minutes overtime | 
+
+
+i      water
+https://ecode360.com/7274591
+0.011661969438576864
+ | 3-inch | $18,000 | 
+ | 4-inch | $32,000 | 
+ | 6-inch | $72,000 | 
+
+
+personnel
+https://ecode360.com/7146822
+-0.013822287091407079
+25 | 50% | 60 | 
+26 | 60% | 60 | 
+27 | 70% | 60 | 
+28 | 80% | 60 | 
+29 | 90% | 60 | 
+30 | 100% | 60 | 
+
+
+personnel
+https://ecode360.com/7146822
+-0.027155620424740443
+20% | 2 | 
+40% | 3 | 
+60% | 4 | 
+80% | 5 | 
+100% | 6 | 
+
+
+viii      connection to boardwalk
+https://ecode360.com/7274990
+-0.04197217736405895
+ | 
+
+
+xii      speed regulations
+https://ecode360.com/7276165
+-0.7780268108428956
+1 to 5 | 1st | $20.00 | $20.00 | $15.00 | $3.60 | $43.60 | $38.60 | 
+ | 2nd | $25.00 | $20.00 | $15.00 | $4.50 | $49.50 | $44.50 | 
+6 | 1st | $26.00 | $20.00 | $15.00 | $4.70 | $50.70 | $45.70 | 
+ | 2nd | $37.00 | $20.00 | $15.00 | $6.70 | $63.70 | $58.70 | 
+7 | 1st | $27.00 | $20.00 | $15.00 | $4.90 | $51.90 | $46.90 | 
+7 | 2nd | $39.00 | $20.00 | $15.00 | $7.05 | $66.05 | $61.05 | 
+8 | 1st | $28.00 | $20.00 | $15.00 | $5.05 | $53.05 | $48.05 | 
+ | 2nd | $41.00 | $20.00 | $15.00 | $7.40 | $68.40 | $63.40 | 
+9 | 1st | $29.00 | $20.00 | $15.00 | $5.25 | $54.25 | $49.25 | 
+ | 2nd | $43.00 | $20.00 | $15.00 | $7.75 | $70.75 | $65.75 | 
+10 | 1st | $30.00 | $20.00 | $15.00 | $5.40 | $55.40 | $50.40 | 
+ | 2nd | $45.00 | $20.00 | $15.00 | $8.10 | $73.10 | $68.10 | 
+11 | 1st | $31.00 | $20.00 | $15.00 | $5.60 | $56.60 | $51.60 | 
+ | 2nd | $47.00 | $20.00 | $15.00 | $8.50 | $75.50 | $70.50 | 
+12 | 1st | $32.00 | $20.00 | $15.00 | $5.80 | $57.80 | $52.80 | 
+ | 2nd | $49.00 | $20.00 | $15.00 | $8.85 | $77.85 | $72.85 | 
+13 | 1st | $33.00 | $20.00 | $15.00 | $5.95 | $58.95 | $53.95 | 
+ | 2nd | $51.00 | $20.00 | $15.00 | $9.20 | $80.20 | $75.20 | 
+14 | 1st | $34.00 | $20.00 | $15.00 | $6.15 | $60.15 | $55.15 | 
+ | 2nd | $53.00 | $20.00 | $15.00 | $9.55 | $82.55 | $77.55 | 
+15 | 1st | $35.00 | $20.00 | $15.00 | $6.30 | $61.30 | $56.30 | 
+ | 2nd | $55.00 | $20.00 | $15.00 | $9.90 | $84.90 | $79.90 | 
+16 | 1st | $52.00 | $20.00 | $15.00 | $9.40 | $81.40 | $76.40 | 
+ | 2nd | $73.00 | $20.00 | $15.00 | $13.15 | $106.15 | $101.15 | 
+17 | 1st | $54.00 | $20.00 | $15.00 | $9.75 | $83.75 | $78.75 | 
+ | 2nd | $76.00 | $20.00 | $15.00 | $13.70 | $109.70 | $104.70 | 
+18 | 1st | $56.00 | $20.00 | $15.00 | $10.10 | $86.10 | $81.10 | 
+ | 2nd | $79.00 | $20.00 | $15.00 | $14.25 | $113.25 | $108.25 | 
+19 | 1st | $58.00 | $20.00 | $15.00 | $10.45 | $88.45 | $83.45 | 
+ | 2nd | $82.00 | $20.00 | $15.00 | $14.80 | $116.80 | $111.80 | 
+20 | 1st | $80.00 | $20.00 | $15.00 | $14.40 | $114.40 | $109.40 | 
+ | 2nd | $100.00 | $20.00 | $15.00 | $18.00 | $138.00 | $133.00 | 
+21 | 1st | $83.00 | $20.00 | $15.00 | $14.95 | $117.95 | $112.95 | 
+ | 2nd | $109.00 | $20.00 | $15.00 | $19.65 | $148.65 | $143.65 | 
+22 | 1st | $86.00 | $20.00 | $15.00 | $15.50 | $21.50 | $116.50 | 
+ | 2nd | $113.00 | $20.00 | $15.00 | $20.35 | $153.35 | $148.35 | 
+23 | 1st | $89.00 | $20.00 | $15.00 | $16.05 | $125.05 | $120.05 | 
+ | 2nd | $117.00 | $20.00 | $15.00 | $21.10 | $158.10 | $153.10 | 
+24 | 1st | $92.00 | $20.00 | $15.00 | $16.60 | $128.60 | $123.60 | 
+ | 2nd | $121.00 | $20.00 | $15.00 | $21.80 | $162.80 | $157.80 | 
+25 | 1st | $95.00 | $20.00 | $15.00 | $17.10 | $132.10 | $127.10 | 
+ | 2nd | $125.00 | $20.00 | $15.00 | $22.50 | $167.50 | $162.50 | 
+26 | 1st | $98.00 | $20.00 | $15.00 | $17.65 | $135.65 | $130.65 | 
+ | 2nd | $129.00 | $20.00 | $15.00 | $23.25 | $172.25 | $167.25 | 
+27 | 1st | $101.00 | $20.00 | $15.00 | $18.20 | $139.20 | $134.20 | 
+ | 2nd | $133.00 | $20.00 | $15.00 | $23.95 | $176.95 | $171.95 | 
+28 | 1st | $104.00 | $20.00 | $15.00 | $18.75 | $142.75 | $137.75 | 
+ | 2nd | $137.00 | $20.00 | $15.00 | $24.70 | $181.70 | $176.70 | 
+29 | 1st | $107.00 | $20.00 | $15.00 | $29.30 | $146.30 | $141.30 | 
+ | 2nd | $140.00 | $20.00 | $15.00 | $25.40 | $185.40 | $180.40 | 
+30 | 1st | $110.00 | $20.00 | $15.00 | $19.80 | $149.80 | $144.80 | 
+ | 2nd | $145.00 | $20.00 | $15.00 | $26.10 | $191.10 | $186.10 | 
+31 | 1st | $113.00 | $20.00 | $15.00 | $20.35 | $153.35 | $148.35 | 
+ | 2nd | $149.00 | $20.00 | $15.00 | $26.85 | $195.85 | $190.85 | 
+32 | 1st | $116.00 | $20.00 | $15.00 | $20.90 | $156.90 | $151.90 | 
+ | 2nd | $153.00 | $20.00 | $15.00 | $27.55 | $200.55 | $195.55 | 
+33 | 1st | $119.00 | $20.00 | $15.00 | $21.45 | $160.45 | $155.45 | 
+ | 2nd | $157.00 | $20.00 | $15.00 | $28.30 | $205.30 | $200.30 | 
+34 | 1st | $122.00 | $20.00 | $15.00 | $22.00 | $264.00 | $259.00 | 
+ | 2nd | $161.00 | $20.00 | $15.00 | $29.00 | $210.00 | $205.00 | 
+35 | 1st | $125.00 | $20.00 | $15.00 | $22.50 | $167.50 | $162.50 | 
+ | 2nd | $165.00 | $20.00 | $15.00 | $29.70 | $214.70 | $209.70 | 
+36 | 1st | $128.00 | $20.00 | $15.00 | $23.05 | $171.05 | $166.05 | 
+ | 2nd | $169.00 | $20.00 | $15.00 | $30.45 | $219.45 | $214.45 | 
+37 | 1st | $131.00 | $20.00 | $15.00 | $23.60 | $174.60 | $169.60 | 
+ | 2nd | $173.00 | $20.00 | $15.00 | $31.15 | $224.15 | $219.15 | 
+38 | 1st | $134.00 | $20.00 | $15.00 | $24.15 | $178.10 | $173.10 | 
+ | 2nd | $177.00 | $20.00 | $15.00 | $31.90 | $228.90 | $223.90 | 
+39 | 1st | $137.00 | $20.00 | $15.00 | $24.70 | $181.70 | $176.70 | 
+ | 2nd | $181.00 | $20.00 | $15.00 | $32.60 | $223.60 | $218.60 | 
+40 | 1st | $140.00 | $20.00 | $15.00 | $25.20 | $185.20 | $180.20 | 
+ | 2nd | $185.00 | $20.00 | $15.00 | $33.30 | $238.30 | $233.30 | 
+41 | 1st | $143.00 | $20.00 | $15.00 | $25.75 | $188.75 | $183.75 | 
+ | 2nd | $189.00 | $20.00 | $15.00 | $34.05 | $243.05 | $238.05 | 
+42 | 1st | $146.00 | $20.00 | $15.00 | $26.30 | $192.30 | $187.30 | 
+ | 2nd | $193.00 | $20.00 | $15.00 | $34.75 | $247.75 | $242.75 | 
+43 | 1st | $149.00 | $20.00 | $15.00 | $26.85 | $195.85 | $190.85 | 
+ | 2nd | $197.00 | $20.00 | $15.00 | $35.50 | $252.50 | $247.50 | 
+44 | 1st | $152.00 | $20.00 | $15.00 | $27.40 | $199.40 | $194.40 | 
+ | 2nd | $201.00 | v20.00 | $15.00 | $36.20 | $257.20 | $252.20 | 
+45 | 1st | $155.00 | $20.00 | $15.00 | $27.90 | $202.90 | $197.90 | 
+ | 2nd | $205.00 | $20.00 | $15.00 | $36.90 | $261.90 | $256.90 | 
+46 | 1st | $158.00 | $20.00 | $15.00 | $28.45 | $206.45 | $201.45 | 
+ | 2nd | $209.00 | $20.00 | $15.00 | $37.65 | $266.65 | $261.65 | 
+47 | 1st | $161.00 | $20.00 | $15.00 | $29.00 | $210.00 | $205.00 | 
+ | 2nd | $213.00 | $20.00 | $15.00 | $38.35 | $271.35 | $266.35 | 
+48 | 1st | $165.00 | $20.00 | $15.00 | $29.70 | $214.70 | $209.70 | 
+ | 2nd | $217.00 | $20.00 | $15.00 | $39.10 | $276.10 | $271.10 | 
+49 | 1st | $168.00 | $20.00 | $15.00 | $30.25 | $218.25 | $213.25 | 
+ | 2nd | $221.00 | $20.00 | v15.00 | $39.80 | $280.80 | $275.80 | 
+50 | 1st | $170.00 | $20.00 | $15.00 | $30.60 | $220.60 | $215.60 | 
+ | 2nd | $225.00 | $20.00 | $15.00 | $40.50 | $285.50 | $280.50 | 
+
+
+dl      disposition list
+https://ecode360.com/7277227
+-2.3048554837943644
+601-1 | 6-18-2001 | Tattoo and body piercing establishments amendment | Ch. 241 | 
+601-2 | 6-18-2001 | Vehicles and traffic amendment | Ch. 92 | 
+701-1 | 7-16-2001 | Subdivision of land amendment | Ch. 236 | 
+901-1 | 9-17-2001 | Adoption of Code | Ch. 1, Art. I | 
+1001-1 | 10-15-2001 | Vehicles and traffic amendment | Ch. 92 | 
+1001-2 | 10-15-2001 | Court costs amendment | Ch. 1, Art. IV | 
+1101-1 | 11-19-2001 | Beach regulations amendment | Ch. 95, Art. I | 
+0302-1 | 3-18-2002 | Vending machines | Ch. 120, Art. VI | 
+0302-2 | 3-18-2002 | Personnel amendment | Ch. 46 | 
+0402-1 | 4-15-2002 | Solid waste amendment | Ch. 227 | 
+2002 Del. Laws Ch. 246 | 4-29-2002 | Charter amendment | § 43 | 
+0502-1 | 5-28-2002 | Vehicles and traffic amendment | Ch. 92 | 
+0802-1 | 8-19-2002 | Waterfowl | Ch. 88, Art. VI | 
+0902-1 | 9-16-2002 | Subdivision of land amendment (public notice) | Ch. 236 | 
+0203-1 | 2-18-2003 | Modifications to Building Code | Ch. 102, Art. II | 
+0203-2 | 2-18-2003 | Restaurants amendment | Ch. 215 | 
+0203-3 | 2-18-2003 | Subdivision of land amendment | Ch. 236 | 
+0203-4 | 2-18-2003 | Zoning Map amendment | NCM | 
+0303-1 | 3-17-2003 | Personnel amendment | Ch. 46 | 
+0503-1 | 4-21-2003 | Vehicles and traffic amendment | Ch. 92 | 
+0503-2 | 4-21-2003 | Vehicles and traffic amendment | Ch. 92 | 
+0503-3 | 4-21-2003 | Vehicles and traffic amendment | Ch. 92 | 
+0503-4 | 4-21-2003 | Vehicles and traffic amendment | Ch. 92 | 
+0503-5 | 4-21-2003 | Noise amendment | Ch. 189 | 
+0503-6 | 4-21-2003 | Offenses against public peace and safety amendment | Ch. 198, Art. IV | 
+0503-7 | 4-21-2003 | General penalty; costs amendment | Ch. 1, Art. IV | 
+0503-8 | 4-21-2003 | Vehicles and traffic amendment | Ch. 92 | 
+0503-9 | 5-5-2003 | Modifications to Building Code amendment | Ch. 102, Art. II | 
+0703-1 | 7-21-2003 | Vehicles and traffic amendment | Ch. 92 | 
+0803-1 | 8-4-2003 | Zoning amendment | Ch. 270 | 
+0104-01&02 | 1-20-2004 | General provisions amendment | Ch. 1, Arts. II and III | 
+0104-03 | 1-20-2004 | Subdivision of land amendment | Ch. 236 | 
+0304-01 | 3-15-2004 | Vehicles and traffic amendment | Ch. 92 | 
+0404-01 | 4-19-2004 | Building construction amendment | Ch. 102 | 
+0404-02 | 4-19-2004 | Subdivision amendment | Ch. 236 | 
+0404-03 | 4-19-2004 | General provisions amendment | Ch. 1 | 
+0404-04 | 4-19-2004 | Solid waste amendment | Ch. 227 | 
+0704-01 | 7-19-2004 | Zoning amendment | Ch. 270 | 
+1004-01 | 10-18-2004 | Streets and sidewalks amendment | Ch. 232 | 
+1104-01 | 11-1-2004 | Zoning Map amendment | NCM | 
+1104-02 | 11-15-2004 | Subdivision of land amendment | Ch. 236 | 
+1104-03 | 11-15-2004 | Animals amendment | Ch. 88 | 
+0105-01 | 1-18-2005 | Vehicles and traffic amendment | Ch. 92 | 
+0205-01 | 2-22-2005 | Personnel amendment | Ch. 46 | 
+0205-02 | 2-22-2005 | Building construction: modifications to Building
+Code amendment | Ch. 102, Art. II | 
+0405-01 | 3-18-2005 | Solid waste amendment | Ch. 227 | 
+0405-02 | 3-18-2005 | Vehicles and traffic amendment | Ch. 92 | 
+0505-01 | 5-16-2005 | Zoning amendment | Ch. 270 | 
+0505-02 | 5-16-2005 | Vehicles and traffic amendment | Ch. 92 | 
+0505-03 | 5-16-2005 | Personnel amendment | Ch. 46 | 
+0605-01 | 6-20-2005 | Businesses amendment | Ch. 120 | 
+0605-02 | 6-20-2005 | Drugs | Ch. 138 repealer | 
+0106-01 | 1-24-2006 | Comprehensive tree regulations | Ch. 253, Art. II | 
+0306-01 | 3-20-2006 | Restaurants amendment | Ch. 215 | 
+0306-02 | 3-20-2006 | Subdivision of land amendment | Ch. 236 | 
+0306-03 | 3-20-2006 | Modifications to Building Code amendment | Ch. 102, Art. II | 
+0306-04 | 3-20-2006 | Water and sewers service amendments | Ch. 220, Arts. I and II | 
+2006 Del. Laws Ch. 241 | 4-4-2006 | Charter amendment | § 40 | 
+0406-01 | 4-17-2006 | Zoning Map amendment | NCM | 
+0506-01 | 5-15-2006 | Zoning amendment | Ch. 270 | 
+0506-02 | 5-15-2006 | Demolition of buildings amendment | Ch. 105 | 
+2006 Del. Laws Ch. 383 | 7-6-2006 | Charter amendment | §§ 18a, 19, 20, 29, 32, 42A | 
+0806-01 | 8-7-2006 | Zoning amendment | Ch. 270 | 
+0906-01 | 9-18-2006 | Advertising amendment | Ch. 74 | 
+0207-01 | 2-20-2007 | Zoning amendment | Ch. 270 | 
+0407-01 | 4-16-2007 | Personnel amendment | Ch. 46 | 
+0407-02 | 4-16-2007 | Vehicles and traffic amendment | Ch. 92 | 
+0407-03 | 4-16-2007 | Vehicles and traffic amendment | Ch. 92 | 
+0407-04 | 4-16-2007 | Vehicles and traffic amendment | Ch. 92 | 
+0407-05 | 4-16-2007 | Vehicles and traffic amendment | Ch. 92 | 
+2007 Del Laws Ch. 18 | 5-10-2007 | Charter amendment | § 7 | 
+0507-01 | 5-21-2007 | Farmers market | Ch. 148 | 
+0607-01 | 6-18-2007 | Personnel amendment | Ch. 46 | 
+0607-02 | 6-18-2007 | Subdivision of land amendment | Ch. 236 | 
+0607-03 | 6-18-2007 | Vehicles and traffic amendment | Ch. 92 | 
+2007 Del. Laws Ch. 61 | 6-28-2007 | Charter amendment | §§ 2, 4; 7; 8; 20; 40; 41A; 42A | 
+0707-01 | 7-16-2007 | Advertising amendment | Ch. 74 | 
+0807-01 | 8-20-2007 | Subdivision of land amendment | Ch. 236 | 
+0907-01 | 9-17-2007 | Zoning amendment | Ch. 270 | 
+0907-02 | 9-17-2007 | Building construction; plumbing repealer; property
+maintenance repealer | Chs. 102, 202, 206 | 
+1007-01 | 10-15-2007 | Planning Commission amendment | Ch. 51 | 
+1107-01 | 11-19-2007 | Zoning amendment | Ch. 270 | 
+0108-01 | 1-22-2008 | Trees amendment | Ch. 253 | 
+0308-01 | 3-3-2008 | Zoning amendment | Ch. 279 | 
+0308-02 | 3-17-2008 | Personnel amendment | Ch. 46 | 
+0308-03 | 3-17-2008 | Solid waste amendment | Ch. 227 | 
+0308-04 | 3-17-2008 | Vehicles and traffic amendment | Ch. 92 | 
+0408-01 | 4-21-2008 | Vehicles and traffic amendment | Ch. 92 | 
+0508-01 | 5-19-2008 | Tree regulations amendment | Ch. 253, Art. II | 
+0508-02 | 5-19-2008 | Vehicles and traffic amendment | Ch. 92 | 
+0608-01 | 6-16-2008 | Civil offenses | Ch. 126 | 
+0608-02 | 6-16-2008 | Civil offenses amendment | Chs. 88, Arts. I, II and III; 95, Art. I; 155; 198, Arts. III and IV; 227 | 
+0608-03 | 6-16-2008 | Comprehensive tree regulations amendment | Ch. 253, Art. II | 
+0708-01 | 7-21-2008 | Zoning Map amendment | NCM | 
+0708-02 | 7-21-2008 | Vehicles and traffic amendment | Ch. 92 | 
+0708-03 | 7-21-2008 | Vehicles and traffic amendment | Ch. 92 | 
+1108-01 | 11-3-2008 | Boardwalk | Ch. 98 | 
+1208-01 | 12-15-2008 | Automobiles, vehicles and traffic amendment | Ch. 92, Editor's Note only; 258 | 
+0109-01 | 1-20-2009 | Zoning amendment | Ch. 270 | 
+0309-01 | 3-28-2009 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0309-02 | 3-28-2009 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0309-03 | 3-28-2009 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0309-04 | 3-28-2009 | Building construction amendment | Ch. 102 | 
+0309-05 | 3-28-2009 | Sewers and water: sewer service amendment | Ch. 220, Art. II | 
+0609-01 | 6-19-2009 | Zoning amendment | Ch. 270 | 
+0609-02 | 6-19-2009 | Subdivision of land and site plan review amendment (site plan
+review) | Ch. 236 | 
+0609-03 | 6-19-2009 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0709-01 | 7-17-2009 | Planning Commission amendment | Ch. 51 | 
+0809-01 | 8-21-2009 | Subdivision of land and site plan review amendment | Ch. 236 | 
+0809-02 | 8-7-2009 | Subdivision of land and site plan review amendment | Ch. 236 | 
+1109-01 | 11-20-2009 | Zoning amendment | Ch. 270 | 
+1209-01 | 12-18-2009 | Zoning amendment | Ch. 270 | 
+0210-01 | 2-19-2010 | Subdivision of land and site plan review amendment | Ch. 236 | 
+0210-02 | 2-19-2010 | Streets and sidewalks amendment | Ch. 232 | 
+0310-01 | 3-19-2010 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0310-02 | 3-19-2010 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0310-03 | 3-19-2010 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0310-04 | 3-19-2010 | Peace and good order: offenses against public peace and safety
+amendment | Ch. 198, Art. IV | 
+0310-05 | 3-19-2010 | Restaurants amendment | Ch. 215 | 
+0310-06 | 3-19-2010 | Building construction amendment | Ch. 102 | 
+0310-07 | 3-19-2010 | Solid waste amendment | Ch. 227 | 
+0310-08 | 3-19-2010 | Water amendment | Ch. 220, Art. I | 
+0310-09 | 3-19-2010 | Sewer service amendment | Ch. 220, Art. II | 
+0410-01 | 4-30-2010 | Restaurants amendment | Ch. 215 | 
+0710-01 | 7-16-2010 | Zoning amendment | Ch. 270 | 
+0710-02 | 7-16-2010 | Zoning amendment | Ch. 270 | 
+0710-03 | 7-16-2010 | Zoning amendment | Ch. 270 | 
+0710-04 | 7-16-2010 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0810-01 | 8-20-2010 | Restaurants amendment | Ch. 215 | 
+0810-02 | 8-20-2010 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0111-01 | 1-21-2011 | Emergency planning and operations | Ch. 22 | 
+0211-01 | 2-18-2011 | Personnel amendment | Ch. 46 | 
+0211-02 | 2-18-2011 | Personnel amendment | Ch. 46 | 
+0211-03 | 2-18-2011 | Sewer service amendment | Ch. 220, Art. II | 
+0211-04 | 2-18-2011 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0311-01 | 3-18-2011 | Temporary suspension of hours for food and alcohol on restaurant
+patios | NCM | 
+0311-02 | 3-18-2011 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0411-01 | 4-15-2011 | Outdoor smoking | Ch. 224 | 
+0511-01 | 5-20-2011 | Zoning amendment | Ch. 270 | 
+0511-02 | 5-20-2011 | Impoundment of dogs amendment | Ch. 88, Art. III | 
+0611-01 | 6-17-2011 | Alcoholic beverages amendment | Ch. 83 | 
+1111-01 | 11-18-2011 | Building construction amendment | Ch. 102 | 
+1211-01 | 12-16-2011 | Zoning amendment | Ch. 270 | 
+1211-02 | 12-16-2011 | General provisions: definitions amendment; automobiles, vehicles
+and traffic amendment; beach regulations amendment; peace and good
+order: offenses against public peace and safety amendment | Chs. 1, Art. II; 92; 95, Art. I; 198, Art. IV | 
+0112-01 | 1-20-2012 | Zoning amendment | Ch. 270 | 
+0312-01 | 3-16-2012 | Sewer service amendment | Ch. 220, Art. II | 
+0612-01 | 6-15-2012 | Building construction amendment | Ch. 102 | 
+0712-01 | 7-20-2012 | Returned checks amendment | Ch. 10 | 
+78 Del. Laws, c. 358 | 7-23-2012 | Charter amendment | § 40 | 
+0812-01 | 8-17-2012 | Subdivision of land and site plan review amendment | Ch. 236 | 
+1112-01 | 11-16-2012 | Flood damage reduction | Ch. 159 | 
+0113-01 | 1-18-2013 | Building construction amendment | Ch. 102 | 
+0313-01 | 3-15-2013 | Zoning amendment | Ch. 270 | 
+0313-02 | 3-15-2013 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0313-03 | 3-15-2013 | Personnel amendment | Ch. 46 | 
+0513-01 | 5-17-2013 | Public records | Ch. 55 | 
+79 Del. Laws, c. 49 | 6-20-2013 | Charter amendment | § 21A | 
+0913-01 | 9-20-2013 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0913-02 | 9-20-2013 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0913-03 | 9-20-2013 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+1213-01 | 12-20-2013 | Restaurants amendment | Ch. 215 | 
+0114-01 | 1-17-2014 | Zoning amendment | Ch. 270 | 
+0314-01 | 3-10-2014 | Outdoor smoking amendment | Ch. 224 | 
+0514-01 | 5-16-2014 | Zoning amendment | Ch. 270 | 
+79 Del. Laws, c. 383 | 8-1-2014 | Charter amendment | §§ 22, 23, 23A, 24, 25, 26, 27, 30 | 
+0914-01 | 9-19-2014 | Fire prevention repealer | Ch. 152 (reference only) | 
+0914-02 | 9-19-2014 | Flood damage reduction amendment | Ch. 159 | 
+1214-01 | 12-19-2014 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0115-01 | 1-16-2015 | Outdoor smoking amendment | Ch. 224 | 
+0415-01 | 4-17-2015 | Zoning amendment | Ch. 270 | 
+0415-02 | 4-17-2015 | Noise amendment | Ch. 189 | 
+0415-03 | 4-17-2015 | Subdivision of land and site plan review amendment | Ch. 236 | 
+0415-04 | 4-17-2015 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0415-05 | 4-17-2015 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0415-06 | 4-17-2015 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0415-07 | 4-17-2015 | Businesses: license tax schedule amendment | Ch. 120, Art. IV | 
+0415-08 | 4-17-2015 | Solid waste amendment | Ch. 227 | 
+0615-01 | 6-19-2015 | Pools | Ch. 206 | 
+80 Del. Laws, c. 42 | 6-24-2015 | Charter amendment | §§ 29, 40 | 
+0715-01 | 7-17-2015 | Zoning amendment | Ch. 270 | 
+1115-01 | 11-20-2015 | Personnel amendment | Ch. 46 | 
+0316-01 | 3-18-2016 | Sewers and water: water amendment | Ch. 220, Art. I | 
+0316-02 | 3-18-2016 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0416-01 | 4-4-2016 | Residential rentals | Ch. 210 | 
+0416-02 | 4-4-2016 | Solid waste amendment | Ch. 227 | 
+0516-01 | 5-20-2016 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0616-01 | 6-17-2016 | Solid waste amendment | Ch. 227 | 
+0816-01 | 8-19-2016 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+0916-01 | 9-16-2016 | Building construction amendment | Ch. 102 | 
+0916-02 | 9-16-2016 | Building construction amendment; property maintenance | Ch. 102; Ch. 208 | 
+1016-01 | 10-21-2016 | Zoning amendment | Ch. 270 | 
+1016-02 | 10-21-2016 | Zoning amendment | Ch. 270 | 
+1016-03 | 10-21-2016 | Restaurants amendment | Ch. 215 | 
+1116-01 | 11-18-2016 | Zoning amendment | Ch. 270 | 
+0317-01 | 3-17-2017 | Beaches: beach regulations amendment | Ch. 95, Art. I | 
+0317-02 | 3-17-2017 | Solid waste amendment | Ch. 227 | 
+0517-01 | 5-19-2017 | Solid waste amendment | Ch. 227 | 
+0617-01 | 6-6-2017 | Automobiles, vehicles and traffic amendment | Ch. 92 | 
+1117-01 | 11-17-2017 | Taxation: rental property amendment | Ch. 245, Art. II | 
+1217-01 | 12-15-2017 | Zoning amendment | Ch. 270 | 
+0318-01 | 3-16-2018 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 
+0518-01 | 5-18-2018 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 
+0718-01 | 7-20-2018 | Animals: General Provisions Amendment; Impoundment of Dogs Amendment;
+Cats Amendment; Trappings of Dogs, Cats or Other Animals Amendment | Ch. 88, Art. I; Ch. 88, Art. III; Ch. 88, Art. V; Ch. 88, Art. VII | 
+0818-01 | 8-17-2018 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 
+0918-01 | 9-21-2018 | Zoning Amendment | Ch. 270 | 
+1018-01 | 10-19-2018 | Special Events | Ch. 230 | 
+1218-01 | 12-21-2018 | Businesses: License Tax Schedule Amendment; Businesses: Vending
+Machines Amendment | Ch. 120, Art. IV; Ch. 120, Art. VI | 
+0119-01 | 1-18-2019 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 
+0219-01 | 2-15-2019 | Businesses: Licensing Procedure Amendment | Ch. 120 | 
+0319-01 | 3-15-2019 | Personnel Amendment | Ch. 46 | 
+82 Del. Laws, c. 6 | 3-27-2019 | Charter Amendment | §§ 2(d), 3 through 7, 40(h), 40(j), 41A(j) | 
+0419-01 | 4-24-2019 | Pools Amendment | Ch. 206 | 
+0419-02 | 4-24-2019 | Sewers and Water: Water Amendment; Sewer Service Amendment | Ch. 220, Art. I; Ch. 220, Art. II | 
+0519-02 | 5-6-2019 | Special Events Amendment | Ch. 230 | 
+0519-03 | 5-17-2019 | Automobiles, Vehicles and Traffic Amendment | Ch. 92 | 
+0519-07 | 5-17-2019 | Subdivision of Land and Site Plan Review Amendment | Ch. 236 | 
+
+

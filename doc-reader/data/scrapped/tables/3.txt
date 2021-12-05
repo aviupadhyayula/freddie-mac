@@ -1,0 +1,4262 @@
+zoning
+https://ecode360.com/35622209
+0.7948537800571949
+R-A | Residential Agriculture | 
+R-L | Low-Density Residential | 
+R-M | Medium-Density Residential | 
+R-H | High-Density Residential | 
+C-O | Professional Office | 
+C-L | Limited Commercial | 
+C-M | Commercial Manufacturing | 
+M-L | Limited Manufacturing | 
+M-H | Heavy Manufacturing | 
+B | Buffer | 
+P | Automobile Parking | 
+D | Planned Development | 
+B-O | Billboard Overlay Zone | 
+
+
+zoning
+https://ecode360.com/35622209
+0.708792066281858
+Very Low Income | 5% | 20% | 2.5% | 11% | 
+Low Income | 10% | 20% | 1.5% | 20% | 
+Moderate Income | 10% | 5% | 1% | 40% | 
+Senior Housing/Mobile Home Park | 100% | 20% | — | — | 
+
+
+zoning
+https://ecode360.com/35622209
+0.6710847585210626
+Residential Projects | Fully landscaped, except driveways and walkways | Fully improved with landscaping, patios, deck and other finished
+surface treatments | N/A | 1 36 inches box tree per 50 lineal feet street frontage | 
+Commercial Projects | 10 feet minimum landscaped setback, may include driveways, walkways | Improved with parking areas, landscaping and other finished
+surface treatments | Projects >2 acres: 5% Projects <2 acres: 10% | 1 36 inches box tree per 25 lineal feet street frontage | 
+Industrial Projects | 10 feet minimum landscaped setback, may include driveways, walkways | Improved with parking areas, paved storage areas, landscaping,
+other finished surface treatments | 5% | 1 36 inches box tree per 50 lineal feet street frontage | 
+Institutions | 10 feet minimum landscaped setback, may include driveways, walkways | Improved with parking areas, landscaping, other finished surface
+treatments | Projects >2 acres 5% Projects <2 acres 10% | 1 36 inches box tree per 25 lineal feet in commercial zones
+and 50 lineal feet in residential and manufacturing zones | 
+
+
+zoning
+https://ecode360.com/35622209
+0.6376363973503054
+1. | Industrial hemp, as defined in Section 11018.5 of the Health
+and Safety Code; or | 
+2. | The weight of any other ingredient combined with marijuana to
+prepare topical or oral administrations, food, drink, or other product. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.6332321872588768
+In permitting any such variation, the Architectural Review Board
+shall impose such conditions as are necessary to protect the public
+health, safety or welfare, and to assure compliance with the purposes
+of these provisions and the Redevelopment Plan for the Walnut Industrial
+Park. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.6288366094357121
+A nonconforming building may be continued for a period of time
+as specified in this subsection provided no additions or enlargements
+are made thereto, except those required by law or ordinance. If such
+nonconforming building is removed, every future use of, and future
+building located on, such premises shall be in conformity with the
+provisions of this Chapter. | 
+Nothing in this subsection shall be construed or applied so
+as to require the termination, discontinuance, or removal, or so as
+to prevent the modernization, expansion, alteration, repair, or reconstruction,
+of such public utility facilities as are employed for the transmission
+and/or distribution of electricity, gas, or water provided there is
+no change in use or enlargement of the site. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.6231485905372169
+Very Low Income | 5% | 10% | 15% | 
+Low Income | 10% | 20% | 30% | 
+Moderate Income | 10% | 20% | 30% | 
+Maximum Incentive(s)/Concession(s) | 1 | 2 | 3 | 
+
+
+zoning
+https://ecode360.com/35622209
+0.6058635388590368
+In no event shall any improvement except landscaping and vehicle
+ingress and egress be allowed within 10 feet of any front or street
+side lot line for any parcel, except that a six-foot solid wall of
+approved construction and material may be erected at the side street
+lot line in place of the ten-foot landscaping easement. Each setback
+shall be dedicated to the City as a landscaping easement in perpetuity,
+but it shall be the owner's duty to maintain it. If, at the City's
+sole option, the City finds that the owner is not maintaining the
+landscaping easement properly, it may maintain such easement itself
+and bill the owner. No building permit shall be issued unless such
+dedication, in form satisfactory to the City, shall have been made
+by the owner and accepted on behalf of the City. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.6056453234943577
+Failure to submit the data required by the Planning Director
+shall constitute grounds for an administrative revocation of the certificate
+of occupancy for any use of the land. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.6041822301527786
+Where the area is zoned in the County in any other zone than
+those set forth in this subsection, the zoning upon annexation shall
+be determined in accordance with the requirements set forth in paragraph
+b of this subsection. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.602101197652521
+The Planning Director shall have authority to approve development
+plans for work not exceeding the above limitations. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5942443796135651
+Notwithstanding the provisions of Compton Municipal Code subsection 9-24.2, "Primary caregiver" shall have the same meaning as set forth in Health and Safety Code § 11362.7, as the same may be amended from time to time. | 
+Notwithstanding the provisions of Compton Municipal Code subsection 9-24.2, "Qualifying patient" or "Qualified patient" shall have the same meaning as set forth in Health and Safety Code § 11362.7, as the same may be amended from time to time. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5939218739928848
+Figure 30-22.4: Multi-tenant Signs -Area Calculation | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5935246515038047
+A conditional use permit or other Planning Commission land use
+approval (special approval, special use, etc.) shall become automatically
+null and void when the use for which the permit was granted has not
+been exercised for two consecutive years. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5914059431391189
+If the proposed development complies with all applicable requirements
+and standards of this section and other laws and regulations, and
+the approving authority finds that the above criteria are adequately
+met or can be met if specified conditions are observed, the Site Plan
+Review Committee shall forward the completed application to the Commission
+with recommendation that the application for conditional use permit
+for a planned condominium development be approved, subject to such
+specified conditions. If the Site Plan Review Committee finds that
+the proposal cannot be modified to meet the requirements of this section
+and the above criteria, the Committee shall recommend the application
+for conditional use permit be disapproved. In all cases, findings
+shall be made concerning the grounds for approval or disapproval. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5821624909826817
+The appellant shall be notified, in writing, of the decision of the Director. The decision of the Director may be appealed to the Planning Commission through the submittal of an application for a variance in accordance with Section 30-27 of this Chapter. | 
+
+
+traffic regulations
+https://ecode360.com/35625123
+0.5794783705538628
+Commercial | 30% | 
+Office/Professional | 85% | 
+Industrial/Manufacturing | 90% | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5718894864135647
+E = Exempt | 
+P = Permitted | 
+CUP = Conditional Use Permit | 
+T = Temporary | 
+X = Prohibited | 
+S =Special Purposes | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5698725742372129
+Less than 7,000 | 0 | 
+7,001 to 20,000 | 1 | 
+20,001 to 50,000 | 2 | 
+50,001 or more | 3 | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5683751672997899
+* | Must be in landscaped planter. Must be 100 feet from any other
+freestanding sign, 5 feet from any property line. May not be in required
+rear or side yard. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5663325578273571
+Figure 30-22.7: Sign area calculations for individual
+elements | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5564257380183643
+Figure 30-22.5: Vision Clearance Area | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5559001354340228
+Figure 30-22.1: Sign Type Illustrations: Permitted Signs | 
+Figure 30-22.1: Sign Type Illustrations: Permitted Signs | 
+Figure 30-22.1: Sign Type Illustrations: Permitted Signs | 
+Figure 30-22.1: Sign Type Illustrations: Permitted Signs | 
+Figure 30-22.2: Sign Type Illustrations: Signs Requiring
+a Conditional Use Permit | 
+Figure 30-22.3: Sign Type Illustrations: Prohibited Signs | 
+Figure 30-22.3: Sign Type Illustrations: Prohibited Signs | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5514933840265849
+Figure 30-22.6: Sign Cabinet Area | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5372978467313394
+A-1, R-1 | to | R-L | 
+R-2 | to | R-M | 
+R-3, R-4 | to | R-H | 
+P | to | P | 
+C-H | to | C-O | 
+C-1, C-2, C-3, C-4 | to | C-L | 
+C-M | to | C-M | 
+M-1 | to | M-L | 
+M-1 1/2, M-2, M-2 1/2, M-3, M-4 | to | M-H | 
+B-1, B-2 | to | B | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5313882382753818
+Open Air | 7.5 feet | 15.0 feet | 6.0 feet | 
+Garage/Carport | 7.5 feet | 15.0 feet | 6.0 feet | 
+Drive-Through | 9.0 feet | 15.0 feet | N/A | 
+Parking Structure | 8.0 feet | N/A | 6.0 feet | 
+Loading Docks/Zones | 15.0 feet | 15.0 feet | N/A | 
+
+
+land subdivision
+https://ecode360.com/35619865
+0.5262643281185383
+The fees required by the provisions of this subsection shall
+be used only for the purpose of developing park and recreational facilities. | 
+In subdivisions containing 50 lots or less, only the payment
+of fees may be required. | 
+Land dedicated for park and recreational facilities may be used
+for another purpose, provided that, City Council commits an amount
+equal to the required in lieu of fee for park and recreational facilities
+in order to meet the expanded needs due to the subdivision development. | 
+Any dedicated land shall be developed and any in lieu of fees
+shall be allocated as City Council determines the need to arise, provided
+that dedicated land shall be developed within 10 years, and in lieu
+fees shall be allocated within 10 years. | 
+The Planning Commission may recommend and the Council may waive
+the requirements of this subsection for subdivisions filed in conjunction
+with planned residential developments in which open space is provided
+and owned jointly by the residents of the development. | 
+The provisions of this subsection shall not apply to minor land
+divisions. | 
+
+
+sewer and water
+https://ecode360.com/35619452
+0.5219656430736406
+Sewage and Hazardous Substances: |  | 
+Premises where the public water system is used to
+supplement the reclaimed water supply | AG | 
+Premises where there are waste water pumping and/or
+treatment plants and there is no interconnection with the potable
+water system. This does not include a single family residence that
+has a sewage lift pump. A RP may be provided in lieu of an AG if approved
+by the health agency and the Water Department. | AG | 
+Premises where reclaimed water is used and there
+is no interconnection with the potable water system. A RP may be provided
+in lieu of an AG if approved by the health agency and the Water Department. | AG | 
+Premises where hazardous substances are handled
+in any manner in which the substances may enter a potable water system.
+This does not include a single family residence that has a sewage
+lift pump. A RP may be provided in lieu of an AG if approved by the
+health agency and the Water Department. | AG | 
+Premises where there are irrigation systems into
+which fertilizers, herbicides, or pesticides are, or can be, injected | RP | 
+Auxiliary Water Supplies: |  | 
+Premises where there is an unapproved auxiliary
+water supply which is interconnected with the public water system.
+A RP or DC may be provided in lieu of an AG if approved by the health
+agency and the Water Department. | AG | 
+Premises where there is an unapproved auxiliary
+water supply and there are no interconnections with the public water
+system. A DC may be provided in lieu of a RP if approved by the health
+agency and the Water Department. | RP | 
+Fire Protection Systems: |  | 
+Premises where the fire system is directly supplied
+from the public water system and there is an unapproved auxiliary
+water supply on or to the premises (not interconnected) | DC | 
+Premises where the fire system is supplied from
+the public water system and interconnected with an unapproved auxiliary
+water supply. A RP may be provided in lieu of an AF if approved by
+the health agency and the Water Department. | AG | 
+Premises where the fire system is supplied from
+the public water system and where either elevated storage tanks or
+fire pumps which take suction from the private reservoirs or tanks
+are used | DC | 
+Premises where entry is restricted so that inspections
+for cross-connections cannot be made with sufficient frequency or
+at sufficiently short notice to assure that cross-connections do not
+exist | RP | 
+Premises where there is a repeated history of cross-connections
+being established or reestablished | RP | 
+
+
+traffic regulations
+https://ecode360.com/35625123
+0.5118319799626169
+168th Street from the westerly City limits to the easterly City
+limits | 35 miles per hour | 
+Alameda Street from Artesia Street to the south City limits | 40 miles per hour | 
+Aranbe Avenue from Compton Boulevard to Rosecrans Avenue | 25 miles per hour | 
+Central Avenue from the north City limits to the south City
+limits | 35 miles per hour | 
+Compton Avenue from El Segundo Boulevard to 136th Street | 25 miles per hour | 
+Greenleaf Drive from east roadway Willowbrook to the east City
+limits | 35 miles per hour | 
+McMillan Street from Thorson Avenue east to El Segundo Boulevard | 25 miles per hour | 
+Parmelee Avenue from El Segundo Boulevard to 138th Street | 25 miles per hour | 
+Santa Fe Avenue from Alondra Boulevard to Artesia Street | 35 miles per hour | 
+Wilmington Avenue from Compton Boulevard to the south City limits | 35 miles per hour | 
+East roadway Willowbrook Avenue from Palmer Avenue to Rosecrans
+Avenue | 25 miles per hour | 
+
+
+zoning
+https://ecode360.com/35622209
+0.5077275617113534
+Figure 30-22.8: Sign Height and Clearance | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.4845300881162818
+NOTICE OF HEARING TO DETERMINE EXISTENCE OF PUBLIC NUISANCE
+AND TO ABATE IN WHOLE OR IN PART | 
+NOTICE IS HEREBY GIVEN that on the _______ day of _______________,
+2_______, at the hour of _________, the Hearing Officer of the City
+of Compton will hold a public hearing in the Community Meeting Room
+of the Council Chambers of the Compton City Hall, located at 205 South
+Willowbrook Avenue, Compton, California, to ascertain whether certain
+premises situated in the City of Compton, State of California, known
+and designated as ________________________, in said City, and legally
+described as _________________________________, constitute a public
+nuisance subject to abatement by the rehabilitation of such premises
+or by the correction, repair, demolition, removal or clearing of buildings
+and/or structures situated thereon. If said premises, in whole or
+in part, are found to constitute a public nuisance as defined by this
+Chapter, and if the same are not promptly abated by the owner, such
+nuisances may be abated by municipal authorities, and the costs of
+rehabilitation, repair, demolition, removal or clearing, plus incidental
+enforcement costs will be assessed upon such premises and such costs
+will constitute a lien upon such land until paid. | 
+Said alleged violations consist of the following: | 
+ | 
+ | 
+The methods of abatement available are: | 
+ | 
+ | 
+All persons having any objection to or interest in said matters
+are hereby notified to attend the public hearing to be held on the
+________ day of ______________, 2_______, at the hour of _______,
+when their testimony and evidence will be heard and given due consideration. | 
+Dated this ________________ day of __________, 2_______. | 
+By: | 
+Title of City Official: | 
+
+
+land subdivision
+https://ecode360.com/35619865
+0.45899419374887607
+5 dwelling units per acre or less | 2.0% | 
+6 through 9 dwelling units per acre | 3.5% | 
+10 through 14 dwelling units per acre | 5.3% | 
+15 through 20 dwelling units per acre | 7.4% | 
+21 through 27 dwelling units per acre | 9.7% | 
+28 or more dwelling units per acre | 12.3% | 
+
+
+land subdivision
+https://ecode360.com/35619865
+0.45465807908707234
+All outstanding or remaining assessments on the division of
+land established for improvements constructed pursuant to special
+assessment district proceedings shall be paid for by the subdivider. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.44393588628725655
+R-1 | R-L | 
+R-2 | R-M | 
+R-3 | R-H | 
+C-2 | C-L | 
+M-1 | M-L | 
+M-2 | M-H | 
+B-1 | B | 
+
+
+land subdivision
+https://ecode360.com/35619865
+0.44244404285365413
+The certificate shall be recorded not more than 10 days after
+the date of acceptance of the dedication. The subdivider shall have
+the right to compel the school district to record such certificate,
+but until such certificate is recorded, any rights acquired by any
+third party dealing in good faith with the school district shall not
+be impaired or otherwise affected by the option right of the subdivider. | 
+"Dwelling unit," as used in this section, shall mean a place
+of residence and may be located in either a single or multiple dwelling
+unit building. | 
+If any subdivider is aggrieved by, or fails to agree to the
+reasonableness of, any requirement imposed pursuant to the provisions
+of this section, he may bring a special proceeding in the superior
+court as provided by law. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.4403753601933082
+Parallel (0°) | 11 feet | 22 feet | 
+30° | 11 feet | 22 feet | 
+45° | 14 feet | 25 feet | 
+60° | 18 feet | 25 feet | 
+90° | 25 feet | 25 feet | 
+
+
+police regulations
+https://ecode360.com/35626125
+0.4340371294392624
+CITY OF COMPTON NOTICE OF PROPERTY RETRIEVAL | 
+On _________ (date), 20 _____, at _______ (time) a.m./p.m.,
+the City of Compton conducted a clean-up at the following location: | 
+Address or Description of Location | 
+and removed personal property that was left in the area. Individuals
+wishing to reclaim personal property that may have been collected
+by the City as part of the clean-up may do so by contacting | 
+City Staff Name and Title | 
+at 
+Phone Number | 
+for a period of 90 days following the date of the clean-up.
+If the property is not claimed by _________  (date), it will be disposed
+of by the City. | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.4188495147073845
+NOTICE OF LIEN
+(Claim of City of Compton) | 
+Pursuant to the authority vested by the provisions of this Chapter
+of the Compton Municipal Code, the City Manager of the City of Compton
+did on or before the _____ day __________, 2_____, cause the premises
+hereinafter described to be rehabilitated or the building and/or structure
+on the property hereinafter described, to be corrected, repaired,
+demolished, removed or cleared in order to abate a public nuisance
+on said real property hereinafter described; and the same has not
+been paid nor any part thereof; and that said City of Compton does
+hereby claim a lien on such rehabilitation, correction, repair, demolition,
+removal or clearing in the amount of said assessment, to wit: the
+sum of $ __________; and the same shall be a lien upon said real property
+until the same has been paid in full and discharged of record. | 
+The real property hereinabove mentioned, and upon which a lien
+is claimed, is that certain parcel of land located in the City of
+Compton, County of Los Angeles, State of California, known as (street address) and legally described as follows: | 
+(Description) | 
+Dated this _____ day of __________, 2_____ | 
+ | 
+City Manager of the City of Compton | 
+
+
+zoning
+https://ecode360.com/35622209
+0.40301209863054266
+10 | 20 | 
+11 | 21.5 | 
+12 | 23 | 
+13 | 24.5 | 
+14 | 26 | 
+15 | 27.5 | 
+16 | 29 | 
+17 | 30.5 | 
+18 | 32 | 
+19 | 33.5 | 
+20 | 35 | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.40124004172683914
+90-16. Existing Installations. | 
+Nothing contained in this Code shall be construed to restrict
+the use of, nor to require any person to reinstall, reconstruct, alter,
+change, or remove any electrical wiring or equipment which complies
+with the laws in effect prior to August 22, 1972, unless the same
+is dangerous, unsafe, or a hazard to life or property. Additions or
+alterations to, and alterations and renewals of, existing installations
+shall be made in compliance with the provisions of this Code. | 
+Exception: In locations where the existing
+electrical system was of some other type of approved wiring, an existing
+circuit may be increased to its maximum safe carrying capacity or
+with the addition of not to exceed five lights, receptacles or switch
+outlets. Not more than 10 such outlets may be added to an existing
+electrical system unless all new wiring is in conformity with the
+provisions of this Code. | 
+90-17. Residential wiring. | 
+This provision relative to electrical wiring methods in residential
+properties is hereby referred to, adopted and made a part hereof as
+if fully set out in this Chapter. | 
+(a) Garage wiring. All electrical wiring inside
+garages must be enclosed in metal conduit or concealed behind wallboard. | 
+(b) Garbage Disposal Units. A switched plug outlet
+shall be provided in each new dwelling occupancy. The disposal unit
+shall be connected by grounded cord assembly. | 
+
+
+land subdivision
+https://ecode360.com/35619865
+0.39578686819776265
+Any of the information required pursuant to this section may
+be shown on the face of the tentative minor land division map. | 
+
+
+land subdivision
+https://ecode360.com/35619865
+0.3882624755953953
+Basic fee | $200 | 
+Over 4 lots | $40 per lot | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.3862774514669677
+Commercial Buildings (up to 2,000 square feet) | $400 plus a $5 trip charge for each call | 
+Multiple Housing Units (4 to 8 units) | $600 plus a $5 trip charge for each call | 
+Duplexes and Triplexes | $300 | 
+Single-Family Homes | $100 | 
+
+
+land subdivision
+https://ecode360.com/35619865
+0.38465482311331345
+Any of the information required by paragraphs a, b, c, d, and
+h of this section may be shown on the tentative map. The written statements
+required by this section shall become a part of the tentative map
+upon submission to the Planning Director. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.37788112306898625
+Figure 30-22.9: Maximum Fascia Sign Dimensions | 
+
+
+land subdivision
+https://ecode360.com/35619865
+0.3775200837028019
+Initial plan review (per sheet) | $300 | 
+Fourth and subsequent resubmittal (per sheet) | $100 | 
+
+
+zoning
+https://ecode360.com/35622209
+0.37634543196387604
+10 | 15 | 
+11 | 16 | 
+12 | 17 | 
+13 | 18 | 
+14 | 19 | 
+15 | 20 | 
+16 | 21 | 
+17 | 22 | 
+18 | 23 | 
+19 | 24 | 
+20 | 25 | 
+21 | 26 | 
+22 | 27 | 
+23 | 28 | 
+24 | 29 | 
+25 | 30 | 
+26 | 31 | 
+27 | 32 | 
+28 | 33 | 
+29 | 34 | 
+30 | 35 | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.3714867619416836
+NOTICE OF HEARING ON ABATEMENT COST REPORT AND ASSESSMENT | 
+Notice Is Hereby Given that on _____________, 2________, the
+Building Official of the City of Compton filed with the City Clerk
+of said City a report and assessment on the abatement within said
+City, a copy of which is posted on the bulletin board adjacent to
+the entrance to Compton City Hall. | 
+Notice Is Further Given that on _____________, 2________, at
+the hour of ________ p.m. in the Council Chambers of said City Hall,
+said report and assessment list will be presented to the City Council
+of said City for consideration and confirmation. Any and all persons
+interested or having any objections to said report and assessment
+list, or to any matter or thing contained therein, may appear at said
+time and place and be heard. | 
+Date Posted_______________, 2________. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.3692043563193684
+90-12. Applications. | 
+(a) Applications for electrical permits, describing
+the work to be done, shall be made in writing by a certified electrician
+or maintenance electrician or their authorized representative. Where
+a license is required by the State of California, a permit shall not
+be issued unless the applicant has such a license. In the case of
+an owner, such application shall be for a special owner's permit. | 
+(b) Applications shall give the location where such
+work is to be done, either by street and house number, by lot, block,
+and tract, or by similar description that will readily identify and
+definitely locate the proposed work. A separate application shall
+be required for each building. | 
+(c) Exception: Applications for single family dwellings
+may include all accessory buildings, such as garages, sheds, guest
+houses, and the like, that are located on the same lot, erected at
+the same time, and supplied from the same service as the main building. | 
+(d) Each such application shall be accompanied by
+drawings or blueprints as required by the Electrical Inspector. Applications
+may be made by a firm, partnership, or corporation, any officer or
+member of which is a certified electrician, in the event that all
+construction or work is done under the direct personal supervision
+of such officer or member. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.36878540688195444
+90-12.5. Maintenance Electricians. Any person regularly
+employing one or more electricians for the purpose of installations,
+alterations, maintenance, or repairs on his or its own premises shall
+make monthly reports covering all installation, additions, or alterations
+and shall pay for each thereof the permit fees provided for in Section
+90-14. All such work shall be installed and done in accordance with
+the provisions of this Article, and such work shall be subject to
+inspection by the Inspector to the same extent as all other similar
+work for which such inspection is provided. | 
+Maintenance Electrician's Licenses. Any person,
+such as any industrial establishment, office building, or hotel, regularly
+employing one or more journeymen electricians for the purpose of installations,
+alterations, maintenance, and/or repairs on his or its own premises
+shall obtain a maintenance electrician's license. | 
+Registration of Journeyman Electricians. | 
+(a) It shall be necessary to register the name,
+address, and valid certificate of competency number of a journeyman
+electrician regularly in the employ of the person, firm, or corporation
+before a maintenance license is issued. | 
+(b) In the event the registered journeyman should
+leave or be discharged from the employ of any person, firm, or corporation
+holding a maintenance electrician's license notice in writing
+thereof shall be given within five days by the employer and employee
+to the Department of Building and Safety, and all electrical wiring
+being carried on shall, without further order or action, stand suspended
+until the re-employment of the same journeyman electrician or the
+employment of another journeyman electrician, who shall be registered
+with the City Tax and License Department. | 
+
+
+integrated waste management
+https://ecode360.com/35617951
+0.3680482720045458
+At its option, the City Council may designate one or more construction and demolition waste recycling facilities as a qualified recycling facility for use by the City's franchised solid waste collector and by all permittees that are subject to the provisions of this § 21-2, subject to such conditions, limitations, and exceptions as may be approved by the City Council with regard to the collection and disposal of commingled and source-separated loads of construction and demolition waste. | 
+
+
+building and housing
+https://ecode360.com/35625620
+0.3679363084415064
+After plans are submitted and approved by the City, the owner shall obtain a building permit, commence and complete the required construction or demolition within the time limits set forth in Table No. 14-B. These time limits shall begin to run from the date the order is served in accordance with subsection 14-8.6. | 
+Owners electing to comply with paragraph c of this subsection, are also required to comply with paragraphs b or d of this subsection, provided, however, that the 270-day period provided for in such paragraphs b and d and the time limits for obtaining a building permit, commencing construction and completing construction for complete structural alterations or building demolition set forth in Table No. 14-B shall be extended in accordance with Table No. 14-C. Each such extended time limit, except the time limit for commencing construction, shall begin to run from the date the order is served in accordance with subsection 14-8.6. The time limit for commencing construction shall run from the date the building permit is issued. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.36611991076696193
+Figure 30-22.10: Sign Lettering | 
+
+
+runoff pollution control
+https://ecode360.com/35617241
+0.36544565802907847
+The intent of this Chapter is to enhance and protect the water
+quality of the receiving waters of the United States in a manner that
+is consistent with the Clean Water Act and acts amendatory thereof
+or supplementary thereto; applicable implementing regulations; the
+municipal NPDES permit and any amendment, revision, or reissuance
+thereof. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.3652808871161437
+90-2. Scope. The provisions of this Code shall
+apply to the construction, maintenance, alteration, moving, repair,
+and use of electrical conductors and equipment installed within or
+on public and private buildings and other premises, including yards,
+carnival and parking lots, and industrial substations; and including
+the conductors that connect the installations to a supply of electricity,
+and other outside conductors adjacent to the premises. | 
+Exception: The provisions of this Code shall not apply to a
+public utility in the exercise of its function as a utility and located
+outdoors or in buildings used exclusively for that purpose; nor to
+installations in mines, ships, railway cars, aircraft, automotive
+equipment, or the installation of equipment employed by a railway,
+or where installed primarily in a public way. | 
+
+
+street lighting maintenance district
+https://ecode360.com/35617353
+0.36026955406448025
+For any of the purposes expressed in paragraphs a or b of this
+section, the City Council may determine and declare the district to
+be benefited by any such improvement and fix the exterior boundaries
+thereof and assess, either partly or wholly, the costs and expenses
+(including all incidental expenses) of such improvement, or any one
+or more of the items thereof, upon the lands in the district. The
+district as determined by the Council may be composed of noncontiguous
+parts. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.3583897804246108
+90-12.6. Public Utilities Exempted. The provisions
+of this Article shall not apply to any electrical work performed by
+any electrical corporation, telephone corporation, telegraph corporation,
+railroad corporation or street railroad corporation on or with any
+electrical equipment owned or controlled and operated or used by,
+and for the exclusive benefit of, such corporation in the conduct
+of its business as a public utility, or to any other work which any
+such corporation may be entitled by law to perform without payment
+of any local tax; provided, however, all provisions of this Article
+shall apply insofar as they may consistently with the above be applicable
+to all other electrical work performed by any such corporation. | 
+The terms "electrical corporation", "telephone corporation,"
+"telegraph corporation," "railroad corporation," and "street railroad
+corporation" are used in this section as such terms are respectively
+defined in the Public Utility Act of the State of California, and
+such terms shall also be deemed to include similar utilities which
+are municipally or governmentally owned and operated. | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.3559057681813491
+NOTICE OF INTENT TO ABATE NUISANCE | 
+NOTICE IS HEREBY GIVEN that an inspection made of the premises
+or property known and designated as __________ was made on the _____
+day of _____, 2_____, and a determination made that the order to abate
+the nuisance at said premises or property by the Compton City Council
+on _________ had not been complied with. Abatement of said nuisance
+will be accomplished by either City forces or private contractor in
+accordance with the specifications attached hereto and costs of such
+abatement will constitute a lien upon said property until paid. | 
+Notice is hereby given that said abatement will be undertaken
+10 days after the date of this notice, and you are forthwith notified
+to remove from the area of your affected premises those articles you
+deem of value within said ten-day period of time. Articles removed
+from the premises in the accomplishment of said abatement will be
+held in storage for a period of 30 days at ____________________. Any
+claim for articles removed may be made within said thirty-day period.
+Articles not claimed and removed from storage location within said
+thirty-day period will be discarded or will be sold if determined
+to have value. | 
+A statement of costs incurred in the abatement with charges
+to be assessed will be mailed to you. | 
+
+
+fire prevention and protection
+https://ecode360.com/35617771
+0.3525276546802132
+Installation of emergency electrical systems shall be in accordance
+with the provisions of the 2010 California Electrical Code. When the
+standby power-operation system reaches full operating capacity; the
+emergency electrical systems and equipment shall be transferred thereto. | 
+
+
+public safety
+https://ecode360.com/35618880
+0.3498558078617292
+NOTICE OF HEARING ON ABATEMENT COST REPORT AND ASSESSMENT
+FOR WEED OR RUBBISH ABATEMENT | 
+Notice Is Hereby Given that on _________, 20_________, the Street
+Superintendent of the City of Compton filed with the City Clerk of
+said City a report and assessment on the abatement of weeds or rubbish
+within said City, a copy of which is posted on the bulletin board
+adjacent to the entrance to Compton City Hall. | 
+Notice Is Further Given that on _________, 20 __________, at
+the hour of _________ p.m. in the Council Chamber of said City Hall,
+said report and assessment list will be presented to the City Council
+of said City for consideration and confirmation. Any and all persons
+interested or having any objections to said report and assessment
+list, or to any matter or thing contained therein, may appear at said
+time and place and be heard. Date Posted _____________, 20 __________ | 
+
+
+zoning
+https://ecode360.com/35622209
+0.3496787652972093
+5 | 20 | 
+6 | 22.5 | 
+7 | 25 | 
+8 | 27.5 | 
+9 | 30 | 
+10 | 32.5 | 
+11 | 35 | 
+
+
+building and housing
+https://ecode360.com/35625620
+0.342113154169452
+Any work to be accomplished pursuant to the provisions of this
+subsection shall be performed in accordance with established practices
+of City procedures. | 
+When the Department determines to cause the repair or removal
+of the building or structure, the Department shall notify the owner
+or other person in charge or control thereof its intention so to do
+and shall specify a date certain upon which it shall solicit bids
+to accomplish the necessary work, which date shall be not sooner than
+10 days after the date such notice is given. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.3420722669309626
+90-15. Materials. | 
+(a) New Materials. All electrical materials, devices,
+appliances, and equipment installed or used in the City shall be in
+conformity with the provisions of this Code. Conformity with the standards
+of Underwriter's Laboratories, Inc., as approved by the American
+Standards Association, or other approved testing laboratories shall
+be primafacie evidence of conformity with approved standards for safety
+to life and property. | 
+(b) Used Materials. Previously used materials shall
+not be reused in any work without the written approval obtained in
+advance from the Department of Building and Safety. | 
+
+
+police regulations
+https://ecode360.com/35626125
+0.33413700780351235
+R1 and R2 | 10:00 p.m. to 7:00 a.m. | 35 | 50 | 40 | 55 | 45 | 
+R1 and R2 | 7:00 p.m. to 10:00 p.m. | 40 | 55 | 45 | 60 | 50 | 
+R1 and R2 | 7:00 a.m. to 7:00 p.m. | 45 | 65 | 50 | 65 | 55 | 
+R3 and R4 | 10:00 p.m. to 7:00 a.m. | 40 | 70 | 45 | 70 | 50 | 
+R3 and R4 | 7:00 a.m. to 10:00 p.m. | 45 |  | 50 |  | 55 | 
+Commercial | 10:00 p.m. to 7:00 a.m. |  |  |  |  |  | 
+Commercial | 7:00 a.m. to 10:00 p.m. |  |  |  |  |  | 
+M1 | Anytime |  |  |  |  |  | 
+M2 | Anytime |  |  |  |  |  | 
+
+
+taxation
+https://ecode360.com/35618192
+0.3318977654555837
+The bids or bid shall be opened by the City Clerk publicly in
+the first meeting of the City Council after the bid has been filed.
+At the time or at any time within 20 days the Council may accept the
+highest and best bid in accordance with the provisions of this section,
+or reject all bids. | 
+In the event a bid is accepted, upon payment of the purchase
+price the City Council shall cause a deed to the purchaser to be executed
+by the Mayor and City Clerk. | 
+In the event an accepted bid is not for cash, the City Council
+shall cause a contract of sale to the purchaser to be executed by
+the Mayor and City Clerk with the provision that all deferred payments
+under the contract of sale shall bear interest at the rate of 7% per
+annum. The contract of sale shall contain the usual and customary
+provisions as set forth in the standard forms agreements of sale and
+purchase, printed by the recognized title companies doing business
+in the County. | 
+
+
+police regulations
+https://ecode360.com/35626125
+0.3301874188446541
+THIS PROPERTY CLOSED TO THE PUBLIC | 
+No Entry Without Permission C.M.C. § 7-14.4 | 
+
+
+police regulations
+https://ecode360.com/35626125
+0.3276096732473862
+Part 3: Other Noise-Making Devices or Noise-Producing
+Activities | 
+
+
+taxation
+https://ecode360.com/35618192
+0.32274211429627314
+At the time set for such sale, the City Treasurer shall sell
+the property described in the notice at public auction to the highest
+bidder for cash in lawful money of the United States. | 
+Within five days after each sale, the City Treasurer shall report
+the sale to the City Council which shall, upon payment of the purchase
+price, cause a deed to the purchaser to be executed by the Mayor and
+City Clerk. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.3218001481879922
+90-12.2. Permits. | 
+(a) No alteration or addition shall be made to
+any existing wiring, nor shall any wiring for the placing or installation
+of any electric light, power, or heating device, or any apparatus
+which generates, transmits, transforms, or utilizes electricity, operating
+at a voltage exceeding 25 volts between conductors, or capable of
+supplying more than 50 watts, be made without first obtaining a permit
+therefor from the Department of Building and Safety, excepting minor
+repair work, such as repairing flush and snap switches, replacing
+fuses, changing lamp sockets and receptacles, taping bare joints,
+repairing drop cords, and the like. | 
+(b) The application, plans, and specifications filed,
+as required by this section, shall be checked by the Electrical Inspector,
+and, if found to be in conformity with the requirements of this Code
+and all other laws or ordinances applicable thereto, the Department
+of Building and Safety shall, upon the receipt of the required fee,
+issue a permit therefor. Every permit issued shall be valid only for
+the location described on the application therefor. | 
+Exceptions: Permits Not Required: | 
+(a) The provisions of subsections (a) and (b) of
+this Section 90-12.2 above shall not apply to persons doing, installing,
+altering, reconstructing, repairing, causing, or permitting work to
+be done, installed, or altered under the exception set forth in this
+section. | 
+(b) No permit shall be required in the following
+cases, to wit: Where permits were obtained from the original installation. | 
+(1) Electric wiring expressly declared to be exempt
+from the provisions of this part by any other section hereof; | 
+(2) The repair or replacement of any fixed motor
+of the same rating on the same machine or the repair or replacement
+of any fixed electrical appliance of the same rating in the same location; | 
+(3) The repair or replacement for the current-carrying
+parts of any switch, conductor, or control device; | 
+(4) The repair or replacement of any overcurrent
+device or lamp holder of the same rating and in the same location; | 
+(5) The repair or replacement of electrodes or transformers
+for signs or marquees; | 
+(6) The repair or replacement of cords or cables
+or cord pendants allowed by other sections of this Code; | 
+(7) The repair taping of joints in boxes; | 
+(8) The removal of electric wiring; and | 
+(9) Any similar minor repair or replacement determined
+by the Department of Building and Safety not to involve any hazard
+to life or property. | 
+(c) The foregoing exemptions from permit requirements
+shall not be deemed to permit or allow any electric wiring to be done
+in a manner contrary to other provisions of this part, nor to permit
+such work to be done by unauthorized or unlicensed persons. | 
+Permits: Regulations Concerning: | 
+(a) An electrical permit may be issued only to the
+following persons: | 
+(1) To one who holds a valid, unsuspended, unrevoked,
+and unexpired electrical contractor's license; | 
+(2) To one who holds a valid, unsuspended, unrevoked,
+and unexpired electrical maintenance license; | 
+(3) To an owner of a single-family dwelling for
+electric wiring in such dwelling, occupied as his residence, providing
+such owner holds a valid, unsuspended, unrevoked, and unexpired journeyman
+certificate of competency issued by the Board of Electrical Examiners
+of the City; and | 
+(4) To the owner of a single-family dwelling provided
+that he installs the electrical wiring himself; that he resides, or
+shall reside, in the home which is to be wired; that he completes
+the home owner's electrical examination papers to the satisfaction
+of the Department of Building and Safety; and that the home owner's
+electrical examination fee of $5 is paid at the time the examination
+papers are submitted for approval. The $5 examination fee shall not
+constitute a permit fee. Electrical permit fees shall be collected
+as required by the provisions of Section 90-14 at the time the electrical
+permit is issued. | 
+(b) Every application for an electrical permit shall
+be made on a form furnished by the Department of Building and Safety,
+and such permit shall be obtained before any work is commenced. A
+permit issued to an electrical contracting firm or the holder of a
+maintenance license shall not authorize any other person, except the
+permittee or any employee of the permittee, to do any electrical wiring. | 
+(c) Every application of an electrical permit shall
+give the location where such proposed work is to be done by street
+and house number, or by other approved description, the correct name
+of the person for whom such work is done, a statement of the proposed
+use or occupancy of the building or premises, and such additional
+information as may be required by the Electrical Inspector. A separate
+permit shall be obtained for each building or structure, except that
+a permit shall be obtained for each building or structure, except
+that a permit shall not be required for a private garage shed, or
+similar accessory building located on the same premises if such building
+does not contain living quarters provided with cooking facilities.
+The foregoing shall not be deemed to prohibit the holder of a maintenance
+license from installing electrical wiring or electrical equipment
+in any location on his own premises under one electrical permit; this
+permit may be issued on a monthly basis. | 
+(d) No permit shall be issued unless the proposed
+work will conform to the provisions of this part and is not in violation
+of any other laws or ordinances applicable to such work or pertaining
+to the proposed use or occupancy of the building or premises. | 
+(e) Every such application shall be accompanied
+by plans and specifications when and as required. | 
+(f) Nothing contained in this section shall be deemed
+or construed to require the Department of Building and Safety to immediately
+accept or reject any such application whenever it is necessary to
+investigate such proposed wiring and premises as to its compliance
+with this part. | 
+(g) All electrical records, including applications
+for electrical permits and permit books, may be destroyed after five
+years. | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.3214894772288196
+In the cases of alternative paragraphs c2 or c3 the resolution
+shall declare such property to be a public nuisance and order the
+abatement of the same by having such premises, buildings and/or structures
+rehabilitated, corrected, repaired, demolished, removed or cleared
+in the time, manner and means specifically set forth in said resolution.
+The decision of the City Council shall be served on appellant(s),
+and any person owning, leasing, occupying or having charge or possession
+of the premises by the City Clerk and shall contain a detailed list
+of needed corrections and abatement methods. The decision of the City
+Council shall be final and conclusive. | 
+
+
+police regulations
+https://ecode360.com/35626125
+0.32091784650555455
+The operation of any such radio or sound devices in such a manner
+as to be plainly audible at a distance of 25 feet from the vehicle
+in which it is located shall be prima facie evidence of a violation
+of this subsection. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.32089653461862944
+90-1. Purpose. It is the purpose of this Code to
+provide the basic minimum provisions considered necessary for the
+safety, efficiency, adequacy, and the practical safeguarding of persons
+and of buildings, structures, and their contents from hazards arising
+from the use of electricity for light, heat, power, radio signaling,
+and for other purposes, as well as some provisions for the future
+expansion of electrical uses. | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.32011645479449624
+Alameda Street | 
+Alondra Boulevard | 
+Artesia Boulevard | 
+Atlantic Avenue | 
+Central Avenue | 
+Compton Boulevard | 
+El Segundo Boulevard | 
+Greenleaf Boulevard | 
+Long Beach Boulevard | 
+Rosecrans Avenue | 
+Santa Fe Avenue | 
+Willowbrook Avenue | 
+Wilmington Avenue | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.3170565856744052
+90-12.1 Special Owner's Permit. | 
+The Building Official may issue to an individual owner's
+permit (a qualifying examination may be required) authorizing such
+individual to install, change, or repair electrical equipment in,
+on, or about a single-family residence of which such individual is
+the owner and in which he resides, or intends to reside, but not elsewhere;
+provided, however, any electrical work authorized under any such special
+owner's permit shall be subject to immediate cancellation by
+the Director of Building and Safety, and the holder thereof shall
+be liable to the penalty hereinafter provided for violations of this
+Code. | 
+
+
+personnel policies
+https://ecode360.com/35617148
+0.3166719905433166
+Step A | Beginning rate | 
+Step B | After 6 months in next lower step | 
+Step C | After 6 months in next lower step | 
+Step D | After 1 year in next lower step | 
+Step E | After 1 year in next lower step | 
+
+
+sewer and water
+https://ecode360.com/35619452
+0.31653213274791103
+In order to be considered, an application for relief
+must be filed with the Compton Municipal Water Department 15 days
+from the date the provision from which relief is sought becomes applicable
+to the applicant. No relief shall be granted unless the customer shows
+that he or she has achieved the maximum practical reduction in water
+consumption other than in the specific areas in which relief is being
+sought. No relief shall be granted to any customer who, when requested
+by the Manager, fails to provide any information necessary for resolution
+of the customer's application for relief. | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.30957608373448375
+Standard Rate | 
+Day Rate — $75 per hour | 
+Night Rate — $90 per hour | 
+Reduced Rate | 
+Day Rate — $35 per hour | 
+Night Rate — $75 per hour | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.30887584606811713
+Businesses in this class shall be taxed as an additional tax
+for a business license 3 1/2 times their ordinary business license
+tax, not to exceed $1,500, or 3/10% of their gross annual receipts: | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.3066635913046021
+The investigating City employee is specifically authorized to
+obtain state summary criminal history record information as provided
+for in Section 11105 of the California Penal Code. Any complaint for
+the above-listed charges pending before a court of law shall cause
+the application to be considered pending until the adjudication of
+the complaint. | 
+Food vending permits are the property of the City and each shall
+authorize the operation of a single specific food vending vehicle.
+It is unlawful for any person to sell or transfer, or attempt to sell
+or transfer any food vending permit. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.30549110956922176
+90-12.4. Cancellation of Permits. If no portion
+of the work or construction covered by a permit issued by the Department
+of Building and Safety under the provisions of this Code has been
+commenced, the person to whom such permit has been issued may deliver
+such permit to the Department of Building and Safety with a request
+that such permit be cancelled. The Electrical Inspector shall thereupon
+stamp or write upon the face of such permit the words "Cancelled at
+the request of the permittee." Thereupon such permit shall be null
+and void and of no effect. | 
+
+
+signs and advertising structures
+https://ecode360.com/35617554
+0.3051418659684757
+Roof signs may project beyond the face of a building at right
+angles thereto if such projection complies with the provisions of
+this section for projecting signs. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.3007939562786064
+90-11. Building Official. The Building Official
+shall administer the provisions of this Code. The title Building Official
+shall be synonymous with Chief Building Inspector, and the title Electrical
+Inspector shall be synonymous with the Inspector. The Building Official
+may delegate any of his powers or duties to any of his assistants. | 
+
+
+police regulations
+https://ecode360.com/35626125
+0.30036041353240894
+Part 2: Special Noise Sources | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.2971736642591193
+90-12.3. Expiration of Permits. Every permit issued
+by the Department of Building and Safety under the provisions of this
+Code shall expire by limitation and become null and void if the building
+or work authorized by such permit has not been commenced within 60
+days from the date of such permit or if the building or work authorized
+by such permit shall be suspended or abandoned at any time after the
+work is commenced for a period of 120 days. Before such work can be
+recommenced, a new permit shall be first obtained to do so. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.29553392298036885
+Each such notice shall contain the data set forth in the application
+in substantial form and shall advise the public that persons objecting
+to the issuance of such entertainment permit may appear and be heard
+at the time of the hearing before the Council. | 
+At the specified time and place the Council shall hold a public
+hearing and shall consider any written protests to the application
+and shall ascertain all facts deemed by it to be relevant to the issuance
+of the permit. The Council may take sworn testimony or make such investigations
+as it deems necessary or proper in the premises. | 
+In addition to the conditions set forth in this section, the
+Council may make a part of any permit such conditions and restrictions
+as the Council deems necessary and proper, and any permittee shall,
+upon receiving such permit, sign a written agreement to abide by the
+terms and conditions in any such permit. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.2917017308853404
+Each such notice shall contain the date set forth in the application
+in substantial form and shall advise the public that persons objecting
+to the issuance of the permit may appear and be heard at the time
+of the hearing before the Council. | 
+At the specified time and place the Council shall hold a public
+hearing and shall consider any written protests to the application
+and shall ascertain all facts deemed by it to be relevant to the issuance
+of the permit. The Council may take sworn testimony or make such investigations
+as it deems necessary or proper in the premises. | 
+In addition to the conditions set forth in this section, the
+Council may make a part of any permit such conditions and restrictions
+as the Council deems necessary and proper, and any permittee shall,
+upon receiving such permit, sign a written agreement to abide by the
+terms and conditions of any such permit. | 
+
+
+personnel policies
+https://ecode360.com/35617148
+0.2906827927085619
+The provisions of Subsection 5-3.4 shall be applicable as respects appointments occurring prior to the adoption hereof and shall continue in effect until such time as each such employee is assigned to the Range Number in Paragraph a of this subsection as the same is provided for above in Paragraph a. | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.2906678500515828
+90-12.7. Records of Permits and Inspections. The
+Electrical Inspector shall keep complete records of all permits issued
+and inspections made and other official work performed under the provisions
+of this Article. | 
+
+
+iii      departments  boards  and commissions
+https://ecode360.com/35627251
+0.28923114380783665
+The Staff liaison shall be a nonvoting representative of the
+Commission. | 
+
+
+sewer and water
+https://ecode360.com/35619452
+0.287846886438739
+In addition, the surcharge provided in Subsections 23-1.321.1
+and 12 shall be imposed. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.28764969846133326
+The City Clerk and/or the City Manager may request that the
+applicant provide additional relevant information or data not included
+in the application. Reports of the investigations required or authorized
+herein shall be prepared by the City Manager and submitted to the
+Council within 90 days from the date upon which the City Clerk has
+certified the application as full and complete. | 
+
+
+personnel policies
+https://ecode360.com/35617148
+0.28753554527931424
+"Anniversary date" is defined to mean the date of the probationary
+appointment of the officer or employee in the Classified Service of
+the City. | 
+
+
+taxation
+https://ecode360.com/35618192
+0.28692341013840394
+The provisions of this section shall only apply if the making,
+delivery, or filing of instruments of transfer or conveyances occurs
+within five years from the date of such confirmation, approval, or
+change. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.2844225840854605
+Each application for a dance permit shall be filed with the
+License Department which shall immediately transmit the application,
+or a copy thereof, to the Chief of Police for an investigation and
+report on the applicant. Likewise, copies of such application shall
+be forwarded to the Chief of the Fire Department and the Building
+Departments for reports on the locations and buildings described in
+the application. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.28297596776777556
+Marijuana also includes "cannabis" as defined in Business and
+Professions Code § 19300.5(f), as the same may be amended from
+time to time. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.2826050099265423
+The fee for the reproduction of miscellaneous reports not identified
+under Government Code § 6254 (F), shall be $12. Miscellaneous
+reports may include, but are not limited to booking slips, and any
+other police report deemed not confidential and available for release
+pursuant to laws and statutes regulating same. | 
+(Mail order, $14.) | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.2820030441353438
+Labor Rate | $42.30 per man/hour | 
+Truck Charge | $5 per hour | 
+
+
+iii      departments  boards  and commissions
+https://ecode360.com/35627251
+0.2799445547703838
+The members shall serve four-year terms. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.27853902952536547
+Less than $300,000 | 5.7% | 
+$300,000.01 to $400,000 | 6.7% | 
+$400,000.01 to $1,200,000 | 7.7% | 
+$1,200,000.01 to $3,000,000 | 10.0% | 
+$3,000,000.01 to $7,000,000 | 12.0% | 
+$7,000,000.01 and over | 14.0% | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.2783781533237538
+This section is also intended to be construed liberally, and
+in the event any part should be held invalid, the remaining part or
+parts shall remain in full force and effect. The Council shall have
+sole discretion as to how the money derived from this tax is to be
+used within the scope of the above purposes; however, the Council
+may appoint existing advisory boards or commissions to make recommendations
+as to its use, or the Council may create new advisory boards or commissions
+for the purpose. | 
+
+
+police regulations
+https://ecode360.com/35626125
+0.2770415072808544
+Part I: General Provisions | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.2755593583926267
+The Council may, however, modify the boundaries of the district as described in the resolution of intention based upon the evidence presented provided the Council proposes such change and continues the hearing until a later time, and notice of the proposed change and the time and place of the continued hearing is given in accordance with Subsection 9-3.2. | 
+
+
+sewer and water
+https://ecode360.com/35619452
+0.2732935769024091
+Each such inspector, agent and employee shall be furnished with,
+and upon request of any customer shall display, appropriate evidence
+of identification. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.26967876529720936
+ | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.2692826988799234
+Labor Rate | $13 per man/hour | 
+
+
+streets and sidewalks
+https://ecode360.com/35619162
+0.26916816640832575
+The insurance required herein in no way relieves or decreases
+the permittee's or its agent's obligation to indemnify and
+defend the City under this section. Prior to issuance of a permit,
+the permittee shall furnish the City, or have on file with the City
+Engineer, certificates of insurance and endorsements, in the form
+and amount(s) required, evidencing all of the coverage's above. | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.26892136620088825
+Lawn Mowers | $3 per hour | 
+Edgers | $3 per hour | 
+Rotor Tillers | $5 per hour | 
+Other gas/electric powered equipment | $5 per hour | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.26678451104556167
+In no case shall any mistake of the License Collector in stating
+the amount of a license prevent or prejudice the collection by the
+City of what should be actually due from any person carrying on a
+business subject to a license under the provisions of this Chapter. | 
+
+
+taxation
+https://ecode360.com/35618192
+0.2665806518823075
+No exemption shall be granted except upon a claim therefor made
+at the time the rent is collected and under penalty of perjury upon
+a form prescribed by the City Controller. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.26503297916771845
+1. | Crime Report | $12 | $14 | 
+2. | Traffic Report | $15 | $17 | 
+3. | Photos | $33 | $35 | 
+4. | Miscellaneous | $12 | $14 | 
+5. | Fingerprint | $12 | N/A | 
+6. | Arrest Report | $12 | N/A | 
+
+
+trailer camps
+https://ecode360.com/35617313
+0.2639641953501983
+Application for permit shall be signed by the owner of the trailer
+camp or by an agent possessing proof of authorization to act for the
+owner. | 
+If the Building Official is of the opinion, notwithstanding technical compliance on the part of the applicant with the applicable building regulations of the City of Compton, that the proposed cabana will be inconsistent with the Master Zoning Plan (comprehensive general plan) because of its appearance, structure or location, he may deny the application. If the application is denied for said reason, the applicant may petition the Planning Coordinator for approval. If the Planning Coordinator approves the proposed structure in writing, the Building Official shall issue the building permit forthwith. If the Planning Coordinator refuses to give the written approval or fails to act within 10 days of the filing of the petition, the applicant may file an application for review by the Planning Commission. Such application shall be filed, heard and determined pursuant to the provisions of Sections 30-9 through 30-12 of Chapter 30, Zoning. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.26203141444132927
+Part 1: Entertainment Permits | 
+
+
+property maintenance
+https://ecode360.com/35620232
+0.25744914946207587
+Security Services | $19.22 per hour | 
+Custodial Services | $17.26 per hour | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.25256595764157286
+No licensee shall operate an additional service as herein set
+forth unless authorized so to do by resolution of the City Council. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.24877677470129625
+If the investigation reveals convictions or conduct of the type
+described herein, or evidence of substance abuse, the Chief of Police
+may refuse to issue or revoke a registration card or work permit,
+in which event the Chief of Police shall immediately notify the licensee
+in writing of the denial or revocation. In the event the Chief of
+Police notifies the licensee that a registration card or work permit
+will not be issued to a person, or that the registration of any person
+is revoked, then the licensee shall immediately discharge such person. | 
+
+
+streets and sidewalks
+https://ecode360.com/35619162
+0.24873199041593272
+The applicant shall be responsible to reimburse the City for any and all costs that exceed the amount of the deposit received pursuant to subsection 20-6.8. | 
+
+
+zoning
+https://ecode360.com/35622209
+0.24301209863054263
+10 | 5 | 
+11 | 6 | 
+12 | 7 | 
+13 | 8 | 
+14 | 9 | 
+15 | 10 | 
+16 | 11 | 
+17 | 12 | 
+18 | 13 | 
+19 | 14 | 
+20 | 15 | 
+21 | 16 | 
+22 | 17 | 
+23 | 18 | 
+24 | 19 | 
+25 | 20 | 
+26 | 21 | 
+27 | 22 | 
+28 | 23 | 
+29 | 24 | 
+30 | 25 | 
+31 | 26 | 
+32 | 27 | 
+33 | 28 | 
+34 | 29 | 
+35 | 30 | 
+36 | 31 | 
+37 | 32 | 
+38 | 33 | 
+39 | 34 | 
+40 | 35 | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.24261085311504674
+It is hereby made the duty of each Deputy License Collector
+to cause complaints to be filed against all persons violating any
+of the provisions of this Chapter. | 
+
+
+fire prevention and protection
+https://ecode360.com/35617771
+0.2378833783964175
+First | $1,000 | $250 | $1,250 | 
+Second | $2,000 | $500 | $2,500 | 
+Third | $3,000 | $1,000 | $4,000 | 
+
+
+fire prevention and protection
+https://ecode360.com/35617771
+0.2378833783964175
+First | $500 | $125 | $625 | 
+Second | $1,000 | $250 | $1,250 | 
+Third | $1,500 | $500 | $2,000 | 
+
+
+fire prevention and protection
+https://ecode360.com/35617771
+0.2378833783964175
+First | $1,500 | $375 | $1,875 | 
+Second | $3,000 | $750 | $3,750 | 
+Third | $5,000 | $2,000 | $7,000 | 
+
+
+fire prevention and protection
+https://ecode360.com/35617771
+0.2378833783964175
+First | $500 | $150 | $650 | 
+Second | $1,000 | $300 | $1,300 | 
+Third | $1,500 | $600 | $2,100 | 
+
+
+electrical code
+https://ecode360.com/35617377
+0.16875689346913902
+90-13. Approval. Upon the completion of the electrical
+wiring in or on any building or structure of any nature, or any tent
+or premises, except as otherwise exempted in this Article, the person,
+firm, or corporation installing the same shall notify the Inspector,
+who shall inspect such installation, and if it is found by him to
+be fully in compliance with the provisions of this Article, he shall
+issue, as provided for herein, the certificate of inspection or approval
+tag authorizing the connection of the electrical service and the energizing
+of the installation. | 
+90-13.1. Permission to Cover Work. It shall be
+unlawful for any person to lath over, seal, cover, or conceal any
+electrical wiring or other electrical equipment for the installation
+of which a permit is required by Section 90-12.2 until such electric
+wiring or other electrical equipment shall have been inspected and
+approved by the Inspector. The Inspector shall have the power to remove,
+or to require the removal of, any obstruction which prevents the proper
+inspection of any electrical equipment. | 
+Inspection and Approval Required. | 
+(a) All electric wiring, as defined in this part,
+for which a permit is required shall be inspected and approved by
+the Department of Building and Safety before being energized or used. | 
+(b) No person shall use, operate, or maintain, or
+cause or permit to be used, operated, or maintained, any such electric
+wiring until such inspection and approval. | 
+(c) No serving agency shall furnish or supply, or
+cause or permit to be furnished or supplied, electric energy to any
+such electric wiring until such inspection and approval. | 
+(d) Nothing contained in this section shall be construed
+to prohibit the temporary use of electric energy when and as specifically
+provided in Section 90-14. | 
+(e) Nothing contained in this section shall be construed
+to prohibit the inspection of any electric wiring even though no permit
+is required therefor. | 
+(f) If approval is withheld, a written notification
+showing the date and the location of the defect in the work, with
+the signature of the inspector, shall be sent to the permittee. Failure
+of the permittee to make such corrections within 10 days after notification
+thereof shall be sufficient cause for refusal to issue any further
+permits to such permittee until such corrections have been made to
+the satisfaction of the Electrical Inspector. Requests for reinspection
+shall be made promptly after corrections have been completed. | 
+(g) Approval of rough wiring shall be withheld until
+the rough plumbing has been inspected and approved. | 
+Inspection of New Work. | 
+(a) No person shall conceal, enclose, or cover,
+or cause or permit to be concealed, enclosed, or covered, any portion
+of any electric wiring in any manner which will interfere with or
+prevent the inspection and approval thereof. | 
+(b) Any portion of any floor, ceiling, wall, partition,
+roof, finish, or other obstruction whatsoever which renders impracticable
+the making of a complete and thorough inspection of electric wiring
+shall be removed upon notice (either verbal or in writing) so to do
+and shall be kept removed until such electric wiring has been inspected
+and approved by the Electrical Inspector. | 
+(c) The provisions of this section shall not apply
+to finished work nor to conductors inserted in conduit or other wiring
+enclosures. | 
+(d) Before the final inspection of any electrical
+wiring, all plaster, concrete, or other foreign material shall be
+thoroughly removed from every box and wiring enclosure, and not less
+than six inches of jointless conductors shall extend out of each lighting
+outlet box for future connections thereto, except when conductors
+are intended to loop through the lamp holder. | 
+(e) In any case where one or more taped joints are
+found not soldered at the time of their inspection, the inspector
+may require every joint for such electric wiring to be left untapped
+until the inspection and approval thereof. | 
+(f) Fixtures of appliances shall not be connected
+to electric wiring until the rough wiring has been inspected and approved,
+except as otherwise satisfactory to the Department of Building and
+Safety. | 
+(g) All such wiring shall be free from grounds,
+shorts, or other defects before the approval thereof. | 
+(h) Whenever any electric wiring has been inspected
+and found to comply with the provisions of this part, the inspector
+of the Department of Building and Safety shall leave a notice at the
+service switch or other suitable place so stating, and the Inspector
+shall issue a certificate of inspection, when requested, or service
+permit authorizing the connection to the electrical service and the
+energizing of the installation. | 
+90-13.2. Corrections. All defects shall be corrected
+within 10 days after their inspection and notification or within such
+other reasonable time as is permitted by the Inspector. Failure to
+comply shall be sufficient cause for refusal to issue any further
+permit to such permittee until such corrections have been made. | 
+90-13.3. Connections. It shall be unlawful to energize,
+or cause or permit to be energized, any electrical wiring coming under
+provisions of this Article until such electrical wiring shall have
+been inspected and approved by the Inspector; provided, however, the
+Electrical Inspector may give written temporary permission to furnish
+electric current to, or the use of electric current through, any electrical
+wiring for a length of time not exceeding 30 days if it appears to
+the Electrical Inspector that such electrical wiring may be used safely
+for such purposes and that there exists in urgent necessity for such
+use. | 
+90-13.4. Right of Entry. Whenever it is necessary
+to make an inspection to enforce any of the provisions of this Code,
+or whenever the Building Official, or his authorized representative,
+has reasonable cause to believe that there exists in any building
+or upon any premises any condition which makes such building or premises
+unsafe, the Building Official, or his authorized representative, may
+enter such building or premises at all reasonable times to inspect
+the same or to perform any duty imposed upon the Building Official
+by this Code; provided, however, if such building or premises shall
+be occupied, he shall first present proper credentials and demand
+entry, and if entry of the building or premises is refused him, he
+shall first make a reasonable effort to locate the owner or other
+persons having the charge or control of the building or premises and
+demand entry. If such entry is refused, the Building Official, or
+his authorized representative, shall have recourse to every remedy
+provided by law to secure entry. | 
+No owner or occupant or any other person having the charge,
+care, or control of any building or premises shall fail or neglect,
+after proper demand is made as provided in this section, to properly
+permit entry therein by the Building Official, or his authorized representative,
+for the purpose of inspection and examination pursuant to the provisions
+of this Code. The Building Official, or his representative, shall
+inspect each building or parcel for Code compliance periodically as
+required by City, State, or Federal Laws. | 
+90-13.5. Reinspections. | 
+(a) The Department of Building and Safety is hereby
+authorized and empowered to make, at such times and as often as in
+its discretion it may seem necessary, a thorough reinspection of the
+installation in or on any building, structure, or premises of all
+electrical wiring, electric devices, and electrical materials now
+installed or that may hereafter be installed within the City of Compton,
+and when the installation of any such wiring, device, or material
+is found to be in a dangerous or unsafe condition, the person, firm,
+corporation, or governmental agency owning, using, or operating the
+same shall be notified in writing and shall make the necessary repairs
+or changes required to place such wiring, device, or material in a
+safe condition to have such work completed within a period of 10 days
+after such notice, or within such other reasonable period specified
+by the Inspector in such notice, and shall pay such fees as are required
+by the provisions of this Article. | 
+(b) The Department of Building and Safety is hereby
+empowered to disconnect or to order the discontinuance of electrical
+service to wiring, devices, or materials found to be defective until
+the installation of such wiring, device, or material has been made
+safe as directed by the Inspector, and any person, firm, corporation,
+political subdivision, or governmental agency ordered to discontinue
+such electrical service shall do so within 24 hours after the receipt
+of such notice and shall not reconnect such service or allow the same
+to be reconnected until notified so to do by the Electrical Inspector. | 
+90-13.6. Power to Stop Work. (a) The Building Official,
+or his duly authorized electrical inspectors, are hereby authorized
+to stop the installation of electric wiring, or the concealment thereof,
+whenever such installation or concealment is being done in violation
+of this part, until such violation has been corrected. | 
+(a) The Building Official, or his duly authorized
+electrical inspectors, are hereby authorized to stop the installation
+of electric wiring, or the concealment thereof, whenever such installation
+or concealment is being done in violation of this part, until such
+violation has been corrected. | 
+(b) Any such notice to stop work shall be in writing
+and shall be served either in person or by mail upon the person violating
+or responsible for the violation of this part to the last known address. | 
+(c) No person shall fail, neglect, or refuse to
+comply with such notice. | 
+90-13.7. Certificates of Completion. | 
+(a) Whenever any electric wiring has been inspected
+and approved, a certificate of completion therefor shall be issued
+on request provided all fees required by this part have been paid
+in full. | 
+(b) Any certificate of completion may, upon notice,
+be revoked and canceled by the Department of Building and Safety if
+the Electrical Inspector finds that the electric wiring fails in any
+respect to comply with the requirements of this part or that the installation
+is unsafe, dangerous, or a hazard to life or property. | 
+(c) No person shall use, operate, or energize, or
+cause or permit to be used, operated, or energized, any installation,
+after the certificate therefor has been revoked, until a new certificate
+of completion has been issued therefor by the Department of Building
+and Safety. | 
+90-13.8. Interpretation of Language. | 
+The language used in this part is intended to convey the common
+and accepted meaning familiar to the electrical industry. Whenever
+any section, or portion thereof, of this part appears to be in conflict
+with any other section, or portion thereof, the Electrical Inspector
+is hereby authorized to interpret and determine the meaning and intent
+of such provisions. | 
+90-13.9. General Safety Provisions. | 
+(a) It is the intent and purpose of this part to
+provide for safe, durable, and reasonable nonhazardous electric installations
+and to establish the minimum standards therefor. | 
+(b) Irrespective of the specific provisions contained
+in this part, or the omission of specific provisions regulating any
+electric installation, or portion thereof, the Electrical Inspector
+is hereby authorized and empowered to refuse to approve any electric
+wiring which, in his opinion, will manifestly fail to carry out the
+intents and purposes of this part. | 
+
+
+general licensing
+https://ecode360.com/35620626
+0.16084289149126987
+Part 2: Dance Halls | 
+
+
+zoning
+https://ecode360.com/35622209
+0.1529779646142369
+A-Frame | X | X | X | X | X | X | X | X | X | 
+Address | E | E | E | E | E | E | E | E | X | 
+Audio | X | X | X | X | X | X | X | X | X | 
+Balloons (small helium filled) | X | X | X | X | T | T | T | T | X | 
+Banner | X | X | X | X | T | T | T | T | X | 
+Bench | X | X | X | X | P | P | P | P | X | 
+Billboard | X | X | X | X | X | X | X | X | P | 
+Business Identification | S | S | S | S | P | P | P | P | X | 
+Canopy (Awning) | X | X | X | X | P | P | P | P | X | 
+Center Identification | X | X | X | X | P | P | P | P | X | 
+Construction | T | T | T | T | T | T | T | T | X | 
+Directional | P | P | P | P | P | P | P | P | X | 
+Directory | X | X | X | X | P | P | P | P | X | 
+Emergency | E | E | E | E | E | E | E | E | X | 
+Facade (Wall) | S | S | S | S | P | P | P | P | X | 
+Flag (National) | E | E | E | E | E | E | E | E | X | 
+Flags (Spinners, Festoons, etc.) | X | X | X | X | T | T | T | T | X | 
+Flashing | X | X | X | X | X | X | X | X | X | 
+Ground | S | S | S | S | P | P | P | P | X | 
+Holiday Decorations | E | E | E | E | E | E | E | E | X | 
+Incidental | E | E | E | E | E | E | E | E | X | 
+Inflatable | X | X | X | X | CUP | CUP | CUP | CUP | X | 
+Kiosk | X | X | X | X | P | P | P | P | X | 
+Marquee | X | X | X | X | CUP | CUP | CUP | CUP | X | 
+Menu | X | X | X | X | P | P | P | P | X | 
+Monument | S | S | S | S | P | P | P | P | X | 
+Mural | X | X | X | X | P | P | P | P | X | 
+Painted-on | X | X | X | X | X | X | X | X | X | 
+Pennant (Spinners, Festoons, etc.) | X | X | X | X | T | T | T | T | X | 
+Pole | X | X | X | X | X | X | X | X | X | 
+Political Election | T | T | T | T | T | T | T | T | X | 
+Portable | X | X | X | X | X | X | X | X | X | 
+Projecting | X | X | X | X | X | X | X | X | X | 
+Pylon | X | X | X | X | P | P | P | P | X | 
+Real Estate | T | T | T | T | T | T | T | T | X | 
+Roof | X | X | X | X | X | X | X | X | X | 
+Rotating | X | X | X | X | X | X | X | X | X | 
+Supergraphic | X | X | X | X | X | X | CUP | CUP | X | 
+Temporary | T | T | T | T | T | T | T | T | X | 
+Time & Temperature | X | X | X | X | P | P | P | P | X | 
+Under Canopy | X | X | X | X | P | P | P | P | X | 
+Vehicle | X | X | X | X | X | X | X | X | X | 
+Wall (Facade) | S | S | S | S | P | P | P | P | X | 
+Window | X | X | X | X | E | E | E | E | X | 
+
+
+dl      disposition list
+https://ecode360.com/35617395
+0.13268619356653868
+2304 | 9-18-2018 | Personnel Policies Amendment | Ch. 5 | 37 | 
+2305 | 11-13-2018 | Decrease of Maximum Weight and Load on Bridges | NCM | 37 | 
+2306 | 12-4-2018 | Election | NCM | 37 | 
+2307 | 6-5-2019 | Tax Rate | NCM | 37 | 
+2308 | 6-11-2019 | Sewer and Water Amendment | Ch. 23 | 37 | 
+2309 | 6-25-2019 | Agreement | NCM | 37 | 
+2310 | 6-25-2019 | Integrated Waste Management Amendment | Ch. 21 | 37 | 
+2311 | 6-25-2019 | Waste Rates | NCM | 37 | 
+2312 | 7-2-2019 | General Licensing Amendment | Ch. 9 | 37 | 
+2313 | 7-2-2019 | Police Regulations Amendment | Ch. 7 | 37 | 
+2314 | 9-17-2019 | Fiscal Administration Amendment | Ch. 4 | 37 | 
+2315 | 10-8-2019 | Moratorium | NCM | 37 | 
+2316 | 10-15-2019 | General Provisions Amendment | Ch. 1 | 37 | 
+2317 | 2-11-2020 | General Licensing Amendment | Ch. 9 | 1 | 
+2318 | 4-7-2020 | Zoning Amendment | Ch. 30 | 1 | 
+2319 | 5-6-2020 | Moratorium | NCM | 1 | 
+2320 | 5-12-2020 | Police Regulations Amendment | Ch. 7 | 1 | 
+2321 | 6-2-2020 | Fire Prevention and Protection Amendment | Ch. 22 | 1 | 
+2322 | 6-16-2020 | Administration Amendment | Ch. 2 | 1 | 
+2323 | 8-3-2020 | 2020-2021 Tax Rate | NCM | 1 | 
+2324 | 9-8-2020 | Administration Amendment | Editor's Note Ch. 2, Art. III | 1 | 
+2325 | 10-6-2020 | Election Procedure Amendment | Ch. 6 | 1 | 
+2326 | 11-24-2020 | Administration Amendment | Ch. 2 | 1 | 
+2327 | 12-8-2020 | Administration Amendment | Editor's Note Ch. 2, Art. III | 1 | 
+2328 | 12-8-2020 | Administration Amendment | Editor's Note Ch. 2, Art. III | 1 | 
+2329 | 12-8-2020 | Administration Amendment | Editor's Note Ch. 2, Art. III | 1 | 
+2330 | 2-9-2021 | Election Procedure Amendment | Ch. 6 | 1 | 
+2331 | 3-2-2021 | Administration Amendment | Ch. 2 | 1 | 
+2332 | 3-16-2021 | Administration Amendment | Ch. 2 | 1 | 
+
+
+sewer and water
+https://ecode360.com/35619452
+0.12795380156908506
+Per 100 cu. feet | $ - | $0.285 | $0.563 | $0.601 | $0.617 | $0.638 | 
+
+
+traffic regulations
+https://ecode360.com/35625123
+0.09436363206397025
+__________ | __________ | 
+__________ | __________ | 
+__________ | __________ | 
+
+
+general licensing
+https://ecode360.com/35620626
+-0.020425465050860403
+4 | $50 | 
+5 | $100 | 
+6 | $150 | 
+
+
+dl      disposition list
+https://ecode360.com/35617395
+-0.02462611937373499
+2255 | 11-12-2014 | Call for holding Primary Election April 21, 2015 and General
+Municipal Election June 2, 2015, Special | 34 | 
+2256 | 3-3-2015 | Amends Ch. 2, Administration, adds 2-30, Public Works Commission | 34 | 
+2257 | 4-7-2015 | Amends Ch. 30, Zoning, amends 30-21.11, exceptions; adds 30-21.12, Modified Parking Requirement (MPR) | 34 | 
+2258 | 4-7-2015 | Authorizes Development Agreement with LA Brickyard LLC, Special | 34 | 
+2259 | 6-23-2015 | Zoning Map amendment, Special | 34 | 
+2260 | 7-28-2015 | Levy municipal tax rate for 2015-2016, Special | 34 | 
+2261 | 9-15-2015 | Amends Ch. 2 Administration; Deletes 2-28 Housing Development Commission | 35 | 
+2262 | 9-15-2015 | Amends Ch. 2 Administration; Deletes 2-21 Gaming Commission | 35 | 
+2263 | 10-20-2015 | Amends Ch. 7 Police Regulations; 7-12.28 Loud or Unruly Parties/Gatherings Prohibited; adds 7-12.29 Loud or Unruly Parties or Gatherings; Second and Subsequent Response Fees | 35 | 
+2264 | 12-22-2015 | Amends Ch. 2 Administration; 2-1.2 Regular (Council) Meetings; Adjournment | 35 | 
+2265 | 2-16-2016 | Call and Provide for Special Election to Be Held June 7, 2016,
+Special | 35 | 
+2266 | 2-23-2016 | Amends Ch. 9, General Licensing; 9-23.8, 9-23.14, 9-23.15, 9-23.16f Licensing of Bingo Games for Charitable Purposes | 35 | 
+2267 | 2-23-2016 | Amends Ch. 4 Fiscal Administration; Adds 4-11.12 Payment of Prevailing Wages Required for Public Works Projects | 35 | 
+2268 | 6-7-2016 | Amends Ch. 3 Taxation; adds 3-5 Transaction and Use Tax | 35 | 
+2269 | — | Number not used | 35 | 
+2270 | 7-26-2016 | Grant of Franchise to Torrance Pipeline Company, Special | 35 | 
+2271 | 9-6-2016 | Levy of Municipal Tax Rate for Fiscal Year 2016-2017, Special | 35 | 
+2272 | 9-13-2016 | Amends City Charter; Abolishes Department of Public Works and Municipal Utilities and creates Public Works Department and the Compton Municipal Water Department, Editor’s Note: at Ch. 2, Article 3. | 35 | 
+2273 | 10-11-2016 | Amends Zoning Map, Special | 35 | 
+2274 | 10-11-2016 | Amends Ch. 30, Zoning; 30-52, Prohibits All Commercial Medical Marijuana Uses in the City (Interim Ordinance) | 35 | 
+2275 | 11-1-2016 | Amends Ch. 30, Zoning; 30-51; Imposes a Temporary Moratorium on New Convenience and Liquor Store Uses-repealed by Ord. No. 2300 | 35 | 
+2276 | 11-15-2016 | Amends Ch. 30, Zoning; 30-52 Extends Ord. No. 2274, Prohibiting the Establishment of All Commercial Medical Marijuana Uses in the City (Interim Ordinance) | 35 | 
+2277 | 11-15-2016 | Amends Ch. 30, Zoning; 30-53; Prohibits All Commercial Non-Medical Marijuana Activity in the City; Prohibits Outdoor Marijuana Cultivation on Private Residences (Interim Ordinance) | 35 | 
+2278 | 12-6-2016 | Call for Holding Primary Nominating Election April 18, 2017
+and General Municipal Election June 6, 2017, Special | 36 | 
+2279 | 12-16-2016 | Amends Ch. 30 Zoning; 30-51 An Interim Ordinance Imposing a Temporary Moratorium on New Convenience Store and Liquor Store Uses, Established by Ord. No. 2275, superseded by Ord. No. 2300 | 36 | 
+2280 | 12-20-2016 | Amends Ch. 23 Sewer and Water; adds 23-3 Sanitary Sewer Overflow Reduction Program 23-3.1 — 23-3.20 | 36 | 
+2281 | 1-17-2017 | Amends Ch. 30 Zoning; 30-51 An Interim Ordinance Imposing a Temporary Moratorium on New Convenience Store and Liquor Store Uses, Established by Ord. No. 2275, superseded by Ord. No. 2300 | 36 | 
+2282 | 1-24-2017 | Amends Ch. 9 General Licensing; amends 9-24 Medical Marijuana Dispensaries in entirety and establishes 9-24 Marijuana 9-24.1 — 9-24.5; [Amends Ch. 30 Zoning; to prohibit commercial marijuana uses and marijuana cultivation with limited exceptions in all zones in the City, 30-3 Definitions; 30-7.2 Uses (R-A); 30-8.2 Uses (R-L); 30-9.2 Uses (R-M); 30-10.2 Uses (R-H); 30-12.2 Uses (C-L); 30-12.3 Prohibited Uses (C-L); 30-13.2 Uses (C-M); 30-13.3 Prohibited Uses (C-M); 30-14.2 Uses (M-L); 30-14.3 Prohibited Uses (M-L); 30-15.2 Uses (M-H); amends 30-15.3 Prohibited Uses; 30-16.2 Uses (B); 30-16.3 Prohibited Uses (B); 30-18.3 Uses (D); adds 30-18.6 Prohibited Uses (D); 30-19.3 Uses (SD); 30-19.4 Prohibited Uses (SD); Amends 30-40 and adds specific penalty for violations of Ord. #2282] | 36 | 
+2283 | 3-14-2017 | Amends Ch. 10 Cable, Video and Telecommunications Service Providers; 10-7.6 Fee for Support of PEG Access Facilities and Activities, reauthorizes the fee on state-franchised video service providers | 36 | 
+2284 | 4-11-2017 | Amends Ch. 2 Administration; 2-20 Compton Youth Leadership Council, 2-20.1 — 2-20.2 | 36 | 
+2285 | 4-11-2017 | Amends Ch. 7 Police Regulations; adds 7-20 Regulation of Camping, Sleeping, and/or Storage of Personal Property on Public Property 7-20.1 — 7-20.9, Notice of Property Retrieval | 36 | 
+2286 |  | Not adopted | 36 | 
+2287 | 7-5-2017 | Amends Ch. 4 Fiscal Administration; 4-15 First Source Hiring Program, 4-15.1 — 14-15.6 | 36 | 
+2288 | 7-5-2017 | Amends Ch. 2 Administration; 2-21E.2 Compensation of Members, Personnel Board | 36 | 
+2289 | 7-25-2017 | Levy municipal tax rate for 2017-2018, Special | 36 | 
+2290 | 8-2-2017 | Amends Ch. 6 Election Procedure, adds 6-22 Special Municipal Election on Charter Proposals, 6-22.1, 6-22.2 | 36 | 
+2291 | 8-2-2017 | Call and Provide for Special Municipal Election to be Held November
+7, 2017, Special | 36 | 
+2292 | 10-24-2017 | Call for Holding and Notice of Special Municipal Election on
+January 23, 2018, Special | 36 | 
+2293 | 11-14-2017 | Not Approved by the Electorate at the January 23, 2018 Special
+Municipal Election
+An Ordinance of the Voters of the City of Compton, California
+Amending Title 9 and Title 17 of the Compton Municipal Code to Permit
+Commercial Cannabis Activity (Except Outdoor Cultivation and Indoor
+Cultivation for Other Than Personal Use) Only in the Commercial Manufacturing
+Zone of the City, Requiring A Business License for All Permitted Commercial
+Cannabis Activity, and to Prohibit Indoor and Outdoor Commercial Cannabis
+Cultivation Uses in the City, to Adopt a Tax on Commercial Cannabis
+Uses and Activities Not to Exceed 10% of Gross Annual Sales, and to
+Regulate Indoor Cannabis Cultivation in Dwellings Consistent with
+State Law, and Declaring a Conflict with Another Ballot Measure on
+the Same Subject | 36 | 
+2294 | 11-11-2017 | Amends Ch. 12 Traffic Regulations; 12-5.1 Increasing State Speed Limits in Certain Zones | 36 | 
+2295 | 12-19-2017 | Amends Municipal Code relative to fees charged for City Services and Facilities now established in the Master Fee Schedule adopted by Resolution; Amends Ch. 1 General Provisions; 1-10.4 Purchase of Code; Amends Ch. 8 Public Safety; 8-1.2, 8-6.11, 8-6.12, 8-7.3; Amends Ch. 14 Building and Housing; 14-1.8 Table 1-A Building Permit Fees deleted, 14-2.4 Fees; Amends Ch. 15 Plumbing Code; 15-1.8 Amendment; Table 1-1 Plumbing Permit Fees; Amends Ch. 16 Electrical Code; 16-2.13 Amendment, Fees Required; Amends Ch. 17 Mechanical Code; 17-1.7 Table 1-A Mechanical Permit Fees; Amends Ch. 18 Public Parks and Playgrounds; 18-10, 18-11; amends Ch. 22 Fire Prevention and Protection; 22-3; Amends Ch. 23 Sewer and Water; 23-1.7, 23-1.10, 23-1.31; Amends Ch. 23 Appendix Sections 4,9, 17 — 19; Amends Ch. 30 Zoning; 30-26.5, 30-27.5, 30-28.3, 30-42 Planning Fees | 36 | 
+2296 | 1-24-2018 | Amends Ch. 7 Police Regulations, repeals Sex Offender Residency Restrictions, 7-25.1 — 7-25.16 | 36 | 
+2297 | 2-27-2018 | Amends Ch. 21 Integrated Waste Management; 21-1.9 Collection of Recyclable Solid Waste | 36 | 
+2298 | 6-19-2018 | Amends Ch. 12 Traffic Regulations; 12-9 Preferential Permit Parking Program, 12-9.1 — 12-9.15 | 36 | 
+2299 | 6-26-2018 | Amends Ch. 2 Administration; 2-1.16 Mayor Pro Tem | 36 | 
+2300 | 7-3-2018 | Amends Ch. 30 Zoning; repeals Interim Ordinance No. 2275 codified as Section 30-51, An Interim Ordinance Imposing a Temporary Moratorium on Convenience Store and Liquor Store Uses; establishes 30-51 Alcoholic Beverage Sales Establishment Regulations, 30-51.1 — 30-51.23; amends 30-12.2 and 30-12.4 Uses (C-L); 30-13.2 Uses (C-M); 30-14.2 uses (M-L); 30-15.2 Uses (M-H) | 36 | 
+2301 | 7-17-2018 | Amends Ch. 18 Public Parks and Playgrounds; 18-2.9 Loitering After Closing Time | 36 | 
+2302 | 7-17-2018 | Levy of Municipal Tax Rate for Fiscal Year 2018-2019, Special | 36 | 
+2303 | 9-11-2018 | Amends Ch. 2 Administration; 2-1.2 Regular Meetings; Adjournment; 2-1.7 Order of Business | 36 | 
+
+
+traffic regulations
+https://ecode360.com/35625123
+-0.2653059226638138
+East Alameda Street | Auto Drive | Greenleaf Boulevard | 35 | 
+East Alameda Street | Greenleaf Boulevard | Compton Boulevard | 35 | 
+East Alameda Street | Compton Boulevard | Rosecrans Avenue | 35 | 
+East Alameda Street | Rosecrans Avenue | North City Limit | 40 | 
+West Alameda Street | South City Limit | Greenleaf Boulevard | 40 | 
+West Alameda Street | Greenleaf Boulevard | Alondra Boulevard | 40 | 
+West Alameda Street | Alondra Boulevard | Compton Boulevard | 40 | 
+West Alameda Street | Compton Boulevard | Rosecrans Avenue | 40 | 
+West Alameda Street | Rosecrans Avenue | North City Limit | 45 | 
+Alondra Boulevard | West City Limit | Wilmington Avenue | 40 | 
+Alondra Boulevard | Wilmington Avenue | Alameda Street | 40 | 
+Alondra Boulevard | Alameda Street | Long Beach Boulevard | 40 | 
+Alondra Boulevard | Long Beach Boulevard | East City Limit | 40 | 
+Apra Street | Victoria Street | Acacia Avenue | 45 | 
+Artesia Boulevard (Eb) | Central Avenue | Acacia Avenue | 45 | 
+Artesia Boulevard (Wb) | Central Avenue | Acacia Avenue | 45 | 
+Artesia Boulevard | Acacia Avenue | Santa Fe Avenue | 45 | 
+Artesia Boulevard | Santa Fe Avenue | Susana/Harbor | 45 | 
+Atlantic Avenue | Alondra Boulevard | South City Limit | 35 | 
+Bradfield Avenue | Rosecrans Avenue | Compton Boulevard | 30 | 
+Bullis Road | Compton Boulevard | Rosecrans Avenue | 30 | 
+Bullis Road | Rosecrans Avenue | North City Limits | 30 | 
+Central Avenue | South City Limit | Greenleaf Boulevard | 40 | 
+Central Avenue | Greenleaf Boulevard | Compton Boulevard | 40 | 
+Central Avenue | Compton Boulevard | Rosecrans Avenue | 40 | 
+Central Avenue | Rosecrans Avenue | North City Limit | 45 | 
+Compton Avenue | Slater Avenue | El Segundo Boulevard | 35 | 
+Compton Boulevard | West City Limit | Wilmington Avenue | 35 | 
+Compton Boulevard | Wilmington Avenue | Acacia Avenue | 35 | 
+Compton Boulevard | Acacia Avenue | Santa Fe Avenue | 35 | 
+Compton Boulevard | Santa Fe Avenue | Bullis Road | 40 | 
+Compton Boulevard | Bullis Road | East City Limit | 40 | 
+El Segundo Boulevard | Central Avenue | Wilmington Avenue | 40 | 
+Greenleaf Boulevard | Central Avenue | Willowbrook Avenue | 35 | 
+Greenleaf Boulevard | Willowbrook Avenue | Long Beach Boulevard | 40 | 
+Greenleaf Boulevard | Long Beach Boulevard | East City Limit | 35 | 
+Long Beach Boulevard | South City Limit | Alondra Boulevard | 40 | 
+Long Beach Boulevard | Alondra Boulevard | Compton Boulevard | 35 | 
+Long Beach Boulevard | Compton Boulevard | Rosecrans Avenue | 35 | 
+Long Beach Boulevard | Rosecrans Avenue | North City Limit | 35 | 
+Manville Street | West City Limit | East City Limit | 35 | 
+McMillan street | Thorson Avenue | East City Limit | 25 | 
+Palmer Street | Alameda Street | Santa Fe Avenue | 30 | 
+Palmer Street | Santa Fe Avenue | Long Beach Boulevard | 30 | 
+Parmelee Avenue | 138th Street | El Segundo Boulevard | 30 | 
+Rosecrans Avenue | West City Limit | Wilmington Avenue | 40 | 
+Rosecrans Avenue | Wilmington Avenue | Acacia Avenue | 40 | 
+Rosecrans Avenue | Acacia Avenue | Santa Fe Avenue | 40 | 
+Rosecrans Avenue | Santa Fe Avenue | Bullis Road | 40 | 
+Rosecrans Avenue | Bullis Road | East City Limit | 40 | 
+Santa Fe Avenue | Artesia Boulevard | Greenleaf Boulevard | 40 | 
+Santa Fe Avenue | Greenleaf Boulevard | Alondra Boulevard | 40 | 
+Santa Fe Avenue | Alondra Boulevard | Compton Boulevard | 40 | 
+Santa Fe Avenue | Compton Boulevard | Rosecrans Avenue | 40 | 
+Santa Fe Avenue | Rosecrans Avenue | North City Limit | 40 | 
+Victoria Street | Wilmington Avenue | Apra Street | 40 | 
+Victoria Street | Apra Street | South City Limit | 45 | 
+Walnut Street | West City Limit | Wilmington Avenue | 35 | 
+Walnut Street | Wilmington Avenue | Acacia Avenue | 35 | 
+Willowbrook Avenue (East) | Greenleaf Boulevard | Alondra Boulevard | 30 | 
+Willowbrook Avenue (East) | Alondra Boulevard | Compton Boulevard | 30 | 
+Willowbrook Avenue (East) | Compton Boulevard | Rosecrans Avenue | 30 | 
+Willowbrook Avenue (West) | Greenleaf Boulevard | Alondra Boulevard | 30 | 
+Willowbrook Avenue (West) | Alondra Boulevard | Compton Boulevard | 35 | 
+Willowbrook Avenue (West) | Compton Boulevard | Rosecrans Avenue | 35 | 
+Wilmington Avenue | South City Limit | Greenleaf Boulevard | 35 | 
+Wilmington Avenue | Greenleaf Boulevard | Alondra Boulevard | 35 | 
+Wilmington Avenue | Alondra Boulevard | Compton Boulevard | 40 | 
+Wilmington Avenue | Compton Boulevard | Rosecrans Avenue | 35 | 
+Wilmington Avenue | Rosecrans Avenue | North City Limit | 35 | 
+
+
+rt      reference table
+https://ecode360.com/35622207
+-29.02136217775406
+1100. | 1-1 | 
+1101. | 1-2 | 
+1102. | Adopting Ordinance | 
+1103. | Adopting Ordinance | 
+1103.1. | 1-7 | 
+1104. | — | 
+1105. | 1-5 | 
+1106. | 1-8 | 
+1107. | 1-9.1 | 
+1108. | 1-9.2 | 
+1109. | — | 
+1110. | 1-9.3 | 
+1111. | 1-9.4 | 
+1200. | 1-6.1 | 
+1201. | 1-6.6 | 
+1202. | 1-6.7 | 
+1203. | 1-6.8 | 
+1204. | 1-6.9 | 
+1205. | 4-5 | 
+1300. | 1-4 | 
+1301. | 1-4 | 
+1302. | 1-4 | 
+1303. | 1-4 | 
+1304. | 1-4 | 
+1305. | 1-4 | 
+1306. | 1-4 | 
+1307. | 1-4 | 
+1308. | 1-4 | 
+1309. | 1-4 | 
+1310. | 1-4 | 
+1311. | 1-4 | 
+1312. | 1-4 | 
+1313. | 1-3 | 
+1314. | 1-3 | 
+1315. | 1-3 | 
+1316. | 1-3 | 
+1317. | 1-3 | 
+1318. | 1-3 | 
+1319. | 1-3 | 
+1320. | 1-3 | 
+1321. | 1-3 | 
+1322. | 1-3 | 
+1323. | 1-3 | 
+1324. | 1-3 | 
+1325. | 1-3 | 
+2100. | 2-1.1 | 
+2100.1. | 2-1.2 | 
+2100.2. | 2-1.3 | 
+2100.3. | 2-1.4 | 
+2100.4. | 2-1.5 | 
+2100.5. | 2-1.6 | 
+2100.6. | 2-1.7 | 
+2100.7. | 2-1.8 | 
+2100.8. | 2-1.9 | 
+2100.9. | 2-1.10 | 
+2100.10. | 2-1.11 | 
+2210. | 5-1.1 | 
+2220. | 5-3.1 | 
+2220.1. | 5-3.1a | 
+2220.2. | — | 
+2220.3. | — | 
+2220.A. | — | 
+2220.B. | — | 
+2221. | 5-3.2 | 
+2222. | 5-3.3 | 
+2223. | 5-3.4 | 
+2223.A. | 5-3.4a | 
+2224. | 5-3.5 | 
+2225. | 5-3.6 | 
+2226. | 5-3.7 | 
+2227. | — | 
+2228. | 5-3.8 | 
+2230. | 5-2.1 | 
+2300. | 2-4.1 | 
+2301. | 2-4.2 | 
+2302. | 2-4.3 | 
+2303. | 2-4.4 | 
+2304. | 2-4.5 | 
+2305. | 2-4.6 | 
+2306. | 2-4.7 | 
+2307. | 2-4.8 | 
+2308. | 2-4.9 | 
+2309. | 2-4.10 | 
+2320. | 2-5.1 | 
+2330. | 2-6.1 | 
+2331. | 2-6.2 | 
+2332. | — | 
+2340. | 2-7.1 | 
+2341. | 2-7.2 | 
+2342. | 2-7.3 | 
+2343. | 2-7.4 | 
+2344. | 2-7.5 | 
+2350. | 2-8.1 | 
+2351. | 2-8.2 | 
+2352. | 2-8.3 | 
+2353. | — | 
+2354. | — | 
+2355. | — | 
+2356. | — | 
+2357. | 2-9.2 | 
+2358. | 2-9.3 | 
+2360. | 2-10.1 | 
+2361. | 2-10.2 | 
+2362. | — | 
+2363. | — | 
+2370. | 2-11.1 | 
+2380. | — | 
+2380.1. | — | 
+2381. | — | 
+2382. | — | 
+2383. | — | 
+2384. | — | 
+2385. | 2-12.1 | 
+2385.1. | 2-12.2 | 
+2385.2. | 2-12.3 | 
+2385.3. | 2-12.4 | 
+2386. | 2-12.5 | 
+2386.1. | 2-12.6 | 
+2387. | 2-12.7 | 
+2387.1. | 2-12.8 | 
+2391. | — | 
+2392. | — | 
+2393. | — | 
+2394. | — | 
+2395. | 2-13.1 | 
+2395.1. | — | 
+2395.2. | 2-13.2 | 
+2395.3. | 2-13.3 | 
+2395.4. | 2-13.4 | 
+2395.5. | 2-13.5 | 
+2395.6. | 2-13.6 | 
+2396. | 2-14.1 | 
+2396.1. | 2-14.2 | 
+2396.2. | 2-14.3 | 
+2397. | 2-15.1 | 
+2397.1. | 2-15.2 | 
+2397.2. | 2-15.3 | 
+2398. | 2-18.1 — 2-18.3 | 
+2398.1. | — | 
+2399. | — | 
+2-2300. | 2-16.1 | 
+2-2301. | 2-16.2 | 
+2-2302. | 2-16.3 | 
+2-2303. | 2-16.4 | 
+3-2300. | 2-17.1 | 
+3-2301. | 2-17.2 | 
+3-2302. | 2-17.3 | 
+3-2303. | 2-17.4 | 
+3-2304. | 2-17.5 | 
+2400. | 3-1.1 | 
+2401. | 3-1.2 | 
+2402. | 3-1.3 | 
+2403. | 3-1.4 | 
+2404. | 3-1.5 | 
+2510. | 4-1.1 | 
+2511. | 4-1.2 | 
+2512. | 4-1.3 | 
+2520. | 4-2.1 | 
+2521. | 4-2.2 | 
+2522. | 4-2.3 | 
+2523. | 4-2.4 | 
+2524. | 4-2.5 | 
+2525. | 4-2.6 | 
+2530. | 4-7.1 | 
+2531. | 4-7.2 | 
+2532. | 4-7.3 | 
+2540. | 4-3.1 | 
+2540.1. | 4-3.2 | 
+2541. | 4-3.3 | 
+2542. | 4-3.4 | 
+2543. | 4-3.5 | 
+2544. | 4-3.6 | 
+2550. | — | 
+2600. | 4-4.1 | 
+2601. | 4-4.2 | 
+2602. | 4-4.3 | 
+2603. | 4-4.4 | 
+2604. | 4-4.5 | 
+2605. | 4-4.6 | 
+2606. | 4-4.7 | 
+2607. | 4-4.8 | 
+2608. | 4-4.9 | 
+2609. | 4-4.10 | 
+2610. | 4-4.11 | 
+2611. | — | 
+2700. | 6-1 | 
+2701. | 6-2 | 
+2702. | 6-3 | 
+2703. | 6-4 | 
+2704. | 6-5 | 
+2705. | 6-6 | 
+2706. | 6-7 | 
+2707. | 6-8 | 
+2708. | 6-9 | 
+2709. | 6-10 | 
+2710. | 6-11 | 
+2711. | 6-12 | 
+2712. | 6-13 | 
+2713. | 6-14 | 
+2714. | 6-15 | 
+2715. | 6-16 | 
+2716. | 6-17 | 
+2717. | 6-18 | 
+2718. | 6-19 | 
+2719. | 6-20 | 
+2720. | 6-21 | 
+2800. | 2-22 | 
+2801. | 2-23.1 | 
+2801.1. | 2-23.2 | 
+2801.2. | 2-23.3 | 
+2801.3. | 2-23.4 | 
+2801.4. | 2-23.5 | 
+2801.5. | 2-23.6 | 
+2802. | 2-24.1 | 
+2802.1. | 2-24.2 | 
+2802.2. | 2-24.3 | 
+2802.3. | 2-24.4 | 
+2803. | 2-25.1 | 
+2803.1. | 2-25.2 | 
+2900. | 2-26.1 | 
+2901. | 2-26.2 | 
+2-1000. | 2-2.1 | 
+2-1001. | 2-2.2 | 
+2-1002. | 2-2.3 | 
+2-1003. | 2-2.4 | 
+2-1004. | 2-2.5 | 
+2-1005. | 2-2.6 | 
+2-1006. | 2-2.7 | 
+2-1006.1. | 2-2.7a | 
+2-1006.2. | 2-2.7b | 
+2-1006.3. | 2-2.7c | 
+2-1006.4. | 2-2.7d | 
+2-1006.5. | 2-2.7e | 
+2-1006.6. | 2-2.7f | 
+2-1006.7. | 2-2.7g | 
+2-1006.8. | 2-2.7h | 
+2-1006.9. | 2-2.7i | 
+2-1006.10. | 2-2.7j | 
+2-1006.11. | 2-2.7k | 
+2-1006.12. | 2-2.7l | 
+2-1007. | 2-2.8 | 
+2-1007.1. | 2-2.8a | 
+2-1007.2. | 2-2.8b | 
+2-1007.3. | 2-2.8c | 
+2-1008. | 2-2.9 | 
+2-1008.1. | — | 
+2-1008.2. | — | 
+2-1008.3. | — | 
+2-1008.4. | — | 
+2-1008.5. | — | 
+2-1009. | 2-2.10 | 
+3100. | 22-2.1 | 
+3101. | — | 
+3102. | — | 
+3103. | 22-2.2 | 
+3103.1. | 22-2.3 | 
+3103.2. | 22-2.4 | 
+3103.3. | 22-2.5 | 
+3103.4. | 22-2.6 | 
+3103.5. | 22-2.7 | 
+3103.6. | 22-2.8 | 
+3103.7. | 22-2.9 | 
+3104. | 22-2.10 | 
+3105. | 22-2.11 | 
+3106. | 22-2.12 | 
+3106.1. | 22-2.13 | 
+3107. | 22-2.14 | 
+3108. | 22-2.15 | 
+3109. | 22-2.16 | 
+3110. | 22-2.17 | 
+3111. | 22-2.18 | 
+3300. | 22-1.1 | 
+3301. | 22-1.2 | 
+3302. | 22-1.3 | 
+3303. | 22-1.4 | 
+3400. | 12-1 | 
+3400.1. | 12-1 | 
+3400.2. | 12-1 | 
+3400.3. | 12-1 | 
+3400.4. | 12-1 | 
+3400.5. | 12-1 | 
+3400.6. | 12-1 | 
+3400.7. | 12-1 | 
+3400.8. | 12-1 | 
+3400.9. | 12-1 | 
+3400.10. | 12-1 | 
+3400.11. | 12-1 | 
+3400.12. | 12-1 | 
+3400.13. | 12-1 | 
+3400.14. | 12-1 | 
+3400.15. | 12-1 | 
+3400.16. | 12-1 | 
+3401. | 12-2.1 | 
+3402. | 12-2.2 | 
+3403. | 12-2.3 | 
+3404. | 12-2.4 | 
+3405. | 12-2.5 | 
+3406. | 12-2.6 | 
+3407. | 12-2.7 | 
+3408. | 12-2.8 | 
+3409. | 12-2.9 | 
+3410. | 12-2.10 | 
+3411. | 12-2.11 | 
+3412. | 12-2.12 | 
+3413. | 12-2.13 | 
+3414. | 12-2.14 | 
+3415. | 12-2.15 | 
+3416. | 12-2.16 | 
+3417. | 12-2.17 | 
+3418. | 12-2.18 | 
+3419. | 12-2.19 | 
+3420. | 12-2.20 | 
+3421. | 12-2.21 | 
+3422. | 12-2.22 | 
+3423. | 12-2.23 | 
+3424. | 12-2.24 | 
+3425. | 12-2.25 | 
+3425.1. | 12-2.26 | 
+3426. | 12-2.27 | 
+3427. | 12-2.28 | 
+3428. | 12-2.29 | 
+3429. | 12-2.30 | 
+3430. | 12-2.31 | 
+3431. | 12-2.32 | 
+3432. | 12-2.33 | 
+3433. | 12-2.34 | 
+3434. | — | 
+3434.1. | 12-2.35 | 
+3435. | 12-2.36 | 
+3436. | 12-2.37 | 
+3437. | 12-2.38 | 
+3438. | 12-2.39 | 
+3439. | 12-2.40 | 
+3440. | 12-2.41 | 
+3441. | 12-3.1 | 
+3442. | 12-3.2 | 
+3443. | 12-3.3 | 
+3444. | 12-3.4 | 
+3445. | 12-3.5 | 
+3446. | 12-3.6 | 
+3447. | 12-3.7 | 
+3448. | 12-3.8 | 
+3449. | 12-3.9 | 
+3450. | 12-3.10 | 
+3451. | 12-3.11 | 
+3452. | 12-3.12 | 
+3453. | 12-3.13 | 
+3454. | — | 
+3455. | — | 
+3456. | — | 
+3457. | 12-3.14 | 
+3458. | 12-3.15 | 
+3459. | 12-3.16 | 
+3459.1. | 12-3.17 | 
+3459.2. | 12-3.18 | 
+3459.3. | 12-3.19 | 
+3459.4. | 12-3.20 | 
+3459.5. | 12-3.21 | 
+3459.6. | 12-3.22 | 
+3459.7. | 12-3.23 | 
+3460. | 12-3.24 | 
+3460.1. | 12-3.25 | 
+3461. | 12-3.26 | 
+3462. | 12-3.27 | 
+3463. | 12-4.1 | 
+3464. | 12-4.2 | 
+3465. | 12-4.3, 12-4.4 | 
+3466. | — | 
+3467. | 12-2.42 | 
+3467.1. | 12-2.43 | 
+3468. | 12-3.28 | 
+3469. | 12-2.44 | 
+3470. | 12-5.1 | 
+3471. | 12-5.2 | 
+3472. | 12-5.3 | 
+3473. | 12-5.4 | 
+3474. | 12-5.5 | 
+3475. | 12-2.45 | 
+3476. | — | 
+3500. | 8-6.1 | 
+3501. | 8-6.2 | 
+3502. | 8-6.3 | 
+3503. | 8-6.4 | 
+3504. | 8-6.5 | 
+3505. | 8-6.6 | 
+3506. | 8-6.7 | 
+3507. | 8-6.8 | 
+3508. | 8-6.9 | 
+3509. | 8-6.10 | 
+3600. | 7-4.1 | 
+3601. | 7-4.2 | 
+3602. | 7-4.3 | 
+3603. | 7-4.4 | 
+3603.1. | 7-4.5 | 
+3604. | — | 
+3604.1. | — | 
+3604.2. | — | 
+3605. | — | 
+3605.1. | 7-19.1 | 
+3605.2. | 7-19.1 | 
+3605.3. | 7-19.1 | 
+3605.4. | 7-19.2 | 
+3605.5. | 7-19.3 | 
+3605.6. | 7-19.4 | 
+3605.7. | 7-19.4 | 
+3605.8. | 7-19.4 | 
+3605.9. | 7-19.4 | 
+3606. | 7-19.5 | 
+3701. | 8-4.1 | 
+3702. | 8-4.2 | 
+3703. | 8-4.3 | 
+3704. | 8-4.4 | 
+3705. | 8-4.5 | 
+3706. | 8-4.6 | 
+3707. | 8-4.7 | 
+3708. | 8-4.8 | 
+3709. | 8-4.9 | 
+3710. | 8-4.10 | 
+3711. | 8-4.11 | 
+3712. | 8-4.12 | 
+3713. | — | 
+3800. | 13-1 | 
+3900. | 8-2.1 | 
+3901. | 8-2.2 | 
+3902. | 8-2.3 | 
+3903. | 8-2.4 | 
+3-1000. | 8-3.1 | 
+3-1001. | 8-3.2 | 
+3-1100. | 8-1.1 | 
+3-1101. | 8-1.2 | 
+4101. | 11-1.1 | 
+4102. | 11-1.2 | 
+4200. | 7-6.2 | 
+4200.1. | 7-6.1 | 
+4200.2. | 7-6.2 | 
+4201. | 7-6.2 | 
+4202. | 7-6.3 | 
+4203. | 7-6.4 | 
+4203.1. | — | 
+4203.2. | — | 
+4204. | 7-6.5 | 
+4205. | 7-6.6 | 
+4206. | 7-6.7 | 
+4207. | 7-6.8 | 
+4208. | 7-6.9 | 
+4209. | 7-6.10 | 
+4210. | 7-6.11 | 
+4211. | 7-6.12 | 
+4300. | 7-13.1 | 
+4300.1. | 7-13.2 | 
+4400. | 7-7.1 | 
+4401. | 7-7.2 | 
+4401.1. | 7-7.2 | 
+4500. | 7-2.1 | 
+4500.1. | 7-2.2 | 
+4500.2. | 7-2.3 | 
+4500.3. | 7-2.4 | 
+4500.4. | — | 
+4500.5. | — | 
+4500.6. | — | 
+4500.7. | — | 
+4501. | 7-2.5 | 
+4502. | 7-11.1 | 
+4502.1. | — | 
+4502.2. | — | 
+4502.3. | — | 
+4503. | — | 
+4503.1. | — | 
+4503.2. | — | 
+4503.3. | 7-11.2 | 
+4504. | 7-11.3 | 
+4504.1. | 7-11.3 | 
+4504.2. | 7-11.3 | 
+4504.3. | 7-11.3 | 
+4505. | 7-11.3 | 
+4506. | 7-11.3 | 
+4600. | 7-8.1 | 
+4600.1. | 7-8.1 | 
+4600.2. | 7-8.2 | 
+4600.3. | 7-8.3 | 
+4601. | 7-8.4 | 
+4602. | 7-8.5 | 
+4603. | 7-8.6 | 
+4604. | 7-8.7 | 
+4605. | 7-8.8 | 
+4606. | 7-8.9 | 
+4607. | 7-8.10 | 
+4608. | 7-8.11 | 
+4609. | 7-8.12 | 
+4610. | 7-8.13 | 
+4611. | 7-8.14 | 
+4612. | 7-8.15 | 
+4700. | 7-1.1 | 
+4700.1. | 7-1.2 | 
+4700.2. | 7-1.3 | 
+4701. | 7-1.4 | 
+4701.1. | 7-1.5 | 
+4701.2. | 7-1.6 | 
+4701.3. | 7-1.7 | 
+4701.4. | 7-1.8 | 
+4702. | 7-9.1 | 
+4702.1. | 7-9.2 | 
+4702.2. | 7-9.3 | 
+4702.3. | 7-9.4 | 
+4702.4. | 7-9.5 | 
+4702.5. | 7-9.6 | 
+4702.6. | 7-9.7 | 
+4702.7. | 7-9.8 | 
+4702.8. | 7-9.9 | 
+4702.9. | 7-9.10 | 
+4703. | — | 
+4703.1. | 7-9.11 | 
+4703.2. | 7-9.12 | 
+4704. | — | 
+4704.1. | 7-9.13 | 
+4704.2. | 7-9.14 | 
+4704.3. | 7-9.15 | 
+4705. | 7-17.1 | 
+4705.1. | 7-17.2 | 
+4705.2. | 7-17.3 | 
+4705.3. | 7-17.4 | 
+4705.4. | 7-17.5 | 
+4705.5. | 7-17.6 | 
+4705.6. | 7-17.7 | 
+4706. | 7-12.1 | 
+4706.1. | 7-12.2 | 
+4706.2. | 7-12.3 | 
+4706.3. | 7-12.4 | 
+4706.4. | 7-12.5 | 
+4706.5. | 7-12.6 | 
+4706.6. | 7-12.7 | 
+4706.7. | 7-12.8 | 
+4706.8. | 7-12.9 | 
+4706.9. | 7-12.10 | 
+4706.10. | 7-12.11 | 
+4706.11. | 7-12.12 | 
+4706.12. | 7-12.13 | 
+4706.13. | 7-12.14 | 
+4706.14. | 7-12.15 | 
+4706.15. | 7-12.16 | 
+4707.1. | 7-15.1 | 
+4707.2. | 7-15.2 | 
+4707.3. | 7-15.3 | 
+4707.4. | 7-15.4 | 
+4707.5. | 7-15.5 | 
+4708. | 7-12.17 | 
+4708.1. | 7-12.18 | 
+4708.2. | 7-12.19 | 
+4708.3. | 7-12.20 | 
+4708.4. | 7-12.21 | 
+4708.5. | 7-12.22 | 
+4708.6. | 7-12.23 | 
+4708.7. | 7-12.24 | 
+4708.8. | 7-12.25 | 
+4708.9. | 7-12.26 | 
+4709. | 7-14.1 | 
+4709.1. | 7-14.2 | 
+4709.2. | 7-14.3 | 
+4709.3. | 7-14.4 | 
+4709.4. | 7-14.5 | 
+4710.1. | 7-21.1 | 
+4710.2. | 7-21.2 | 
+4710.3. | 7-21.3 | 
+4710.4. | 7-21.4 | 
+4711. | 7-3.1 | 
+4711.1. | 7-3.2 | 
+4711.2. | 7-3.3 | 
+4800. | 18-1 | 
+4801. | 18-2 | 
+4801.1. | 18-2.1 | 
+4801.2. | 18-2.2 | 
+4801.3. | 18-2.3 | 
+4801.4. | 18-2.4 | 
+4801.5. | 18-2.5 | 
+4801.6. | 18-2.6 | 
+4801.7. | 18-2.7 | 
+4801.8. | 18-2.8 | 
+4801.9. | 18-2.9 | 
+4801.10. | 18-2.10 | 
+4801.11. | 18-2.11 | 
+4801.12. | 18-2.12 | 
+4801.13. | 18-2.13 | 
+4801.14. | 18-2.14 | 
+4801.15. | 18-2.15 | 
+4801.16. | 18-2.16 | 
+4801.17. | 18-2.17 | 
+4801.18. | 18-2.18 | 
+4801.19. | 18-2.19 | 
+4802. | 18-3 | 
+4803. | 18-4 | 
+4804. | 18-5 | 
+4804.1. | 18-5a | 
+4085. | 18-6 | 
+4805.1. | 18-6a | 
+4805.2. | 18-6b | 
+4806. | 18-7 | 
+4807. | 18-8 | 
+4808. | 18-9 | 
+4900. | 7-5.1a | 
+4900.1. | 7-5.1b | 
+4900.2. | 7-5.2 | 
+4900.3. | 7-5.3 | 
+4901. | 7-5.4 | 
+4901.1. | 7-5.5 | 
+4901.2. | 7-5.6 | 
+4903.1. | 7-18.1 | 
+4903.2. | 7-18.2 | 
+4903.3. | 7-18.3 | 
+4903.4. | 7-18.4 | 
+5100. | 27-1 | 
+5100.1. | 27-1 | 
+5100.2. | 27-1 | 
+5100.3. | 27-1 | 
+5100.4. | 27-1 | 
+5100.5. | 27-1 | 
+5101. | 27-2 | 
+5102. | 27-3 | 
+5103. | 27-4 | 
+5104. | 27-5 | 
+5105. | 27-6 | 
+5106. | 27-7 | 
+5107. | 27-8 | 
+5108. | 27-9 | 
+5109. | 27-10 | 
+5110. | 27-11 | 
+5111. | 27-12 | 
+5112. | 27-13 | 
+5113. | 27-14 | 
+5114. | 27-15 | 
+5115. | 27-16 | 
+5116. | 27-17 | 
+5117. | 27-18 | 
+5118. | 27-19 | 
+5119. | 27-20 | 
+5120. | 27-21 | 
+5121. | — | 
+5122. | 27-22 | 
+5200. | — | 
+5200.1. | 21-1.1 | 
+5200.2. | — | 
+5200.3. | — | 
+5200.4. | — | 
+5200.5. | — | 
+5201. | 21-1.2 | 
+5201.1. | 21-1.2a | 
+5201.2. | 21-1.2b | 
+5201.3. | 21-1.2c | 
+5201.4. | 21-1.2d | 
+5202. | 21-1.3 | 
+5203. | 21-1.4 | 
+5204. | 21-1.5 | 
+5205. | 21-1.6 | 
+5205.1. | 21-1.6a | 
+5205.2. | 21-1.6b | 
+5205.3. | 21-1.6c | 
+5205.4. | 21-1.6d | 
+5205.5. | 21-1.6e | 
+5205.6. | 21-1.6f | 
+5205.6A. | 21-1.6g | 
+5205.7. | 21-1.6h | 
+5205.8. | 21-1.6-1 | 
+5206. | 21-1.7 | 
+5207. | 21-1.8 | 
+5208. | 21-1.9 | 
+5300. | 35-1 | 
+5301. | 35-2 | 
+5302. | 35-3 | 
+5303. | 35-4 | 
+5304. | 35-5 | 
+5305. | 35-6 | 
+5306. | 35-7 | 
+5307. | 35-8 | 
+5308. | 35-9 | 
+5309. | 35-10 | 
+5310. | 35-11 | 
+5311. | 35-12 | 
+5500. | 7-20.1 | 
+5500.1. | 7-20.2 | 
+5500.2. | 7-20.3 | 
+5500.3. | 7-20.4 | 
+5500.4. | 7-20.5 | 
+5501. | 7-20.6 | 
+5501.1. | 7-20.7 | 
+5501.2. | 7-20.8 | 
+5502. | 7-20.9 | 
+5502.1. | 7-20.10 | 
+5502.2. | 7-20.11 | 
+5502.3. | 7-20.12 | 
+5502.3.A. | 7-20.13 | 
+5502.4. | 7-20.14 | 
+5503. | 7-20.15 | 
+5504. | 7-20.16 | 
+5505. | 7-20.17 | 
+5506. | 7-20.18 | 
+5507. | 7-20.19 | 
+5508. | 7-20.20 | 
+5509. | 7-20.21 | 
+5510. | 7-20.22 | 
+5511. | 7-20.23 | 
+6100. | 9-1.1 | 
+6100.1. | 9-1.1 | 
+6100.2. | 9-1.1 | 
+6100.3. | 9-1.1 | 
+6100.4. | 9-1.1 | 
+6100.5. | 9-1.1 | 
+6100.6. | 9-1.1 | 
+6100.7. | 9-1.1 | 
+6100.8. | 9-1.1 | 
+6100.9. | 9-1.1 | 
+6100.10. | 9-1.1 | 
+6100.11. | 9-1.1 | 
+6100.12. | 9-1.1 | 
+6100.13. | 9-1.1 | 
+6100.14. | 9-1.1 | 
+6100.15. | 9-1.1 | 
+6100.15A. | 9-1.1 | 
+6100.15B. | 9-4.10 | 
+6100.16. | 9-1.1 | 
+6100.17. | 9-1.1 | 
+6100.18. | 9-1.1 | 
+6100.19. | 9-1.1 | 
+6100.20. | 9-1.1 | 
+6100.21. | 9-1.1 | 
+6100.22. | 9-1.1 | 
+6100.23. | 9-1.1 | 
+6100.24. | 9-1.1 | 
+6100.25. | 9-1.1 | 
+6100.26. | 9-1.1 | 
+6100.27. | 9-1.1 | 
+6100.28. | 9-1.1 | 
+6100.29. | 9-1.1 | 
+6100.30. | 9-1.1 | 
+6100.31. | 9-1.1 | 
+6100.32. | 9-1.1 | 
+6100.33. | 9-1.1 | 
+6100.34. | 9-1.1 | 
+6100.35. | 9-1.1 | 
+6100.36. | 9-1.1 | 
+6100.37. | 9-1.1 | 
+6100.38. | 9-1.1 | 
+6100.38A. | 9-1.1 | 
+6100.38B. | 9-1.1 | 
+6100.39. | 9-1.1 | 
+6100.39A. | 9-1.1 | 
+6100.39B. | 9-1.1 | 
+6100.39C. | 9-1.1 | 
+6100.40. | 9-1.1 | 
+6100.41. | 9-1.1 | 
+6100.42. | 9-1.1 | 
+6101. | 9-1.2 | 
+6102. | 9-1.3 | 
+6103. | 9-1.4 | 
+6104. | 9-1.5 | 
+6105. | 9-1.6 | 
+6106. | 9-1.7 | 
+6107. | 9-1.8 | 
+6108. | 9-1.9 | 
+6109. | 9-1.10 | 
+6109.1. | 9-1.10a | 
+6110. | 9-1.11 | 
+6110.1. | 9-1.11a | 
+6111. | 9-1.12 | 
+6112. | 9-1.13 | 
+6113. | 9-1.14 | 
+6114. | 9-1.15 | 
+6115. | 9-1.16 | 
+6116. | 9-1.17 | 
+6117. | 9-1.18 | 
+6117.1. | 9-1.19 | 
+6117.2. | 9-1.20 | 
+6117.3. | 9-1.21 | 
+6118. | 9-1.22 | 
+6119. | 9-1.23 | 
+6119.1. | 9-1.24a | 
+6119.2. | 9-1.24b | 
+6120. | 9-1.25 | 
+6120.1. | 9-1.25a | 
+6120.2. | 9-1.25b | 
+6121. | 9-1.26 | 
+6122. | 9-1.27 | 
+6123. | 9-1.28 | 
+6124. | 9-1.29 | 
+6125. | 9-1.30 | 
+6126. | 9-1.31 | 
+6127. | 9-1.32 | 
+6128. | 9-1.33 | 
+6129. | 9-1.34 | 
+6130. | 9-1.35 | 
+6131. | 9-1.36 | 
+6132. | 9-1.37 | 
+6133. | 9-1.38 | 
+6134. | 9-1.39 | 
+6135. | 9-1.40 | 
+6136. | 9-1.41 | 
+6200 | 9-2.1 | 
+6200.1. | 9-2.1-1 | 
+6200.2. | 9-2.1-2 | 
+6200.3. | 9-2.1-3 | 
+6200.4. | 9-2.1-4 | 
+6200.5. | 9-2.1-5 | 
+6200.6. | 9-2.1-6 | 
+6200.7. | 9-2.1-7 | 
+6200.8. | 9-2.1-8 | 
+6200.9. | 9-2.1-9 | 
+6200.10. | 9-2.1-10 | 
+6200.11. | 9-2.1-11 | 
+6200.12. | 9-2.1-12 | 
+6200.13. | 9-2.1-13 | 
+6200.14. | 9-2.1-14 | 
+6200.15. | 9-2.1-15 | 
+6200.15a. | 9-2.1-16 | 
+6200.16. | — | 
+6200.17. | 9-2.1-17 | 
+6200.18. | 9-2.1-18 | 
+6200.19. | 9-2.1-19 | 
+6200.19a. | 9-2.1-19b | 
+6200.20. | 9-2.1-20 | 
+6200.21. | 9-2.1-21 | 
+6200.22. | 9-2.1-22 | 
+6200.23. | 9-2.1-23 | 
+6200.24. | 9-2.1-24 | 
+6200.25. | 9-2.1-25 | 
+6200.26. | 9-2.1-26 | 
+6200.26a. | 9-2.1-27 | 
+6200.27. | 9-2.1-28 | 
+6200.28. | 9-2.1-29 | 
+6200.29. | 9-2.1-30 | 
+6200.30. | 9-2.1-31 | 
+6200.31. | 9-2.1-32 | 
+6200.32. | 9-2.1-33 | 
+6200.33. | 9-2.1-34 | 
+6200.34. | 9-2.1-35 | 
+6200.35. | 9-2.1-36 | 
+6200.36. | 9-2.1-37 | 
+6200.37. | — | 
+6200.37a. | 9-2.1-38 | 
+6200.37b. | — | 
+6200.38. | 9-2.1-39 | 
+6200.39. | 9-2.1-40 | 
+6200.39a. | 9-2.1-41 | 
+6200.40. | 9-2.1-42 | 
+6200.40a. | 9-2.1-43 | 
+6200.41. | 9-2.1-44 | 
+6200.42. | 9-2.1-45 | 
+6200.43. | 9-2.1-46 | 
+6200.44. | 9-1.2-47 | 
+6200.45. | 9-1.2-48 | 
+6200.46. | 9-2.1-49 | 
+6200.47. | 9-2.1-50 | 
+6200.48. | 9-2.1-51 | 
+6200.49. | 9-2.1-52 | 
+6200.49a. | 9-2.1-53 | 
+6200.50. | 9-2.1-54 | 
+6200.51. | 9-2.1-55 | 
+6200.52. | 9-2.1-56 | 
+6200.53. | 9-2.1-57 | 
+6200.54. | 9-2.1-58 | 
+6200.55. | 9-2.1-59 | 
+6200.56. | 9-2.1-60 | 
+6200.57. | 9-2.1-61 | 
+6200.58. | 9-2.1-62 | 
+6200.59. | 9-2.1-63 | 
+6200.60. | 9-2.1-64 | 
+6200.61. | 9-2.1-65 | 
+6200.62. | 9-2.1-66 | 
+6200.63. | 9-2.1-67 | 
+6200.64. | 9-2.1-68 | 
+6200.65. | 9-2.1-69 | 
+6200.66. | 9-2.1-70 | 
+6200.67. | 9-2.1-71 | 
+6200.68. | 9-2.1-72 | 
+6200.69. | 9-2.1-73 | 
+6200.70. | 9-2.1-74 | 
+6200.71. | 9-2.1-75 | 
+6200.72. | 9-2.1-76 | 
+6200.73. | — | 
+6200.74. | 9-2.1-77 | 
+6200.75. | 9-2.1-78 | 
+6200.76. | 9-2.1-79 | 
+6200.77. | 9-2.1-80 | 
+6200.78. | 9-2.1-81 | 
+6200.79. | 9-2.1-82 | 
+6201. | 9-3 | 
+6201.1. | 9-3.1 | 
+6201.2. | 9-3.2 | 
+6201.3. | 9-3.3 | 
+6201.4. | 9-3.4 | 
+6201.5. | 9-3.5 | 
+6201.6. | 9-3.6 | 
+6201.7. | 9-3.7 | 
+6201.8. | 9-3.8 | 
+6300. | 9-4.1 | 
+6300.1. | 9-4.1-1 | 
+6300.2. | 9-4.1-2 | 
+6300.3. | 9-4.1-3 | 
+6300.4. | 9-4.1-4 | 
+6300.5. | 9-4.1-5 | 
+6300.6. | 9-4.1-7 | 
+6300.7. | 9-4.1-8 | 
+6300.8. | 9-4.1-9 | 
+6300.9. | 9-4.1-10 | 
+6300.9A. | 9-4.1-11 | 
+6300.10. | 9-4.1-12 | 
+6300.11. | 9-4.1-13 | 
+6300.12. | 9-4.1-14 | 
+6300.13. | 9-4.1-15 | 
+6300.14. | 9-4.1-16 | 
+6300.15. | 9-4.1-17 | 
+6300.16. | 9-4.1-18 | 
+6300.17. | 9-4.1-19 | 
+6300.18. | 9-4.1-20 | 
+6300.19. | 9-4.1-21 | 
+6301. | 9-4.2 | 
+6302. | 9-4.3 | 
+6303. | 9-4.4 | 
+6303.1. | 9-4.5 | 
+6304. | 9-4.6 | 
+6305. | 9-4.7 | 
+6306. | 9-4.8 | 
+6307. | 9-4.9 | 
+6419.1. | 9-14.1 | 
+6419.2. | 9-14.2 | 
+6419.3. | 9-14.3 | 
+6420. | 9-10.1 | 
+6420.1. | 9-10.1 | 
+6420.2. | 9-10.1 | 
+6420.3. | 9-10.2 | 
+6421. | — | 
+6422. | — | 
+6423. | — | 
+6424. | 9-10.3 | 
+6425. | 9-10.4 | 
+6426. | 9-10.5 | 
+6427. | 9-10.6 | 
+6430. | 9-11.1 | 
+6430.1. | 9-11.1 | 
+6430.2. | 9-11.1 | 
+6430.3. | 9-11.1 | 
+6431. | 9-11.2 | 
+6431.1. | 9-11.3 | 
+6431.2. | 9-11.4 | 
+6432. | 9-11.5 | 
+6432.1. | 9-11.6 | 
+6432.2. | 9-11.7 | 
+6432.3. | 9-11.8 | 
+6433. | 9-11.9 | 
+6434. | 9-11.10 | 
+6435. | 9-11.11 | 
+6436. | 9-11.12 | 
+6437. | 9-11.13 | 
+6438. | 9-11.14 | 
+6439. | 9-11.15 | 
+6440. | 9-12.1 | 
+6440.1. | 9-12.1 | 
+6440.2. | 9-12.1 | 
+6440.3. | — | 
+6441. | 9-12.2 | 
+6441.1. | 9-12.1 | 
+6441.2. | 9-12.1 | 
+6441.3. | 9-12.1 | 
+6441.4. | 9-12.3 | 
+6441.5. | 9-12.4 | 
+6441.6. | 9-12.5 | 
+6441.7. | 9-12.6 | 
+6441.8. | 9-12.7 | 
+6441.9. | 9-12.8 | 
+6441.10. | 9-12.9 | 
+6441.11. | 9-12.10 | 
+6441.12. | 9-12.11 | 
+6441.13. | 9-12.12 | 
+6441.14. | 9-12.13 | 
+6441.15. | 9-12.14 | 
+6441.16. | 9-12.15 | 
+6441.17. | 9-12.16 | 
+6441.18. | 9-12.17 | 
+6441.19. | 9-12.18 | 
+6441.20. | 9-12.19 | 
+6441.21. | 9-12.20 | 
+6441.22. | 9-12.21 | 
+6441.23. | 9-12.22 | 
+6441.24. | 9-12.23 | 
+6441.25. | 9-12.24 | 
+6441.26. | 9-12.25 | 
+6441.27. | 9-12.26 | 
+6441.28. | 9-12.27 | 
+6441.29. | 9-12.28 | 
+6441.30. | 9-12.29 | 
+6441.31. | 9-12.30 | 
+6442. | — | 
+6443. | 9-12.1 | 
+6443.1. | 9-12.1 | 
+6443.2. | 9-12.1 | 
+6443.3. | 9-12.1 | 
+6443.4. | — | 
+6443.5. | 9-12.31 | 
+6443.6. | 9-12.32 | 
+6443.7. | 9-12.33 | 
+6443.8. | 9-12.34 | 
+6443.9. | 9-12.35 | 
+6443.10. | 9-12.36 | 
+6443.11. | 9-12.37 | 
+6443.12. | 9-12.38 | 
+6443.13. | 9-12.39 | 
+6443.12. | 9-12.38 | 
+6443.13. | 9-12.39 | 
+6443.14. | 9-12.40 | 
+6443.15. | 9-12.41 | 
+6443.16. | 9-12.42 | 
+6443.17. | — | 
+6443.18. | 9-12.43 | 
+6443.19. | 9-12.44 | 
+6443.20. | 9-12.45 | 
+6443.21. | 9-12.46 | 
+6443.22. | 9-12.47 | 
+6443.23. | 9-12.48 | 
+6443.24. | 9-12.49 | 
+6443.25. | 9-12.50 | 
+6443.26. | 9-12.51 | 
+6443.27. | 9-12.52 | 
+6443.28. | 9-12.53 | 
+6443.29. | — | 
+6444. | — | 
+6445. | 9-12.54 | 
+6445.1. | 9-12.55 | 
+6446. | — | 
+6446.1. | — | 
+6446.2. | 9-12.56 | 
+6446.3. | 9-12.57 | 
+6447. | 9-12.58 | 
+6448. | 9-12.59 | 
+6449. | 9-12.60 | 
+6450. | 9-16.1 | 
+6450.1. | 9-16.1 | 
+6451. | 9-16.2 | 
+6452. | 9-16.3 | 
+6452.1. | 9-16.4 | 
+6453. | 9-16.5 | 
+6453.1. | 9-16.6 | 
+6454. | 9-16.7 | 
+6455. | 9-16.8 | 
+6455.1. | 9-16.9 | 
+6455.2. | 9-16.10 | 
+6455.3. | 9-16.11 | 
+6455.4. | 9-16.12 | 
+6456. | 9-16.13 | 
+6457. | 9-16.14 | 
+6460. | 9-21.1 | 
+6460.1. | 9-21.1 | 
+6460.2. | 9-21.1 | 
+6460.3. | 9-21.1 | 
+6460.4. | 9-21.1 | 
+6460.5. | 9-21.1 | 
+6461. | 9-21.2 | 
+6461.1. | 9-21.1a | 
+6461.2. | 9-21.1b | 
+6461.3. | 9-21.1c | 
+6461.4. | 9-21.1d | 
+6462. | 9-21.3 | 
+6463. | 9-21.4 | 
+6464. | 9-21.5 | 
+6464.1. | 9-21.6 | 
+6464.2. | 9-21.7 | 
+6464.3. | 9-21.8 | 
+6464.4. | 9-21.9 | 
+6464.5. | 9-21.10 | 
+6464.6. | 9-21.11 | 
+6464.7. | 8-21.12 | 
+6464.8. | 9-21.13 | 
+6465. | 9-21.14 | 
+6465.1. | 9-21.15 | 
+6466. | 9-21.16 | 
+6467. | 9-21.17 | 
+6467.1. | 9-21.18 | 
+6467.2. | 9-21.19 | 
+6467.3. | 9-21.20 | 
+6468. | 9-21.21 | 
+6468.1. | 9-21.22 | 
+6468.2. | 9-21.23 | 
+6468.3. | 9-21.24 | 
+6468.4. | 9-21.25 | 
+6480. | 9-19.1 | 
+6480.1. | 9-19.1 | 
+6480.2. | 9-19.1 | 
+6480.3. | 9-19.1 | 
+6480.4. | 9-19.1 | 
+6480.5. | 9-19.1 | 
+6480.6. | 9-19.1 | 
+6480.7. | 9-19.1 | 
+6480.8. | 9-19.1 | 
+6480.9. | 9-19.1 | 
+6480.10. | 9-19.1 | 
+6481. | 9-19.2 | 
+6481.1. | 9-19.3 | 
+6482. | 9-19.4 | 
+6482.1. | 9-19.5 | 
+6482.2. | 9-19.6 | 
+6482.3. | 9-19.7 | 
+6482.4. | 9-19.7a | 
+6482.5. | 9-19.8 | 
+6482.6. | 9-19.9 | 
+6482.7. | 9-19.10 | 
+6482.8. | 9-19.11 | 
+6482.9. | 9-19.12 | 
+6482.10. | 9-19.13 | 
+6482.11. | 9-19.14 | 
+6482.12. | 9-19.15 | 
+6483. | 9-19.16 | 
+6483.1. | 9-19.17 | 
+6483.2. | 9-19.18 | 
+6483.3. | 9-19.19 | 
+6484. | 9-19.20 | 
+6484.1. | 9-19.20a | 
+6485. | 9-19.21 | 
+6485.1. | 9-19.22 | 
+6485.2. | 9-19.23 | 
+6486. | 9-19.24 | 
+6486.1. | 9-19.25 | 
+6487. | 9-19.26 | 
+6488. | 9-19.27 | 
+6489. | 9-19.28 | 
+6489.1. | 9-19.29 | 
+6489.2. | 9-19.30 | 
+6489.3. | 9-19.31 | 
+6490. | 9-7.1 | 
+6490.1. | 9-7.2 | 
+6491. | 9-8.1 | 
+6491.1. | 9-8.1-2 | 
+6491.2. | 9-8.1-1 | 
+6491.3. | 9-8.2 | 
+6491.4. | 9-8.3 | 
+6491.5. | 9-8.4 | 
+6491.6. | 9-8.5 | 
+6493. | 9-13.1 | 
+6494. | 9-9.1 | 
+6494.1. | 9-9.1 | 
+6494.2. | 9-9.1 | 
+6494.3. | 9-9.2 | 
+6494.4. | 9-9.3 | 
+6494.5. | 9-9.4 | 
+6494.6. | 9-9.5 | 
+6494.7. | 9-9.6 | 
+6494.8. | 9-9.7 | 
+6494.9. | 9-9.8 | 
+6494.10. | 9-9.9 | 
+6494.11. | 9-9.10 | 
+6495. |  | 
+6496. | 9-15.1 | 
+6496.1. | 9-15.1 | 
+6496.2. | 9-15.1 | 
+6496.3. | 9-15.1 | 
+6496.4. | 9-15.2 | 
+6496.5. | 9-15.3 | 
+6496.6. | 9-15.4 | 
+6496.7. | 9-15.5 | 
+6496.8. | 9-15.6 | 
+6497. | 9-6.1 | 
+6497.1. | 9-6.2 | 
+6497.2. | 9-6.3 | 
+6498. | 9-5.1 | 
+6498.1. | 9-5.2 | 
+6498.2. | 9-5.3 | 
+6498.3. | 9-5.4 | 
+6499. | 9-5.6 | 
+6499.1. | 9-5.6a | 
+2-6400. | 10-1 | 
+2-6401. | 10-2 | 
+2-6401. | 10-3 | 
+2-6402. | 10-4 | 
+2-6403. | 10-5 | 
+2-6404. | 10-6 | 
+2-6405. | 10-7 | 
+2-6406. | 10-8 | 
+2-6407. | 10-9 | 
+2-6408. | 10-10 | 
+2-6409. | 10-11 | 
+2-6410. | 10-12 | 
+2-6430. | 9-22.1 | 
+2-6431. | 9-22.2 | 
+2-6432. | 9-22.3 | 
+2-6433. | 9-22.4 | 
+2-6434. | 9-22.5 | 
+2-6435. | 9-22.6 | 
+2-6436. | 9-22.7 | 
+2-6437.1. | 9-22.8 | 
+2-6437.2. | 9-22.9 | 
+2-6438. | 9-22.10 | 
+2-6439. | 9-22.11 | 
+2-6440. | 9-22.12 | 
+2-6441. | 9-22.13 | 
+2-6442. | 9-22.14 | 
+2-6443. | 9-22.15 | 
+2-6444. | 9-22.16 | 
+2-6445. | 9-22.17 | 
+2-6446. | 9-22.18 | 
+2-6447. | 9-22.19 | 
+2-6448. | 9-22.20 | 
+2-6449. | 9-22.21 | 
+2-6450. | 9-22.22 | 
+2-6451. | 9-22.23 | 
+2-6452. | 9-22.24 | 
+2-6500. | 9-17 | 
+6500. | 9-18.1 | 
+6501. | 9-18.2 | 
+6502. | 9-18.3 | 
+6503. | 9-18.4 | 
+6504. | 9-18.5 | 
+6505. | 9-18.6 | 
+6506. | 9-18.7 | 
+6507. | 9-18.8 | 
+6600. | — | 
+6601. | — | 
+6602. | — | 
+6602A. | — | 
+6603. | — | 
+6604. | — | 
+6605. | — | 
+6606. | — | 
+6607. | — | 
+6608. | — | 
+6609. | — | 
+6610. | — | 
+6611. | — | 
+6612. | — | 
+6613. | — | 
+6614. | — | 
+6615. | — | 
+6616. | — | 
+6617. | — | 
+6618. | — | 
+6619. | — | 
+6620. | — | 
+6621. | — | 
+6622. | — | 
+6623. | — | 
+6624. | — | 
+6700. | — | 
+6701. | — | 
+6702. | — | 
+6703. | — | 
+6704. | — | 
+6705. | — | 
+6706. | — | 
+6707. | — | 
+6708. | — | 
+6709. | — | 
+6710. | — | 
+6711. | — | 
+6712. | — | 
+6713. | — | 
+6714. | — | 
+6715. | — | 
+6716. | — | 
+6717. | — | 
+6718. | — | 
+6719. | — | 
+6720. | — | 
+6721. | — | 
+6722. | — | 
+6723. | — | 
+6900. | 3-2.1 | 
+6901. | 3-2.2 | 
+6902. | 3-2.3 | 
+6903. | 3-2.4 | 
+6904. | 3-2.5 | 
+6905. | 3-2.6 | 
+6906. | 3-2.7 | 
+6907. | 3-2.8 | 
+6908. | 3-2.9 | 
+6909. | 3-2.10 | 
+6910. | 3-2.11 | 
+6911. | 3-2.12 | 
+6912. | 3-2.13 | 
+6913. | 3-2.14 | 
+6-1000. | 3-3.1 | 
+6-1001. | 3-3.2 | 
+6-1002. | 3-3.3 | 
+6-1003. | 3-3.4 | 
+6-1004. | 3-3.5 | 
+6-1005. | 3-3.6 | 
+6-1006. | 3-3.7 | 
+6-1007. | 3-3.8 | 
+6-1008. | 3-3.9 | 
+6-1009. | 3-3.10 | 
+6-1010. | 3-3.11 | 
+6-1100. | 3-4.1 | 
+6-1101. | 3-4.2 | 
+6-1102. | 3-4.3 | 
+6-1103. | 3-4.4 | 
+6-1104. | 3-4.5 | 
+6-1105. | 3-4.6 | 
+6-1106. | 3-4.7 | 
+6-1107. | 3-4.8 | 
+6-1108. | 3-4.9 | 
+6-1109. | 3-4.10 | 
+6-1110. | 3-4.11 | 
+6-1111. | 3-4.12 | 
+6-1112. | 3-4.13 | 
+6-1200. | 9-20.1 | 
+6-1201. | 9-20.2 | 
+6-1202. | 9-20.3 | 
+6-1203. | 9-20.4 | 
+6-1204. | 9-20.5 | 
+6-1205. | 9-20.6 | 
+6-1206. | — | 
+6-1207. | — | 
+6-1208. | — | 
+6-1209. | — | 
+7100. | 20-1.1 | 
+7200. | 20-2.1 | 
+7200.1. | 20-2.2 | 
+7201. | 20-2.3 | 
+7202. | 20-2.4 | 
+7203. | 20-2.5 | 
+7204. | 20-2.6 | 
+7205. | 20-2.7 | 
+7206. | 20-2.8 | 
+7207. | 20-2.9 | 
+7208. | 20-2.10 | 
+7209. | 20-2.11 | 
+7210. | 20-2.12 | 
+7211. | 20-2.13 | 
+7212. | 20-2.14 | 
+7300. | 20-3.1 | 
+7300.1. | 20-3.2 | 
+7300.2. | 20-3.3 | 
+7300.3. | 20-3.4 | 
+7300.4. | 20-3.5 | 
+7300.5. | 20-3.6 | 
+7300.6. | 20-3.6f | 
+7300.7. | 20-3.7 | 
+7300.8. | 20-3.8 | 
+7300.9. | 20-3.9 | 
+7300.10. | 20-3.10 | 
+7300.11. | 20-3.11 | 
+7300.12. | 20-3.12 | 
+7300.13. | 20-3.13 | 
+7300.14. | 20-3.14 | 
+7300.15. | 20-3.15 | 
+7300.16. | 20-3.16 | 
+7300.17. | 20-3.17 | 
+7300.18. | 20-3.18 | 
+7300.19. | 20-3.19 | 
+7300.20. | 20-3.20 | 
+7300.21. | 20-3.21 | 
+7300.22. | 20-3.22 | 
+7300.23. | 20-3.23 | 
+7300.24. | 20-3.24 | 
+7300.25. | 20-3.25 | 
+7300.26. | 20-3.26 | 
+7300.27. | 20-3.27 | 
+7300.28. | 20-3.28 | 
+7300.29. | 20-3.29 | 
+7200.30. | 20-3.30 | 
+7300.31. | 20-3.31 | 
+7300.32. | 20-3.32 | 
+7300.33. | 20-3.33 | 
+7300.34. | 20-3.34 | 
+7300.35. | 20-3.35 | 
+7300.36. | 20-3.36 | 
+7400. | 23-1.1 | 
+7400.1. | 23-1.1 | 
+7400.2. | 23-1.1 | 
+7400.3. | 23-1.1 | 
+7400.4. | 23-1.1 | 
+7400.5. | 23-1.1 | 
+7401. | 23-1.2 | 
+7402. | 23-1.3 | 
+7403. | 23-1.4 | 
+7404. | 23-1.5 | 
+7405. | 23-1.6 | 
+7406. | 23-1.7 | 
+7406.1. | 23-1.8 | 
+7406.2. | 23-1.9 | 
+7406.3. | 23-1.10 | 
+7407. | 23-1.11 | 
+7408. | 23-1.12 | 
+7409. | 23-1.13 | 
+7409.1. | 23-1.14 | 
+7409.2. | 23-1.15 | 
+7409.3. | 23-1.16 | 
+7409.4. | 23-1.17 | 
+7409.5. | 23-1.18 | 
+7410. | 23-1.19 | 
+7411. | 23-1.20 | 
+7412. | 23-1.21 | 
+7413. | 23-1.22 | 
+7414. | 23-1.23 | 
+7415. | 23-1.24 | 
+7416. | 23-1.25 | 
+7416.1. | 23-1.25a | 
+7416.2. | 23-1.25b | 
+7416.3. | 23-1.25c | 
+7417. | 23-1.26 | 
+7418. | 23-1.27 | 
+7419. | 23-1.28 | 
+7420. | 23-1.29 | 
+7421. | 23-1.30 | 
+7500. | 23-2.1 | 
+7500.1. | 23-2.1 | 
+7500.2. | 23-2.1 | 
+7500.3. | 23-2.1 | 
+7500.4. | 23-2.1 | 
+7500.5. | 23-2.1 | 
+7500.6. | 23-2.1 | 
+7500.7. | 23-2.1 | 
+7500.8. | 23-2.1 | 
+7500.9. | 23-2.1 | 
+7500.10. | 23-2.1 | 
+7500.11. | 23-2.1 | 
+7500.12. | 23-2.1 | 
+7501. | 23-2.2 | 
+7502. | 23-2.3 | 
+7503. | 23-2.4 | 
+7504. | 23-2.5 | 
+7505. | 23-2.6 | 
+7506. | 23-2.7 | 
+7507. | 23-2.8 | 
+7508. | 23-2.9 | 
+7509. | 23-2.10 | 
+7510. | 23-2.11 | 
+7511. | 23-2.12 | 
+7512. | 23-2.13 | 
+7513. | 23-2.14 | 
+7513.1. | 23-2.14e | 
+7514. | 23-2.15 | 
+7515. | — | 
+7516. | — | 
+7517. | 23-2.16 | 
+7518. | 23-2.17 | 
+7519. | 23-2.18 | 
+7520. | 23-2.19 | 
+7521. | 23-2.20 | 
+7522. | 23-2.21 | 
+7523. | 23-2.22 | 
+7524. | 23-2.23 | 
+7525. | 23-2.24 | 
+7526. | 23-2.25 | 
+7527. | 23-2.26 | 
+7527.1. | 23-2.26a | 
+7528. | 23-2.27 | 
+7529. | 23-2.28 | 
+7600. | 25-1 | 
+7601. | 25-2.1 | 
+7601.1. | 25-2.2 | 
+7602. | 25-3 | 
+7602.1. | 25-3 | 
+7602.2. | 25-3 | 
+7603. | 25-4 | 
+7604. | 25-5 | 
+7605. | 25-6 | 
+7606. | 25-7 | 
+7607. | 25-8 | 
+7608. | 25-9 | 
+7609. | 25-10 | 
+7610. | 25-11 | 
+7611. | 25-12 | 
+7612. | 25-13 | 
+7613. | 25-14 | 
+7614. | 25-15 | 
+7615. | 25-16 | 
+7616. | 25-17 | 
+7617. | 25-18 | 
+7618. | 25-19 | 
+7700. | 26-1 | 
+7701. | 26-2 | 
+7702. | 26-3 | 
+7703. | 26-4 | 
+7704. | 26-5 | 
+7705. | 26-6 | 
+7706. | 26-7 | 
+7707. | 26-8 | 
+7708. | 26-9 | 
+7709. | 26-10 | 
+7710. | 26-11 | 
+7711. | 26-12 | 
+7712. | 26-13 | 
+7713. | — | 
+7800. | 20-4.1 | 
+7801. | 20-4.2 | 
+7802. | 20-4.3 | 
+7803. | 20-4.4 | 
+7804. | 20-4.5 | 
+7805. | 20-4.6 | 
+7806. | 20-4.7 | 
+7807. | 20-4.8 | 
+7808. | 20-4.9 | 
+8100. | 14-1.1 | 
+8100.1. | 14-1.2 | 
+8100.2. | 14-1.3 | 
+8101. | 14-1.4 | 
+8101.1. | 14-1.5 | 
+8101.2. | — | 
+8102. | — | 
+8103. | 14-1.6 | 
+8103.1. | 14-1.7 | 
+8103.2. | 14-1.8 | 
+8103.3. | 14-1.9 | 
+8104. | 14-1.10 | 
+8104.1. | 14-1.11 | 
+8104.2. | 14-1.12 | 
+8105. | 14-1.13 | 
+8106. | 14-1.14 | 
+8107. | 14-1.15 | 
+8108. | 14-1.16 | 
+8109. | 14-1.17 | 
+8110. | 14-1.18 | 
+8110.1. | 14-1.19 | 
+8111. | 14-1.20 | 
+8111.1. | 14-1.21 | 
+8112. | 14-1.22 | 
+8113. | 14-1.23 | 
+8114. | 14-1.24 | 
+8115. | 14-1.25 | 
+8116. | 14-1.26 | 
+8117. | 14-1.27 | 
+8118. | 14-1.28 | 
+8119. | 14-1.29 | 
+8120. | 14-1.30 | 
+8121. | 14-1.31 | 
+8122. | 14-1.32 | 
+8123. | 14-1.33 | 
+8124. | 14-1.34 | 
+8125. | 14-1.35 | 
+8126. | 14-2.1 | 
+8127. | 14-2.2 | 
+8128. | 14-2.3 | 
+8128.1. | 14-2.4 | 
+8128.2. | 14-2.5 | 
+8129. | 14-2.6 | 
+8130. | 14-2.7 | 
+8131. | 14-2.8 | 
+8132. | 14-2.9 | 
+8133. | 14-2.10 | 
+8134. | 14-3.1 | 
+8135. | 14-3.2 | 
+8135.1. | 14-3.3 | 
+8135.2. | 14-3.4 | 
+8136. | 14-3.5 | 
+8137. | 14-3.6 | 
+8138. | 14-3.7 | 
+8139. | 14-3.8 | 
+8140. | 14-3.9 | 
+8141. | 14-3.10 | 
+8141.1. | 14-3.11 | 
+8142. | 14-3.12 | 
+8143. | 14-3.13 | 
+8144. | 14-3.14 | 
+8145. | 14-3.15 | 
+8146. | 14-3.16 | 
+8147. | 14-3.17 | 
+8148. | 14-3.18 | 
+8149. | 14-3.19 | 
+8150. | 14-3.20 | 
+8151. | 14-3.21 | 
+8151.1. | 14-3.22 | 
+8152. | 14-3.23 | 
+8153. | 14-3.24 | 
+8153.1. | 14-3.24 | 
+8154. | 14-3.26 | 
+8155. | 14-3.27 | 
+8156. | 14-3.28 | 
+8157. | 14-3.29 | 
+8158. | 14-4.1 | 
+8159. | 14-4.2 | 
+8160. | 14-4.3 | 
+8200. | 15-1 | 
+8201. | 15-2 | 
+8202. | 15-2.2 | 
+8203. | 15-2.3 | 
+8204. | 15-2.4 | 
+8205. | 15-2.5 | 
+8206. | 15-2.6 | 
+8207. | 15-2.7 | 
+8208. | 15-2.8 | 
+8300. | 16-1 | 
+8301. | 16-2.1 | 
+8302. | 16-2.2 | 
+8303. | 16-2.3 | 
+8304. | 16-2.4 | 
+8304.1. | 16-2.5 | 
+8304.2. | 16-2.6 | 
+8304.3. | 16-2.7 | 
+8304.4. | 16-2.8 | 
+8304.5. | 16-2.9 | 
+8304.6. | 16-2.10 | 
+8304.7. | 16-2.11 | 
+8305. | 16-2.12 | 
+8306. | 16-2.13 | 
+8307. | 16-2.14 | 
+8307.1. | 16-2.15 | 
+8308. | 16-2.16 | 
+8309. | 16-2.17 | 
+8310. | 16-2.18 | 
+8311. | 16-2.19 | 
+8312. | 16-2.20 | 
+8312.1. | 16-2.21 | 
+8313. | 16-2.22 | 
+8314. | 16-2.23 | 
+8314.1. | 16-2.24 | 
+8314.2. | 16-2.25 | 
+8314.3. | 16-2.26 | 
+8314.4. | 16-2.27 | 
+8314.5. | 16-2.28 | 
+8315. | 16-2.29 | 
+8315.1. | 16-2.30 | 
+8316. | 16-2.31 | 
+8316.1. | 16-2.32 | 
+8316.2. | 16-2.33 | 
+8316.3. | 16-2.34 | 
+8316.4. | 16-2.35 | 
+8316.5. | 16-2.36 | 
+8317. | 16-2.37 | 
+8318. | 16-2.38 | 
+8318.1. | 16-2.39 | 
+8319. | 16-2.40 | 
+8320. | 16-2.41 | 
+8320.1. | 16-2.42 | 
+8321. | 16-2.43 | 
+8400. | 14-5.1 | 
+8401. | 14-5.2 | 
+8402. | 14-5.3 | 
+8403. | 14-5.4 | 
+8404. | 14-5.5 | 
+8500. | 14-6.1 | 
+8501. | 14-6.2 | 
+8502. | 14-6.3 | 
+8503. | 14-6.4 | 
+8504. | 14-6.5 | 
+8505. | 14-6.6 | 
+8506. | 14-6.7 | 
+8507. | 14-6.8 | 
+8508. | 14-6.9 | 
+8509. | 14-6.10 | 
+8510. | 14-6.11 | 
+8511. | 14-6.12 | 
+8512. | 14-6.13 | 
+8513. | 14-6.14 | 
+8514. | 14-6.15 | 
+8515. | 14-6.16 | 
+8516. | 14-6.17 | 
+8517. | 14-6.18 | 
+8518. | 14-6.19 | 
+8519. | 14-6.20 | 
+8520. | 14-6.21 | 
+8521. | 14-6.22 | 
+8600. | 19-1 | 
+8600.1. | 19-1 | 
+8600.2. | 19-1 | 
+8600.3. | 19-1 | 
+8600.4. | 19-1 | 
+8600.5. | 19-1 | 
+8600.6. | 19-1 | 
+8600.7. | 19-1 | 
+8600.8. | 19-1 | 
+8600.9. | 19-1 | 
+8600.10. | 19-1 | 
+8600.11. | 19-1 | 
+8600.12. | 19-1 | 
+8600.13. | 19-1 | 
+8600.14. | 19-1 | 
+8600.15. | 19-1 | 
+8600.16. | 19-1 | 
+8600.17. | 19-1 | 
+8600.18. | 19-1 | 
+8600.19. | 19-1 | 
+8600.20. | 19-1 | 
+8600.21. | 19-1 | 
+8600.22. | 19-1 | 
+8601. | 19-2.1 | 
+8601.1. | 19-2.2 | 
+8606.2. | 19-2.3 | 
+8601.3. | 19-2.4 | 
+8601.4. | 19-2.5 | 
+8601.5. | 19-2.6 | 
+8602. | 19-3.1 | 
+8603. | 19-3.2 | 
+8604. | 19-4 | 
+8604.1. | 19-4a | 
+8604.2. | 19-4b | 
+8604.3. | 19-4c | 
+8605. | 19-5 | 
+8605.1. | 19-5.1 | 
+8605.2. | 19-5.2 | 
+8605.3. | 19-5.3 | 
+8605.4. | 19-5.4 | 
+8606. | 19-6.1 | 
+8607. | 19-6.2 | 
+8608. | 19-6.3 | 
+8609. | 19-6.4 | 
+8610. | 19-6.5 | 
+8611. | 19-6.6 | 
+8612. | 19-6.7 | 
+8613. | 19-7.1 | 
+8614. | 19-7.2 | 
+8615. | 19-7.3 | 
+8616. | 19-7.4 | 
+8617. | 19-7.5 | 
+8618. | 19-8.1 | 
+8619. | 19-8.2 | 
+8620. | 19-9 | 
+8700. | 14-7.1 | 
+8701. | 14-7.2 | 
+8702. | 14-7.3 | 
+8703. | 14-7.4 | 
+8704. | 14-7.5 | 
+8705. | 14-7.6 | 
+8706. | 14-7.7 | 
+8707. | 14-7.8 | 
+8708. | 14-7.9 | 
+8800. | 17-1 | 
+8801. | 17-2.1 | 
+8802. | 17-2.2 | 
+8803. | 17-2.3 | 
+8804. | 17-2.4 | 
+9101. | 30-1 | 
+9102. | 30-2 | 
+9103. | 30-3 | 
+9103.1. | 30-3 | 
+9103.2. | 30-3 | 
+9103.3. | 30-3 | 
+9103.4. | 30-3 | 
+9103.5. | 30-3 | 
+9103.6. | 30-3 | 
+9103.7. | 30-3 | 
+9103.8. | 30-3 | 
+9103.9. | 30-3 | 
+9103.10. | 30-3 | 
+9103.11. | 30-3 | 
+9103.12. | 30-3 | 
+9103.13. | 30-3 | 
+9103.14. | 30-3 | 
+9103.15. | 30-3 | 
+9103.16. | 30-3 | 
+9103.17. | 30-3 | 
+9103.18. | 30-3 | 
+9103.19. | 30-3 | 
+9103.20. | 30-3 | 
+9103.21. | 30-3 | 
+9103.22. | 30-3 | 
+9103.23. | 30-3 | 
+9103.24. | 30-3 | 
+9103.25. | 30-3 | 
+9103.26. | 30-3 | 
+9103.27. | 30-3 | 
+9103.28. | 30-3 | 
+9103.29. | 30-3 | 
+9103.30. | 30-3 | 
+9103.31. | 30-3 | 
+9103.32. | 30-3 | 
+9103.33. | 30-3 | 
+9103.34. | 30-3 | 
+9103.35. | 30-3 | 
+9103.36. | 30-3 | 
+9103.37. | 30-3 | 
+9103.38. | 30-3 | 
+9103.39. | 30-3 | 
+9103.40. | 30-3 | 
+9103.41. | 30-3 | 
+9103.42. | 30-3 | 
+9103.43. | 30-3 | 
+9103.44. | 30-3 | 
+9103.45. | 30-3 | 
+9103.46. | 30-3 | 
+9103.47. | 30-3 | 
+9103.48. | 30-3 | 
+9103.49. | 30-3 | 
+9103.50. | 30-3 | 
+9103.51. | 30-3 | 
+9103.52. | 30-3 | 
+9103.53. | 30-3 | 
+9103.54. | 30-3 | 
+9103.55. | 30-3 | 
+9103.56. | 30-3 | 
+9103.57. | 30-3 | 
+9103.58. | 30-3 | 
+9103.59. | 30-3 | 
+9103.60. | 30-3 | 
+9103.61. | 30-3 | 
+9103.62. | 30-3 | 
+9103.63. | 30-3 | 
+9103.64. | 30-3 | 
+9103.65. | 30-3 | 
+9103.66. | 30-3 | 
+9103.67. | 30-3 | 
+9103.68. | 30-3 | 
+9103.69. | 30-3 | 
+9103.70. | 30-3 | 
+9103.71. | 30-3 | 
+9103.72. | 30-3 | 
+9103.73. | 30-3 | 
+9103.74. | 30-3 | 
+9103.75. | 30-3 | 
+9103.76. | 30-3 | 
+9103.77. | 30-3 | 
+9103.78. | 30-3 | 
+9103.79. | 30-3 | 
+9103.80. | 30-3 | 
+9103.81. | 30-3 | 
+9103.82. | 30-3 | 
+9103.83. | 30-3 | 
+9103.84. | 30-3 | 
+9103.85. | 30-3 | 
+9103.86. | 30-3 | 
+9103.87. | 30-3 | 
+9103.88. | 30-3 | 
+9103.89. | 30-3 | 
+9103.90. | 30-3 | 
+9103.91. | 30-3 | 
+9103.92. | 30-3 | 
+9103.93. | 30-3 | 
+9103.94. | 30-3 | 
+9103.95. | 30-3 | 
+9103.96. | 30-3 | 
+9103.97. | 30-3 | 
+9103.98. | 30-3 | 
+9103.99. | 30-3 | 
+9103.99a. | 30-3 | 
+9103.100. | 30-3 | 
+9103.101. | 30-3 | 
+9103.102. | 30-3 | 
+9103.103. | 30-3 | 
+9103.104. | 30-3 | 
+9103.105. | 30-3 | 
+9103.106. | 30-3 | 
+9103.107. | 30-3 | 
+9110. | 30-4 | 
+9111. | 30-5 | 
+9112. | 30-6 | 
+9120. | 30-7 | 
+9120.1. | 30-7.1 | 
+9120.2. | 30-7.2 | 
+9120.3. | 30-7.3 | 
+9120.4. | 30-7.4 | 
+9121. | 30-8 | 
+9121.1. | 30-8.1 | 
+9121.2. | 30-8.2 | 
+9121.3. | 30-8.3 | 
+9122. | 30-9 | 
+9122.1. | 30-9.1 | 
+9122.2. | 30-9.2 | 
+9122.3. | 30-9.3 | 
+9123. | 30-10 | 
+9123.1. | 30-10.1 | 
+9123.2. | 30-10.2 | 
+9123.3. | 30-10.3 | 
+9130. | 30-11 | 
+9130.1. | 30-11.1 | 
+9130.2. | 30-11.2 | 
+9130.3. | 30-11.3 | 
+9131. | 30-12 | 
+9131.1. | 30-12.1 | 
+9131.2. | 30-12.2 | 
+9131.3. | 30-12.3 | 
+9132. | 30-13 | 
+9132.1. | 30-13.1 | 
+9132.2. | 30-13.2 | 
+9132.3. | 30-13.3 | 
+9132.4. | 30-13.4 | 
+9140. | 30-14 | 
+9140.1. | 30-14.1 | 
+9140.2. | 30-14.2 | 
+9140.3. | 30-14.3 | 
+9140.4. | 30-14.4 | 
+9141. | 30-15 | 
+9141.1. | 30-15.1 | 
+9141.2. | 30-15.2 | 
+9141.3. | 30-15.3 | 
+9141.4. | 30-15.4 | 
+9150. | 30-16 | 
+9150.1. | 30-16.1 | 
+9150.2. | 30-16.2 | 
+9150.3. | 30-16.3 | 
+9151. | 30-17 | 
+9151.1. | 30-17.1 | 
+9151.2. | 30-17.2 | 
+9151.3. | 30-17.3 | 
+9151.4. | 30-17.4 | 
+9152. | 30-18 | 
+9152.1. | 30-18.1 | 
+9152.2. | 30-18.2 | 
+9152.3. | 30-18.3 | 
+9152.4. | 30-18.4 | 
+9152.5. | 30-18.5 | 
+9153. | 30-19 | 
+9153.1. | 30-19.1 | 
+9153.2. | 30-19.2 | 
+9153.3. | 30-19.3 | 
+9153.4. | 30-19.4 | 
+9153.5. | 30-19.5 | 
+9153.6. | 30-19.6 | 
+9153.7. | 30-19.7 | 
+9160. | 30-20 | 
+9160.1. | 30-20.1 | 
+9160.2. | 30-20.2 | 
+9160.3. | 30-20.3 | 
+9160.4. | 30-20.4 | 
+9160.5. | 30-20.5 | 
+9161. | 30-21 | 
+9161.1. | 30-21.1 | 
+9161.2. | 30-21.2 | 
+9161.3. | 30-21.3 | 
+9161.4. | 30-21.4 | 
+9161.5. | 30-21.5 | 
+9161.6. | 30-21.6 | 
+9162. | 30-22 | 
+9162.1. | 30-22.1 | 
+9162.2. | 30-22.2 | 
+9162.3. | 30-22.3 | 
+9162.4. | 30-22.4 | 
+9163. | 30-23 | 
+9163.1. | 30-23.1 | 
+9163.2. | 30-23.2 | 
+9163.3. | 30-23.3 | 
+9163.4. | 30-23.4 | 
+9164. | 30-24 | 
+9164.1. | 30-24.1 | 
+9164.2. | 30-24.2 | 
+9164.3. | 30-24.3 | 
+9164.4. | 30-24.4 | 
+9164.5. | 30-24.5 | 
+9164.6. | 30-24.6 | 
+9165. | 30-25 | 
+9165.1. | 30-25.1 | 
+9165.2. | 30-25.2 | 
+9165.3. | 30-25.3 | 
+9170. | 30-26 | 
+9170.1. | 30-26.1 | 
+9170.2. | 30-26.2 | 
+9170.3. | 30-26.3 | 
+9170.4. | 30-26.4 | 
+9170.5. | 30-26.5 | 
+9171. | 30-27 | 
+9171.1. | 30-27.1 | 
+9171.2. | 30-27.2 | 
+9171.3. | 30-27.3 | 
+9171.4. | 30-27.4 | 
+9171.5. | 30-27.5 | 
+9172. | 30-28 | 
+9172.1. | 30-28.1 | 
+9172.2. | 30-28.2 | 
+9172.3. | 30-28.3 | 
+9173. | 30-29 | 
+9174. | 30-30 | 
+9175. | 30-31 | 
+9176. | 30-32 | 
+9177. | 30-33 | 
+9178. | 30-34 | 
+9179. | 30-35 | 
+9180. | 30-36 | 
+9180.1. | 30-37 | 
+9180.2. | 30-38 | 
+9180.3. | 30-39 | 
+9181. | 30-40 | 
+9182. | 30-41 | 
+9200. | 29-1 | 
+9200.1. | 29-2 | 
+9201. | 29-3 | 
+9202. | 29-4 | 
+9203. | 29-5 | 
+9204. | 29-6 | 
+9205. | 29-7 | 
+9206. | 29-8 | 
+9206.1. | 29-8a | 
+9206.2. | 29-8b | 
+9206.3. | 29-8c | 
+9206.4. | 29-8d | 
+9206.5. | 29-8e | 
+9206.6. | 29-8f | 
+9206.7. | 29-8g | 
+9206.8. | 29-8h | 
+9206.9. | 29-8i | 
+9206.10. | 29-8j | 
+9206.11. | 29-8k | 
+9206.12. | 29-8l | 
+9206.13. | 29-8m | 
+9206.14. | 29-8n | 
+9206.15. | 29-8o | 
+9206.16. | 29-8p | 
+9206.17. | 29-8q | 
+9206.18. | 29-8r | 
+9206.19. | 29-8s | 
+9206.20. | 29-8t | 
+9206.21. | 29-8u | 
+9206.22. | 29-8v | 
+9206.23. | 29-8w | 
+9300. | 28-1 | 
+9300.1. | 28-1.1 | 
+9300.2. | 28-1.2 | 
+9300.3. | 28-1.3 | 
+9300.4. | 28-1.4 | 
+9300.5. | 28-1.5 | 
+9300.6. | 28-1.6 | 
+9300.7. | 28-1.7 | 
+9300.8. | 28-1.8 | 
+9300.9. | 28-1.9 | 
+9300.10. | 28-1.10 | 
+9300.11. | 28-1.11 | 
+9300.12. | 28-1.12 | 
+9300.13. | 28-1.13 | 
+9300.14. | 28-1.14 | 
+9300.15. | 28-1.15 | 
+9301. | 28-2 | 
+9301.1. | 28-2 | 
+9301.2. | 28-2 | 
+9301.3. | — | 
+9301.4. | 28-2 | 
+9301.5. | 28-2 | 
+9301.6. | 28-2 | 
+9301.7. | 28-2 | 
+9301.7.1. | 28-2 | 
+9301.8. | 28-2 | 
+9301.9. | 28-2 | 
+9301.10. | 28-2 | 
+9301.11. | 28-2 | 
+9301.12. | 28-2 | 
+9301.13. | 28-2 | 
+9301.14. | 28-2 | 
+9301.15. | 28-2 | 
+9301.16. | 28-2 | 
+9301.17. | 28-2 | 
+9301.18. | 28-2 | 
+9301.19. | 28-2 | 
+9301.20. | 28-2 | 
+9301.21. | 28-2 | 
+9301.22. | 28-2 | 
+9301.23. | 28-2 | 
+9301.24. | 28-2 | 
+9301.25. | 28-2 | 
+9301.26. | 28-2 | 
+9301.27. | 28-2 | 
+9301.28. | 28-2 | 
+9301.29. | 28-2 | 
+9301.30. | 28-2 | 
+9301.31. | 28-2 | 
+9301.32. | 28-2 | 
+9301.33. | 28-2 | 
+9301.34. | 28-2 | 
+9301.35. | 28-2 | 
+9301.36. | 28-2 | 
+9301.37. | 28-2 | 
+9301.38. | 28-2 | 
+9302. | 28-3 | 
+9302.1. | 28-3.1 | 
+9302.2. | 28-3.2 | 
+9302.3. | 28-3.3 | 
+9302.4. | 28-3.4 | 
+9302.5. | 28-3.5 | 
+9302.6. | 28-3.6 | 
+9302.7. | 28-3.7 | 
+9302.8. | 28-3.8 | 
+9302.9. | 28-3.9 | 
+9302.10. | 28-3.10 | 
+9302.11. | 28-3.11 | 
+9302.12. | 28-3.12 | 
+9302.13. | 28-3.13 | 
+9302.14. | 28-3.14 | 
+9303. | 28-4 | 
+9303.1. | 28-4.1 | 
+9303.2. | 28-4.2 | 
+9303.3. | 28-4.3 | 
+9303.4. | 28-4.4 | 
+9303.5. | 28-4.5 | 
+9303.6. | 28-4.6 | 
+9303.7. | 28-4.7 | 
+9303.8. | 28-4.8 | 
+9303.9. | 28-4.9 | 
+9303.10. | 28-4.10 | 
+9303.11. | 28-4.11 | 
+9303.12. | 28-4.12 | 
+9303.13. | 28-4.13 | 
+9303.14. | 28-4.14 | 
+9303.15. | 28-4.15 | 
+9303.16. | 28-4.16 | 
+9303.17. | 28-4.17 | 
+9303.18. | 28-4.18 | 
+9303.19. | 28-4.19 | 
+9303.20. | 28-4.20 | 
+9303.21. | 28-4.21 | 
+9303.22. | 28-4.22 | 
+9303.23. | 28-4.23 | 
+9304. | 28-5 | 
+9304.1. | 28-5.1 | 
+9304.2. | 28-5.2 | 
+9304.3. | 28-5.3 | 
+9304.4. | 28-5.4 | 
+9304.5. | 28-5.5 | 
+9304.6. | 28-5.6 | 
+9304.7. | 28-5.7 | 
+9304.8. | 28-5.8 | 
+9305. | 28-6 | 
+9305.1. | 28-6.1 | 
+9305.2. | 28-6.2 | 
+9305.3. | 28-6.3 | 
+9305.4. | 28-6.4 | 
+9305.5. | 28-6.5 | 
+9305.6. | 28-6.6 | 
+9305.7. | 28-6.7 | 
+9305.8. | 28-6.8 | 
+9305.9. | 28-6.9 | 
+9305.10. | 28-6.10 | 
+9305.11. | 28-6.11 | 
+9305.12. | 28-6.12 | 
+9305.13. | 28-6.13 | 
+9305.14. | 28-6.14 | 
+9305.15. | 28-6.15 | 
+9305.16. | 28-6.16 | 
+9305.17. | 28-6.17 | 
+9305.18. | 28-6.18 | 
+9305.19. | 28-6.19 | 
+9305.20. | 28-6.20 | 
+9305.21. | 28-6.21 | 
+9305.22. | 28-6.22 | 
+9305.23. | 28-6.23 | 
+9306. | 28-7 | 
+9306.1. | 28-7.1 | 
+9306.2. | 28-7.2 | 
+9306.3. | 28-7.3 | 
+9306.4. | 28-7.4 | 
+9306.5. | 28-7.5 | 
+9306.6. | 28-7.6 | 
+9306.7. | 28-7.7 | 
+9306.8. | 28-7.8 | 
+9306.9. | 28-7.9 | 
+9307. | 28-8 | 
+9307.1. | 28-8.1 | 
+9307.2. | 28-8.2 | 
+9307.3. | 28-8.3 | 
+9307.4. | 28-8.4 | 
+9307.5. | 28-8.5 | 
+9307.6. | 28-8.6 | 
+9307.7. | 28-8.7 | 
+9307.8. | 28-8.8 | 
+9307.9. | 28-8.9 | 
+9307.10. | 28-8.10 | 
+9307.11. | 28-8.11 | 
+9307.12. | 28-8.12 | 
+9307.13. | 28-8.13 | 
+9307.14. | 28-8.14 | 
+9307.15. | 28-8.15 | 
+9307.16. | 28-8.16 | 
+9307.17. | 28-8.17 | 
+9307.18. | 28-8.18 | 
+9307.19. | 28-8.19 | 
+9307.20. | 28-8.20 | 
+9307.21. | 28-8.21 | 
+9307.22. | 28-8.22 | 
+9307.23. | 28-8.23 | 
+9307.24. | 28-8.24 | 
+9308. | 28-9 | 
+9308.1. | 28-9.1 | 
+9308.2. | 28-9.2 | 
+9308.3. | 28-9.3 | 
+9308.4. | 28-9.4 | 
+9308.5. | 28-9.5 | 
+9308.6. | 28-9.6 | 
+9308.7. | 28-9.7 | 
+9308.8. | 28-9.8 | 
+9308.9. | 28-9.9 | 
+9309. | 28-10 | 
+9309.1. | 28-10.1 | 
+9309.2. | 28-10.2 | 
+9309.3. | 28-10.3 | 
+9309.4. | 28-10.4 | 
+9309.5. | 28-10.5 | 
+9310. | 28-11.1 | 
+9310.1. | 28-11.2 | 
+9310.2. | 28-11.3 | 
+9310.3. | 28-11.4 | 
+9310.4. | 28-11.5 | 
+9310.5. | 28-11.6 | 
+9310.6. | 28-11.7 | 
+9310.7. | 28-11.8 | 
+9310.8. | 28-11.9 | 
+9310.9. | 28-11.10 | 
+9310.10. | 28-11.11 | 
+9310.11. | 28-11.12 | 
+9310.12. | 28-11.13 | 
+9400. | 24-1 | 
+9401. | 24-2.1 | 
+9402. | 24-2.2 | 
+9402.1. | 24-2.3 | 
+9403. | 24-2.4 | 
+9404. | 24-2.5 | 
+9405. | 24-2.6 | 
+9406. | 24-2.7 | 
+9407. | 24-2.8 | 
+9408. | 24-2.9 | 
+9409. | 24-2.10 | 
+9410. | 24-2.11 | 
+9411. | 24-3.1 | 
+9412. | 24-3.2 | 
+9413. | 24-3.3 | 
+9414. | 24-3.4 | 
+9415. | 24-3.5 | 
+9501. | 8-5.1 | 
+9502. | 8-5.2 | 
+9503. | 8-5.3 | 
+9504. | 8-5.4 | 
+9505. | 8-5.5 | 
+9506. | 8-5.6 | 
+9507. | 8-5.7 | 
+9508. | 8-5.8 | 
+9509. | 8-5.9 | 
+9510. | 8-5.10 | 
+9511. | 8-5.11 | 
+9512. | 8-5.12 | 
+9513. | 8-5.13 | 
+9514. | 8-5.14 | 
+9515. | 8-5.15 | 
+
+

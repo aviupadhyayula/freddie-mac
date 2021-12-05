@@ -1,0 +1,1414 @@
+planning and zoning
+https://ecode360.com/34858251
+0.7716637175258314
+Single-family dwelling1 | 2 spaces per dwelling unit | 
+Two-family dwelling2 | 1.5 spaces per dwelling unit | 
+Multifamily dwelling3 | 1 space per unit | 
+Live/work space | 1 space per unit | 
+Senior citizen housing development | 0.5 space per unit | 
+Residential mixed-use development4 | 1 space per unit | 
+Affordable dwelling unit5 | 0.5 space per unit | 
+Shared housing | 0.5 space per bedroom | 
+Bed-and-breakfast | See Subsection 20.20.010.C. | 
+Large family day-care home | See Subsection 20.20.020.B.2.c. | 
+Residential care home (more than 6 residents) | See 20.20.020.C.2.c. | 
+Accessory dwelling unit | No off-street parking required | 
+Transitional housing | 1 space per 2 employees | 
+Supportive housing | 1 space per 2 employees | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.7643150674963042
+20.12.050.B.1 | Residential Single Family | R-1 | 
+20.12.050.B.2 | Residential Medium Density | R-2 | 
+20.12.050.B.3 | Residential High Density | R-3 | 
+20.12.050.B.4 | Residential Towers | R-4 | 
+20.12.050.B.5 | Residential Hillside Development | RHD | 
+20.12.060.B.1 | Solano Commercial | SC | 
+20.12.060.B.2 | San Pablo Commercial | SPC | 
+20.12.060.B.3 | Commercial Mixed Use | CMX | 
+20.12.070.B.1 | Public Facilities | PF | 
+20.12.070.B.2 | Waterfront | WF | 
+20.12.080.B.1 | Hillside Overlay District | :H | 
+20.12.080.B.2 | Commercial Node Overlay District | :CN | 
+20.12.080.B.3 | Planned Residential/Commercial Overlay District | :PRC | 
+20.12.080.B.4 | Professional Overlay District | :P | 
+20.12.080.B.5 | Residential-Commercial Transition District | :RCT | 
+20.12.080.B.6 | Watercourse Overlay District | :WC | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.7300875104927415
+Banners | Banners as defined by this section are permitted for up to 30
+days | 
+Commercial or identifying nameplates | Commercial or identifying nameplates not to exceed 1 square
+foot in area | 
+Development sign | Development sign as defined by this section. Such signs may
+be erected and maintained for the duration of construction and shall
+not exceed a total area of 20 square feet. | 
+Flags | Flags as defined in this section | 
+Memorials | Memorial signs or tablets, names of buildings and dates of erection,
+when cut into masonry surface or constructed of bronze or other combustible
+materials | 
+Murals | Murals as defined by this section | 
+Real estate signs | Real estate signs as defined by this section | 
+Signs located in parking lots | Directional signs located within parking lots identifying the
+entrance and exit and other directional information, except in residential
+districts. Not more than 4 directional signs shall be posted in 1
+parking lot. Such signs in total shall not exceed 20 square feet in
+area. Directional instructions painted on the pavement of the lot
+shall not be included in the measurement of permitted sign area. | 
+Street banners | Street banners as defined by this section | 
+Traffic control | Traffic or other municipal signs, railroad crossing signs, danger,
+and such temporary emergency signs as may be approved by the City
+Engineer | 
+Window sign, temporary | Window sign, temporary, as defined by this section | 
+Temporary noncommercial sign | Temporary noncommercial sign as defined by this section | 
+Yard sign | Yard sign as defined by this section | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.7085907131789648
+Notes, Table 2B: | 
+1. In the WF and PF Districts, and in cases of public/semipublic
+uses in all districts, site regulations not otherwise specified will
+be determined by the Planning and Zoning Commission on a use permit/design
+review basis. | 
+2. Live/work space will be included in the calculation of commercial
+floor area and will be subject to the maximum FAR standards for each
+district. District standards for minimum lot area per dwelling shall
+not apply to live/work units. See Table 1 for land use permitting
+procedures for live/work in individual districts. | 
+3. (Reserved) | 
+4. Maximum building height is three stories and 38 feet, above
+grade, except that where the rear property line abuts a residential
+district, the maximum height shall be 20 feet in height at a point
+10 feet back from the residential district property line, plus a forty-five-degree
+daylight plane to the maximum permitted height; or alternatively 12
+feet in height at the property line, then, horizontally to a point
+10 feet from the property line, plus a thirty-five-degree from vertical
+daylight plane to the maximum permitted height. (See Subsection 20.24.070.A,
+Figures 1.a and 1.b.) If there is a difference in grade planes between
+two adjacent parcels, the Community Development Director shall determine
+appropriate grade plane to be used for daylight plane calculation.
+No projections shall be allowed in the area between the daylight planes
+and rear property line. Usable open spaces located on top of the structure,
+within 10 feet of a residential district boundary, shall have a solid
+fence or wall six feet in height. The combined height of the structure
+and the wall shall comply with daylight plane requirements of this
+Code. | 
+5. No enclosed structure shall be located within 100 feet of
+the shoreline, except as specified in the Waterfront Master Plan.
+Continuous public access to the water's edge shall be preserved and
+established consistent with The Bay Trail—Planning for a Recreational
+Ring Around the Bay (ABAG, July 1989). | 
+6. Through lots are deemed to have two front property lines,
+one at each street, and front yard setback requirements shall be applicable
+to both lines. | 
+7. None required along San Pablo Avenue. If front setback is
+provided, it shall not exceed a depth of four feet at street level.
+Where fronting a street immediately parallel to San Pablo Avenue:
+15 feet, plus a daylight plane. (See Subsection 20.24.070.B.) Where
+a property in the SC District has an exterior lot line at a street
+that intersects with Solano Avenue, and any property located directly
+across such a street is in a residential district: 15 feet, plus a
+daylight plane. (See Subsection 20.24.070.B.) | 
+8. None, except where an interior side or rear yard of a nonresidential
+property abuts an R District: See Subsection 20.24.070.A. | 
+9. The minimum setbacks where a lot abuts an R District shall
+be 10 feet at either side or rear yards. | 
+10. May be waived by Planning and Zoning Commission, except
+where rear yard abuts an R District. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.7009195116326864
+Shopping Center and Industrial | 12' | 45' | 14' | 
+Commercial | 12' | 25' | 14' | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.6746257956197016
+Multi-tenant Shopping Center | One (1) loading space for each 15,000 square feet of gross floor
+area. | 
+Commercial, other | As determined by the Planning and Zoning Commission using the
+following criteria: type of business, frequency of deliveries, typical
+size of delivery vehicle, and space available. | 
+Industrial: |  | 
+Up to 5,000 sq. ft. of gross floor area (GFA) | 0 spaces | 
+5,001 - 9,999 sq. ft. GFA | 1 space | 
+10,000 – 19,999 sq. ft. GFA | 2 spaces | 
+20,000 or more | 3 spaces plus 1 additional space per 10,000 s.f. (GFA) | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.6647141023081216
+Notes, Table 2A: | 
+1. In R-4 District, site regulations not specified will be determined
+by the Planning and Zoning Commission on consideration of an application
+for a use permit. Existing densities of developed sites are deemed
+to be conforming, but existing densities will not be permitted to
+be increased above the maximum density permitted in the R-3 District. | 
+2. In the RHD District, all multiple-family development, and
+any single-family development which comprises two or more acres of
+land area, shall be processed as a development plan under planned
+unit development procedures specified in Subsection 20.100.060. See
+Subsection 20.24.040 for development regulations applicable to the
+RHD District in addition to the regulations stated in this table. | 
+3. The higher maximum density stated in the General Plan takes
+into account the pre-existence of substandard nonconforming lots. | 
+4. The Albany General Plan divides the area subject to the RHD
+District into two density classifications:
+Low density = 6 dwelling units/acre.
+High density = 9 dwelling units/acre.
+Through the planned unit development process (Subsection 20.100.060),
+allowable density may be reduced according to slope density restrictions
+and/or the presence of natural topographic features.
+The City may permit the transfer of density from one portion
+of a development site to another, upon making a finding that the density
+transfer is necessary to accomplish the purposes of this chapter. | 
+5. The Planning and Zoning Commission may approve a floor/area
+ratio of up to 0.60 based on determination that any of the following
+conditions exist:
+(a) The site is of such a size that application
+of the 0.55 floor/area ratio would result in a gross square footage
+of less than 1,500 square feet.
+(b) The site is in a zone other than R-1 and buildings
+on any surrounding properties exceed FAR 0.60, and the higher FAR
+is warranted by considerations of harmonious transition among properties.
+(c) The proposed design has architectural features
+that contribute substantially to neighborhood quality, which could
+not be achieved in a smaller building mass. | 
+6. FAR may be increased to 1.75 where open space is provided
+at twice the minimum requirement stated in Subsection 20.24.090.B. | 
+7. Enclosed off-street parking shall be included in the calculation
+of the FAR, except that such parking area that is located entirely
+below grade may be excluded. (See Subsection 20.24.050.C.) | 
+8. Applies to single-family development in RHD District on land
+comprising less than two acres. Also shall be considered to be the
+minimum standards required for development of a single-family planned
+unit development on two acres or more, except that modified development
+standards may be approved if deemed appropriate by the Planning and
+Zoning Commission and City Council. | 
+9. (Reserved) | 
+10. Existing lots which do not meet minimum area standards may
+be developed or improved as provided in § 20.44, Nonconforming
+Uses, Structures and Lots. | 
+11. For public and quasi-public uses, lot coverage and yard
+setbacks will be determined by the Planning and Zoning Commission
+on consideration of an application for a use permit or design review. | 
+12. Planning and Zoning Commission, subject to design review
+criteria, may grant a use permit to allow greater height for second-story
+additions, up to 35 feet, measured in accordance with Subsection 20.24.080,
+and based on at least one of the following findings:
+a. The existing house has a partial ground story that causes
+an increase in the overall height of the building, and there are sound
+design reasons for considering a roofline which exceeds 28 feet.
+b. The natural downward or upward topography of the site causes
+an increase in the overall height of the building. The minimum roof
+pitch has been maintained on the addition to be consistent with the
+existing architectural design of the house. The height has been measured
+from the natural or finished grade to the highest point of the roof.
+c. The existing architectural character and design of the house
+is maintained. Design factors have been considered to offset or minimize
+the increased height, such as breakup in the mass and bulk, offsetting
+one or more portions of the addition from the ground-story wall line,
+and adding architectural details and elements such as horizontal trim
+or other features to create interest. | 
+13. Height limits in RHD District are specified for single-family
+residences only. The maximum building height for a single-family residence
+on a downhill site shall be 35 feet above the original grade of a
+site measured from the midpoint of the building envelope. The maximum
+permitted height for a single-family residence on an uphill site shall
+be 28 feet above the original grade of a site measured from the midpoint
+of the building envelope. | 
+14. Maximum building height is three stories and 35 feet, above
+natural or finished grade, whichever is lower, except that the maximum
+height allowed at the front setback line shall be 28 feet plus a forty-five-degree
+daylight plane. (See Subsection 20.24.070.B.) | 
+15. Through lots are deemed to have two front property lines,
+one at each street, and front yard setback requirements shall be applicable
+to both lines. | 
+16. 10% of lot width, up to a maximum of five feet, with a minimum
+requirement of three feet, except that the minimum setback for multifamily
+structures in the R-3 District is five feet. | 
+17. 10% of lot width, or five feet, whichever is greater. | 
+18. One foot shall be added for each 12 feet of height above
+the lowest 15 feet of building height. | 
+19. Exceptions to setback requirements may be made in the case
+of a second-story addition to a single-family dwelling, as follows: | 
+(a)Vertical extension of nonconforming walls. Existing
+nonconforming walls which encroach into required setback areas shall
+be allowed to extend in a vertical plane under or over an existing
+wall, subject to design review by the Planning and Zoning Commission
+and obtaining a use permit. | 
+(b)Horizontal extension of nonconforming walls.
+Existing nonconforming walls which encroach into the required front
+yard or side yard setback areas may be extended in a in a horizontal
+plane, subject to design review by the Planning and Zoning Commission
+and obtaining a use permit. Such extensions shall not further encroach
+on any required setback (i.e., a nonconforming wall which encroaches
+one foot into a required setback shall not be permitted to encroach
+two feet), nor shall any such extension create a new encroachment
+in another direction. Required conditional use permit and design review
+findings for the extension of a nonconforming front wall shall be
+made separately from findings required for extension of other nonconforming
+walls. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.6275115529051196
+1. | A clinic licensed pursuant to Chapter 1, Division 2 of the Health and Safety Code; | 
+2. | A health care facility licensed pursuant to Chapter 3.01 of
+Division 2 of the Health and Safety Code; | 
+3. | A residential care facility for persons with chronic life-threatening
+illnesses licensed pursuant to Chapter 3.01 of Division 2 of the Health
+and Safety Code; | 
+4. | A residential care facility for the elderly licensed pursuant
+to Chapter 3.2 of Division 2 of the Health and Safety Code; | 
+5. | A residential hospice or a health home agency licensed pursuant to Chapter 8 of Division 2 of the Health and Safety Code, as long as such use complies strictly with applicable law, including but not limited to, Health and Safety Code Section 11362.5 et seq. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.6234915800857044
+Key to Table: | 
+P = Permitted subject to Community Development Director
+administrative review. | 
+PE = Permitted and exempt from review and building
+permit; see Section 20.32.060 for additional requirements. | 
+PZ = Permitted subject to Planning and Zoning Commission
+design review. | 
+-- = Not permitted. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.620507349795365
+Enclosed Parking: |  |  |  | 
+Single space | 8'6" | 19' | 7' | 
+Side-by-side spaces | 16' | 19' | 7' | 
+Covered Parking: |  |  |  | 
+Single space | 8'6" | 18' | 7' | 
+Side-by-side spaces | 16' | 18' | 7' | 
+Open Parking: |  |  |  | 
+Single space | 8'6" | 18' | N/A | 
+Side-by-side spaces | 16' | 18' | N/A | 
+Driveways |  |  |  | 
+Single | 7' | N/A | N/A | 
+Double | 15' | N/A | N/A | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.6085742882358065
+a) Exceptional circumstances have been demonstrated that require
+City assistance, and | 
+b) Acceptable documentation has been provided as to how such
+incentives will increase the feasibility of inclusion of affordable
+units in the development project, and | 
+c) The project exceeds the minimum requirement for provision
+of inclusionary housing units. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5983783396574565
+The term "condominium," as used in this section is intended
+to include all three (3) types of community housing. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5961923441751251
+In calculating the numbers of inclusionary housing units to
+be designated for any applicable housing development project, any
+fraction of a housing unit of 0.50 or greater shall be construed as
+a whole unit. In the case of any fraction of a unit of less than 0.50,
+the applicant shall be subject to payment of a fee in-lieu of construction
+of the fractional unit. Such fee shall be calculated as provided in
+paragraph F.4.a of this section, prorated by the applicable fraction. | 
+Housing development projects that incorporate inclusionary housing
+units shall be required to meet the development criteria listed in
+subsection 20.40.050 below. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5895251988780037
+1. | The restoration of the building will be detrimental to the health,
+safety or general welfare of persons residing or working in the neighborhood,
+or to property and improvements in the neighborhood. | 
+2. | The existing nonconforming use of the building would be more
+appropriately moved to a zone in which the use is permitted, or there
+no longer exists a zone in which the existing nonconforming use is
+permitted. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.588586974133874
+Residential | Alterations or additions less than 400 square feet, except second
+story additions.
+Accessory structures greater than 120 square feet and less than
+400 square feet.
+All secondary residential units.
+Decks which measure 36 inches or more above grade. | New construction or additions of 400 square feet or more.
+Accessory structures of 400 square feet or more.
+All second story additions.
+Any new construction or addition that significantly changes
+roof lines of an existing structure.
+All exceptions to district height limits.
+Applications referred by Community Development Director. | 
+Nonresidential | Signs and awnings as follows, provided they do not involve substantial
+architectural alterations:
+-Projecting signs
+-Awnings (with signage)
+-Awnings (without signage)
+New construction or additions of less than 400 square feet.
+Minor exterior alterations, not subject to P&Z review, including
+materials or color changes. | New construction or additions of 400 square feet or more.
+Any project that changes roof lines.
+All exceptions to district height limits.
+Any project, including signs or awnings, that replaces or conceals
+existing exterior architectural details.
+Master sign program.
+Applications referred by Community Development Director. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5772425295040533
+Administrative Actions and Permits | Planning & Zoning Commission | City Council | 
+Conditional Use Permit (nonadministrative) | City Council | Judicial Review | 
+Variance | City Council | Judicial Review | 
+Design Review (nonadministrative) | City Council | Judicial Review | 
+Amend Text or Map | Judicial Review | --- | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5741531620613158
+1. | Any project for improvement of a structure to correct existing
+violations of State or local health, sanitary or safety code specifications
+which have been identified by the local code enforcement official
+and which are the minimum necessary to assure safe living conditions. | 
+2. | Any alteration of a historic structure provided that the alteration
+will not preclude the structure's continued designation as a historic
+structure. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5654319216232627
+Notes:
+1For every ten (10) bicycle spaces
+provided on site, the Planning and Zoning Commission may waive one
+(1) required off-street parking space. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5651571610380768
+S = Average cross slope of the ground in percent | 
+I = Contour interval in feet | 
+L = Combined length of all contours (in feet) | 
+A = Area of the parcel in acres | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5591654630532165
+Chimneys |  | 3 feet (any required setback) |  |  | 3 ft. | 3 ft. | 
+Open Stairways or landings | May be covered but not enclosed by walls on more than two (2)
+sides | 2 ft. (side yard)
+6 ft. (front or rear yard) |  |  | 3 ft. | 3 ft. | 
+Balconies, Porches and Decks |  | No projection permitted (side yard)
+6 ft. (front or rear yard) |  |  |  |  | 
+Cornices, Eaves and Permanent Decorative Ornaments | Minimum seven (7) feet above grade |  |  |  | 2 ft. 6 in. | 2 ft. 6 in. | 
+Canopies and Awnings | Minimum seven (7) feet above grade |  | 6 ft. | 6 ft. | 2 ft. 6 in. | 2 ft. 6 in. | 
+Projecting Bays | Maximum width equal to 25 percent of the wall plane from which
+bay projects. | 2 ft. 6 in. (any required setback) |  |  | 3 ft. | 3 ft. | 
+Projecting mechanical equipment |  | No projection permitted (Front or side yard)
+3 ft. (rear yard) | Not permitted |  | Not permitted | Not permitted | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5569439086431048
+ | 
+Exception to height limit in front yard: A structure
+designed to provide a decorative gateway, such as an arbor, trellis
+or pergola, may occupy an area not to exceed twenty (20) square feet,
+with a maximum horizontal dimension of six (6) feet and a maximum
+vertical dimension of ten (10) feet, subject to administrative design
+review approval based on all of the following findings: | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5568554628786601
+Notes:
+1See Section 20.28.040.B.7 for parking
+requirements in the SC District. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5509416234415926
+Note: All building square feet refer to gross floor area. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5393429743733221
+The standards of compliance shall be based on the recommendation
+of the Planning and Zoning Commission. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5358051816084209
+SEVERABILITY: If any section, subsection, sentence, clause,
+or phrase of this ordinance is for any reason held to be invalid,
+such decision shall not affect the validity of the remaining portions
+of the ordinance, and each section, subsection, sentence, clause,
+or phrase thereof, irrespective of the fact that any one or more sections,
+subsections, sentences, clauses or phrases be declared invalid. | 
+PUBLICATION: This ordinance shall be published in a newspaper
+of general circulation in the city of Albany, which said newspaper
+is designated for that purpose, or it shall be posted in three locations. | 
+EFFECTIVE DATE: This ordinance shall become effective 30 days
+on or after its final passage and adoption and publication. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5279576601400664
+*One (1) additional foot shall be provided on each side abutting
+any wall, fence, property line, or other fixed obstruction that restricts
+vehicle access. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5279576601400664
+*One (1) additional foot shall be provided on each side abutting
+any wall, fence, property line, or other fixed obstruction that restricts
+vehicle access. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5257855294945647
+Figure 2. Hillside Building Forms | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.520097880548922
+(6) (a) (2) MEASUREMENT OF HEIGHT: RHD DISTRICT | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5154066137389172
+Editor's Note: Ordinance 2016-01 was adopted by the voters at
+the General Election of November 8, 2016 and became effective by adoption
+of a resolution of the City Council December 5, 2016. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.5126004115020809
+1 Permitted as part of a master sign
+program. | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.5075310781014488
+3403.5.1.2 Wind Design. Wind design of existing
+buildings shall be based on the procedures specified in the building
+code. | 
+3403.5.2 Repairs to damaged buildings. Repairs
+to damaged buildings shall comply with this section. | 
+3403.5.2.1 Unsafe conditions. Regardless of the
+extent of structural damage, unsafe conditions shall be eliminated. | 
+3403.5.2.2 Substantial structural damage to vertical elements
+of the lateral—force-resisting system. A building that
+has sustained substantial structural damage to the vertical elements
+of its lateral-force-resisting system shall be evaluated and repaired
+in accordance with the applicable provisions of Section 3403.5.2.2.1
+through 3403.5.2.2.3. | 
+3403.5.2.2.1 Evaluation. The building
+shall be evaluated by a registered design professional, and the evaluation
+findings shall be submitted to the code official. The evaluation shall
+establish whether the damaged building, if repaired to its pre-damage
+state, would comply with the provisions of the building code. Wind
+forces for this evaluation shall be those prescribed in the building
+code. Seismic forces for this evaluation are permitted to be the reduced
+level seismic forces specified in Code Section 3403.5.1.1.3. | 
+3403.5.2.2.2 Extent of repair for compliant
+buildings. If the evaluation establishes compliance of the
+pre-damage building in accordance with Section 3403.5.2.2.1, then
+repairs shall be permitted that restore the building to its pre-damage
+state, using materials and strengths that existed prior to the damage. | 
+3403.5.2.2.3 Extent of repair for non-compliant
+buildings. If the evaluation does not establish compliance
+of the pre-damage building in accordance with Section 3403.5.2.2.1,
+then the building shall be rehabilitated to comply with applicable
+provisions of the building code for load combinations including wind
+or seismic forces. The wind design level for the repair shall be as
+required by the building code in effect at the time of original construction
+unless the damage was caused by wind, in which case the design level
+shall be as required by the code in effect at the time of original
+construction or as required by the building code, whichever is greater.
+Seismic forces for this rehabilitation design shall be those required
+for the design of the pre-damaged building, but not less than the
+reduced level seismic forces specified in Section 3403.5.1.1.3. New
+structural members and connections required by this rehabilitation
+design shall comply with the detailing provisions of the building
+code for new buildings of similar structure, purpose, and location | 
+3403.5.2.3 Substantial structural damage to vertical load-carrying
+components. Vertical load-carrying components that have sustained
+substantial structural damage shall be rehabilitated to comply with
+the applicable provisions for dead and live loads in the building
+code. Undamaged vertical load-carrying components that receive dead
+or live loads from rehabilitated components shall also be rehabilitated
+to carry the design loads of the rehabilitation design. New structural
+members and connections required by this rehabilitation design shall
+comply with the detailing provisions of the building code for new
+buildings of similar structure, purpose, and location. | 
+3403.5.2.3.1 Lateral force-resisting elements. Regardless
+of the level of damage to vertical elements of the lateral force-resisting
+system, if substantial structural damage to vertical load-carrying
+components was caused primarily by wind or seismic effects, then the
+building shall be evaluated in accordance with Section 3403.5.2.2.1
+and, if non-compliant, rehabilitated in accordance with Section 3403.5.2.2.3. | 
+3403.5.2.4 Less than substantial structural damage. For damage less than substantial structural damage, repairs shall
+be allowed that restore the building to its pre-damage state, using
+materials and strengths that existed prior to the damage. New structural
+members and connections used for this repair shall comply with the
+detailing provisions of the building code for new buildings of similar
+structure, purpose, and location. | 
+3403.5.3 Referenced Standards | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.47111266405242813
+Figure 1. Alternative Wall Treatments | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.45823474941971476
+S = 14% (rounded) | 
+I = 2 feet (vertical interval between contour lines) | 
+L = 3000 feet (sum of measured horizontal length
+of contour lines) | 
+A = 1.0 acre (43,560 square feet) | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.4570838399101771
+Awning | -- | P | P | P | -- | P | 
+Banner | -- | PE | PE | PE | -- | PE | 
+Freestanding | -- | -- | PZ | PZ1 | PZ1 | PZ1 | 
+Fully automated sign | -- | -- | -- | -- | -- | -- | 
+Marquee sign | -- | P | P | P | -- | P | 
+Master sign program | -- | PZ | PZ | PZ | PZ | PZ | 
+Monument sign | -- | PZ | PZ | PZ | PZ | PZ | 
+Projecting sign | -- | P | P | P | -- | P | 
+Roof sign | -- | -- | -- | PZ | -- | PZ | 
+Wall sign | -- | P | P | P | -- | P | 
+Window sign, permanent | -- | P | P | P | -- | P | 
+Window sign, temporary | P | PE | PE | PE | -- | -- | 
+Yard sign and temporary noncommercial sign | PE | -- | -- | -- | -- | -- | 
+
+
+subdivision
+https://ecode360.com/34863777
+0.4560427826525665
+A variety of recreational potential for all age groups; | 
+Recreational opportunities within walking distance from residents'
+homes; | 
+Possibility for expansion or connection with school grounds; | 
+Integration with hiking, riding and bicycle trails, natural
+stream and creek bed reserves, the East Bay Shoreline and other open
+space; | 
+Coordination with all other park systems; and | 
+Access to at least one (1) existing or proposed public street. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.4362544223772824
+See a above | 5,000 sq. ft. | Same as underlying district | 50 ft. | 70% | 15 ft. | 10 ft. (1) | 5 ft. (2) | 5 ft. | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.4313574183612549
+2.1. | The seismic evaluation and design of unreinforced masonry bearing
+wall buildings in Occupancy Category I or II are permitted to be based
+on the procedures specified in Appendix Chapter A1. | 
+2.2. | Seismic evaluation and design of the wall anchorage system in
+reinforced concrete and reinforced masonry wall buildings with flexible
+diaphragms in Occupancy Category I or II are permitted to be based
+on the procedures specified in Appendix Chapter A2. | 
+2.3. | Seismic evaluation and design of cripple walls and sill plate
+anchorage in residential buildings of light-frame wood construction
+in Occupancy Category I or II are permitted to be based on the procedures
+specified in Appendix Chapter A3. | 
+2.4. | Seismic evaluation and design of soft, weak, or open-front wall
+conditions in multiunit residential buildings of wood construction
+in Occupancy Category I or II are permitted to be based on the procedures
+specified in Appendix Chapter A4. | 
+2.5. | Seismic evaluation and design of concrete buildings and concrete
+with masonry infill buildings in all Occupancy Categories are permitted
+to be based on the procedures specified in Appendix Chapter A5. | 
+
+
+subdivision
+https://ecode360.com/34863777
+0.4310509004648616
+Assisted Living Unit shall mean the living area or unit as defined
+by California Health and Safety Code Section 1771, as may be amended. | 
+For the purposes of this subsection, the number of proposed
+dwelling units shall be determined as follows: in areas zoned for
+one (1) dwelling unit per lot or parcel, the number of dwelling units
+shall equal the number of parcels indicated on the tentative map.
+When all or part of the subdivision is located in an area zoned for
+multiple dwelling units per parcel, the number of dwelling units in
+the area so zoned shall equal the maximum number of dwelling units
+allowed under that zone. For residential condominium projects, the
+number of dwelling units shall equal the number of condominium units
+indicated on the tentative map. For planned development projects,
+the number of dwelling units shall equal the number of dwelling units
+indicated on the approved final development plan. The term "new dwelling
+unit" does not include dwelling units lawfully in place prior to the
+date on which the tentative map is approved. | 
+Lands to be dedicated or reserved for park and/or recreational
+purposes shall be suitable in the opinion of the Planning Director,
+the Director of Public Works and Parks and Recreation Superintendent
+in location, topography, environmental characteristics and development
+potential as related to the intended use. The primary intent of this
+subsection shall be construed to provide the land for functional recreation
+units of local or neighborhood service, including but not limited
+to: tot lots, play lots, playgrounds, neighborhood parks, playfield,
+community or district parks and other specialized recreational facilities
+that may serve the family group and also senior citizen and child
+care activities. Principal consideration shall be given therefore
+to lands that offer: | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.43019176790927394
+Parallel | 7 ft. 6 in.* | 20 ft. | 
+45 Degrees | 8 ft. 6 in. | 16 ft. | 
+60 Degrees | 8 ft. 6 in. | 17 ft. | 
+Perpendicular | 8 ft. 6 in.* | 16 ft. | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.4098453703984932
+*Includes R-1 (Residential Low Density Single-Family), R-2 (Residential
+Moderate Density), R-3 (Residential High Density), R-4 (Residential
+Towers) and HD (Hillside District). | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.40417453046682583
+Figure 1.a | 
+Figure 1.b | 
+
+
+subdivision
+https://ecode360.com/34863777
+0.40201522195545814
+The provisions of this subsection do not apply to condominium
+projects or stock cooperatives which consist of the subdivision of
+airspace in an existing apartment building which is more than five
+(5) years old when no new dwelling units are added. | 
+
+
+finance
+https://ecode360.com/34831703
+0.40110448036566093
+Residential (per unit) | 1 | 
+Commercial/Industrial | Building area in square footage/1,200 square feet | 
+Institutional | 0 | 
+Vacant land | 0 | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.39516523841813933
+*Includes C-1 (General Commercial), C-2 (Highway Commercial),
+and C/S/LI (Commercial, Service, Light Industrial). | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.39246347931393777
+Following the first twelve (12) months of operation, the same
+tax rate shall apply; provided, however, that regardless of the total
+monthly gross revenue, the minimum monthly tax shall be at least one
+hundred thousand ($100,000.00) dollars. | 
+Should any tournament be held, ten (10%) percent of the total
+entry fees shall be included in addition to the total monthly tax
+specified above. | 
+For any non-gaming business operations on the premises, including but not limited to food and beverage service or rental of facilities, licensee shall pay to City a monthly business license tax as set forth in Chapter 5 of the Albany Municipal Code, as it may be adjusted or amended, for fixed places of business, or as set forth in any other applicable section, as determined by the Finance and Administrative Services Director. All procedures set forth in Title 5 Chapter 4 of the Albany Municipal Code relating to business licenses shall be applicable to such non-gaming operations. | 
+
+
+grading ordinance
+https://ecode360.com/34864265
+0.3910971844151616
+Grading of an emergency nature to safeguard life or property
+may be undertaken prior to the issuance of a grading permit. If the
+emergency work will result in any of the criteria set forth above,
+an application for grading permit shall be initiated with the Director
+no later than ten (10) calendar days after the commencement of the
+emergency and an application shall be diligently pursued by the applicant. | 
+A separate permit shall be required for each site. One (1) permit
+may cover both an excavation and a fill on the same site. | 
+
+
+subdivision
+https://ecode360.com/34863777
+0.3891045508290871
+The foregoing provisions of this subsection do not apply to
+condominium projects which consist of the subdivision of airspace
+in an existing building where no new structures are added. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.3849841593065443
+Guide to Dimensional Requirements (Standard Spaced): | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.3802255417915864
+SIGNED: | 
+______________________________________________
+JON ELY
+MAYOR | 
+Date: December 6, 2004 | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.37861736548873093
+Applicants that elect not to use the City's contractor may not
+rely on one of the above-described exceptions for waste generated
+by human activity other than construction and demolition. Applicant
+shall arrange for the collection of such waste on a weekly basis by
+the City's contractor. | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.37422456095316003
+NOTICE OF HEARING BEFORE THE CITY COUNCIL OF THE CITY
+OF ALBANY | 
+The owner of the building situated at _______________________is
+hereby notified to appear before the City Council of the City of Albany
+at its meeting to be held on ____________________________________at
+the Council Chambers, 1000 San Pablo Avenue, Albany, CA at the hour
+of ____________________or as soon thereafter as she/he may be heard
+and show cause, why (the building) (the following portion of the building:__________________________)
+should not be declared to be a public nuisance, and the nuisance be
+abated by repairing, demolishing or removing (said building) (said
+portion of the building) and charging the costs thereof to the owner. | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.37405968852166904
+a. 75 percent of the forces prescribed in the building code.
+The R factor used for analysis in accordance with Chapter 16 of the
+building code shall be the R factor as specified in Section 3403.5.1.1.2. | 
+b. In accordance with the applicable chapters in Appendix A
+of the International Existing Building Code as specified in Items
+2.1 through 2.5 below. Structures or portions of structures that comply
+with the requirements of the applicable chapter in Appendix A shall
+be deemed to comply with the requirements for reduced building code
+force levels. | 
+
+
+general licensing and business regulations
+https://ecode360.com/34832670
+0.3695010402028548
+For businesses of an occasional or temporary nature, operating
+from outside the City, the term of annual, semi-annual or quarterly
+licenses shall begin on the date the business is first conducted within
+the City and continue for the duration of the license in question. | 
+All licenses shall be valid only for the period issued. | 
+
+
+subdivision
+https://ecode360.com/34863777
+0.3542476422703197
+Single Family or Mobile home | 3.0 | .009 | 
+Duplex or Multi-family | 2.1 | .0063 | 
+Assisted Living Unit | 1.05 | .00315 | 
+
+
+finance
+https://ecode360.com/34831703
+0.35354106219861897
+Single-family Residential | Not Applicable | $69.00 per unit | 
+Condominium/Townhouse | Not Applicable | $51.75 per unit | 
+Multi-family Residential | Not Applicable | $51.75 per unit | 
+Non-Residential | < 0.25 acre | $69.00 per parcel | 
+Non-Residential | >=0.25 acre | $259 per acre | 
+
+
+subdivision
+https://ecode360.com/34863777
+0.3535397872245567
+Any revision shall be approved by the Planning Director and
+the City Engineer. The amendment shall be indicated on the approved
+map and certified by the Planning Director and the City Engineer.
+Amendments of the tentative map, which, in the opinion of the City
+Engineer or the Planning Director, are not minor, shall be presented
+to the Planning and Zoning Commission for approval. Processing shall
+be in accordance with the provisions for processing a tentative map
+as set forth in this section. Any approved amendment shall not alter
+the expiration date of the tentative map. | 
+
+
+iv      boards  commissions and agencies
+https://ecode360.com/34831363
+0.35117038032465214
+APPENDIX A | 
+Legal Description: Cleveland Avenue/Eastshore Highway Redevelopment
+Plan | 
+A parcel of land situate in the City of Albany, County of Alameda,
+State of California described as follows: | 
+Beginning at the intersection of the boundary line between the
+cities of Albany and Berkeley with the westerly line of the Eastshore
+Freeway (04 ALA 80). As said lines are shown on the map entitled R/S
+No. 829 filed June 7, 1988 in Book 13 at page 79 of Records of Surveys
+in the office of the Alameda County Recorder, which point of beginning
+bears N 76° 48 02 E, 51.73 feet from a brass disk set in concrete
+labeled Wilsey & Ham LS 4818; thence, from said point of beginning
+along the westerly line of the Interstate 80 (Eastshore Freeway) as
+said westerly line is shown on said map (RS BK 13 P6 79) the following
+courses: N 8° 46 33 W, 307.80 feet; thence N 10° 41 10 W,
+367.34 feet; thence northerly along a tangent curve concave westerly,
+having a radius of 9,948 feet, an arc length of 202.56 feet; thence
+N 11° 51 10 W, 33.08 feet; thence northerly along a tangent curve
+concave easterly having a radius of 5,052 feet, an arc length of 263.46
+feet; thence N 10° 54 14 W, 100.61 feet; thence northerly along
+a curve, concave easterly having a radius of 3,060 feet, an arc length
+of 203.42 feet; thence N 10° 41 14 W, 598.79 feet; thence northwesterly
+along a tangent curve to the left, having a radius of 765 feet, an
+arc length of 326.67 feet; thence crossing Buchanan Street N 54°
+50 48 E, 111.00 feet, thence along the westerly line of interstate
+freeway 580 the following courses: S 35° 08 35 E, 72.68 feet;
+thence easterly along a curve to the left, having a radius of 253
+feet, an arc length of 53.59 feet; thence northeasterly along a curve
+to the left having a radius of 56 feet, an arc length of 75.71 feet;
+thence northerly along a curve to the left having a radius of 253
+feet, an arc length of 57.12feet; thence, N 9° 56 56 E, 235.55
+feet; thence, N 14° 20 00 W, 60.02 feet; thence S 88° 52 37
+E, 24.05 feet; thence N 9° 56 36 E, 350.82 feet; thence northerly
+along a curve to the left, having a radius of 1,941 feet, an arc length
+of 290.72 feet; thence northerly along a curve to the left, having
+a radius of 3,441 feet, an arc length of 220.01 feet, thence northerly
+along a curve to the left, having a radius 3,415 feet, an arc length
+of 99.57 feet; thence S 80° 21 00 W, 39.38 feet; thence northeasterly
+along a curve to the left having a radius of 2,926.20 feet, an arc
+length of 341.02 feet; thence northwesterly along a curve to the left,
+having a radius of 1,911.13 feet, an arc length of 563.46 feet; thence
+N 33° 13 08 W, 665.23 feet; thence N 37° 39 02 W, 403.86 feet;
+thence N 34° 43 06 W, 133.29 feet to the line between the cities
+of Albany and Richmond; thence, leaving said westerly line of Interstate
+580, along the line common to the cities of Albany and Richmond, N
+74° 11 18 E, 209.06 feet to a concrete monument marking the point
+of beginning of the Joint County Survey dated July 1932; thence continuing
+along the line common to the cities of Albany and Richmond N 81°
+49 06 E, 938.09 feet to the west line of Pierce Street; thence southerly
+along the west line of Pierce Street the following courses: S 16°
+42 49 E, 1,300.28 feet; thence southeasterly along a tangent curve
+to the left, having a radius of 1,017 feet, an arc length of 81.19
+feet; thence S 21º 17 15 E, 492.43 feet; thence, southerly along
+a curve to the right having a radius of 483 feet, an arc length of
+244.99 feet; thence S 7° 46 26 W, 96.79 feet; thence, southerly
+along a curve to the left having a radius of 317 feet, an arc length
+of 116.60 feet; thence S 13° 18 02 E, 237.80 feet; thence S 14°
+17 00 E, 67.88 feet; thence S 11 ° 24 17 E, 100 feet to an angle
+point of the Eastshore Freeway right of way; thence along the south
+line of the Eastshore Freeway S 76° 50 00 W, 80 feet more or less
+to the easterly line of the Eastshore Freeway; thence along the easterly
+line of the Eastshore Freeway, S 24° 54 56 W, 319 feet more or
+less to an angle point; thence S 14° 11 00 E, 150 feet more or
+less to the south line of Washington Avenue; thence along the south
+line of Washington Avenue S 75° 49 00 W, 105.37 feet to the east
+line of Cleveland Avenue; thence along the east line of Cleveland
+Avenue, S 10° 28 17 E, 609.55 feet; thence leaving the east line
+of Cleveland Avenue, S 78° 32 30 W, 50.00 feet to the east line
+of the Southern Pacific Railroad Company Right of Way; thence along
+the east line of the Southern Pacific Railroad Company Right of Way
+the following courses: S 9° 46 51 E, 942.73 feet to the beginning
+of a curve; thence southerly along a curve to the left having a radius
+11,332.12 feet, an arc length of 831.33 feet; thence S 14° 20
+05 E, 300.06 feet to the line common to the Cities of Albany and Berkeley;
+thence along the line common to the Cities of Albany and Berkeley
+the following courses: N 83° 00 00 W, 100.82 feet; thence S 80°
+30 00 W, 264.82 feet; thence S 78° 58 08 W, 224.35 feet; thence
+N 78° 21 35 W, 165.98 feet; thence N 11° 36 05 E, 134.80 feet;
+thence N 73° 21 15 W, 75.00 feet; thence S 28° 06 00 W, 21.49
+feet; thence S 75° 39 55 W, 82 feet more or less to the point
+of beginning. | 
+Containing 107 acres more or less. | 
+
+
+iv      boards  commissions and agencies
+https://ecode360.com/34831363
+0.3503011061724908
+The terms of the members shall be for a two (2) year period.
+Each member shall serve until their successor has been appointed and
+qualified in accordance with Albany City Charter. | 
+Such members shall be electors of the City at the time of confirmation
+of the appointment, and no member of the Board of Education shall
+be eligible to serve on this Commission. | 
+
+
+finance
+https://ecode360.com/34831703
+0.35011718065948266
+Residential (per unit) | 1 | 
+Commercial (per parcel) | 2 | 
+Industrial (per parcel) | 4 | 
+Institutional (per parcel) | 1 | 
+Rural (per parcel) | 1 | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.34798587127040914
+The investigation of the game room application shall be completed
+as soon as practicable after a complete application is received. Following
+the investigation, the completed report of the investigation, together
+with the City Administrator's findings and recommendations (which
+shall be based in part on the findings and recommendations from the
+Chief of Police concerning the pointholder permit applications and
+the key management employee permit applications), shall be forwarded
+to the City Council. The City Council shall not consider any application
+for a game room license until the City Administrator's findings and
+recommendations are forwarded for review. | 
+Upon receiving the complete game room application and the City
+Administrator's findings and recommendations, the City Council shall
+make a determination on the permit application within a reasonable
+period of time, but in no event shall City Council be required to
+make a determination sooner than forty-five (45) days after receiving
+such application and findings and recommendations. The City Council
+will use good faith efforts to make a determination within sixty (60)
+days of receiving the complete application and the City Administrator's
+findings and recommendations. | 
+
+
+iv      boards  commissions and agencies
+https://ecode360.com/34831363
+0.3470819858996078
+Neither the list of purposes set forth above nor the lists of
+goals and objectives set forth in the Plan and the Report to Council
+are intended to reflect a particular priority order. Rather, it is
+the intention of the City Council that the Plan be implemented in
+a manner that will achieve an appropriate balance of the listed purposes,
+goals, and objectives taking into account redevelopment needs and
+opportunities that arise from time to time. | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.33737822401549156
+ASCE 31-03 | Seismic Evaluation of Existing Buildings | 3403.5.1.1.1, TABLE 3403.5.1.1.2, 3403.5.1.1.3 | 
+ASCE 41-06 | Seismic Rehabilitation of Existing Buildings | 3403.5.1.1.1,3403.5.1.1.2, TABLE 3403.5.1.1.2, 3403.5.1.1.3 | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.337339562535966
+3403.5.1.1.3 Reduced CBC level seismic forces. When seismic forces are permitted to meet reduced building code levels,
+they shall be one of the following: | 
+
+
+motor vehicles and traffic
+https://ecode360.com/34836804
+0.33585791392420783
+Nothing in this subsection shall authorize the maintenance of a public or private nuisance as defined under provisions of law other than Chapter 10 (commencing with Section 22650) of Division 11 of the Vehicle Code and this section. | 
+
+
+waterfront
+https://ecode360.com/34858113
+0.3354583445432274
+The City Council may authorize and recommend minor variations
+from the foregoing procedures and requirements as reasonably dictated
+by current market and special conditions, not involving any policy
+change, reduction of public notice, conflict with the public trust,
+Enabling Legislation, or Land Use Plan unless first submitted to and
+approved by the State Lands Commission pursuant to Section 5 of Chapter
+211 of the Statutes of 1919. | 
+
+
+general licensing and business regulations
+https://ecode360.com/34832670
+0.33463279017486847
+Nothing herein contained shall be construed to preclude the
+City from exercising its taxing powers as a Chartered City under the
+California Constitution and laws of the State of California (including
+without limitations the Tucker Bill). Furthermore, the City has made
+this permanent election with the understanding that the conditions
+set forth in Ordinance #82-013 are satisfied. | 
+
+
+v      living wage provisions
+https://ecode360.com/34831521
+0.33352697987439195
+This notification shall be in the form provided by the City
+and translated by the employer to other languages spoken by a significant
+number of employees and shall also be posted prominently in areas
+at the worksite where it will be seen by all employees. | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.3334259493755636
+Part 3
+Registration of Owners and Employees | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.3225030663661952
+Figure 2 | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.3225030663661952
+Figure 3 | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.3225030663661952
+Figure 4 | 
+
+
+general licensing and business regulations
+https://ecode360.com/34832670
+0.3197444647327138
+Otherwise, the business license shall be denied. | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.3194428140550596
+a Performance Levels for Occupancy
+Category III shall be taken as halfway between the performance levels
+specified for Occupancy Category II and Occupancy Category IV. | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.3178360463666907
+Parallel | 8'6"* | 23' | 12' | 20' | 
+30° | 8'6" | 17'6" | 11' | 20' | 
+45° | 8'6" | 20' | 13'6" | 20' | 
+60° | 8'6" | 22' | 18'6" | 20' | 
+Perpendicular | 8'6"* | 20' | 25' | 25' | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.31097347798749075
+Part 4
+Operating Regulations | 
+
+
+subdivision
+https://ecode360.com/34863777
+0.30888214751609167
+All other definitions set forth in this chapter are applicable. | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.30520756855750963
+For the purpose of this subsection, the expression "advertising
+matter" shall include advertising sample, handbill, dodger, circular,
+booklet or other notice of commercial advertising. The expression
+"distribute" shall include cause to be, or distributed. | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.3006882584814865
+First $0 to $1,000,000 | 0.0% plus $7,500 | 
+Next $1,000,001 to $2,000,000 | 12.5% | 
+Over $2,000,000 | 15.0% | 
+
+
+sewers and sanitation
+https://ecode360.com/34857482
+0.29924222350937135
+The intent of this section is to protect and enhance the water
+quality of our watercourses, water bodies, and wetlands in a manner
+pursuant to and consistent with the Clean Water Act. | 
+
+
+building and housing
+https://ecode360.com/34838995
+0.2924479749592228
+I | Life Safety (LS) | Collapse Prevention (CP) | 
+II | Life Safety (LS) | Collapse Prevention (CP) | 
+III | Notea | Notea | 
+IV | Immediate Occupancy (IO) | Life Safety (LS) | 
+
+
+community antenna television systems
+https://ecode360.com/34833689
+0.29163413504283897
+Grantee shall be deemed to have responded to a request for service
+under the provisions of this section when a technician arrives at
+the service location and begins work on the problem. In the case of
+a subscriber not being home when the technician arrives, response
+shall be deemed to have taken place if the technician leaves written
+notification of arrival. | 
+No charge shall be made to the subscriber for any service call
+unless the service request can be demonstrated to be both repeated
+and non-cable system in origin, or to involve subscriber negligence. | 
+
+
+dl      disposition of legislation
+https://ecode360.com/34864323
+0.28360739416945946
+2019-03 | 3-18-2019 | Planning and Zoning Amendment | Ch. 20 | 44 | 
+2019-04 | 4-15-2019 | General Licensing and Business Regulations Amendment | Ch. 5 | 44 | 
+2019-05 | 5-20-2019 | General Licensing and Business Regulations Amendment | Ch. 5 | 44 | 
+2019-06 | 6-3-2019 | Planning and Zoning Amendment | Ch. 20 | 44 | 
+2019-07 | 9-16-2019 | Motor Vehicles and Traffic Amendment | Ch. 9 | 44 | 
+2019-08 | 12-2-2019 | Work on Public Property Amendment | Ch. 14 | 0.1 | 
+2019-09 |  |  | Void | 0.1 | 
+2019-10 |  |  | Void | 0.1 | 
+2019-11 | 7-20-2020 | Fire Prevention Amendment; Building and Housing Amendment | Ch. 11; Ch. 12 | 0.1 | 
+2020-01 | 3-2-2020 | Planning and Zoning Amendment | Ch. 20 | 0.1 | 
+2020-02 | 3-16-2020 | Administration Amendment; Finance Amendment; Motor Vehicles
+and Traffic Amendment | Ch. 2; Ch. 4; Ch. 9 | 0.1 | 
+2020-03 | 3-26-2020 | Moratorium | NCM | 0.1 | 
+2020-04 | 6-1-2020 | Planning and Zoning Amendment | Ch. 20 | 0.1 | 
+2020-05 | 6-1-2020 | Planning and Zoning Amendment | Ch. 20 | 0.1 | 
+2020-06 | 6-1-2020 | Moratorium | NCM | 0.1 | 
+2020-07 | 11-3-2020 | Ranked-Choice-Voting Elections | Ch. 7 | 1 | 
+2020-08 | 7-20-2020 | Finance Amendment | Ch. 4 | 0.1 | 
+2020-09 | 11-3-2020 | Finance Amendment | Ch. 4 | 1 | 
+2020-10 | 11-3-2020 | Finance Amendment | Ch. 4 | 1 | 
+2020-11 |  |  | Not Adopted |  | 
+2020-12 | 7-20-2020 | Moratorium | NCM | 0.1 | 
+2020-13 | 10-5-2020 | Moratorium | NCM | 1 | 
+2020-14 | 12-7-2020 | Administration Amendment | Ch. 2 | 1 | 
+2021-01 |  | Not adopted |  | 1.1 | 
+2021-02 | 2-16-2021 | Temporary limit on the charges imposed by third-party delivery
+services on retail food establishments during Covid-19 emergency | NCM | 1.1 | 
+2021-03 | 4-5-2021 | Administration Amendment; Electronic and paperless filing of
+fair political campaign statements | Ch. 2 | 1.1 | 
+2021-04 | 4-5-2021 | Premium Pay for Grocery Workers during Covid-19 Emergency, repealed
+by Ord. No. 2021-06 | NCM | 1.1 | 
+2021-05 | 4-5-2021 | Moratorium on evictions during Covid-19 emergency | NCM | 1.1 | 
+2021-06 | 4-19-2021 | Premium Pay for Grocery, Drug Retail and Certain Retail Workers
+working in Albany during the Covid-19 Emergency. Ordinance on file
+in the City offices | NCM | 1.1 | 
+2021-07 | 5-3-2021 | Building and Housing Amendment; Management of materials with
+PCBs during demolition | Ch. 12 | 1.1 | 
+2021-08 | 5-3-2021 | Work on Public Property Amendment; Property Owner Responsibility
+for Sidewalk Repair | Ch. 14 | 1.1 | 
+2021-09 | 6-7-2021 | Law Enforcement Amendment; Parks, Recreation, Open Space, Waterfront
+and Albany Hills Areas amendment | Ch. 8 | 1.1 | 
+
+
+community antenna television systems
+https://ecode360.com/34833689
+0.2762294811703676
+Grantor may impose any or both of the above enumerated measures
+against Grantee, which shall be in addition to any and all other legal
+or equitable remedies it has under the franchise or under any applicable
+law. | 
+
+
+finance
+https://ecode360.com/34831703
+0.27017595171786735
+Example: Assessment calculation for a commercial parcel with
+an area of 4000 Sq. Ft.: | 
+4000 SF / 3000 SF = 1.25 ERU | 
+1.25 ERU * ($96) = $120.00 | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.26331325250511906
+Part 5
+Miscellaneous Provisions | 
+
+
+finance
+https://ecode360.com/34831703
+0.26203777118905314
+For purposes of this chapter, "taxable" properties are those not owned by the City, the State of California, any other public district or agency of the State or the United States of America. "Improved" properties are those other than those devoid of any structure as of June 1 of any fiscal year. "Vacant" properties are those which are unimproved, but shall not include unimproved parcels which are dedicated as open space or parklands. The tax shall not exceed the maximum amounts set forth in this subsection 4-10.3, except that the tax may be increased annually by the annual percent increase for the prior calendar year, if any, in the All Urban Consumer All Items Consumer Price Index (CPI-U, 1982 — 1984 = 100) for San Francisco-Oakland-San Jose, California. For the purposes specified in subsection 4-10.4 a below, the tax shall be levied so long as it is necessary to pay for any financing of capital improvements, and so long as necessary for services as specified in subsection 4-10.4 b. It is further provided that in no event shall the tax rate adjustment imposed hereby exceed, on an annual basis, five (5%) percent of the tax rates imposed by the City of Albany during the immediately preceding fiscal year. | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.2475850186850684
+Part 1
+General Conditions | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.24333775934778965
+Part 2
+Game Room License | 
+
+
+finance
+https://ecode360.com/34831703
+0.2231696889055411
+Tax rate for the current year | = | Tax rate for the preceding year | x | Change in Consumer Price Index from April of the immediately
+preceding year to April of the current year or 1.02, whichever is
+less | 
+
+
+finance
+https://ecode360.com/34831703
+0.2231696889055411
+Tax rate for the current year | = | Tax rate for the preceding year | X | Change in Consumer Price Index from April of the immediately
+preceding year to April of the current year or 1.02, whichever is
+less | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+planning and zoning
+https://ecode360.com/34858251
+0.20881582987290068
+ | 
+
+
+finance
+https://ecode360.com/34831703
+0.19434302173920334
+No exemption shall be granted except upon a claim therefor made
+at the time rent is collected and under penalty of perjury upon a
+form prescribed by the City Treasurer. | 
+
+
+iv      boards  commissions and agencies
+https://ecode360.com/34831363
+0.14683084930366405
+___________________________________
+/s/ROBERT S. LIEBER                             
+MAYOR | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.058525300228428334
+30 | 55 | 50 | 
+15 | 60 | 55 | 
+5 | 65 | 60 | 
+1 | 70 | 65 | 
+0 | 75 | 70 | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.058525300228428334
+30 | 65 | 60 | 
+15 | 70 | 65 | 
+5 | 75 | 70 | 
+1 | 80 | 75 | 
+0 | 85 | 80 | 
+
+
+law enforcement
+https://ecode360.com/34834103
+0.058525300228428334
+30 | 45 | 40 | 
+15 | 50 | 45 | 
+5 | 55 | 50 | 
+1 | 60 | 55 | 
+0 | 65 | 60 | 
+
+

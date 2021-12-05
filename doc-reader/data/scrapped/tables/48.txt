@@ -1,0 +1,1128 @@
+workforce housing regulation
+https://ecode360.com/26974553
+0.663931030977589
+Central Business District (CBD) | 
+Commercial Planned Residential Development | 
+Executive Office Zone | 
+Business No. 1 Zone | 
+Business No. 2 Zone | 
+D Residence Zones | 
+Golden Hill Village District | 
+Hospital Zone | 
+Industrial Zone No. 1 | 
+Light Industrial Zone No. 2 | 
+Marine Commercial Zone | 
+Neighborhood Business | 
+Reed-Putnam Design District | 
+Rowayton Avenue Village District | 
+SoNo Station Design District (SSDD) | 
+South Norwalk Business District | 
+Restricted Industrial | 
+Washington Street Design District | 
+
+
+zone designations
+https://ecode360.com/26972831
+0.6558564041775253
+ | AAA Residence Zones | 
+ | AA Residence Zones | 
+ | A Residence Zones | 
+ | B Residence Zones | 
+ | C Residence Zones | 
+ | D Residence Zones | 
+ | Executive Office Zone | 
+ | Business Zones No. 1 | 
+ | Business Zones No. 2 | 
+ | Rowayton Avenue Village District | 
+ | Silvermine Tavern Village District | 
+ | East Avenue Village District | 
+ | Golden Hill Village District | 
+ | SoNo Station Design District | 
+ | Neighborhood Business Zone | 
+ | South Norwalk Business District | 
+ | Central Business District | 
+ | Marine Commercial Zone | 
+ | Industrial No. 1 Zone | 
+ | Light Industrial No. 2 Zone | 
+ | Restricted Industrial Zone | 
+ | Research and Development Zone | 
+ | Island Conservation Zone | 
+ | Flood Zone A | 
+ | Flood Zone AE | 
+ | Flood Zone VE | 
+ | Washington Street Design District | 
+ | Reed-Putnam Design District | 
+ | Hospital Zone | 
+
+
+use regulations controlling business zones
+https://ecode360.com/26973381
+0.6396840317142685
+Atrium | 6:1 | 
+Day-care center | 6:1 | 
+Fountain/water feature | 5:1 | 
+Green infrastructure | 2:1 | 
+Pedestrian plaza | 2:1 | 
+Public art | 10:1 | 
+Public parking facility | 4:1 | 
+Sidewalk arcade | 2:1 | 
+Through-block arcade | 8:1 | 
+Waterfront public access | 2:1 | 
+
+
+off street parking and loading regulations
+https://ecode360.com/26974771
+0.5656128579158575
+Office | Residential | 50% | 
+Office | Hotel | 50% | 
+Office | Theater | 50% | 
+Office | Retail | 30% | 
+Office | Restaurant | 30% | 
+Residential | Retail | 25% | 
+Residential | Restaurant | 10% | 
+Retail | Restaurant | 10% | 
+
+
+use regulations controlling residence zones
+https://ecode360.com/26972839
+0.5374197437731353
+ | The home occupation shall not alter the residential character
+of the dwelling, provided furthermore that such home occupations: | 
+
+
+use regulations controlling residence zones
+https://ecode360.com/26972839
+0.5280887087995435
+ | NOTE: No main structure shall be located closer than 50 feet
+from the mean high-water line, and all accessory structures, if located
+within 50 feet of the mean high-water line, shall be constructed in
+such manner as to permit the free flow of pedestrians and tidal waters
+along the beach or shores. | 
+
+
+use regulations controlling business zones
+https://ecode360.com/26973381
+0.51067583350479
+The total square footage required for public realm space times
+$225 per square foot (value of public benefit) times 2.5% (FTA circular
+9400.1A) | 
+
+
+off street parking and loading regulations
+https://ecode360.com/26974771
+0.4914863017644828
+NOTE: Must reduce the larger by the percent listed, but no more
+than the number provided by the lesser. For the purposes of the mixed-use
+overlap, office includes medical office. For purposes of the mixed-use
+overlay, office includes medical office. | 
+A use which occurs predominantly during the weekday and daytime
+hours shall not be changed to a use which does not occur predominantly
+during the weekday and daytime hours. Parking facilities for mixed-use
+developments shall not limit the use of or place any restrictions
+on the shared parking spaces and shall not reserve or restrict the
+use of any parking spaces for specific office or retail tenants or
+residential units. | 
+In addition to the mixed use parking overlap criteria above,
+the Commission may, by Special Permit, allow a mixed-use project,
+to reduce up to an additional ten percent (10%) of the parking required
+under these regulations, provided that: | 
+The total square footage of the development exceeds
+250,000 square feet; | 
+More than 500 parking spaces are required as part
+of the development; | 
+The development, has three (3) or more distinct
+uses; and | 
+It is demonstrated to the satisfaction of the Commission
+that the nature of the development, or its uses and the factors which
+determine parking demand, result in fewer parking spaces to meet actual
+parking needs than required by these regulations. | 
+
+
+use regulations controlling residence zones
+https://ecode360.com/26972839
+0.49058133204947907
+D Residence 1-2 dwelling units | Up to 6,000 | 35% | 6,000 square foot lot X .35 = 2,100 square feet | 
+ | 6,001 to 8,000 | 35% for first 6,000 square feet; 30% for excess lot area above
+6,000 square feet | 8,000 square foot lot: 2,100 square foot footprint for first
+6,000 square feet + (2,000 x .30 = 600) = 2,700 square feet | 
+ | More than 8,000 | 35% for first 6,000 square feet; 30% for excess lot area above
+6,000 square feet, and 25% for excess lot area over 8,000 square feet | 10,000 square foot lot: 2,100 square foot footprint for first
+6,000 square feet + 600 square feet for second 2,000 square feet +
+(2,000 x .25 = 500) = 3,200 square feet | 
+
+
+use regulations controlling residence zones
+https://ecode360.com/26972839
+0.49054410110958513
+C Residence 1-2 dwelling units | Up to 6,000 | 35% | 6,000 square foot lot X .35 = 2,100 square feet | 
+ | 6,001 to 8,000 | 35% for first 6,000 square feet; 30% for excess lot area above
+6,000 square feet | 8,000 square foot lot: 2,100 square foot footprint for first
+6,000 square feet + (2,000 x .30 = 600) = 2,700 square feet | 
+ | More than 8,000 | 35% for first 6,000 square feet; 30% for excess lot area above
+6,000 square feet; and 25% for excess lot area over 8,000 square feet | 10,000 square foot lot: 2,100 square foot footprint for first
+6,000 square feet + 600 square feet for second 2,000 square feet +
+(2,000 x .25 = 500) = 3,200 square feet | 
+
+
+use regulations controlling residence zones
+https://ecode360.com/26972839
+0.4871327137326974
+B Residence | Up to 6,250 | 35% | 6,250 square foot lot X .35 = 2,187 square feet | 
+ | 6,251 to 8,250 | 35% for first 6,250 square feet, 30% for excess lot area above
+6,250 square feet | 8,250 square foot lot: 2,187 square foot footprint for first
+6,250 square feet + (2,000 x .30 = 600) = 2,787 square feet | 
+ | More than 8,250 | 35% for first 6,250 square feet; 30% for excess lot area above
+6,250 square feet; and 25% for excess lot area over 8,250 square feet | 10,250 square foot lot: 2,187 square foot footprint for first
+6,250 square feet + 600 square feet for second 2,000 square feet +
+(2,000 x .25 = 500) = 3,287 square feet | 
+
+
+a      inland wetlands and watercourses
+https://ecode360.com/27050352
+0.48438481412137174
+ | New single-family or duplex residence | $300 | 
+ | New multifamily residence building(s) | $300 plus $100 per unit (units 3-10) and $10 per unit (units
+11 and over) | 
+ | New nonresidential building or addition | $100 per 2,000 square feet of building area | 
+ | Subdivisions | $200 per lot | 
+ | Conservation developments | $150 per unit | 
+
+
+research and development zone
+https://ecode360.com/26974243
+0.460206937025079
+ | {1} | Be limited to 48 such events during any calendar year and to
+no more than two (2) such events during a weekend (Friday-Sunday)
+or three (3) such events during a weekend followed by a Monday holiday; | 
+ | {2} | Have a police officer or security person stationed at each entry/exit
+to a public road during the period one hour after the scheduled event. | 
+ | {3} | Be allowed on legal holidays on any day during the week (Monday-Thursday). | 
+ | {4} | Provide that music, food and liquor services terminate no later
+than 11:15 p.m. for those events taking place on a holiday, a Friday,
+a Saturday or a Sunday that precedes a Monday holiday and 10:00 p.m.
+on any other day with participants either retiring to their on-premises
+overnight accommodations or vacating the premises as soon thereafter
+as reasonable. | 
+
+
+workforce housing regulation
+https://ecode360.com/26974553
+0.45298226406708236
+SoNo Station Design District | 87 units/acre
+500 square feet of lot area per dwelling unit | 10% 95 units/acre
+20% 104 units/acre
+30% 113 units/acre | 
+South Norwalk Business District | 26 units/acre
+1,650 square feet of lot area per dwelling unit | 10% 29 units/acre
+20% 32 units/acre
+30% 34 units/acre | 
+Central Business District | 87 units/acre
+500 square feet of lot area per dwelling unit | 10% 95 units/acre
+20% 104 units/acre
+30% 113 units/acre | 
+Washington Street Design District | No density limit:
+600 square feet of building area devoted to such uses |  | 
+Reed-Putnam Design District | 62 units/acre
+700 square feet of lot area Subarea D; 29 units/acre
+1,500 square feet of lot area Subareas C and E | 10% 69 units/acre
+Subarea D
+32 units/acre
+Subareas C and E
+20% 75 units/acre
+Subarea D
+35 units/acre
+Subareas C and E
+30% 81 units/acre Subarea D
+38 units/acre
+Subareas C and E | 
+
+
+enterprise zone
+https://ecode360.com/27049211
+0.4374805956844885
+First | 100% | 
+Second | 100% | 
+Third | 50% | 
+Fourth | 40% | 
+Fifth | 30% | 
+Sixth | 20% | 
+Seventh | 10% | 
+
+
+research and development zone
+https://ecode360.com/26974243
+0.4260467593661187
+ | {1} | Be allowed on any day including holidays and provide that music,
+food and liquor services terminate at the same times as set forth
+above for special events attended by 90 or more people, i.e. either
+10:00 p.m. or 11:15 p.m. as the case may be. | 
+
+
+workforce housing regulation
+https://ecode360.com/26974553
+0.4229260851667306
+Up to additional | 60% of state median income | 2 market rate:
+1 workforce unit | 
+20% bonus density | 80% of state median income | 1.5 market rate:
+1 workforce unit | 
+
+
+workforce housing regulation
+https://ecode360.com/26974553
+0.41071431474053777
+Additional 10% | 100% of state median income | 1 market rate:
+1 workforce unit | 
+
+
+off street parking and loading regulations
+https://ecode360.com/26974771
+0.41038037243231684
+New additions, exterior alterations, or related new construction
+shall not destroy historic materials that characterize the property.
+The new work shall be differentiated from the old and shall be compatible
+with the massing, size, scale, and architectural features to protect
+the historic integrity of the property and its environment. | 
+New additions and adjacent or related new construction shall
+be undertaken in such a manner that if removed in the future, the
+essential form and integrity of the historic property and its environment
+would be unimpaired | 
+
+
+part        second taxing district
+https://ecode360.com/27034896
+0.4042896437872543
+The District Commissioners shall adopt the budget of the Electric
+Department, consisting of income from electric service, expenses,
+capital appropriations and the changes to Electric Department Reserve
+Fund for the ensuing year, no later than the third Wednesday in February,
+which budget shall be approved by a majority of said District Commissioners.
+Said budget shall then be provided to the district for the purpose
+of inclusion in the annual district budget. Any request by the District
+Commission for transfer of funds from the district to the Electric
+Department Reserve Fund, for use in the operating or capital budget
+of the Electric Department, shall be submitted as part of said district
+budget. | 
+
+
+part        second taxing district
+https://ecode360.com/27034896
+0.4025695484137932
+The District Commissioners, acting as Water Commissioners, shall
+adopt the budget of the Water Department, consisting of income from
+water service, expenses, capital appropriations and the changes to
+the Water Department Reserve Fund for the ensuing year no later than
+the third Wednesday in February, which budget shall be approved by
+a majority of said District Commissioners. Said budget shall then
+be provided to the district for the purpose of inclusion in the annual
+district budget. Any request by the District Commission for transfer
+of funds from the district reserve account to the Water Department
+Reserve Fund, for use in the operating or capital budget of the Water
+Department, shall be submitted as part of said district budget. | 
+
+
+part        second taxing district
+https://ecode360.com/27034896
+0.38378890185988546
+ | Any provisions of the Charter of the Second District which require
+the Treasurer to directly and personally receive the funds raised
+by taxation or otherwise by the district, or to receive monies collected
+by the Water Department or the Electric Department are superseded
+by this section. | 
+
+
+part        second taxing district
+https://ecode360.com/27034896
+0.38252389092999695
+The Clerk of the district shall publish a summary of the district
+budget as adopted by the District Commission in a newspaper of general
+circulation in the City of Norwalk no later than the second Wednesday
+in March, which notice shall inform the electors of the district that
+the entire budget document is available for inspection at the district
+office. | 
+
+
+part        second taxing district
+https://ecode360.com/27034896
+0.38236583125422663
+The District Clerk shall perform all duties as prescribed in
+the General Statutes to be performed by the Clerk of the municipality,
+or the Clerk of the district, or the Clerk as to the extent such specific
+statutes are applicable to said district. | 
+The District Clerk, for the purpose of keeping a record of meetings,
+may designate assistant(s) to assist with the discharge of the duties
+of the Clerk. | 
+
+
+a      inland wetlands and watercourses
+https://ecode360.com/27050352
+0.3801544550172785
+ | * | Includes $20 state land use fee. | 
+
+
+part        second taxing district
+https://ecode360.com/27034896
+0.3781952059795839
+The accounting and bookkeeping for each utility shall be maintained
+separately and distinctly from the accounting and bookkeeping of the
+taxing district. | 
+
+
+off street parking and loading regulations
+https://ecode360.com/26974771
+0.3656892914729456
+ | 3,000 to 25,000 square feet | 1 space | 
+ | 25,000 to 80,000 square feet | 2 spaces | 
+ | Over 80,000 square feet | 2 spaces, plus 1 space for each additional 100,000 square feet
+of floor area | 
+
+
+part        second taxing district
+https://ecode360.com/27034896
+0.36185984954179096
+The Chairperson shall preside at all meetings of the electors
+and Board of District Commissioners; present a report of the condition
+and operations of the District at the annual meeting; present a report
+on the proposed budget at the annual budget meeting; cause to be called
+all regular and special meetings of the electors and Board of District
+Commissioners; set the agenda for all meetings of the electors and
+Board of District Commissioners after the consultation with the Vice
+Chairperson; appoint such committees and/or subcommittees of the Board
+of District Commissioners as may be required or desirable from time
+to time; perform all of the duties incident to the office and which
+are required by law; and perform such duties and functions as the
+electors or Board of District Commissioners may assign from time to
+time. The Chairperson shall call a special meeting of the electors
+or Commissioners upon written petition by a majority of the Board
+of Commissioners, which petition shall include the agenda for such
+meeting. During the absence or incapacity of the Chairperson, the
+Vice Chairperson shall preside over meetings and shall perform the
+duties of the Chairperson. | 
+
+
+dl      disposition list
+https://ecode360.com/27007585
+0.358492810109411
+1-14-2020 | Taxation: Tax Exemption for Solar Energy Systems Amendment | Ch. 103, Art. II | 200 | 
+1-14-2020 | Noise Amendment | Ch. 68 | 201 | 
+1-28-2020 | Code of Ethics Amendment | Ch. 32 | 200 | 
+4-14-2020 | Parks and Recreation: Calf Pasture Beach and Other City Parks
+Amendment | Ch. 74, Art. I | 201 | 
+4-14-2020 | Solid Waste Collection and Disposal; Transfer Station and Yard
+Waste Site Amendment | Ch. 94 | 201 | 
+4-14-2020 | Streets and Sidewalks: Honorary and Historic Naming of Streets
+Amendment | Ch. 95, Art. II | 201 | 
+7-23-2020 | Code of Ethics Amendment | Ch. 32 | 202 | 
+8-25-2020 | Code of Ethics Amendment | Ch. 32 | 202.1 | 
+1-12-2021 | Code of Ethics Amendment | Ch. 32 | 202.1 | 
+2-8-2021 | Enterprise Zone | Ch. 36 | 202.1 | 
+4-27-2021 | General Provisions Amendment | Ch. 7 | 202.2 | 
+5-25-2021 | Capital Projects Program Amendment | Ch. 30 | 202.2 | 
+6-22-2021 | Housing: Equal Opportunity: Antidiscrimination Amendment | Ch. 59A, Art. I | 202.3 | 
+6-22-2021 | Human Relations Commission Amendment | Ch. 60 | 202.3 | 
+7-27-2021 | Environmental Hazards: Use and Sale of Polystyrene Products
+Amendment | Ch. 37, Art. II | 202.4 | 
+7-27-2021 | Explosives Amendment | Ch. 38 | 202.4 | 
+9-28-2021 | Capital Projects Program Amendment | Ch. 30 | 202.4 | 
+9-28-2021 | Planning and Zoning Commission | Ch. 79 | 202.4 | 
+
+
+salaries
+https://ecode360.com/27055035
+0.3513311142617981
+Executive Secretary | $42,183 | 3.50 | $43,659 | 
+Executive Assistant | $44,177 | 3.50 | $45,723 | 
+Assistant Corporation Counsel (P/T) | $43,775 | 3.50 | $45,307 | 
+Assistant Corporation Counsel (P/T) | $40,000 | 0 | $40,000 | 
+Assistant City Clerk | $50,015 | 3.50 | $51,766 | 
+Assistant to Mayor | $86,871 | 3.50 | $89,911 | 
+Assistant Corporation Counsel | $78,367 | 3.50 | $81,110 | 
+Assistant Corporation Counsel | $64,153 | 3.50 | $66,398 | 
+City Clerk/Grants Coordinator | $75,998 | 3.50 | $78,658 | 
+Personnel Administrator | $57,738 | 3.50 | $59,759 | 
+Corporation Counsel | $66,046 | 3.50 | $68,358 | 
+Director of Budgets and Management | $85,527 | 3.50 | $88,520 | 
+Deputy Corporation Counsel | $109,435 | 3.50 | $113,265 | 
+Director of Personnel and Labor | $89,554 | 3.50 | $92,688 | 
+Director of Health | $91,856 | 3.50 | $95,071 | 
+Director of Recreation/ Parks/ Building Management | $102,379 | 3.50 | $105,962 | 
+Director of Finance | $112,543 | 3.50 | $116,482 | 
+Director of Public Works | $109,445 | 3.50 | $113,276 | 
+Director of Combined Dispatch and Emergency Preparedness Planning | $78,000 | 3.50 | $80,7301 | 
+Buildings and Facilities Manager | $87,763 | 3.50 | $90,835 | 
+
+
+administration and enforcement
+https://ecode360.com/26975100
+0.3512516553746633
+ | The Commission shall not approve developments which fail to
+maintain stable traffic flow unless provision has been made for the
+improvement of inadequate conditions. | 
+
+
+a      inland wetlands and watercourses
+https://ecode360.com/27050352
+0.35059958170658345
+ | Wetland and watercourses regulations | $6.50 | 
+ | Designated wetland map set | $35 | 
+ | One panel of map set | $5 | 
+ | Photocopies | $0.50 | 
+
+
+part        second taxing district
+https://ecode360.com/27034896
+0.3439056359110486
+ | Notice of the meeting shall also be given by publication thereof
+in a newspaper having a general circulation within the Second Taxing
+District no more than 15 nor less than seven days before the date
+of the meeting. | 
+
+
+air pollution
+https://ecode360.com/27029808
+0.32040714632909506
+ | For gases, the following standards shall apply. The Board of
+Health shall determine the class of any particular gas. | 
+
+
+noise
+https://ecode360.com/27051054
+0.31894428944768993
+Procedure for Using Table 1 | 
+Step 1: Subtract the ambient sound level from the total sound
+level. | 
+Step 2: Refer to Table 1 to determine the correction factor
+for the difference calculated in Step 1. | 
+Step 3: Subtract the correction factor from the total sound
+level. The resultant number is the corrected source sound level. | 
+
+
+noise
+https://ecode360.com/27051054
+0.30614012888148123
+0-3 | Source level < Ambient sound level | 
+4,5 | 2 | 
+6-9 | 1 | 
+10 or more | 0 | 
+
+
+off street parking and loading regulations
+https://ecode360.com/26974771
+0.29583180779209883
+Number of spaces X $20,000 | 
+
+
+off street parking and loading regulations
+https://ecode360.com/26974771
+0.29583180779209883
+Number of spaces X $15,000 | 
+
+
+vehicle and traffic
+https://ecode360.com/27052578
+0.29512871543776037
+ | East Avenue and Interstate 95 Exit 16 northbound off ramp | 
+ | U.S. Route 1 and France Street | 
+
+
+air pollution
+https://ecode360.com/27029808
+0.28555016591863547
+ | *Interpolation of the data in this table for process weight
+rates up 60,000 lb/hr shall be accomplished by use of the equation
+E=4.10 P0.67, and interpolation and extrapolation
+of the data for process weight rates in excess of 60,000 lb/hr shall
+be accomplished by use of the equation E=55.0 P0.11 — 40, where E = rate of emission in lb/hr and P = process
+weight rate in tons/hr. | 
+
+
+health and sanitation
+https://ecode360.com/27049839
+0.2845232529156421
+Class A Soil | 1 | 1 | 5 | 5 | 
+ | 2 | 1 | 8 | 6 | 
+ | 3 | 2 | 6 | 6 | 
+Class B Soil |  | 1 | 6 | 7 | 
+ |  | 2 | 6 | 7 | 
+ |  | 2 | 8 | 8 | 
+Class C Soil |  | 2 | 6 | 7 | 
+ |  | 2 | 9 | 8 | 
+ |  | 3 | 9 | 8 | 
+
+
+a      mooring and anchoring
+https://ecode360.com/27050845
+0.27890147861074566
+Under 16 | 75 | 3/8 | 3/8 | 3/4 | 1/2 | 
+16 to 19 | 150 | 3/8 | 3/8 | 3/4 | 1/2 | 
+20 to 22 | 200 | 1/2 | 1/2 | 3/4 | 1/2 | 
+23 to 25 | 250 | 1/2 | 1/2 | 7/8 | 1/2 | 
+26 to 30 | 300 | 5/8 | 1/2 | 1/2 | 5/8 | 
+31 to 35 | 400 | 5/8 | 1/2 | 1 | 5/8 | 
+36 to 40 | 500 | 3/4 | 5/8 to 3/4 | 1 1/4 — 1 1/2 | 3/4 | 
+41 to 50 | 600 | 3/4 | 5/8 to 3/4 | 1 1/4 — 1 1/2 | 3/4 | 
+51 to 65 | 750 | 1 5/8 to 3/4 | 1 1/2 | 7/8 |  | 
+
+
+x      department of social services
+https://ecode360.com/27035346
+0.2704383582115574
+ | The two existing terms expiring December 1, 1983, shall expire
+on that date and every two years thereafter. Upon passage of this
+ordinance, one new member shall be appointed for a term expiring December
+1, 1983, and every two years thereafter. | 
+
+
+a      inland wetlands and watercourses
+https://ecode360.com/27050352
+0.2685793072436488
+ | Declaratory permits | $25 | 
+ | All other permits | $100 | 
+
+
+a      mooring and anchoring
+https://ecode360.com/27050845
+0.2683333751876403
+ | Under 16 | 75 | 3/8 | 3/8 | 1/2 | 
+ | 16 to 19 | 100 | 3/8 | 3/8 | 1/2 | 
+ | 20 to 22 | 150 | 1/2 | 1/2 | 1/2 | 
+ | 23 to 25 | 200 | 1/2 | 1/2 | 5/8 | 
+ | 26 to 30 | 300 | 5/8 | 1/2 | 3/4 | 
+ | 31 to 35 | 350 | 5/8 | 1/2 | 3/4 | 
+ | 36 to 40 | 400 | 3/4 | 5/8 | 1 | 
+ | 41 to 50 | 500 | 3/4 | 5/8 to 3/4 | 1 | 
+
+
+a      inland wetlands and watercourses
+https://ecode360.com/27050352
+0.2662918464830383
+ | Declaratory permit application | $120 | 
+ | Summary permit application | $270 | 
+ | Plenary permit application | $670 | 
+ | Corrective action declaratory permit | $220 | 
+ | Corrective action summary permit | $520 | 
+ | Corrective action plenary permit | $1,320 | 
+
+
+workforce housing regulation
+https://ecode360.com/26974553
+0.2611965412493421
+Link to DECD affordable Housing Appeals Act Regulations: | 
+http://www.ct.gov/ecd/cwp/view.asp?a=1095&O=307632&PM=1#g8 | 
+https://portal.ct.gov/-/media/SOTS/regulations/Title_08030gpd.pdf?la=en | 
+
+
+a      mooring and anchoring
+https://ecode360.com/27050845
+0.25373353447831914
+ | 20.0 or less | $20 | 
+ | 20.1 or longer, up to and including 30.0 | $35 | 
+ | 30.1 or longer | $50 | 
+
+
+gas and oil exploration
+https://ecode360.com/27049597
+0.251539069383255
+I/We, __________, hereby certify under penalty of perjury that in connection with this submission of a bid for materials, equipment and/or labor to the City, Project Number __________, no natural gas waste or oil waste (as defined in Chapter 50 of the Norwalk City Code) will be used by the undersigned bidder or any contractor, subcontractor, agent or vendor agent in connection with the performance of any contract related to such bid, if awarded. | 
+
+
+air pollution
+https://ecode360.com/27029808
+0.24946190754016404
+ | *Examples only. Not all-inclusive. | 
+
+
+air pollution
+https://ecode360.com/27029808
+0.2457139265944961
+ | 10 or less | 0.60 | 
+ | 50 | 0.46 | 
+ | 100 | 0.40 | 
+ | 500 | 0.30 | 
+ | 1,000 | 0.26 | 
+ | 2,500 | 0.23 | 
+ | 5,000 | 0.20 | 
+ | 7,500 | 0.19 | 
+ | 10,000 | 0.18 | 
+
+
+a      mooring and anchoring
+https://ecode360.com/27050845
+0.23779087719154277
+1 | Mushroom anchor weight must be doubled for hard-bottom
+areas. | 
+
+
+a      mooring and anchoring
+https://ecode360.com/27050845
+0.21701981433027648
+ | 1 | The stern anchor may be down-sized at the discretion
+of the Harbormaster. | 
+
+
+sign regulations
+https://ecode360.com/26974882
+0.21053120252822355
+ | Under 20,000 sq. ft. | 12 | 
+ | 20,000 — 100,000 sq. ft. | 24 | 
+ | Over 100,000 sq. ft. | 45 | 
+
+
+health and sanitation
+https://ecode360.com/27049839
+0.20816738507257995
+1 | 2 | 100 | 120 | 150 | 
+1 | 3 to 4 | 120 | 150 to 175 | 200 | 
+2 | 4 to 5 | 120 | 175 to 200 | 300 | 
+3 |  | 150 | 225 | 350 | 
+
+
+health and sanitation
+https://ecode360.com/27049839
+0.20816738507257995
+1 | 2 | 200 | 240 | 300 | 
+1 | 3 to 4 | 240 | 300 to 350 | 350 | 
+2 | 4 to 5 | 240 | 350 to 400 | 600 | 
+3 |  | 300 | 450 | 900 | 
+
+
+women  commission on status of
+https://ecode360.com/27054845
+0.19918308132379675
+ | Ending September 1, 1987 | 3 | 
+ | Ending September 1, 1988 | 4 | 
+ | Ending September 1, 1989 | 4 | 
+
+
+off street parking and loading regulations
+https://ecode360.com/26974771
+0.19045410455665435
+0 | 7 | 12 | 7 | 12 | 
+45 | 8.5 | 13 |  |  | 
+ | 9.0 | 12 | 7.5 | 12 | 
+ | 9.5 | 12 |  |  | 
+60 | 8.5 | 18 |  |  | 
+ | 9.0 | 16 | 7.5 | 14 | 
+75 | 8.5 | 22 |  |  | 
+ | 9.0 | 21 | 7.5 | 17 | 
+ | 9.5 | 20 |  |  | 
+90 | 8.5 | 24 |  |  | 
+ | 9.0 | 23 | 7.5 | 22 | 
+ | 9.5 | 22 |  |  | 
+
+
+salaries
+https://ecode360.com/27055035
+0.17756971306413963
+Mayor | $92,475 | $95,480 | 11-16-2005 | 
+Town Clerk | $67,741 | $69,943 | 11-16-2005 | 
+Registrar of Voters | $45,306 | $46,778 | 11-16-2006 | 
+Registrar of Voters | $45,306 | $46,778 | 11-16-2006 | 
+
+
+xxiii      referendum procedure
+https://ecode360.com/27035463
+0.17591144922893473
+ | Name and address of circulator (to be typed or printed) | 
+
+
+xxiii      referendum procedure
+https://ecode360.com/27035463
+0.1683139508363504
+ | The undersigned elector of the City of Norwalk hereby attests
+that: | 
+
+
+human relations commission
+https://ecode360.com/27050305
+0.14730510774505817
+ | Ending September 1, 1967 | 4 | 
+ | Ending September 1, 1968 | 4 | 
+ | Ending September 1, 1969 | 3 | 
+
+
+fuel oil heating
+https://ecode360.com/27049547
+0.12783650957159937
+1 to 285 | 14 | 
+286 to 560 | 12 | 
+561 to 1,100 | 10 | 
+1,101 to 4,000 | 3/16-inch | 
+4,000 to 12,000 | 1/4-inch | 
+12,001 to 20,000 | 5/16-inch | 
+20,001 to 30,000 | 3/8-inch | 
+
+
+air pollution
+https://ecode360.com/27029808
+0.08450915478817267
+ | A | Nickel carbonyl | 
+ | B | Phosphine | 
+ | C | Acrolein, bromine, fluorine | 
+ | D | Chlorine, HCHO, HCL, SO2 | 
+ | E | Alkyl alcohol, HB, HCN, NO2, H2S | 
+ | F | Acetic acid, NH3, methyl acrylate | 
+
+
+salaries
+https://ecode360.com/27055035
+0.06643255269798684
+1 | Effective 8-2-2005. | 
+
+
+air pollution
+https://ecode360.com/27029808
+0.02891460698807513
+ | 100 | 0.05 | 0.551 | 
+ | 200 | 0.10 | 0.877 | 
+ | 400 | 0.20 | 1.40 | 
+ | 600 | 0.30 | 1.83 | 
+
+
+ii      city seal
+https://ecode360.com/27028510
+0.01857834439429723
+ |  | 
+
+
+air pollution
+https://ecode360.com/27029808
+-0.011085393011924849
+ |  | 
+
+
+air pollution
+https://ecode360.com/27029808
+-0.06441872634525822
+ | 800 | 0.40 | 2.22 | 
+ | 1,000 | 0.50 | 2.58 | 
+ | 1,500 | 0.75 | 3.38 | 
+ | 2,000 | 1.00 | 4.10 | 
+ | 2,500 | 1.25 | 4.76 | 
+ | 3,000 | 1.50 | 5.38 | 
+ | 3,500 | 1.75 | 5.96 | 
+ | 4,000 | 2.00 | 6.52 | 
+ | 5,000 | 2.50 | 7.58 | 
+ | 6,000 | 3.00 | 8.56 | 
+ | 7,000 | 3.50 | 9.49 | 
+ | 8,000 | 4.00 | 10.4 | 
+ | 9,000 | 4.50 | 11.2 | 
+ | 10,000 | 5.00 | 12.0 | 
+ | 12,000 | 6.00 | 13.6 | 
+ | 16,000 | 8.00 | 16.5 | 
+ | 18,000 | 9.00 | 17.9 | 
+ | 20,000 | 10. | 19.2 | 
+ | 30,000 | 15. | 25.2 | 
+ | 40,000 | 20. | 30.5 | 
+ | 50,000 | 25. | 35.4 | 
+ | 60,000 | 30. | 40.0 | 
+ | 70,000 | 35. | 41.3 | 
+ | 80,000 | 40. | 42.5 | 
+ | 90,000 | 45. | 43.6 | 
+ | 100,000 | 50. | 44.6 | 
+ | 120,000 | 60. | 46.3 | 
+ | 140,000 | 70. | 47.8 | 
+ | 160,000 | 80. | 49.0 | 
+ | 200,000 | 100. | 51.2 | 
+ | 1,000,000 | 500. | 69.0 | 
+ | 2,000,000 | 1,000. | 77.6 | 
+ | 6,000,000 | 3,000. | 92.7 | 
+
+
+dl      disposition list
+https://ecode360.com/27007585
+-3.1731018171333027
+1-13-2004 | Parking Authority amendment | Ch. 73A | 
+2-18-2004 | Zoning amendment | Ch. 118 | 
+4-27-2004 | Tax relief for elderly and disabled amendment | Ch 103, Art. III | 
+4-27-2004 Conservation Commission | Inland wetlands and watercourses amendment | Ch 60A | 
+5-28-2004 | Zoning amendment | Ch. 118 | 
+7-1-2004 | Salaries amendment | Ch. 131 | 
+11-23-2004 | Aquifer Protection Agency | Ch. 17 | 
+12-14-2004 | Panhandling and loitering | Ch. 72A | 
+12-15-2004 | Zoning amendment | Ch. 118 | 
+12-28-2004 | Pocket bikes and motorized scooters | Ch. 81 | 
+1-28-2005 | Zoning amendment | Ch. 118 | 
+2-8-2005 | Procurement guidelines | Ch. 85A, reference only | 
+2-22-2005 | Parks and recreation: Calf Pasture Beach and other city parks | Ch. 74, Art. I | 
+2-25-2005 | Zoning amendment | Ch. 118 | 
+2-25-2005 | Zoning amendment | Ch. 118 | 
+3-25-2005 | Zoning amendment | Ch. 118 | 
+4-29-2005 | Zoning amendment | Ch. 118 | 
+4-29-2005 | Zoning amendment | Ch. 118 | 
+5-24-2005 | Food and food establishments: outdoor dining | Ch. 45, Art. IV | 
+5-24-2005 | Water Pollution Control Authority amendment | Ch. 113 | 
+6-28-2005 | Parking violations and citations | Ch. 73B | 
+9-27-2005 | Fair Housing Advisory Commission amendment | Ch. 59A, Art. II | 
+9-27-2005 | Septage disposal amendment | Ch. 92 | 
+10-25-2005 | Collection and disposal of solid waste amendment | Ch. 94 | 
+10-25-2005 | Littering and illegal dumping amendment | Ch. 95A | 
+10-28-2005 | Zoning amendment | Ch. 118 | 
+11-8-2005 | Charter amendment (Director of Finance) | § 1-239 | 
+11-8-2005 | Charter amendment (Mayor as ex officio member of Board of Estimate
+and Taxation) | § 1-289 | 
+11-25-2005 | Zoning amendment | Ch. 118 | 
+Effective 12-23-2005 | Zoning amendment | Ch. 118 | 
+Effective 1-27-2006 | Zoning amendment | Ch. 118 | 
+Effective 1-27-2006 | Zoning amendment | Ch. 118 | 
+Effective 1-27-2006 | Zoning amendment | Ch. 118 | 
+Effective 3-24-2006 | Zoning amendment | Ch. 118 | 
+Effective 4-28-2006 | Zoning amendment | Ch. 118 | 
+Effective 4-28-2006 | Zoning amendment | Ch. 118 | 
+Effective 5-26-2006 | Zoning amendment | Ch. 118 | 
+6-27-2006 | Public consumption of alcoholic beverages amendment | Ch. 12, Art. III | 
+7-11-2006 | Salaries amendment | Ch. 131 | 
+Effective 7-28-2006 | Zoning amendment | Ch. 118 | 
+Effective 7-28-2006 | Zoning amendment | Ch. 118 | 
+Effective 7-28-2006 | Zoning amendment | Ch. 118 | 
+Effective 8-25-2006 | Zoning amendment | Ch. 118 | 
+9-12-2006 | Water Pollution Control Authority | Ch. 113 | 
+Effective 10-27-2006 | Zoning amendment | Ch. 118 | 
+Effective 10-27-2006 | Zoning amendment | Ch. 118 | 
+Effective 11-24-2006 | Zoning amendment | Ch. 118 | 
+Effective 11-24-2006 | Zoning amendment | Ch. 118 | 
+12-12-2006 | Department of Fleet Services repealer | Ch. 44, Editor's Note only | 
+12-12-2006 | Department of Public Works amendment | Superseded 9-11-2018 | 
+1-9-2007 | Living wage | Ch. 62 | 
+Effective 1-26-2007 | Zoning amendment | Ch. 118 | 
+Effective 1-26-2007 | Zoning amendment | Ch. 118 | 
+Effective 1-26-2007 | Zoning amendment | Ch. 118 | 
+Effective 3-2-2007 | Zoning amendment | Ch. 118 | 
+Effective 3-2-2007 | Zoning amendment | Ch. 118 | 
+Effective 3-30-2007 | Zoning amendment | Ch. 118 | 
+5-22-2007 | Excavations and encroachments in public streets and grounds
+amendment | Ch. 96 | 
+Effective 5-25-2007 | Zoning amendment | Ch. 118 | 
+Effective 5-25-2007 | Zoning amendment | Ch. 118 | 
+6-26-2007 | Code of Ethics | Ch. 32 | 
+6-26-2007 | Tax abatement for volunteer emergency service workers of other
+municipalities | Ch. 103, Art. XI | 
+Effective 7-27-2007 | Zoning amendment | Ch. 118 | 
+Effective 7-27-2007 | Zoning amendment | Ch. 118 | 
+8-14-2007 | Postemployment benefits trust | Ch. 84 | 
+8-14-2007 | City contract requirements | Ch. 34, Art. I | 
+Effective 8-24-2007 | Zoning amendment | Ch. 118 | 
+Effective 9-28-2007 | Zoning amendment | Ch. 118 | 
+Effective 10-26-2007 | Zoning amendment | Ch. 118 | 
+Effective 10-26-2007 | Zoning amendment | Ch. 118 | 
+Effective 10-26-2007 | Zoning amendment | Ch. 118 | 
+Effective 11-23-2007 | Zoning amendment | Ch. 118 | 
+Effective 11-23-2007 | Zoning amendment | Ch. 118 | 
+Effective 12-21-2007 | Zoning amendment | Ch. 118 | 
+Effective 12-21-2007 | Zoning amendment | Ch. 118 | 
+2-26-2008 | Tax relief for the elderly and disabled homeowners amendment | Ch. 103, Art. III | 
+Effective 3-28-2008 | Zoning amendment | Ch. 118 | 
+Effective 3-28-2008 | Zoning amendment | Ch. 118 | 
+Effective 5-30-2008 | Zoning amendment | Ch. 118 | 
+Effective 5-30-2008 | Zoning amendment | Ch. 118 | 
+Effective 6-27-2008 | Zoning amendment | Ch. 118 | 
+Effective 6-27-2008 | Zoning amendment | Ch. 118 | 
+Effective 7-25-2008 | Zoning amendment | Ch. 118 | 
+Effective 7-25-2008 | Zoning amendment | Ch. 118 | 
+Effective 8-29-2008 | Zoning amendment | Ch. 118 | 
+Effective 8-29-2008 | Zoning amendment | Ch. 118 | 
+9-23-2008 | Tax on tangible personal property | Ch. 103, Art. XII | 
+9-26-2008 | Zoning amendment | Ch. 118 | 
+Effective 11-28-2008 | Zoning amendment | Ch. 118 | 
+Effective 1-30-2009 | Zoning amendment | Ch. 118 | 
+2-24-2009 | Collection and disposal of solid waste amendment | Ch. 94 | 
+Effective 2-27-2009 | Zoning amendment | Ch. 118 | 
+3-24-2009 | Waypointe Special Services District | Ch. 100, Art. II | 
+3-24-2009 | Parking Authority amendment | Ch. 73A | 
+3-24-2009 | Outdoor dining amendment | Ch. 45, Art. IV | 
+Effective 3-27-2009 | Zoning amendment | Ch. 118 | 
+Effective 4-24-2009 | Zoning amendment | Ch. 118 | 
+Effective 4-24-2009 | Zoning amendment | Ch. 118 | 
+Effective 5-29-2009 | Zoning amendment | Ch. 118 | 
+6-23-2009 | Streets and sidewalks amendment | Ch. 95 | 
+6-23-2009 | Littering and illegal dumping amendment | Ch. 95A | 
+6-23-2009 | Trees amendment | Ch. 112 | 
+Effective 9-16-2009 | Zoning amendment | Ch. 118 | 
+Effective 9-25-2009 | Zoning amendment | Ch. 118 | 
+Effective 11-27-2009 | Zoning amendment | Ch. 118 | 
+Effective 11-27-2009 | Zoning amendment | Ch. 118 | 
+Effective 11-27-2009 | Zoning amendment | Ch. 118 | 
+Effective 1-28-2010 | Zoning amendment | Ch. 118 | 
+Effective 4-30-2010 | Zoning amendment | Ch. 118 | 
+Effective 4-30-2010 | Zoning amendment | Ch. 118 | 
+5-25-2010 | Stormwater; illicit discharges and connections | Ch. 93 | 
+Effective 6-18-2010 | Zoning amendment | Ch. 118 | 
+7-27-2010 | Massage establishments | Ch. 65 | 
+Effective 9-24-2010 | Zoning amendment | Ch. 118 | 
+Effective 9-24-2010 | Zoning amendment | Ch. 118 | 
+Effective 9-24-2010 | Zoning amendment | Ch. 118 | 
+Effective 10-29-2010 | Zoning amendment | Ch. 118 | 
+Effective 10-29-2010 | Zoning amendment | Ch. 118 | 
+Effective 10-29-2010 | Zoning amendment | Ch. 118 | 
+Effective 12-24-2010 | Zoning amendment | Ch. 118 | 
+Effective 12-24-2010 | Zoning amendment | Ch. 118 | 
+Effective 12-24-2010 | Zoning amendment | Ch. 118 | 
+Effective 12-24-2010 | Zoning amendment | Ch. 118 | 
+1-25-2011 | Fire prevention amendment | Ch 42A | 
+Effective 2-25-2011 | Zoning amendment | Ch. 118 | 
+Effective 2-25-2011 | Zoning amendment | Ch. 118 | 
+Effective 2-25-2011 | Zoning amendment | Ch. 118 | 
+3-22-2011 | Tax relief for the elderly and disabled homeowners amendment | Ch. 103, Art. III | 
+5-10-2011 | Housing Site Development Agency amendment | Ch. 59B | 
+Effective 5-27-2011 | Zoning amendment | Ch. 118 | 
+7-26-2011 | Body care and body art facilities amendment | Ch. 18A | 
+Effective 7-29-2011 | Zoning amendment | Ch. 118 | 
+9-27-2011 | City buildings and facilities: naming | Ch. 27, Art. I | 
+Effective 9-30-2011 | Zoning amendment | Ch. 118 | 
+Effective 9-30-2011 | Zoning amendment | Ch. 118 | 
+10-18-2011 | Tanning facilities | Ch. 18B | 
+Effective 10-28-2011 | Zoning amendment | Ch. 118 | 
+Effective 10-28-2011 | Zoning amendment | Ch. 118 | 
+Effective 11-25-2011 | Zoning amendment | Ch. 118 | 
+Effective 11-25-2011 | Zoning amendment | Ch. 118 | 
+Effective 12-23-2011 | Zoning amendment | Ch. 118 | 
+Effective 1-27-2012 | Zoning amendment | Ch. 118 | 
+Effective 2-24-2012 | Zoning amendment | Ch. 118 | 
+Effective 2-24-2012 | Zoning amendment | Ch. 118 | 
+Effective 3-30-2012 | Zoning amendment | Ch. 118 | 
+Effective 4-27-2012 | Zoning amendment | Ch. 118 | 
+Effective 5-25-2012 | Zoning amendment | Ch. 118 | 
+Effective 7-27-2012 | Zoning amendment | Ch. 118 | 
+Effective 7-27-2012 | Zoning amendment | Ch. 118 | 
+Effective 9-28-2012 | Zoning amendment | Ch. 118 | 
+Effective 9-28-2012 | Zoning amendment | Ch. 118 | 
+Effective 10-26-2012 | Zoning amendment | Ch. 118 | 
+Effective 10-26-2012 | Zoning amendment | Ch. 118 | 
+Effective 10-26-2012 | Zoning amendment | Ch. 118 | 
+Effective 1-25-2013 | Zoning amendment | Ch. 118 | 
+Effective 3-1-2013 | Zoning amendment | Ch. 118 | 
+Effective 3-1-2013 | Zoning amendment | Ch. 118 | 
+Effective 3-1-2013 | Zoning amendment | Ch. 118 | 
+Effective 3-29-2013 | Zoning amendment | Ch. 118 | 
+Effective 3-29-2013 | Zoning amendment | Ch. 118 | 
+Effective 6-28-2013 | Zoning amendment | Ch. 118 | 
+Effective 7-8-2013 | Zoning amendment | Ch. 118 | 
+11-12-2013 | Animals and fowl: general provisions amendment | Ch. 15, Art. I | 
+8-13-2013 | Housing blight | Superseded 6-9-2015 | 
+8-13-2013 | Landlord identification | Ch. 62A | 
+Effective 12-20-2013 | Zoning amendment | Ch. 118 | 
+Effective 12-20-2013 | Zoning amendment | Ch. 118 | 
+Effective 2-28-2014 | Zoning amendment | Ch. 118 | 
+Effective 2-28-2014 | Zoning amendment | Ch. 118 | 
+Effective 2-28-2014 | Zoning amendment | Ch. 118 | 
+3-11-2014 | Board of Tax Review amendment | Ch. 103, Art. V | 
+7-8-2014 | Bidding and purchasing amendment | Ch. 19 | 
+7-22-2014 | Excavations and encroachments in public streets and grounds
+amendment | Ch. 96 | 
+Effective 7-25-2014 | Zoning amendment | Ch. 118 | 
+Effective 9-26-2014 | Zoning amendment | Ch. 118 | 
+Effective 9-26-2014 | Zoning amendment | Ch. 118 | 
+Effective 10-24-2014 | Zoning amendment | Ch. 118 | 
+Effective 10-24-2014 | Zoning amendment | Ch. 118 | 
+10-28-2014 | Tax relief for the elderly and disabled homeowners amendment | Ch. 103, Art. III | 
+10-28-2014 | Honorary and historic naming of streets | Ch. 95, Art. II | 
+11-25-2014 | Council of Governments | Ch. 89 | 
+11-25-2014 | Birchwood Townhouses Special Services District | Ch. 100, Art. III | 
+Effective 12-19-2014 | Zoning amendment | Ch. 118 | 
+Effective 12-19-2014 | Zoning amendment | Ch. 118 | 
+Effective 1-30-2015 | Zoning amendment | Ch. 118 | 
+2-10-2015 | Bidding and purchasing amendment | Ch. 19 | 
+2-10-2015 | Zoning enforcement | Ch. 117 | 
+Effective 2-27-2015 | Zoning amendment | Ch. 118 | 
+Effective 2-27-2015 | Zoning amendment | Ch. 118 | 
+3-24-2015 | Streets and sidewalks: maintenance; acceptance; abandonment | Ch. 95, Art. I | 
+Effective 4-24-2015 | Zoning amendment | Ch. 118 | 
+Effective 5-29-2015 | Zoning amendment | Ch. 118 | 
+6-9-2015 | Housing blight | Ch. 58A | 
+Effective 6-17-2015 | Zoning amendment | Ch. 118 | 
+Effective 6-26-2015 | Zoning amendment | Ch. 118 | 
+Effective 7-24-2015 | Zoning amendment | Ch. 118 | 
+Effective 9-4-2015 | Zoning amendment | Ch. 118 | 
+Effective 9-4-2015 | Zoning amendment | Ch. 118 | 
+10-27-2015 | Demolition delay amendment | Ch. 55 | 
+Effective 11-27-2015 | Zoning amendment | Ch. 118 | 
+Effective 1-29-2016 | Zoning amendment | Ch. 118 | 
+Effective 1-29-2016 | Zoning amendment | Ch. 118 | 
+2-23-2016 | Board of Assessment Appeals amendment | Ch. 103, Art. V | 
+Effective 2-26-2016 | Zoning amendment | Ch. 118 | 
+Effective 2-26-2016 | Zoning amendment | Ch. 118 | 
+Effective 2-26-2016 | Zoning amendment | Ch. 118 | 
+3-22-2016 | Vehicle and traffic amendment | Ch. 98 | 
+Effective 3-25-2016 | Zoning amendment | Ch. 118 | 
+4-12-2016 | Tax relief for the elderly and disabled homeowners amendment;
+tax deferral program for elderly and disabled homeowners amendment | Ch. 103, Art. III; Ch. 103, Art. VII | 
+4-26-2016 | Burglar and holdup alarm systems amendment; alarm devices; false
+alarms amendment | Ch. 11A, Art. I; Ch. 11A, Art. II | 
+4-26-2016 | Vehicles and traffic amendment | Ch. 98 | 
+Effective 4-29-2016 | Zoning amendment | Ch. 118 | 
+Effective 4-29-2016 | Zoning amendment | Ch. 118 | 
+Effective 5-27-2016 | Zoning amendment | Ch. 118 | 
+Effective 6-10-2016 | Zoning amendment | Ch. 118 | 
+Effective 7-29-2016 | Zoning amendment | Ch. 118 | 
+9-13-2016 | Animals and fowl: determination, regulation and control of vicious
+dogs amendment | Ch. 15, Art. II | 
+Effective 10-28-2016 | Zoning amendment | Ch. 118 | 
+Effective 11-25-2016 | Zoning amendment | Ch. 118 | 
+1-24-2017 | Excavations and encroachments in public streets and grounds
+amendment | Ch. 96 | 
+Effective 1-27-2017 | Zoning amendment | Ch. 118 | 
+2-28-2017 | Arts Commission | Ch. 17A | 
+2-28-2017 | Parking Authority amendment | Ch. 73A | 
+2-28-2017 | Tax relief for elderly and disabled homeowners amendment | Ch. 103, Art. III | 
+Effective 3-24-2017 | Zoning amendment | Ch. 118 | 
+3-28-2017 | Noise amendment | Ch. 68 | 
+Effective 4-28-2017 | Zoning amendment | Ch. 118 | 
+Effective 4-28-2017 | Zoning amendment | Ch. 118 | 
+5-23-2017 | Municipal liability amendment | Ch. 67A | 
+Effective 6-13-2017 | Zoning amendment | Ch. 118 | 
+Effective 6-30-2017 | Zoning amendment | Ch. 118 | 
+Effective 7-28-2017 | Zoning amendment | Ch. 118 | 
+8-8-2017 | Bike/Walk Advisory Commission | Ch. 20 | 
+Effective 10-27-2017 | Zoning amendment | Ch. 118 | 
+Effective 10-27-2017 | Zoning amendment | Ch. 118 | 
+Effective 10-30-2017 | Zoning amendment | Ch. 118 | 
+11-14-2017 | Peddlers, street vendors and solicitors amendment | Ch. 77 | 
+Effective 11-24-2017 | Zoning amendment | Ch. 118 | 
+1-9-2018 | Arts Commission Amendment | Ch. 17A | 
+2-27-2018 | Streets and Sidewalks: Maintenance; Acceptance; Abandonment
+Amendment | Ch. 95, Art. I | 
+3-27-2018 | Retirement Benefits: 457 - Deferred Compensation Plan | Ch. 84, Art. II | 
+3-27-2018 | Retirement Benefits: 401(a) Defined Contribution Plan | Ch. 84, Art. III | 
+Effective4-13-2018 | Zoning Amendment | Ch. 118 | 
+Effective4-27-2018 | Zoning Amendment | Ch. 118 | 
+5-22-2018 | Billboards and Signs: Signs on Streets and Highways Amendment | Ch. 21, Art. II | 
+5-22-2018 | Taxation: Tax Relief for the Elderly and Disabled Homeowners
+Amendment | Ch. 103, Art. III | 
+5-22-2018 | Gas and Oil Exploration: Waste Products Within City | Ch. 50, Art. I | 
+Effective5-25-2018 | Zoning Amendment | Ch. 118 | 
+6-26-2018 | Fire Prevention Amendment | Ch. 42A | 
+Effective8-10-2018 | Zoning Amendment | Ch. 118 | 
+9-11-2018 | Parks and Recreation: Department of Recreation and Parks Amendment | Ch. 74, Art. III | 
+9-11-2018 | Economic and Community Development: Department Chief | Ch. 35B, Art. I | 
+9-11-2018 | Chief of Staff | Ch. 30B | 
+9-11-2018 | Operations and Public Works, Department of | Ch. 90 | 
+10-9-2018 | Alcoholic Beverages: Sunday Hours for Hotels, Restaurants and
+Clubs Amendment | Ch. 12, Art. I | 
+1-8-2019 | Parks and Recreation: Calf Pasture Beach, Transfer Station,
+Yard Waste Site and Other City Parks Amendment | Ch. 74, Art. I | 
+1-8-2019 | Environmental Hazards: Carry-Out Bags | Ch. 37, Art. I | 
+Effective2-15-2019 | Zoning Amendment | Ch. 118 | 
+Effective2-15-2019 | Zoning Amendment | Ch. 118 | 
+Effective3-15-2019 | Zoning Amendment | Ch. 118 | 
+5-14-2019 | Community Services Department | Ch. 33 | 
+6-11-2019 | Code of Ethics Amendment | Ch. 32 | 
+6-25-2019 | Fire Prevention Amendment | Ch. 42A | 
+Effective6-13-2019 | Zoning Amendment | Ch. 118 | 
+Effective6-28-2019 | Zoning Amendment | Ch. 118 | 
+Effective6-28-2019 | Zoning Amendment | Ch. 118 | 
+Effective6-28-2019 | Zoning Amendment | Ch. 118 | 
+7-23-2019 | Code of Ethics Amendment | Ch. 32 | 
+9-10-2019 | Environmental Hazards: Use and Sale of Polystyrene Products | Ch. 37, Art. II | 
+9-10-2019 | Code of Ethics Amendment | Ch. 32 | 
+9-24-2019 | Code of Ethics Amendment | Ch. 32 | 
+9-24-2019 | Code of Ethics Amendment | Ch. 32 | 
+9-24-2019 | Environmental Hazards: Single-Use Plastic Straws and Stirrers | Ch. 37, Art. III | 
+9-24-2019 | Taxation: Tax Relief for the Elderly and Disabled Homeowners
+Amendment | Ch. 103, Art. III | 
+10-22-2019 | Bike/Walk Advisory Commission Amendment | Ch. 20 | 
+10-22-2019 | Building Code Amendment | Ch. 26 | 
+10-22-2019 | Littering and Illegal Dumping Amendment | Ch. 95A | 
+10-22-2019 | Billboards and Signs: General Regulations Amendment | Ch. 21, Art. I | 
+10-22-2019 | Streets and Sidewalks: Maintenance; Acceptance; Abandonment
+Amendment | Ch. 95, Art. I | 
+
+

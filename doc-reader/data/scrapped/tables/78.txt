@@ -1,0 +1,1303 @@
+iii      zoning districts and zoning map
+https://ecode360.com/7030601
+0.8057847554791483
+R | Residential | 
+MR | Medium-Density Residential | 
+TC | Town Center | 
+C | Commercial | 
+HC | Highway Commercial | 
+LI | Light Industry | 
+RPC | Residential Planned Community | 
+CRD | Cluster Residential | 
+
+
+part        building code
+https://ecode360.com/8167964
+0.5398966860523774
+ |  | Section 101.4.1 Enforcement of this code and
+article is the responsibility of the Town Council. | 
+ |  | Section 101.4.2 Building Official | 
+ |  | The Council may appoint a Building Official
+known as the “Building Inspector” who shall serve at the
+direction of the Council. The Building Inspector shall be appointed
+solely on the basis of his qualifications and past experience. | 
+ |  | Section 101.4.3 Deputy Building Inspector | 
+ |  | The Council may hire a Deputy Building Inspector
+as deemed necessary. | 
+ |  | Section 101.4.4 Restrictions on Employees | 
+ |  | An officer or employee connected with building
+code enforcement except one whose only connection is as a member of
+the board established by this code and article shall not be financially
+interested in the furnishing of labor, material or appliances for
+the construction, alteration or maintenance of the building or of
+the making of plans or of specifications therefor, unless he is the
+owner of such building. Such officer or employee shall not engage
+in any other work which is inconsistent with his duties or with the
+interest of the Town. | 
+ |  | Section 101.4.5 Records | 
+ |  | The Building inspector shall keep or cause to
+be kept a record of the business of enforcement of this code and article.
+The records of the Building Inspector shall be open to public inspection. | 
+ |  | Section 101.4.6 Reports | 
+ |  | The Building Inspector shall submit, upon request
+and at least annually, a report covering the work of the Building
+Inspector or Inspectors during the preceding year. He shall incorporate
+in said report a summary of the decisions of the Board of Adjustment
+and Appeals during said period. | 
+
+
+iii      landscaping
+https://ecode360.com/7031618
+0.5307822622204741
+ | Institutional | 15% | 
+ | Industrial/Wholesale/Storage | 10% | 
+ | Office | 15% | 
+ | Commercial/Retail/Service | 15% | 
+ | Single-family residential | 10% | 
+ | Multifamily residential | 10% | 
+ | Manufactured home parks | 10% | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.45459310673932635
+ | Location | Side and rear yards | Rear yard | Rear yard | 
+ | Side corner setback | Same as principal | Same as principal | Same as principal | 
+ | Side interior setback | Same as principal | 5 feet | 2 feet | 
+ | Front yard setback | Same as principal | Same as principal | Same as principal | 
+ | Rear yard setback | Same as principal | 5 feet | 2 feet | 
+ | Distance from principle | N/A | 10 feet | 10 feet | 
+ | Distance from dwelling on residential lot | N/A | 20 feet | 20 feet | 
+ | Maximum height | Same as principal | 15 feet | 18 feet | 
+ | Maximum lot coverage | Same as principal | 25% of rear yard | 25% of rear yard | 
+
+
+part        permits
+https://ecode360.com/8167962
+0.4425442366825564
+New construction | $85 per square foot x 1.25%, with a minimum
+fee of $50 | 
+All other | 1.25% of the gross cost of the construction,
+rebuilding or renovation work, with a minimum fee of $50 | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.437703467577861
+ | Lot frontage | 50 | 100 | 100 | 
+ | Lot depth | 100 | 100 | 100 | 
+ | Each side yard | 10 | 10 | 10 | 
+ | Front yard setback | 35 or established building line | 35 or established building line | 35 or established building line | 
+ | Rear yard setback | 10 | 25 | 25 | 
+
+
+subdivision of land
+https://ecode360.com/7029775
+0.4349663776993823
+ | *Note: See residential street standards attached
+incorporated by reference into said subsection. | 
+
+
+general provisions
+https://ecode360.com/7029309
+0.4341405624859726
+ | Animals | Chapter 61 | 
+ | Building Construction | Chapter 75 | 
+ | Farming | Chapter 104 | 
+ | Firearms and Hunting | Chapter 110 | 
+ | Smoking Prohibited on Public Property | Chapter 112 | 
+ | Floodplain Management | Chapter 118 | 
+ | Licensing | Chapter 146 | 
+ | Mobile Homes | Chapter 162 | 
+ | Noise | Chapter 173 | 
+ | Property Maintenance | Chapter 210 | 
+ | Solid Waste | Chapter 232 | 
+ | Subdivision of Land | Chapter 238 | 
+ | Taxation | Chapter 243 | 
+ | Voting, Absentee | Chapter 267 | 
+ | Water | Chapter 270 | 
+ | Zoning | Chapter 275 | 
+ | Woodland Preservation | Chapter 276 | 
+ | Buffering, Screening and Landscaping | Chapter 277 | 
+
+
+i      bufferyards
+https://ecode360.com/7031597
+0.4335598767298693
+Agriculture | None | 2 | 2 | 1 | 2 | 2 | 2 | 
+Single-family residential | 2 | None | 2 | 3 | 3 | 3 | 4 | 
+Multifamily residential | 2 | None | None | 3 | 3 | 4 | 5 | 
+Institutional | 1 | 2 | 3 | None | 2 | 2 | 4 | 
+Town Center Commercial | 2 | 3 | 3 | 2 | None | 2 | 4 | 
+Highway Commercial | 2 | 4 | 4 | 3 | 2 | None | 3 | 
+Industrial | 2 | 5A | 5A | 3 | 3 | 3 | None | 
+
+
+subdivision of land
+https://ecode360.com/7029775
+0.431111406749875
+ | "I hereby certify that this map and the survey
+has been made under my supervision and complies with the Laws of the
+State of Delaware, the Ordinance of the Town of Dagsboro and that
+the error in closure does not exceed one in five thousand. I further
+certify that [all monuments and corner markers have been accurately
+set under my supervision] - [a bond has been given to the Town guaranteeing
+the setting of such monuments and corner markers which are being deferred
+for a specified period.] ** | 
+ | Licensed Engineer or Land Surveyor No." | 
+ | [** Strike out inappropriate phrase.] | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.39221608148950093
+ | Lot size (square feet) | 10,000* | 5,000 | 5,000 | 5,000 | 
+ | Lot area per dwelling unit (square feet) | 10,000* | 2,000 | N/A | N/A | 
+ | Lot frontage (feet) | 75 | 50 | 50 | 50 | 
+ | Lot depth |  |  |  |  | 
+ | Each side yard setback (feet) | 8 | N/A | 8 | 8 | 
+ | Front yard setback (feet) | 10* | N/A | 25 | 10 | 
+ | Rear yard setback* (feet) | 25 | N/A | 25 | 25 | 
+
+
+a         changing and establishing street names
+https://ecode360.com/7031736
+0.3919805823728686
+Route 382 to Omar Road | 
+Route 26 (East from Main Street to Town limits) to Vines Creek Road | 
+Prince George's Chapel Ave. to Chapel Lane | 
+Route 331 to Cemetery Road | 
+Piney Neck Road Ext. to Hudson Street | 
+Layfield Street to New Street | 
+Pine Street to Cannon Street | 
+Street west of Railroad (to Coastal) to Kollock Street | 
+
+
+part        building code
+https://ecode360.com/8167964
+0.38644087795952564
+ | Any person, firm corporation or agent who shall
+violate a provision of this code, or fail to comply therewith, or
+any of the requirements thereof, or who shall erect, construct, alter,
+install, demolish or move any structure, electrical, gas, mechanical
+or plumbing system, or has erected, constructed, altered, repaired,
+moved or demolished a building, structure, electrical, gas, mechanical
+or plumbing system, in violation of a detained statement or drawing
+submitted and permitted thereunder, shall be guilty of a misdemeanor
+punishable by a fine of not more than $50 or by imprisonment not exceeding
+30 days, or both such fine and imprisonment, as well as costs of enforcement,
+including attorney's fees. Each such person shall be considered guilty
+of a separate offense of each and every day or portion thereof during
+which any violation of any of the provision of this code is committed
+or continued, and upon conviction of any such violation such person
+shall be punished within the limits and as provided by state laws. | 
+ | Section 107.2. Unlawful Continuance: Any person who shall continue any work in or about the structure
+after having been served with a stop-work order, except such work
+as that person is directed to perform to remove a violation or unsafe
+conditions, shall be liable to a fine of not less than $25 nor more
+than $50. Each day that a violation continues shall be deemed a separate
+offense. | 
+
+
+part        building code
+https://ecode360.com/8167964
+0.3863749412906562
+ | There is hereby established a Board to be called
+the “Construction Board of Adjustment and Appeals” which
+shall consist of five members and two alternates. Said Board shall
+be appointed by the Town Council. | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.37392959625309363
+ | Building coverage | 35% | 
+
+
+part        building code
+https://ecode360.com/8167964
+0.37319122140680483
+ | Every permit issued shall become invalid unless
+the work authorized by such permit is commenced within six months
+after its issuance, or if the work authorized by such permit is suspended
+or abandoned for a period of 12 months after the work is commenced. | 
+
+
+property maintenance
+https://ecode360.com/7029746
+0.3683815235779234
+ | 101.1 | Title. These regulations shall be known as the Property Maintenance
+Code of the Town of Dagsboro, hereinafter referred to as "this Code." | 
+ | 103.2 | Appointment. The Code Official shall be nominated by the Mayor
+and appointed by confirmation by the Dagsboro Town Council and shall
+serve at the will of the Council. | 
+ | 103.2.1 | Agents. The Code Official shall have the authority to appoint
+or engage employees or agents who shall have the power delegated to
+the Code Official. Such agents may be the Town Engineer or employees
+of the Town Engineer engaged by the Town Council. | 
+ | 103.5 | Fees. The fees for activities, services and inspections performed
+by the Code Official and agents under this Code are to be set forth
+by resolution of the Town Council. | 
+
+
+water
+https://ecode360.com/7030363
+0.3664571401242558
+ | Phase 1: | Unregulated water usage permitted | 
+ | Phase 2: | Regulated activities permitted only between
+the hours of 6:00 a.m. to 9:00 am. and 6:00 p.m. to 9:00 p.m. each
+day | 
+ | Phase 3: | Regulated activities permitted between the hours
+of 6:00 a.m. to 9:00 a.m. on alternate days based on the customer's
+street address. Those having even-numbered street addresses will be
+allowed regulated activities on even-numbered days, and those customers
+having odd-numbered street addresses will be permitted regulated activities
+on odd-numbered days | 
+ | Phase 4: | Regulated activities prohibited at all times | 
+
+
+part        building code
+https://ecode360.com/8167964
+0.36106551395541875
+ | Three members of the Board shall constitute
+a quorum. In varying the application of any provision of this code
+or in modifying an order of the Building Inspector, affirmative votes
+of the majority present, but not less than three affirmative votes,
+shall be required. In the event that regular members are unable to
+attend a meeting, the alternate members, if appointed and present,
+shall vote. | 
+
+
+i      definitions  applicability and general provisions
+https://ecode360.com/9227157
+0.3405890260588007
+ | Residential | 0 to 1.25 DUs/acre | 30% | 
+ |  | 1.25 to 2.5 DUs/acre | 40% | 
+ |  | 2.5 to 5 DUs/acre | 50% | 
+ |  | 5 to 10 DUs/acre | 60% | 
+ | Nonresidential | 1 to 10 acres | 20% | 
+ |  | 10 to 25 acres | 30% | 
+ |  | 25 to 50 acres | 40% | 
+ |  | More than 50 acres | 50% | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.3404118706157669
+ | Lot area | 15,000 square feet | 
+ | Lot frontage | 100 feet | 
+ | Lot depth | 150 feet | 
+ | Each side yard | 10 feet | 
+ | Front yard setback | 35 feet | 
+ | Rear yard setback | 25 feet | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.3343782458825615
+ | All uses 43,560 (1 acre) | 150 | 200 | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.3183146561600148
+ | NOTE: | 
+ | *Review additional requirements below. | 
+
+
+part        building code
+https://ecode360.com/8167964
+0.31732615360078353
+ | § 101.1 | Insert: Town of Dagsboro | 
+ | § 1612.3 | Insert: Town of Dagsboro | 
+ | § 1612.3 | Insert: [June 16, 1995] | 
+ | § 3410.2 | Insert: November, 1, 2005 [effective date] | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.30308492304103507
+ | All uses 50 | 20 | 20 | 
+
+
+iv      district regulations
+https://ecode360.com/7030606
+0.30308492304103507
+ | All uses | 42 | 3 | 
+
+
+a         gas franchise agreement
+https://ecode360.com/7031740
+0.2946990033650979
+ | Chesapeake Utilities Corporation, Inc.
+Attn: Director of Natural Gas Operations
+350 S. Queen Street
+Dover, DE 19904 | 
+
+
+v      general provisions
+https://ecode360.com/7031010
+0.28262234141785725
+ | Buildings measured along the center line shall
+provide one opening at ground level at least every 250 feet. This
+opening shall be a minimum of 15 feet in clear width and height and
+at an elevation enabling emergency vehicles access through the opening. | 
+
+
+a         gas franchise agreement
+https://ecode360.com/7031740
+0.2814611574122844
+ | The Town of Dagsboro
+Attn: Town Manager
+504 Main Street
+P.O. Box 420
+Dagsboro, DE 19939 | 
+
+
+part        building code
+https://ecode360.com/8167964
+0.2754803079458604
+ | § R101.1 | Insert: Town of Dagsboro | 
+ | Table R301.2(1) | Insert: 120 mph (Basic wind speed) | 
+
+
+v      schedules
+https://ecode360.com/7030300
+0.2744708759960211
+Prince Georges Frive[Added 3-31-2008] | East | Amory Road | 
+Smith Drive[Added 3-31-2008] | South | Clayton Street | 
+Stone Lane[Added 3-31-2008] | North | Vines Creek Road | 
+Sussex Street | North | Warrington Street | 
+Timmons Street[Added 3-31-2008] | West | Waple Street | 
+Ward Lane[Added 3-31-2008] | East | Chapel Lane | 
+Warrington Street | West | Sussex Street | 
+
+
+v      general provisions
+https://ecode360.com/7031010
+0.26867700571418796
+ | Lot frontage on street: | 100 feet | 
+ | Lot frontage per lot: | 20 feet | 
+ | Lot depth: | 125 feet | 
+ | Front yard: | 10 feet | 
+ | Side yard: | 20 feet | 
+ | Rear yard: | 20 feet | 
+ | Height: | 35 feet | 
+ | Maximum lot coverage: | N/A | 
+
+
+v      schedules
+https://ecode360.com/7030300
+0.2594477294956993
+Route 20/Armory Road | 35 | From Route 26 to the southern limits of the
+Town | 
+Main Street | 35 | From Vines Creek Road to the Frankford Town
+boundary | 
+
+
+iii      tree mitigation
+https://ecode360.com/9227185
+0.2546650368961815
+ | 25 or larger | 5 | 3 | 
+ | 17 to 24 | 3 | 2 | 
+ | 9 to 16 | 3 | 1.75 | 
+ | 8 or less | 2 | 1.75 | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+0.23784104346722118
+ | (a) | Recess | (a) | Clerestory | (a) | Stone, masonry or tile paving in entry | 
+ | (b) | Overhang | (b) | Ornamental lighting fixtures | (b) | Ornamental building name or address | 
+ | (c) | Canopy | (c) | Large entry door(s) | (c) | Pots or planters with flowers | 
+ | (d) | Portico |  |  | (d) | Seating | 
+ | (e) | Porch |  |  |  |  | 
+
+
+impact fees
+https://ecode360.com/7029626
+0.23675989289425234
+ | Water flow per year in gallons: (production
+days x 300 gal/day/EDU) | 
+
+
+voting  absentee
+https://ecode360.com/7030312
+0.2160611726389872
+"I do solemnly swear (affirm) that I will be
+absent from the Town of Dagsboro on the day of election because of
+being: (  ) In the public service of the United States or
+this state, (  ) In the armed forces of the United States
+or the merchant marine of the United States, or attached to and serving
+with the armed forces of the United States in the American Red Cross,
+Society of Friends or the United Service Organization, (  )
+Unavoidably absent from the municipality, (  ) Sick or physically
+disabled, (  ) Absent while on vacation. For the reason
+indicated, I cannot appear at the polling place in the municipality
+in which I am a qualified voter. I further swear (affirm) that I marked
+my ballot in secret. | 
+
+
+voting  absentee
+https://ecode360.com/7030312
+0.20212956429863607
+This carrier envelope contains absentee voter
+ballots and shall be opened only at the polls of said municipal election
+on election day while said polls are open. This carrier envelope and
+the enclosed voucher envelope(s) shall be preserved by the Board of
+Election and at the close of the count, shall be placed in the ballot
+box, into which the ballots have been put when read, and returned
+therewith. | 
+
+
+v      general provisions
+https://ecode360.com/7031010
+0.20047311197133372
+ | Lot depth: | 150 feet | 
+ | Front yard: | 25 feet | 
+ | Side yard: | 20 feet | 
+ | Rear yard: | 20 feet | 
+ | Height: | 35 feet | 
+ | Maximum lot coverage: | 65% | 
+
+
+a         gas franchise agreement
+https://ecode360.com/7031740
+0.19453705169139
+ | Robert V. Witsil, Jr.
+120 South Bedford Street
+P.O. Box 799
+Georgetown, DE 19947 | 
+
+
+v      schedules
+https://ecode360.com/7030300
+0.18267258257999738
+Ward Lane | Northbound | From the easterly access from Vines Creek Road/Rt.
+26 to the westerly access to Vines Creek Road/Rt. 26 | 
+
+
+a         cable television franchise
+https://ecode360.com/7031665
+0.16344372660199477
+ | Town of Dagsboro
+PO Box 420
+Dagsboro, DE 19939 | 
+
+
+a         cable television franchise
+https://ecode360.com/7031665
+0.16273193015302237
+ | With a copy to: | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.15475372453009326
+Undesirable | Desirable | 
+
+
+a         cable television franchise
+https://ecode360.com/7031665
+0.14768116207406987
+ | Mediacom Delaware LLC
+Attn: Legal Department
+100 Crystal Run Road
+Middletown, NY 10941 | 
+
+
+v      general provisions
+https://ecode360.com/7031010
+0.13150690442164542
+ | 90° | 22 | 25 | 
+ | 60° | 18 | 20 | 
+ | 45° | 15 | 20 | 
+ | 30° | 12 | 18 | 
+ | Parallel | 12 | 18 | 
+
+
+a         cable television franchise
+https://ecode360.com/7031665
+0.10805484625799841
+ | Mediacom Delaware LLC
+Attn: Regional Vice President
+1613 Nantahala Beach Road
+Gulf Breeze, FL 32563 | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+0.08468693766317839
+Front | End | Rear | 
+
+
+a         gas franchise agreement
+https://ecode360.com/7031740
+0.0607398980855329
+ | William A. Denman, Esquire
+Parkowski, Guerke & Swayze
+P.O. Box 598
+Dover, DE 19903 | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ |  | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ |  | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ |  |  | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ |  |  | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ |  | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ |  | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ |  |  |  | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+iv      residential design
+https://ecode360.com/8176619
+0.03378798866384658
+ | 
+
+
+animals
+https://ecode360.com/7029360
+0.03279742512237997
+Pigs | 
+Chickens | 
+Horses | 
+Pigeons | 
+Goats | 
+Fowl | 
+Livestock | 
+
+
+iii      background  purpose  applicability  authority  recognizing history content
+https://ecode360.com/8167963
+0.003216240501808465
+ | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ |  | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ |  | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ |  | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ |  | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ |  | 
+
+
+v      multifamily design
+https://ecode360.com/8176801
+-0.03680312891575516
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ | 
+
+
+vi      commercial
+https://ecode360.com/8176896
+-0.049426357327768566
+ |  | 
+
+
+iii      landscaping
+https://ecode360.com/7031618
+-0.05214521422290605
+ | 
+
+
+iii      landscaping
+https://ecode360.com/7031618
+-0.05214521422290605
+ | 
+
+
+viii      utilities stormwater
+https://ecode360.com/8177272
+-0.059630899470950766
+ |  | 
+
+
+ii      screening
+https://ecode360.com/7031613
+-0.06675863678873693
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ |  | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+vii      signage
+https://ecode360.com/8177141
+-0.06826130085689827
+ | 
+
+
+i      bufferyards
+https://ecode360.com/7031597
+-0.09802478349689837
+ | 
+
+
+i      bufferyards
+https://ecode360.com/7031597
+-0.09802478349689837
+ | 
+
+
+dl      disposition list
+https://ecode360.com/7031782
+-1.1661197768495097
+Res. | 1-31-2005 | Zoning amendment | Ch. 275 | 
+Res. | 2-28-2005 | Impact fees amendment | Ch. 130 | 
+Ord. No. 76 | 2-28-2005 | Water | Ch. 270 | 
+Ord. | 2-28-2005 | Water amendment | Ch. 270 | 
+Res. | 2-28-2005 | Water rates and charges amendment | NCM | 
+Ord. No. 2005-1 | 5-23-2005 | Adoption of Code | Ch. 1, Art. I | 
+Ord. No. 2005 | 6-27-2005 | Zoning amendment | Ch. 275 | 
+General Assembly | 7-12-2005 | Charter amendment | Section 13 | 
+General Assembly | 7-12-2005 | Charter amendment | Section 18 | 
+Ord. | 7-25-2005 | Building construction amendment | Ch. 75 | 
+Ord. | 9-28-2005 | Planning and Zoning Commission amendment | Ch. 34 | 
+Ord. | 9-28-2005 | Zoning amendment | Ch. 275 | 
+Ord. | 9-28-2005 | Subdivision of land amendment | Ch. 238 | 
+Ord. | 9-28-2005 | Zoning amendment | Ch. 275 | 
+Ord. | 10-24-2005 | Zoning amendment | Ch. 275 | 
+Ord. | 10-24-2005 | Zoning amendment | Ch. 275 | 
+Ord. | 10-24-2005 | Zoning amendment | Ch. 275 | 
+Ord. | 10-24-2005 | Zoning amendment | Ch. 275 | 
+Ord. | 11-28-2005 | Subdivision of land amendment | Ch. 238 | 
+Ord. | 11-28-2005 | Zoning amendment | Ch. 275 | 
+Ord. | 12-19-2005 | Disposal of garbage, trash and rubbish amendment | Ch. 232, Art. I | 
+Ord. | 12-19-2005 | Planning and Zoning Commission amendment | Ch. 34 | 
+Ord. | 12-19-2005 | Vehicles and traffic amendment | Ch. 260 | 
+Ord. | 12-19-2005 | Numbering of buildings amendment | Ch. 79 | 
+Res. | 1-23-2006 | Business licenses amendment | Ch. 146, Art. I | 
+Res. | 1-23-2006 | Moratorium | NCM | 
+Res. | 2-27-2006 | Zoning amendment | Ch. 275 | 
+Res. | 2-27-2006 | Zoning amendment | Ch. 275 | 
+Res. | 2-27-2006 | Zoning amendment | Ch. 275 | 
+Res. | 2-27-2006 | Vehicles and traffic amendment | Ch. 260 | 
+Ord. | 2-27-2006 | Planning and Zoning Commission amendment | Ch. 34 | 
+Ord. | 2-27-2006 | Zoning amendment | Ch. 275 | 
+Ord. | 3-20-2006 | Licensing amendment | Ch. 146 | 
+Res. | 3-20-2006 | Licensing amendment | Ch. 146 | 
+Ord. | 3-20-2006 | Building construction amendment | Ch. 75 | 
+Ord. | 3-20-2006 | Impact fees amendment | Ch. 130 | 
+Res. | 3-27-2006 | Zoning amendment | Ch. 275 | 
+Res. | 3-27-2006 | Zoning amendment | Ch. 275 | 
+Res. | 3-27-2006 | Zoning amendment | Ch. 275 | 
+Res. | 3-27-2006 | Vehicles and traffic amendment | Ch. 260 | 
+Ord. | 4-24-2006 | Building construction amendment | Ch. 75 | 
+Ord. | 4-24-2006 | Taxation: Gross receipts rental tax | Ch. 243, Art. II | 
+Ord. | 7-24-2006 | Building construction amendment | Ch. 75 | 
+Ord. | 7-24-2006 | Zoning amendment | Ch. 275 | 
+Ord. | 7-24-2006 | Impact fees amendment | Ch. 130 | 
+Ord. | 8-28-2006 | Noise amendment | Ch. 173 | 
+Ord. | 8-28-2006 | Zoning amendment | Ch. 275 | 
+Ord. | 11-20-2006 | Zoning amendment | Ch. 275 | 
+Ord. | 11-20-2006 | Zoning amendment | Ch. 275 | 
+Ord. | 12-18-2006 | Zoning Map amendment | NCM | 
+Ord. | 3-26-2007 | Property maintenance: cleaning of lots amendment | Ch. 210, Art. I | 
+Ord. | 4-23-2007 | Impact fees amendment | Ch. 130 | 
+Ord. | 4-23-2007 | Vehicles and traffic amendment | Ch. 260 | 
+Ord. | 4-23-2007 | Noise amendment | Ch. 173 | 
+Ord. | 5-21-2007 | Subdivision of land amendment | Ch. 238 | 
+Ord. | 5-21-2007 | Zoning amendment | Ch. 275 | 
+Ord. | 5-21-2007 | Mobile homes amendment | Ch. 162 | 
+Ord. | 6-25-2007 | Building construction: adoption of standards
+amendment | Ch. 75, Art. II | 
+Ord. | 8-27-2007 | Zoning amendment; buffering, screening and landscaping | Chs. 275; 276 | 
+Ord. | 8-27-2007 | Business licenses amendment | Ch. 146, Art. I | 
+Ord. | 9-24-2007 | Gas franchise agreement | Ch. A283 | 
+Ord. | 11-19-2007 | Zoning amendment | Ch. 275 | 
+Ord. | 11-19-2007 | Woodland preservation | Ch. 277 | 
+Ord. | 1-28-2008 | Buffering, screening and landscaping amendment | Ch. 276 (Editor's Note only) | 
+Ord. | 2-25-2008 | Extension of conditional use approval | NCM | 
+Ord. | 3-31-2008 | Vehicles and traffic amendment | Ch. 260 | 
+Ord. | 3-31-2008 | Development design standards | Ch. 75, Part 3 | 
+Ord. | 4-28-2008 | Woodland preservation amendment | Ch. 277 (Editor's Note only) | 
+Ord. | 5-19-2008 | Planning and Zoning Commission amendment | Ch. 34 | 
+Ord. | 9-22-2008 | Request for General Assembly approval of Charter
+amendment | NCM | 
+Ord. | 9-22-2008 | Zoning amendment | Ch. 275 | 
+Ord. | 10-27-2008 | Planning and Zoning Commission amendment | Ch. 34 | 
+Ord. | 10-27-2008 | Zoning amendment | Ch. 275 | 
+Ord. | 10-27-2008 | Zoning amendment | Ch. 275 | 
+Ord. | 10-27-2008 | 2008 Comprehensive Development Plan Update | NCM | 
+Ord. | 12-15-2008 | Water amendment | Ch. 270 | 
+Ord. | 1-26-2009 | Water amendment | Ch. 270 | 
+Ord. | 2-23-2009 | Zoning amendment | Ch. 275 | 
+Res. | 3-23-2009 | Annexation fees amendment | NCM | 
+Ord. | 4-27-2009 | Comprehensive Development Plan Update | NCM | 
+Ord. | 4-27-2009 | Planning and Zoning Commission amendment; development
+design standards amendment; zoning amendment; and woodland preservation
+amendment | Chs. 34, 75, Part 3; 275, 277 | 
+General Assembly | 6-15-2009 | Charter amendment | Sections 6 and 7 | 
+Ord. | 6-22-2009 | Zoning amendment | Ch. 275 | 
+Ord. | 6-22-2009 | Impact fees amendment | Ch. 130 | 
+Ord. | 11-16-2009 | Zoning amendment | Ch. 275 | 
+Ord. | 4-26-2010 | Zoning amendment | Ch. 275 | 
+Ord. | 6-28-2010 | Water amendment | Ch. 270 | 
+ | 7-1-2010 | Zoning table amendment | Ch. 275 | 
+Ord. | 3-28-2011 | Water amendment | Ch. 270 | 
+Ord. | 5-23-2011 | Zoning amendment | Ch. 275 | 
+Ord. | 6-27-2011 | Water amendment | Ch. 270 | 
+Ord. | 6-27-2011 | Zoning amendment | Ch. 275 | 
+Ord. | 8-22-2011 | Building construction permits amendment | Ch. 75, Part 1 | 
+Ord. | 8-22-2011 | Property maintenance: adoption of standards | Ch. 210, Art. I | 
+Ord. | 9-26-2011 | Unsafe buildings repealer | Ch. 83, reference only | 
+Ord. | 9-26-2011 | Water amendment | Ch. 270 | 
+Ord. | 6-4-2012 | Zoning amendment | Ch. 275 | 
+Ord. | 4-22-2015 | Cable television franchise | Ch. A281 | 
+Ord. | 5-20-2013 | Zoning amendment | Ch. 275 | 
+Ord. | 2-24-2014 | Civil penalties amendment | Ch. 1, Art. I; Ch. 61; Ch. 75; Ch. 110; Ch. 118; Ch. 146; Ch. 173; Ch. 210; Ch. 232; Ch. 238; Ch. 243; Ch. 267; Ch. 270; Ch. 275; Ch. 276; Ch. 277 | 
+Ord. | 7-28-2014 | Zoning amendment | Ch. 275 | 
+Ord. | 10-27-2014 | Business licenses amendment | Ch. 146, Art. I | 
+Ord. | 10-27-2014 | Business licenses amendment | Ch. 146, Art. I | 
+Ord. | 12-8-2014 | Floodplain management | Ch. 118 | 
+Ord. | 2-23-2015 | Planning and Zoning Commission amendment | Ch. 34 | 
+Ord. | 6-22-2015 | Civil penalties amendment | Ch. 1, Art. I; Ch. 104; Ch. 162; Ch. 275 | 
+Ord. | 10-26-2015 | Freedom of Information Act requests | Ch. 120 | 
+Ord. | 5-20-2016 | Business licenses amendment | Ch. 146, Art. I | 
+Ord. | 12-12-2016 | Subdivision of land amendment | Ch. 238 | 
+Ord. | 1-23-2017 | Zoning amendment | Ch. 275 | 
+Ord. | 2-27-2017 | Planning and Zoning Commission amendment | Ch. 34 | 
+Ord. | 2-27-2017 | General provisions: civil penalties for violations amendment;
+smoking: smoking on public property | Ch. 1, Art. II; Ch. 112, Art. I | 
+Ord. | 3-20-2017 | Zoning amendment | Ch. 275 | 
+Res. | 5-15-2017 | Final Site Plan Approval | NCM | 
+Ord. | 7-17-2017 | Zoning Map Amendment | NCM | 
+Res. | 7-17-2017 | Rescinding Parcel from Governmental Jurisdiction of Town | NCM | 
+Ord. | 10-23-2017 | Private Activity Bond | NCM | 
+Res. | 3-26-2018 | Zoning Amendment | Ch. 275 | 
+Ord. | 4-16-2018 | Zoning Map Amendment | NCM | 
+Ord. | 7-16-2018 | Zoning Amendment | Ch. 275 | 
+Res. | 10-22-2018 | Water Rates and Charges Amendment | NCM | 
+Ord. | 12-17-2018 | Bond | NCM | 
+Ord. | 3-18-2019 | Zoning Amendment | Ch. 275 | 
+Res. | 4-15-2019 | Downtown Development District | NCM | 
+Res. | 10-21-2019 | Water Rates and Charges | NCM | 
+Ord. | 1-27-2020 | Property Maintenance: Cleaning of Lots Amendment | Ch. 210, Art. I | 
+Ord. | 1-27-2020 | Comprehensive Plan | NCM | 
+
+

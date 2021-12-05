@@ -1,0 +1,123 @@
+vehicles and traffic
+https://ecode360.com/12369443
+0.48763182666923643
+Bailey Avenue | South | A distance of 600 feet from the intersection
+of Bailey Avenue with Main Street | 
+Bailey Avenue | West | From the intersection of Prospect Street a distance
+of 400 feet | 
+Catoonah Street | North and south | Extending from Main Street in a westerly direction
+to High Ridge Avenue | 
+East Ridge | Both | From Prospect Street to Route 102 | 
+Governor Street | Both | Extending from Main Street to East Ridge Avenue | 
+Governor Street | Both | From Main Street to Prospect Ridge | 
+High Ridge Avenue | East | From the intersection of Barry Avenue with High
+Ridge Avenue southerly to Byron Avenue | 
+Main Street | East | From the intersection of Governor Street and
+Main Street to the intersection of Market Street and Main Street | 
+Main Street | East | From the south side of a private driveway at
+No. 147 Main Street and extending north to the intersection of Prospect
+Street | 
+Main Street | East | Directly in front of the Town Hall, a distance
+of 50 feet south from the intersection of Bailey Avenue with Main
+Street | 
+Main Street | West | From the intersection of King's Lane and Main
+Street north for a distance of 300 feet and south for a distance of
+150 feet | 
+Main Street | West | To a point opposite the private driveway on
+the east side of Main Street at No. 147 Main Street and extending
+north to the intersection of Prospect Street | 
+Main Street | West | Directly in front of the St. Stephen's Church,
+a distance of 65 feet, being the space between white lines | 
+Market Street | Both | From Main Street to East Ridge | 
+Pickett's Ridge Road | South | Extending from its intersection with Connecticut
+Route 7 to the Redding Town line, between May 15 and September 15
+of each year | 
+Prospect Street | South | Extending from Main Street in an easterly direction
+to the railroad track located on said side of Prospect Street | 
+Stonehenge Road | East | Northerly from the intersection of Route 7 to
+the intersection of Still Road | 
+Stonehenge Road | West | Northerly for a distance of 600 feet from the
+intersection of Route 7 | 
+Stonehenge Road | West | Southerly for a distance of 165 feet from the
+intersection of Still Road | 
+
+
+vi      street construction standards
+https://ecode360.com/12369146
+0.23744760150725164
+ | 0.50% to 1% | 250 feet | 
+ | 1% to 2% | 300 feet | 
+ | 2% to 5% | 350 feet | 
+ | 5% to 8% | 300 feet | 
+ | 8% to 10% | 250 feet | 
+
+
+dl      disposition list
+https://ecode360.com/12623126
+0.2340095191583283
+9-4-2019 | Boards, Commissions and Committees: Planning and Zoning Commission
+Amendment | Ch. 19, Art. IV | 12 | 
+9-18-2019 | Taxation Amendment | Ch. 317 | 12 | 
+3-4-2020 | Buildings, Demolition of | Ch. 136 | 12 | 
+
+
+dt      derivation table
+https://ecode360.com/14211820
+0.20521712271165718
+NCM | = | Not Code material (legislation is
+not general or permanent in nature). | 
+REP | = | Repealed effective with adoption of Code; see Ch. 1, Art. I. | 
+NI | = | Not included in Code but saved from
+repeal. | 
+NLP | = | New legislation is pending. | 
+
+
+dl      disposition list
+https://ecode360.com/12623126
+0.14479284453655722
+4-6-2005 | Vehicles, motor-driven amendment | Ch. 345, Art. I | 
+5-17-2006 | Vehicles, motor-driven amendment | Ch. 345, Art. I | 
+5-31-2006 | Open space use amendment | Ch. 262 | 
+11-1-2006 | Vehicles and traffic amendment | Ch. 340 | 
+11-7-2006 | Charter amendment | Charter | 
+3-21-2007 | Water main extensions | Ch. 355, Art. II | 
+3-21-2007 | Historic districts amendment | Ch. 208 | 
+7-25-2007 | Fire Department Inspections and Plan Review Fee Schedule | Ch. 170 | 
+11-28-2007 | Keeping livestock on residential property | Ch. 120, Art. II | 
+4-23-2008 | Citations: zoning violations | Ch. 24, Art. I | 
+12-10-2008 | Economic Development Commission amendment | Ch. 19, Art. X | 
+3-18-2009 | Sex offenders: child safety zones | Ch. 300, Art. I | 
+6-3-2009 | Taxation: waivers | Ch. 317, Art. VIII | 
+6-17-2009 | Driveways amendment | Ch. 155 | 
+9-30-2009 | Tax deferment for the elderly amendment | Ch. 317, Art IV | 
+3-17-2010 | Adoption of Code | Ch. 1, Art. II | 
+11-2-2010 | Charter amendment | Charter | 
+4-25-2012 | Elections amendment | Ch. 43 | 
+3-19-2014 | Blighted premises | Ch. 235 | 
+7-23-2014 | Authorities: Western Connecticut Council of Governments | Ch. 12, Art. IV | 
+7-23-2014 | Fire zones amendment | Ch. 183 | 
+7-23-2014 | Vehicles and traffic amendment | Ch. 340 | 
+11-4-2014 | Charter amendment | Charter | 
+3-18-2015 | Fire prevention: sprinkler systems amendment | Ch. 175, Art. II | 
+2-17-2016 | Conservation Commission amendment | Ch. 19, Art. VI | 
+5-4-2016 | Citations: conservation violations; open space use amendment | Ch. 24, Art. II; Ch. 262 | 
+11-16-2016 | Peddling and soliciting | Ch. 274 | 
+12-13-2017 | Animals: keeping of livestock on residential property amendment;
+keeping of hooved animals on residential property of 1.5 acres or
+less | Ch. 120, Art. II; Ch. 120, Art. III | 
+1-3-2018 | Citations: wetlands violations | Ch. 24, Art. III | 
+7-25-2018 | Peddling and Soliciting Amendment | Ch. 274 | 
+8-13-2018 | Boards, Commissions and Committees: Economic and Community Development
+Commission Amendment | Ch. 19, Art. X | 
+11-6-2018 | Charter Amendment | Charter | 
+11-28-2018 | Boards, Commissions and Committees: Pensions Commission Amendment | Ch. 19, Art. II | 
+11-28-2018 | Peddling and Soliciting Amendment | Ch. 274 | 
+
+
+noise
+https://ecode360.com/12368439
+0.0979165821252096
+ | Residential zone emitter to: | 55 dbA/45 dbA | 55 dbA/45 dbA | 
+ | Nonresidential zone emitter to: | 55 dbA/45 dbA | 62 dbA/45 dbA | 
+
+
