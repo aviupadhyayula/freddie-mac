@@ -1,0 +1,101 @@
+idx,city,correctness,top_1,top_2,top_3
+0,City of Lincoln (Washington County),2,DIVISION 4.4      Commercial Mixed-Use District Regulations,DIVISION 4.7      Planned Unit Development (PUD),DIVISION 4.2      Agricultural District Regulations
+1,City of Albany (Alameda County),1,Chapter 20      Planning and Zoning,Chapter 5      General Licensing and Business Regulations,Chapter 22      Subdivision
+2,City of Avalon (Los Angeles County),2,Chapter 5-20      Medical Cannabis Delivery Service Businesses and Other Cannabis Businesses and Activity,Article 2      Minimum Lot Area,Article 1      Commercial Zones
+3,City of Compton (Los Angeles County),1,Chapter 30      Zoning,Chapter 9      General Licensing,"Chapter 10      Cable, Video, and Telecommunications Service Providers"
+4,City of Firebaugh (Fresno County),1,Chapter 25      Zoning,Chapter 4      Licenses and Business Regulations,Chapter 1      General
+5,City of Oakdale (Stanislaus County),1,Chapter 36      Zoning                   [1],Article IX      Local Benefit Districts,"Article VIII      Dedications. Reservations, and Development Fees"
+6,Town of Ashford (Windham County),1,Article IV      Zoning Districts,Chapter 8      Agriculture Commission,Article I      General Provisions
+7,Town of Bethany (New Haven County),2,Article I      General Provisions,Article I      Land-Use-Related Applications,Chapter 20      Conservation Commission
+8,Town of Bethel (Fairfield County),2,Chapter 29      Transit District,Chapter 7      Economic Development Commission,Chapter 21      Resources Recovery Authority
+9,Town of Bethlehem (Litchfield County),3,Article I      General Provisions,Article III      Recycling,Article III      Historic District Commission
+10,Town of Branford (New Haven County),3,Article I      General Provisions,Article IV      Design Standards,Chapter 82      Resource Recovery Authority
+11,Town of Brookfield (Fairfield County),3,Chapter 15      Conservation Commission,Chapter 26      Historic District,Chapter 78      Adult-Oriented Businesses
+12,Town of Brooklyn (Windham County),3,Chapter 4      Licensing and Business Regulations,Chapter 20      Fees for Land Use Applications,"Article III      COMMISSIONS, COUNCILS AND AUTHORITIES"
+13,Town of Burlington (Hartford County),3,Chapter 12      Conservation Commission,Chapter 21      Economic Development Commission,Chapter 1      General Provisions
+14,Town of Canton (Hartford County),3,Article I      Canton Center,Chapter 149      Conservation Commission,Chapter 245      Farming
+15,Town of Clinton (Middlesex County),3,Article VI      Economic Development Commission,Chapter 296      Fees,Article III      Loitering or Drinking in Public Areas
+16,Town of Colchester (New London County),3,Chapter 136      Town Center Neighborhood Strategic Plan,Article XIV      Agriculture Commission,Chapter 4      Adult-Oriented Businesses
+17,Town of Cromwell (Middlesex County),3,Chapter 12      Economic Development Commission,Article I      Connections and Use,Chapter 57      Senior Services Commission
+18,City of Derby (New Haven County),1,Article III      Zoning Districts and District Requirements,Article IV      General Use Requirements and Miscellaneous Provisions,Article VI      Limited Residential Parking Permits in Griffin Hospital Area
+19,Town of Durham (Middlesex County),3,DIVISION 5      Agriculture Commission,Article III      Historic District,Article I      In General
+20,Town of East Granby (Hartford County),3,Chapter 225      Parks and Recreation Areas,Article IV      Permit for Use of Transfer Station/Recycling Center,Article I      (Reserved)
+21,Town of East Hampton (Middlesex County),3,Chapter 6      Agriculture Commission,Article IX      Business Incentive Program,Chapter 211      Historic Districts
+22,Town of Easton (Fairfield County),2,Chapter 10      Agricultural Commission,Article I      General Provisions,Chapter 147      Planning and Zoning Commission
+23,Town of Ellington (Tolland County),2,Article I      Fire Zones,Chapter 320      Hockanum River Watershed Sewerage System,Article IV      Land Use Fees
+24,Town of Fairfield (Fairfield County),3,Chapter 26      Historic Districts,"Chapter 93      Swimming Pools, Residential",Article I      General Provisions
+25,Town of Farmington (Hartford County),2,Chapter 9      Conservation and Inland Wetlands Commission,Chapter 20      Economic and Business Development,Chapter 140      Parking Lots
+26,Town of Griswold (New London County),2,Chapter 144      Fees for Land Use Application Processing and Review,Chapter 29      Economic Development Commission,Article V      Business Incentive Tax Abatements
+27,Town of Guilford (New Haven County),2,Chapter 187      Historic District,Chapter 3      Agricultural Commission,Article II      Planning and Zoning; Inland Wetlands; and Administrative Fees
+28,Town of East Haddam (Middlesex County),2,Article VIII      Agriculture Commission,Chapter 226      Historic Districts,Article VIII      Tax and Business Incentive Program
+29,Town of Haddam (Middlesex County),1,"Article VII      Residential Zones — R-1, R-2 and R-2A",Article IX      Higganum Village District — HVD,Article VIII      Commercial Zones — C-1
+30,Town of Hebron (Tolland County),3,Article XVIII      Hebron Village Green District,Article V      Conservation Commission,Chapter 30      Elections and General Government
+31,Town of Killingworth (Middlesex County),2,Article XII      Commercial Districts,Article VI      Rural Residence District,Article VIII      Conservation Subdivision
+32,Town of Lyme (New London County),2,Article 6      Commercial Districts,Article 4      Rural Districts,Article 3      Zoning Districts
+33,Town of Manchester (Hartford County),2,Article II      Downtown Special Services District,Article XI      Economic Development Commission                   [1],CHAPTER XVII      PLANNING AND ZONING
+34,Town of Mansfield (Tolland County),1,Article II      Planning and Zoning Commission Fees,Article III      Method of Apportionment,Chapter 11      Conservation Commission
+35,Town of Marlborough (Hartford County),2,Article VII      Village Center District Residential Regulations,Article IX      Village Center District Regulations,Article VI      Residential Zone Regulations
+36,City of Meriden (New Haven County),2,"Article III      Districts Established; Use, Lot and Bulk Regulations",Article V      Commercial Districts,Article IV      Residential Districts
+37,Town of Middlefield (Middlesex County),3,Chapter 210      Conservation Commission,Article II      Sewer Use,Article V      Fire Zones
+38,City of Middletown (Middlesex County),3,Article VII      Commission on Conservation and Agriculture,Chapter 150      Enterprise Zone,Article I      Regulation of Solid Waste Disposal Areas
+39,City of Milford (New Haven County),1,Article VII      PLANNING AND ZONING BOARD AND ZONING BOARD OF APPEALS,ARTICLE IV      HUMAN RESOURCES DEPARTMENT,Article XI      HISTORICAL DISTRICT
+40,Town of Monroe (Fairfield County),3,Chapter 310      Historic Districts,Chapter 278      Farming,Article VIII      Commercial Tax Abatement
+41,Town of Montville (New London County),3,Chapter 130      Voting Districts,Chapter 283      Parks and Recreation Areas,Article X      Transition and Miscellaneous Provisions
+42,Town of New Canaan (Fairfield County),2,Chapter 11A      Conservation Commission,Article XVI      Planning and Zoning Commission,Chapter 23      Fire Zones                   [1]
+43,Town of New Milford (Litchfield County),3,ARTICLE IV      Economic Development Commission,"SECTION 2      SUBDIVISION LAYOUT, DESIGN AND CONSTRUCTION STANDARDS",SECTION 1      GENERAL ADMINISTRATION
+44,Town of Newington (Hartford County),3,Article I      General Provisions,"Chapter 109      Senior and Disabled Center Services, Department of",Article VI      Private Parking Areas
+45,Town of Newtown (Fairfield County),3,Article IV      Mixed Income Housing Development Zone,Article VII      Animal Sanctuary Design District (ASDD),Article I      Farming and Residential Zones
+46,Town of North Branford (New Haven County),3,Chapter 4      Agriculture Commission,Chapter 20      Conservation and Inland Wetlands and Watercourses Agency,Chapter 29      Economic Development Commission
+47,Town of North Haven (New Haven County),3,Chapter 21      Conservation Commission,Chapter 196      Water,Article IX      Economic Development Tax Incentive Program
+48,City of Norwalk (Fairfield County),2,Article 76      Commercial Planned Residential Developments                   [1],Article 40      Planned Residential Developments,Article 50      Use Regulations Controlling Business Zones
+49,Town of Old Lyme (New London County),3,Article III      Parking in Residential Zones,Article III      Noise District Classification,Article II      Definitions
+50,Town of Old Saybrook (Middlesex County),3,Article I      Land Use Fees,Article V      Design Requirements,Article I      General Provisions
+51,Town of Orange (New Haven County),3,Article XII      Planned Residential Development (PRD) Regulations,Article X      Business Office Park District,Article IV      Local Shopping Center (LSC) District
+52,Town of Plainville (Hartford County),3,Article V      Conservation Commission,Article III      Enterprise Zone,Article I      Sewer Use
+53,Town of Putnam (Windham County),3,Chapter 62      Human Resource Development Agency,Article IV      Conservation Commission,Chapter 118      Rehabilitation Areas
+54,Town of Ridgefield (Fairfield County),3,Article X      Economic and Community Development Commission,Article VI      Conservation Commission,Article II      Keeping of Livestock on Residential Property
+55,Town of Rocky Hill (Hartford County),3,Chapter 71      Adult Entertainment Businesses,Article I      General Provisions,Chapter 137      Fire Zones
+56,Town of Simsbury (Hartford County),3,"Chapter 11      Emergencies, Local",Article III      Commercial Truck Traffic,Chapter 128      Sediment and Erosion Control
+57,Town of Somers (Tolland County),2,Article III      Residential Districts,Article IV      Business/Industrial Districts,Article IV      Business/Industrial Districts
+58,Town of Southington (Hartford County),1,Article I      Planning and Zoning Commission,Article VI      Enterprise and Economic Development Commission,Article II      Conservation Commission
+59,Town of Stratford (Fairfield County),3,SECTION 6      Limited Business Districts (LB) Civic Center,SECTION 8      Waterfront Business Districts (WF),SECTION 7      Retail Commercial Districts (CA and CNC)
+60,Town of Suffield  (Hartford County),1,Article IV      Zoning Districts and Use Regulations,Article VI      Flexible Residential Development,Article III      General Requirements
+61,Town of Tolland (Tolland County),3,Article XII      Tax Abatement Program for Business Zones,Chapter 113      Open Space Areas,Chapter 96      Historic Districts
+62,Town of Voluntown (New London County),1,Chapter 345      Zoning,Chapter 113      Economic Development Commission,Chapter 1      General Provisions
+63,Town of Wallingford (New Haven County),2,Chapter 115      Fire Zones,Article I      Planning and Zoning Commission and Zoning Board of Appeals,Article II      Conservation Commission
+64,Town of West Hartford (Hartford County),1,Article II      Establishment of Districts,Article III      District Use Regulations,Article III      District Use Regulations
+65,City of West Haven (New Haven County),3,Chapter 18      Economic Development Commission,Chapter 108      Fire Zones,Article I      General Provisions
+66,Town of Weston (Fairfield County),1,Article II      Establishment of Districts,Article III      Development Standards for Subdivisions,Article III      General Regulations
+67,Town of Westport (Fairfield County),3,[],[],[]
+68,Town of Wethersfield (Hartford County),3,Article I      General Provisions,Chapter 9      Central Connecticut Health District,Article I      General Provisions
+69,Town of Wilton (Fairfield County),3,Chapter 10      Conservation Commission,Chapter 28      Water,Article I      Emergency Medical Services Fund
+70,Town of Windham (Windham County),3,"Article V      Windham Conservation, Open Space, and Agriculture Commission",Article I      In General,CHAPTER VII      Appointive Offices
+71,Town of Windsor (Hartford County),3,Article I      In General,Article IV      Conservation Commission,Article V      Historic Districts
+72,Town of Windsor Locks (Hartford County),3,Chapter 125      AIRPORT ZONING,Article I      General Provisions,Chapter 120      ADULT BUSINESSES
+73,Town of Wolcott (New Haven County),3,Chapter 205      Adult Businesses,Article I      General Provisions,Article V      Business Incentive Tax Abatement
+74,Town of Woodbridge (New Haven County),3,Article I      General Provisions,Chapter 80      New Haven Transit District,Article I      Fire Zones
+75,Town of Woodbury (Litchfield County),3,Chapter 157      Historic Districts,Article I      General Provisions,Chapter 36      Health District
+76,Town of Bethany Beach (Sussex County),2,Article XI      C-1 Central Commercial District*,Article XII      C-2 Neighborhood Commercial District*,Article III      Removal of Trees on Unimproved Lots Within Subdivisions and/or Planned Residential Developments
+77,Town of Bridgeville (Sussex County),2,Article VIII      Residential Planned Community (RPC) Zoning District,Article VI      Residential Zoning Districts,Article VII      Nonresidential Zoning Districts
+78,Town of Dagsboro (Sussex County),1,Article III      Zoning Districts and Zoning Map,Article IV      District Regulations,Article VI      Commercial
+79,Town of Dewey Beach (Sussex County),1,Article IV      District Regulations,Article II      Districts and District Maps,Article VI      Requirements in Coastal High-Hazard Areas (Zone VE)
+80,Town of Elsmere (New Castle County),1,Article III      Zone Regulations,Article II      General Provisions,Chapter 196      Subdivision and Land Development
+81,Town of Fenwick Island (Sussex County),1,Chapter 160      Zoning,Article V      Requirements in Areas Other than Coastal High Hazard Areas and Coastal A Zones,Article VI      Requirements in Coastal High Hazard Areas (Zone VE) and Coastal A Zones
+82,Town of Georgetown (Sussex County),2,Article XIA      RPC — Residential Planned Community,Article XIII      UB2 Neighborhood Business District,Article XXIX      AR1 Agricultural/Residential District
+83,City of Harrington (Kent County),2,Article IX      Service Commercial Zone (C-3),Article VIII      Central Commercial Zone (C-2),Article XII      Traditional Neighborhood Development Zone (TND)
+84,Town of Henlopen Acres (Sussex County),1,Article IV      R-Residential District,Article II      General District Regulations,Article VI      M-Marine District
+85,Kent County (Kent County),1,Article V      AC - Agricultural Conservation District,Article VI      AR - Agricultural Residential District,Article XI      BN - Neighborhood Business District
+86,Kent County Policy Manual (Kent County),1,Policy 20      Planning and Zoning,Policy 13      Sheriff's Office,Part I      General Policies
+87,City of Lewes (Sussex County),1,Article III      Zoning Districts (Zones),Article III      Zoning Districts (Zones),Article IV      Use Regulations
+88,Town of Middletown (New Castle County),3,Article III      Commercial Vehicles,Chapter 45      Business Licenses,Article I      General Provisions
+89,Town of Millsboro (Sussex County),1,Article III      Zoning Districts and Zoning Map,Article IV      District Regulations,Article V      General Provisions
+90,Town of Millville (Sussex County),1,Article III      Establishment of Zoning Map and Zoning Districts,Article VI      District Regulations,Article VII      Supplementary District Regulations
+91,Town of Milton (Sussex County),1,Article IV      Zoning Use and Overlay Districts,Article IV      Zoning Use and Overlay Districts,Article VII      Development Guidelines
+92,City of New Castle (New Castle County),1,Article II      Establishment of Districts; Zoning Map,Article IV      District Regulations,Article IV      District Regulations
+93,Town of Ocean View (Sussex County),1,Article VII      Planned Community Zoning Districts,Article III      Zoning Districts,Article III      Water Resource Protection Areas
+94,City of Rehoboth Beach (Sussex County),3,Article II      Use Regulations                   [1],Article II      Use Regulations                   [1],Article IV      Requirements in Special Flood Hazard Areas Other Than Coastal high-hazard areas (A Zones)
+95,Town of Selbyville (Sussex County),3,Article XII      GC General Commercial District,Article VI      Other Single-Family Detached Dwellings Districts and Residential Planned Community District,Article XI      HB Historic Business District
+96,Town of South Bethany (Sussex County),1,Article IX      C-1 Commercial District,Article VI      Establishment of Districts,Article VIII      R-2 District - Residential Unsubdivided
+97,Sussex County (Sussex County),1,Article XID      C-4 Planned Commercial District,Article IV      AR-1 and AR-2 Agricultural Residential Districts,Article X      B-1 Neighborhood Business District
+98,City of South Pasadena (Pinellas County),1,Article III      Zoning Districts,Article I      General Provisions,"Article VII      Nonconforming Lots, Uses and Buildings"
+99,Town of Zolfo Springs (Hardee County),1,Article VIII      Classes of Service,Article III      Planning and Zoning Fees,Article I      Civic Center

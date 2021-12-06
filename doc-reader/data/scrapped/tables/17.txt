@@ -1,0 +1,298 @@
+i      procedures for violations
+https://ecode360.com/8827323
+0.49167228249642
+Construction of any principal building or structure
+without a use permit or a zoning permit, as the case may be | $150 | 
+Alteration of any principal building or structure
+without a use permit or a zoning permit, as the case may be | $150 | 
+Construction of any accessory building without
+a use permit or zoning permit, as the case may be | $150 | 
+Construction of any accessory structure, other
+than a building, without a zoning permit | $150 | 
+Alteration of any accessory building or use
+without a use permit or zoning permit, as the case may be | $150 | 
+Alteration of any accessory structure, other
+than a building, without a use permit | $150 | 
+Conducting an unauthorized use in any zone | $150 | 
+Violation of plans, conditions or other elements
+of an approved special permit/special exception, as applicable | $150 | 
+Violation of plans, conditions or other elements
+of an approved use permit or zoning permit, as the case may be | $150 | 
+Violation of plans, conditions or other elements
+of an approved variance | $150 | 
+Violation of plans, conditions or other elements
+of an approved erosion and sedimentation control plan | $150 | 
+Any other violation not listed above | $150 | 
+
+
+v      regulation of fats  oils and grease  fog
+https://ecode360.com/14423579
+0.3617165316706066
+ | 1Adopted from the Connecticut Health
+Code | 
+ | 2Residential camps: semi-permanent
+overnight accommodations | 
+
+
+noise
+https://ecode360.com/8826710
+0.34707598644953885
+A | Residential | A-40, A-25, A-15, PRD-1, PRD-2 | 
+B | Commercial | B, DB, PO, WMXD | 
+C | Industrial | I | 
+
+
+i      citations and fines
+https://ecode360.com/8827302
+0.34158208673444895
+Clear-cutting | $500 | 
+Placement of material in a regulated area | $500 | 
+Violation of plans, conditions or other elements
+of an approved inland wetlands and watercourses permit | $500 | 
+Violation of any element of an approved erosion
+and sedimentation control plan | $150 | 
+Conduct, without the issuance of an inland wetlands
+and watercourses permit, of any other regulated activity in a regulated
+area not listed above | $150 | 
+
+
+noise
+https://ecode360.com/8826710
+0.3323775437433628
+NOTES: ** Based on the Zoning Regulations and
+Zoning Map of the Town of Cromwell. | 
+
+
+v      regulation of fats  oils and grease  fog
+https://ecode360.com/14423579
+0.307861516324387
+ | Schools, per pupil | 3 | 
+ | Residential camps2 per person | 15 | 
+ | Hospital, nursing home, per bed | 15 | 
+
+
+housing standards
+https://ecode360.com/8826479
+0.2967897144194521
+ | 25 or less | $100 | 
+ | More than 25 | $150 | 
+ | More than 50 | $175 | 
+ | More than 100 | $225 | 
+
+
+x      discontinuance of plan
+https://ecode360.com/8825848
+0.2869222918275883
+Class I | Participants who have passed their normal retirement date and whose retirement benefits have been deferred under the terms of § 54-18 hereof, retired participants, contingent annuitants and beneficiaries of deceased participants | 
+Class II | Participants age 55 or more who have at least 15 years of credited service and terminated participants who have elected to leave their contributions in the trust fund, as provided in § 54-22 hereof | 
+Class III | All other participants | 
+
+
+health standards
+https://ecode360.com/8826292
+0.26403203538323583
+ | Impetigo | Permit pupils to remain in school, if under medical
+treatment; check contacts daily | 
+ | Pediculosis | Exclude pupils from school until treatment has been
+inaugurated; inspect all pupils daily and advise treatment if indicated | 
+
+
+v      regulation of fats  oils and grease  fog
+https://ecode360.com/14423579
+0.2540921040022016
+ | 1Adopted from the Connecticut Health
+Code | 
+
+
+v      regulation of fats  oils and grease  fog
+https://ecode360.com/14423579
+0.2530546779704214
+ | Churches, per person | 5 | 
+ | Restaurants and bars | 5 | 
+
+
+vii      termination of employment
+https://ecode360.com/8825825
+0.2518302943821501
+ | Fewer than 10 | 0% | 
+ | 10 or more | 100% | 
+
+
+parking for the handicapped
+https://ecode360.com/8826803
+0.25100311155492705
+ | 26 to 50 | 2 | 
+ | 51 to 75 | 3 | 
+ | 76 to 100 | 4 | 
+
+
+health standards
+https://ecode360.com/8826292
+0.24899956455342698
+ | Chicken pox | 7 days after appearance of first crop of vesicles | Not excluded |  | 
+ | German measles (rubella) | 5 days after appearance of rash | Not excluded |  | 
+ | Measles (rubeola) | 5 days after appearance of rash | Not excluded |  | 
+ | Mumps | When swelling of parotid glands has subsided completely | Not excluded |  | 
+ | Ringworm of scalp | Only if under physician's care, confirmed by note
+from physician | Not excluded |  | 
+ | Streptococcal infection of upper respiratory tract,
+including scarlet fever | If under physician's care when clinically recovered;
+otherwise, at least 7 days from onset of first symptom | Not excluded |  | 
+
+
+health standards
+https://ecode360.com/8826292
+0.22804704675721074
+ | Diphtheria (cases and carriers) | When 2 successive cultures from nose and throat taken
+not less than 24 hours apart are negative; must have permit from Health
+Department | Excluded from school and readmitted only when 2 successive
+noise and throat cultures taken not less than 24 hours apart are negative | Which cultures are persistently positive in the absence
+of clinical disease, virulence tests will be done | 
+
+
+noise
+https://ecode360.com/8826710
+0.22073390803753712
+ | Class C | 70 | 66 | 61 | 51 | 
+ | Class B | 62 | 62 | 55 | 45 | 
+ | Class A | 62 | 55 | 55 | 45 | 
+
+
+noise
+https://ecode360.com/8826710
+0.22073390803753712
+ | Class C | 65 | 61 | 56 | 46 | 
+ | Class B | 57 | 57 | 50 | 40 | 
+ | Class A | 57 | 50 | 50 | 40 | 
+
+
+dl      disposition list
+https://ecode360.com/8827340
+0.15594212067591365
+2-12-2020 | Vehicles and Traffic Amendment | Ch. 221 | 9 | 
+
+
+noise
+https://ecode360.com/8826710
+0.09612833939784177
+ | 100 | 16 | 
+ | 125 | 14 | 
+ | 160 | 12 | 
+ | 200 | 11 | 
+ | 250 | 9 | 
+ | 315 | 8 | 
+ | 400 | 7 | 
+ | 500 | 6 | 
+ | 630 | 6 | 
+ | 800 | 5 | 
+ | 1,000 | 4 | 
+ | 1,250 | 4 | 
+ | 1,600 | 4 | 
+ | 2,000 | 3 | 
+ | 2,500 | 3 | 
+ | 3,150 | 3 | 
+ | 4,000 | 3 | 
+ | 5,000 | 4 | 
+ | 6,300 | 4 | 
+ | 8,000 | 5 | 
+ | 10,000 | 6 | 
+
+
+noise
+https://ecode360.com/8826710
+0.09612833939784174
+ | 31.5 | 75 | 72 | 72 | 
+ | 63 | 74 | 71 | 71 | 
+ | 125 | 69 | 65 | 65 | 
+ | 250 | 64 | 57 | 57 | 
+ | 500 | 58 | 51 | 51 | 
+ | 1,000 | 52 | 45 | 45 | 
+ | 2,000 | 47 | 39 | 39 | 
+ | 4,000 | 43 | 34 | 34 | 
+ | 8,000 | 40 | 32 | 32 | 
+
+
+noise
+https://ecode360.com/8826710
+0.09612833939784174
+ | 31.5 | 69 | 63 | 63 | 
+ | 63 | 67 | 61 | 61 | 
+ | 125 | 62 | 55 | 55 | 
+ | 250 | 54 | 47 | 47 | 
+ | 500 | 47 | 40 | 40 | 
+ | 1,000 | 41 | 35 | 35 | 
+ | 2,000 | 36 | 30 | 30 | 
+ | 4,000 | 32 | 25 | 25 | 
+ | 8,000 | 32 | 25 | 25 | 
+
+
+noise
+https://ecode360.com/8826710
+0.09612833939784174
+ | 31.5 | 80 | 79 | 72 | 
+ | 63 | 79 | 78 | 71 | 
+ | 125 | 74 | 72 | 65 | 
+ | 250 | 69 | 64 | 57 | 
+ | 500 | 63 | 58 | 51 | 
+ | 1,000 | 57 | 52 | 45 | 
+ | 2,000 | 52 | 46 | 39 | 
+ | 4,000 | 48 | 41 | 34 | 
+ | 8,000 | 45 | 39 | 32 | 
+
+
+dl      disposition list
+https://ecode360.com/8827340
+-0.011527962110590817
+1-14-2004 | Consumption of alcoholic beverages in public
+areas and motor vehicles amendment | Ch. 76, Art. III | 
+9-8-2004 | Aquifer Protection Agency | Ch. 231 | 
+10-13-2004 | Removal of obstructions on highways | Ch. 204, Art. VII | 
+10-13-2004 | Snow removal from sidewalks amendment | Ch. 204, Art. V | 
+12-8-2004 | Delinquent taxes and assessments | Ch. 213 | 
+12-8-2004 | Vehicles and traffic amendment (pocket bikes
+and motorized scooters) | Ch. 221 | 
+12-14-2005 | Removal of obstructions on highways amendment | Ch. 204, Art. VII | 
+3-8-2006 | Hydrants | Ch. 157 | 
+5-10-2006 | Fines and fees amendments; control of animals | Chs. 73; 76; 82, Art. I; 130; 172; 178; 221 | 
+7-12-2006 | Food establishments amendment | Ch. 137 | 
+7-12-2006 | Health standards amendment | Ch. 146 | 
+7-12-2006 | Housing standards amendment | Ch. 151 | 
+3-13-2007 | Tax relief for elderly or disabled homeowners | Ch. 211, Art. VI | 
+2-5-2008 | Tax exemption for veterans and surviving spouses | Ch. 211, Art. VIII | 
+9-24-2008 | Blighted buildings | Ch. 97 | 
+12-4-2008 | Food establishments amendment; health standards
+amendment; housing standards amendment | Chs. 137; 146; 151 | 
+5-13-2009 | Senior Services Commission | Ch. 57 | 
+10-14-2009 | Tax exemption for farm buildings | Ch. 211, Art. IX | 
+4-14-2010 | Sewers amendment | Ch. 193 | 
+4-14-2010 | Snow removal from sidewalks amendment | Ch. 204, Art. V | 
+7-14-2010 | Taxation: waiver of penalty provisions | Ch. 211, Art. VII | 
+6-15-2011 | Health standards amendment | Ch. 146 | 
+6-15-2011 | Landlord registration | Ch. 150 | 
+1-11-2012 | Central Connecticut Solid Waste Authority | Ch. 63 | 
+4-11-2012 | Retirement plan amendment | Ch. 54 | 
+10-12-2012 | Building construction amendment; delinquent taxes amendment | Chs. 99; 213 | 
+6-12-2013 | Control of animals amendment | Ch. 82, Art. I | 
+11-20-2013 | Taxation: tax relief deferral program for elderly and disabled
+homeowners | Ch. 211, Art. VIA | 
+3-12-2014 | Delinquent taxes and assessments amendment | Ch. 213 | 
+6-16-2014 | Nomenclature change | Entire Code | 
+4-29-2015 | Alcoholic beverages: renewal of liquor permits | Ch. 76, Art. IV | 
+4-29-2015 | Blighted buildings amendment | Ch. 97 | 
+4-29-2015 | Taxation: tax relief deferral program for elderly and disabled
+homeowners amendment | Ch. 211, Art. VIA | 
+5-13-2015 | Peddling and soliciting amendment | Ch. 178 | 
+3-16-2016 | Animals: control of animals | Ch. 82, Art. I | 
+4-6-2016 | Sewer commission | Ch. 60 | 
+4-6-2016 | Food establishments | Ch. 137 | 
+4-6-2016 | Peddling and soliciting | Ch. 178 | 
+4-6-2016 | Farmers' markets | Ch. 179 | 
+2-8-2017 | Building construction amendment | Ch. 99 | 
+2-8-2017 | Housing standards amendment | Ch. 151 | 
+12-28-2017 | Excavations Amendment | Ch. 125 | 
+5-9-2018 | Stormwater Discharge | Ch. 200 | 
+11-7-2018 | Buildings, Blighted Amendment | Ch. 97 | 
+3-13-2019 | Food Establishments Amendment | Ch. 137 | 
+8-5-2019 | Health Standards Amendment | Ch. 146 | 
+
+

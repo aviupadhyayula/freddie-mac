@@ -1,0 +1,443 @@
+ii      establishment of districts  zoning map
+https://ecode360.com/8875657
+0.7844775149588568
+ | Open Space and Recreation OS&R | 
+ | Agricultural - Horticultural AH[Added 12-9-1997 by Ord. No. 379] | 
+ | Residential R-1 | 
+ | Residential R-2 | 
+ | Residential R-3 | 
+ | Historic Residence HR | 
+ | Historic Commerce HC | 
+ | Retail Commercial RC | 
+ | DG Downtown Gateway[Added 8-13-2013 by Ord. No. 477] | 
+ | Service Commercial SC | 
+ | General Commercial GC[Added 8-28-2001 by Ord. No. 401] | 
+ | Light Industrial - Office LIO[Added 12-9-1997 by Ord. No. 379] | 
+ | Industrial Office Park IOP[Added 12-9-1997 by Ord. No. 379] | 
+ | Industrial I | 
+ | Floodplain[Added 12-9-1997 by Ord. No. 379] | 
+
+
+v      supplementary district regulations
+https://ecode360.com/8876197
+0.5647708452662545
+Residential | 60% | 100% | 100% | 80% | 100% | 100% | 
+Office | 100% | 10% | 5% | 5% | 5% | 5% | 
+Commercial | 90% | 80% | 5% | 100% | 60% | 5% | 
+Hotel | 70% | 100% | 100% | 70% | 100% | 100% | 
+Restaurant | 70% | 100% | 10% | 70% | 100% | 20% | 
+Movie theater | 40% | 80% | 10% | 80% | 100% | 10% | 
+Entertainment | 40% | 100% | 10% | 80% | 100% | 50% | 
+Institutional (nonreligious institution) | 100% | 40% | 5% | 10% | 10% | 5% | 
+Religious institution | 20% | 40% | 5% | 100% | 50% | 5% | 
+
+
+subdivision of land
+https://ecode360.com/8874913
+0.5108852943300121
+ | Main thoroughfares | 80 to 100 | 44 | Yes | 
+ | Secondary streets | 60 to 80 | 36 | Yes | 
+ | Residential streets and group housing and apartments | 50 | 30 | Yes | 
+
+
+va      source water protection area
+https://ecode360.com/10425875
+0.49277910030740235
+ | Aboveground storage tanks | No | 1 | 
+ | Automobile body/repair shop | No | No | 
+ | Chemical processing/storage facility | No | No | 
+ | Dry cleaner | No | No | 
+ | Dry wells/sumps2 | No | No | 
+ | Electrical/electronic manufacturing facility | No | No | 
+ | Equipment maintenance/fueling areas | No | No | 
+ | Fleet/trucking/bus terminal | No | No | 
+ | Gas station | No | No | 
+ | Hazardous Waste | No | No | 
+ | Injection wells3 | No | No | 
+ | Irrigated nursery/greenhouse stock | No | Yes | 
+ | Junk/scrap/salvage yard | No | No | 
+ | Machine shop | No | No | 
+ | Manure storage | No | No | 
+ | Metal plating/finishing/fabricating facility | No | No | 
+ | Mines/gravel pit | No | No | 
+ | On-site wastewater treatment and disposal systems | No | No | 
+ | Underground storage tanks | No | No | 
+ | Vessel storage | No | No | 
+ | Wood preserving/treating facility | No | No | 
+
+
+va      source water protection area
+https://ecode360.com/10425875
+0.44062405963816736
+ | NOTES: | 
+ | Conditional: | 
+ | 1See narrative section. | 
+ | 2Dry wells/sumps,
+except for single-family residences directing gutter downspouts to
+a drywell. | 
+ | 3Injection wells
+other than those used in the remediation of groundwater contamination
+that inject oxygen-releasing compounds. | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.4313880572591523
+ | Land Use Set Forth in Subsection | Maximum Net Floor Area Requirement | 
+ | A(1) through (2) | 0.35 | 
+ | A(3) | 0.50 | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.4285165820906544
+ | Land Use Set Forth in Subsection | Minimum Open Space Requirement | 
+ | A(1) | 35% | 
+ | A(2), (3), (4) | 15% | 
+ | A(5), (7), (8) | 10% | 
+ | B(2) | 15% | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.4145889826757476
+ | Land Use Set Forth in Subsection | Minimum Open Space Requirement | 
+ | A (1)through (2) | 35% | 
+ | A(3) | 15% | 
+
+
+v      supplementary district regulations
+https://ecode360.com/8876197
+0.38916330005815
+ | Noise source operates less than 20% of any one-hour
+period | Plus 51 | 
+ | Noise source operates less than 5% of any one-hour
+period | Plus 101 | 
+ | Noise source operates less than 1% of any one-hour
+period | Plus 151 | 
+ | Noise of impulsive character (hammering, etc.) | Minus 5 | 
+ | Noise of periodic character (humming, screech,
+etc.) | Minus 5 | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.38236556901244756
+ | Retail store front within a parking garage | 
+
+
+v      supplementary district regulations
+https://ecode360.com/8876197
+0.36134679470348263
+ | NOTES: | 
+ | 1Apply one of these
+corrections only. | 
+
+
+v      supplementary district regulations
+https://ecode360.com/8876197
+0.36130482221383076
+20 to 75 | 70 | 65 | 
+75 to 150 | 56 | 52 | 
+150 to 300 | 47 | 42 | 
+300 to 600 | 42 | 37 | 
+600 to 1,200 | 37 | 32 | 
+1,200 to 2,400 | 33 | 28 | 
+2,400 to 4,800 | 31 | 25 | 
+4,800 to 10,000 | 29 | 24 | 
+
+
+subdivision of land
+https://ecode360.com/8874913
+0.346022160011217
+ | 5 (or more) | 50 | 32 | 50 | 40 | 
+ | 4 (and less) | 50 | 26 | 50 | 40 | 
+
+
+v      supplementary district regulations
+https://ecode360.com/8876197
+0.33261073406163233
+ | Corrections to be made for noise not radiated
+continuously or of special character: | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.31868338486424364
+ | A(1) | 0.35 | 
+ | A(2), (3), (4) | 0.50 | 
+ | A(5), (7), (8) | 0.60 | 
+ | B(2) | 0.50 | 
+
+
+licenses
+https://ecode360.com/8874215
+0.29877217573064074
+ | "This license does not constitute a permit to carry on any business,
+profession, pursuit or calling for which the Statutes of the State of Delaware
+require a permit. This license is only permission to operate the indicated
+business within the city limits of New Castle." | 
+
+
+planning commission
+https://ecode360.com/8873525
+0.2674576730711957
+ | Stephen Bartha | April 1, 1964 | 
+ | Mrs. H. Sylvester Clark | April 1, 1964 | 
+ | Edward W. Cooch, Jr. | April 1, 1964 | 
+ | James T. Eliason, Jr. | April 1, 1965 | 
+ | Henry N. Herndon, Jr. | April 1, 1965 | 
+ | Francis L. Pollard | April 1, 1965 | 
+ | John C. Roman | April 1, 1966 | 
+ | Edward A. Taylor | April 1, 1966 | 
+ | Wilbur F. Truitt | April 1, 1966 | 
+
+
+dl      disposition list
+https://ecode360.com/8876687
+0.2317138797748171
+Ord. No 514 |  |  | Tabled | 27 | 
+Ord. No. 515 |  |  | Tabled | 27 | 
+Ord. No. 516 | 11-13-2019 | Zoning Map Amendment | NCM | 27 | 
+Ord. No. 517 |  |  | Not adopted | 27 | 
+Ord. No. 518 |  |  | Not adopted | 27 | 
+Ord. No. 519 | 5-14-2019 | Planning Commission Amendment | Ch. 58 | 27 | 
+82 Del. Laws, c. 110 | 7-17-2019 | Municipal Services Commission Amendment | Ch. MSC | 27 | 
+Ord. No. 520 | 10-24-2019 | Zoning Amendment | Ch. 230 | 27 | 
+Ord. No. 521 |  |  | Tabled | 27 | 
+Ord. No. 522 | 10-24-2019 | Taxation: Downtown Development District Tax Abatement | Ch. 221, Art. V | 27 | 
+Ord. No. 523 | 10-24-2019 | Taxation: Real Estate Transfer Tax Amendment | Ch. 221, Art. II | 27 | 
+Res. No. 2019-31 | 9-10-2019 | Conduct, Code of | Ch. A243 | 27 | 
+Res. No. 2019-34 | 10-2-2019 | Fees Amendment | Ch. A239 | 27 | 
+Res. No. 2019-37 | 10-8-2019 | Fees Amendment | Ch. A239 | 27 | 
+Res. No. 2019-38 | 10-8-2019 | Fees Amendment | Ch. A239 | 27 | 
+Res. No. 2019-39 | 10-8-2019 | Fees Amendment | Ch. A239 | 27 | 
+Ord. No. 524 | 1-14-2020 | Zoning Amendment | Ch. 230 | 28 | 
+Ord. No. 525 | 3-10-2020 | Zoning Amendment | Ch. 230 | 28 | 
+Ord. No. 526 | 7-14-2020 | Zoning Map Amendment | NCM | 28 | 
+Ord. No. 527 | 7-14-2020 | Building Construction: Standards Amendment; Building Standards
+for One and Two-Family Dwellings Amendment; Mechanical Standards Amendment;
+Fuel Gas Standards Amendment; Existing Building Code; Swimming Pool
+and Spa Code; Plumbing Amendment; Property Maintenance: Adoption of
+Standards Amendment | Ch. 102, Art. II; Ch. 103; Ch. 162; Ch. 163; Ch. 164; Ch. 165; Ch. 181; Ch. 185, Art. I | 28 | 
+Ord. No. 528 | 12-8-2020 | Adoption of 2020 Comprehensive Plan | NCM | 29 | 
+Ord. No. 529 | 11-10-2020 | Emergency Management Amendment | Ch. 28 | 29 | 
+Ord. No. 530 | 12-8-2020 | Sanitary Code Amendment | Ch. 193 | 29 | 
+Ord. No. 531 | 11-4-2020 | Dangerous or Vacant Buildings Amendment; Zoning Amendment | Ch. 141; Ch. 230 | 29 | 
+Ord. No. 532 | 3-30-2021 | Dangerous or Vacant Buildings Amendment | Ch. 141 | 29 | 
+
+
+a         records  public access to
+https://ecode360.com/8876668
+0.2147446511770429
+ | 18" x 22" | $2 per sheet | 
+ | 24" x 36" | $3 per sheet | 
+ | Documents larger than 24" x 36" | $1 per square foot | 
+
+
+graffiti
+https://ecode360.com/8874630
+0.1724511743769834
+"Warning: It is illegal to sell or distrubute aerosol paint, paint sticks,
+or broad-tipped markers to any person under the age of 18 years of age or
+for any person under the age of 18 years of age to possess or attempt to purchase
+same. If you are over 18 years of age, it is illegal for you to purchase aerosol
+paint, paint sticks, or broad-tipped markers for a person under 18 years of
+age if you are not such person's parent, guardian, school teacher, or
+art or craft instructor." | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.0614674098096511
+ | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.0614674098096511
+ | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.0614674098096511
+ |  | 
+
+
+iv      district regulations
+https://ecode360.com/8875716
+0.0614674098096511
+ |  | 
+
+
+i      terminology
+https://ecode360.com/8875540
+-0.051495466568363374
+ | 
+
+
+dl      disposition list
+https://ecode360.com/8876687
+-1.509409292116501
+Ord. No. 379 | 12-9-1997 | Adoption of Code | Ch. 1, Art. I | 
+Res. No. 97-8 | 12-9-1997 | Fees | Ch. A239 | 
+Ord. No. 380 |  |  | Defeated | 
+Ord. No. 381 | 4-14-1998 | Zoning amendment | Ch. 230 | 
+Ord. No. 382 | 6-9-1998 | Licenses amendment | Ch. 156 | 
+Ord. No. 383 | 6-9-1998 | Zoning amendment | Ch. 230 | 
+Ord. No. 384 | 9-8-1998 | Real estate transfer tax amendment | Ch. 221, Art. II | 
+Ord. No. 385 | 10-14-1998 | Floodplain management amendment | Repealed by Ord. No. 499 | 
+Ord. No. 386 |  |  | Withdrawn | 
+Ord. No. 387 | 6-8-1999 | Skateboards | Ch. 197 | 
+72 Del. Laws, c. 116 | 7-1-1999 | Municipal Services Commission | Ch. MSC | 
+Ord. No. 388 | 8-10-1999 | Zoning amendment | Ch. 230 | 
+Ord. No. 389 | 8-10-1999 | Zoning Map amendment | NCM | 
+Ord. No. 390 | 10-12-1999 | Noise | Ch. 166 | 
+Res. No. 2000-01 | 1-11-2000 | Fees amendment | Ch. A239 | 
+Ord. No. 391 | 2-8-2000 | Industrial District tax exemption; Industrial
+Office Park District tax exemption; tax abatement amendment | Ch. 221, Arts. IV and VI (repealer only); V | 
+Ord. No. 392 | 5-9-2000 | Abandoned vehicles | Ch. 226 | 
+Ord. No. 393 | 4-11-2000 | Taxation and recovery of monition fees and costs | Ch. 221, Art. VII | 
+Ord. No. 394 | 6-13-2000 | Senior citizens tax exemption amendment; disabled
+persons tax exemption amendment | Ch. 221, Arts. I and II | 
+Ord. No. 395 | 8-9-2000 | Zoning Map amendment | NCM | 
+Ord. No. 396 | 2-13-2001 | Subdivision of land amendment; lines and grades
+amendment; zoning amendment | Chs. 213, 215, 230 | 
+Ord. No. 397 | 3-13-2001 | Licenses amendment | Ch. 156 | 
+Ord. No. 398 | 4-10-2001 | Parades and public assemblies | Ch. 171 | 
+Ord. No. 399 | 4-24-2001 | Parking provisions amendment | Ch. 172, Art. I | 
+Ord. No. 400 | 8-14-2001 | Zoning amendment | Ch. 230 | 
+Ord. No. 401 | 8-28-2001 | Zoning amendment | Ch. 230 | 
+Ord. No. 402 | 11-13-2001 | Zoning Map amendment | NCM | 
+Ord. No. 403 | 3-27-2002 | Zoning amendment | Ch. 230 | 
+Ord. No. 404 | 4-9-2002 | Zoning Map amendment | NCM | 
+Ord. No. 405 | 4-24-2002 | Zoning amendment | Ch. 230 | 
+Ord. No. 406 |  | Rights-of-way | Not adopted | 
+Ord. No. 407 | 6-1-2002 | Lines and grades amendment | Ch. 215 | 
+Ord. No. 408 | 6-21-2002 | Building construction standards amendment | Ch. 102, Art. II | 
+Ord. No. 409 | 6-21-2002 | Zoning Map amendment | NCM | 
+Ord. No. 410 | 6-21-2002 | Solid waste: collection and disposition amendment | Ch. 204, Art. II | 
+Ord. No. 411 | 6-21-2002 | One- and two-family dwelling building standards | Ch. 103 | 
+Ord. No. 412 | 6-21-2002 | Plumbing amendment | Ch. 181 | 
+Ord. No. 413 | 6-21-2002 | Mechanical standards | Ch. 162 | 
+Ord. No. 414 | 6-21-2002 | Fuel gas standards | Ch. 163 | 
+Ord. No. 415 | 6-21-2002 | Property maintenance standards amendment | Ch. 185, Art. I | 
+Ord. No. 416 | 7-9-2002 | Zoning Map amendment | NCM | 
+Ord. No. 417 | 9-10-2002 | Lines and grades amendment | Ch. 215 | 
+Ord. No. 418 | 3-11-2003 | Dangerous or vacant buildings | Ch. 141 | 
+Ord. No. 419 | 6-10-2003 | Zoning Map amendment | NCM | 
+Ord. No. 420 | 6-10-2003 | Zoning Map amendment | NCM | 
+Ord. No. 421 |  |  | Not adopted | 
+Ord. No. 422 | 8-12-2003 | Clear zones | Ch. 209, Art. III | 
+Ord. No. 423 | 12-9-2003 | Housing and property maintenance | Ch. 140 | 
+Ord. No. 424 |  |  | Not adopted | 
+Ord. No. 425 | 5-11-2004 | Recycling | Ch. 204, Art. III | 
+Ord. No. 426 |  |  | Not adopted | 
+Ord. No. 427 | 7-13-2004 | Zoning Map amendment | NCM | 
+Ord. No. 428 | 1-11-2005 | Zoning Map amendment | NCM | 
+Ord. No. 429 | 12-14-2004 | Zoning amendment | Ch. 230 | 
+Ord. No. 430 |  |  | Not adopted | 
+Ord. No. 431 | 7-11-2006 | Zoning amendment | Ch. 230 | 
+Ord. No. 432 | 5-31-2006 | Zoning Map amendment | NCM | 
+Ord. No. 433 | 7-11-2006 | Zoning amendment | Ch. 230 | 
+Ord. No. 434 |  |  | Not adopted | 
+Ord. No. 435 | 5-31-2006 | Comprehensive Plan amendment | NCM | 
+Ord. No. 436 | 5-31-2006 | Comprehensive Plan amendment | NCM | 
+Ord. No. 437 |  |  | Not adopted | 
+Ord. No. 438 | 10-10-2006 | Mayor's Court compensation | NCM | 
+Ord. No. 439 | 10-10-2006 | Zoning amendment | Ch. 230 | 
+Ord. No. 440 | 10-10-2006 | Sanitary Code amendment | Ch. 193 | 
+Ord. No. 441 | 11-14-2006 | Housing and property maintenance amendment | Ch. 140 | 
+Ord. No. 442 | 11-14-2006 | Building construction: issuance of permits amendment | Ch. 102, Art. I | 
+Ord. No. 443 |  | Public notice for applications | Not adopted | 
+Ord. No. 444 | 3-13-2007 | Zoning amendment | Ch. 230 | 
+Ord. No. 445 |  | Housing and property maintenance amendment | Not adopted | 
+Ord. No. 446 |  | Zoning amendment | Withdrawn | 
+Ord. No. 447 | 3-1-2007 | Noise amendment | Ch. 166 | 
+Ord. No. 448 | 2-13-2007 | Parades and public assemblies amendment | Ch. 171 | 
+Ord. No. 449 | 3-1-2007 | Approval of subdivision plan | NCM | 
+Ord. No. 450 | 4-10-2007 | Animals: feeding of wildlife | Ch. 94, Art. II | 
+Ord. No. 451 | 10-9-2007 | Dangerous or vacant buildings amendment | Ch. 141 | 
+Ord. No. 452 | 5-8-2007 | Zoning Map amendment | NCM | 
+Ord. No. 453 | 5-8-2007 | Zoning Map amendment | NCM | 
+Ord. No. 454 | 10-9-2007 | Graffiti | Ch. 189 | 
+Ord. No. 455 | 12-11-2007 | Senior citizens tax exemption amendment; disabled
+persons tax exemption amendment | Ch. 221, Arts. I and III | 
+Ord. No. 456 | 1-8-2008 | Approval of subdivision plan | NCM | 
+Ord. No. 457 | 5-13-2008 | Zoning amendment | Ch. 230 | 
+Ord. No. 458 | 6-10-2008 | Housing and property maintenance amendment | Ch. 140 | 
+Ord. No. 459 | 1-13-2009 | Comprehensive Plan amendment | NCM | 
+Ord. No. 460 | 1-13-2009 | Zoning Map amendment | NCM | 
+Ord. No. 461 | 3-10-2009 | Tree Commission | Ch. 74 | 
+Ord. No. 462 | 3-10-2009 | Street trees | Ch. 210 | 
+Ord. No. 463 | 7-14-2009 | Comprehensive Plan amendment | NCM | 
+Ord. No. 464 | 7-14-2009 | Curfew | Ch. 108 | 
+Ord. No. 465 | 8-11-2009 | Fees amendment | Chs. 140; 171; 226; A242 | 
+Res. No. 2009-20 | 9-8-2009 | Fees amendment | Ch. A239 | 
+Ord. No. 466 | 10-15-2009 | Approval of borrowing of funds and authorization of special
+election | NCM | 
+Ord. No. 467 |  |  | Not adopted | 
+Ord. No. 468 | 5-11-2010 | No Parking Zone | NCM | 
+Ord. No. 469 | 5-11-2010 | Zoning Map amendment | NCM | 
+Ord. No. 470 | 5-11-2010 | Sanitary Code amendment | Ch. 193 | 
+Ord. No. 471 | 5-11-2010 | Solid waste: collection and disposition amendment | Ch. 204, Art. II | 
+Ord. No. 472 | 6-8-2010 | Abandoned vehicles amendment | Ch. 226 | 
+Res. No. 2010-18 | 7-13-2010 | Fees amendment | Ch. A239 | 
+Ord. No. 473 | 12-14-2010 | Zoning amendment | Ch. 230 | 
+Ord. No. 474 | 12-14-2010 | Zoning amendment | Ch. 230 | 
+Ord. No. 475 | 12-14-2010 | Conditional zoning of conditionally annexed parcel | NCM | 
+Ord. No. 476 | 1-18-2011 | Zoning Map amendment | NCM | 
+Ord. No. 477 | 8-13-2013 | Zoning amendment | Ch. 230 | 
+Ord. No. 478 | 8-13-2013 | Zoning amendment | Ch. 230 | 
+Ord. No. 479 | 8-13-2013 | Zoning amendment | Ch. 230 | 
+Ord. No. 480 | 5-10-2011 | Zoning amendment | Ch. 230 | 
+Ord. No. 481 | 4-12-2011 | Vehicles and traffic amendment | Ch. 225 | 
+Ord. No. 482 | 5-10-2011 | Housing and property maintenance amendment | Ch. 140 | 
+Res. No. 2011-14 | 4-12-2011 | Fees amendment | Ch. A239 | 
+Res. No. 2011-19 | 5-10-2011 | Fees amendment | Ch. A239 | 
+Ord. No. 483 | 10-11-2011 | Zoning amendment | Ch. 230 | 
+Ord. No. 484 | 8-9-2011 | Parks and libraries: smoking | Ch. 46, Art. II | 
+Ord. No. 485 | 9-13-2011 | Zoning amendment | Ch. 230 | 
+Ord. No. 486 | 4-10-2012 | Zoning amendment; fees amendment | Ch. 230; Ch. A239 | 
+Ord. No. 487 | 5-8-2012 | Firearms amendment | Ch. 122 | 
+Ord. No. 488 |  |  | Tabled | 
+Ord. No. 489 | 6-5-2012 | Zoning amendment | Ch. 230 | 
+78 Del. Laws, c. 261 | 6-19-2012 | Municipal Services Commission amendment | Ch. MSC | 
+78 Del. Laws, c. 267 | 6-20-2012 | Charter amendment | Charter | 
+Res. No. 2012-21 | 7-17-2012 | Public access to records; fees amendment | Ch. A239; Ch. A242, Art. I | 
+Ord. No. 490 | 8-13-2013 | Zoning Map amendment | NCM | 
+Res. No. 2013-32 | 9-26-2013 | Fees amendment | Ch. A239 | 
+Ord. No. 491 | 10-30-2013 | Planning Commission amendment | Ch. 58 | 
+Ord. No. 492 | 11-12-2013 | Disposition of real estate amendment | Ch. 64 | 
+Ord. No. 493 | 2-19-2014 | Alcoholic beverages: consumption amendment | Ch. 90, Art. I | 
+Res. No. 2014-22 | 4-8-2014 | Fees amendment | Ch. A239 | 
+Res. No. 2014-23 | 4-8-2014 | Fees amendment | Ch. A239 | 
+Ord. No. 494 | 5-27-2014 | Dike management and preservation | Ch. 131 | 
+Ord. No. 495 | 7-8-2014 | Zoning amendment | Ch. 230 | 
+Ord. No. 496 | 7-16-2014 | Animals: feeding of wildlife amendment | Ch. 94, Art. II | 
+Ord. No. 497 | 7-8-2014 | Abandoned vehicles amendment | Ch. 226 | 
+Ord. No. 498 | 7-16-2014 | Vehicles and traffic amendment | Ch. 225 | 
+Ord. No. 499 | 10-14-2014 | Floodplain management | Ch. 130 | 
+Ord. No. 500 | 2-18-2015 | Tree Advisory Commission amendment; street trees amendment | Ch. 74; 210 | 
+80 Del. Laws, c. 3 | 2-11-2015 | Charter amendment | Charter, § 6 | 
+Ord. No. 501 | 2-18-2015 | Housing and property maintenance amendment | Ch. 140 | 
+Ord. No. 502 | 4-14-2015 | Noise amendment | Ch. 166 | 
+Ord. No. 503 | 10-29-2015 | Parking: general provisions amendment | Ch. 172, Art. I | 
+Ord. No. 504 | 12-8-2015 | Zoning amendment | Ch. 230 | 
+Ord. No. 505 | 1-12-2016 | Zoning amendment | Ch. 230 | 
+Ord. No. 506 | 1-12-2016 | Housing and property maintenance amendment | Ch. 140 | 
+Res. No. 2016-13 | 4-12-2016 | Fees amendment | Ch. A239 | 
+Ord. No. 507 | 5-12-2016 | Zoning amendment | Ch. 230 | 
+80 Del. Laws, c. 303 | 7-11-2016 | Municipal Services Commission amendment | Ch. MSC | 
+Ord. No. 508 |  |  | Tabled | 
+Ord. No. 509 | 7-27-2017 | Storm sewer system: illicit discharges and connections | Ch. 208, Art. I | 
+Ord. No. 510 | 7-31-2017 | Zoning amendment | Ch. 230 | 
+Ord. No. 511 | 9-5-2017 | Zoning amendment | Ch. 230 | 
+Res. No. 2017-35 | 11-14-2017 | Fees Amendment | Ch. A239 | 
+Res. No. 2017-36 | 10-10-2017 | Fees Amendment | Ch. A239 | 
+Ord. No. 512 | 3-13-2018 | Sanitary Code Amendment | Ch. 193 | 
+Ord. No. 513 | 1-9-2018 | Zoning Amendment | Ch. 230 | 
+81 Del. Laws, c. 414 | 9-4-2018 | Charter Amendment | Charter §§ 4, 5, 5, 7, 8, 9, 12, 13, 19, 20, 21 | 
+
+

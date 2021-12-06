@@ -1,0 +1,249 @@
+xvii      signs
+https://ecode360.com/6783601
+0.4338555222405857
+Residential | Single-family dwelling name sign | 2 square feet | 
+ | Customary home occupation | Four square feet (in place of dwelling name sign) | 
+ | Subdivision sign | 12 square feet | 
+ | Nonresidential use sign2 | 12 square feet | 
+ | Directory sign2 | 30 square feet, no single sign to exceed 16 square feet | 
+ | Temporary sign (1 per lot) | Six square feet | 
+Commercial | Business name sign, advertising sign
+(General principal use)
+(Principal use)3
+(Special principal use)2 | 30 square feet total, up to three signs, no single sign to exceed
+20 square feet | 
+ | Commercial cluster directory sign2 | 60 square feet | 
+ | Commercial cluster name sign2 | 20 square feet | 
+ | Multiple businesses in a single building directory sign2 | 60 square feet | 
+ | Name sign for the single building with multiple businesses2 | 20 square feet | 
+ | Temporary sign (1 per lot) | Six square feet | 
+Industrial | Business name sign, advertising sign
+(Principal use)3
+(Special principal use)2 | 30 square feet total, up to three signs, no single sign to exceed
+20 square feet | 
+ | Temporary sign (1 per lot) | Six square feet | 
+
+
+affordable housing agency regulations
+https://ecode360.com/15732539
+0.393095614004782
+ | $320,966 for Killingworth in 2007 using Middletown - Middlesex
+County area | 
+ | $254,918 for Killingworth in 2007 using New Haven County area | 
+
+
+affordable housing agency regulations
+https://ecode360.com/15732539
+0.3908540595794592
+ | HUD Middletown - Middlesex County area median income = X; (X
+x .80) /12 x .30 = amount available for housing = H. H (-taxes) (-hazard
+insurance) = amount available for mortgage payment, or A. | 
+
+
+a         special acts
+https://ecode360.com/11771007
+0.3907198822608339
+ | January 26, 1970: To adopt the provisions of Public Act #500
+of the January 1969 session which provides for two (2) shifts of election
+officials, with the exception of the moderator, as set forth therein. | 
+ | May 4, 1983: To adopt the provisions of Public Act No. 82-318
+entitled "An Act Enabling Municipalities To Allow Veterans An Additional
+Exemption From Property Tax If Qualified Under Certain Income Requirements,"
+and authorize the granting of the additional property tax exemptions
+permitted thereunder subject to the conditions imposed in this Act. | 
+ | August 30, 1993: To adopt the provisions of Conn. Gen. Stat.
+12-81c Ambulance-Type Motor Vehicles Exempt From Personal Property
+Taxation. In accordance with the provisions of 12-81c of the Connecticut
+General Statutes, the Town Meeting authorizes and directs the Tax
+Assessor, commencing with the October 1, 1993 Grand List, to exempt
+from personal property taxation, any ambulance-type motor vehicle
+that is used exclusively (1) as primary transportation and/or (2)
+for the purpose of transporting any medically incapacitated individuals,
+except any such vehicle used to transport any such individual for
+payment. Such owner of the vehicle must show proof to the Assessor
+annually that the vehicle is being exclusively used to transport medically
+incapacitated individuals. | 
+
+
+iii      division into districts
+https://ecode360.com/6783004
+0.34518862009727724
+*The west boundary of the section north of Route 80 is extended
+to include a triangle as shown on Map No. 2107 filed in the Town Clerk’s
+office on August 17, 2017. | 
+
+
+xvi      off street parking and truck loading space
+https://ecode360.com/6783547
+0.29047693775788586
+0 | 15,000 | 1 | 
+15,000 | 30,000 | 2 | 
+30,000 | 150,000 | 3 | 
+150,000 |  | 1 space per 50,000 square feet or fraction thereof | 
+
+
+iv      general prohibitions
+https://ecode360.com/6783018
+0.2653026707810115
+10 and below | 0.0003 | 0.0004 | 
+11 to 20 | 0.0002 | 0.0002 | 
+21 to 30 | 0.0001 | 0.0002 | 
+31 to 40 | 0.0001 | 0.0001 | 
+41 to 50 | None | None | 
+51 to 60 | None | None | 
+61 and over | None | None | 
+
+
+dl      disposition list
+https://ecode360.com/8272318
+0.26473106422537235
+Board of Selectmen | 3-27-2017 | Parks and Recreation Amendment | Ch. 360 | 16 | 
+Planning and Zoning Commission | 10-20-2020 | Zoning Regulations Amendment | Ch. 500 | 16 | 
+Planning and Zoning Commission | 3-16-2021 | Zoning Regulations Amendment | Ch. 500 | 16 | 
+Board of Selectmen | 4-12-2021 | Taxation: Relief for Volunteer Fire Fighters and Emergency Medical
+Personnel Amendment | Ch. 412, Art. VI | 17 | 
+Planning and Zoning Commission | 9-21-2021 | Zoning Regulations Amendment | Ch. 500 | 17 | 
+
+
+a         special acts
+https://ecode360.com/11771007
+0.25036954287999735
+Approved March 22, 1991 | 
+
+
+iv      general prohibitions
+https://ecode360.com/6783018
+0.2417737148976141
+Sound-pressure levels shall be measured from
+the lot line of the property from which the noise is emanating.[Added 5-18-2004; amended 12-16-2008] | 
+
+
+iv      general prohibitions
+https://ecode360.com/6783018
+0.23692752575486403
+20 to 75 | 69 | 
+76 to 150 | 54 | 
+151 to 300 | 47 | 
+301 to 600 | 41 | 
+601 to 1,200 | 37 | 
+1,201 to 2,400 | 34 | 
+2,401 to 4,800 | 31 | 
+4,801 to 10,000 | 28 | 
+
+
+dl      disposition list
+https://ecode360.com/8272318
+0.22458758490059838
+Town Meeting | 6-11-2008 | Tax abatement for nonprofit land conservation
+organizations | Ch. 412, Art. X | 
+Planning and Zoning Commission | 8-19-2008 | Zoning regulations amendment | Ch. 500 | 
+Town Meeting | 10-27-2008 | Buildings: delay of demolition | Ch. 238 | 
+Town Meeting | 10-27-2008 | On-site sewage disposal systems | Ch. 445, Art. IV | 
+Referendum | 11-3-2008 | Charter | Charter | 
+Planning and Zoning Commission | 12-16-2008 | Subdivision regulations amendment; zoning regulations
+amendment; | Ch. 485; Ch. 500 | 
+Town Meeting | 1-21-2009 | Open space amendment | Ch. 352 | 
+Board of Selectmen | 1-26-2009 | Town actions regarding highways | Ch. 293, table only | 
+Planning and Zoning Commission | 2-1-2009 | Zoning regulations amendment | Ch. 500 | 
+Planning and Zoning Commission | 7-7-2009 | Zoning regulations amendment | Ch. 500 | 
+Town Meeting | 10-13-2010 | Buildings: delay of demolition | Ch. 238 | 
+Town Meeting | 11-18-2010 | Tax exemption for certain motor vehicles | Ch. 412, Art. XI | 
+Board of Selectmen | 5-17-2010 | Town actions regarding highways | Ch. 293, table only | 
+Planning and Zoning Commission | 2-15-2011 | Zoning regulations amendment | Ch. 500 | 
+Town Meeting | 3-2-2011 | Parks and recreation amendment | Ch. 360 | 
+Planning and Zoning Commission | 8-2-2011 | Subdivision regulations amendment; zoning regulations
+amendment; | Ch. 485; Ch. 500 | 
+Planning and Zoning Commission | 2-21-2012 | Zoning regulations amendment | Ch. 500 | 
+Inland Wetlands and Watercourses Commission | 3-13-2012 | Inland wetlands and watercourses regulations amendment | Ch. 470 | 
+Town Meeting | 11-15-2012 | Signs within limits of highways and public roads | Ch. 392, Art. I | 
+Planning and Zoning Commission | 5-21-2013 | Subdivision regulations amendment; zoning regulations amendment | Ch. 485; Ch. 500 | 
+Town Meeting | 11-21-2013 | Taxation: relief for volunteer fire fighters and emergency medical
+personnel | Ch. 412, Art. VI | 
+Inland Wetlands and Watercourses Commission | 12-10-2013 | Inland wetlands and watercourses regulations amendment | Ch. 470 | 
+Planning and Zoning Commission | 7-15-2014 | Zoning regulations amendment | Ch. 500 | 
+Town Meeting | 8-18-2014 | Fees: renewable energy projects | Ch. 275, Art III | 
+Board of Selectmen | 9-8-2014 | Taxation: exemption for horses of a certain market value | Ch. 412, Art. XII | 
+Town Meeting | 10-29-2015 | Taxation: Relief for Elderly or Disabled Persons Amendment | Ch. 412, Art. VII | 
+Town Meeting | 5-2-2016 | Fees: food service inspections amendment | Ch. 275, Art. I | 
+Town Meeting | 5-2-2016 | Fees: technical assistance | Ch. 275, Art IV | 
+Planning and Zoning Commission | 11-1-2016 | Subdivision regulations amendment; zoning regulations amendment; | Ch. 485; Ch. 500 | 
+Planning and Zoning Commission | 7-18-2017 | Zoning Regulations Amendment | Ch. 500 | 
+Planning and Zoning Commission | 8-7-2018 | Plan Of Conservation And Development | NCM | 
+
+
+vii      relief for elderly or disabled persons
+https://ecode360.com/6781743
+0.19152943254817045
+Less than $40,001 | $700 | 
+$40,001 to $45,000 | $500 | 
+$45,001 to $50,000 | $300 | 
+
+
+ii      public highways
+https://ecode360.com/6781435
+0.053280163903145494
+Abner Lane | From Beckwith Road to North Chestnut Hill Road | 
+Alders Bridge Road | From Route 81 to Schnoor Road | 
+Beckwith Road | From Route 148 southerly to state forest | 
+Bethke Road | From Pond Meadow Road to Schnoor Road | 
+Birch Mill Road | From Route 148 northerly 1,056 feet | 
+Blue Hills Road | From Route 148 to Durham line | 
+Bunker Hill Road | From Route 148 northeasterly 2,640 feet | 
+Burr Hill Road | From Route 148 to Schnoor Road | 
+Chestnut Hill Road | From Route 80 to Madison Line | 
+Chittenden Road | From Route 80 to Cow Hill Road | 
+Coughlin Road | From Green Hill Road northwesterly 1,584 feet
+(portion abandoned 5-6-1996) | 
+County Road | From Route 148 to Madison line | 
+Cow Hill Road | From Green Hill Road to Clinton line | 
+Emanuel Church Road | From Route 148 to County Road (abandoned 4-14-1986) | 
+Fire Tower Road | From Route 81 and return to Route 81 | 
+Green Hill Road | From Route 81 to Madison line | 
+Iron Works Road | From Roast Meat Hill Road to Clinton line | 
+Jackson Road | From Little City Road to Haddam line | 
+Jay Dowd Road | From County Road northerly 2,112 feet | 
+Kelseytown Road | From Tower Hill Road to Clinton line | 
+Killingworth-Durham Road | From Route 148 to Route 81 | 
+L'Hommedieu Road | From Route 81 northerly 1,056 feet | 
+Little City Road | From Route 148 to Haddam line | 
+North Chestnut Hill Road | From Route 80 to Emanuel Church Road (portion
+abandoned 4-14-1986) | 
+North Roast Meat Hill Road | From Route 148 to Parker Hill Road | 
+Old County Road | From Pond Meadow Road westerly 528 feet | 
+Old Deep River Turnpike | From Reservoir Road to Menunketesuck River | 
+Old Deep River Turnpike | From Route 81 westerly through land of Bussa
+to Route 80, and from Route 80 westerly, passing land of Tuckerman,
+and returning to Route 80 | 
+Old Durham Road | From Route 148 northwesterly 300 feet to land
+of Francis Smulders | 
+Old Mine Road | From Cow Hill Road southwesterly 728 feet | 
+Paper Mill Road | From Green Hill Road northerly 99/100 mile | 
+Parker Hill Road | From Route 148 to Route 81 | 
+Parker Hill Road Extension | From Parker Hill Road to Haddam line | 
+Parmalee Road | From Reservoir Road to Chester line (abandoned
+4-14-1986) | 
+Pond Meadow Road | From Route 81 to Haddam line | 
+Reservoir Road | From Roast Meat Hill Road to Route 148 (portion
+abandoned 11-23-1987) | 
+River Road | From Chestnut Hill Road to Clinton line | 
+River Road Extension | From Chestnut Hill Road to River Road | 
+Roast Meat Hill Road | From Route 148 to Clinton Line | 
+Schnoor Road | From Route 148 to Pond Meadow Road | 
+Spencer Hill Road | From River Road to Clinton line (portion abandoned
+11-24-1997) | 
+Stevens Road | From Green Hill Road to Iron Works Road | 
+Summer Hill Road | From North Chestnut Hill Road to Madison line | 
+Titus Coan Road | From Iron Works Road to Old Deep River Turnpike
+(portion abandoned 4-13-1992) | 
+Tower Hill Road | From Deep River line northerly to state forest | 
+
+
+ix      drainage improvement criteria
+https://ecode360.com/6782366
+0.05197117788055736
+ | 10 | 170
+(t+23) | 
+ | 25 | 230
+(t+30) | 
+
+

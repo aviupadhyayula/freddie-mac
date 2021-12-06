@@ -1,0 +1,647 @@
+vii      planned community zoning districts
+https://ecode360.com/15703962
+0.5754413481864525
+1. | Gross tract area means the total area of land contained in the
+petition for reclassification to a planned community district. | 
+2. | Net tract area means the area of land from which the minimum
+common open space has been subtracted. | 
+
+
+vii      planned community zoning districts
+https://ecode360.com/15703962
+0.5499096574461285
+ | Dimensional standards | May be established by ordinance enacted by the Town Council
+at the time a property is placed in a planned community zoning district | 
+ | Dimensional standards not specified by ordinance enacted at
+the time a property is placed in a planned community district | Same as GB-1 and GB-2 Zones | 
+
+
+general provisions
+https://ecode360.com/8876689
+0.5407401556304078
+Building Construction | 84 | 
+Buildings, Dangerous | 88 | 
+Licenses | 93 | 
+Ditches | 111 | 
+Environmental Protection | 116 | 
+Grading, Drainage, and Erosion Control | 132 | 
+Land Use and Development | 140 | 
+Property Maintenance | 169 | 
+Restrictions on Hours of Operation of Certain Activities | 178 | 
+Street Naming; Addressing | 185 | 
+Streets and Sidewalks | 187 | 
+Trailers | 203 | 
+Vehicles, Abandoned or Unregistered | 207 | 
+Wireless Communications Facilities and Amateur Radio Antennas | 216 | 
+
+
+vii      planned community zoning districts
+https://ecode360.com/15703962
+0.5343888085671313
+1. | Minimum lot area and/or minimum lot width may be increased at
+the discretion of the Town Council by the ordinance enacted by the
+Town Council at the time a property is placed in a planned community
+district. | 
+
+
+vii      planned community zoning districts
+https://ecode360.com/15703962
+0.4934881071546534
+Figure 3. Planned Community Rezoning Process
+
+Development Plan Review Per Article XVI | 
+
+
+ix      off street parking and loading
+https://ecode360.com/15704141
+0.4910608976524994
+ | Clinic or office, medical and dental | 1 for each 200 square feet of floor area | 
+ | Day-care establishments | 1 for each 1,000 square feet of floor area | 
+ | Dwelling units, all types | 2 per dwelling unit in addition to garage space | 
+ | Funeral homes | 1 for each 100 square feet of floor area | 
+ | Hospitals | 1 for each bed based on rated capacity | 
+ | Lodging places | 1.75 for each guest room, plus minimum required spaces for all
+uses operated in conjunction with the lodging place | 
+ | Places of assembly | 1 for each 50 square feet of floor area | 
+ | Places of worship | 1 for each 100 square feet of floor area, plus minimum required
+spaces for all uses operated in conjunction with the place of worship | 
+ | Restaurants | 1 for each 50 square feet of floor area | 
+ | Retail and service uses | 1 for each 250 square feet of floor area | 
+
+
+ii      wetlands
+https://ecode360.com/15702582
+0.4407469972456896
+ | State and federal permitted disturbances, such as road crossings
+and fills | Permitted | Permitted | 
+ | Other road crossings, such as bridges | Permitted | Permitted | 
+ | Stormwater management outfalls | Permitted | Permitted | 
+ | Invasive species control | Permitted | Permitted | 
+ | Planting of native vegetation | Permitted | Permitted | 
+ | Floodplain creation | Permitted | Permitted | 
+ | Wetland creation/enhancement | Permitted | Permitted | 
+ | Tax ditch maintenance | Permitted | Permitted | 
+ | Stormwater management BMPs | Not permitted | Permitted | 
+ | Walking trails | Not permitted | Permitted | 
+ | Selective clearing for maintenance | Not permitted | Permitted | 
+ | Erosion or stabilization measures | Not permitted | Permitted | 
+
+
+ii      drainage and storm sewers
+https://ecode360.com/15702757
+0.437004285841366
+ | Flat residential, with about 30% of area impervious | 0.40 | 
+ | Flat residential, with about 60% of area impervious | 0.55 | 
+ | Moderately steep residential, with about 50% of area impervious | 0.65 | 
+ | Moderately steep built-up area, with about 70% of area impervious | 0.80 | 
+ | Flat commercial, with about 90% of area impervious | 0.80 | 
+
+
+vehicles and traffic
+https://ecode360.com/8878192
+0.3884464225970806
+Atlantic Avenue | Both | Entire length within the Town limits | 
+Central Avenue | Both | Entire length within the Town limits | 
+West Avenue | Both | Entire length within the Town limits | 
+Woodland Avenue | Both | Entire length within the Town limits | 
+
+
+vehicles and traffic
+https://ecode360.com/8878192
+0.36791378561647203
+ | Clubhouse Drive | The Village of Bear Trap Dunes | 
+ | Clubhouse Way | The Village of Bear Trap Dunes | 
+ | Magnolia Street | The Village of Bear Trap Dunes | 
+ | October Glory Avenue | The Village of Bear Trap Dunes | 
+ | Sycamore Street | The Village of Bear Trap Dunes | 
+ | Tulip Poplar Turn | The Village of Bear Trap Dunes | 
+ | Village Green | The Village of Bear Trap Dunes | 
+ | Willow Oak Avenue | The Village of Bear Trap Dunes | 
+
+
+v      dimensional regulations
+https://ecode360.com/15703835
+0.36399932373605215
+1. | Tract means a property that is not yet subdivided. | 
+2. | N/A means not applicable. | 
+3. | See also § 140-36 concerning design standards in the GB-1 Zone. | 
+
+
+xvi      development plan approval
+https://ecode360.com/15704616
+0.35011991211366633
+The approval or recordation of a land development site plan
+activates the start of the period for which the plan is valid. | N/A | 12 months | Must be recorded within 90 days of approval | 2 years | 
+Number/duration of extensions permitted, provided that the applicant
+can demonstrate that delays were beyond his/her control | N/A | 1 extension not to exceed 6 months | 1 extension for a maximum of 60 days | 2 extensions for a maximum of 6 months each | 
+
+
+i      street naming
+https://ecode360.com/8877731
+0.34674976399464563
+Older recognized name (if known) | 1 | 
+Greater number of addresses | 1 | 
+Arterial street | 1 | 
+Historical relevance | 1 | 
+Existing street signs | 1 | 
+Relatedness of Town/subdivision names | 1 | 
+
+
+xvi      development plan approval
+https://ecode360.com/15704616
+0.3330543239497904
+Figure 6. Single Lot Development Certifications | 
+
+
+v      dimensional regulations
+https://ecode360.com/15703835
+0.3280365743132774
+1. | Tract means a property that is not yet subdivided. | 
+2. | N/A means not applicable. | 
+
+
+v      dimensional regulations
+https://ecode360.com/15703835
+0.3280365743132774
+1. | Tract means a property that is not yet subdivided. | 
+2. | N/A means not applicable. | 
+
+
+v      dimensional regulations
+https://ecode360.com/15703835
+0.3280365743132774
+1. | Tract means a property that is not yet subdivided. | 
+2. | N/A means not applicable. | 
+
+
+xvi      development plan approval
+https://ecode360.com/15704616
+0.3266668847447951
+Figure 8. Development Plan Review Process | 
+
+
+vehicles and traffic
+https://ecode360.com/8878192
+0.32454953780248397
+ | Central Avenue from the Assawoman Canal to Atlantic Avenue (SR26) | 
+ | West Avenue from Central Avenue to Atlantic Avenue (SR26) | 
+ | Woodland Avenue | 
+
+
+vehicles and traffic
+https://ecode360.com/8878192
+0.3197330451772195
+ | Muddy Neck Road from Calgary Avenue to Double Bridges Road | 
+ | Beaver Dam Road throughout the Town limits | 
+
+
+xvi      development plan approval
+https://ecode360.com/15704616
+0.3179591891416136
+Figure 7. Development Plan Certifications, Statements,
+and Approvals
+[Amended 11-18-2014 by Ord. No. 317] | 
+
+
+election districts
+https://ecode360.com/8876803
+0.3167392156354729
+ | "This is to certify that this is the Official 2011 Election Districts Map referred to in Section 1, Chapter 13 of the Ocean View Code and referred to in Section 1, of Ordinance No. _________ of the Town of Ocean View, adopted on the ______ day of _______, 2011." | 
+
+
+vi      additional use and dimensional regulations
+https://ecode360.com/15703842
+0.3155349685274701
+Figure 2. Sight Triangle and Street Right-of-Way | 
+
+
+vehicles and traffic
+https://ecode360.com/8878192
+0.3081661530392073
+ | Central Avenue from Windmill Drive to Beaver Dam Road | 
+ | Windmill Drive | 
+
+
+ii      wetlands
+https://ecode360.com/15702582
+0.30693134627676144
+ | Sample Calculation:
+A site has a total buffer length of 500 feet. The area encompassed
+by the Zone B portion of the buffer is equal to 15 feet by 500 feet
+= 7,500 square feet of buffer. The Zone A buffer is equal to 10 feet
+by 500 feet = 5,000 square feet with a total buffer area of 12,500
+square feet. As long as the area contained within the newly configured
+Zone B buffer is equal to or greater than 7,500 square feet, the plan
+will meet the buffer requirements of this article. | 
+
+
+ii      fees  rates and meters
+https://ecode360.com/8878219
+0.29993749028747546
+ | 5/8 to 3/4 | $107.66 | 
+ | 1 | $172.78 | 
+ | 1 1/2 | $303.00 | 
+ | 2 | $463.26 | 
+ | 3 | $885.20 | 
+ | 4 | $1,369.74 | 
+ | 6 | $2,664.37 | 
+ | 8 | $4,151.80 | 
+
+
+ii      fees  rates and meters
+https://ecode360.com/8878219
+0.29993749028747546
+ | 5/8 to 3/4 | $1,900 | 
+ | 1 | $2,500 | 
+ | 1 1/2 | $3,200 | 
+ | 2 | $4,100 | 
+ | 3 | $7,260 | 
+ | 4 | $8,540 | 
+ | 6 | $12,420 | 
+ | 8 | $22,000 | 
+
+
+vehicles and traffic
+https://ecode360.com/8878192
+0.29340575603733454
+ | West Avenue from Atlantic Avenue (SR26) to Calgary Avenue | 
+ | Central Avenue from Atlantic Avenue (SR26) to Windmill Drive | 
+
+
+dl      disposition list
+https://ecode360.com/8879201
+0.28792253430932613
+365 | 11-12-2019 | Licenses Amendment | Ch. 93 | 18 | 
+366 | 3-10-2020 | 2020 Comprehensive Plan | NCM | 19 | 
+367 | 3-10-2020 | Tort Claims, Notification of Amendment | Ch. 199 | 19 | 
+368 | 3-10-2020 | General Provisions: Penalties and Fines | Ch. 1, Art. II | 19 | 
+369 | 4-14-2020 | Budget | NCM | 19 | 
+370 | 4-14-2020 | Budget | NCM | 19 | 
+371 | 7-14-2020 | Budget | NCM | 19 | 
+372 | 7-14-2020 | Budget | NCM | 19 | 
+82 Del. Laws, c. 273 | 8-6-2020 | Charter of Ocean View Amendment | Charter | 19 | 
+373 | 9-8-2020 | Animals Amendment | Ch. 68 | 19 | 
+374 | 4-13-2021 | Budget | NCM | 19 | 
+375 | 4-13-2021 | Budget | NCM | 19 | 
+376 | 5-11-2021 | Animals Amendment | Ch. 68 | 19 | 
+377 | 7-13-2021 | Land Use and Development Amendment | Ch. 140 | 19 | 
+378 | 7-13-2021 | Budget | NCM | 19 | 
+379 | 7-13-2021 | Budget | NCM | 19 | 
+
+
+xii      subdivision and land development
+https://ecode360.com/15704418
+0.27543921257409476
+Figure 5. Permanent Drainage Easement | 
+
+
+v      dimensional regulations
+https://ecode360.com/15703835
+0.258797340351513
+Figure 1. Lot Layouts—Single-Family, Semi-Detached,
+Townhouse | 
+
+
+xxi      definitions
+https://ecode360.com/15705302
+0.25729216164698265
+Figure 12. Buildings and Structures: Setbacks, Yards and
+Lot Lines On Corner Lots | 
+
+
+xxi      definitions
+https://ecode360.com/15705302
+0.2567190309472638
+Figure 11. Buildings and Structures: Setbacks, Yards and
+Lot Lines Not On Corner Lots | 
+
+
+ix      off street parking and loading
+https://ecode360.com/15704141
+0.251172346558024
+Figure 4. Parking Space Dimensions and Interior Drive
+Aisle Widths | 
+
+
+voting
+https://ecode360.com/8877409
+0.24570584552166377
+ | and such other entries as the Town Council of
+Ocean View shall deem proper to prevent fraud and to make possible
+the tracing and detection of any attempt to do so. The Town Council
+of Ocean View shall also provide a space in the Register and shall
+note thereon the date on which the Town Administrator receives the
+affidavit requesting an official ballot as provided by this article.
+The Town Administrator shall compile from the register a list of names
+and addresses of all applicants for absentee ballots and shall send
+current and complete copies thereof, without cost, to all candidates
+on the ballot in the forthcoming election. Such list shall be made
+available to the candidates during the two weeks before the election,
+such information to be recorded by the candidates from the daily records
+of the Town Administrator with the cooperation and assistance of the
+Town Administrator. | 
+
+
+i      street naming
+https://ecode360.com/8877731
+0.20163572539253122
+Prefix Directional | 2 | 
+Street Name | 20 | 
+Street Suffix | Up to 6 | 
+
+
+i      streets
+https://ecode360.com/8877811
+0.196124761848271
+ | Figure 1. Street Name Sign Location | 
+ |  | 
+
+
+voting
+https://ecode360.com/8877409
+0.19577180651394352
+"Request received from ____________________________
+of _______________________________ by mail ________________ in person
+________________; ballot and official envelope number _______________,
+mailed to applicant on _______________ or ballot and official envelope
+delivered to ______________________________, of _____________________________,
+on __________________; marked ballot sealed in package of official
+ballots; marked ballot forwarded to polls ________________________;" | 
+
+
+vehicles and traffic
+https://ecode360.com/8878192
+0.1715856193948356
+ | Atlantic Avenue (SR26) | 
+
+
+ix      off street parking and loading
+https://ecode360.com/15704141
+0.15777075962614717
+ | Width (feet) | 12.0 | 10.0 | 
+ | Depth (feet) | 40.0 | 25.0 | 
+ | Vertical clearance (feet) | 14.5 | 8.0 | 
+
+
+xxi      definitions
+https://ecode360.com/15705302
+0.145121285145246
+Figure 10. Lot Types | 
+
+
+xxi      definitions
+https://ecode360.com/15705302
+0.12984032100595375
+Figure 9. Dwelling Types | 
+
+
+iii      water resource protection areas
+https://ecode360.com/15702628
+0.0978402655256527
+ | 
+
+
+i      streets
+https://ecode360.com/8877811
+0.07994745200841313
+ | Wearing (surface) course (inches) | 1 1/2 | 1 1/2 | 
+ | Binder course (inches) | 1 3/4 | 2 | 
+ | Bit. conc. base conc. (inches) | 3 | 3 | 
+ | Aggregate subbase (inches) | 6 | 8 | 
+ | Structural number | 2.93 | 3.26 | 
+ | Geotextile separator | Yes | Yes | 
+
+
+ii      fees  rates and meters
+https://ecode360.com/8878219
+0.048092685339949204
+ | 1 | $52 | 
+ | 2 | $155 | 
+ | 4 | $725 | 
+ | 6 | $1,600 | 
+ | 8 | $2,820 | 
+
+
+dl      disposition list
+https://ecode360.com/8879201
+-2.22498267142844
+136 | 1-7-2003 | Exemption from Town fees | Ch. 93 | 
+137 | 1-22-2003 | Election districts amendment | Ch. 13 | 
+141A | 4-1-2003 | Adoption of Code | Ch. 1, Art. I | 
+145 | 10-7-2003 | Zoning amendment | Repealed by Ord. No. 268 | 
+146 | 10-7-2003 | Zoning amendment | Repealed by Ord. No. 268 | 
+148 | 1-6-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+149 | 1-6-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+150 | 1-6-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+151 | 2-3-2004 | Animals amendment | Ch. 68, Art. II | 
+152 | 3-2-2004 | Comprehensive Plan | NCM | 
+153 | 3-2-2004 | Streets and sidewalks amendment | Repealed by Ord. No. 268 | 
+157 | 4-6-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+159 | 6-1-2004 | Taxes and fees | Chs. 3, 84, 93, 163; Chs. 187, 190 and 222 repealed by Ord. No. 268 | 
+160 | 6-1-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+161 | 7-6-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+162 | 7-6-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+163 | 7-6-2004 | Personnel policy | Ch. 28 | 
+165 | 9-7-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+166 | 9-7-2004 | Restriction on hours of operation of activities | Ch. 178 | 
+168 | 11-9-2004 | Street and construction standards amendment | Repealed by Ord. No. 268 | 
+169 | 11-9-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+171 | 12-7-2004 | Zoning amendment | Repealed by Ord. No. 268 | 
+172 | 4-5-2005 | Zoning amendment | Repealed by Ord. No. 268 | 
+173 | 4-5-2005 | Zoning amendment | Repealed by Ord. No. 268 | 
+176 | 5-3-2005 | Subdivision of land amendment | Repealed by Ord. No. 268 | 
+177 | 5-3-2005 | Zoning amendment | Repealed by Ord. No. 268 | 
+178 | 5-3-2005 | Zoning amendment | Repealed by Ord. No. 268 | 
+180 | 8-3-2005 | Building construction: hours and days restricted
+amendment | Ch. 84, Art. III | 
+181 | 8-3-2005 | Taxes and fees amendment | Ch. 3 | 
+182 | 8-2-2005 | Zoning amendment | Repealed by Ord. No. 268 | 
+184 | 10-4-2005 | Personnel policy amendment | Ch. 28 | 
+185 | 10-4-2005 | Zoning amendment | Repealed by Ord. No. 268 | 
+187 | 11-1-2005 | Procurement of material and award of contract
+amendment | Ch. 40 | 
+188 | 11-1-2005 | Personnel policy amendment | Ch. 28 | 
+190 | 12-6-2005 | Subdivision of land amendment | Repealed by Ord. No. 268 | 
+192 | 1-3-2006 | Zoning amendment | Repealed by Ord. No. 268 | 
+193 | 2-7-2006 | Taxes and fees amendment | Ch. 3 | 
+194 | 2-7-2006 | Personnel policy amendment | Ch. 28 | 
+195 | 3-7-2006 | Conditional use | NCM | 
+196 | 3-7-2006 | Zoning amendment | Repealed by Ord. No. 268 | 
+197 | 3-14-2006 | Budget | NCM | 
+198 | 3-14-2006 | Budget | NCM | 
+199 | 5-2-2006 | Vehicles and traffic | Ch. 210 | 
+200 | 6-6-2006 | Annexation | NCM | 
+201 | 6-6-2006 | Conditional use | NCM | 
+2006 Del. Laws, c. 312 | 6-27-2006 | Charter amendment | § 3.111 | 
+202 | 9-5-2006 | Business licenses amendment | Ch. 93 | 
+203 | 9-5-2006 | Street naming; addressing | Ch. 185 | 
+204 | 9-5-2006 | Vehicles and traffic amendment | Ch. 210 | 
+205 | 9-5-2006 | Emergency services funding | Ch. 15, Art. I | 
+206 | 10-3-2006 | Wireless communications facilities and amateur
+radio antennas | Ch. 216 | 
+207 | 11-7-2006 | Subdivision of land amendment | Repealed by Ord. No. 268 | 
+208 | 11-7-2006 | Zoning amendment | Repealed by Ord. No. 268 | 
+209 | 11-7-2006 | Property maintenance amendment | Ch. 169 | 
+210 | 12-5-2006 | Taxes and fees amendment | Ch. 3 | 
+211 | 2-6-2007 | Connection to public water service | Ch. 213, Art. I | 
+212 | 3-6-2007 | Emergency Reserve Trust Fund | Ch. 14 | 
+213 | 3-6-2007 | Capital Replacement Trust Fund | Ch. 8 | 
+214 |  | Annexation of land | NCM | 
+215 |  | Annual budget | NCM | 
+216 |  | Capital improvements program for 2008 through
+2012 | NCM | 
+217 | 4-3-2007 | Personnel policy amendment | Ch. 28 | 
+218 | 4-3-2007 | Taxes and fees amendment | Ch. 3 | 
+219 | 5-3-2007 | Zoning amendment | Repealed by Ord. No. 268 | 
+220 | 5-3-2007 | Connection to public water service amendment | Ch. 213, Art. I | 
+221 | 6-5-2007 | Impact fees | Ch. 136 | 
+222 | 7-10-2007 | Licenses amendment | Ch. 93 | 
+223 |  | Authorization of borrowing | NCM | 
+224 | 8-8-2007 | Single lot development | Ch. 181 | 
+225 | 10-2-2007 | Taxes and fees amendment | Ch. 3 | 
+226 | 10-2-2007 | Zoning amendment | Repealed by Ord. No. 268 | 
+227 | 10-2-2007 | Personnel policy amendment | Ch. 28 | 
+228 | 12-4-2007 | Registration of voters amendment | Ch. 54, Art. I | 
+229 | 12-5-2007 | Personnel policy amendment | Ch. 28 | 
+230 | 1-7-2008 | Taxes and fees amendment | Ch. 3 | 
+231 | 1-7-2008 | Election districts amendment | Ch. 13 | 
+232 | 2-5-2008 | Water rates, fees and meters | Ch. 213, Art. II | 
+233 |  | Budget | NCM | 
+234 |  | Budget | NCM | 
+235 | 4-1-2008 | Licenses amendment | Ch. 93 | 
+236 | 5-7-2008 | Zoning amendment | Repealed by Ord. No. 268 | 
+237 |  | Budget | NCM | 
+238 |  | Budget | NCM | 
+239 | 10-14-2008 | Connection to public water service amendment | Ch. 213, Art. I | 
+240 | 11-18-2008 | Registration of voters amendment | Ch. 54, Art. I | 
+241 | 11-18-2008 | Zoning amendment | Repealed by Ord. No. 268 | 
+242 | 12-9-2008 | Financial good standing | Ch. 120 | 
+243 | 1-13-2009 | Street Repair and Replacement Trust Fund | Ch. 49 | 
+244 | 3-10-2009 | Zoning amendment | Repealed by Ord. No. 268 | 
+245 | 3-10-2009 | Emergency Reserve Trust Fund amendment | Ch. 14 | 
+246 |  | Budget | NCM | 
+247 |  | Budget | NCM | 
+248 | 4-14-2009 | Personnel policy amendment | Ch. 28 | 
+249 | 5-12-2009 | Water fees, rates and meters amendment | Ch. 213, Art. II | 
+250 | 6-8-2009 | Water fees, rates and meters amendment; disconnection for nonpayment | Ch. 213, Arts. II and III | 
+251 | 6-8-2009 | Connection to pubic water service amendment | Ch. 213, Art. I | 
+252 | 8-11-2009 | Zoning amendment | Repealed by Ord. No. 268 | 
+253 | 8-11-2009 | Water fees, rates and meters amendment | Ch. 213, Art. II | 
+254 | 9-8-2009 | Fees amendment | Ch. 3 | 
+255 | 9-8-2009 | Water fees, rates and meters amendment | Ch. 213, Art. II | 
+256 | 11-10-2009 | Conditional use | NCM | 
+257 | 1-12-2010 | Zoning Map amendment | NCM | 
+258 | 2-16-2010 | Moratorium | NCM | 
+259 | 2-16-2010 | Moratorium | NCM | 
+260 | 3-9-2010 | Annexation | NCM | 
+261 |  | Budget | NCM | 
+262 |  | Budget | NCM | 
+263 | 5-11-2010 | Water fees, rates and meters amendment | Ch. 213, Art. II | 
+264 | 5-11-2010 | Fees amendment | Ch. 3 | 
+265 | 5-11-2010 | Licenses amendment | Ch. 93 | 
+266 |  | Comprehensive Land Use Plan | NCM | 
+267 |  | Conditional use | NCM | 
+77 Del. Laws, c. 399 | 7-15-2010 | Charter | Charter | 
+268 | 9-21-2010 | Environmental protection; grading, drainage and erosion control;
+land use and development; streets and sidewalks; subdivision of land
+repealer; zoning repealer | Chs. 116; 132; 140; 187; 190 (reference only); 222 (reference only) | 
+269 |  | Annexation | NCM | 
+270 | 2-8-2011 | Personnel policy amendment | Ch. 28 | 
+271 |  | Annexation | NCM | 
+272 |  | Budget | NCM | 
+273 |  | Budget | NCM | 
+274 | 4-12-2011 | Land use and development amendment | Ch. 140 | 
+275 | 5-17-2011 | Street improvement districts | Ch. 187 | 
+276 | 5-17-2011 | Fees amendment | Ch. 3 | 
+277 | 5-17-2011 | Property maintenance amendment | Ch. 169 | 
+278 | 5-17-2011 | Emergency Reserve Trust Fund amendment | Ch. 14 | 
+279 | 5-24-2011 | Streets and sidewalks amendment | Ch. 187 | 
+280 | 6-14-2011 | Street Repair and Replacement Trust Fund amendment | Ch. 49 | 
+281 | 6-14-2011 | Water fees, rates and meters amendment | Ch. 213, Art. II | 
+282 |  | Annexation | NCM | 
+283 | 7-12-2011 | Streets and sidewalks amendment | Ch. 187 | 
+284 | 10-11-2011 | Land use and development amendment | Ch. 140 | 
+285 | 10-11-2011 | Election districts amendment | Ch. 13 | 
+286 | 11-8-2011 | Sleeping in public | Superseded by Ord. No. 345 | 
+287 | 12-13-2011 | Fees amendment | Ch. 3 | 
+288 | 1-10-2012 | Water fees, rates and meters amendment | Ch. 213, Art. II | 
+289 | 4-10-2012 | Zoning Map amendment | NCM | 
+290 | 4-10-2012 | Land use and development amendment | Ch. 140 | 
+291 | 4-10-2012 | Personnel policy amendment | Ch. 28 | 
+292 | 4-10-2012 | Budget | NCM | 
+293 | 4-10-2012 | Capital improvement program | NCM | 
+294 | 7-10-2012 | Building construction: hours and days restricted amendment | Ch. 84, Art. III | 
+295 | 9-18-2012 | Personnel policy amendment | Ch. 28 | 
+296 | 10-9-2012 | Domesticated animals amendment | Ch. 68, Art. IV | 
+297 | 11-13-2012 | Land use and development amendment | Ch. 140 | 
+298 | 2-12-2013 | Annexation | NCM | 
+299 | 3-12-2013 | Budget | NCM | 
+300 | 3-12-2013 | Budget | NCM | 
+301 | 4-9-2013 | Comprehensive Land Use Plan amendment | NCM | 
+302 | 5-14-2013 | Personnel policy amendment | Ch. 28 | 
+303 | 5-14-2013 | Street Repair and Replacement Trust Fund amendment | Ch. 49 | 
+304 | 5-14-2013 | Capital Replacement Trust Fund amendment | Ch. 8 | 
+305 | 7-9-2013 | Personnel policy amendment | Ch. 28 | 
+306 | 12-10-2013 | Water amendment | Ch. 213, Arts. II and III | 
+307 | 2-11-2014 | Water fees, rates and meters amendment | Ch. 213, Art. II | 
+308 | 4-8-2014 | Budget | NCM | 
+309 | 4-8-2014 | Budget | NCM | 
+310 | 5-13-2014 | Land use and development amendment | Ch. 140 | 
+311 | 5-13-2014 | Land use and development amendment | Ch. 140 | 
+312 | 10-14-2014 | Land use and development amendment | Ch. 140 | 
+313 | 10-14-2014 | Building construction | Ch. 84 | 
+314 | 11-18-2014 | Land use and development amendment | Ch. 140 | 
+315 | 11-18-2014 | Land use and development amendment | Ch. 140 | 
+316 | 11-18-2014 | Land use and development amendment | Ch. 140 | 
+317 | 11-18-2014 | Land use and development amendment | Ch. 140 | 
+318 | 11-18-2014 | Land use and development amendment | Ch. 140 | 
+319 | 1-13-2015 | Environmental protection amendment | Ch. 116 | 
+320 | 1-13-2015 | Land use and development amendment | Ch. 140 | 
+321 | 3-10-2015 | Annexation | NCM | 
+322 | 4-14-2015 | Budget | NCM | 
+323 | 4-14-2015 | Budget | NCM | 
+324 | 5-12-2015 | Capital Replacement Trust Fund amendment | Ch. 8 | 
+325 | 5-12-2015 | Street Repair and Replacement Trust Fund amendment | Ch. 49 | 
+326 | 11-10-2015 | Streets and sidewalks amendment | Ch. 187 | 
+327 | 3-8-2016 | Vehicles and traffic amendment | Ch. 210 | 
+328 | 4-12-2016 | Budget | NCM | 
+329 | 4-12-2016 | Budget | NCM | 
+330 | 7-12-2016 | Land use and development amendment | Ch. 140 | 
+331 | 11-8-2016 | Personnel policy repealer | Ch. 28 (reference only) | 
+332 | 11-8-2016 | Police pension fund repealer | Ch. 36 (reference only) | 
+333 | 11-8-2016 | Vehicles and traffic amendment | Ch. 210 | 
+334 | 2-14-2017 | Annexation of land amendment | NCM | 
+335 | 2-14-2017 | 2015 Comprehensive Land Use Plan amendment | NCM | 
+336 | 3-14-2017 | Financial good standing amendment | Ch. 120 | 
+337 | 4-11-2017 | Annual operating budget | NCM | 
+338 | 4-11-2017 | Capital expenditures budget | NCM | 
+339 | 5-9-2017 | Emergency Reserve Trust Fund amendment | Ch. 14 | 
+340 | 9-12-2017 | Zoning Map amendment | NCM | 
+341 | 9-12-2017 | Land use and development amendment | Ch. 140 | 
+342 | 9-12-2017 | Land use and development amendment | Ch. 140 | 
+343 | 12-12-2017 | Fees amendment | Ch. 3 | 
+344 | 12-12-2017 | Assessments | Ch. 5 | 
+345 | 3-13-2018 | Animals Amendment; Bicycles Repealer Disorderly Conduct Amendment;
+Bonfires; Gambling Repealer | Ch. 68; Ch. 77, reference only; Ch. 107; Ch. 123; Ch. 130, reference only | 
+346 | 4-10-2018 | Capital Replacement Trust Fund Amendment | Ch. 8 | 
+347 | 4-10-2018 | Budget | NCM | 
+348 | 4-10-2018 | Budget | NCM | 
+349 | 4-10-2018 | Budget | NCM | 
+350 | 4-10-2018 | Budget | NCM | 
+81 Del. Laws, c. 246 | 5-24-2018 | Charter of Ocean View Amendment | Charter | 
+351 | 6-12-2018 | Bond | NCM | 
+352 | 10-9-2018 | Land Use and Development Amendment | Ch. 140 | 
+353 | 10-9-2018 | Annexation | NCM | 
+354 | 10-9-2018 | Land Use and Development Amendment | Ch. 140 | 
+355 | 11-13-2018 | Assessments Amendment | Ch. 5 | 
+356 | 3-12-2019 | Land Use and Development Amendment | Ch. 140 | 
+357 | 3-12-2019 | Land Use and Development Amendment | Ch. 140 | 
+358 | 4-9-2019 | Budget | NCM | 
+359 | 4-9-2019 | Budget | NCM | 
+360 | 4-9-2019 | Licenses Amendment | Ch. 93 | 
+361 | 5-14-2019 | Budget | NCM | 
+362 | 5-14-2019 | Budget | NCM | 
+363 | 6-11-2019 | Rezoning | NCM | 
+364 | 7-9-2019 | Restriction on Hours of Operation of Certain Activities Amendment | Ch. 178 | 
+
+

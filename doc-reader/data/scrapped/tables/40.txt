@@ -1,0 +1,135 @@
+parking
+https://ecode360.com/11811927
+0.4839356405882802
+ | Parking time limit | $20 | 
+ | Parking in no-parking area | $20 | 
+ | Parking in crosswalk | $20 | 
+ | Parking within 10 feet of fire hydrant | $50 | 
+ | Parking within 25 feet of intersection | $20 | 
+ | Parking in front of driveway | $20 | 
+ | Parking in Town park | $20 | 
+ | Parking in restricted area | $30 | 
+ | Parking in handicapped zone | See § 390-3B | 
+ | Other violations | $20 | 
+
+
+a         special acts
+https://ecode360.com/11812476
+0.4371790246181705
+ | May 1823 | Incorporating the Town of Monroe | 
+158 | 4-18-1895 | Giving certain persons residing in the house
+of Wilson Sherman the right to vote in Monroe | 
+412 | 6-21-1923 | Validating certain deeds recorded in the land
+records of the Town of Monroe | 
+272 | 5-8-1935 | Concerning the continuation of a trunk line
+highway in the Town of Monroe | 
+328 | 7-8-1947 | Creating a Board of Police Commissioners and
+a Police Department in the Town of Monroe | 
+191 | 6-1-1951 | Validating sales tax in the Town of Monroe | 
+523 | 5-27-1957 | Concerning Route 25 in the City of Bridgeport
+and the Town of Trumbull | 
+
+
+viii      commercial tax abatement
+https://ecode360.com/13265423
+0.41752326491496816
+ | $10 million+ | Up to 50% of increased assessment | Up to 7 | 
+ | $5 million+ | Up to 30% of increased assessment | Up to 7 | 
+ | $3 million+ | Up to 20% of increased assessment | 5 to 7 | 
+ | $500,000+ | Up to 30% of increased assessment | Up to 3 | 
+ | $100,000+ | Up to 20% of increased assessment | Up to 3 | 
+ | $25,000+ | Up to 50% of increased assessment | Up to 3 | 
+
+
+i      relief for elderly and permanently disabled
+https://ecode360.com/11812336
+0.24544690506869732
+ | NOTE: | 
+ | The above table shall become effective on the Grand List of
+October 2016. Tax credits granted pursuant to this article shall be
+equally divided between and credited to each payment period. | 
+
+
+dt      derivation table
+https://ecode360.com/13265444
+0.2100247143507971
+NCM | = | Not Code material (legislation is
+not general or permanent in nature). | 
+REP | = | Repealed effective with adoption of Code; see Ch. 1, Art. II. | 
+NI | = | Not included in Code but saved from
+repeal. | 
+NLP | = | New legislation is pending. | 
+
+
+i      relief for elderly and permanently disabled
+https://ecode360.com/11812336
+0.19038566177911342
+ | $0 to $23,600 | 15% | $1,500 | 
+ | $23,601 to $32,700 | 13% | $1,300 | 
+ | $32,701 to $47,376 | 11% | $1,100 | 
+ | $47,377 to $55,850 | 9% | $900 | 
+ | $55,851 to $60,000 | 6% | $600 | 
+
+
+xiii      underdrain
+https://ecode360.com/11812619
+0.11698382164629283
+ | 1/8 inch | 100 | 
+ | 1/2 inch | 85 to 100 | 
+ | 3/8 inch | 50 to 100 | 
+ | 1/4 inch | 30 to 85 | 
+ | No. 4 | 20 to 80 | 
+ | No. 10 | 0 to 30 | 
+ | No. 100 | 0 to 2 | 
+
+
+dl      disposition list
+https://ecode360.com/11812723
+0.07857467204480723
+1-14-2002 | Blighted premises | Ch. 405, Art. II | 
+1-28-2002 | Cigarette vending machines | Ch. 246, Art. I | 
+3-25-2002 | Tax abatement for emergency medical services
+personnel | Ch. 470, Art. V | 
+1-13-2003 | Tax abatement for volunteer firefighters | Ch. 470, Art. VI | 
+1-13-2003 | Tax relief for veterans and surviving spouses | Ch. 470, Art. VII | 
+6-9-2003 | Tax relief for elderly and permanently disabled
+amendment | Ch. 470, Art. I | 
+11-6-2003 | Demolition of buildings | Ch. 237 | 
+1-26-2004 | Health District | Repealed 11-23-2015 | 
+8-23-2004 | Extension of water mains | Ch. 494, Art. I | 
+10-24-2004 | Possession of alcoholic beverages by minors | Ch. 208, Art. I | 
+1-24-2005 | Scenic roads | Ch. 430 | 
+2-27-2006 | Eminent domain | Ch. 270 | 
+2-27-2006 | Upper Stepney/Birdsey's Plain Historic District | Dissolved 2-27-2009 | 
+6-14-2007 | Tax abatement for volunteer firefighters amendment | Ch. 470, Art. VI | 
+6-14-2007 | Tax abatement for emergency medical services
+personnel amendment | Ch. 470, Art. V | 
+10-22-2007 | Fire zones amendment | Ch. 284 | 
+12-10-2007 | Tax relief for elderly permanently disabled
+amendment | Ch. 470, Art. I | 
+12-4-2008 | Commercial tax abatement | Ch. 470, Art. VIII | 
+12-8-2008 | Driveway construction | Ch. 260 | 
+12-8-2008 | Highway modification | Ch. 308 | 
+8-24-2009 | Adoption of Code | Ch. 1, Art. II | 
+6-14-2010 | Regional Council of Elected Officials | Ch. 146 | 
+6-14-2010 | Zoning penalties amendment | Ch. 505 | 
+10-12-2010 | Parking of commercial vehicles on public roads | Ch. 390, Art. II | 
+12-13-2010 | Alarm systems: false alarms | Ch. 206, Art. I | 
+2-28-2011 | Tax abatement for emergency medical services personnel amendment | Ch. 470, Art. V | 
+3-28-2011 | Farming: right to farm | Ch. 278, Art. I | 
+3-28-2011 | Open space and land acquisition fund | Ch. 60, Art. V | 
+ | Tax abatement for surviving spouses of police officers and firefighters |  | 
+12-12-2011 | Demolition of buildings amendment | Ch. 237 | 
+12-12-2011 | Auctions amendment | Ch. 220 | 
+11-23-2015 | Health Department | Ch. 71 | 
+11-23-2015 | Peddlers and transient sellers | Ch. 397 | 
+11-23-2015 | Pensions and retirement: Section 401(a) Money Purchase Pension
+Plan | Ch. 130, Art. I | 
+11-23-2015 | Pensions and retirement: Other Post-Employment Benefits Trust | Ch. 130, Art. II | 
+11-23-2015 | Salons | Ch. 425 | 
+11-28-2016 | Public swimming pools | Ch. 420 | 
+11-28-2016 | Food service establishments | Ch. 291 | 
+11-28-2016 | Health and sanitation amendment | Ch. 305 | 
+11-28-2016 | Taxation: relief for the elderly and permanently disabled | Ch. 470, Art. I | 
+
+

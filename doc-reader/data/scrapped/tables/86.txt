@@ -1,0 +1,177 @@
+part i      general policies
+https://ecode360.com/30155536PM
+0.41480024382879727
+ | County | 21.032% | 
+ | Vo-Tech | 9.127% | 
+ | School District | 67.698% | 
+ | Library District | 2.143% | 
+ |  | 100.000% of dollars received | 
+
+
+part i      general policies
+https://ecode360.com/30155536PM
+0.41480024382879727
+ | County | 21.032% | 
+ | Vo-Tech | 9.127% | 
+ | School District | 67.698% | 
+ | Library District | 2.143% | 
+ |  | 100.000% of dollars received | 
+
+
+part i      general policies
+https://ecode360.com/30155536PM
+0.407671411643258
+ | County | 0.265 | 
+ | Vo-Tech | 0.115 | 
+ | School District | 0.853 | 
+ | Library District | 0.027 | 
+ |  | $1.26/$100 of assessed valuation | 
+
+
+part i      general policies
+https://ecode360.com/30155536PM
+0.407671411643258
+ | County | 0.265 | 
+ | Vo-Tech | 0.115 | 
+ | School District | 0.853 | 
+ | Library District | 0.027 | 
+ |  | $1.260/$100 of assessed valuation | 
+
+
+part i      use and designation of county buildings
+https://ecode360.com/30154664PM
+0.40183566963116835
+Shift Supervisor | 
+Foreman | 
+Department Manager | 
+County Administrator | 
+Director of Public Safety or designee | 
+President of Levy Court or designee | 
+
+
+part ii      vehicles
+https://ecode360.com/30154730PM
+0.33307007009736134
+ | 4 — 5 | Loss of commuting privileges for one week | 
+ | 6 — 7 | Loss of commuting privileges for one month | 
+ | 8 — 9 | Loss of commuting privileges for six months | 
+ | 10 or more | Prohibited from driving any County vehicle and possible termination | 
+
+
+part ii      budget
+https://ecode360.com/30155565PM
+0.32462570073471897
+ | 100 - Salaries - Regular | 176 - Blood Bank | 
+ | 102 - Overtime | 177 - Dental Insurance | 
+ | 103 - Shift Differential | 180 - Life Insurance | 
+ | 104 - Sick Leave Paid on Retirement | 181 - Disability Insurance | 
+ | 150 - F.I.C.A. - Employer's Share | 184 — Unemp. Comp. Ins. | 
+ | 175 - Medical Insurance | 185 - Pension Contribution | 
+
+
+dl      disposition list
+https://ecode360.com/30156051PM
+0.3070727557361901
+P19-02 |  |  | Not Adopted | 19 | 
+P19-03 | 11-19-2019 | Chain of Command | § 14-1 | 19 | 
+P20-01 | 2-18-2020 | Compensation and Benefits Amendment | § 2-15 | 19 | 
+P20-02 | 4-14-2020 | Closing of County Government Offices Amendment | § 4-2 | 20 | 
+P20-03 | 9-29-2020 | Firearm Policy Amendment | § 13-1 | 20 | 
+P20-04 | 9-29-2020 | Use of Force Amendment | § 13-2 | 20 | 
+P20-05 | 9-29-2020 | Transporting Detainees Repealer | § 13-3 | 20 | 
+P20-06 | 9-29-2020 | Use of Sheriff’s Office Vehicles Amendment | § 13-4 | 20 | 
+P21-01 | 3-9-2021 | Closing of County Government Offices Amendment | § 4-2 | 20 | 
+P21-02 | 5-11-2021 | Remote Work/Telecommuting | § 15-1 | 20 | 
+
+
+part i      general policies
+https://ecode360.com/30155536PM
+0.28740876837772844
+ | Then calculate the percent of these rates to the base 100: | 
+
+
+part i      general policies
+https://ecode360.com/30155536PM
+0.2749006713656301
+ | Then calculate the percentage of these rates to the base 100: | 
+
+
+part ii      vehicles
+https://ecode360.com/30154730PM
+0.19328323658446359
+ | 2 — 3 | Oral reprimand | 
+ | 4 — 5 | Written reprimand | 
+ | 6 — 7 | Suspension without pay | 
+ | 8 or more | Possible termination | 
+
+
+policy        expenses and reimbursement
+https://ecode360.com/30154993PM
+0.15775211233586783
+ | Breakfast | 7:00 a.m. | 8:30 a.m. | 
+ | Lunch | 11:00 a.m. | 2:00 p.m. | 
+ | Dinner | 5:30 p.m. | 7:00 p.m. | 
+
+
+dl      disposition list
+https://ecode360.com/30156051PM
+-0.1317826226372844
+ | 2-8-2005 | Professional license/certification fees | § 2-17.1 | 
+ | 2-8-2005 | Employee-of-the-Month/-Year recognition amendment | § 2-21 | 
+ | 3-8-2005 | Procurement Policy amendment | § 22-9 | 
+ | 10-25-2005 | Procurement Policy amendment | § 22-9 | 
+ | 10-25-2005 | Audio/Video recordings of meetings in Levy Court chamber | § 25-3 | 
+ | 11-8-2005 | National crisis/national disaster leave | § 11-4 | 
+ | 1-17-2006 | Flex time amendment | § 3-2 | 
+ | 6-13-2006 | Designation of County property names and naming honors | § 4-3.1 | 
+ | 8-22-2006 | Travel and meal reimbursement amendment | § 6-1 | 
+ | 8-22-2006 | Paramedic trainee program | § 26-1 | 
+ | 9-27-2006 | Refund policy amendment | § 22-10 | 
+ | 2-20-2007 | Performance evaluations | § 3-3 | 
+ | 2-20-2007 | Public use of County Administrative Complex Building amendment | § 4-1 | 
+ | 3-27-2007 | County medal policy | § 27-1 | 
+ | 8-14-2007 | Refund policy amendment | § 22-10 | 
+P08-01 | 1-15-2008 | Media relations | § 29-2 | 
+P08-02 | 1-15-2008 | Public event/program coordination | § 29-1 | 
+P08-03 | 1-15-2008 | Partnership opportunities | § 28-1 | 
+P08-04 | 7-8-2008 | Employee-of-the-Month/-Year Recognition amendment | § 2-21 | 
+P08-05 | 9-16-2008 | Freedom of Information (FOIA) requests | § 29-3 | 
+P08-06 | 10-28-2008 | Green purchasing | § 22-9.1 | 
+P09-01 | 2-10-2009 | Military family leave | § 11-4 | 
+ | 4-14-2009 | Non-photo identification cards | § 25-4 | 
+P09-03 | 8-25-2009 | County investments amendment | § 22-8 | 
+P09-04 | 9-22-2009 | Epidemic/Contagious disease response | § 8-3 | 
+P09-06 | 11-24-2009 | Travel and meal reimbursement amendment | § 6-1 | 
+P09-07 | 11-24-2009 | Dual compensation amendment | § 2-9 | 
+P10-01 | 3-23-2010 | Firearm policy amendment | § 13-1 | 
+P10-02 | 6-15-2010 | Kent County Medal policy amendment | § 27-1 | 
+P10-03 | 7-27-2010 | Procurement policy amendment | § 22-9 | 
+P10-04 | 7-27-2010 | Request for proposal | § 22-9.2 | 
+P10-06 | 11-23-2010 | After-the-fact building permits | § 20-5 | 
+P10-07 | 12-14-2010 | Closing of County government offices amendment | § 4-2 | 
+P11-01 | 6-14-2011 | Social media use | § 4-13.1 | 
+P11-02 | 4-26-2011 | Refund policy amendment | § 22-10 | 
+P11-03 | 9-27-2011 | Employee health/medical and dental insurance amendment | § 2-12 | 
+P11-04 | 12-13-2011 | Customer service policy | § 3-4 | 
+P12-01 | 6-12-2012 | After-the-fact building permits amendment | § 20-5 | 
+P12-02 | 6-12-2012 | Designation and use of fund balances | § 22-11 | 
+P12-03 | 9-25-2012 | Recordation of easement documents with electronic signatures | § 25-5 | 
+P12-03(a) | 11-13-2012 | Family and medical leave amendment | § 11-1 | 
+P13-01 | 3-12-2013 | Public use of County Administration Building amendment | § 4-1 | 
+P13-02 | 4-23-2013 | Employee health/medical and dental insurance amendment | § 2-12 | 
+P13-03 | 6-25-2013 | Americans with Disabilities Act | § 12-6 | 
+P14-01 | 9-9-2014 | Community Projects Contribution Fund | § 30-1 | 
+P14-02 | 3-11-2014 | Homeowner association billing program | § 22-12 | 
+P16-01 | 3-22-2016 | Kent County Recreation Center, 1683 New Burton Road, Dover,
+DE | § 4-3.2 | 
+P16-01a | 6-14-2016 | Firearm policy amendment; use of force amendment; transporting
+detainees amendment (repealed by P20-05); use of Sheriff's Office vehicles amendment | §§ 13-1 – 13-4 | 
+P17-02 | 6-27-2017 | Federal awards | §§ 22-13 – 22-19 | 
+P18-01 | 3-27-2018 | Requests for proposal amendment | § 22-9.2 | 
+P18-02 | 3-27-2018 | Smoking amendment | § 5-2 | 
+P18-03 | 10-23-2018 | Kent County Medal amendment | § 27-1 | 
+P18-04 | 10-23-2018 | Kent County Lifesaving Award | § 27-2 | 
+P18-05 | 12-18-2018 | Dual compensation amendment | § 2-9 | 
+P19-01 | 2-26-2019 | Procurement Policy amendment | § 22-9 | 
+
+

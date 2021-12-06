@@ -1,0 +1,1024 @@
+iii      zone regulations
+https://ecode360.com/8867299
+0.7033988694606002
+R-1 | Residential District | 
+R-2 | Residential District | 
+R-GA | Garden Apartment District | 
+CC | Community Commercial District | 
+HD | Highway Development District | 
+GI | General Industrial District | 
+FP | Floodplain District | 
+
+
+iii      zone regulations
+https://ecode360.com/8867299
+0.499899762672339
+ | 0 to 75 | 72 | 
+ | 75 to 150 | 67 | 
+ | 150 to 300 | 59 | 
+ | 300 to 600 | 52 | 
+ | 600 to 1,200 | 46 | 
+ | 1,200 to 2,400 | 40 | 
+ | 2,400 to 4,800 | 34 | 
+ | Above 4,800 | 32 | 
+
+
+subdivision and land development
+https://ecode360.com/8866338
+0.4726316584108533
+ | It is hereby certified that this subdivision
+plot plan was granted “approval” by the Council of the
+Town of Elsmere, Delaware on (date) and accordingly, is eligible for
+recording in the office of the Recorder of Deeds for New Castle County,
+Delaware. | 
+ |  | 
+ | Town Secretary | 
+
+
+subdivision and land development
+https://ecode360.com/8866338
+0.4706015378034546
+ | It is hereby certified that the section or sections
+of this subdivision plot plan distinctly shown hereon as the part
+to be recorded were granted “approval” by the Council
+of the Town of Elsmere, Delaware on (date) and, accordingly, is eligible
+for recording in the office of the Recorder of Deeds for New Castle
+County, Delaware. | 
+ |  | 
+ | Town Secretary | 
+
+
+subdivision and land development
+https://ecode360.com/8866338
+0.46723417732677275
+ | A certificate of occupancy may be issued for a dwelling house, building or structure within the subdivision if that portion of the construction improvements plan related to that dwelling house, building or structure shall have been completed in strict accordance with the approved plans and specifications and all required completion bonds are posted for blacktopping of streets, installing sidewalks, monuments, as-built drawings and street lights. Certificates of occupancy for no more than 50% of the dwellings, buildings or structures permitted in the approved subdivision or section of the subdivision shall be issued under this exception. If certificates of occupancy are issued under this exception, a bond may be required in accord with Subsection C(10) below, for any uncompleted work required in the construction improvements plan within the subdivision or section of the subdivision. | 
+
+
+ii      adoption of building  residential  plumbing  mechanical and fuel gas standards
+https://ecode360.com/8865347
+0.45048952586394697
+Section R112.1 | 
+R112.1 Application for appeal. Any person directly
+affected by a decision of the code official or a notice or order issued
+under this code shall have the right to appeal to the Board of Adjustments
+of the Town of Elsmere, provided that a written application for appeal
+is filed within 20 days after the day the decision, notice or order
+was served. An application for appeal shall be based on a claim that
+the true intent of this code or the rules legally adopted thereunder
+have been incorrectly interpreted or the provisions of this code do
+not fully apply. Additionally, an application for appeal may be based
+on a claim that an action other than what is required by the code:
+1) provides the same or better protections than what the code requires;
+and 2) will not cost the Town of Elsmere any more money than enforcing
+the code as written. If the appellant proves that an action other
+than what is required by the code meets these two requirements, the
+Board of Adjustments may, in its discretion, either enforce the code
+as written or permit the proposed alternative action. | 
+R-112.1(a) Notice of meeting. The Board of Adjustments
+shall meet upon notice from the chairman, and conduct the appeal hearing
+within 20 days of the filing of an appeal. | 
+R112.1(b) Open hearing. All hearings before the
+Board of Adjustments shall be open to the public. The appellant, the
+appellant's representative, the code official and any person
+who has been called as a witness or whose interests are affected shall
+be given an opportunity to be heard. | 
+R112.1(c) Procedure. The Board of Adjustments shall
+set and make available the procedures under which a hearing will be
+conducted. The procedures shall not require compliance with strict
+rules of evidence, but shall mandate that only relevant information
+be received. | 
+R112.1(d) Postponed hearing. Either the appellant
+or the appellant's representative shall have the right to request
+a postponement of the hearing. | 
+R112.1(e) Board decision. After hearing the evidence
+provided at the hearing, the Board of Adjustments shall modify or
+reverse the decision of the code official only by a concurring vote
+of a majority board members present. | 
+R112.1(f) Records and copies. The decision of the
+board shall be recorded. Copies shall be furnished to the appellant
+and to the code official. | 
+R112.1(g) Administration. The code official shall
+take immediate action in accordance with the decision of the Board
+of Adjustments. | 
+R112.1(h) Court review. Any person, whether or
+not a previous party of the appeal, shall have the right to apply
+to the appropriate court for a writ of certiorari to correct errors
+of law. Application for review shall be made in the manner and time
+required by law following the decision of the Board of Adjustments. | 
+R112.1(i) Stays of enforcement. Appeals of notice
+and orders (other than Imminent Danger notices) shall stay the enforcement
+of the notice and order until the appeal is heard by the Board of
+Adjustments. | 
+
+
+ii      adoption of building  residential  plumbing  mechanical and fuel gas standards
+https://ecode360.com/8865347
+0.43748531449306693
+109.1 Application for appeal. Any person directly
+affected by a decision of the code official or a notice or order issued
+under this code shall have the right to appeal to the Board of Adjustments
+of the Town of Elsmere, provided that a written application for appeal
+is filed within 20 days after the day the decision, notice or order
+was served. An application for appeal shall be based on a claim that
+the true intent of this code or the rules legally adopted thereunder
+have been incorrectly interpreted or the provisions of this code do
+not fully apply. Additionally, an application for appeal may be based
+on a claim that an action other than what is required by the code:
+1) provides the same or better protections than what the code requires;
+and 2) will not cost the Town of Elsmere any more money than enforcing
+the code as written. If the appellant proves that an action other
+than what is required by the code meets these two requirements, the
+Board of Adjustments may, in its discretion, either enforce the code
+as written or permit the proposed alternative action. | 
+109.2 Notice of meeting. The Board of Adjustments
+shall meet upon notice from the chairman, and conduct the appeal hearing
+within 20 days of the filing of an appeal. | 
+109.3 Open hearing. All hearings before the Board
+of Adjustments shall be open to the public. The appellant, the appellant's
+representative, the code official and any person who has been called
+as a witness or whose interests are affected shall be given an opportunity
+to be heard. | 
+109.4 Procedure. The Board of Adjustments shall
+set and make available the procedures under which a hearing will be
+conducted. The procedures shall not require compliance with strict
+rules of evidence, but shall mandate that only relevant information
+be received. | 
+109.5 Postponed hearing. Either the appellant or
+the appellant's representative shall have the right to request
+a postponement of the hearing. | 
+109.6 Board decision. After hearing the evidence
+provided at the hearing, the Board of Adjustments shall modify or
+reverse the decision of the code official only by a concurring vote
+of a majority of board members present. | 
+109.7 Records and copies. The decision of the board
+shall be recorded. Copies shall be furnished to the appellant and
+to the code official. | 
+109.8 Administration. The code official shall take
+immediate action in accordance with the decision of the Board of Adjustments. | 
+109.9 Court review. Any person, whether or not
+a previous party of the appeal, shall have the right to apply to the
+appropriate court for a writ of certiorari to correct errors of law.
+Application for review shall be made in the manner and time required
+by law following the decision of the Board of Adjustments. | 
+109.10 Stays of enforcement. Appeals of notice
+and orders (other than Imminent Danger notices) shall stay the enforcement
+of the notice and order until the appeal is heard by the Board of
+Adjustments. | 
+
+
+ii      adoption of building  residential  plumbing  mechanical and fuel gas standards
+https://ecode360.com/8865347
+0.43741783114993127
+112.1 Application for appeal. Any person directly
+affected by a decision of the code official or a notice or order issued
+under this code shall have the right to appeal to the Board of Adjustments
+of the Town of Elsmere, provided that a written application for appeal
+is filed within 20 days after the day the decision, notice or order
+was served. An application for appeal shall be based on a claim that
+the true intent of this code or the rules legally adopted thereunder
+have been incorrectly interpreted or the provisions of this code do
+not fully apply. Additionally, an application for appeal may be based
+on a claim that an action other than what is required by the code:
+1) provides the same or better protections than what the code requires;
+and 2) will not cost the Town of Elsmere any more money than enforcing
+the code as written. If the appellant proves that an action other
+than what is required by the code meets these two requirements, the
+Board of Adjustments may, in its discretion, either enforce the code
+as written or permit the proposed alternative action. | 
+112.2 Notice of meeting. The Board of Adjustments
+shall meet upon notice from the chairman, and conduct the appeal hearing
+within 20 days of the filing of an appeal. | 
+112.3 Open hearing. All hearings before the Board
+of Adjustments shall be open to the public. The appellant, the appellant's
+representative, the code official and any person who has been called
+as a witness or whose interests are affected shall be given an opportunity
+to be heard. | 
+112.4 Procedure. The Board of Adjustments shall
+set and make available the procedures under which a hearing will be
+conducted. The procedures shall not require compliance with strict
+rules of evidence, but shall mandate that only relevant information
+be received. | 
+112.5 Postponed hearing. Either the appellant or
+the appellant's representative shall have the right to request
+a postponement of the hearing. | 
+112.6 Board decision. After hearing the evidence
+provided at the hearing, the Board of Adjustments shall modify or
+reverse the decision of the code official only by a concurring vote
+of a majority board members present. | 
+112.7 Records and copies. The decision of the board
+shall be recorded. Copies shall be furnished to the appellant and
+to the code official. | 
+112.8 Administration. The code official shall take
+immediate action in accordance with the decision of the Board of Adjustments. | 
+112.9 Court review. Any person, whether or not
+a previous party of the appeal, shall have the right to apply to the
+appropriate court for a writ of certiorari to correct errors of law.
+Application for review shall be made in the manner and time required
+by law following the decision of the Board of Adjustments. | 
+112.10 Stays of enforcement. Appeals of notice
+and orders (other than Imminent Danger notices) shall stay the enforcement
+of the notice and order until the appeal is heard by the Board of
+Adjustments. | 
+
+
+ii      adoption of building  residential  plumbing  mechanical and fuel gas standards
+https://ecode360.com/8865347
+0.43741783114993127
+109.1 Application for appeal. Any person directly
+affected by a decision of the code official or a notice or order issued
+under this code shall have the right to appeal to the Board of Adjustments
+of the Town of Elsmere, provided that a written application for appeal
+is filed within 20 days after the day the decision, notice or order
+was served. An application for appeal shall be based on a claim that
+the true intent of this code or the rules legally adopted thereunder
+have been incorrectly interpreted or the provisions of this code do
+not fully apply. Additionally, an application for appeal may be based
+on a claim that an action other than what is required by the code:
+1) provides the same or better protections than what the code requires;
+and 2) will not cost the Town of Elsmere any more money than enforcing
+the code as written. If the appellant proves that an action other
+than what is required by the code meets these two requirements, the
+Board of Adjustments may, in its discretion, either enforce the code
+as written or permit the proposed alternative action. | 
+1109.2 Notice of meeting. The Board of Adjustments
+shall meet upon notice from the chairman, and conduct the appeal hearing
+within 20 days of the filing of an appeal. | 
+109.3 Open hearing. All hearings before the Board
+of Adjustments shall be open to the public. The appellant, the appellant's
+representative, the code official and any person who has been called
+as a witness or whose interests are affected shall be given an opportunity
+to be heard. | 
+109.4 Procedure. The Board of Adjustments shall
+set and make available the procedures under which a hearing will be
+conducted. The procedures shall not require compliance with strict
+rules of evidence, but shall mandate that only relevant information
+be received. | 
+109.5 Postponed hearing. Either the appellant or
+the appellant's representative shall have the right to request
+a postponement of the hearing. | 
+109.6 Board decision. After hearing the evidence
+provided at the hearing, the Board of Adjustments shall modify or
+reverse the decision of the code official only by a concurring vote
+of a majority board members present. | 
+109.7 Records and copies. The decision of the board
+shall be recorded. Copies shall be furnished to the appellant and
+to the code official. | 
+109.8 Administration. The code official shall take
+immediate action in accordance with the decision of the Board of Adjustments. | 
+109.9 Court review. Any person, whether or not
+a previous party of the appeal, shall have the right to apply to the
+appropriate court for a writ of certiorari to correct errors of law.
+Application for review shall be made in the manner and time required
+by law following the decision of the Board of Adjustments. | 
+109.10 Stays of enforcement. Appeals of notice
+and orders (other than Imminent Danger notices) shall stay the enforcement
+of the notice and order until the appeal is heard by the Board of
+Adjustments. | 
+
+
+ii      adoption of building  residential  plumbing  mechanical and fuel gas standards
+https://ecode360.com/8865347
+0.43741783114993127
+109.1 Application for appeal. Any person directly
+affected by a decision of the code official or a notice or order issued
+under this code shall have the right to appeal to the Board of Adjustments
+of the Town of Elsmere, provided that a written application for appeal
+is filed within 20 days after the day the decision, notice or order
+was served. An application for appeal shall be based on a claim that
+the true intent of this code or the rules legally adopted thereunder
+have been incorrectly interpreted or the provisions of this code do
+not fully apply. Additionally, an application for appeal may be based
+on a claim that an action other than what is required by the code:
+1) provides the same or better protections than what the code requires;
+and 2) will not cost the Town of Elsmere any more money than enforcing
+the code as written. If the appellant proves that an action other
+than what is required by the code meets these two requirements, the
+Board of Adjustments may, in its discretion, either enforce the code
+as written or permit the proposed alternative action. | 
+109.2 Notice of meeting. The Board of Adjustments
+shall meet upon notice from the chairman, and conduct the appeal hearing
+within 20 days of the filing of an appeal. | 
+109.3 Open hearing. All hearings before the Board
+of Adjustments shall be open to the public. The appellant, the appellant's
+representative, the code official and any person who has been called
+as a witness or whose interests are affected shall be given an opportunity
+to be heard. | 
+109.4 Procedure. The Board of Adjustments shall
+set and make available the procedures under which a hearing will be
+conducted. The procedures shall not require compliance with strict
+rules of evidence, but shall mandate that only relevant information
+be received. | 
+109.5 Postponed hearing. Either the appellant or
+the appellant's representative shall have the right to request
+a postponement of the hearing. | 
+109.6 Board decision. After hearing the evidence
+provided at the hearing the Board of Adjustments shall modify or reverse
+the decision of the code official only by a concurring vote of a majority
+board members present. | 
+109.7 Records and copies. The decision of the board
+shall be recorded. Copies shall be furnished to the appellant and
+to the code official. | 
+109.8 Administration. The code official shall take
+immediate action in accordance with the decision of the Board of Adjustments. | 
+109.9 Court review. Any person, whether or not
+a previous party of the appeal, shall have the right to apply to the
+appropriate court for a writ of certiorari to correct errors of law.
+Application for review shall be made in the manner and time required
+by law following the decision of the Board of Adjustments. | 
+109.10 Stays of enforcement. Appeals of notice
+and orders (other than Imminent Danger notices) shall stay the enforcement
+of the notice and order until the appeal is heard by the Board of
+Adjustments. | 
+
+
+handicapped parking
+https://ecode360.com/8865604
+0.38944698030619573
+1 to 25 | 1 | 
+26 to 50 | 2 | 
+51 to 75 | 3 | 
+76 to 100 | 4 | 
+101 to 150 | 5 | 
+151 to 200 | 6 | 
+201 to 300 | 7 | 
+301 to 400 | 8 | 
+401 to 500 | 9 | 
+501 to 1000 | 2% | 
+1,001 or more | 20 spaces + 1% of spaces over 1,000 | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.38603596944559393
+ | SECTION 111 | 
+ | MEANS OF APPEAL | 
+ | 111.1 Application for appeal. | 
+ | Any person directly affected by a decision of the Code Official
+or a notice or order issued under this code shall have the right to
+appeal to the Board of Adjustment of the Town of Elsmere, provided
+that a written application for appeal is filed within 20 days after
+the day the decision, notice or order was served. An application for
+appeal shall be based on a claim that the true intent of this code
+or the rules legally adopted thereunder have been incorrectly interpreted
+or the provisions of this code do not fully apply. Additionally, an
+application for appeal may be based on a claim that an action other
+than what is required by the code: 1) provides the same or better
+protections than what the code requires; and 2) will not cost the
+Town of Elsmere any more money than enforcing the code as written.
+If the appellant proves that an action other than what is required
+by the code meets these two requirements, the Board of Adjustment
+may, in its discretion, either enforce the code as written or permit
+the proposed alternative action. | 
+ | 111.2 Notice of meeting. | 
+ | Once an appeal has been properly filed, a date shall be set
+for when the Board of Adjustment shall hear the appeal. If on the
+date the appeal was filed there are more than 14 days before the next
+regularly scheduled meeting of the Board, the appeal shall be heard
+at that meeting. However, if there are fewer than 14 days before the
+next regularly scheduled meeting of the Board, the date for the appeal
+hearing shall be the fourth Tuesday of the month following the month
+in which the appeal was filed. | 
+ | These requirements shall not prohibit the scheduling of the
+appeal hearing from being held at any other public meeting of the
+Board, provided that the provisions of this section are waived by
+mutual agreement by both the appellant and the Town Manager in a written
+agreement. | 
+ | 111.3 Open hearing. | 
+ | All hearings before the Board of Adjustment shall be open to
+the public. The appellant, the appellant's representative, the
+Code Official and any person who has been called as a witness or whose
+interests are affected shall be given an opportunity to be heard. | 
+ | 111.4 Procedure. | 
+ | The Board of Adjustment shall set and make available the procedures
+under which a hearing will be conducted. The procedures shall not
+require compliance with strict rules of evidence, but shall mandate
+that only relevant information be received. | 
+ | 111.5 Postponed hearing. | 
+ | Either the appellant or the appellant's representative
+shall have the right to request a postponement of the hearing. | 
+ | 111.6 Board decision. | 
+ | After hearing the evidence provided at the hearing, the Board
+of Adjustment shall modify or reverse the decision of the Code Official
+only by a concurring vote of a majority of Board members present. | 
+ | 111.7 Records and copies. | 
+ | The decision of the Board shall be recorded. Copies shall be
+furnished to the appellant and to the Code Official. | 
+ | 111.8 Administration. | 
+ | The Code Official shall take immediate action in accordance
+with the decision of the Board of Adjustment. | 
+ | 111.9 Court review. | 
+ | Any person, whether or not a previous party to the appeal, shall
+have the right to apply to the appropriate court for a writ of certiorari
+to correct errors of law. Application for review shall be made in
+the manner and time required by law following the decision of the
+Board of Adjustment. | 
+ | 111.10 Stays of enforcement. | 
+ | Appeals of notice and orders (other than imminent danger notices)
+shall stay the enforcement of the notice and order until the appeal
+is heard by the Board of Adjustment. | 
+
+
+dl      disposition list
+https://ecode360.com/8868093
+0.3763596043997196
+647 | 12-12-2019 | Salaries | NCM | 10 | 
+648 | 3-12-2020 | Rental Licenses Amendment | Ch. 182 | 10 | 
+649 | 3-12-2020 | Vehicles and Traffic Amendment | Ch. 215 | 10 | 
+650 | 8-13-2020 | Police Service Fees | Ch. 164 | 11 | 
+651 |  | 2020 Comprehensive Plan | Withdrawn | 11 | 
+652 | 11-12-2020 | Vehicles and Traffic: Adoption of State Laws Amendment | Ch. 215, Art. I | 11 | 
+653 | 12-10-2020 | Zoning Amendment | Ch. 225 | 11 | 
+654 | 12-10-2020 |  | Repealed by Ord. No. 658 | 11 | 
+655 | 1-14-2021 | Taxation: Base Tax Credit Amendment; Review of Income Levels
+and Discounts Amendment | Ch. 204, Art. VI; Ch. 204, Art. VII | 11 | 
+656 | 2-11-2021 | 2020 Comprehensive Plan Update | NCM | 11 | 
+657 | 3-11-2021 | Procedure for 2021 Biennial Municipal Elections | NCM | 11 | 
+658 | 3-11-2021 | Moratorium Repealer | NCM | 11 | 
+659 |  | Reducing Purchase Amount Without Formal Bid | Defeated | 11 | 
+660 | 5-13-2021 | 2020 Comprehensive Plan Update Amendment | NCM | 11 | 
+661 | 7-8-2021 | Minor Subdivision of Property | NCM | 11 | 
+151 Del. Laws, c. 145 | 9-10-2021 | Charter Amendment | Art. VII-A | 11 | 
+
+
+i      licenses and regulation
+https://ecode360.com/14249487
+0.36303823061816587
+“This license constitutes a receipt for
+the payment of a license fee imposed by authority of the Town of Elsmere
+for the privilege of engaging in a business, profession, pursuit or
+calling operated, carried on or engaged in within the corporate limits
+of the Town of Elsmere, and shall have no other legal effect. Said
+receipt does not authorize the licensee or any agent or employee thereof
+to conduct the business, profession, pursuit or calling or to perform
+any act incident thereto, or to conduct or perform any other business,
+profession, pursuit or calling within the corporate limits of the
+Town of Elsmere, unless licensed hereunder and without strictly complying
+with all provisions of the ordinance of said Town and of the statutes
+of the State of Delaware, including but not limited to those ordinances
+and statutes requiring a permit from any board, commission, department
+or officer. THIS RECEIPT DOES NOT CONSTITUTE A PERMIT TO CARRY ON
+ANY BUSINESS, PROFESSION, PURSUIT OR CALLING FOR WHICH THE STATUTES
+OF THE STATE OF DELAWARE REQUIRE A PERMIT.” | 
+
+
+iv      utility construction
+https://ecode360.com/14276252
+0.3531834453533037
+ | Streets which have been paved new up to one year | $50 | $100 | 
+ | Streets which have been paved for over one year but not over
+two years | $45 | $90 | 
+ | Streets which have been paved for over two years but not over
+three years | $40 | $80 | 
+ | Streets which have been paved for over three years but not over
+four years | $35 | $70 | 
+ | Streets which have been paved for over four years but not over
+five years | $30 | $60 | 
+ | Streets which have been paved for over five years | $25 | $50 | 
+
+
+subdivision and land development
+https://ecode360.com/8866338
+0.352529836410031
+ | One to 20 acres: one inch equals 50 feet | 
+ | Twenty-one to 100 acres: one inch equals 100
+feet | 
+ | Above 100 acres: one inch equals 200 feet | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.3437148479818859
+ | In all residential occupancy buildings, a single-station carbon
+monoxide alarm in conformity with UL 2034 regulations shall be provided
+on all levels with sleeping rooms. In multifamily dwellings with more
+than one dwelling unit on each level, each dwelling unit shall be
+provided with a carbon monoxide alarm. | 
+
+
+a         cable television franchise
+https://ecode360.com/8868011
+0.34265354113226776
+ | Town of Elsmere
+Attn: Town Manager
+11 Poplar Avenue
+Elsmere, DE 19805 | 
+ | With a Copy to: | 
+ | Town Solicitor | 
+ | Every notice to be served upon Comcast shall be sent to: | 
+ | Comcast of New Castle County, LLC
+5 Bellecor Drive
+New Castle, DE 19720
+Attention: Government Affairs Department | 
+ | With copies to: | 
+ | One Comcast Center
+1701 John F. Kennedy Boulevard
+Philadelphia, PA 19103-2838
+Attention: Government Affairs Department | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.33874477845749706
+ | The only approved storage location for containers shall be at
+a point on the property which is located in the side or the rear of
+the property. | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.3339013867625331
+ | The outdoor storage or use of any equipment, materials, furnishings
+or appliances which are not specifically designed or manufactured
+for exterior placement is prohibited. Items which are specifically
+designed or manufactured for outdoor use such as lawn furniture, barbeque
+grills, garden tools and children's outdoor play equipment may
+be stored outside, provided that they are maintained in good condition
+and stored in an orderly fashion. | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.3284497980018286
+ | The Code Enforcement Officers shall be appointed under the authority
+of the Town Manager. The Town Manager shall have the authority to
+employ and/or appoint a third-party company or individual to serve
+with or in place of other Code Officials. | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.32825695916740527
+ | The fees for activities and services performed by the Department
+in carrying out its responsibilities under this code shall be indicated
+in the Code of the Town of Elsmere or as may be set by resolution
+of the Town Council. | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.3281454301394927
+ | These regulations shall be in addition to those established in Chapter 171, Property Maintenance, of the Code of the Town of Elsmere. Should these regulations be in conflict with those in Chapter 171 the provisions of Chapter 171 of the Code of the Town of Elsmere shall prevail. | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.32415057043798023
+ | The Code Enforcement Department and its Code Enforcement Officers,
+the Chief of whom shall be the Town Manager, are hereby designated
+as the primary department charged with enforcing the provisions of
+this Code and shall also be known as the "Code Official(s)." | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.3182918774573501
+ | It is the responsibility of every occupant of a structure or
+dwelling unit to place out for collection on the regularly scheduled
+collection day any container which contains any amount of rubbish
+or garbage. | 
+
+
+i      licenses and regulation
+https://ecode360.com/14249487
+0.3153340170111719
+“Any receipt upon the payment by check
+of any license fee shall be wholly void and ineffective for all purposes
+unless the amount due is actually received.” | 
+
+
+i      licenses and regulation
+https://ecode360.com/14249487
+0.3101382653956746
+ | "I declare under penalty of making a false certificate
+that this return is made by me, that I am authorized to make such
+return and that to the best of my knowledge it is a true, correct
+and complete return, made in good faith for the years stated pursuant
+to the provisions of the License Ordinance of the Town of Elsmere." | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.30721405503961796
+ | No occupant of a structure or dwelling unit shall place out
+for collection any container before 6:00 p.m. on the night before
+the scheduled collection date, and any container placed out for collection
+shall be returned to an approved storage location by no later than
+8:00 p.m. on the regularly scheduled collection day. | 
+
+
+property maintenance
+https://ecode360.com/8866075
+0.3001198550094484
+ | The owner of any structure shall be responsible for the extermination
+of the entire structure as frequently as may be required to avoid
+or address any infestation. | 
+
+
+elections
+https://ecode360.com/14275463
+0.2011721465653842
+I, ____________, do solemnly swear (or affirm) that I will support
+the Constitution of the United States and the Constitution of the
+State of Delaware, and that I will faithfully discharge the duties
+as a member of the Board of Elections for the Town of Elsmere by ensuring
+that elections within the Town of Elsmere are conducted fairly, impartially,
+and in accordance with the Delaware Code and Town of Elsmere Charter
+and ordinances to the best of my ability. | 
+
+
+elections
+https://ecode360.com/14275463
+0.17516197810567177
+ | "I do solemnly swear (affirm) that to the best of my knowledge
+I am a bona fide resident of the Town of Elsmere and will be on the
+date of the election, that I am eligible to vote in this Town of Elsmere
+election, and that the address that appears on the label on this envelope
+is the address at which I am qualified to vote in this Town of Elsmere
+election. I also do solemnly swear (affirm) under penalty of perjury
+that I have not received or accepted, or offered to receive or accept,
+any money or other item of value as compensation, inducement or reward
+for the giving or withholding of a vote at this Town of Elsmere election,
+nor that I am acting under duress or threat of duress or harm." | 
+
+
+elections
+https://ecode360.com/14275463
+0.1677145728268221
+ | I do solemnly swear (or affirm) that in the election to be held
+on the _____ day of _____ A.D., I will not knowingly or willfully
+receive or consent to the receiving of the vote of any person who
+is not a citizen, and also that I will not receive or consent to the
+receiving of the vote of any person whom I shall believe not entitled
+to vote, unless my associates shall adjudge such person to be entitled
+to vote. That I will not receive or reject, nor concur in receiving
+or rejecting any vote through partiality or under bias, and that I
+will determine every matter that shall come before me and perform
+every act and duty by law required of me, touching the election, truly,
+faithfully and impartially, according to the best of my skill and
+judgment; that I have not received, nor will I receive directly or
+indirectly from or through any candidate to be voted for at such election,
+or any other person, any money, pay or other valuable thing or reward;
+that I have not been promised, or in any manner been led to believe
+that I will at any time directly or indirectly receive any money,
+pay or other valuable thing or reward from such candidate or other
+person other than that provided by law and if I shall discover any
+partiality, unfairness or corruption in the conduct of the election,
+I shall disclose the same to the Board of Elections that is conducting
+the election and to the Attorney General to the end that the subject
+may be investigated, so help me God (or so I solemnly affirm). | 
+
+
+dl      disposition list
+https://ecode360.com/8868093
+-3.714947572735732
+326 | 5-30-1996 | Adoption of Code | New legislation pending; see Ch. 1 | 
+327 | 6-13-1996 | Cancellation of Special Election | NCM | 
+328 | 8-8-1996 | Subdivision and land development amendment | Ch. 196 | 
+329 | 10-10-1996 | Building construction standards | New legislation pending; see Ch. 76, Art. II | 
+330 | 10-10-1996 | Property maintenance standards | New legislation pending; see Ch. 171, Art. II | 
+331 | 12-12-1996 | Zoning amendment | Repealed by Ord. No. 451 | 
+332 | 1-23-1997 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+333 | 12-12-1996 | Vehicles and traffic amendment | Ch. 215 | 
+334 | 1-2-1997 | Mayor's Court amendment | Repealed upon adoption of Code | 
+335 |  | Vehicles and traffic amendment | Not adopted | 
+336 | 3-27-1997 | Personnel policies: filing for public office | Ch. 36, Art. I | 
+337 | 4-24-1997 | 1997 Special Election | NCM | 
+338 | 4-10-1997 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+339 | 4-10-1997 | Landfill user fee | Superseded by Ord. No. 341 | 
+340 | 5-8-1997 | Municipal services fee | Superseded by Ord. No. 341 | 
+341 | 5-15-1997 | Solid waste | Repealed by Ord. No. 362 | 
+342 | 6-26-1997 | Solid waste amendment | Repealed by Ord. No. 362 | 
+343 | 9-11-1997 | Handicapped parking amendment | Ch. 116 | 
+344 |  | Abandoned vehicles | Not adopted | 
+345 | 9-11-1997 | Skateboards, skates and roller blades | Superseded by Ord. No. 394 | 
+346 | 9-25-1997 | Handicapped parking amendment | Ch. 116 | 
+347 | 9-25-1997 | Skateboards, skates and roller blades amendment | Superseded by Ord. No. 394 | 
+348 |  |  | Number not used | 
+349 | 9-25-1997 | Skateboards, skates and roller blades amendment | Superseded by Ord. No. 394 | 
+350 | 12-11-1997 | Rental permits amendment | Ch. 182 | 
+351 |  | Zoning Map amendment | Tabled | 
+352 | 2-12-1998 | Subdivision approval | NCM | 
+353 | 4-9-1998 | Zoning amendment | Repealed by Ord. No. 451 | 
+354 | 3-26-1998 | Abandoned vehicles amendment | Ch. 211 | 
+355 | 3-26-1998 | Dogs running at large amendment | Superseded by Ord. No. 407 | 
+356 |  | Eliminate Town Manager | Not adopted | 
+357 |  |  | Number not used | 
+358 |  | Sanitation collection fee | Not adopted | 
+359 | Unknown | Realty transfer tax amendment | Ch. 204, Art. II | 
+360 |  | Rental permits amendment | Not adopted | 
+361 |  | Licenses amendment | Not adopted | 
+362 | 10-22-1998 | Solid waste | Repealed by Ord. No. 540 | 
+363 | 10-22-1998 | Rental permits amendment | Ch. 182 | 
+364 | 10-22-1998 | Business licenses and regulation amendment | Ch. 131, Art. I | 
+366 | 10-22-1998 | Police services fees | Repealed by Ord. No. 650 | 
+367 | 12-10-1998 | 1999 elections | Temporary measure | 
+368 | 12-10-1998 | Noise amendment | Ch. 143 | 
+369 | Unknown | Senior citizens and disabled tax exemption amendment | Ch. 204, Art. III | 
+370 | 4-8-1999 | Garbage collection amendment | Repealed upon adoption of Code | 
+371 | 4-22-1999 | Satellite dish antennas | Ch. 184 | 
+372 | 4-8-1999 | Maintenance of building sites | Ch. 76, Art. I | 
+373 | 4-8-1999 | Zoning amendment | Repealed by Ord. No. 451 | 
+374 | 9-9-1999 | Tax delinquent property | Ch. 206 | 
+375 | 9-9-1999 | Rental permits amendment | Ch. 182 | 
+376 | 9-9-1999 | Garage and sidewalk sales amendment | Ch. 107 | 
+377 | 10-14-1999 | Maintenance of right-of-way between public street
+and private property | Ch. 171, Art. I | 
+378 | 11-18-1999 | Handicapped parking amendment | Ch. 116 | 
+379 |  |  | Number not used | 
+380 |  |  | Number not used | 
+381 | 11-18-1999 | Spray paint containers | Ch. 189 | 
+382 | Unknown | Zoning amendment | Repealed by Ord. No. 451 | 
+383 | 4-13-2000 | Zoning amendment | Repealed by Ord. No. 451 | 
+384 | 8-10-2000 | Snow and ice removal amendment | Ch. 192, Art. I | 
+385 | 12-20-2000 | Zoning Map amendment | Ch. 225, table only | 
+386 | 9-14-2000 | Land development and zoning fees | Chs. 97, 196 and 225 | 
+387 | 1-11-2001 | 2001 elections | Temporary measure | 
+388 | 1-11-2001 | Zoning Map amendment | Ch. 225, table only | 
+389 | 2-8-2001 | Vehicles and traffic amendment | Ch. 215 | 
+390 | 5-10-2001 | 2001 elections amendment | Temporary measure | 
+391 | 5-10-2001 | Senior citizens and disabled tax exemption amendment | Ch. 204, Art. III | 
+392 |  | 2001 elections amendment | Not adopted | 
+393 | 7-14-2001 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+394 | 9-13-2001 | Skateboards, skates and roller blades amendment | Ch. 215, Art. III | 
+395 | 11-15-2001 | Extension of property taxes due date | NCM (temporary measure) | 
+396 | 12-13-2001 | Town Manager amendment | Ch. 34, Art. I | 
+397 | 1-10-2002 | Realty transfer tax amendment | Ch. 204, Art. II | 
+398 | 1-24-2002 | Finance Committee | Repealed by Ord. No. 497 | 
+399 | 2-14-2002 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+400 | 3-29-2002 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+401 | 6-13-2002 | Zoning amendment | Repealed by Ord. No. 451 | 
+402 |  |  | Defeated | 
+403 | 6-20-2002 | Payment of fines | Ch. 98 | 
+404 | 6-20-2002 | Abandoned vehicles amendment | Ch. 211 | 
+405 | 6-20-2002 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+406 | 7-11-2002 | Zoning amendment | Repealed by Ord. No. 451 | 
+407 | 11-14-2002 | Animals | Ch. 71 | 
+408 |  |  | Tabled | 
+409 | 11-14-2002 | Extension of property taxes due date | NCM (temporary measure) | 
+410 | 11-14-2002 | Rental permits amendment | Ch. 182 | 
+411 |  |  | Tabled | 
+412 |  |  | Defeated | 
+413 | 12-12-2002 | Solid waste amendment | Repealed by Ord. No. 540 | 
+414 |  |  | Tabled | 
+415 | 1-9-2003 | Animals amendment | Ch. 71 | 
+416 |  | 2003 elections | Temporary measure | 
+417 | 8-10-2006 | Property Maintenance Code amendment | Superseded by Ord. No. 420 | 
+418 |  | Use of cell phones | Not adopted | 
+419 | 7-9-2003 | Noise amendment | Ch. 143 | 
+420 | 9-18-2003 | Adoption of Code | Ch. 1, Art. I | 
+421 | 9-18-2003 | Zoning Map amendment | Ch. 225, table only | 
+422 |  | Zoning Map amendment | Defeated | 
+423 | 1-15-2004 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+424 | 2-12-2004 | Rental permits amendment | Ch. 182 | 
+425 | 2-12-2004 | Handicapped parking spaces | Ch. 116, Art. II | 
+426 | 3-11-2004 | Graffiti | Ch. 110; Ch. 189, reference only | 
+427 | 3-11-2004 | Peddling and soliciting amendment | Ch. 159 | 
+428 |  | Zoning Map amendment | Defeated | 
+429 | 4-8-2004 | Planning Commission amendment | Ch. 38 | 
+430 | 5-13-2004 | Nuisance properties | Ch. 145, Art. I | 
+431 | 4-8-2004 | Zoning amendment | Repealed by Ord. No. 451 | 
+432 |  | Zoning Map amendment | Defeated | 
+433 | 6-10-2004 | License revocation for ordinance violations | Ch. 60, Art. I | 
+434 | 10-13-2004 | Senior citizens and disabled tax exemption amendment | Ch. 204, Art. III | 
+435 | 10-12-2006 | Dumping of yard waste and refuse | Ch. 127 | 
+436 | 8-12-2004 | Business licenses and regulation amendment | Ch. 131, Art. I | 
+437 | 10-13-2004 | Parades and special events amendment | Ch. 148 | 
+438 |  | Roadway obstructions | Not adopted | 
+439 | 10-13-2004 | Zoning amendment | Repealed by Ord. No. 451 | 
+440 |  | Rental permits amendment | Not adopted | 
+441 |  | Solid waste amendment | Withdrawn | 
+442 | 1-13-2005 | Vehicles and traffic: traffic signal violation
+monitoring program | Ch. 215, Art. IV | 
+443 | 3-10-2005 | Business licenses and regulation amendment | Ch. 131, Art. I | 
+444 | 3-10-2005 | Collection of fees for delinquent taxes | Ch. 204, Art. V | 
+445 | 3-10-2005 | 2005 elections | Temporary measure | 
+446 | 4-14-2005 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+447 |  | Renting to and employment of illegal aliens | Defeated | 
+448 | 6-9-2005 | Parking of certain vehicles amendment | Ch. 152 | 
+449 |  | Vehicles and traffic: stopping, standing, and
+parking; tow-away zones; fire lanes amendment | Defeated | 
+450 | 8-11-2005 | Senior citizens and disabled tax exemption amendment | Ch. 204, Art. III | 
+451 | 11-10-2005 | Zoning | Ch. 225 | 
+452 | 11-10-2005 | Finance Committee amendment | Repealed by Ord. No. 497 | 
+453 | 10-13-2005 | Incident management | Ch. 31 | 
+454 | 10-13-2005 | Rental permits amendment | Ch. 182 | 
+455 | 11-10-2005 | Zoning amendment | Ch. 225 | 
+456 |  | Finance Committee amendment | Defeated | 
+457 | 12-8-2005 | Streets and sidewalks: roadway obstructions | Ch. 192, Art. III | 
+458 | 12-8-2005 | Property Maintenance Code amendment | Ch. 171, Art. II | 
+459 | 12-8-2005 | Stormwater management | Repealed by Ord. No. 628 | 
+460 | 1-12-2006 | Curfew amendment | Ch. 87 | 
+461 | 2-9-2006 | Zoning Map amendment | Ch. 225, table only | 
+462 | 4-13-2006 | Zoning Map amendment | Ch. 225, table only | 
+463 | 5-11-2006 | Police Pension Plan amendment | NCM; see Ch. 45 | 
+464 | 5-11-2006 | Handicapped parking amendment | Ch. 116, Art. I | 
+465 | 6-8-2006 | Zoning amendment | Ch. 225 | 
+466 | 6-8-2006 | Vehicles and traffic: stopping, standing, and
+parking; tow-away zones; fire lanes amendment | Ch. 215, Art. II | 
+467 | 8-10-2006 | Emergency operations | Ch. 21 | 
+468 | 7-13-2006 | Zoning amendment | Ch. 225 | 
+469 | 9-14-2006 | Adoption of Zoning Map | Ch. 225, Attachment | 
+470 | 10-12-2006 | Vehicles and traffic: stopping, standing, and
+parking; tow-away zones; fire lanes amendment | Ch. 215, Art. II | 
+471 | 11-9-2006 | Property Maintenance Code amendment | Ch. 171, Art. II | 
+472 | 11-9-2006 | Handicapped parking amendment | Ch. 116, Art. I | 
+473 | 11-9-2006 | Police pension fund amendment | See Ch. 45 | 
+474 | 11-9-2006 | Tax payment installment plan | Ch. 204, Art. IV | 
+475 | 1-11-2007 | Doubling of license fees for failure to obtain
+licenses or pay fees | Ch. 60, Art. II | 
+476 | 3-8-2007 | Senior citizens and disabled tax exemption amendment | Ch. 204, Art. III | 
+477 | 4-12-2007 | 2007 elections | NCM | 
+478 | 5-10-2007 | Senior citizens and disabled tax exemption amendment | Ch. 204, Art. III | 
+479 | 6-14-2007 | Concealed BB guns, air guns, and toy guns in
+public | Ch. 99, Art. V | 
+480 | 7-12-2007 | Police pension fund amendment | See Ch. 45 | 
+481 |  | Animals amendment | Withdrawn | 
+482 | 11-8-2007 | Adoption of building, residential, plumbing
+mechanical and fuel gas standards amendment | Ch. 76, Art. II | 
+483 |  | Rental permits amendment | Not adopted | 
+484 | 11-8-2007 | Property maintenance standards amendment | Ch. 171, Art. II | 
+485 | 11-8-2007 | Zoning amendment | Ch. 225 | 
+486 |  | Zoning amendment | Defeated | 
+487 | 1-8-2009 | Elections | Ch, 19 | 
+488 | 3-13-2008 | Zoning amendment | Ch. 225 | 
+489 | 3-13-2008 | Police pension fund amendment | See Ch. 45 | 
+490 | 4-10-2008 | Rental permits amendment | Ch. 182 | 
+491 | 4-10-2008 | Zoning amendment | Ch. 225 | 
+492 | 4-10-2008 | Business licenses and regulation amendment | Ch. 131, Art. I | 
+493 | 7-10-2008 | Zoning amendment | Ch. 225 | 
+494 | 9-10-2009 | Utility construction | Ch. 192, Art. IV | 
+495 | 9-10-2009 | Roadway construction | Ch. 192, Art. V | 
+496 | 9-11-2008 | Property maintenance: adoption of standards
+amendment | Ch. 171, Art. II | 
+497 | 10-9-2008 | Finance Committee | Ch. 27 | 
+498 | 10-9-2008 | Code Enforcement Officer amendment | Ch. 34, Art. II | 
+499 | 10-9-2008 | Waiver of building permit fees | Ch. 76, Art. III | 
+500 | 11-13-2008 | Planning Commission amendment; Tree Advisory
+Board repealer | Chs. 38; 55, reference only | 
+501 | 1-8-2009 | Town Manager amendment | Ch. 34, Art. I | 
+502 | 2-9-2009 | Collection of fees and costs for delinquent
+taxes amendment | Ch. 204, Art. V | 
+503 | 4-9-2008 | 2009 elections | NCM | 
+504 | 4-9-2009 | Graffiti amendment | Ch. 110 | 
+505 | 6-11-2009 | Property maintenance: adoption of standards
+amendment | Ch. 171, Art. II | 
+506 | 9-10-2009 | Licensed businesses: disorderly establishments
+and entertainment clubs | Ch. 131, Art. II | 
+507 | 6-11-2009 | Abandoned vehicles amendment | Ch. 211 | 
+508 | 6-11-2009 | Finance Committee amendment | Ch. 27 | 
+509 | 7-9-2009 | Procedure for removal of Police Chief | Repealed by Ord. No. 575 | 
+510 | 8-11-2009 | Public hearing rules for termination of Police Chief | Repealed by Ord. No. 575 | 
+511 | 10-8-2009 | Use of cellular telephones while operating motor vehicles | Ch. 215, Art. V | 
+512 | 1-14-2010 | Peddling and soliciting amendment | Ch. 159 | 
+513 | 10-8-2009 | Open burning | Ch. 79 | 
+514 | 2-11-2010 | Zoning amendment | Ch. 225 | 
+515 | 5-13-2010 | Realty transfer tax amendment | Ch. 204, Art. II | 
+516 | 12-9-2010 | Excavation and grading | Ch. 93 | 
+517 | 8-12-2010 | Update of Comprehensive Plan | NCM | 
+518 | 8-12-2010 | Vehicles and traffic: enforcement | Ch. 215, Art. VI | 
+519 | 8-12-2010 | Licensed businesses amendment | Ch. 131, Arts. I and II | 
+520 | 8-12-2010 | Rental permits amendment | Ch. 182 | 
+521 | 8-12-2010 | Vacant property: registration | Ch. 209, Art. I | 
+522 | 8-12-2010 | Payment of fines amendment | Ch. 98 | 
+523 | 9-9-2010 | Parks and recreation areas amendment | Ch. 155 | 
+524 | 11-11-2010 | Vacant property: registration amendmentt | Ch. 209, Art. I | 
+525 | 11-11-2010 | Satellite dish antennas amendment | Ch. 184 | 
+ | 12-9-2010 | Elections amendment | Ch. 19 | 
+526 | 2-10-2011 | Rental permits amendment | Ch. 182 | 
+527 |  |  | Defeated | 
+528 | 3-10-2011 | Cancellation of 2011 biannual election | NCM | 
+529 | 4-14-2011 | Nuisances: nuisance properties amendment | Ch. 145, Art. I | 
+530 |  |  | Defeated | 
+531 | 5-12-2011 | Zoning amendment | Ch. 225 | 
+532 | 5-12-2011 | Special election | NCM | 
+533 | 6-9-2011 | Street name change | NCM | 
+534 |  |  | Defeated | 
+535 | 6-16-2011 | Police pension fund amendment | See Ch. 45 | 
+536 | 7-14-2011 | Zoning amendment | Ch. 225 | 
+537 | 7-14-2011 | Zoning amendment | Ch. 225 | 
+538 | 8-11-2011 | Police Secondary Pension Plan | See Ch. 45 | 
+539 | 8-11-2011 | Employee Retirement Plan | See Ch. 45 | 
+540 | 8-11-2011 | Solid waste | Ch. 187 | 
+541 | 9-8-2011 | Smoking or use of tobacco products | Ch. 186 | 
+542 | 9-8-2011 | Property maintenance: adoption of standards amendment | Ch. 171, Art. II | 
+543 | 12-8-2011 | Payment of fines amendment | Ch. 98 | 
+544 | 2-9-2012 | Realty transfer tax amendment | Ch. 204, Art. II | 
+545 | 3-8-2012 | Tax payment installment plan amendment | Ch. 204, Art. IV | 
+546 | 4-12-2012 | Zoning amendment | Ch. 225 | 
+547 | 4-12-2012 | Zoning amendment | Ch. 225 | 
+548 | 4-12-2012 | Police Pension Plan amendment | See Ch. 45 | 
+549 | 5-10-2012 | Zoning amendment | Ch. 225 | 
+550 | 4-12-2012 | Licenses and permits: failure to comply with intent of permit | Ch. 60, Art. III | 
+551 |  |  | Defeated | 
+552 | 5-10-2012 | Property maintenance: adoption of standards amendment | Ch. 171, Art. II | 
+553 | 5-10-2012 | Zoning amendment | Ch. 225 | 
+554 | 7-12-2012 | Rental licenses amendment | Ch. 182 | 
+555 | 7-12-2012 | Licensed businesses: licenses and regulation amendment | Ch. 131, Art. I | 
+556 | 7-12-2012 | Rental licenses amendment | Ch. 182 | 
+557 | 7-12-2012 | Streets and sidewalks: utility construction amendment | Ch. 192, Art. IV | 
+558 |  |  | Tabled | 
+559 | 9-13-2012 | Property maintenance: adoption of standards amendment | Ch. 171, Art. II | 
+560 |  |  | Defeated | 
+561 | 11-8-2012 | Property maintenance: adoption of standards amendment | Ch. 171, Art. II | 
+562 |  |  | Tabled | 
+563 | 3-14-2013 | Vacant property: registration amendment | Ch. 209, Art. I | 
+564 | 4-11-2013 | Streets and sidewalks: roadway obstructions amendment |  | 
+565 | 4-11-2013 | Collection of fees for delinquent taxes amendment | Ch. 204, Art. V | 
+566 | 4-11-2013 | 2013 biannual municipal elections | NCM | 
+567 | 7-11-2013 | Vacant property: registration amendment | Ch. 209, Art. I | 
+568 | 7-11-2013 | Rental licenses amendment; zoning amendment | Chs. 182; 225 | 
+569 |  |  | Defeated | 
+570 |  |  | Defeated | 
+571 | 10-10-2013 | Rental licenses amendment | Ch. 182 | 
+572 | 10-10-2013 | Vacant property: registration amendment | Ch. 209, Art. I | 
+573 | 12-12-2013 | Realty transfer tax amendment | Ch. 204, Art. II | 
+574 |  |  | Defeated | 
+575 | 3-13-2014 | Public Safety Department repealer | Ch. 48, reference only | 
+576 | 4-10-2014 | Base tax credit | Ch. 204, Art. VI | 
+577 | 4-10-2014 | Streets and sidewalks: snow and ice removal amendment | Ch. 192, Art. I | 
+578 |  |  | Defeated | 
+579 | 5-8-2014 | Swimming pools | Ch. 199 | 
+580 | 5-8-2014 | Personnel policies: resignation upon filing for elected office
+amendment | Ch. 36 | 
+581 | 8-14-2014 | Zoning amendment | Ch. 225 | 
+582 | 9-11-2014 | Zoning amendment | Ch. 225 | 
+583 | 9-11-2014 | Zoning amendment | Ch. 225 | 
+584 | 9-11-2014 | Parks and recreation areas amendment | Ch. 155 | 
+585 | 10-9-2014 | Parades and special events amendment | Ch. 148 | 
+586 | 11-13-2014 | Floodplain management; zoning amendment | Ch. 102; Ch. 225 | 
+587 | 12-11-2014 | Police Secondary Pension Plan amendment | See Ch. 45 | 
+588 | 12-11-2014 | Police Pension Plan amendment | See Ch. 45 | 
+589 | 2-12-2015 | Zoning Map amendment | Ch. 225, table only | 
+590 | 2-12-2015 | Subdivision and land development amendment | Ch. 196 | 
+591 | 2-12-2015 | Zoning amendment | Ch. 225 | 
+592 | 3-11-2015 | Floodplain management amendment | Ch. 102 | 
+593 | 3-11-2015 | 2015 biennial municipal elections | NCM | 
+594 | 5-14-2015 | Abandoned vehicles amendment | Ch. 211 | 
+595 | 6-11-2015 | Zoning amendment | Ch. 225 | 
+596 | 6-11-2015 | Animals amendment | Ch. 71 | 
+597 | 7-9-2015 | Licenses and permits: failure to comply with intent of permit
+amendment; payment of fines amendment; nuisance properties amendment;
+property maintenance: adoption of standards amendment | Ch. 60, Art. III; Ch. 98; Ch. 145, Art. I; Ch. 171, Art. II | 
+598 | 8-13-2015 | Relinquishing claim over portions of Medori property | NCM | 
+599 | 8-13-2015 | Vacant property: mortgage defaults, foreclosures, tax liens
+and transfers | Ch. 209, Art. II | 
+600 | 9-10-2015 | Garage and sidewalk sales amendment; dumping of yard waste and
+refuse amendment; peddling and soliciting amendment; satellite dish
+antennas amendment; streets and sidewalks: snow and ice removal amendment;
+subdivision and land development amendment; abandoned vehicles amendment | Ch. 107; Ch. 127; Ch. 159; Ch. 184; Ch. 192, Art. I; Ch. 196; Ch. 211 | 
+601 |  |  | Defeated | 
+602 | 9-10-2015 | Animals amendment | Ch. 71 | 
+603 |  |  | Defeated | 
+604 | 10-8-2015 | Firearms and weapons: regulation in municipal buildings and
+police stations | Ch. 99, Art. VI | 
+605 | 10-8-2015 | Vacant property: registration amendment | Ch. 209, Art. I | 
+606 | 11-12-2015 | Nuisance properties amendment | Ch. 145, Art. I | 
+607 | 11-12-2015 | Special election | NCM | 
+608 |  |  | Defeated | 
+609 | 12-10-2015 | Cable television franchise amendment | Ch. A230 | 
+610 | 12-10-2015 | Relinquishing claim over 600 and 612 Colonial Avenue | NCM | 
+611 | 1-14-2016 | Taxation: senior citizens and disabled tax exemption amendment;
+base tax credit amendment; review of income levels and discounts | Ch. 204, Art. III; Ch. 204, Art. VI; Ch. 204, Art. VII | 
+612 | 3-10-2016 | Licensed businesses: licenses and regulations amendment; registration
+of home occupations; zoning amendment | Ch. 131, Art. I; Ch. 131, Art. III; Ch. 225 | 
+613 | 4-14-2016 | Rental licenses amendment | Ch. 182 | 
+614 |  |  | Defeated | 
+615 | 6-9-2016 | Licensed businesses: registration of home occupations amendment | Ch. 131, Art. III | 
+616 | 7-14-2016 | Minor subdivision | NCM | 
+617 | 9-8-2016 | Zoning Map amendment | Ch. 225, table only | 
+618 | 9-8-2016 | Reverse subdivision approval | NCM | 
+148 Del. Laws, c. 430 | 10-6-2016 | Charter amendment | §§ C-405, C-406.1, C-406.2 | 
+619 | 10-13-2016 | Licenses and permits: failure to comply with intent of permit
+amendment; tax-delinquent property amendment | Ch. 60, Art. III; Ch. 206 | 
+620 | 11-10-2016 | Minor subdivision and reverse subdivision approval | NCM | 
+621 |  |  | Defeated | 
+622 | 3-9-2017 | 2017 elections | NCM | 
+623 | 3-9-2017 | Vacant property: mortgage defaults, foreclosures, tax liens
+and transfers amendment | Ch. 209, Art. II | 
+624 | 3-9-2017 | Police Pension Fund amendment | NCM; see Ch. 45 | 
+625 | 3-9-2017 | Property maintenance: adoption of standards amendment | Ch. 171, Art. II | 
+626 | 3-9-2017 | Nuisances: public nuisance receivership | Ch. 145, Art. II | 
+149 Del. Laws, c. 7 | 4-13-2017 | Charter amendment | § C-405 | 
+627 | 5-11-2017 | Building construction: waiver of building permit fees amendment | Ch. 76, Art. III | 
+628 | 6-8-2017 | Stormwater management: illicit discharges to municipal separate
+storm sewer system | Ch. 190, Art. I | 
+629 | 6-8-2017 | Subdivision and land development amendment | Ch. 196 | 
+630 | 6-26-2017 | Police Pension Plan Amendment | See Ch. 45 | 
+631 | 1-11-2018 | Police Secondary Pension Plan Amendment | See Ch. 45 | 
+632 |  |  | Defeated | 
+633 | 3-8-2018 | Payment of Fines Amendment; Property Maintenance Amendment | Ch. 98; Ch. 171 | 
+634 | 4-12-2018 | Zoning Amendment | Ch. 225 | 
+635 | 4-12-2018 | Zoning Amendment | Ch. 225 | 
+636 | 3-8-2018 | Professional Fees | Ch. 169 | 
+637 | 4-12-2018 | Procedure for 2018 Special 4th District Municipal Election | NCM | 
+638 | 4-12-2018 | Police Pension Plan Amendment | See Ch. 45 | 
+639 | 10-11-2018 | Elections Amendment | Ch. 19 | 
+640 | 10-11-2018 | Solid Waste | Ch. 187 | 
+641 | 10-11-2018 | Streets and Sidewalks: Roadway Obstructions Amendment | Ch. 192, Art. III | 
+642 |  |  | Tabled | 
+643 |  |  | Withdrawn | 
+644 | 2-14-2019 | Procedure for 2019 Biennial Municipal Elections | NCM | 
+645 | 4-11-2019 | Handicapped Parking Amendment | Ch. 116 | 
+646 | 5-9-2019 | Animals | Ch. 71 | 
+
+

@@ -1,0 +1,720 @@
+noise
+https://ecode360.com/8832371
+0.5690073008080025
+ | Industrial | 70 | 66 | 61 | 51 | 
+ | Business | 62 | 62 | 55 | 45 | 
+ | Residential | 62 | 55 | 55 | 45 | 
+
+
+ii      downtown special services district
+https://ecode360.com/8833142
+0.4000646291976425
+ | "Shall a Special Services District for Downtown
+Manchester be created in accordance with the ordinance adopted by
+the Town of Manchester Board of Directors?" | 
+
+
+iii      physically disabled persons  parking
+https://ecode360.com/8833329
+0.36290754292903243
+ | 26 - 50 | 2 | 
+ | 51 - 75 | 3 | 
+ | 76 - 100 | 4 | 
+ | 101 - 150 | 5 | 
+ | 151 - 200 | 6 | 
+ | 201 - 300 | 7 | 
+ | 301 - 400 | 8 | 
+ | 401 - 500 | 9 | 
+ | 501 - 1,000 | 2% of total | 
+ | Over 1,000 | 20 | 
+ | Plus, for each 100 over 1,000 | 1 | 
+
+
+ii      town officials general provisions
+https://ecode360.com/13238596
+0.34080409717761784
+If any vacancy in any elective office is not
+filled, as thus provided, within forty-five (45) days from the time
+of its happening, the Board of Selectmen shall fill the same. Any
+resignation by an elected official shall be deemed to have happened
+when written notice thereof is received by the Secretary of the Board
+of Directors. Any vacancy in any appointive office, from whatever
+cause arising, shall be filled by the authority having the power of
+appointment to that office for the unexpired portion of the term if
+the vacancy be caused by resignation, death, removal or permanent
+disability or on a temporary basis in the event of the temporary absence,
+leave or temporary disability of the holder of the office. | 
+
+
+iv      defined contribution plan
+https://ecode360.com/33481805
+0.33002713163949593
+Less than 1 | 0% | 
+1 or more but less than 2 | 20% | 
+2 or more but less than 3 | 40% | 
+3 or more but less than 4 | 60% | 
+4 or more but less than 5 | 80% | 
+5 or more | 100% | 
+
+
+viii      referenced standards
+https://ecode360.com/8832868
+0.3294952246253141
+ | Connecticut General Statutes Chapter 541, Part
+I | 
+ | Building Officials and Code Administrators International,
+Inc.
+4051 West Flossmoor Road
+Country Club Hills, Illinois 60477-5795 | 
+ | National Electrical Code
+National Fire Protection Association
+Batterymarch Park
+Quincy, Massachusetts 02269 | 
+ | Connecticut State Building Code - Connecticut
+Supplement June 15, 1994
+Department of Public Safety
+Division of Fire, Emergency and Building Services
+P.O. Box 2794
+Middletown, Connecticut 06457-9294
+Title - State Building Code - State Supplement | 
+
+
+v      budget and finance
+https://ecode360.com/13238682
+0.310860474526233
+The above information shall be revised and extended
+each year with regard to capital improvements still pending or in
+process of construction or acquisition. | 
+
+
+iii      board of directors
+https://ecode360.com/13238659
+0.3077365265594665
+The Board of Directors may fix the charges,
+if any, to be made for services rendered by the Town or for the execution
+of powers vested in the Town as provided in Chapter I of this Charter
+and the General Statutes, as amended. The Board of Directors shall
+establish ordinances and regulations regarding such charges. | 
+The Board of Directors shall authorize all purchases of real estate by the Town and all sales of real estate owned by the Town by ordinance, which ordinance shall be enacted in compliance with § 3-8 and shall be subject to the provisions of §§ 3-9 and 3-10, except that all sales and purchases connected with redevelopment and urban renewal as provided in Chapter 130 of the Connecticut General Statutes, Revision of 1958, as amended, and all condemnation proceedings and acquisition, sale or exchange of easements necessitated by public improvement projects of the Town authorized by the Board of Directors are excluded from the operation of this section. | 
+
+
+viii      referenced standards
+https://ecode360.com/8832868
+0.27919086614011157
+ | Building Officials and Code Administrators International,
+Inc.
+4051 West Flossmoor Road
+Country Club Hills, Illinois 60477-5795 | 
+
+
+iv      light  ventilation and occupancy limitations
+https://ecode360.com/8832750
+0.2757081101969676
+ | NOTES:
+* See § 242-26F for combined living room/dining room spaces. | 
+
+
+iii      board of directors
+https://ecode360.com/13238659
+0.2492670641035721
+Provided that the total number of votes cast
+in the referendum is 15% or more of the number of electors of the
+Town, a combined "No" vote by a majority of the electors voting shall
+reject the adopted budget and require the Board of Directors to adopt
+a revised budget. | 
+
+
+viii      referenced standards
+https://ecode360.com/8832868
+0.24765768913375097
+ | Connecticut General Statutes Chapter 541, Part
+II | 
+ | Connecticut Fire Safety Code - Connecticut Supplement
+Legal Publications Office
+Office of Distribution
+111 Phoenix Avenue
+Enfield, Connecticut 06082
+Title - Connecticut Fire Safety Code - Connecticut
+Supplement | 
+
+
+iii      board of directors
+https://ecode360.com/13238659
+0.24551238485298474
+If the adopted budget is rejected, the Board
+of Directors shall, within seven days after the special election,
+adopt a revised budget, which may be less or greater than the adopted
+budget, as the Board shall deem appropriate based on the results of
+the referendum. The revised budget shall take effect in accordance
+with the provisions of Chapter 5. | 
+
+
+iii      board of directors
+https://ecode360.com/13238659
+0.23933455311572546
+If a majority of the votes cast in the referendum
+are "Yes," or if the total number of votes cast in the referendum
+is less than 15% of the number of electors of the Town as determined
+from the latest official lists of the Registrars of Voters, the adopted
+budget shall take effect in accordance with the provisions of Chapter
+5. | 
+
+
+iii      board of directors
+https://ecode360.com/13238659
+0.2297762414500691
+Yes.
+No; the adopted budget is too high.
+No; the adopted budget is too low. | 
+
+
+iii      board of directors
+https://ecode360.com/13238659
+0.21907853931713625
+There shall be no more than one budget referendum
+in any year. | 
+
+
+sewage disposal
+https://ecode360.com/8832954
+0.21291436900347363
+ | 5 or less | $150.00 | 
+ | 6 to 10 | $200.00 | 
+ | 11 to 20 | $250.00 | 
+ | 21 to 30 | $300.00 | 
+
+
+iii      board of directors
+https://ecode360.com/13238659
+0.1996038562291915
+At the referendum, the electors shall choose
+one of the following three responses to the ballot question: | 
+
+
+iv      light  ventilation and occupancy limitations
+https://ecode360.com/8832750
+0.17848621734246214
+ | ** 1 square foot = 0.093 m2. | 
+
+
+iii      board of directors
+https://ecode360.com/13238659
+0.16401971249127187
+SIGNATURE | PRINTED NAME | NUMBER STREET | 
+
+
+dl      disposition list
+https://ecode360.com/8833388
+-1.3730851100603128
+7-20-2003 | Purchase of property | Ch. A340 | 
+7-22-2003 | Supplemental pension plan amendment | Superseded 9-19-2006 | 
+7-22-2003 | Sidewalk and curb assessments amendment | Ch. 279, Art. IV | 
+7-22-2003 | Town Clerk amendment | Ch. 23 | 
+7-22-2003 | Purchase of property | Ch. A340 | 
+9-9-2003 | Sale of property | Ch. A340 | 
+9-9-2003 | Skateboards, bicycles, skates and scooters | Ch. 292, Art. III | 
+10-7-2003 | Supplemental pensions amendment | Superseded 9-19-2006 | 
+10-14-2003 | Purchase of property | Ch. A340 | 
+Referendum 11-4-2003 | Charter revisions | Charter | 
+12-9-2003 | Purchase of property | Ch. A340 | 
+12-9-2003 | Sale of property | Ch. A340 | 
+12-9-2003 | Sale of property | Ch. A340 | 
+2-3-2004 | Acquisition of property | Ch. A340 | 
+2-3-2004 | Purchase of property | Ch. A340 | 
+4-6-2004 | Arts Commission amendment | Ch. 28, Art. VIII | 
+4-6-2004 | Commemoration Commission | Repealed 3-4-2008 | 
+4-6-2004 | HUD housing projects tax assessment amendment | Ch. 285, Art. III | 
+5-18-2004 | Board of Assessment Appeals | Ch. 285, Art. I | 
+5-18-2004 | Aquifer Protection Agency | Ch. 6, Art. III | 
+6-15-2004 | Supplemental pensions amendment | Superseded 9-19-2006 | 
+6-15-2004 | Purchase of property | Ch. A340 | 
+8-3-2004 | Supplemental pensions amendment | Superseded 9-19-2006 | 
+9-14-2004 | Adoption of Code | Ch. 1, Art. II | 
+9-14-2004 | Conveyance of property | Ch. A340 | 
+9-14-2004 | Acquisition of property | Ch. A340 | 
+9-14-2004 | Sale of property | Ch. A340 | 
+9-14-2004 | Acquisition of property | Ch. A340 | 
+11-16-2004 | Purchase of property | Ch. A340 | 
+2-8-2005 | Hours of operation of Town property | Ch. 292, Art. I | 
+4-12-2005 | Purchase of property | Ch. A340 | 
+5-10-2005 | Purchase of property | Ch. A340 | 
+6-14-2005 | Supplemental pension plan amendment | Superseded 9-19-2006 | 
+6-14-2005 | Supplemental pension plan amendment | Superseded 9-19-2006 | 
+7-5-2005 | Purchase of property | Ch. A340 | 
+11-22-2005 | Purchase of property | Ch. A340 | 
+3-7-2006 | Public vendors | Ch. 235, Art. I | 
+4-11-2006 | Living wage | Repealed 8-12-2008 | 
+6-13-2006 | Sale of food amendment | Repealed 6-5-2018 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+7-11-2006 | Purchase of property | Ch. A340 | 
+9-19-2006 | Supplemental pension plan; money purchase pension
+plan | Repealed 6-5-2018 | 
+10-3-2006 | Sale of property | Ch. A340 | 
+11-14-2006 | Purchase of property | Ch. A340 | 
+1-16-2007 | Tax exemptions and procedures amendment | Ch. 285, Art. I | 
+2-13-2007 | Purchase of property | Ch. A340 | 
+4-10-2007 | Supplemental pension plan amendment | Repealed 6-5-2018 | 
+4-17-2007 | Tax exemptions and procedures amendment | Ch. 285, Art. I | 
+6-5-2007 | Supplemental pension plan amendment | Repealed 6-5-2018 | 
+9-4-2007 | Parking, stopping and standing amendment | Ch. 307, Art. II | 
+10-2-2007 | Tax exemptions and procedures amendment | Ch. 285, Art. I | 
+10-2-2007 | Tax exemptions and procedures amendment | Ch. 285, Art. I | 
+1-15-2008 | Property maintenance amendment | Ch. 242 | 
+1-15-2008 | Taxation: Downtown Special Services District
+amendment | Ch. 285, Art. II | 
+1-15-2008 | Commission for Elderly Services and People with
+Disabilities; Commission for Disabled Persons repealer | Ch. 28, Arts. I; II, footnote only | 
+3-4-2008 | Commemoration Commission repealer | Ch. 28, Art. XIII, footnote only | 
+4-8-2008 | Streets and sidewalks: newsracks in public rights-of-way | Ch. 279, Art. VI | 
+6-10-2008 | Purchase of property | Ch. A340 | 
+8-12-2008 | Living wage repealer | Ch. 212, footnote only | 
+8-12-2008 | Youth Commission | Ch. 28, Art. XIII | 
+9-9-2008 | Newsracks in public rights-of-way amendment | Ch. 279, Art. VI | 
+10-14-2008 | Library amendment | Ch. 205 | 
+Referendum 11-4-2008 | Charter revisions | Charter | 
+11-18-2008 | Redevelopment Agency amendment | Ch. 6, Art. II | 
+1-6-2009 | Emergency Medical Services Council repealer | Ch. 33, Art. I (reference only) | 
+3-3-2009 | Retiree Health Care Trust | Ch. 70, Art. V | 
+3-3-2009 | Assessments for sidewalks and curbs amendment | Ch. 279, Art. IV | 
+6-2-2009 | Building construction amendment | Ch. 129 | 
+6-9-2009 | Supplemental Pension Plan amendment | Repealed 6-5-2018 | 
+7-7-2009 | Sale of property | Ch. A340 | 
+8-11-2009 | Property maintenance amendment | Ch. 242 | 
+10-13-2009 | Solid waste | Ch. 273 | 
+12-8-2009 | Redevelopment Agency amendment | Ch. 6, Art. II | 
+1-12-2010 | Living wage | Ch. 212 | 
+2-9-2010 | Supplemental Pension Plan amendment | Repealed 6-5-2018 | 
+4-6-2010 | Acquisition of property | Ch. A340 | 
+4-6-2010 | Exchange of property | Ch. A340 | 
+4-6-2010 | Purchase of property | Ch. A340 | 
+5-4-2010 | Solid waste amendment (Central Connecticut Solid Waste Authority) | Ch. 273 | 
+5-4-2010 | Tax exemptions and procedures amendment | Ch. 285, Art. I | 
+5-4-2010 | Supplemental Pension Plan amendment | Repealed 6-5-2018 | 
+3-1-2011 | Purchase of property | Ch. A340 | 
+4-19-2011 | Purchase of property | Ch. A340 | 
+6-7-2011 | Supplemental pension plan amendment | Repealed 6-5-2018 | 
+6-7-2011 | Property maintenance amendment | Ch. 242 | 
+7-5-2011 | Dissolution of Cheney Hall Board of Commissioners | Ch. 28, Art. V (Editor's Note only) | 
+8-2-2011 | Purchase of property | Ch. A340 | 
+9-6-2011 | Acquisition of easements | Ch. A340 | 
+12-6-2011 | Regional Council of Elected Officials amendment | Ch. 79, Art. II | 
+12-6-2011 | Donation of property | Ch. A340 | 
+1-3-2012 | Building construction amendment | Ch. 129 | 
+1-3-2012 | Voting districts amendment | Ch. 87 | 
+2-7-2012 | Arts Commission amendment | Ch. 28, Art. VIII | 
+3-6-2012 | Building construction amendment | Ch. 129 | 
+6-12-2012 | Nuisances amendment | Ch. 226 | 
+6-12-2012 | Alcoholic beverages: hours of sale amendment | Ch. 106, Art. I | 
+3-5-2013 | Conveyance of property | Ch. A340 | 
+3-5-2013 | Purchase of property | Ch. A340 | 
+3-5-2013 | Purchase of property | Ch. A340 | 
+4-2-2013 | Acquisition/conveyance of property | Ch. A340 | 
+5-7-2013 | Conveyance of property | Ch. A340 | 
+5-7-2013 | Clean Energy Finance and Investment Authority Fund | Ch. 47 | 
+6-4-2013 | Conveyance of property | Ch. A340 | 
+7-9-2013 | Supplemental Pension Plan amendment | Repealed 6-5-2018 | 
+10-8-2013 | Building construction amendment | Ch. 129 | 
+1-7-2014 | Fair Rent Commission repealer; Housing and Fair Rent Commission
+amendment | Ch. 28, Arts. IV; VI | 
+2-4-2014 | Acquisition of property | Ch. A340 | 
+3-4-2014 | Alcoholic beverages: possession and consumption in public amendment | Ch. 106, Art. II | 
+5-6-2014 | Arts Commission amendment | Ch. 28, Art. VIII | 
+5-6-2014 | Panhandling and loitering | Ch. 236 | 
+8-12-2014 | Purchase of property | Ch. A340 | 
+8-12-2014 | Purchase of property | Ch. A340 | 
+10-7-2014 | Streets and sidewalks: snow and ice removal from sidewalks amendment | Ch. 279, Art. III | 
+10-7-2014 | Taxation: tax exemptions and procedures amendment | Ch. 285, Art. I | 
+11-18-2014 | Commissions, committees and boards: Commission on Human Relations,
+Elderly Services and People With Disabilities amendment; Commission
+on Human Relations repealer | Ch. 28, Art. I; Ch. 28, Art. III | 
+12-9-2014 | Commissions, committees and boards: Economic Development Commission
+amendment | Ch. 28, Art. XI | 
+4-7-2015 | Vehicles and traffic: parking, stopping and standing amendment | Ch. 307, Art. II | 
+7-7-2015 | Pensions and retirement: Supplemental Pension Plan amendment | Repealed 6-5-2018 | 
+11-17-2015 | Taxation: tax exemptions and procedures amendment | Ch. 285, Art. I | 
+2-9-2016 | Taxation: tax abatement for affordable housing for low- or moderate-income
+persons | Ch. 285, Art. IV | 
+7-5-2016 | Property maintenance amendment | Ch. 242 | 
+12-6-2016 | Building construction amendment | Ch. 129 | 
+4-4-2017 | Pensions and retirement: Supplemental Pension Plan amendment | Repealed 6-5-2018 | 
+5-2-2017 | Acquisition of property | Ch. A340 | 
+7-11-2017 | Trees: regulation and protection | Ch. 298, Art. II | 
+8-8-2017 | Pensions and retirement: Supplemental Pension Plan amendment | Repealed 6-5-2018 | 
+1-2-2018 | Massage therapy establishments | Ch. 214 | 
+4-3-2018 | Taxation: Tax Exemptions and Procedures Amendment | Ch. 285, Art. I | 
+6-5-2018 | Purchase of Property | Ch. A340 | 
+6-5-2018 | Food, Sale of | Ch. 187 | 
+6-5-2018 | Pensions and Retirement: Pension Plan; Defined Contribution
+Plan | Ch. 70, Art. III; Ch. 70, Art. IV | 
+8-7-2018 | Purchase of Property | Ch. A340 | 
+9-4-2018 | Agencies: Redevelopment Agency Amendment | Repealed 11-13-2018 | 
+10-2-2018 | Fire Department Amendment | Ch. 42 | 
+11-13-2018 | Agencies: Redevelopment Agency Amendment | Ch. 6, Art. II | 
+11-13-2018 | Vehicles and Traffic: Parking, Stopping and Standing Amendment | Ch. 307, Art. II | 
+1-15-2019 | Voting Districts Amendment | Ch. 87 | 
+1-15-2019 | Zoning Violations: Enforcement and Fines | Ch. 325, Art. I | 
+4-2-2019 | Sale of Property | Ch. A340 | 
+5-7-2019 | Storm Drainage System Management | Ch. 275 | 
+6-11-2019 | Pensions and Retirement Amendment | Ch. 70 | 
+6-11-2019 | Tobacco Products | Ch. 290 | 
+
+
+a         real estate transactions
+https://ecode360.com/8833386
+-2.9981646313244097
+321 | 495 | 7-23-57 | Sale | John L. Treybal, George M. Danks | Rear Bruce Road | 
+351 | 229 | 5-26-59 | Sale | Andrew Ansaldi | Spring Street | 
+417 | 544 | 3-15-66 | Lease | Manchester Country Club, Inc. | South Main Street | 
+421 | 479 | 8-16-66 | Sale | State of Connecticut | South Main Street | 
+423 | 82 | 10-18-66 | Sale | Theunis Werkaven | Santina Drive | 
+440 | 251 | 6-4-68 | Purchase | Hartford Electric Light Co. | Spring Street | 
+439 | 600 | 7-16-68 | Purchase | Chester A. and Marion C. Langtry | Middle Turnpike West | 
+440 | 274 | 7-16-68 | Purchase | Earle S. Rohan | Hercules Drive | 
+502 | 19 | 7-16-68 | Purchase | Angeline Lamphers | 31 - 33 Oak Street | 
+441 | 475 | 8-27-68 | Purchase | Garden Grove, Inc. | Hercules Drive | 
+441 | 257 | 8-27-68 | Sale | Garden Grove, Inc. | Hercules Drive | 
+441 | 257 | 9-10-68 | Purchase | Gladys L. Ruggles, et al. | Town of Bolton
+Bolton Land Records | 
+444 | 683 | 11-12-68 | Purchase | Josephine Lukas estate | 139 Oakland Street | 
+440 | 796 | 8-5-69 | Purchase | Thomas J. Crockett | Lydall Street | 
+450 | 424 | 9-2-69 | Purchase | Anna Haskins | North School Street | 
+456 | 595 | 10-7-69 | Purchase | United States | Nike Street | 
+456 | 595 | 9-1-70 | Purchase | Kohn Brothers | Spencer Street, Rear | 
+451 | 151 | 10-7-69 | Purchase | Edward J. Holl estate | Trotter Street south of Lake Street
+and Parker Street | 
+453 | 5 | 10-21-69 | Sale | M.K. Adams | Finley Street | 
+453 | 5 | 10-21-69 | Sale (rescinded 3-3-70) | M.K. Adams | Finley Street | 
+453 | 605 | 1-6-70 | Sale | Army and Navy Club of Manchester, Inc. | Main Street | 
+453 | 137 | 1-6-70 | Purchase | Boise Cascade Corp. | Highland Street | 
+456 | 114 | 5-5-70 | Purchase | Robert C. Dennison, Wells C. Dennison
+and Dorothy C. Beach | Winding Way Road | 
+461 | 320 | 6-2-70 | Sale | Ronald A. Pearl | Ferguson Road Tract (lot No. 1) | 
+461 | 384 | 6-2-70 | Sale | Olgerts Klavins | Ferguson Road Tract (lot No. 2) | 
+461 | 384 | 6-2-70 | Sale | Olgerts Klavins | Ferguson Road Tract (lot No. 3) | 
+461 | 384 | 6-2-70 | Sale | Olgerts Klavins | Ferguson Road Tract (lot No. 4) | 
+460 | 697 | 5-2-70 | Sale | Arnold S. Zackin | Ferguson Road Tract (lot No. 5) | 
+457 | 464 | 5-2-70 | Purchase | Humble Oil Co. | Broad Street and Center Street | 
+455 | 795 | 7-7-70 | Purchase | Robert H. Scheiner | 150 Spring Street | 
+460 | 14 | 10-6-70 | Sale | John F. and Krar | Hillstown Road | 
+459 | 839 | 2-2-71 | Purchase | Michael and Mary Massaro | Broad Street | 
+482 | 145 | 12-14-71 | Purchase | State of Connecticut | South Main and Charter Oak Streets | 
+490 | 312 | 7-13-72 | Sale | State of Connecticut | Route U.S. 6 and 44A | 
+495 | 295 | 2-13-73 | Purchase | Benjamin A. Cavazza, et al. | Main and Woodland Streets | 
+503 | 105 | 2-13-73 | Purchase | John W. Naudzus | Hilliard and Broad Streets | 
+193 | 11 | 1-9-73 | Sale | Town of Glastonbury | Birch Mountain Road., Glastonbury | 
+518 | 192 | 4-10-73 | Purchase | Peter P. Freiman | 9 Trotter Street | 
+532 | 288 | 8-11-73 | Sale | Raymond Damato and Richard P. Hayes | Tolland Turnpike | 
+532 | 290 | 8-14-73 | Purchase | Raymond F. Damato and Richard P. Hayes | Tolland Turnpike | 
+536 | 201 | 9-25-73 | Purchase | Robert C. and Wells C. Dennison | Laurel Lake | 
+534 | 91 | 11-27-72 | Purchase | Helen B. Newmeyer | Trotter Block | 
+542 | 70 | 3-12-74 | Purchase | Robert C. and Wells C. Dennison | Case Mountain | 
+546 | 183 | 5-14-74 | Sale | State of Connecticut | Adams Street | 
+555 | 73 | 5-13-74 | Purchase | Sidney B. and Elsie T. Cushman | Parker Street | 
+560 | 172 | 12-10-74 | Purchase | Santo J. and Mary W. Lambardo | Tolland Turnpike | 
+599 | 153 | 9-9-75 | Purchase | Mobile Oil Co. | Adams Street | 
+584 | 86 | 9-9-75 | Sale | Joseph J. Plikunas | 139 Oakland Street | 
+586 | 80 | 10-14-75 | Purchase | Raymond D. McCarthy | 765 V. Middle Turnpike West | 
+598 | 153 and 155 | 3-2-76 | Purchase | Alexander Jarvis estate | Adams Street | 
+598 | 149 and 151 | 3-2-76 | Purchase | Alexander Jarvis estate | Middle Turnpike West | 
+601 | 253 | 5-4-76 | Purchase | Ruth L. R. Fanta | 446 Adams Street | 
+599 | 151 | 5-4-76 | Purchase | Myrtle A. Pierre and Geraldine Allen | 383 V Adams Street | 
+599 | 151 | 9-14-76 | Sale | Kenneth Burkamp | Purnell Place | 
+658 | 149 | 5-10-77 | Purchase | State of Connecticut | Gardner Street | 
+641 | 43 | 7-20-77 | Purchase | Hartman Tobacco Co. | Windsor and Burnham Streets | 
+858 | 129 | 12-13-77 | Purchase | State of Connecticut | Windsor and Burnham Streets | 
+226 | 774 | 11-29-77 | Purchase | Merton and Florence Treat | Coop Road (Glastonbury) | 
+639 | 240 | 10-11-77 | Sale | Jane Miller | Kenney Street | 
+663 | 001 | 1-10-78 | Sale | J.C. Penney Properties, Inc. | Burkland Industrial Park | 
+678 | 284 | 6-13-78 | Sale | HELCO | Tolland Turnpike and Meekville Road | 
+661 | 191, 192, 193, 195 | 2-8-78 | Sale | EKF Associates | Colonial Road and Parker Street | 
+662 | 167 | 2-21-78 | Purchase | HELCO | Burnham Street | 
+N/R | N/R | 2-21-78 | Sale | State of Connecticut | Tolland Turnpike | 
+704 | 113 | 11-28-78 | Purchase | Virginia B. Batson | Burnham and Clark Streets | 
+N/R | N/R | 11-28-78 | Purchase | Stanley P. and Marion E, Baldyga | Pleasant Valley Road (SW) | 
+N/R | N/R | 11-28-78 | Purchase | Stanley P. and Marion E, Baldyga | Pleasant Valley Road (SW) | 
+701 | 99 | 12-12-78 | Sale | State of Connecticut | Tolland Turnpike | 
+N/R | N/R | 10-10-78 | Purchase | Hartman Tobacco | Pleasant Valley Road | 
+692 | 106 | 9-12-78 | Purchase | Alexander Jarvis estate | South Adams Street | 
+685 | 17 | 9-12-78 | Sale | HELCO | Tolland Turnpike | 
+665 | 094 | 3-30-79 | Purchase | Hartman Tobacco | Pleasant Valley Road | 
+721 | 273 | 4-3-79 | Sale | Manchester Hospital | Haynes Street | 
+707 | 334 | 5-8-79 | Sale | Tomko | Chapel Road | 
+716 | 031 | 7-19-79 | Sale | R. Nadeau, et al. | Batson Road | 
+718 | 260 | 9-4-79 | Purchase | F.H. Maroney | Hills Street | 
+722 | 266 | 10-2-79 | Sale | Hartford Distributors, Inc. | Chapel Road | 
+725 | 055 | 10-2-79 | Sale | Bugnacid Special Meat Products | Batson Drive | 
+725 | 158 | 10-2-79 | Sale | State of Connecticut | Deming Street | 
+ | 146 | 12-4-79 | Purchase | A.F. Yakaitis, et al. | Burnham Street | 
+734 | 001 | 12-4-79 | Sale | General Electric | Chapel Road | 
+739 | 132 | 4-15-80 | Exchange | Manchester Structural, Inc. | Sheldon Road | 
+740 | 169 | 5-25-80 | Sale | K.F. Corneau | Batson Drive | 
+753 | 118 | 6-17-80 | Sale | E.J. Reed | Tolland Turnpike | 
+311 | 225 | 7-15-80 | Sale | Stanley Baldyga | Pleasant Valley Road (South Windsor) | 
+777 | 127 | 1-6-81 | Sale | D.W. Willson, et al. | Batson Drive | 
+255 | 90 | 3-19-81 | Purchase | K. McLaughlin | Glastonbury | 
+794 | 86 | 6-13-81 | Sale | MAP Associates | South Windsor Line | 
+792 | 170 | 7-7-81 | Exchange | Bugnacki | Batson Drive | 
+311 | 218 | 8-4-81 | Sale | Town of South Windsor | Pleasant Valley Road | 
+789 | 12 | 8-6-81 | Sale | Burton | Linden Street | 
+787 | 9 | 8-6-81 | Sale | DiRosa | Not stated | 
+806 | 330 | 3-16-82 | Sale | Economy Electric | Oakland Street | 
+813 | 90 | 8-3-82 | Sale | Marian J. Jusko, et al. | Batson Drive | 
+826 | 218 | 10-5-82 | Purchase | John F. Shannon, et als. | Manchester and East Hartford | 
+835 | 85 | 1-25-83 | Purchase | Heritage Savings & Loan Association | Cottage Street | 
+827 | 49 | 1-1-83 | Purchase | Gulf & Western Industries, Inc. | Adams Street | 
+273 | 473 | 5-10-83 | Release | Joseph Becker | Glastonbury | 
+352 | 339 | 5-10-83 | Sale | Gerber Scientific, Inc. | Batson Drive | 
+366 | 255 | 6-7-83 | Sale | Angelo DiMauro | Batson Drive | 
+857 | 52 | 6-9-83 | Sale | State of Connecticut | Interstate Route 34 | 
+903 | 222 | 6-25-84 | Sale | Multi-Circuits, Inc. | East Center Street and Harrison Street | 
+907 | 113 | 7-25-84 | Sale | Gerald N. Garston, et al. | Lot 17 Buckland Industrial Park | 
+907 | 143 | 7-26-84 | Sale | Bruce T. Jope | Lot 22 Buckland Industrial Park | 
+909 | 146 | 8-7-84 | Sale | William J. Gamache, Jr. | Lot 22C Buckland Industrial Park | 
+914 | 68 | 9-5-84 | Purchase | Robert W. Weinberg | See Deed | 
+922 | 121 | 10-24-84 | Sale | Hartford Distributors, Inc. | Lot 4 Buckland Industrial Park | 
+932 | 60 | 11-10-84 | Purchase | Vernon Street Corporation | Vernon Street | 
+934 | 29 | 1-28-845 | Purchase | Connecticut Bank & Trust Company
+- Trustee | Purnell Place | 
+957 | 126 | 6-5-85 | Purchase | Lewis Frysinger | Vernon Street | 
+968 | 143 | 6-5-85 | Purchase | Cindy B. Paluska | Vernon Street and Vernon Street West | 
+963 | 87 | 6-11-85 | Sale | Russell A. Reiss, et al. | Lot 10 Buckland Industrial Park | 
+962 | 60 | 7-2-85 | Purchase | George L. Pipik, et al. | Vernon Street West | 
+961 | 104 | 7-8-85 | Sale | Myron H. Downs, et al. | Lot 12 Buckland Industrial Park | 
+962 | 219 | 7-15-85 | Purchase | Caroline M. Geer | Vernon Street West | 
+964 | 201 | 7-29-85 | Purchase | Ady Sai-Kuen Tong | Main Street | 
+308 | 1195 | 10-21-85 | Purchase | Eleanor B. Hansen | Coop Road, Glastonbury | 
+984 | 306 | 10-22-85 | Sale | Manchester Area Conference of Churches,
+Inc. | Main Street | 
+984 | 303 | 11-1-85 | Purchase | Wesley C. Gryk, et al. | Main Street | 
+987 | 319 | 11-19-85 | Purchase | Linda A. Griffin | Vernon Street West | 
+996 | 73 | 1-6-86 | Sale | Visions Unlimited, Inc. | Love Lane | 
+1005 | 62 | 3-13-86 | Sale | Manchester Sand & Gravel Company | Parker Street | 
+1005 | 63 | 3-13-86 | Sale | William B. Thornton | Parker Street | 
+1005 | 64 | 3-13-86 | Purchase | William B. Thornton | Parker Street | 
+1005 | 65 | 3-13-86 | Purchase | Manchester Sand & Gravel Company | Parker Street | 
+772 | 171 | 4-19-81 | Sale | Gary A. Mercier, et al. | Lot 9 Buckland Industrial Park | 
+807 | 53 | 4-23-82 | Purchase | State of Connecticut | Camp Meeting Road | 
+814 | 293 | 7-20-82 | Sale | Richard S. Lawrence, et als. | Tolland Turnpike | 
+819 | 124 | 9-9-82 | Purchase | Autumn Heights | (5 Parcels) Patriot Lane, East Eldridge | 
+1021 | 322 | 5-30-86 | Sale | Bob Riley Oldsmobile, Inc. | Adams Street | 
+1057 | 300 | 9-15-86 | (?) | Samuel J. Heyman Trustee, | Hartford Road and Elm Street | 
+1216 | 218 | 3-23-88 | Purchase | Doris P. Fish | Washington Street | 
+1310 | 136 | 4-3-89 | Gift | Mary Catherine Development Company | Birch Mountain | 
+1414 | 343 | 4-16-89 | Purchase | Richard M. and Judith A. White | Tolland Turnpike | 
+1306 | 137 | 4-17-89 | Purchase | James Beaulieu Development Company,
+Inc. | Lt. 5 Middle Heights | 
+1329 | 136 | 6-26-89 | Sale | Carl T. and Margaret H. Chadburn | Knollwood Road | 
+1328 | 279 | 7-25-89 | Sale | David P. & Leeann Zubrow | Knollwood Road | 
+1331 | 211 | 8-4-89 | Sale | Eighth Utilities District | Tolland Turnpike | 
+1333 | 22 | 8-16-89 | Conveyance | Rothman & Beaulieu, Inc. | Tolland Turnpike | 
+1334 | 286 | 8-23-89 | Purchase | Robert J. and Virginia Walter | 17 - 19 Trotter Street | 
+1350 | 233 | 11-1-89 | Purchase | John H. and Margaret H. Hackett | 23 - 25 Trotter Street | 
+1345 | 252 | 5-10-89 | Purchase | State of Connecticut | Tolland Turnpike at Deming Street | 
+1364 | 35 | 1-2-90 | Exchange | Manchester Memorial Hospital | Turkington Drive (southerly side) | 
+1364 | 33 | 1-3-90 | Exchange | Manchester Memorial Hospital | Turkington Drive (northerly side) | 
+1381 | 201 | 4-2-90 | Purchase | Mary E. Parsons | Tolland Turnpike | 
+1386 | 206 | 4-9-90 | Purchase | Charles J. and David L. Minicucci | 102 - 104 Charter Oak Street | 
+1443 | 315 | 5-2-91 | Amendment to Lease | Manchester Country Club | South Main Street | 
+1387 | 103 | 5-16-90 | Purchase | Catherine Slisz aka Katherine Slisz
+and Anna Curlonis | 245 Union Street | 
+1418 | 95 | 10-31-90 | Sale | State of Connecticut | Autumn and Highland Streets | 
+1398 | 41 | 7-2-90 | Purchase | Anthony Dzen and Amelia Dzen | 954 Tolland Turnpike | 
+1419 | 339 | 8-23-90 | Purchase | Manchester Foods, Inc. | 394 Tolland Turnpike | 
+1461 | 201 | 8-12-91 | Purchase | Estate of Florence Mary Harwarth | 265 Middle Turnpike East | 
+1408 | 75 | 9-10-90 | Purchase | John B. Barnini, Trustee | 376 Tolland Turnpike | 
+1412 | 293 | 9-25-90 | Purchase | Tolland Turnpike Associates Limited
+Partnership | 360 Tolland Tunrpike | 
+1419 | 263 | 11-20-90 | Certificate of Taking | Richard P. Hayes | 400 Tolland Turnpike | 
+1419 | 269 | 11-20-90 | Certificate of | Urbanetti Properties | 452/462 Tolland Turnpike | 
+1419 | 248 | 11-20-90 | Certificate of Taking | Richard J. and Patricia A. Botticello | 906 Tolland Turnpike | 
+1419 | 49 | 9-27-90 | Purchase | Herman M. and Annette J. Frechette
+and Carol Aselton | 756 North Main Street | 
+1419 | 260 | 11-20-90 | Certificate of Taking | Hayes-Kaufman Partnership | 768 North Main Street | 
+1418 | 125 | 10-2-90 | Purchase | Catherine E. Olmstead | 669 Tolland Turnpike | 
+1412 | 295 | 9-10-90 | Purchase | Michael A. and Arline M. DellaFera | 786 Tolland Turnpike | 
+1408 | 47 | 9-11-90 | Purchase | Allen H. and Barbara A. Griswold | 912 Tolland Turnpike | 
+1418 | 19 | 10-22-90 | Purchase | Brooke T. Newkirk | 964 Tolland Turnpike | 
+1410 | 83 | 9-14-90 | Purchase | Leo R. Kasel | 924 Tolland Turnpike | 
+1416 | 116 | 10-19-90 | Purchase | Eighth Utilities District | 1039 Tolland Turnpike | 
+1419 | 263 | 11-26-90 | Certificate of Taking | Richard P. Hayes | 408 Tolland Turnpike | 
+1493 | 181 | 1-28-92 | Sale | Army and Navy Club | Forest Street | 
+1544 | 299 | 9-8-92 | Amendment to Lease | Manchester Country Club | South Main Street | 
+1610 | 109 | 6-22-93 | Purchase | The United States of America | Main Street | 
+1760 | 231 | 2-7-95 | Conveyance | Star Enterprise | Deming Street | 
+1758 | 295 | 2-7-95 | Conveyance | Pearl M. Podrove, Trust. | Deming Street | 
+1758 | 292 | 2-7-95 | Conveyance | Richard C. Woodhouse, Trust. | Old Hale Road | 
+1758 | 298 | 2-7-95 | Conveyance | William B. Glotzer, Trust. | Deming Street | 
+1770 | 57 | 4-4-95 | Purchase | Cheney Office Building Associates | Prospect Street | 
+1744 | 320 | 4-4-95 | Purchase | James J. and Dorothy L. Thibodeau | Prospect Street | 
+1776 | 224 | 7-11-95 | Purchase | Marcel and Germaine Lapierre | 101 - 109 Center Street | 
+1788 | 75 | 10-10-95 | Purchase | Savings Bank of Manchester | 124 - 126 Spruce Street | 
+ |  | 7-2-96 | Purchase | Hector Manuel Maury, et al | 5 Elvree Street | 
+ |  | 7-2-96 | Purchase | Michael A. Cassello | 6 Elvree Street | 
+ |  | 7-2-96 | Conveyance | Eastern Highlands Development Group
+LLC/Town Homes at Stoneybrook Condominium and Condominium Unit Owners | Five-foot strip along Parker Street | 
+ |  | 7-2-96 | Conveyance | George D. Bryan, Jr. | Parcel along Parker Street | 
+ |  | 7-2-96 | Purchase | William J. Wininger, et al | 191 Sanrico Drive | 
+ |  | 12-17-97 | Conveyance | The Savings Bank of Rockville | 93-99 Pine Street | 
+ |  | 7-22-98 | Conveyance | To Habitat for Humanity | Parcel of land bounded by Wells Street,
+on the north; by land now or formerly of Marjorie T. Michaud et al,
+on the east; and by land now or formerly of Leocadia Tomusiak, on
+the south and west | 
+ |  | 9-1-98 | Purchase | Stock Development Corporation | 510V North Main Street | 
+ |  | 9-1-98 | Purchase | Riverbend Industrial Park Condominium | 540 North Main Street | 
+ |  | 9-1-98 | Purchase | Michael A. DeCaprio | 550 North Main Street | 
+ |  | 9-1-98 | Purchase | Harry Friedman | 570 North Main Street | 
+ |  | 10-6-98 | Purchase | Estate of Andrew Ansaldi | Chalmers Street | 
+ |  | 10-6-98 | Purchase | Estate of Barney T. Peterman, Sr. and
+Barney T. Peterman, Jr. | 543 North Main Street | 
+ |  | 10-6-98 | Purchase | Eighth School and Utilities District | 560 North Main Street | 
+ |  | 10-6-98 | Purchase | The Balf Company | 569 North Main Street | 
+ |  | 10-6-98 | Purchase | Richard M. Eaton | 584 North Main Street | 
+ |  | 11-10-98 | Sale | State of Connecticut | Premises on east side of Oakland Street
+near Tudor Lane | 
+ |  | 12-8-98 | Gift | Savings Bank of Manchester | 50 Foster Street | 
+ |  | 12-8-98 | Purchase | State of Connecticut | Premises on east side of Hillstown
+Road | 
+ |  | 12-8-98 | Purchase | Sara Dennison and Dorothy Case Beach | 160 Kimberly Drive | 
+ |  | 12-8-98 | Purchase | Sara Dennison | Portion of 76 Birch Mountain Road | 
+ |  | 3-2-99 | Purchase | Christopher A. and Linda A. Cavanna | 12 Vernon Street | 
+ |  | 6-1-99 | Purchase | June S. Bailey | 351 Gardner Street | 
+ |  | 6-1-99 | Purchase | Thomas A. Bailey and June S. Bailey | 579 Gardner Street | 
+ |  | 7-6-99 | Purchase | Carol L. Champ | 22 Vernon Street | 
+ |  | 7-6-99 | Conveyance | Town of Manchester to Habitat for Humanity | 50 Foster Street | 
+ |  | 8-3-99 | Sale | Lawrence C. and Reges M. Linders | Parcel of land immediately adjacent
+to 76 Westminster Road | 
+ |  | 7-11-00 | Purchase | Barney T. Peterman, Jr. and Joel E.
+Janenda | 100 Union Street | 
+ |  | 11-14-00 | Purchase | East Hartford Crossroads, LLC | 140 Spruce Street | 
+ |  | 3-13-01 | Purchase | Estate of Anthony M. Choman | 26 McCabe Street | 
+ |  | 5-1-01 | Purchase | Sanitary Refuse Company of Manchester
+Inc. | 17 and 18 Perrett Place | 
+ |  | 5-1-01 | Purchase | Botticello Brothers Realty | Parcel B, 155 Spencer Street | 
+ |  | 7-17-01 | Purchase | Ruth C. Bonney | 10 Vernon Street | 
+ |  | 10-2-01 | Purchase | Priscilla L. Lappen, Marjorie A. Lappen,
+Kenneth M. Lappen and Donald B. Lappen | 495 Gardner Street | 
+ |  | 1-8-02 | Sale | Manchester Interfaith Corporation | 71 Adams Street South | 
+ |  | 9-3-02 | Purchase | Sharon McHugh | 156 Hillstown Road | 
+ |  | 9-3-02 | Purchase | Sharon McHugh | 130 Hillstown Road | 
+ |  | 9-3-02 | Purchase | Cheney Office Building Associates | 27 Prospect Street | 
+ |  | 9-3-02 | Purchase | Katherine A. Hughes | 41 Prospect Street | 
+ |  | 9-3-02 | Purchase | Fibro-Cheney, LLC | 130 Hartford Road | 
+ |  | 9-3-02 | Purchase | Manchester Historical Society | 106 Hartford Road | 
+ |  | 9-3-02 | Purchase | South United Methodist Church | 20 Hartford Road | 
+ |  | 11-12-02 | Sale | State of Connecticut | Premises at corner of Pleasant Valley
+Road and Croft Drive | 
+ |  | 12-10-2002 | Conveyance | State of Connecticut | Parcels 1 and 2 at the intersection
+of Tolland Turnpike and North Main Street | 
+ |  | 12-10-2002 | Purchase | Mohammed Talukdar and Amira Kahtun | 143 Summit Street | 
+ |  | 12-10-2002 | Gift | John M. Purdy, Jr. | Portion of 301 Adams Street | 
+ |  | 2-4-2003 | Gift | Paul J. Aceto and James Aceto | Parcel S-20 Line Street, Glastonbury | 
+ |  | 4-8-2003 | Sale | Brookview Construction Company, LLC | 252 Wetherell Street | 
+ |  | 4-8-2003 | Purchase | Estate of Wesley C. Gryk | 470 Main Street | 
+ |  | 6-3-2003 | Purchase | Julie A. Demeo and Charles W. Kalber | 389 Gardner Street (rear) | 
+ |  | ? | Donation | State of Connecticut | Portion of Tolland Turnpike/North Main
+Street | 
+ |  | 7-20-2003 | Purchase | State of Connecticut | Approximately 54 acres located on the
+northerly and southerly sides of Routes U.S. 6 and 44 and the easterly
+side of Interstate Route 84 | 
+ |  | 7-22-2003 | Purchase | Daniel K. Rojas | 153 - 155 Summit Street | 
+ |  | 9-9-2003 | Sale | Hartford Area Habitat for Humanity,
+Inc. | 99 Laurel Street | 
+ |  | 10-14-2003 | Purchase | Connecticut Light & Power Company | 250 Olcott Street | 
+ |  | 12-9-2003 | Purchase | Joseph H. Bezzini, John J. Bezzini
+and Richard P. Bezzini | 809 Hilliard Street | 
+ |  | 12-9-2003 | Sale | Gary A. Gross | 47 McCabe Street | 
+ |  | 12-9-2003 | Sale | Aldrich Company, LLC | Parcels B2 and C, McCabe Street | 
+ |  | 2-3-2004 | Gift | State of Connecticut | 2 parcels of land on Pine Street | 
+ |  | 2-3-2004 | Purchase | Rocco DeSimone | 175-177 Summit Street | 
+ |  | 6-15-2004 | Purchase | Marshall C. Taylor | 379 Gardner Street | 
+ |  | 9-14-2004 | Sale | Coop Road, LLC | Real property situated on the westerly
+side of Coop Road | 
+ |  | 9-14-2004 | Purchase | Coop Road, LLC | Real property situated on the westerly
+side of Coop Road | 
+ |  | 9-14-2004 | Sale | NES Group Investments, LLC | 1083 Tolland Turnpike | 
+ |  | 9-14-2004 | Gift | George H. Marlow | 31 Purnell Place | 
+ |  | 11-16-2004 | Purchase | D & E Properties, LLC | 169-171 Summit Street | 
+ |  | 4-12-2005 | Purchase | Sielev Associates, LLC | A portion of 241 Middle Turnpike West | 
+ |  | 5-10-2005 | Purchase | David and Nilda Terrero | 163-165 Summit Street | 
+ |  | 7-5-2005 | Purchase | Barney T. Peterman, Jr., and Kathleen
+Peterman Kerr | 377, 387 and 397 Gardner Street | 
+ |  | 11-22-2005 | Purchase | M&A Properties, L.L.C. | A portion of land along premises known
+as 697 Parker Street | 
+ |  | 7-11-2006 | Purchase | German Ochoa and Rosa Umana | 11-13 Vine Street | 
+ |  | 7-11-2006 | Purchase | M. Stephens Co., LLC | 11 School Street | 
+ |  | 7-11-2006 | Purchase | Arthur J. and Audrey A. McGowan | 49 Wells Street | 
+ |  | 7-11-2006 | Purchase | Darrell M. Holley | 55 Wells Street | 
+ |  | 7-11-2006 | Purchase | Angelica J. Ruiz and Roberto Ruiz,
+Jr. | 63 Wells Street | 
+ |  | 10-3-2006 | Sale | Avon Building Supply Company | 180 Sheldon Road | 
+ |  | 11-14-2006 | Purchase | Richard W. Dennison | 728 Spring Street | 
+ |  | 2-13-2007 | Purchase | Ernest M. Starsiak and EMS Real Estate,
+LLC | 63 acres at real property on Hills
+Street and Hillstown Road | 
+ |  | 6-10-2008 | Purchase | Beverly B. Burton and Jean L. Bollino | 63 Linden Street | 
+ |  | 7-7-2009 | Sale | Hitesh Kothari, Trustee | 3 Buckland Street | 
+ |  | 4-6-2010 | Acquisition | Brian K. and Debra L. Edwards | 93 Overlook Drive | 
+ |  | 4-6-2010 | Exchange | Brian K. and Debra L. Edwards | Portion of 550 Lydall Street abutting
+Overlook Drive | 
+ |  | 4-6-2010 | Purchase | Estate of Augusta L. Grube | 391 Porter Street | 
+ |  | 3-1-2011 | Purchase | FNM Manchester LLC | 324, 330, 334 and 340 Broad Street | 
+ |  | 4-19-2011 | Purchase/Acquisition | Carlson Associates | 1.3 acres at 637 South main Street | 
+ |  | 8-2-2011 | Purchase | Overland Manchester LLC | 156 Middle Turnpike West and 265 Center
+Street | 
+ |  | 9-6-2011 | Easements | Janet Jaffrin Dispositive Trust
+L&J Manchester II LLC
+Estate of Steven C. Nichols
+American Eagle Federal Credit Union
+Circle Associates
+EOC Properties, Inc.
+Hartford Dispensary Real Estate, Inc.
+Rockville Bank
+Bonnie J. and Frederick C. Bauer
+Broad Street Realty LLC
+Jeffrey I. Bergin dba Cliffmore Investments | 266 Middle Turnpike West
+290 Broad Street
+299 Broad Street
+304 Broad Street
+305 Broad Street
+315 Broad Street
+335 Broad Street
+341 Broad Street
+344 Broad Street
+354 Broad Street
+357 Broad Street | 
+ |  | 12-6-2011 | Donation | First Niagara Bank. N.A. | 901 Main Street | 
+ |  | 3-5-2013 | Conveyance | State of Connecticut | Approximately 839 square feet on the
+southeast corner of the intersection of Oakland Street (Connecticut
+Route 83) and Tolland Turnpike (Connecticut Routes 83 and 30). | 
+ |  | 3-5-2013 | Purchase | Wells C. Jacobson and Susan J. Beach | 716 Spring Street, also knows as "716R Spring Street" | 
+ |  | 3-5-2013 | Purchase | Andrew Ansaldi, Jr. | 640 and 660 Spring Street | 
+ |  | 4-2-2013 | Acquisition/ Conveyance | Estate of Catherine E. Ringrose/Purple Heart Homes,
+Inc. | 14 Cornell Street | 
+ |  | 5-7-2013 | Conveyance | Darrell J. Lupacchino and Tracy L. Longoria | 601 Lydall Street | 
+ |  | 6-4-2013 | Conveyance | Robin L. Melody, Jose Flores, Sr. and Ada N. Flores | 123 Lydell Street | 
+ |  | 2-4-2014 | Acquisition | Linda P. France | Approximately .60 acres of land and known as "Parcel
+W-2 Old Coop Road," also known as "Saw Mill Road." | 
+ |  | 8-12-2014 | Purchase | Robert M. Brindamour and Patricia Brindamour | Approximately 230 square feet of land
+located on the southwest corner of 941 Hillstown Road | 
+ |  | 8-12-2014 | Purchase | Peter Puzio and Yelena A. Puzio | Approximately 1,520 square feet of
+land located on the northwest corner of 961 Hillstown Road | 
+ |  | 5-2-2017 | Donation | Talcottville Development Company, LLC | Real property known as 71 Tolland Turnpike | 
+ |  | 6-5-2018 | Purchase | L & J Manchester II LLC and/or
+L & J Manchester III LLC | Real property known as 296 Broad Street
+and a portion of Green Manor Boulevard | 
+ |  | 8-7-2018 | Purchase | Kenneth C. Burkamp and South Manchester
+Railroad Properties | Real property known as 261 Center Street,
+a portion of 262 Center Street and a portion of 31 Pine Street | 
+ |  | 4-2-2019 | Sale | Orford Village Housing Development
+Corporation | Real property known as 190 to 208 North
+Elm Street, previously known as 208 North Elm Street and 11 V White
+Street | 
+
+

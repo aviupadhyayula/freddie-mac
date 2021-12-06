@@ -1,0 +1,1338 @@
+zoning
+https://ecode360.com/35224404
+0.704359646647917
+Very Low Income | 5% | 20% | 2.5% | 11% | 
+Low Income | 10% | 20% | 1.5% | 20% | 
+Moderate Income (Condo or PD only) | 10% | 5% | 1% | 40% | 
+Senior Citizen Housing Development | 100% | 20% | — | — | 
+
+
+zoning
+https://ecode360.com/35224404
+0.654474700212242
+For less than 12,500 sq. ft. of gross floor area | 0 | 
+For 12,500 to 20,000 sq. ft. of gross floor area | 1 | 
+For 20,000 to 30,000 sq. ft. of gross floor area | 2 | 
+For 30,000 to 50,000 sq. ft. of gross floor area | 3 | 
+For each additional 25,000 sq. ft. of gross floor area | 1 | 
+
+
+zoning
+https://ecode360.com/35224404
+0.6293532366671618
+For 10,000 to 50,000 sq. ft. of gross floor area. | 1 | 
+For 50,000 to 150,000 sq. ft. of gross floor area | 2 | 
+For each additional 150,000 sq. ft. of gross floor area | 1 | 
+
+
+zoning
+https://ecode360.com/35224404
+0.6286593699696168
+REAL ESTATE TRANSFER DISCLOSURE STATEMENT | 
+THIS DISCLOSURE STATEMENT CONCERNS THE REAL PROPERTY LOCATED
+IN THE CITY OF OAKDALE, COUNTY OF STANISLAUS, STATE OF CALIFORNIA,
+DESCRIBED AS ___________________________________________. THIS DISCLOSURE
+OF THE CONDITION OF THE ABOVE DESCRIBED PROPERTY IN COMPLIANCE WITH
+ORDINANCE NUMBER ___________ OF THE CITY CODE AS OF__________________________________.
+IT IS NOT A WARRANTY OF ANY KIND BY THE SELLER(S) OR ANY AGENT(S)
+REPRESENTING ANY PRINCIPAL(S) IN THIS TRANSACTION, AND IS NOT A SUBSTITUTE
+FOR ANY INSPECTIONS OR WARRANTIES THE PRINCIPAL(S) MAY WISH TO OBTAIN. | 
+
+
+zoning
+https://ecode360.com/35224404
+0.5885796795787706
+1 to 11 units | 1 amenity | 
+12 to 40 units | 2 amenities | 
+41 to 100 units | 3 amenities | 
+101 to 200 units | 4 amenities | 
+
+
+zoning
+https://ecode360.com/35224404
+0.5851605718243814
+The assumed household size shall be 0.75 person in a single
+room occupancy unit, one (1) person in a studio apartment, two (2)
+persons in a one (1) bedroom unit, three (3) persons in a two (2)
+bedroom unit, and one (1) additional person for each additional bedroom. | 
+
+
+zoning
+https://ecode360.com/35224404
+0.5850809587570031
+The assumed household size shall be one (1) person in a studio
+apartment, two (2) persons in a one (1) bedroom unit, three (3) persons
+in a two (2) bedroom unit, and one (1) additional person for each
+additional bedroom. | 
+
+
+zoning
+https://ecode360.com/35224404
+0.5659769471428634
+WATER EFFICIENT LANDSCAPING REQUIREMENTS | 
+
+
+zoning
+https://ecode360.com/35224404
+0.5503582583276873
+Part II
+Specific Plan Preparation Process. | 
+
+
+zoning
+https://ecode360.com/35224404
+0.546563232858302
+First 50 feet | 4 square feet per lineal foot of building frontage; plus | 
+Next 50 feet | 2 square feet per lineal foot of building frontage; plus | 
+Over 100 feet | 1 square foot per lineal foot of building frontage | 
+
+
+ix      east f street corridor specific plan infrastructure fee
+https://ecode360.com/37139173
+0.5376073353730908
+Tesoro Unit 1 | $39,788.50 | 
+Low Density Residential (LDR) | $27,847.70 | 
+Medium Density Residential (MDR) | $40,733.87 | 
+High Density Residential (HDR) | $47,752.75 | 
+Mixed Use (MU) | $57,508.68 | 
+General Commercial (COM) | $42,147.99 | 
+
+
+zoning
+https://ecode360.com/35224404
+0.5299040268642685
+Part I
+General Provisions. | 
+
+
+zoning
+https://ecode360.com/35224404
+0.5299040268642685
+Part I 
+General Provisions | 
+
+
+viii      parking and business improvement area
+https://ecode360.com/35218731
+0.4978692343283373
+DESCRIPTION
+Business Improvement Area | 
+
+
+viii      parking and business improvement area
+https://ecode360.com/35218731
+0.4771508953325399
+Retail Sales, under $12,000 quarterly gross receipts | $7.50 | $5.00 | $5.00 | 
+Retail Sales, between $12,000 to $50,000 quarterly gross receipts | 15.00 | 12.50 | 12.50 | 
+Retail Sales, over $50,000 quarterly gross receipts | 25.00 | 22.50 | 22.50 | 
+Professional businesses | 10.00 | 10.00 | 10.00 | 
+Service businesses | 10.00 | 5.00 | 5.00 | 
+
+
+ii      building code
+https://ecode360.com/35217361
+0.476303982952363
+Assembly Group A - A-1, A-2, A-3, A-4, A-5 | 5,000 | 
+Business Group B | 5,000 | 
+Educational Group E | 5,000 | 
+Factory Group F — F-1, F-2, | 5,000 | 
+High-Hazard Group H — H-1, H-2, H-3, H-4,
+H-5 | Not permitted without sprinklers | 
+Institutional Group I — I-1, I-2, I-3, I-4 | Not permitted without sprinklers | 
+Mercantile Group M | 5,000 | 
+Residential Group R — R-1, R-2, R-3 | Not permitted without sprinklers | 
+Storage Group S — S-1, S-2 | 5,000 | 
+Utility and Miscellaneous Group U | 5,000 | 
+Any building of any type of occupancy which exceeds two
+stories in height | Any size | 
+
+
+ix      east f street corridor specific plan infrastructure fee
+https://ecode360.com/37139173
+0.43865019534651695
+Exhibit B | 
+INFRASTRUCTURE FEE RELATED TO THE EAST F STREET CORRIDOR
+SPECIFIC PLAN | 
+
+
+ix      east f street corridor specific plan infrastructure fee
+https://ecode360.com/37139173
+0.43108830478106974
+Specific Plan Area Fee | 
+East F Street Specific Plan | 
+
+
+dl      disposition list
+https://ecode360.com/35230785
+0.4308390933096553
+1261 | 10-1-2018 | Unclaimed Property, Money and Disposition of Surplus City Property
+Amendment | Ch. 33 | 57 | 
+1262-A | 12-10-2018 | Building Codes, Administration and Enforcement and Systems Development
+Charges Amendment | Ch. 7 | 57 | 
+1262 | 1-22-2019 | Parks and Recreation. Amendment | Ch. 20 | 57 | 
+1263 | 5-6-2019 | Offenses--Miscellaneous Amendment | Ch. 19 | 57 | 
+1264 | 5-20-2019 | Finance and Taxation Amendment | Ch. 11 | 57 | 
+1265 | 12-2-2019 | Fire Protection Amendment | Ch. 12 | 57 | 
+1266 | 7-1-2019 | Animals and Fowl Amendment | Ch. 4 | 57 | 
+1267 | 12-2-2019 | East F Street Corridor Specific Plan Amendment | NCM | 57 | 
+1268 | 12-2-2019 | Agreement | NCM | 57 | 
+1269 | 12-2-2019 | Building Codes, Administration and Enforcement and Systems Development
+Charges Amendment | Ch. 7 | 57 | 
+1270 | 2-18-2020 | Water Amendment | Ch. 35 | 1 | 
+1271 | 4-6-2020 | Urgency Ordinance (Covid-19) - Stay in Place Emergency Order | NCM | 1 | 
+1272 | 4-20-2020 | Reimbursement Fee Related to the East F Street Corridor Specific
+Plan | NCM | 1 | 
+1273 | 4-20-2020 | Finance and Taxation: East F Street Corridor Specific Plan Infrastructure
+Fee | Ch. 11, Art. IX | 1 | 
+1274 | 8-3-2020 | Special Temporary Outdoor Operations Permit | NCM | 1 | 
+
+
+zoning
+https://ecode360.com/35224404
+0.430127480020297
+Date: | Sign | 
+
+
+ix      east f street corridor specific plan infrastructure fee
+https://ecode360.com/37139173
+0.3999116791158034
+1. Tesoro Unit 1 collected fees distributed proportionately
+to Specific Plan Costs | 
+2. General Commercial is required to retain storm runoff onsite. | 
+
+
+viii      parking and business improvement area
+https://ecode360.com/35218731
+0.38185096309142363
+Editor's Note: See also Chapter 16 Licenses, Article I, Business Licenses, § 11-73, Collection of additional tax. | 
+
+
+i      business licenses
+https://ecode360.com/35219859
+0.37864476596567853
+$0.00 to $4,000.00 | $50.00 | 
+4,000.01 to 5,000.00 | 60.00 | 
+5,000.01 to 6,000.00 | 70.00 | 
+6,000.01 to 8,000.00 | 80.00 | 
+8,000.01 to 10,000.00 | 90.00 | 
+10,000.01 to 12,000.00 | 100.00 | 
+12,000.01 to 14,000.00 | 110.00 | 
+14,000.01 to 16,000.00 | 120.00 | 
+16,000.01 to 18,000.00 | 130.00 | 
+18,000.01 to 20,000.00 | 140.00 | 
+20,000.01 to 25,000.00 | 160.00 | 
+25,000.01 to 30,000.00 | 180.00 | 
+30,000.01 to 35,000.00 | 200.00 | 
+35,000.01 to 40,000.00 | 220.00 | 
+OVER 40,000.00 | 240.00 | 
+
+
+viii      dedications  reservations  and development fees
+https://ecode360.com/35222340
+0.36317377097503156
+Single family | 3.1 | 2.8 and up | .0155 | 
+Duplex, medium | 2.4 | 2.2 to 2.8 | .012 | 
+Multiple | 2.2 | 2.0 to 2.2 | 1.01 | 
+Mobile home park | 1.3 | 1.3 to 2.0 | .0065 | 
+
+
+i      administration   general
+https://ecode360.com/35217333
+0.33310331476052063
+$1 to $500 | $22 | 
+$501 to $2,000 | $22 for the first $500
+Plus $3 for each additional $100
+or
+fraction thereof to and including $2,000 | 
+$2,001 to $25,000 | $67 for the first $2,000
+Plus $13.50 for each additional $1,000 or
+fraction thereof, to and including $25,000 | 
+$25,001 to $50,000 | $378 for the first $25,000 plus
+$9.75 for each additional $1,000 or
+fraction thereof, to and including $50,000 | 
+$50,001 to $100,000 | $621 for the first $50,000 plus $6.75 for each additional $1,000
+or fraction thereof, to and including $100,000 | 
+$100,001 to $500,000 | $959 for the first $100,000 plus $5.25 each additional $1,000
+or fraction thereof | 
+$500,001 to $1,000,000 | $3,059 for the first $500,000 plus $4.50 for each $1,000 or
+fraction thereof, to and including $1,000,000 | 
+$1,000,000 and up | $5,309 for the first $1,000,000 plus $3 for each additional
+$1,000 or fraction thereof | 
+
+
+i      business licenses
+https://ecode360.com/35219859
+0.32379901559677926
+$0.00 to $1,000.00 | $20.00 | 
+1,000.01 to 1,500.00 | 25.00 | 
+1,500.01 to 2,000.00 | 30.00 | 
+2,000.01 to 3,000.00 | 40.00 | 
+3,000.01 to 4,000.00 | 50.00 | 
+4,000.01 to 5,000.00 | 60.00 | 
+5,000.01 to 6,000.00 | 70.00 | 
+6,000.01 to 8,000.00 | 80.00 | 
+8,000.01 to 10,000.00 | 90.00 | 
+10,000.01 to 12,000.00 | 100.00 | 
+12,000.01 to 14,000.00 | 110.00 | 
+14,000.01 to 16,000.00 | 120.00 | 
+16,000.01 to 18,000.00 | 130.00 | 
+18,000.01 to 20,000.00 | 140.00 | 
+20,000.01 to 25,000.00 | 160.00 | 
+25,000.01 to 30,000.00 | 180.00 | 
+30,000.01 to 35,000.00 | 200.00 | 
+35,000.01 to 40,000.00 | 220.00 | 
+OVER 40,000.00 | 240.00 | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ | 
+
+
+zoning
+https://ecode360.com/35224404
+0.26967876529720936
+ |  | 
+
+
+a      taxicabs
+https://ecode360.com/35222671
+0.26035537956213756
+Police Department Clearance Fee | $12.50 | 
+Fingerprints to FBI and California | $56.00 | 
+Photograph | $5.00 | 
+Total Initial Permit Fees | $73.50 | 
+Driver's Permit Renewals: | $25.00 | 
+
+
+ii      dogs
+https://ecode360.com/35216815
+0.21750724027679272
+For the purpose of this section, a person is conducting himself
+or herself peacefully and lawfully upon the private property of an
+owner or possessor of the dog when he or she is on such property in
+the performance of any duty imposed on such person by state or local
+law or by the laws of postage regulations of the United States, or
+when he or she is on such property upon invitation, either expressed
+or implied. | 
+
+
+viii      parking and business improvement area
+https://ecode360.com/35218731
+0.08451702580718015
+ | 
+
+
+dl      disposition list
+https://ecode360.com/35230785
+-0.006827575289793775
+1212-12 | 9-4-12 | Amends Ch. 31, Subdivisions; Article IX, Local Benefit Districts | 54 | 
+1213-12 | 8-20-12 | Amends Ch. 18, Motor Vehicles and Traffic; 18-11, speed limits; repeals 18-11.1, radar use on city streets | 54 | 
+1214-13 | 3-18-13 | Amends Ch. 8, Cardrooms; Article 1, 8-1 – 8-13, cardrooms | 54 | 
+1215-13 | 10-7-13 | Rezone Assessor's Parcel No. 130-029-042 from the C-1 to
+C-2 Zone, Special | 54 | 
+1216-13 | 10-21-13 | Amends Ch. 20, Parks and Recreation; 20-13, park rules-add (35) alcohol in parks | 54 | 
+1217-13 | 10-21-13 | Dissolves special tax requirement of parcel 063-013-023 within
+Community Facilities District No. 2003-1, Special | 54 | 
+1218-13 | 11-18-13 | Amends Ch. 28, Sewers and Sewage Disposal; 28-28.2, sewer rates and charges; Amends Ch. 35, Water, 35-35, Water rates | 54 | 
+1219-13 | 11-18-13 | Amends Ch. 7, Building Codes, Administration and Enforcement and Systems Development Charges, in entirety | 54 | 
+1220-13 | 12-16-13 | Amends Ch. 12, Fire Protection in entirety | 54 | 
+1221-14 | 3-3-14 | Amends Ch. 8, Cardrooms; Article 1, 8-1 – 8-13, cardrooms | 54 | 
+1222-14 | 3-17-14 | Adopts a prezone of Crane Crossing Specific Plan Area, Special | 54 | 
+1223-14 | 3-17-14 | Adopts a prezone of Sierra Pointe Specific Plan Area, Special | 54 | 
+1224-14 | 4-21-14 | Amends Ch. 11, Finance and Taxation; 11-12.8, extend termination date for 5 years | 54 | 
+1225-14 | 8-18-14 | Amends Ch. 19, Offenses-Miscellaneous, 19-154, violation/penalty of maintenance, rehabilitation of abandoned property | 54 | 
+1226-14 | 11-3-14 | Amends Ch. 36, Zoning; 36-26.4, 36-26.5, signs | 54 | 
+1227-14 | 11-3-14 | Amends Ch. 36, Zoning; 36-28.4, removal of oak tree application process | 54 | 
+1228-14 | 12-1-14 | Amends Ch. 35, Water; Article VII, 35-50 – 35-63, backflow and cross-connection control | 54 | 
+1229-15 | 5-4-15 | Amends Ch. 36, Zoning; 35-12.3, C-2 Zone-principal uses; 36-23.35, property development standards | 54 | 
+1230-15 | 6-1-15 | Amends Ch. 36, Zoning; 36-2.2, definitions; 36-6.1 – 36-6.3, R-A Residential Agricultural District; 36-7.1 – 36-7.3, R-1 Single Family Residential Zone; 36-8.1 – 36-8.3, R-2/R-2-M, Duplex Residential District; 36-9.1 – 36-9.3, R-3, Multiple Family Residential District; 36-10.1 – 36-10.3, C-1 Neighborhood Commercial District; 36-13.1 – 36-13.3, L-M Limited Industrial District; 36-18.32, reasonable accommodation | 54 | 
+1231-15 | 6-1-15 | Amends Ch. 29, Storm Water Management and Discharge Control in entirety | 54 | 
+1232-15 |  | Not used | 54 | 
+1233-15 | 7-20-15 | Amends Ch. 20; Parks and Recreation; 20-13, park rules-age restrictions | 54 | 
+1234-15 | 7-20-15 | Amends Ch. 14, Health and Sanitation; add Article V, Waste Containers | 54 | 
+1235-15 |  | Not used | 54 | 
+1236-15 | 9-21-15 | Amends Ch. 35, Water; Article VII, Backflow and Cross-Connection Control | 54 | 
+1237-15 | 10-5-15 | Amends Ch. 18, Motor Vehicles and Traffic; deletes Article V, 18-45.1 – 18-45.5, Traffic and Business Commission | 54 | 
+1238-15 | 10-19-15 | Amends Ch. 18A, Oakdale Tourism Business Improvement District; 18A-5, 18A-8, 18A-12, 18A-13 | 54 | 
+1239-15 | 11-2-15 | Amends Ch. 7, Building Codes, Administration and Enforcement and Systems Development Charges; add Article XII, 7-80 – 7-85, Small Residential Rooftop Solar Energy System Permitting | 54 | 
+1240-15 | 11-16-15 | Amends Ch. 20, Parks and Recreation; 20-13, park rules-alcohol in parks | 54 | 
+1241-16 | 2-18-16 | Amends Ch. 14, Health and Sanitation; Article IV, Medical Marijuana Dispensary, Cultivation and Delivery Ban | 54 | 
+1242-16 | 8-17-16 | Amends Ch. 19 Offenses Miscellaneous; adds Article XII Unauthorized Camping, Sleeping and Storage of Personal Property on Public or Private Property 19-156 – 19-163; adds Article XIII Solicitation in Public Places, Controls and Prohibitions 19-164 – 19-166; adds Article XIV Squatter Camps 19-167 – 19-173; adds Article XV Unauthorized Removal or Possession of Shopping Carts 19-174 | 55 | 
+1243-16 | 11-21-16 | Amends Ch. 7 Building Codes; Article I, 7-1 – 7-3 Administration; Article II, 7-20 – 7-25 Building Code; Article III, 7-30 – 7-31 Electrical Code; Article IV, 7-35 Mechanical Code; Article V, 7-40 Plumbing Code; Article VI, 7-45 Energy Code; Article VII, 7-50 Historical Building Code; Article VIII, 7-55 Existing Building Code; Article IX, 7-60 Green Building Standards Code; Article X, 7-65 California Referenced Standards Code; Article XI 7-70 – 7-71 2006 Property Maintenance Code; deletes Article XII Small Residential Roof Top Solar Energy System Permitting; amends Article XIII 7-90 – 7-96 System Development Charges | 55 | 
+1244-16 | 11-21-16 | Amends Ch. XII Fire Protection 12-1 – 12-9 | 55 | 
+1245-16 | 12-19-16 | Amends Ch. 31 Subdivisions; adds Article XV, 31-109 Flood Hazard Zone; amends Ch. 36 Zoning; 36-4, 36-4.1 – 36-4.6 Flood Hazard Prevention; adds 36-31, 36-31.10 – 36-31.30 200-Year Flood Protection | 55 | 
+1246-17 | 2-21-17 | Amends Ch. 36 Zoning; adds 36-25.11 Off-Street Parking-Shared Parking Between Occupancies/Uses | 55 | 
+1247-17 | 3-6-17 | Amends Ch. 28 Sewers; 28-17 Charges Established; 28-28.1 Sewer Rates and Charges; 28-28.2 Sewer Connection Charges; amends Ch. 35 Water; 35-35 Charges Established | 55 | 
+506-68 | 7-15-68 | Amends Ch. 11 Finance and Taxation; adds Article VIII 11-66 – 11-78 Parking and Business Improvement Area | 55 | 
+1248-17 | 6-19-17 | Rezone Assessor's Parcel No. 063-002-004 from the R-A to
+the PD 16-12 Zone, Special | 56 | 
+1249-17 | 7-17-17 | Amends Ch. 14 Health and Sanitation; creates Article VI Disposal of Pharmaceutical Controlled Substances, 14-42, 14-43 | 56 | 
+1250-17 | 10-16-17 | Amends Ch. 19 Offenses – Miscellaneous; Article IV Coasting Devices 19-63 – 19-66 | 56 | 
+1251-17 | 11-20-17 | Amends Ch. 14 Health and Sanitation; Repeal Article IV, 14-36 – 14-39 Medical Marijuana Dispensary; Cultivation and Delivery Ban; add Ch. 37 Cannabis Regulations 37-1 – 37-18 | 56 | 
+1252-18 | 2-5-18 | Amends Ch. 28 Sewers and Sewage Disposal; 28-1 Purpose; 28-10 Prohibited discharges into sewer system; 28-23 Standby Charges; 28-34 Notification of Discharges; 28-41 Mandatory Permits; 28-42 Permit Application | 56 | 
+1253-18 | 2-5-18 | Rezone Assessor's Parcel No. 064-025-032 and 018 from the
+R-1 District to the PD-17-02 District, Special | 56 | 
+1254-18 | 2-20-18 | Amends Ch. 2 Administration; repeals Article XII, 2-50 – 2-52 Student Members, City Boards and Commissions; amends 2-32.3 Planning Commission, Powers and Duties; amends Ch. 20 Parks and Recreation 20-1 Definitions; deletes Article II 20-2 – 20-10 Parks and Recreation Commission. | 56 | 
+1255-18 | 2-20-18 | Amends Ch. 37 Cannabis Regulations; 37-2 Definitions; 37-10 Commercial Cannabis Cultivation; 37-11 Cannabis Testing Laboratory; 37-12 Dispensary; 37-13 Cannabis Manufacturing Business; 37-14 Cannabis Distribution Business; 37-15 Appeals; 37-16 Penalties; 37-17 Cost Recovery; 37-18 Severability | 56 | 
+1256-18 | 2-20-18 | Amends Ch. 36 Zoning; 36-6.3 Principal Uses R-A Residential Agricultural District; 36-7.3 Principal Uses R-1 Single Family Residential Zone; 36-8.3 Principal Uses R-2/R-2-M Duplex Residential District; 36-9.3 Principal Uses R-3 Multiple Family Residential District; 36-10.3 Principal Uses C-1 Neighborhood Commercial; 36-11.3 Principal Uses C-C Central Commercial; 36-12.3 Principal Uses C-2 General Commercial ; 36-13.5 Conditional Uses L-M Limited Industrial; 36-14.5 Conditional Uses M-1 Light Industrial | 56 | 
+1257-18 | 2-20-18 | Development Agreement between City of Oakdale and JDI Farms,
+Inc., Special | 56 | 
+1258-18 | 2-20-18 | Development Agreement between City of Oakdale and MDS Business
+Services Inc., Special | 56 | 
+1259-18 | 5-21-18 | Amends Ch. 36 Zoning; 36-26 Signs, 36-26.1 – 36-26.7 | 56 | 
+1260-18 | 8-6-18 | Development Agreement between City of Oakdale and Prem Gen Corp.,
+Special | 56 | 
+
+
+viii      parking and business improvement area
+https://ecode360.com/35218731
+-0.5938056044293395
+146 S. Third Ave. | $10.00 | 
+168 S. Third Ave. | 10.00 | 
+168 S. Third Ave. | 10.00 | 
+168 S. Third Ave. | 10.00 | 
+307 East F | 5.00 | 
+300 East F | 10.00 | 
+304 East F | 15.00 | 
+308 East F | 20.00 | 
+312 East F | 5.00 | 
+314 East F | 10.00 | 
+316 East F | 5.00 | 
+326 East F | 7.50 | 
+328 East F | 10.00 | 
+338 East F | 7.50 | 
+108. N. Yosemite | 17.50 | 
+112 N. Yosemite | 12.50 | 
+116 N. Yosemite | 17.50 | 
+118 N. Yosemite | 5.00 | 
+128 N. Yosemite | 10.00 | 
+126 N. Yosemite | 10.00 | 
+132 N. Yosemite | 10.00 | 
+136 N. Yosemite | 25.00 | 
+148 N. Yosemite | 10.00 | 
+160 N. Yosemite | 10.00 | 
+317 East E | 5.00 | 
+129 N. Third | 5.00 | 
+117 N. Third | 15.00 | 
+113 N. Third | 10.00 | 
+111 N. Third | 10.00 | 
+105 N. Third | 10.00 | 
+250 N. Third | 20.00 | 
+304 N. Yosemite | 10.00 | 
+141 N. Yosemite | 10.00 | 
+226 East F | 25.00 | 
+230 East F | 7.50 | 
+110 N. Third Ave. | 5.00 | 
+116 N. Third Ave. | 15.00 | 
+118 N. Third-Ave. | 10.00 | 
+130 N. Third Ave. | 10.00 | 
+122 N. Third Ave. | 10.00 | 
+149 N. Third Ave. | 10.00 | 
+146 N. Third Ave. | 15.00 | 
+150 N. Third Ave. | 10.00 | 
+160 N. Third Ave. | 10.00 | 
+145 N. Second Ave. | 25.00 | 
+214 East G | 5.00 | 
+147 S. Second Ave. | 5.00 | 
+207 East F | 10.00 | 
+219 East F | 15.00 | 
+231 East F | 12.50 | 
+116 S. Third Ave. | 10.00 | 
+122 S. Third Ave. | 15.00 | 
+108 West F | 5.00 | 
+117 N. Third Ave. | 5.00 | 
+102 West F | 15.00 | 
+140 N. First | 5.00 | 
+105 West F | 20.00 | 
+150 S. Second | 10.00 | 
+142 S. Second | 10.00 | 
+131 East F | 15.00 | 
+120 East F | 22.50 | 
+110 East F | 5.00 | 
+111 N. First | 5.00 | 
+107 N. First | 5.00 | 
+133 N. First | 5.00 | 
+139 N. First | 5.00 | 
+141 N. First | 5.00 | 
+143 N. First | 5.00 | 
+147 N. First | 5.00 | 
+159 N. First | 5,00 | 
+140 N. Third Ave. | 22.50 | 
+202 East F | 10.00 | 
+208 East F | 17.50 | 
+212 East F | 22.50 | 
+220 East F | 22.50 | 
+154 S. Yosemite | 5.00 | 
+346 East F | 10.00 | 
+238 N. Yosemite | 10.00 | 
+260 N. Yosemite | 5.00 | 
+222 N. Yosemite | 5.00 | 
+227 N. Third Ave. | 5.00 | 
+322 East F | 10.00 | 
+201 N. Third Ave. | 10.00 | 
+217 N. Third Ave. | 5.00 | 
+223 N. Third Ave. | 5.00 | 
+221 N. Third Ave. | 5.00 | 
+229 N. Third Ave. | 5.00 | 
+132 N. Yosemite | 10.00 | 
+330 East F | 10.00 | 
+347 East F | 10.00 | 
+116 Poplar Ave. | 5.00 | 
+
+
+fire protection
+https://ecode360.com/35218758
+-3.140789836006248
+CHAPTER 1 | 
+ADMINISTRATION | 
+SCOPE AND GENERAL REQUIREMENTS | 
+Title. | 
+Section 101.1 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+These regulations shall be known as the Fire Code of City of
+Oakdale, hereinafter referred to as "this code." | 
+CHAPTER 1 | 
+ADMINISTRATION | 
+DEPARTMENT OF FIRE PREVENTION | 
+General | 
+Section 103.1 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+There is hereby established in this jurisdiction a Fire Prevention
+Division which shall be under the administrative and operational control
+of the Building Official and/or Fire Code Official, who shall be appointed
+by the City Manager and shall have the authority granted in this chapter
+and in the Fire Code adopted by the City of Oakdale. | 
+Appointment | 
+Section 103.2 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+The Building Official and/or Fire Code Official shall be appointed
+by the City Manager of the jurisdiction. | 
+CHAPTER 1 | 
+ADMINISTRATION | 
+PERMITS | 
+Information on Construction Documents | 
+Section 105.4.2.2 of the 2019 California Fire Code is
+hereby added to read as follows: | 
+New construction projects shall be required to submit an 8 1/2
+inch by 11 inch document and an electronically submitted "detail"
+page for emergency responder data files for approval by the Building
+Official and/or Fire Code Official before final inspection. Detail
+page shall include a site plan showing: | 
+a. Property, site layout. | 
+b. Roads, fire access lanes, and building access
+points. | 
+c. Premises identification (address, building identification,
+suites, room numbers, etc.). | 
+d. Fire hydrant and Fire Department connection
+(FDC) locations. | 
+e. Knox product locations. | 
+f. Fire alarm control locations. | 
+g. Fire riser locations. | 
+h. Hose valve locations. | 
+i. Main electrical and main gas disconnect locations. | 
+j. Hazardous materials storage. | 
+Permit Required for Certain Operations. | 
+Section 105.6.15 of the 2019 California Fire Code is hereby
+deleted | 
+CHAPTER 1 | 
+ADMINISTRATION | 
+FEES | 
+Fees. | 
+Section 106.2 of the 2019 California Fire Code is hereby
+amended to read: | 
+The City Council of the City of Oakdale may, by resolution adopted
+from time to time, set a fee for any permit issued pursuant to the
+Fire Code. | 
+Plan Check Fee. | 
+Section 106.2.1 of the 2019 California Fire Code is added
+to read: | 
+When a plan is required to be submitted the plan-checking fee
+shall be paid at the time of submitting plans and specifications for
+checking. Where plans are incomplete, or changed so as to require
+an additional plan check, an additional plan-check fee shall be charged
+at a rate shown in a schedule setting forth fees as adopted from time
+to time by resolution of the City of Oakdale. | 
+CHAPTER 1 | 
+ADMINISTRATION | 
+BOARD OF APPEALS | 
+Appeals. | 
+Section 109.1 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+An applicant may appeal the decision of the Building Official
+and/or Fire Code Official to the City of Oakdale City Manager or his/her
+designee within 30 days from the date of the decision being appealed
+whenever the Building Official and/or Fire Code Official: | 
+1. Disapproves an application for use of alternate materials,
+methods and/or types of construction; | 
+2. Disapproves an application for permit or refuses to grant
+a permit applied for; | 
+3. When it is claimed that the provisions of the code do not
+apply; or | 
+4. That the true intent and meaning of the code have been misconstrued
+or wrongly interpreted. | 
+CHAPTER 1 | 
+ADMINISTRATION | 
+VIOLATIONS | 
+Compliance with Orders, Notices and Tags. | 
+Section 110.4 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+It shall be unlawful for any person to violate any provision
+or to fail to comply with any of the requirements of this chapter.
+A violation of any of the provisions or failing to comply with any
+of the mandatory requirements of this chapter shall constitute a misdemeanor,
+except that notwithstanding any other provision of this code, any
+such violation constituting a misdemeanor under this code may, in
+the discretion of the City of Oakdale Attorney, be charged and prosecuted
+as an infraction. Any person convicted of a misdemeanor under the
+provisions of this chapter, unless provision is otherwise herein made,
+shall be punishable by a fine of not more than $1,000 or by imprisonment
+in the county jail for a period of not more than six months, or by
+both fine and imprisonment. Any person convicted of an infraction
+under the provisions of this code, unless provision is otherwise herein
+made, shall be punishable by a fine only as follows: Upon a first
+conviction, by a fine of not exceeding $250 and for a second conviction
+or any subsequent conviction within a period of one year, by a fine
+of not exceeding $500. | 
+Each such person shall be charged with a separate offense for
+each and every day during any portion of which any violation of any
+provision of this code is committed, continued or permitted by such
+person and shall, upon conviction, be punished accordingly. | 
+Administrative Penalties | 
+Section 110.5 of the 2019 California Fire Code is hereby
+added to read as follows: | 
+In addition to any other remedies set forth in this chapter,
+administrative penalties may be imposed against any person, as defined
+in Section 110.5 of this Code, for violating any of the requirements
+set forth in this chapter. Any administrative penalties assessed shall
+be as follows: | 
+(a) For violations of this Code, possession, sale, use or discharge
+of dangerous fireworks, the administrative penalty shall be $500 for
+each specific act found to be in violation of that section. | 
+CHAPTER 1 | 
+ADMINISTRATION | 
+STOP-WORK ORDER | 
+Failure to comply | 
+Section 112.4 of the 2019 California Fire Code is amended
+to read: | 
+Any person who shall continue any work after having been served
+with a stop-work order, except such work as that person is directed
+to perform to remove a violation or unsafe condition, shall be liable
+to a fine of not less than $500 or more than $1,000. | 
+CHAPTER 1 | 
+ADMINISTRATION | 
+SERVICE UTILITIES | 
+Authority to disconnect service utilities. | 
+Section 113.1 of the 2019 California Fire Code is hereby
+amended to read: | 
+The Building Official and/or Fire Code Official shall have the
+authority to authorize disconnection of utility service to the building,
+structure or system in order to safely execute emergency operations
+or to eliminate an immediate hazard. The Building Official and/or
+Fire Code Official shall notify the serving utility and, where possible,
+the owner or the owner's authorized agent and the occupant of
+the building, structure or service system of the decision to disconnect
+prior to taking such action. If not notified prior to disconnection,
+then the owner, the owner's authorized agent or occupant of the
+building, structure or service system shall be notified in writing
+as soon as practical thereafter. | 
+CHAPTER 3 | 
+GENERAL REQUIREMENTS | 
+COMBUSTIBLE WASTE MATERIAL | 
+Vegetation. | 
+Section 304.1.2 of the 2019 California Fire Code is hereby
+amended to read: | 
+Vegetation abatement shall comply with the City of Oakdale Municipal
+Codes. The City of Oakdale may recover from the property owner those
+costs associated with the suppression costs incurred in fighting a
+fire and for providing rescue or emergency medical services should
+a fire occur on said property after the owner has been notified to
+abate such public nuisance and has failed to do so. | 
+General Requirements: Open Burning, Recreational Fires
+and Portable Outdoor Fireplaces | 
+Open Burning. | 
+Section 307.1 of the 2019 California Fire Code is hereby
+amended by adding the following: | 
+No person shall kindle, conduct, or maintain any burning of
+grass, weeds, agricultural trimmings, or other combustibles or authorize
+any such fire to be kindled, conducted, or maintained without a permit
+as required by the San Joaquin Valley Unified Air Pollution Control
+District and compliance with all safeguards pursuant thereto. Any
+such permitted burning shall be restricted to agricultural purposes
+and confined to areas in the City of Oakdale which agricultural uses
+are lawful. | 
+CHAPTER 3 | 
+GENERAL REQUIREMENTS | 
+VEHICLE IMPACT PROTECTION | 
+Posts. | 
+Section 312.2 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+Guard posts or other approved means shall be provided to protect
+storage tanks and connected piping, valves and fittings; dispensing
+areas; and use areas subject to vehicular damage. When guard posts
+are installed, the posts shall be: | 
+1. Constructed of steel not less than six inches in diameter
+and concrete-filled; | 
+2. Spaced not more than three feet between posts on center; | 
+3. Set not less than three feet deep in a concrete footing of
+not less than a fifteen-inch diameter; | 
+4. Set with the top of the posts not less than three feet above
+ground; and | 
+5. Located not less than five feet from the protected object. | 
+CHAPTER 4 | 
+EMERGENCY PLANNING AND PREPAREDNESS EMERGENCY PREPAREDNESS
+REQUIREMENTS | 
+Fire Safety and Evacuation Plans. | 
+Section 404.1.1 of the 2019 California Fire Code is hereby
+added to read: | 
+Buildings greater than 100,000 square feet. An approved fire
+safety and evacuation plan in accordance with Section 403 shall be
+prepared and maintained for buildings greater than 100,000 square
+feet in aggregate floor area. | 
+CHAPTER 5 | 
+FIRE SERVICE FEATURES | 
+FIRE PROTECTION WATER SUPPLIES | 
+Water Supplies and Fire Hydrants. | 
+Section 507.5.1 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+Required water supply for fire protection. An approved water
+supply capable of supplying the required fire flow for fire protection
+shall be provided to premises upon which facilities, buildings or
+portions of buildings are hereafter constructed or moved into or within
+the jurisdiction. When any portion of the facility or building protected
+is in excess of 150 feet from a water supply on a public street, as
+measured by an approved route around the exterior of the faculty or
+building, on-site fire hydrants and mains capable of supplying the
+required fire flow shall be provided when required by the Building
+Official and/or Fire Code Official and/or Chief. | 
+Fire hydrants shall be located on the supply side of the fire
+suppression system check valve. | 
+Fire hydrants shall be accessible to the Fire Department apparatus
+by roads meeting the requirements of Section 503.1 and Appendix D. | 
+Exception: For Group R-3 and Group U occupancies
+equipped throughout with an approved automatic sprinkler system installed
+in accordance with Section 903.3.1.1, 903.3.1.2 or 903.3.1.3, the
+distance requirement shall be not more than 500 feet. | 
+CHAPTER 9 | 
+FIRE PROTECTION SYSTEMS | 
+FIRE ALARM AND DETECTION SYSTEMS | 
+Supervision and Communication System | 
+Section 907.2 of the 2019 California Fire Code is hereby
+amended by adding the following: | 
+A certificate from Underwriters Laboratories (UL) shall be required
+on all commercial fire alarm systems installed after the effective
+date of this ordinance. UL certification is required to be maintained
+for commercial fire alarm systems throughout the life of the alarmed
+building. | 
+Section 907.2.1.4 of the 2019 California Fire Code is
+hereby added to read as follows: | 
+Supervision. Places of assembly shall be under
+the constant supervision of a competent adult on the premises during
+the time that the premises are open to the public. | 
+Communications. When required by the Building Official
+and/or Fire Code Official and/or Chief, places of assembly shall be
+provided with a method for notify the Fire Department in the event
+of an emergency. Such method can consist of a telephone, an alarm
+system connected to the Fire Department or other approved agency,
+or other approved means. Methods of notifying the Fire Department
+shall be readily available to the public. | 
+False Alarms. | 
+Section 907.8.5 of the 2019 California Fire Code is hereby
+added to read as follows: | 
+False alarms shall not be given, signaled or transmitted or
+caused or permitted to be given, signaled or transmitted. The City
+of Oakdale may adopt by resolution reasonable fees to recover the
+costs associated with responses to building or structures that have
+excessive false alarms. | 
+CHAPTER 50 | 
+HAZARDOUS MATERIALS | 
+GENERAL PROVISIONS | 
+Hazardous Materials Permits. | 
+Section 5001.5.3 of the 2019 California Fire Code is added
+to read: | 
+Key box. When required by the Building Official
+and/or Fire Code Official and/or Chief, an approved key box, sized
+to contain emergency information, shall be provided. | 
+Deposits of Hazardous Materials; Cleanup, Abatement, or
+Mitigation Required; Liability for Costs. | 
+Section 5003.3.1.4 of the 2019 California Fire Code is
+hereby amended to read as follows: | 
+Responsibility for Cleanup. The person, firm or
+corporation responsible for an unauthorized discharge shall institute
+and complete all actions necessary to remedy the effects of such unauthorized
+discharge, whether sudden or gradual, at no cost to the jurisdiction.
+When deemed necessary by the City Manager and/or Fire Code Official
+and/or Chief, cleanup may be initiated by the Fire Department or by
+an authorized individual or firm. Costs associated with such cleanup
+shall be borne by the owner, operator or other person responsible
+for the unauthorized discharge. The remedy provided by this section
+shall be in addition to any other remedies provided by law. | 
+For purposes of this section, costs incurred by the City of
+Oakdale and/or fire contract personnel shall include, but shall not
+necessarily be limited to, the following: actual labor costs of City
+of Oakdale personnel, and/or fire contract personnel including worker's
+compensation benefits, fringe benefits, administrative overhead; cost
+of equipment operation; cost of materials obtained directly by the
+City of Oakdale and/or fire contract personnel; and cost of any contract
+labor and materials. The authority to recover costs under this section
+shall not include actual fire suppression services that are normally
+or usually provided by the Fire Department. | 
+CHAPTER 56 | 
+EXPLOSIVES AND FIREWORKS GENERAL | 
+Permit Required for Explosives. | 
+Section 5601.2 of the 2019 California Fire Code is amended
+to read: | 
+When permits are required to be issued by the City of Oakdale,
+the City Manager may grant the authority to the agency having enforcement
+jurisdiction. Permits shall be obtained: | 
+1. To possess, store, sell, display or otherwise dispose of
+explosive materials at any location. | 
+2. To transport explosive materials. | 
+3. To use explosive materials. | 
+4. To operate a terminal for handling explosive materials. | 
+Notice of New Storage Sites. | 
+Section 5603.8. of the 2019 California Fire Code is added
+to read: | 
+When a new explosive material storage location, including a
+temporary job site, is established, the local law enforcement agency
+and Fire Department shall be notified immediately of the type, quantity
+and location of explosive materials at the site. | 
+General | 
+Section 5604.1 of the 2019 California Fire Code is amended
+to read: | 
+Explosive materials shall not be manufactured within the City
+limits of Oakdale. | 
+Explosive Materials Prohibited and Limited Acts. | 
+Section 5604.1.2 of the 2019 California Fire Code is added
+to read: | 
+The storage of explosives and blasting agents is restricted
+to those areas of the City zoned as Heavy Industrial Zone (M-2). | 
+EXCEPTION: | 
+1. Temporary storage for use in connection with approved blasting
+operations conducted in accordance with all applicable provisions
+of this article. | 
+2. Wholesale and retail storage and display of ammunition and gunpowder shall be in accordance with Title 19 California Code of Regulations, Chapter 10. | 
+Manufacturing of Fireworks. | 
+Section 5605.1 of the 2019 California Fire Code is amended
+to read: | 
+The manufacturing of fireworks is prohibited in the City of
+Oakdale. | 
+Permits: Displays of Fireworks and Appeal Process. | 
+Section 5605.2 of the 2019 California Fire Code is amended
+to read: | 
+Permits. The Fire Code Official and/or Chief may
+grant the permit as applied for, or with condition thereto, unless
+he/she finds that to do so would be contrary to the public health,
+safety, or welfare. The decision of the Fire Code Official and/or
+Chief shall be in writing and shall be mailed, postage prepaid, to
+the applicant. | 
+Section 5605.2.1 of the 2019 California Fire Code is amended
+to read: | 
+Appeals. The decision of the Fire Code Official
+and/or Chief, in acting on an application for permission to conduct
+a public display in accordance with the provisions of this section
+may be appealed to the City Manager. Notice of an appeal of the Fire
+Code Official and/or Chief's decision shall be filed by the applicant
+with the City Clerk within 10 days after the date of the decision.
+Upon failure to file such notice within the ten-day period, the action
+of the Fire Code Official and/or Chief shall be final and conclusive.
+The applicant may appeal the decision of the City Manager to the City
+Council by filing a notice of appeal to the City Clerk within 10 days
+after the date of the City Manager's decision. Upon failure to
+file such notice within the ten-day period, the action of the City
+Manager, or his/her designee, shall be final and conclusive. | 
+Section 5605.3 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+Fee. A nonrefundable fee as established by resolution
+of the City Council from time to time shall accompany every application
+for permission to conduct a public display of fireworks. | 
+Section 5605.4 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+Sales. It shall be unlawful to engage in the sale
+of "Safe and Sane" fireworks in the City of Oakdale without first
+having secured a permit to do so. | 
+(1) The total number of sales permits issued in any given year
+shall be limited to one per each 2,500 population or portion thereof.
+The sales permits will be limited to a total of those issued in 1999
+- 15. No additional permits will be issued until the population exceeds
+the limited amount. | 
+(2) Sales permits for the sale of "Safe and Sane" fireworks
+in the City of Oakdale shall be issued only to local nonprofit organizations. | 
+(A) A "nonprofit organization" shall mean any nonprofit association,
+club, or corporation organized for veteran, patriotic, welfare, religious,
+civic betterment, youth or charitable purposes, as defined by Section
+501(c) of the Internal Revenue Code of the United States, or affiliated
+with a public school located within the city limits of Oakdale. Each
+new organization shall provide the City with a copy of their letters
+of incorporation as proof of their nonprofit status. Existing organizations
+shall submit verification of current corporation status from the State
+of California Secretary of State's Office. Those organizations
+that are an integral part of a recognized national organization having
+tax exempt status must provide IRS written verification of such status.
+All applications will be subject to additional verification with the
+State of California and IRS if nonprofit status comes into question. | 
+(B) Public school organizations shall provide current written
+verification of affiliation from the school each year. | 
+(C) A "local nonprofit organization" must have its principal
+and permanent meeting place in the City of Oakdale. The organization
+must have obtained nonprofit status and have been organized and established
+in the City of Oakdale for a minimum of one continuous year preceding
+the filing of the application for permit. The organization must also
+have a bona fide membership of at least 10 members who reside in the
+City of Oakdale, which will be verified each year. Applications shall
+be signed by two bona fide officers of the eligible organization,
+wherein the officer, on behalf of the organization and its agents,
+agrees to abide by state laws, administrative regulations, and all
+stipulations of this Code and the permit if permission to operate
+a fireworks stand is granted to the organization. | 
+(D) If any of the above items fail to be met at the time of
+application, the organization's application shall be denied. | 
+(3) Sales permits for retail sales of "Safe and Sane" fireworks
+in the City of Oakdale issued pursuant to provision of this Code are
+not transferable by the holder of the permit. The sales permits may
+be used only by the organization to which they are issued. Violations
+will result in the immediate loss of the organization's sales
+permit. | 
+(4) All applications for sales permits shall be in writing to
+the Fire Code Official and/or Chief on forms supplied by the Fire
+Department. Applications may only be filed during normal business
+hours from April 1 of each year up to and including April 30 of the
+same year, at which time the filing period for that year will close.
+A separate sales permit shall be required for each proposed location
+of a fireworks stand. Each organization may file an application for
+one sales permit for which there is only one tax ID number. | 
+(5) Applications shall set forth the proposed location of the
+fireworks stand including the nine-digit parcel number (APN) of the
+Stanislaus County Assessor, a site map, and other information as may
+be required by the Fire Code Official and/or Chief. | 
+(6) Applicants for sales permits shall be notified by May 15
+of each year by the Fire Code Official and/or Chief of approval or
+disapproval of such application. Sales permits will be issued after
+final inspection of the stand reveals compliance with all state and
+local regulations. Organizations shall not open for sales prior to
+the final inspection of their stand. | 
+(7) Every application shall be accompanied by proof of insurance
+as specified in Section 3-1.128. Other items required at the time
+of application will be the organization's verification of eligibility
+as stated in 2(A) above, list of bona fide members, and current written
+permission signed by the property owner of record (with respect to
+lessee permission, approval shall be in the sole discretion of the
+Fire Code Official and/or Chief) to sell fireworks at that location.
+Organizations representing public schools, as stated in 2(B) above,
+require written verification from the school of their affiliation. | 
+(8) Any local nonprofit organization as defined herein may make
+application for a sale permit but pre-approved (continuously permitted
+since 1999) organizations will have first option for a permit. | 
+(A) When additional sales permits are authorized and all current
+pre-approved organizations have applied for such permits, a lottery
+will be held to fill any vacancies. | 
+(B) This lottery will be held on the first day following the
+last day of the filing period specified in Paragraph (4) and will
+include the names of all new local nonprofit organizations that have
+filed a complete application within the said filing period. If first
+day following the last day of the filing period falls on a weekend,
+the lottery will be held on the next business day. | 
+(C) One organization will be drawn for each available vacancy.
+If the organization whose name is drawn declines the permit, another
+name will be drawn until each vacancy is filled. | 
+(D) Any organization having an approved application that fails
+to open their stand for that sales year will automatically forfeit
+their permit and a new organization will be chosen the following year
+provided a permit is available. | 
+Sales, Storage, Use and Handling of Fireworks. | 
+Section 5605.5 of the 2019 California Fire Code is hereby
+amended by adding the following: | 
+5605.5 General. Sales, storage, use, and handling
+of fireworks shall be in accordance with this section. | 
+1. Sales. Retail sale or display with the intent
+to sell fireworks is limited to State of California Fire Marshal approved
+and labeled "Safe and Sane" fireworks within the City of Oakdale by
+State of California licensed retailers, provided a permit to sell
+those fireworks has been approved and obtained from the Fire Code
+Official and/or Chief. Fireworks may be sold or offered for sale from
+12:00 noon to 10:00 p.m. on June 28; 9:00 a.m. to 10:00 p.m. on June
+29 through July 5; and 9:00 a.m. to 12:00 noon on July 6. | 
+The storage of fireworks within the City of Oakdale is limited
+to State of California Fire Marshal-approved and labeled "Safe and
+Sane" fireworks by State of California licensed wholesalers and retailers. | 
+(1) Wholesale Storage. Wholesalers may store "Safe
+and Sane" fireworks within the City of Oakdale solely during the period
+of June 1 through July 31 of each year. Storage facilities shall comply
+with H1 occupancy classification requirements as defined by the Uniform
+Building Code. | 
+(2) Retailers Storage. Retailers may store "Safe
+and Sane" fireworks within the City of Oakdale solely during the period
+of June 22 through July 15 of each year. "Safe and Sane" fireworks
+that are not being sold or displayed with the intent to sell shall
+be stored solely in the following manner: | 
+(A) Within the permitted fireworks stand with a responsible
+adult on the premises at all times. | 
+(B) In a completely enclosed and locked utility type trailer
+constructed of 1/4-inch plywood or other approved noncombustible material. | 
+(C) In a completely detached garage on residential property
+with a minimum ten-foot clearance from other structures or property
+lines, there shall be no open-flame or spark-producing equipment,
+or Class 1 flammable liquids stored or used within in the garage. | 
+(D) Fireworks shall not be stored within 40 feet of any building
+classified or used as a public or private school, day-care facility,
+residential care facility, hospital, place of detention, public oil/gas
+station, or public garage, or any place of public assembly that can
+accommodate 50 or more persons. | 
+(E) In an approved and permitted fireworks warehouse. | 
+(3) Temporary Fireworks Stands. | 
+(1) All retail sales of "Safe and Sane" fireworks shall be permitted
+only from within a temporary fireworks stand and sales from any other
+building or structure is hereby prohibited. | 
+(2) City Business License, Fire Department Permit and State
+License shall be displayed in the fireworks stand during hours of
+operation. | 
+(3) Temporary fireworks stand shall not be set up before application
+for permit has been approved nor earlier than June 14. | 
+(4) The fireworks stands shall be located at least 20 feet from
+other structures. | 
+(5) Zoning of property, in which the fireworks stand will be
+located, shall be in limited to C-1, and C-2 Zones. | 
+(6) Fireworks shall not be stored, sold, offered for sale, or
+discharged within 100 feet of a location where gasoline, LPG, other
+Class 1 flammable liquids or flammable gasses are stored or dispensed. | 
+(7) All unsold stock and accompanying litter shall be removed
+from the location by 5:00 p.m. on the sixth day of July. | 
+(8) The fireworks stand shall be removed from the temporary
+location by 12:00 noon on the 12th day of July, and all accompanying
+litter shall be cleared from said location by said time and date. | 
+(9) A penalty of $100 per day will be assessed to the permittee
+of any fireworks stand not removed by 12:00 noon on the 12th day of
+July. | 
+(4) Safety Precautions. | 
+(1) No person under the age of 18 shall sell, or handle for
+sale, any classification of fireworks. | 
+(2) No person under the age of 18 shall purchase or be allowed
+to purchase any classification of fireworks. | 
+(3) Smoking, open-flame, and spark-producing equipment shall
+be prohibited for a distance of 20 feet around any fireworks stand. | 
+(4) Dry grass, weeds, trash, and other combustible material
+shall be removed for a distance of 20 feet around any fireworks stand. | 
+(5) Fireworks shall not be discharged within 50 feet of a fireworks
+stand. | 
+(5) Stand Construction. | 
+(1) Merchandise may be displayed in approved glass-enclosed
+counters or showcases; or | 
+(2) Merchandise may be displayed in stands constructed in the
+following manner: | 
+(A) Walls and roof shall be of plywood at least one-fourth-inch
+thick or of an approved noncombustible material. | 
+(B) The stand shall be provided with a roof. | 
+(C) Walls shall extend to a minimum height of six feet eight
+inches on at least three sides. These three sides shall be without
+openings, except for an exit door. | 
+(D) An exit door with a minimum size of 24 inches in width and
+six feet in height shall be provided in each stand. Exits shall be
+maintained clear and unobstructed at all times. | 
+(E) The front wall of the stand shall provide a physical barrier
+not less than 18 inches in height between the public and the merchandise
+on display. | 
+(F) Approved "NO SMOKING" signs shall be prominently displayed
+in and on the stand. | 
+(G) Approved "NO SALES TO PERSONS UNDER THE AGE OF 18" signs
+shall be prominently displayed in the stand. | 
+(H) An approved fire extinguisher having a minimum U.L. classification
+of 2A shall be located in the stand, near the exit and readily accessible. | 
+(I) Sellers of fireworks shall comply with all rules and regulations
+of Title 19 of the California Code of Regulations and with the rules
+and regulations of the Fire Code Official and/or Chief. | 
+(J) Stands will be limited to 24 feet by eight feet or 192 square
+feet in size. Pre-existing stands as identified by the fireworks suppliers
+shall retain the right to operate their oversized stands, without
+change, until said stand or organization forfeits or loses their operating
+permit. A copy of said list shall remain on file with the Fire Code
+Official and/or Chief. | 
+(6) Operation of Fireworks Stand Only by Permittee. | 
+(1) It is unlawful for the permittee organization to allow any
+person or entity other than the permittee organization to operate
+the fireworks stand for which the permit is issued, whether by agreement,
+assignment or otherwise, or to otherwise participate in the profits
+of the operation of such fireworks stand. Violations will result in
+the immediate loss of the organization's permit. | 
+(2) It is unlawful for a nonprofit organization to allow any
+person other than the individuals who are members of the permittee
+organization, their spouses or adult children, or volunteers to whom
+no compensation is paid, to sell or otherwise participate in the sale
+of fireworks at such fireworks stand. | 
+(3) It is unlawful for a nonprofit organization to pay any consideration
+to any person for selling or otherwise participating in the sale of
+fireworks at such fireworks stand, except the hiring of a night watchman
+or security officer. | 
+Revocation of Permit and Seizure of Fireworks. | 
+Section 5605.6 of the 2019 California Fire is hereby amended
+by adding the following: | 
+The Fire Code Official and/or Chief, or his/her designee, may
+revoke, immediately and without notice or hearing, the "Safe and Sane"
+fireworks sales permit of any location or organization when any of
+the provisions of Sections 5605.2, 5605.4, 5605.5 are violated. The
+Fire Code Official and/or Chief shall inform the permittee that permittee
+may seek review of the Fire Code Official and/or Chief's decision,
+by the City Manager, on the next business day. At the earliest opportunity
+on the next business day after revocation, the Fire Code Official
+and/or Chief shall provide the City Manager with written notice that
+a fireworks sales permit has been revoked, including the name of the
+permittee and a brief statement of the grounds for revocation. If
+requested by the permittee, the City Manager, or his/her designee,
+shall meet with the permittee and the Fire Code Official and/or Chief,
+or his/her designee, that day to review the Fire Code Official and/or
+Chief's decision. The decision of the City Manager shall be final. | 
+Revocation of Permit and Seizure of Fireworks. | 
+Section 5605.6.1 of the 2019 California Fire Code is hereby
+amended by adding the following: | 
+Revocation of any sales permit will be effective for that calendar
+year. | 
+Fireworks Displays Insurance Required. | 
+Section 5605.7 of the 2019 California Fire Code is hereby
+amended by adding the following: | 
+1. The permittee shall furnish a certificate of insurance for
+each policy required, executed by the company issuing such policy.
+Such policies shall contain a provision which holds the City as an
+additional insured and declaring said insurance to be primary and
+that no other insurance carried by an insured party shall be called
+upon for contribution. Notwithstanding any other provision of this
+section, the failure of the permittee to carry such insurance during
+the time covered by such permit shall automatically revoke the permit
+as of the date of expiration of such insurance policy or policies.
+A payment of $50 shall be made to the City before any such revoked
+permit may be reinstated. | 
+2. The permittee/licensee shall carry general liability insurance
+with a minimum limit of liability per occurrence of $1,000,000 for
+bodily injury and $100,000 for property damage, or $1,000,000 combined
+single-limit. The certificate of insurance shall include the following
+coverages and indicate the policy aggregate limit applying to: premises
+and operations, broad form contractual, and products and completed
+operation. | 
+3. The permittee/licensee shall agree to hold the City of Oakdale,
+its agents, officers, employees, and volunteers harmless from and
+save, defend, and indemnify them against any and all claims, losses,
+liabilities, and from every cause, including but not limited to injury
+to person or property or wrongful death, with the indemnity to include
+reasonable attorney fees and all costs and expenses arising directly
+or indirectly out of any act or omission of permittee arising out
+of any activity authorized by the permit. | 
+4. The permittee/licensee shall provide at its own expense and
+maintain at all times the specified insurance policies with insurance
+companies approved by the State of California and shall provide evidence
+of such insurance to the City. The policies or certificates thereof
+shall provide that, 30 days prior to cancellation or material change
+in the policy, notices of same shall be given to the Finance Director
+of the City by registered mail, return receipt requested. | 
+Possession, Sales, Use or Discharge of Dangerous Fireworks. | 
+Section 5605.8 of the 2019 California Fire Code is hereby
+amended by adding the following: | 
+(a) For purposes of this section, dangerous fireworks are those
+fireworks specified as such in the State Fireworks Law, Section 12505
+of the California Health and Safety Code, and such other fireworks
+as may be determined to be dangerous by the State Fire Marshal. | 
+(b) It shall be unlawful for any person to possess, sell, use
+or discharge dangerous fireworks, or a dangerous firework kit, unless
+a permit authorizing such possession, sale, use or discharge has been
+issued by the Fire Code Official and/or Chief to the person, using,
+selling, discharging or found in possession of said fireworks or kits,
+and unless such person is in possession of a valid pyrotechnic operator's
+license issued by the Office of the State Fire Marshal. The Fire Code
+Official and/or Chief may establish reasonable rules and regulations
+for governing issuance of a firework permit and may issue the same
+subject to payment of a fee as established by the City Council from
+time to time. | 
+(c) The Fire Code Official and/or Chief, or designee, shall
+seize, take, remove or cause to be removed, at the expense of the
+owner, all stocks of dangerous fireworks offered or exposed for sale,
+stored or held in violation of this chapter. | 
+CHAPTER 57 | 
+FLAMMABLE AND COMBUSTIBLE LIQUIDS STORAGE | 
+Restricted locations of flammable and Combustible Liquids
+in Tanks. | 
+Section 5704.2.9.6.1 of the 2019 California Fire Code
+is hereby amended to read: | 
+Storage of Class I and II liquids in aboveground tanks outside
+of buildings is prohibited in all zones except General Commercial
+(C-2), Limited Industrial (L-M), Light Industrial (M-1), and Heavy
+Industrial (M-2), with the exception of protected tanks designed,
+installed and maintained in accordance with the 2019 California Fire
+Code. The provisions of this section shall not apply to facilities
+for the production, generation, or transmission of electric energy
+that provide power to entities furnishing retail electrical services
+to the general public within the City of Oakdale. | 
+Maintenance of Protected Aboveground Tanks. | 
+Section 5704.2.9.6.1.2 of the 2019 California Fire Code
+is hereby added to read as follows at the end of the paragraph: | 
+Protected aboveground tanks and connected piping shall be maintained
+in a safe operating condition. Protected aboveground tanks shall be
+maintained in accordance with their listings. Damage to protected
+aboveground tanks shall be repaired using material having equal or
+greater strength and fire resistance or the protected aboveground
+tank shall be replaced or taken out of service. | 
+Manufacture of Ethanol and Biodiesel at Residential Occupancies. | 
+Section 5704.3.4.2 number 7 of the 2019 California Fire
+Code is hereby amended by adding: | 
+7.1: The manufacture and storage of biodiesel is prohibited
+in residential occupancies and in U occupancies associated with residential
+occupancies. | 
+7.2: The manufacture and storage of ethanol is prohibited in
+residential occupancies and in U occupancies associated with residential
+occupancies. | 
+Flammable and Combustible Liquids Dispensing, Use, Mixing
+and Handling | 
+Operating Heating, Lighting, and Cooking Appliances Prohibited. | 
+Section 5705.3.3 of the 2019 California Fire Code is hereby
+amended to include the following: | 
+Class II and III liquids | 
+Flammable and Combustible Liquids Special Operations. | 
+Locations where aboveground tanks are prohibited. | 
+Section 5706.2.4.4 of the 2019 California Fire Code is
+hereby amended to read: | 
+Storage of Class I and II liquids in aboveground tanks is prohibited
+in all zones except General Commercial (C-2), Limited Industrial (L-M),
+Light Industrial (M-1), and Heavy Industrial (M-2), with the exception
+of protected tanks designed, installed and maintained in accordance
+with the 2019 California Fire Code. The provisions of this section
+shall not apply to facilities for the production, generation, or transmission
+of electric energy that provide power to entities furnishing retail
+electrical services to the general public within the City of Oakdale. | 
+Location of Bulk Plants for Storage of Flammable and Combustible
+Liquids. | 
+Section 5706.4 of the 2019 California Fire Code is hereby
+amended to by adding the following at the end of the paragraph: | 
+The construction of new bulk plants for storage of flammable
+or combustible liquids is restricted to areas of the City of Oakdale
+zoned Limited Industrial (L-M). All existing nonconforming bulk plants
+for storage of flammable or combustible liquids, which substantially
+comply with the requirements of this Code, may be continued in use. | 
+Location - Transfer Operations. | 
+Section 5706.5.1.1 of the 2019 California Fire Code is hereby
+amended by adding the following at the end of the paragraph: | 
+Tank vehicles and tank cars shall be unloaded as soon as possible
+after arrival at point of delivery and shall not be used as storage
+tanks. Unless otherwise approved, a tank car shall not be allowed
+to remain on a siding at the point of delivery for more than 24 hours
+while connected for transfer operations. | 
+CHAPTER 61 | 
+LIQUEFIED PETROLEUM GASES GENERAL | 
+Permits and Plans for Liquefied Petroleum Gases. | 
+Section 6101.2 of the 2019 California Fire Code is hereby
+amended to read as follows: | 
+Permits shall be required as set forth in Sections 105.6 and
+105.7. | 
+EXCEPTION: | 
+1. Containers not exceeding a five-gallon water capacity, used
+for "barbecue" cooking, when used and stored outside of buildings. | 
+2. Approved containers not exceeding 16.4 ounces when displayed
+for sale in mercantile occupancies. | 
+3. Factory-installed containers for recreational vehicles not
+exceeding ten-gallon water capacity. | 
+4. Factory-installed tanks that are permanently attached to
+recreational vehicles. | 
+Distributors shall not fill an LP-gas container for which a
+permit is required unless the Fire Code Official has issued a permit
+for installation for that location. | 
+Liquid Petroleum Gases Location of LP-Containers. | 
+Outside Storage and use of Liquefied Petroleum-Gases. | 
+Section 6104.2 of the 2019 California Fire Code is amended
+as follows: | 
+The outside storage of liquefied petroleum gas (LP-gas) shall
+conform to the provisions of the City of Oakdale Zoning Ordinances.
+The outside storage and use of liquefied petroleum gases is restricted
+as specified in this section. | 
+1. Storage and dispensing of LP-gas for resale purposes, into
+approved containers and vehicles, is restricted to those areas of
+the City of Oakdale zoned as Neighborhood Commercial (C-1), General
+Commercial (C-2), Limited Industrial (L-M), Light Industrial (M-1),
+and Heavy Industrial (M-2), and, in addition thereto, to other commercially
+zoned properties used as automotive service stations. Only qualified
+persons shall perform dispensing. | 
+2. Dispensing of LP-gas for private use is restricted to those
+zones identified in Subsection 1, and when approved by the Building
+Official and/or Fire Code Official and/or Chief, may be permitted
+in those areas of the City of Oakdale zoned Neighborhood Commercial
+(C-1), General Commercial (C-2), Limited Industrial (L-M), Light Industrial
+(M-1), and Heavy Industrial (M-2). Only qualified persons shall perform
+dispensing. | 
+3. For cooking, lighting, or heating in a building, only on
+a property that does not have natural gas service existing on a boundary
+line of said property or when prohibition of such storage would cause
+undue hardship. | 
+4. For temporary use on construction sites, when authorized
+by the Building Official and/or Fire Code Official and/or Chief. | 
+5. For use as an alternative fuel supply for an emergency standby
+generator, when authorized by the Building Official and/or Fire Code
+Official and/or Chief. | 
+6. For use with certain mobile vending and certain commercial
+barbecue equipment and other specific uses when authorized by the
+Building Official and/or Fire Code Official and/or Chief. | 
+7. For use by artisans in pursuit of their trade, when authorized
+by the Building Official and/or Fire Code Official and/or Chief. | 
+8. Storage of portable containers awaiting exchange may be permitted
+in commercially zoned areas of the City of Oakdale, including those
+zoned General Commercial (C-2), when approved by the Building Official
+and/or Fire Code Official and/or Chief and stored in accordance with
+Section 3809. Such storage shall be located a minimum of 20 feet from
+any fuel dispenser. | 
+9. The aggregate capacity for any one installation shall not
+exceed 2,000 gallons, except that in particular installations this
+capacity limit may be altered by the Building Official and/or Fire
+Code Official and/or Chief, after consideration of special features
+such as topographical conditions, nature of occupancy, proximity of
+building, capacity of proposed tanks, degree of private fire protection
+to be provided, and facilities of the local Fire Department. | 
+10. Separation from means of egress. Containers stored inside
+or outside buildings frequented by the public shall be located not
+less than 10 feet from any exit door or building opening, when only
+one exit is provided from the building or area, and not less than
+five feet from any exit door or building opening, when two or more
+exits are provided from the building or area. | 
+
+

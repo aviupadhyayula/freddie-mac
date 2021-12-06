@@ -1,0 +1,1562 @@
+annexing  vacating and re zoning
+https://ecode360.com/32101151
+0.5338758897647747
+Ord. No. 97-4 | Part of NW 1/4 of S 30, Twp 15 N, Range 32 West | 
+Ord. No. 97-7 | Part of Block 26 & 27 | 
+Ord. No. 97-15 | Part of NW 1/4 of S 19, Twp 15 N, Range 32 West | 
+Ord. No. 99-14 | Part of W 1/2 of NW 1/4 of S 29, Twp 15 N, Range 32 West | 
+Ord. No. 99-20 | NW corner of SE 1/4 of S 29, Twp 15 N, Range 32 West | 
+Ord. No. 01-9 | Part of N 1/2 of Sec. 29, Twp 15 N, Range 32 West | 
+Ord. No. 2002-06 | Part of E 1/2 of Sec. 30, Twp 15, N, Range 32 West | 
+Ord. No. 2003-2 | Part of NE 1/4 of Sec. 30, Twp 15 N, Range 32 | 
+Ord. No. 2004-10 | Part of SW 1/4 of Sec. 29, Twp 13, N, Range 32 West | 
+Ord. No. 2004-22 | Part of SE 1/4 of Sec. 29, Twp 15 n, Range 32 West | 
+Ord. No. 2005-19 | Part of SE of Sec. 30, Twp 15 N, Range 32 West | 
+Ord. No. 2005-20 | Part of N 1/2 of Sec. 29, Twp 15 N, Range 32 West | 
+Ord. No. 2005-21 | Part of SW 1/4 of Sec. 29, Twp 15 N, Range 32 West | 
+Ord. No. 2006-8 | Part of NW 1/4 of Sec. 30, Twp 15 N, Range 32 West | 
+Ord. No. 2007-2 | Part of SW 1/4 of NW 1/4 of Sec. 29, Twp 15 N, Range 32 West | 
+Ord. No. 2007-3 | Part of SE 1/4 of Sec. 25, Twp 15 N, Range 33 West | 
+Ord. No. 2009-2 | Part of NE 1/4 of Sec. 30, Twp 15 N, Range 32 West | 
+Ord. No. 2011-4 | Part of SE 1/4 of Sec. 31, Twp 15 N, Range 32 West | 
+Ord. No. 2019-7 | Part of SW 1/4 of SE 1/4 of Sec. 29, Twp 15 N, Range 32 West | 
+
+
+annexing  vacating and re zoning
+https://ecode360.com/32101151
+0.5101406816098693
+Ord. No. 97-16 | Alley in Block 1 of Norwood Addition | 
+Ord. No. 99-7 | Alley in Block 22 | 
+Ord. No. 99-8 | Part of Lee St. South of Park Street | 
+Ord. No. 99-13 | Alley West of Lots 13 & 14 of Block 1 of Norwood Addition | 
+Ord. No. 2000-05 | NE Corner of Lot 12 of Block 3 | 
+
+
+property maintenance code
+https://ecode360.com/32100852
+0.506613628737627
+101.1 (Name of Jurisdiction) shall be modified
+to read "City of Lincoln, Arkansas." | 
+103.5 Fees shall be modified to read as follows:
+The fees for activities and services performed by the department in
+carrying out its responsibilities under this code shall be as indicated
+in Lincoln Municipal Code Title 11. | 
+111.1 "Board of Appeals" shall be changed to Board
+of Adjustment." | 
+111.2 is deleted. | 
+111.4 "two-thirds" shall be changed to "one-half." | 
+111.5 is deleted. | 
+111.6 is amended to read "The Board shall modify
+or reverse the decision of the Code Official only by a concurring
+vote of a majority of those present." | 
+111.7 and 111.8 are deleted and replaced
+with the following: | 
+111.7 Appeal. Any party to an appeal shall have
+the right to appeal the decision of the Board of Adjustment to the
+City Council in accordance with the procedures for other appeals of
+decisions of the Board of Adjustment found elsewhere in the Lincoln
+Municipal Code. | 
+302.4 "(jurisdiction to insert height in inches)"
+is replaced with "six inches." | 
+304.14 "During the period from (Date) to (Date),"
+is replaced with "During the period from October 1 to April 30." | 
+602.4 "During the period from (Date) to (Date),"
+is replaced with "During the period from October 1 to April 30." | 
+
+
+division          general
+https://ecode360.com/36633739
+0.4580035000051761
+R-1 | Low-Density Residential | 
+R-2 | Medium-Density Residential | 
+R-3 | Medium-High Density Residential | 
+R-A | Residential Agricultural | 
+R-D | Downtown Residential | 
+B-1 | Downtown Mixed Use | 
+B-2 | Highway Mixed Use | 
+M-1 | Light Industrial | 
+M-2 | Heavy Industrial | 
+PUD | Planned Unit Development | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.43424596153752226
+Local without on-street parking | 0.5 | Spread of water flowing in gutter shall be limited so that half
+of roadway width (F.O.C. to F.O.C.) remains clear. | - Street width (F.O.C. to F.O.C.) = 20 feet | 
+ |  |  | - Required clear lane = 20 feet/2 = 10 feet | 
+ |  |  | - Therefore: Street flow in each gutter < (20'-10')/2 = 5 feet | 
+Local with on-street parking | 0.5 | Spread of water flowing in gutter shall be limited so that half
+of roadway width (F.O.C. to F.O.C.) remains clear. | - Street width (F.O.C. to F.O.C.) = 26 feet | 
+ |  |  | - Required clear lane = 26 feet/2 = 13 feet | 
+ |  |  | - Therefore: Street flow in each gutter < (26'-13')/2 = 6.5 feet | 
+Downtown | 0.5 | Spread of water flowing in gutter shall be limited so that half
+of roadway width (F.O.C. to F.O.C.) remains clear. | - Street width (F.O.C. to F.O.C.) = 37 feet | 
+ |  |  | - Required clear lane = 37 feet/2 = 18.5 feet | 
+ |  |  | - Therefore: Street flow in each gutter < (37'-18.5')/2 = 9.25 feet | 
+Collector with side path | 0.5 | - Spread of water flowing in gutter shall be limited so that
+half of roadway width (F.O.C. to F.O.C.) remains clear. | - Street width (F.O.C. to F.O.C.) = 24 feet | 
+ |  |  | - Required clear lane = 24 feet/2 = 12 feet | 
+ |  |  | - Therefore: Street flow in each gutter < (22'-11')/2 = 6 feet | 
+Collector with open ditches | — | — | — | 
+Arterial with side path | 0.5 | Spread of water flowing in gutter shall be limited so that half
+of roadway width (F.O.C. to F.O.C.) remains clear. | - Street width (F.O.C. to F.O.C.) = 36 feet | 
+ |  |  | - Required clear lane = 36 feet/2 = 18 feet | 
+ |  |  | - Therefore: Street flow in each gutter < (36'-18')/2 = 9 feet | 
+Arterial Boulevard | 0.5 | Spread of water flowing in gutter shall be limited so that half
+of roadway width (F.O.C. to F.O.C.) remains clear. | - Street width (F.O.C. to F.O.C.) = 12 in feet in each direction | 
+ |  |  | - Required clear lane = 12 feet/2 = 6 feet | 
+ |  |  | - Therefore: Street flow in each gutter < (12'-6')/2 = 6 feet | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.4234508993404392
+Trails | 2 | 1 | 
+Local street | 10 | 1 | 
+Collector | 25 | 1 | 
+Minor arterial and major arterial | 50 | 1 | 
+Bridges (local and collector roadways) | 50 | 11 | 
+Bridges (arterial and critical service access roadways/drives) | 100 | 11 | 
+
+
+sewer regulations
+https://ecode360.com/32100514
+0.4181212856945096
+ | S | = | Surcharge in dollars (monthly). | 
+ | V(C) | = | Volume of customer's sewage in million gallons (monthly). | 
+ | 8.34 | = | Pounds per gallon of water. | 
+ | B(C) | = | Biochemical oxygen demand of customer's sewage in milligrams
+per liter (monthly average of at least four twenty-four-hour composite
+samples). | 
+ | TSS(C) | = | Total suspended solids of customer's sewage in milligrams
+per liter (monthly average of at one east four twenty-four-hour composite
+samples). | 
+ | 300 | = | Normal strength of biochemical oxygen demand and total suspended
+solids in milligrams per liter. | 
+ | $0.1 | = | Unit charge for biochemical oxygen demand in dollars per pound. | 
+ | $0.1 | = | Unit charge for total suspended solids in dollars per pound. | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.4161112137104145
+Maximum velocity | < 18-fps for 100-year design | 
+Manning's n: used to check channel capacity (flow depth)
+0.040 | 0.011 | 
+Manning's n: used to check maximum velocity (channel stability) | 0.013 | 
+Froude number | < 0.7 and > 1.4 under both Manning's n | 
+Longitudinal channel slope | < 1.00% | 
+Side slopes (maximum) | 1.5H:1V (unless structurally designed for steeper slope) | 
+Channel bottom width | > 5 feet | 
+Center-line curve radius (feet) (subcritical flow) | > 2 times the top width of the 100-year
+design storm | 
+Center-line curve radius (supercritical flow) | No curvature permitted | 
+Channel freeboard | > 1 foot for 100-year design | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.4133255232494925
+ | C5 | = | A surcharge for wastewaters of excessive strength. | 
+ | BC | = | OM&R cost for treatment of a unit of BOD. | 
+ | B | = | Concentration of BOD from a user above a base
+level. | 
+ | SC | = | OM&R cost for treatment of a unit of SS. | 
+ | S | = | Concentration of SS from a user above a base
+level. | 
+ | PC | = | OM&R cost for treatment of a unit of any
+pollutant. | 
+ | P | = | Concentration of any pollutant from a user above
+a base level. | 
+ | VU | = | Volume contribution from a user per unit of
+time. *Maximum limit for average domestic waste. | 
+
+
+solid waste
+https://ecode360.com/32100072
+0.4122906229970262
+A. | City residential (two bags per pickup) | $14 per month | 
+ | Rural residential solid waste | $20.57 per month | 
+ | Each additional bag or container | $2 per bag or container | 
+B. | Commercial I solid waste | $22.14 per month | 
+C. | Commercial II solid waste | $52.30 per month | 
+D. | Commercial III solid waste | $75.77 per month | 
+E. | Commercial IV solid waste | $94.18 per month | 
+F. | Special hauls | $12 per truck hopper | 
+G. | Dumpster rental | $20 per month | 
+
+
+building permit
+https://ecode360.com/32100795
+0.40932097348033447
+First $1,000 of work | $25 | 
+> $1,000 of work | $4 per additional $1,000 or part thereof | 
+
+
+division          final plat requirements
+https://ecode360.com/36625893
+0.38704394389040897
+Certificate of Final Plat Approval | 
+Pursuant to the Lincoln Unified Development Code and all other
+conditions and approval having been completed, this document is hereby
+accepted. This Certificate is hereby executed under the authority
+of the said rules and regulations. | 
+Date of Execution: ____________ | 
+Lincoln Planning Commission Chairperson ________________________________________________ | 
+Administrative Official _____________________________________________ | 
+Mayor ____________________________ | 
+
+
+division           accessory buildings  accessory dwelling units
+https://ecode360.com/36633902
+0.38644323376052503
+Same as zoning district |  |  |  | 
+Not permitted in front yard in residential and commercial districts.1 | 51 | Same as zoning district1 | 5 | 
+
+
+division          preliminary plat requirements
+https://ecode360.com/36625835
+0.38552296996814855
+Certificate of Surveying Accuracy | 
+I, ___________________________, hereby certify that this plat
+correctly represents a boundary survey made by me and boundary markers
+and lot corners shown hereon actually exist and their location, type
+and material are correctly shown and all minimum requirements of the
+Arkansas Minimum Standards for Land Surveyors have been met. | 
+Date of Execution: _____________________ | 
+Signed: _____________________________ | 
+Registered Land Surveyor No. _______ State of Arkansas | 
+
+
+division          final plat requirements
+https://ecode360.com/36625893
+0.3783183094906764
+Certificate of Surveying Accuracy | 
+I, _______________________________, hereby certify that this
+plat correctly represents a boundary survey made by me and boundary
+markers and lot corners shown hereon actually exist and their location,
+type and material are correctly shown and all minimum requirements
+of the Arkansas Minimum Standards for Land Surveyors have been met. | 
+Date of Execution: _______________ | 
+Signed: ________________________ | 
+Registered Land Surveyor No. __________ State of Arkansas | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.37787788427386004
+ | Reconnection fees From and after the effective
+date hereof, the Water and Sewer Department shall assess a reconnection
+fee when water service has been terminated due to non-payment or for
+other reasons. The reconnection fee during the regular work week shall
+be $75, and the reconnection fee outside the regular work week shall
+be $150.[Ord. No. 2007-12, Sec. 3] | 
+ | Convenience fee All persons paying their water
+and/or sewer bills through the internet or by credit card shall be
+assessed a convenience fee of 4% of the amount of the bill in addition
+to all other charges, fees and taxes to cover the costs of the payment
+processing center. All persons paying their water and/or sewer bills
+through automatic bank draft shall be assessed a convenience fee of
+$0.25 per month, in addition to all other charges, fees and taxes,
+to cover the costs of automated bank draft processing, this ordinance
+shall become effective October 1, 2012.[Ord. No. 2012-7, Sec. 2] | 
+ | BWRPWA fee. Every water customer shall also
+be charged a fee of $1.50 per month, to be separately shown on the
+customer's water bill, to be paid to the Benton/Washington Regional
+Public Water Authority.[Ord. No. 2010-6, Sec. 2; amended 1-15-2019 by Ord. No. 2019-4] | 
+ | Disconnection for failure to pay bill. The City shall mail a
+disconnect notice, on the first business day following the due date,
+to any customer who has failed to pay their utility bill by the due
+date. The disconnect notice shall specify a specific date, a minimum
+of five days following the due date, in which to pay the bill or the
+customer's water service will be disconnected. Once disconnected,
+customers must pay the entire amount due, plus a late fee of 10% of
+the total bill, as well as a reconnection fee in order to restore
+their service.[Added 2-23-2017 by Ord.
+No. 2017-2] | 
+
+
+division          preliminary plat requirements
+https://ecode360.com/36625835
+0.37694495496739716
+Certificate of Preliminary Engineering Accuracy | 
+I, ______________________________, hereby certify that this
+plat or plan correctly represents a plat or plan made by me, and that
+Engineering requirements of the Lincoln Unified Development Code have
+been complied with. | 
+Signed __________________________________________ | 
+Date of Execution _______________ Name _________________________________ | 
+Professional Engineer No. _______________ Arkansas | 
+
+
+division          final plat requirements
+https://ecode360.com/36625893
+0.3713363949842539
+Certificate of Owner | 
+We the undersigned, owners of the real estate shown and described
+herein, do hereby certify that we have laid off, platted, and subdivided
+and do hereby lay off, plat, subdivide said real estate in accordance
+with this plat and do hereby dedicate to the use of the public the
+streets, alleys, drives, easements, etc. as shown on said plat. | 
+Signed __________________ Date of Execution _______________________ | 
+Name: __________________ Address: ______________________________ | 
+Source of Title: Book _____ Page _____ Instrument Number: ______________ | 
+
+
+division          final plat requirements
+https://ecode360.com/36625893
+0.37018348111433946
+Certificate of Engineering Accuracy | 
+I, __________________, hereby certify that this plat or plan
+correctly represents a plat or plan made by me, and that Engineering
+requirements of the Lincoln Unified Development Code have been complied
+with. | 
+Signed ________________________________________ | 
+Date of Execution ____________ Name _________________________ | 
+Professional Engineer No. __________ Arkansas | 
+
+
+garage  yard and carport sales
+https://ecode360.com/32100033
+0.3584941881064586
+ | Name: | 
+ | Address: | 
+ | Address of Sale: | 
+ | Start Date and Time: | 
+ | Stop Date and Time: | 
+ | Location of all signs: | 
+ |  | 
+ | Approved: ______ | 
+ | Disapproved: _____ | 
+ | Chief of Police | 
+
+
+division          preliminary plat requirements
+https://ecode360.com/36625835
+0.35738996062826767
+Certificate of Preliminary Plat Approval | 
+All requirements of the Lincoln Unified Development Code relative
+to the preparation and submittal of a Preliminary Plat having been
+fulfilled, approval of this plat is hereby granted, subject to further
+provisions of said Rules and Regulations. This plat has been given
+preliminary plat approval only and has not been approved for recording
+purposes as a public record. This certificate shall expire on ________________________
+(date). | 
+Date of Execution ________________________ | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.35691080769001415
+1-year | 0.000 | 0.000 | 0.000 | 
+2-year | 23.629 | 4.900 | 0.641 | 
+5-year | 27.686 | 4.800 | 0.623 | 
+10-year | 30.844 | 4.800 | 0.616 | 
+25-year | 35.311 | 4.700 | 0.609 | 
+50-year | 38.983 | 4.700 | 0.606 | 
+100-year | 42.641 | 4.700 | 0.603 | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.35089983759580956
+• Allowed only within 50 linear feet (to the north or south)
+of the Highway 62 right-of-way. | 
+• Must be set back at least 10 feet from the front lot
+line and 10 feet back from the side lot line. | 
+• Must have highway frontage. | 
+• No sign message shall be displayed for a period of time
+less than eight seconds. | 
+• No sign shall display animated messages, including flashing,
+blinking, fading, rolling, shading, dissolving, or any other effect
+that gives the appearance of movement. | 
+• No sign shall include any audio message. | 
+• Transition from one message to another message shall
+appear instantaneous as perceived by the human eye. | 
+• Each sign message shall be complete in itself and shall
+not continue on a subsequent sign message. | 
+• Signs shall utilize automatic dimming technology to adjust
+the brightness of the sign relative to ambient light so that at no
+time shall a sign exceed a brightness level of 0.3 footcandle above
+ambient light, as measured using a footcandle (Lux) meter. | 
+• All signs shall contain a default mechanism that will
+cause the sign to revert immediately to a black screen if the sign
+malfunctions. | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.34660095405028324
+NOTES: | 
+Clear roadway width shall be centered within 4 feet of the roadway
+center line. | 
+F.O.C. = Front of curb. | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.34357747435668085
+2-year | 5.44 | 3.47 | 2.42 | 1.63 | 
+5-year | 6.68 | 4.31 | 3.03 | 2.06 | 
+10-year | 7.56 | 4.90 | 3.46 | 2.36 | 
+25-year | 8.85 | 5.75 | 4.07 | 2.79 | 
+50-year | 9.84 | 6.40 | 4.54 | 3.12 | 
+100-year | 10.83 | 7.07 | 5.02 | 3.45 | 
+
+
+annexing  vacating and re zoning
+https://ecode360.com/32101151
+0.3384990489647971
+For Ord. No. 2000 | 04 | 
+Against Ord. No. 2000 | 04 | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.33169711971396315
+Total Sign Area Allocation | 
+For awnings attached to a building: | 
+The combined square footage of awning, canopy, crown, projection
+and wall signs shall not exceed 20% of the total square footage of
+the wall area of that side of the building, not to exceed a maximum
+total amount of 800 square feet. | 
+For freestanding awnings: | 
+No more than 32 square feet per side of awning signage allowed
+per freestanding awning | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.3218928283512286
+Awning | - | - | - | - | - | A | A | A | A | 
+Canopy | - | - | - | - | - | A | A | A | A | 
+Digital | - | - | - | - | - | A* | A* | A* | A* | 
+Monument | C | C | C | C | C | A | A | A | A | 
+Post | - | - | - | - | - | A* | A* | A* | A* | 
+Projecting | - | - | - | - | - | A | A | A | A | 
+Pylon | - | - | - | - | - | A* | A* | A* | A* | 
+Sandwich board | - | - | - | - | - | A | A | A | A | 
+Shingle | C | C | C | C | C | A | A | A | A | 
+Sub-division | A | A | A | A | A | A | A | A | A | 
+Wall | - | - | - | - | - | A | A | A | A | 
+Window | - | - | - | - | - | A | A | A | A | 
+
+
+division          preliminary plat requirements
+https://ecode360.com/36625835
+0.3137704618417567
+Lincoln Planning Commission Chairperson _____________________________________________ | 
+Administrative Official ________________________________________________ | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.311051024494831
+Meter deposit required From and after the effective
+date hereof, every new connection to the water system shall require
+payment of a $150 minimum security deposit.[Ord. No. 2007-12, Sec. 1] | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.30492271841816015
+Reinforced concrete pipe (and reinforced concrete box) | 0.013 | 
+Corrugated metal pipe |  | 
+Plain or coated | 0.024 | 
+Paved invert | 0.020 | 
+Smooth lined | 0.012 | 
+Corrugated polyethylene pipe |  | 
+Plain | 0.021 | 
+Smooth lined | 0.012 | 
+Polyvinyl chloridge (PVC) | 0.010 | 
+
+
+business privilege licensing
+https://ecode360.com/32099994
+0.3013385024328272
+Provided, however, that in no case shall any tax levy exceed
+the total sum of $150.50. | 
+
+
+business privilege licensing
+https://ecode360.com/32099994
+0.30017522000492725
+Basic levy | $20 | 
+First three employees | $5 each | 
+Each additional employee | $2.50 | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.3000371256804183
+• May be mounted on a building corner when the building
+is at the intersection of two streets
+• Top of the sign may be no higher than the top of the
+building | A maximum of one projecting sign or shingle sign for each individual
+building or for each public/private street or parking area frontage
+side of an individual building | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2994519815178307
+• Must be located within 5 feet of an accessible building
+entrance
+• Must be located below the windowsill of the second story
+on a multistory building or below the roofline of a single-story building
+• May not be illuminated | A maximum of one projecting sign or shingle sign for each individual
+building or tenant of each individual building or for each public/private
+street or parking area frontage side of an individual building | 
+
+
+lincoln municipal library
+https://ecode360.com/32100362
+0.2992124233719813
+ | The County Library Board is given authority to provide such
+services to the members as agreed upon and to distribute the County
+Library mill to each member in a manner deemed fair and proper by
+the board. | 
+ | All property purchased by the County Library and placed with
+any other party to this agreement shall remain property of the county
+and be identified as such. Any information compiled using said property
+shall remain the party's property, for example, databases. Said
+party shall be given a reasonable amount of time to retrieve said
+information. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2933068861335384
+Total Sign Area Allocation | 
+The combined square footage of awning, canopy, projection and
+wall signs shall not exceed 20% of the total square footage of the
+wall area of that side of the building, not to exceed a maximum total
+amount of 800 square feet per wall. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2928611994995485
+- | = | Not allowed | 
+A | = | Allowed | 
+A* | = | Allowed with restrictions (See specific sign type section for
+additional details.) | 
+C | = | Allowed through a conditional use permit issued by the Planning
+Commission. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2912907752541224
+Total Sign Area Allocation | 
+The combined square footage of awning, canopy, crown, projection
+and wall signs shall not exceed 20% of the total square footage of
+the wall area of that side of the building, not to exceed a maximum
+total amount of 800 square feet. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2912907752541224
+Total Sign Area Allocation | 
+The combined square footage of awning, canopy, crown, projection
+and wall signs shall not exceed 20% of the total square footage of
+the wall area of that side of the building, not to exceed a maximum
+total amount of 800 square feet. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.29008160235564556
+• Must be set back at least 10 feet from the front lot
+line and 10 feet from the side lot line | • Only one monument, double post or freestanding sign structure
+is allowed per street frontage | 
+• The size of the monument sign for applicants which include
+more than 6 tenants may be increased by conditional use permit approved
+by the Planning Commission | • Where more than one monument, double post or freestanding
+sign structure is allowed on the same property, must be a minimum
+of 500 feet apart | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2895573217024111
+Any attached sign other than a projecting sign or a banner sign
+which is permanently attached to or painted on any wall of any building
+and projects from the plane of the wall less than 12 inches | • Sign area: a maximum of 15% of the square footage of
+the building's wall area facing a public/private street, drive,
+or parking area | 
+
+
+fire department
+https://ecode360.com/32099519
+0.2892072240439706
+ | In this situation, the persons under 16 years of age should
+be removed once other responders arrive or the condition in Subsection
+D1 above is met. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.28567406155933306
+• Must be no higher than the highest point of the second
+floor of the building
+• Must not extend above the roofline or above a parapet
+wall of a building with a flat roof
+• May not cover architectural detail
+• May not extend above the lower eave line of a building
+with a pitched roof
+• Original art displays shall not be considered wall signs | While there is no set restriction on the maximum number of signs
+allowed, multitenancy buildings must consider that the percentage
+of wall area must be divided between multitenants (if a building has
+multitenancy occupancy).
+In no event shall the sign area for available frontage used
+by multiple tenants exceed the maximum sign area set forth in this
+section | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.28540219938688505
+A freestanding and permanently affixed sign that is supported
+by a solid base (other than poles) and such that no air space is visible
+within or between any portion of the sign display area and sign structure | Sign area (maximum per sign):
+• 1 tenant: 48 square feet
+• 2 to 3 tenants: 72 square feet
+• 4 to 5 tenants: 84 square feet
+• 6 or more tenants: 108 square feet
+Height (maximum):
+• 1 to 3 tenants: 8 feet
+• 4 to 6 or more tenants: 12 feet | 
+
+
+building permit
+https://ecode360.com/32100795
+0.28165256578110276
+First 2,000 square feet | $0.33/ft2 | 
+> 2,000 square feet | $0.30/ ft2 | 
+
+
+building permit
+https://ecode360.com/32100795
+0.28165256578110276
+First 4,000 square feet | $0.35/ft2 | 
+> 4,000 square feet | $0.32/ ft2 | 
+
+
+building permit
+https://ecode360.com/32100795
+0.28165256578110276
+First 2,000 square feet | $0.40/ft2 | 
+> 2,000 square feet | $0.35/ ft2 | 
+
+
+building permit
+https://ecode360.com/32100795
+0.28165256578110276
+First 5,000 square feet | $0.42/ft2 | 
+> 5,000 square feet | $0.37/ ft2 | 
+
+
+building permit
+https://ecode360.com/32100795
+0.28165256578110276
+First 400 square feet | $0.30/ft2 | 
+> 400 square feet | $0.25/ ft2 | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.28096815010806664
+Minimum rate/up to 1,000 gallons | $31.90 | 
+1,001 to 10,000 gallons | $9.54 | 
+10,001 to 30,000 gallons | $8.79 | 
+30,001 to 100,000 gallons | $7.69 | 
+100,001 to 200,000 gallons | $6.98 | 
+Over 200,000 gallons | $6.03 | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.28096815010806664
+Minimum rate/up to 1,000 gallons | $41.54 | 
+1,001 to 10,000 gallons | $10.42 | 
+10,001 to 30,000 gallons | $9.95 | 
+30,001 to 100,000 gallons | $8.38 | 
+100,001 to 200,000 gallons | $7.52 | 
+Over 200,000 gallons | $7.00 | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.28096815010806664
+Minimum rate/up to 1,000 gallons | $54.52 | 
+1,001 to 10,000 gallons | $10.42 | 
+10,001 to 30,000 gallons | $9.95 | 
+30,001 to 100,000 gallons | $8.38 | 
+100,001 to 200,000 gallons | $7.52 | 
+Over 200,000 gallons | $7.00 | 
+
+
+division           design requirements
+https://ecode360.com/36626411
+0.2792767495504598
+Asphalt Surface Course (inches) | 3 | 3 | 3 | 2 | 2 | Pavement design required | Pavement design required | 
+Asphalt Binder Course (inches) | n/a | n/a | n/a | 3 | 3 | Pavement design required | Pavement design required | 
+Aggregate Base Course (inches) | 8 | 8 | 8 | 6 | 6 | Pavement design required | Pavement design required | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.279178629059483
+• Must be set back at least 10 feet from the front property
+line and 15 feet from the side property line
+• Must not impair vision or line of sight for incoming
+or outgoing traffic | Two subdivision signs are allowed per street frontage, one on
+each side of an entrance street into a subdivision | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2766488935436614
+A permanently affixed sign which is wholly independent of a
+building for support where the primary support is supplied by 2 or
+more posts | • Sign area maximum:
+• 48 square feet
+• 96 square feet*
+• Height maximum:
+• 8 feet
+• 10 feet*
+*Allowable only within 50 feet of the Highway 62 right-of-way. | 
+
+
+division          fees
+https://ecode360.com/36623616
+0.27496729602260495
+Preapplication conference | $25 | 
+Large-lot split | $50 | 
+Lot split, lot line adjustment (unplatted), lot combination | $100 | 
+Development: |  | 
+Preliminary plat: |  | 
+29 lots or fewer | $250 | 
+More than 29 lots | $550 | 
+Final plat: |  | 
+29 lots or fewer | $150 | 
+More than 29 lots | $350 | 
+Large-scale developments: |  | 
+Preliminary plan | $200 | 
+Final plan | $200 | 
+Small site plans/grading permit: |  | 
+Less than 1 acre | $100 | 
+1 to 5 acres | $200 | 
+Over 5 acres | $250 | 
+Rezoning requests | $100 | 
+Conditional use permit | $100 | 
+Planned unit developments | $100 | 
+Variance request | $50 | 
+Waiver request | $50 | 
+Fence permit | $25 | 
+Sign permit: |  | 
+Permanent | $50 | 
+Temporary | $10 | 
+Appeal: |  | 
+Administrative Official decision | $50 | 
+Planning Commission decision | $100 | 
+Communication (cell) tower permit | $350 | 
+Small cell wireless permit | See Division 4.18, Small Cell Wireless Communication, for fees. | 
+
+
+cable tv franchise
+https://ecode360.com/32099941
+0.27433006771440116
+ | 1. | Basic monthly service rate | $7.50 | 
+ | 2. | FM Radio Service (without basic service) | $6.75 | 
+ | 3. | Additional TV outlets | $1 each | 
+ | 4. | Additional FM or FM Stereo connections | $1 each | 
+ | 5. | Connection Fee | $10 | 
+ | 6. | Relocation Fee | $10 | 
+ | 7. | Reconnection Fee | $10 | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.27390483716543956
+• Must be removed and placed indoors at the close of business
+each day
+• Cannot obstruct vehicular, bicycle or pedestrian traffic
+and must comply with ADA clearance and accessibility
+• May not be illuminated | Each ground floor tenant can have 1 sidewalk sign located adjacent
+to the primary facade on the sidewalk with the principal customer
+entrance or up to 8 feet from the facade. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2677424995805344
+• Single tenancy use only
+• Allowed only within 50 linear feet (to the north or south)
+of the Highway 62 right-of-way | • Only 1 pylon sign structure* (or double post/monument
+sign) is allowed per street frontage of each lot
+• Where more than one monument sign or pylon sign structure*
+is allowed on the same property, must be a minimum of 500 feet apart
+• Placement of the sign within the lot may be evaluated
+by the planning official to achieve appropriate spacing of signage
+between adjoining lots. [The goal is to keep signage evenly spaced
+along rights-of-way (ROW) when possible.]
+*Allowable only within 50 feet of the Highway 62 right-of-way. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2656262902168818
+A permanently affixed sign which is wholly independent of a
+building for support, attached along its entire width to a continuous
+pedestal or wall that is used to identify the entry to or name of
+an entire development | • Sign area (maximum): 32 square feet (sign face)
+• Height (maximum): 8 feet (sign face) | 
+
+
+division           design requirements
+https://ecode360.com/36626411
+0.26414900132518193
+Concrete Pavement (inches) | 6 | 6 | 6 | Pavement design required | Pavement design required | Pavement design required | Pavement design required | 
+Aggregate Base Course (inches) | 6 | 6 | 6 | 6 | 6 | Pavement design required | Pavement design required | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2637426163678105
+• An electronically displayed sign that is static or changes
+messages by any electronic process or remote control. Permanently
+affixed sign which is wholly independent of a building for support.
+Must be part of a freestanding sign type (monument, pylon, or double
+post). A digital sign shall only be used in conjunction with another
+nondigital signage type. | • Sign face area and height: The digital sign shall be
+no greater than 60% of the size of the accompanying nondigital signage.
+Reference the individual sign area restrictions for the signage type
+with which the digital sign will be paired.
+• Only 1 digital sign is allowed per street frontage of
+each lot.
+• Total structure height (maximum): 25 feet in height or
+less | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.2620043285460227
+Minimum rate/up to 1,000 gallons | $54.52 | 
+1,001 to 200,000 gallons | $5.57 | 
+Over 200,000 gallons | $4.21 | 
+
+
+division           design requirements
+https://ecode360.com/36626411
+0.2588769579926273
+Local | 64-22 | 115 | 64-22 | 115 | 
+Collector | 70-22 | 160 | 64-22 | 115 | 
+Arterial | 76-22 | 205 | 70-22 | 160 | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.25645066511043935
+A sign erected and maintained on a freestanding frame, mast
+or pole not attached to any building, and not including signs mounted
+to the ground | • Sign area maximum: 40 square feet
+• Total structure height maximum: 20 feet in height or
+less | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.25388813724054116
+A sign, other than a wall sign, that is mounted to the wall
+or surface of a building or structure and which is supported by a
+wall of a building or structure and projects from the building by
+12 inches or more | •Height (maximum): 4 feet (mounted below 2nd floor)
+• Spacing from building facade (maximum): 1 foot
+• Projection width (maximum): 6 feet
+• Depth (maximum): 1 foot
+• Clear height above sidewalk (minimum): 10 feet | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2538670811312741
+For awnings attached to a building: | For awnings attached to a building: | 
+• The canopy sign shall not extend beyond the length or
+the width of the canopy, but it may extend either above or below the
+canopy
+• Only awnings over ground story windows may contain a
+sign | • 1 canopy sign permitted per each customer entrance. The
+canopy sign can be placed on either the front or side valance | 
+For freestanding awnings:
+• The canopy sign shall not extend beyond the length or
+the width of the canopy, but it may extend either above or below the
+canopy | For freestanding awnings:
+• 1 sign allowed per awning side | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.25365061935302025
+Must be set back at least 5 feet from the front lot line and
+5 feet back from the side lot line | • Only 1 post sign structure (or monument or pylon sign)
+is allowed per street frontage
+• Where more than one monument sign or pylon sign is allowed
+on the same property, must be a minimum of 500 feet apart | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2533448400384686
+A sign where graphics or symbols are painted, sewn or otherwise
+adhered to the awning fabric or material that is soft or flexible
+as an integrated part of the awning itself | • Width (maximum): no greater than 75% of the width or
+depth of the awning
+• Area (maximum): no greater than 50% of the area of the
+awning | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2511019242157564
+Any sign that is mounted, painted, or otherwise applied on or
+attached to an architectural canopy or structural protective cover
+over an outdoor area | • Width: no greater than 75% of the width or depth of the
+canopy
+• Height of text or graphics on the canopy: 3 feet
+• Sign area (maximum): 24 square feet
+• Sidewalk/driving surface clearance (minimum): 10 feet | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.24499372051659854
+ | Total annual OM&R cost in $/1,000 gal. = | Total annual OM&R $ 
+No. of 1,000 gal. sold annually | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.24344498835374864
+• No permit required
+• Limited to 45% of window area
+• Original art displays shall not be considered window
+signs | No restrictions | 
+
+
+solid waste
+https://ecode360.com/32100072
+0.24230745596662082
+ | Residents moving will be authorized one pick-up of not more
+than 10 cardboard boxes per move without additional charge.[Ord. No. 221, Sec. 12] | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.23801432999374048
+• Shall not extend beyond the awning itself
+• Only awnings over ground story windows may contain a
+sign | In a single tenant situation, 1 awning sign permitted per awning.
+The awning sign can be placed on either the front or side valance.
+For multitenant awning signs, and a canopy that extends the length
+of several tenants, each tenant may have a maximum of nine square
+feet on the awning sign. | 
+
+
+bonds
+https://ecode360.com/32099871
+0.2364701535667919
+Under the authority of the Constitution and laws of the State
+of Arkansas (the "state"), including particularly Title 14, Chapter
+234, Subchapter 2, Title 14, Chapter 235, Subchapter 2, and Title
+14, Chapter 164, Subchapter 4, of the Arkansas Code of 1987 Annotated
+and applicable decisions of the Supreme Court of the state, including
+particularly City of Harrison v. Braswell, 209 Ark. 1094, 194 S.W.
+2d 12 (1946), City of Lincoln, Arkansas Water and Sewer Refunding
+Revenue Bonds, Series 2016, are hereby authorized and ordered issued
+in the aggregate principal amount of $5,755,000 for the purpose of
+accomplishing, with other available funds, the refunding, funding
+a debt service reserve and paying expenses of issuing the bonds.[Ord. No. 2016-04] | 
+ | 
+Under the authority of the Constitution and laws of the State
+of Arkansas (the "state"), including particularly Title 14, Chapter
+234, Subchapter 2, Title 14, Chapter 235, Subchapter 2, and Title
+14, Chapter 164, Subchapter 4 of the Arkansas Code of 1987 Annotated
+and applicable decisions of the Supreme Court of the state, including
+particularly City of Harrison v. Braswell, 209 Ark. 1094, 194 S.W.
+2d 12 (1946), City of Lincoln, Arkansas Water and Sewer Revenue Bonds,
+Series 2019, are hereby authorized and ordered issued in the aggregate
+principal amount of $4,555,000 for the purpose of financing all or
+a portion of the costs of the improvements, funding a debt service
+reserve and paying expenses of issuing the bonds.[3-13-2019 by Ord. No. 2019-5] | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.23608316262050474
+An attached sign that is not a temporary sign and which is attached
+to, painted on, etched or otherwise adhered to a window or which is
+displayed within 12 inches of the window and is legible from outside
+the window | • N/A | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.2330503685638132
+A movable sign not secured or attached to the ground or surface
+upon which it is located | • Sign area (maximum): 9 square feet
+• Sign height (maximum): 3 feet
+• Sign width (maximum): 2.5 feet | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.23082687167423574
+A small projecting sign that hangs from a bracket or support
+and is located over or near a building entrance | • Sign area (maximum): 9 square feet
+• Height (maximum): 3 feet
+• Spacing from building facade (maximum): -1 foot
+• Projection width (maximum): 3 feet
+• Depth (maximum): 6 inches
+• Clear height above sidewalk (minimum): 10 feet | 
+
+
+lincoln municipal library
+https://ecode360.com/32100362
+0.22222981689418717
+ | This agreement shall be deemed to be permanent in nature with
+the right of any party to withdraw upon six months' written notice. | 
+
+
+annexing  vacating and re zoning
+https://ecode360.com/32101151
+0.21077128187579847
+Ord. No. 97-12 | From R-1 to R-3 | Part of NE 1/4 of S 30, Twp 15 N, Range 32 W | 
+Ord. No. 97-14 | From R-1 to R-3 | Part of NW 14/ of S 31, Twp 15 N, Range 32 W | 
+Ord. No. 98-5 | From A-1 to R-1 | Part of SE 1/4 of S 30, Twp 15 N, Range 32 W | 
+Ord. No. 99-21 | From A-1 to R-1 | Lots 1-16 of Karnes Addition | 
+Ord. No. 2000-16 | From A-1 to R-1 | Part of SE 1/4 of S 30, Twp 15, N, Range 32 W | 
+Ord. No. 2001-6 | From A-1 to R-3 | Part of NW 1/4 of Sec. 29, Twp 15 N, Range 32 W | 
+Ord. No. 2001-15 | From R-1 to B-2 | Part of SE 1/2 of Sec. 25, Twp 15 N, Range 33 W | 
+Ord. No. 2001-14 | From A-1 to R-3 | Part of N 1/2 of Sec. 29, Twp 15 N, Range 32 W | 
+Ord. No. 2002-05 | From R-1 to R-3 | Ord. No. 97-14 (Language change) | 
+Ord. No. 2002-07 | From A-1 to R-3 | Part of E 1/2 of Sec. 30, Twp 15 N, Range 32 West | 
+Ord. No. 2002-08 | From A-1 to R-2 | Part of NW 1/4 of Sec. 29, Twp 15N, Range 32 West | 
+Ord. No. 2003-7 | From R-1 to R-3 | Lots 1-6, Block 27 | 
+Ord. No. 2003-11 | From R-1 to R-3 | Part of NW 1/4 of Sec. 25, Twp 15 N, Range 32 W. | 
+Ord. No. 2003-15 | From R-1 to R-2 | Part of NW 1/4 of Sec. 31, Twp 15 N, Range 32 W. | 
+Ord. No. 2004-9 | From R-1 to B-1 | Lot 5, Block 15 in original town of Lincoln | 
+Ord. No. 2004-11 | From A-1 to R-3 | Part of SW 1/4 of Sec. 29, Twp 15 N, Range 32 W. | 
+Ord. No. 2004-12 | From R-1 to B-2 | Lots 11 — 15, Block 2, part of W.C. Braly Addition | 
+Ord. No. 2004-13 | From A-1 to R-2 | Part of NE 1/4 of Sec. 31 Twp 15 N, Range 32 W. | 
+Ord. No. 2004-14 | From A-1 to F-3 | Part of NW 1/4 of Sec. 29, Twp 15 N, Range 32 W. | 
+Ord. No. 2004-16 | From A-1 to B-2 | Part of E 1/2 of Sec. 29, Twp 15 N, Range 32 W. | 
+Ord. No. 2005-18 | From R-1 to R1.2 | Lots 1,2,3,4 & 5, Block 18 | 
+Ord. No. 2005-22 | From R-1 to F-1.1 | Part of SW 1/4 of Sec. 31, Twp 15 N, Range 32 West | 
+Ord. No. 2005-23 | From A-1 to R-1.1 | Part of N 1/2 of Sec. 29, Twp 15 NW | 
+Ord. No. 2005-24 | From R-1 to R-1.2 | Part of SE 1/4 of Sec. 30, Twp 15 N, Range 32 West | 
+Ord. No. 2005-25 | From R-1 to R-1.2 | Part of Block 20 | 
+Ord. No. 2006-4 | From B-2 to R-2 | SW 1/4 of Sec. 29, Twp 15 N, Range 32 West | 
+ | From A-1 to R-1.1 | SW 1/4 of Sec. 29, Twp 15 N, Range 32 West | 
+ | From R-1 to R-1.1 | S 1/2 of Sec. 30, Twp 15 N, Range 32 West | 
+Ord. No. 2006-7 | From R-1 to R-1.1 | SE 1/4 of Sec. 30, Twp 15 N, Range 32 West | 
+Ord. No. 2006-11 | From A-1 to R-2 | NW 1/4 of Sec. 29, Twp 15 N, Range 32 West | 
+Ord. No. 2006-16 | From R-1 to R-3 | Part of SW 1/4 of Sec. 32, Twp 15 N, Range 32 W | 
+Ord. No. 2006-17 | From A-1 to R-1.1 | Part of NW 1/4 of Sec. 31, Twp 15 N, Range 32 W | 
+Ord. No. 2007-10 | From A-1 to R-1 | Part of NW 1/4 of Sec. 19, Twp 15 N, Range 32 West | 
+Ord. No. 2014-5 | From A-1 to M-2 | Part of SE 1/4 of Sec. 28, Twp 15 N, Range 32 West | 
+Ord. No. 2016-02 | From R-1 to B-2 | Part of SW 1/4 of Sec. 30, Twp 15 N, Range 32 W | 
+Ord. No. 2017-3 | From A-1 to B-1 | Part of SW 1/4 of Sec. 29, Twp 15 N, Range 32 W | 
+Ord. No. 2018-4 | From A-1 to B-2/ZC | Part of SW 1/4 of SE 1/4 of Sec. 29, Twp 15 N, Range 32 W | 
+Ord. No. 2019-11 | From R-1 to R-1.1 | Part of SE 1/4 of SW 1/4 of Sec. 30, Twp 15 N, Range 32 W | 
+Ord. No. 2019-13 | From R-1 to R-1.1 | Part of SE 1/4 of SW 1/4 of Sec. 30, Twp 15 N, Range 32 W | 
+Ord. No. 2019-27 | From R-1 to B-1 | Lots 6 and 7 in Block 15 | 
+Ord. No. 2020-2 | From R-1 to B-2 | Part of SW 1/4 of Sec. 30, Twp 15 N, Range 32 W | 
+Ord. No. 2020-15 | — | Adoption of new land use zones and new digital Official Zoning
+Map | 
+Ord. No. 2020-16 | R-1.2 to R-2 | Part of Block 20, beginning at the NE corner of Lot 6, Block
+20, thence east 135 feet, thence south 140 feet, thence west 135 feet,
+thence north 140 feet to the point of beginning | 
+Ord. No. 2020-23 | A-1 to R-A | Changing name of district | 
+
+
+division           accessory buildings  accessory dwelling units
+https://ecode360.com/36633902
+0.20304855842352118
+1 | Must be placed behind the principal structure. | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.20196746659848383
+Project-ing | - | - | - | - | - | A | A | A | A | 
+
+
+division          landscape  screening  and buffering requirements
+https://ecode360.com/36625539
+0.19620092083999205
+Perimeter Landscaping | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.19396867289767114
+Sub-division | A | A | A | A | A | A | A | A | A | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.18419317190997223
+Sand-wich board | - | - | - | - | - | A | A | A | A | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.1838276266572176
+Wall | - | - | - | - | - | A | A | A | A | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.17189354110281316
+Over 1,000 gallons | $4.50 per 1000/gallons | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.16684604389307853
+Window | - | - | - | - | - | A | A | A | A | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.16342942479601905
+24 hours | 3.50 | 3.92 | 4.65 | 5.31 | 6.27 | 7.07 | 7.91 | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.15623559912494064
+Canopy | - | - | - | - | - | A | A | A | A | 
+
+
+division          landscape  screening  and buffering requirements
+https://ecode360.com/36625539
+0.152403090148939
+American smoketree | Cotinus obovatus | 
+Cherry | Prunus serrulata | 
+Crabapple | Malus species | 
+Flowering dogwood | Cornus florida | 
+Fringe tree | Chionanthus virginicus | 
+'Little Gem' magnolia | Magnolia grandiflora 'Little Gem' | 
+Natchez crape myrtle | Lagerstroemia indica 'Natchez' | 
+Oklahoma redbud | Cercis reniformis 'Oklahoma' | 
+Oriental arborvitae | Platycladus orientalis | 
+Possumhaw | Ilex deciduas | 
+Saucer magnolia | Magnolia x soulangiana | 
+Serviceberry | Amelanchier arborea | 
+Star magnolia | Magnolia stellata | 
+Sweet bay magnolia | Magnolia virginiana | 
+Yaupon holly | Ilex vomitoria | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.14786625014438767
+Awning | - | - | - | - | - | A | A | A | A | 
+
+
+division          visibility at intersections  sight triangle
+https://ecode360.com/36625735
+0.14402773676955352
+Figure 5.4.1: Intersection Visibility | 
+
+
+sewer regulations
+https://ecode360.com/32100514
+0.12626855860479044
+ | Cadmium | 0.02 | 
+ | Mercury | 0.002 | 
+ | Cyanide | 0.05 | 
+ | PCB's | Detection Limit | 
+
+
+division          fences  walls or hedges
+https://ecode360.com/36625462
+0.10558443741646337
+Figure 5.1.1 | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.10543047167906913
+Photo Credit: Elliott Brown, Wikimedia Commons | 
+
+
+water and sewer rates
+https://ecode360.com/32100649
+0.10260908175816755
+ | C5 = (BC(B) + SC(S) + PC(P))
+VU | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.08559588987303213
+ |  | 
+Photo Credit: Mike Mozart, Jeepers Media | Photo Credit: Max Pixel | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.06861854120190156
+Monu-ment | C | C | C | C | C | A | A | A | A | 
+
+
+sewer regulations
+https://ecode360.com/32100514
+0.06854955802297566
+ | S = 8.34 V(C) [(B(C) - 300)($0.1) + (TSS(C) - 300)(0.1)] | 
+
+
+division           design standards for large scale developments  small site plans  dupexes  triplexes  quadplexes  and multifamily developments
+https://ecode360.com/36626117
+0.05887224736403923
+ | 
+
+
+division           design standards for large scale developments  small site plans  dupexes  triplexes  quadplexes  and multifamily developments
+https://ecode360.com/36626117
+0.05887224736403923
+ | 
+
+
+division           signs
+https://ecode360.com/36634292
+0.058436734686379194
+Shingle | C | C | C | C | C | A | A | 
+
+
+division          landscape  screening  and buffering requirements
+https://ecode360.com/36625539
+0.05189597480115607
+ | 
+
+
+division          landscape  screening  and buffering requirements
+https://ecode360.com/36625539
+0.05189597480115607
+ | 
+
+
+division           stormwater drainage and management requirements
+https://ecode360.com/36626613
+0.04134233108630678
+ | 
+
+
+division          fences  walls or hedges
+https://ecode360.com/36625462
+-0.008102799076831091
+ | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ |  | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ |  | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ |  | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ |  | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ |  | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ |  | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ | 
+
+
+division           signs
+https://ecode360.com/36634292
+-0.05461129781919524
+ | 
+
+
+division          landscape  screening  and buffering requirements
+https://ecode360.com/36625539
+-0.06886022066154451
+Boxwood | Buxus sinica var. insularis 'Wintergreen' | 
+Butterfly bush | Buddlei davidii | 
+Chokeberry | Aronia species | 
+Compact japanese holly | Ilex crenata 'Compacta' | 
+Cotoneaster | Cotoneaster species | 
+Dwarf yaupon holly | Ilex vomitoria (dwarf cultivars) | 
+Elderberry | Sambucus nigra | 
+English laurel | Prunus laurocerasus | 
+Forthergilla | Fothergilla gardenia | 
+Foster's holly | Ilex attenuata 'Fosteri' | 
+Fragrant sumac | Rhus aromatic 'Gro- Low' | 
+Glossy abelia | Abelia grandiflora | 
+Hydrangea | Hydrangea species | 
+Inkberry holly | Ilex glabra | 
+Mugo pine | Pinus mugo | 
+Nellie R. Stevens holly | Ilex 'Nellie R. Stevens' | 
+Pieris | Pieris species | 
+Pyracantha | Pyracantha species | 
+Seagreen juniper | Juniperus X pfitzeriana 'Sea Green' | 
+Spiraea | Spiraea species | 
+Summersweet | Clethra alnifolia | 
+Twig dogwood | Cornus sericea | 
+Viburnum | Viburnum species | 
+Weigela | Weigela species | 
+Yew | Taxus species | 
+Yucca | Yucca species | 
+
+
+division          landscape  screening  and buffering requirements
+https://ecode360.com/36625539
+-0.09932602562628387
+American beech | Fagus grandifolia | X | 
+American holly | Ilex Opaca | X | 
+American hophornbeam | Ostrya virginiana |  | 
+Bald cypress | Taxodium distichum |  | 
+Bitternut hickory | Carya cordiformis |  | 
+Black oak | Quercus velutina |  | 
+Black walnut | Juglans nigra |  | 
+Bur oak | Quercus macrocarpa |  | 
+Chinese pistache | Pistacia chinensis |  | 
+Chinkapin oak | Quercus muehlenbergii |  | 
+Crape myrtle | Lagerstroemia indica |  | 
+Frontier elm | Ulmus carpinifolia x parvifolia |  | 
+Goldenrain tree | Koelreuteria paniculate |  | 
+Japanese zelcova | Zelcova serrata |  | 
+Jefferson elm | Ulmus americana 'Jefferson' |  | 
+Lacebark elm | Ulmus parvifolia |  | 
+Littleleaf linden | Tilia cordata |  | 
+Northern red oak | Quercus rubra |  | 
+Osage orange | Maclura pomifera | X | 
+Pecan | Carya illinoinensis |  | 
+Prospector elm | Ulmus wilsoniana |  | 
+River birch | Betula nigra | X | 
+Shagback hickory | Carya ovata |  | 
+Shingle oak | Quercus imbricaria |  | 
+Shumard oak | Quercus shumardi |  | 
+Silver linden | Tilia tomentosa |  | 
+Southern magnolia | Magnolia grandiflora | X | 
+Southern red oak | Quercus falcate |  | 
+Sugarberry | Celtus laevigata |  | 
+Swamp white oak | Quercus bicolor |  | 
+Sycamore | Platnus occidentalis |  | 
+Tuliptree | Liriodendron tulipifera |  | 
+Turkish filbert | Corylus colurna |  | 
+Water oak | Quercus nigra |  | 
+White oak | Quercus alba |  | 
+Willow oak | Quercus phellos |  | 
+
+
+dl      disposition list
+https://ecode360.com/32129587
+-0.2842336314479376
+Ord. No. 2019-18 | 7-9-2019 | Vicious Animals Amendment | Ch. 6.12 | 5 | 
+Ord. No. 2019-19 | 8-20-2019 | Authorization To Enter Into Contract | NCM | 5 | 
+Ord. No. 2019-20 | 8-20-2019 | Fences Amendment | Repealed by Ord. No. 2020-13 | 5 | 
+Ord. No. 2019-21 | 8-20-2019 | Building Permit Amendment | Ch. 11.04 | 5 | 
+Ord. No. 2019-22 | 10-21-2019 | Authorization To Enter Into Interlocal Agreement | NCM | 5 | 
+Ord. No. 2019-23 | 11-19-2019 | Authorization To Enter Agreement for Payment of Fees | NCM | 5 | 
+Ord. No. 2019-24 | 11-19-2020 | Appropriation | NCM | 5 | 
+Ord. No. 2019-25 | 11-19-2020 | Appropriation | NCM | 5 | 
+Ord. No. 2019-26 | 11-19-2020 | Appropriation | NCM | 5 | 
+Ord. No. 2019-27 | 11-19-2019 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 5 | 
+Ord. No. 2019-28 | 11-19-2020 | Appropriation | NCM | 5 | 
+Ord. No. 2019-29 | 12-17-2019 | Budget | NCM | 5 | 
+Ord. No. 2019-30 | 12-17-2019 | Appropriation | NCM | 5 | 
+Ord. No. 2020-1 | 1-21-2020 | Land Use Zoning Ordinance Amendment | Repealed by Ord. No. 2020-13 | 5 | 
+Ord. No. 2020-2 | 1-21-2020 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 5 | 
+Ord. No. 2020-3 | 1-21-2020 | Authorization To Purchase Police Vehicle | NCM | 5 | 
+Ord. No. 2020-4 | 1-21-2020 | Budget Amendment | NCM | 5 | 
+Ord. No. 2020-5 | 2-18-2020 | Reconciliation of 2019 Budget | NCM | 5 | 
+Res. No. 2020-3 | 5-5-2020 | Appointment | NCM | 5 | 
+Ord. No. 2020-6 | 5-5-2020 | Authorization To Enter Into Contract | NCM | 5 | 
+Ord. No. 2020-7 | 5-5-2020 | Authorization To Purchase Trash Truck | NCM | 5 | 
+Ord. No. 2020-8 | 5-5-2020 | Appropriation | NCM | 5 | 
+Ord. No. 2020-9 | 5-5-2020 | Approval of Award of Bid | NCM | 5 | 
+Ord. No. 2020-10 | 5-5-2020 | Appropriation | NCM | 5 | 
+Ord. No. 2020-11 | 5-5-2020 | Appropriation | NCM | 5 | 
+Ord. No. 2020-12 | 5-5-2020 | Approval of Purchase of Wastewater Treatment Pump | NCM | 5 | 
+Ord. No. 2020-13 | 5-19-2020 | Unified Development Code | Art. I; Art. II; Art. III; Art. IV; Art. V; Art.. VI; Art. VII;
+Art. VIII | 5 | 
+Ord. No. 2020-14 | 5-19-2020 | Future Land Use Plan Amendment | NCM | 5 | 
+Ord. No. 2020-15 | 5-19-2020 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 5 | 
+Ord. No. 2020-16 | 6-16-2020 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 5 | 
+Ord. No. 2020-17 | 6-16-2020 | Authorization To Enter Contract | NCM | 5 | 
+Ord. No. 2020-18 | 7-21-2020 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 5 | 
+Ord. No. 2020-19 | 7-21-2020 | Tax Levy | NCM | 5 | 
+Ord. No. 2020-20 | 7-21-2020 | Call For Special Election | NCM | 5 | 
+Ord. No. 020-21 | 8-18-2020 | Contract | NCM | 6 | 
+Ord. No. 2020-22 | 9-15-2020 | Planning Commission Amendment | Ch. 13.04 | 6 | 
+Ord. No. 2020-23 | 9-15-2020 | Unified Development Code: Zoning Regulations Amendment; Zoning
+District Name Change | Ch. 6.04; Ch. 14.20; Art. IV; Art. V | 6 | 
+Ord. No. 2020-24 | 10-20-2020 | Appropriation | NCM | 6 | 
+Ord. No. 2020-25 | 10-20-2020 | Interlocal Agreement for Washington County Regional Ambulance
+Authority | NCM | 6 | 
+Ord. No. 2020-26 | 10-20-2020 | Unified Development Code: Landscaping, Screening, Fencing and
+Buffering Amendment | Repealed by Ord. No. 2020-28 | 6 | 
+Ord. No. 2020-27 | 10-20-2020 | Contract for Part-Time Code Enforcement Officer | NCM | 6 | 
+Ord. No. 2020-28 | 11-17-2020 | Unified Development Code: Landscaping, Screening, Fencing and
+Buffering Amendment | Art. V | 6 | 
+Ord. No. 2020-29 | 11-17-2020 | Bond | NCM | 6 | 
+Ord. No. 2020-30 | 11-17-2020 | Appropriation | NCM | 6 | 
+Ord. No. 2020-31 | 11-17-2020 | Appropriation | NCM | 6 | 
+Ord. No. 2021-1 | 2-2-2021 | COVID-19 Paid Leave | NCM | 7 | 
+Ord. No. 2021-2 | 2-24-2021 | Appropriation | NCM | 7 | 
+Res. No. 2021-1 | 2-24-2021 | Appointment | NCM | 7 | 
+Ord. No. 2021-3 | 3-16-2021 | Unified Development Code: Zoning Regulations Amendment | Art. IV | 7 | 
+Ord. No. 2021-4 | 3-16-2021 | Appropriation | NCM | 7 | 
+Res. No. 2021-2 | 3-16-2021 | Acceptance of Resignation | NCM | 7 | 
+Ord. No. 2021-5 | 4-20-2021 | Appropriation | NCM | 7 | 
+Ord. No. 2021-6 | 4-20-2021 | Unified Development Code: Zoning Regulations Amendment | Art. IV | 7 | 
+Res. No. 2021-3 | 4-20-2021 | Bond | NCM | 7 | 
+Res. No. 2021-4 | 4-20-2021 | Declaration of Public Nuisances | NCM | 7 | 
+Ord. No. 2021-7 | 5-18-2021 | Appropriation | NCM | 7 | 
+Ord. No. 2021-8 | 5-18-2021 | Appropriation | NCM | 7 | 
+Ord. No. 2021-9 | 5-18-2021 | Appropriation | NCM | 7 | 
+Res. No. 2021-5 | 5-18-2021 | Contract for Managed Information Technology and Security Services | NCM | 7 | 
+Ord. No. 2021-10 | 6-15-2021 | City Personnel Policy Amendment | NCM | 7 | 
+Ord. No. 2021-11 | 6-15-2021 | Tethering of Animals | Ch. 6.16 | 7 | 
+
+
+dl      disposition list
+https://ecode360.com/32129587
+-0.6660966727591192
+Ord. No. 2016-01 | 1-19-2016 | Code Cleanup | Ch. 5.04 (repealer); Ch. 5.08 (repealer); Ch.
+10.12 (repealer) | 
+Ord. No. 2016-02 | 1-26-2016 | Zoning Map Amendment | Ch. 14.20 | 
+Ord. No. 2016-03 | 3-15-2016 | Building Permit Amendment | Ch. 11.04 | 
+Ord. No. 2016-04 | 3-31-2016 | Bonds | Ch. 3.24 | 
+Ord. No. 2016-05 | 5-17-2016 | Restroom Facilities Amendment | Ch. 7.60 | 
+Ord. No. 2016-06 | 5-17-2016 | Water and Sewer Rates Amendment | Ch. 10.08 | 
+Ord. No. 2016-07 | 7-19-2016 | Land Use Zoning Ordinance Amendment | Repealed by Ord. No. 2020-13 | 
+Ord. No. 2016-08 | 8-16-2016 | Street Acceptance | NCM | 
+Ord. No. 2016-09 | 9-20-2016 | Fences | Repealed by Ord. No. 2020-13 | 
+Ord. No. 2016-10 | 10-10-2016 | Fire Department amendment (LOPFI) | Ch. 2.40 | 
+Ord. No. 2016-11 | 10-18-2016 | Moving Structures Amendment | Ch. 11.06 | 
+Ord. No. 2016-12 | 10-18-2016 | Inoperable Vehicles | Ch. 8.16 | 
+Ord. No. 2016-13 | 11-15-2016 | Code Cleanup | Ch. 2.20 (repealer); Ch. 2.52 (repealer); Ch.
+2.68 (repealer); Ch. 3.12 (repealer); Ch. 3.16; Ch. 7.06 (repealer);
+Ch. 7.12 (repealer); Ch. 15.04 (repealed by Ord. No. 2020-13) | 
+Ord. No. 2016-14 | 11-15-2016 | Streets, Alleys, Gutters or Ditches Amendment | Repealed by Ord. No. 2020-13 | 
+Ord. No. 2016-15 | 12-20-2016 | City Attorney Amendment | Ch. 2.36 | 
+Res. No. 2017-01 | 1-17-2017 | Contract Authorization | NCM | 
+Ord. No. 2017-1 | 2-23-2017 | Contract Award | NCM | 
+Ord. No. 2017-2 | 2-23-2017 | Code Cleanup | Ch. 2.33; Ch. 4.20 (repealer); Ch. 4.24; Ch.
+5.20; Ch. 7.20 (repealer); Ch. 8.04; Ch. 10.08 | 
+Res. No. 2017-02 | 2-23-2017 | 2016 Budget Amendment | NCM | 
+Res. No. 2017-03 | 2-23-2017 | City Personnel Policy Amendment | NCM | 
+Res. No. 2017-04 | 2-23-2017 | Grant Application | NCM | 
+Res. No. 2017-05 | 2-23-2017 | Joint Procurement Agreement | NCM | 
+Ord. No. 2017-3 | 4-18-2017 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 
+Ord. No. 2017-4 | 4-18-2017 | Contract Award | NCM | 
+Ord. No. 2017-5 | 5-16-2017 | Fences Amendment | Repealed by Ord. No. 2020-13 | 
+Res. No. 2017-06 | 5-16-2017 | Sale of Property | NCM | 
+Res. No. 2017-07 | 5-16-2017 | Opt Into Provisions of ACA § 25-19-108(a) | NCM | 
+Ord. No. 2017-6 | 6-20-2017 | Waiver of Competitive Bidding | NCM | 
+Res. No. 2017-08 | 6-20-2017 | Agreement to Utilize Washington County Animal Shelter | NCM | 
+Ord. No. 2017-7 | 7-18-2017 | Waiver of Competitive Bidding | NCM | 
+Res. No. 2017-09 | 7-18-2017 | City Personnel Policy Amendment | NCM | 
+Res. No. 2017-10 | 7-18-2017 | Grant Application | NCM | 
+Res. No. 2017-11 | 7-18-2017 | Prohibition of Excessive Force at Nonviolent Civil Rights Demonstrations | NCM | 
+Res. No. 2017-12 | 8-1-2017 | Contract Authorization | NCM | 
+Res. No. 2017-13 | 8-1-2017 | Contract Authorization | NCM | 
+Ord. No. 2017-8 | 8-15-2017 | Building Permit Amendment | Ch. 11.04 | 
+Ord. No. 2017-9 | 8-15-2017 | Maintenance of Real Property | Ch. 5.12 | 
+Res. No. 2017-14 | 8-15-2017 | Authorizing Purchase of New Vehicles | NCM | 
+Res. No. 2017-15 | 9-19-2017 | Contract Authorization | NCM | 
+Res. No. 2017-15 | 9-19-2017 | Property Tax Levy | NCM | 
+Ord. No. 2017-10 | 10-17-2017 | Authorization to Conduct Business With Certain Aldermen | NCM | 
+Ord. No. 2017-11 | 10-17-2017 | Business Privilege Licensing Amendment | Ch. 4.24 | 
+Res. No. 2017-17 | 10-17-2017 | Declaration of Nuisance | NCM | 
+Res. No. 2017-18 | 10-17-2017 | Declaration of Vehicles as Surplus | NCM | 
+Ord. No. 2017-12 | 11-17-2017 | Contract Award | NCM | 
+Res. No. 2017-19 | 11-21-2017 | Declaration of Vehicles as Surplus | NCM | 
+Res. No. 2017-20 | 11-21-2017 | Competitive Bidding | NCM | 
+Ord. No. 2017-13 | 12-19-2017 | Water and Sewer Rates Amendment | Ch. 10.08 | 
+Res. No. 2017-21 | 12-19-2017 | Contract Authorization | NCM | 
+Res. No. 2017-22 | 12-19-2017 | 2018 Budget | NCM | 
+Res. No. 2017-23 | 12-19-2017 | Agreement Determining District Judge Cost Share for 2018 | NCM | 
+Res. No. 2017-24 | 12-19-2017 | Street Renaming | NCM | 
+Ord. No. 2018-1 | 1-16-2018 | Demolition Permit | Ch. 11.05 | 
+Ord. No. 2018-2 | 1-16-2018 | Fences Amendment | Repealed by Ord. No. 2020-13 | 
+Ord. No. 2018-3 | 2-20-2018 | Solid Waste Amendment | Ch. 5.20 | 
+Ord. No. 2018-4 | 3-20-2018 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 
+Ord. No. 2018-5 | 4-17-2018 | Fee Schedule | NCM | 
+Ord. No. 2018-6 | 4-17-2018 | Contract | NCM | 
+Ord. No. 2018-07 | 5-21-2018 | Energy Code Amendment | Ch. 11.24 | 
+Ord. No. 2018-08 | 5-21-2018 | Contract Award | NCM | 
+Ord. No. 2018-09 | 5-21-2018 | Planning Area | NCM | 
+Ord. No. 2018-10 | 7-19-2018 | Tax Levy | NCM | 
+Ord. No. 2018-11 | 7-19-2018 | Tax Levy | NCM | 
+Ord. No. 2018-12 | 7-19-2018 | Fences Amendment | Repealed by Ord. No. 2020-13 | 
+Ord. No. 2018-13 | 7-19-2018 | Contract Award | NCM | 
+Ord. No. 2018-14 | 7-19-2018 | Contract Award | NCM | 
+Ord. No. 2018-15 | 7-19-2018 | Contract Award | NCM | 
+Ord. No. 2018-16 | 8-21-2018 | Fences Amendment | Repealed by Ord. No. 2020-13 | 
+Ord. No. 2018-17 | 8-21-2018 | Demolition Permit Amendment | Ch. 11.05 | 
+Ord. No. 2018-18 | 10-16-2018 | Private Swimming Pools | Repealed by Ord. No. 2020-13 | 
+Ord. No. 2018-19 | 11-20-2018 | Sign Regulations | Repealed by Ord. No. 2020-13 | 
+Ord. No. 2018-20 | 12-18-2018 | Future Land Use Plan | NCM | 
+Ord. No. 2018-21 | 12-18-2018 | Master Street Plan | NCM | 
+Ord. No. 2019-1 | 1-15-2019 | Purchase of Property | NCM | 
+Ord. No. 2019-2 | 1-15-2019 | Employee Grievance Policy | NCM | 
+Ord. No. 2019-3 | 1-15-2019 | Posting of Ordinances Amendment | Ch. 1.40 | 
+Ord. No. 2019-4 | 1-15-2019 | Water and Sewer Rates Amendment | Ch. 10.08 | 
+Ord. No. 2019-5 | 3-13-2019 | Bonds Amendment | Ch. 3.24 | 
+Ord. No. 2019-6 | 3-19-2019 | City Council Operating Procedures | Ch. 2.26 | 
+Ord. No. 2019-7 | 4-16-2019 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 
+Ord. No. 2019-8 | 4-16-2019 | Adoption of Digital Zoning Map | NCM | 
+Ord. No. 2019-9 | 4-16-2019 | City Council Committees | Ch. 2.25 | 
+Ord. No. 2019-10 | 5-21-2019 | Smoking | Ch. 7.64 | 
+Ord. No. 2019-11 | 5-21-2019 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 
+Ord. No. 2019-12 | 5-21-2019 | Police Department Fees | Ch. 2.45 | 
+Ord. No. 2019-13 | 6-18-2019 | Annexing, Vacating and Re-Zoning Amendment | Ch. 14.20 | 
+Ord. No. 2019-14 | 6-18-2019 | Business Privilege Licensing Amendment; Soliciting Amendment | Ch. 4.24; Ch. 7.36 | 
+Res. No. 2019-15 | 6-18-2019 | Disposal of Certain Personal Property | NCM | 
+Res. No. 2019-16 | 6-18-2019 | Disposition of Certain Unclaimed Funds | NCM | 
+Ord. No. 2019-17 | 6-18-2019 | Appointment | NCM | 
+
+

@@ -1,0 +1,524 @@
+iii      economic development commission
+https://ecode360.com/30956562
+0.5918503912558227
+• | To make recommendations to appropriate officials and agencies
+of the town regarding action to improve the town's economic base,
+condition and development; | 
+• | To conduct research into the economic conditions and trends
+in the town; | 
+• | To annually prepare a mission statement that will promote opportunity
+and job growth in the town; | 
+• | To review the town's Land Use Commission's agenda
+and minutes to keep abreast of development and timelines; | 
+• | To recommend or initiate updates on economic development issues
+to the town's website; | 
+• | To work with commissions, town staff and town officials to develop
+an efficient process for economic development; | 
+• | To appear at hearings, meetings and forums to comment upon,
+and submit information relating to, development applications or proposals; | 
+• | To maintain town presence on appropriate economic development
+websites and to consult with regional and statewide and federal economic
+development commissions and initiators; | 
+• | In consultation with the Town Manager and pursuant to the Charter,
+initiate applications and administer various federal and state business
+improvement grants; | 
+• | To recommend to the Town Council general and specific tax abatement
+programs and incentives under Connecticut law; | 
+• | To initiate, in consultation with the Town Manager, applications
+to change the boundaries of zoning districts, economic or development
+zones, and to amend or repeal land use regulations; | 
+• | To advertise, prepare print and distribute material to improve
+economic opportunity; | 
+• | To organize joint meetings of the town's various legislative
+and administrative bodies to review the Commission's work, plans
+and recommendations; | 
+• | To advise Town Council on the creation of incentive programs
+to increase entrepreneurship; | 
+• | To review and comment on town capital improvement plan; and | 
+• | To write and monitor a community revitalization strategy. | 
+
+
+v      traffic calming ordinance
+https://ecode360.com/30955406
+0.4873334999319426
+ | Speed (85% tile) | 30 | 5 pts. For every 5 mph over posted speed limit | 
+ | Volume | 20 | ADT divided by 100 Average Daily Traffic | 
+ | Accident | 15 | 1 pt for each crash/year at one location | 
+ | School crossing | 10 | 2 pts if children must cross street to go to school | 
+ | Residential density | 10 | 1 pt for every 150 dwelling units/sq mile of study area | 
+ | Pedestrian generators | 5 | 1 pt each for up to five pedestrian-generating facilities | 
+ | No sidewalks | 10 | 5 pts if no continuous sidewalk, and 5 pts if pedestrian traffic
+volume is considered high | 
+ | Total possible points | 100 |  | 
+
+
+v      traffic calming ordinance
+https://ecode360.com/30955406
+0.4873207950112198
+ | • | Vehicular volume; | 
+ | • | Speeds; | 
+ | • | Cut-through traffic; | 
+ | • | Crash rates; | 
+ | • | Road alignment and grade; | 
+ | • | Street or segment classification; | 
+ | • | Parking; | 
+ | • | Pedestrian activities; | 
+ | • | Other physical conditions on roadway or segment. | 
+
+
+vii      zoning and inland wetlands violations
+https://ecode360.com/30956593
+0.4795413527934759
+ | Hearing requests shall be directed to the enforcement officer.
+Such hearing shall be held not less than 15 days nor more than 30
+days from the date of the mailing of notice. | 
+
+
+v      traffic calming ordinance
+https://ecode360.com/30955406
+0.36879938778197774
+ | Periodically, the WTCC will review these guidelines to determine
+whether they are appropriate for current conditions, and make recommendations
+to change this article to the Board of Selectmen. | 
+ | The WTCC shall conduct a traffic calming study if the majority
+of residents in the problem area petition for such a request. | 
+
+
+v      traffic calming ordinance
+https://ecode360.com/30955406
+0.3633482567385865
+NOTE — Specific definitions of Levels of Service A through
+F vary by facility type. | 
+
+
+v      traffic calming ordinance
+https://ecode360.com/30955406
+0.3318088403371503
+ | The report should also contain recommendations on traffic calming
+solutions. | 
+
+
+iii      abandoned or junk vehicles and discarded vehicle parts
+https://ecode360.com/30955379
+0.32079244189148526
+ | Note: The provisions of Subsections (1) through (4) shall not apply to any vehicle that is an antique, rare or special interest motor vehicle within the definition of G.S. 14-1(a)(2), and which is listed on the town's grand list. | 
+
+
+xi      the town meeting
+https://ecode360.com/30953928
+0.3202260240401758
+The Town Council may submit any other matter it desires to town
+meeting for its consideration. The town meeting shall not act upon
+any appropriation from funds generated solely from local taxes in
+excess of one hundred thousand dollars ($100,000) except upon the
+recommendation of the Board of Finance. | 
+Except for the annual budget referendum only electors of the
+Town of Windham may vote in any such meeting. | 
+
+
+animals
+https://ecode360.com/30954425
+0.31198080357406777
+ | Acting as an interface with other agencies dealing with dogs,
+cats, birds and other domestic animals; | 
+ | Working with authorities to obtain emergency veterinary assistance
+for injured dogs and cats; | 
+ | Enforcing all town ordinances pertaining to domestic animals; | 
+ | Patrolling problem areas in town; | 
+ | Bite investigations; | 
+ | Cruelty investigations; | 
+ | Noise complaints; | 
+ | Rabies control. | 
+ | ** As permitted by G.S. § 435** | 
+
+
+iii      anti blight ordinance
+https://ecode360.com/30954509
+0.3114458759486307
+ | As each may be amended from time to time. | 
+
+
+v      traffic calming ordinance
+https://ecode360.com/30955406
+0.3012973782731385
+A | Free flow | 
+B | Reasonable free flow | 
+C | Stable flow | 
+D | Approaching unstable flow | 
+
+
+vi      police department
+https://ecode360.com/30956937
+0.28249371756957764
+The departmental, vendor, soliciting street fest and parking
+permit fees are effective July 1, 2009 and the parking ticket fees
+are effective immediately per ordinance. This section supersedes any
+and all other ordinances. | 
+
+
+taxation
+https://ecode360.com/30956773
+0.2812864806378155
+ | By meeting this requirement the member shall be entitled to
+a maximum tax abatement of $500 with 10 or more years service. Less
+than 10 years of service will be prorated as stated below: | 
+
+
+taxation
+https://ecode360.com/30956773
+0.2675986626061341
+ | 2 to 4 | 25% | $125 | 
+ | 5 to 6 | 50% | $250 | 
+ | 7 to 9 | 75% | $375 | 
+ | 10 or more | 100% | $500 | 
+
+
+taxation
+https://ecode360.com/30956773
+0.2675986626061341
+ | 2 to 4 | 25% | $62.50 | $125 | 
+ | 5 to 6 | 50% | $125 | $250 | 
+ | 7 to 9 | 75% | $187.50 | $375 | 
+ | 10 or more | 100% | $250 | $500 | 
+
+
+general provisions
+https://ecode360.com/30953950
+0.26431756948235074
+and all such ordinances and regulations are hereby recognized
+as continuing in full force and effect to the same extent as if set
+out at length herein. | 
+
+
+dl      disposition list
+https://ecode360.com/30957018
+0.24074666422928623
+ |  |  |  | 
+2629 | 3-18-2014 | Withdrawal from Windham Region Council of Governments (WINCOG);
+joining Southeast Connecticut Council of Goverments (SCCOG) | NCM | 
+2649 | 10-7-2014 | Housing Code | Ch. 6, Art. II | 
+Referendum | 11-4-2014 | Charter amendments | Charter | 
+
+
+animals
+https://ecode360.com/30954425
+0.2009770460259274
+Windham Animal Control will advertise adoptable pets on any
+available media resource. Each animal that comes into our care, whose
+owner is unknown, is advertised, by law, in the local newspaper, for
+one day, in the lost and found section; and after the seventh day
+has passed and no owner has come forward to claim the pet, animal
+control will determine if the animal would be suitable for adoption.
+Animal control, in cooperation with pet non-profit groups, has an
+obligation to find the best possible home for the pet, provided that
+the pet is suitable for adoption. This obligation to the pet is in
+conjunction with what is best for the community. New owners are screened
+by animal control or designee to make sure proper care of the animal
+will take place. This may be done in cooperation with local pet groups.
+Making sure that both the new owner and pet are right for each other
+is our utmost goal. | 
+
+
+division        performance standards
+https://ecode360.com/30954734
+0.19513406117267615
+Subdivision II
+Minimum Standards | 
+
+
+i      in general
+https://ecode360.com/30956502
+0.17067456399531378
+ | First | 100% | 
+ | Second | 100% | 
+ | Third | 50% | 
+ | Fourth | 40% | 
+ | Fifth | 30% | 
+ | Sixth | 20% | 
+ | Seventh | 10% | 
+
+
+animals
+https://ecode360.com/30954425
+0.16607132929473548
+Animal control is committed to finding each animal in our care
+permanent and loving homes for each animal that passes a temperament
+test. | 
+
+
+division        performance standards
+https://ecode360.com/30954734
+0.16547260781907866
+Subdivision III
+Rooming Houses, Boardinghouses, Motels and Multiple Dwellings | 
+
+
+vi      police department
+https://ecode360.com/30956937
+0.11867347232282974
+After 14 days penalty doubles. | 
+
+
+chct      charter comparative table
+https://ecode360.com/30957011
+0.05066441090106624
+12-15-1982 | I-1 — XV-1 | I-1 — XV-1 | 
+11-3-1992 |  | I-1 — XIII-11 | 
+ |  | Appendix | 
+4-16-1996 |  | IV-3(note) | 
+11-6-2007 |  | I-1 — XIII-11 | 
+
+
+v      management  use and care of bins at dwellings
+https://ecode360.com/30956719
+0.024642087019554948
+ | 1 | 1 | 1 | 
+ | 2 | 2 | 2 | 
+ | 3 | 3 | 2 | 
+ | 4 | 3 | 3 | 
+ | 5 | 3 | 3 | 
+
+
+cct      code comparative table
+https://ecode360.com/31001821
+0.010759951452456673
+2304(Ord.) | 12-12-2006 | I — VI | Added | 9-21 — 9-26 | 
+2326(Res.) | 6-5-2007(2) | 4-30-1 — 4-30-7 | Added | 10-91 — 10-97 | 
+2327(Res.) | 6-5-2007(1) |  | Added | 3-10 — 3-20 | 
+2368(Ord.) | 5-20-2008 |  | Added | Ch. 12, Art. II, 12-51 | 
+2369(Ord.) | 5-20-2008 |  | Added | 12-52 | 
+2379(Ord.) | 7-15-2008 |  | Added | 6-158 — 6-164 | 
+2387(Res.) | 9-2-2008 |  | Rpld | 3-1 — 3-3, 3-10 — 3-21 | 
+ |  |  | Added | 3-1 — 3-3, 3-13 — 3-15 | 
+2405(Ord.) | 12-2-2008 |  |  | 2-61 | 
+2427(Ord.) | 5-12-2009 |  | Added | Ch. 13, Art. IX | 
+2428(Ord.) | 5-12-2009 |  | Added | 13-146 | 
+2438(Ord.) | 7-7-2009 |  | Added | 2-87 | 
+2451(Ord.) | 9-1-2009 | 1 — 9 | Added | Ch. 8, Art. V | 
+2452(Ord.) | 9-1-2009 |  | Added | 2-27 | 
+2460(Ord.) | 10-20-2009 | A — G | Rpld | Ch. 2, Art. V | 
+ |  |  | Added | Ch. 2, Art. V | 
+2461(Ord.) | 10-20-2009 |  |  | Ch. 10, Art. III | 
+2462(Ord.) | 10-20-2009 |  | Added | Ch. 10, Art. VIII | 
+2487(Ord.) | 3-16-2010 | 2 — 10 | Added | 9-41 — 9-49 | 
+2488(Ord.) | 3-16-2010 |  | Added | 2-74 — 2-78 | 
+2518(Ord.) | 10-19-2010 | 1 | Added | 2-122 — 2-129 | 
+2524 | 1-4-2011 |  |  | 6-21 — 6-30 | 
+ |  |  |  | 6-51 — 6-54 | 
+ |  |  |  | 6-71 — 7-85 | 
+ |  |  |  | 6-101 — 6-114 | 
+2525 | 1-4-2011 |  |  | 4-41 — 4-48 | 
+2537 | 5-17-2011 |  |  | 2-87 | 
+2543 | 8-16-2011 |  |  | 10-81 — 10-83 | 
+2545 | 8-16-2011 |  |  | 11-1 — 11-3 | 
+ |  |  |  | 11-26 — 11-33 | 
+ |  |  |  | 11-46, 11-47 | 
+ |  |  |  | 11-51 — 11-61 | 
+ |  |  |  | 11-71 — 11-74 | 
+ |  |  |  | 11-81 | 
+2546 | 9-6-2011 |  |  | 13-161 | 
+2578 | 9-4-2012 | 1 | Added | 2-28 | 
+ |  | 2 | Added | 2-79.1 — 2-79.3 | 
+
+
+cct      code comparative table
+https://ecode360.com/31001821
+-0.004676011842967037
+5-7-1894 |  |  | 13-168 | 
+10-12-1894 |  |  | 13-163 | 
+2-14-1900 |  |  | 13-162 | 
+2-10-1931 | 2 |  | 13-61 | 
+ | 3, 4 |  | 13-63, 13-64 | 
+ | 6, 7 |  | 13-65, 13-66 | 
+8-10-1931 | 2 |  | 13-167 | 
+2-9-1936 | 1 |  | 13-63 | 
+12-9-1940 |  |  | 13-62 | 
+1-14-1952 |  |  | 13-165 | 
+8-14-1961 |  |  | 13-164 | 
+9-22-1964 | 1 — 13 |  | 13-81 — 13-93 | 
+5-10-1971 |  |  | 13-161 | 
+9-27-1971 |  |  | 13-145 | 
+11-8-1971 |  |  | 13-145 | 
+4-10-1972 |  |  | 13-24 | 
+6-12-1972 |  |  | 13-51 | 
+12-11-1978 | 11-1 — 11-10 |  | 13-101 — 13-110 | 
+10-2-1979 | 11-1 — 11-10 |  | 13-121 — 13-130 | 
+11-27-1979 | 13-21 — 13-23 |  |  | 
+ |  |  | 13-25 — 13-32 | 
+ |  |  | 13-63 | 
+ |  |  | 13-141 — 13-144 | 
+ |  |  | 13-162, 13-163 | 
+ |  |  | 13-165 | 
+3-8-1983 |  |  | 13-161 | 
+
+
+cct      code comparative table
+https://ecode360.com/31001821
+-1.646738900110511
+7-7-1962(4) | 1, 2 |  | 7-141, 7-142 | 
+ | 3 |  | 7-161 | 
+ | 4, 5 |  | 7-163, 7-164 | 
+ | 6 — 9 |  | 7-165 — 7-168 | 
+ | 10 |  | 7-162 | 
+ | 11 |  | 7-165 | 
+ | 12 |  | 7-143 | 
+5-20-1964 | 1 — 3 |  | 10-61 — 10-63 | 
+8-16-1967 |  |  | 2-22 | 
+1-15-1979 |  |  | 2-23 | 
+6-15-1979 |  |  | 4-2 | 
+ | 1 |  | 10-41 | 
+ | 1 — 3 |  | 10-42 | 
+ | 4 — 10 |  | 10-43 — 10-49 | 
+5-1-1980 | 1 |  | 7-31 | 
+ | 2 — 9 |  | 7-51 — 7-58 | 
+ | 10 — 15 |  | 7-32 — 7-37 | 
+4-14-1982 | 1 — 6 |  | 11-26 — 11-31 | 
+7-23-1984 |  |  | 3-1 | 
+12-31-1984(1) |  |  | 2-82 | 
+12-31-1984(2) |  |  | 2-91 | 
+12-31-1984(3) |  |  | 2-92 | 
+1-8-1985 |  |  | 10-21 — 10-24 | 
+3-29-1985 | 1.1 |  | 6-21 | 
+ | 2 |  | 6-23 | 
+ | 3.1 |  | 6-24 | 
+ | 3.2 — 3.7 |  | 6-25 | 
+ | 4 — 7 |  | 6-51 — 6-54 | 
+ | 8 |  | 6-26 | 
+ | 10 |  | 6-27 | 
+ | 11 |  | 6-30 | 
+ | 12.1 |  | 6-22 | 
+ | 13.3 |  | 6-28 | 
+ | 14 |  | 6-29 | 
+11-12-1985(1) |  |  | 2-21 | 
+11-12-1985(2) |  |  | 2-21 | 
+4-8-1986 |  |  | 10-3 | 
+11-1-1986 |  |  | 2-81 | 
+2-17-1987 |  |  | 5-21 — 5-28 | 
+4-21-1987 |  |  | 3-2 | 
+7-7-1987 |  |  | 9-1 | 
+9-1-1987 |  |  | 2-21 | 
+10-9-1987 | 1 — 6 |  | 7-71 — 7-76 | 
+ | 11, 12 |  | 7-91, 7-92 | 
+ | 14 — 17 |  | 7-93 — 7-96 | 
+ | 21 — 27 |  | 7-111 — 7-117 | 
+ | 31 — 34 |  | 7-77 — 7-80 | 
+10-20-1987 |  |  | 2-21 | 
+ |  |  | 10-4 | 
+11-17-1987 | 1 — 7 |  | 6-151 — 6-157 | 
+3-1-1988 |  |  | 12-1 | 
+6-28-1988(1) |  |  | 11-3 | 
+6-28-1988(2) |  |  | 11-4 | 
+6-28-1988(3) |  |  | 11-2 | 
+9-20-1988 |  |  | 7-1 | 
+2-7-1989 | 1 |  | 4-1 | 
+ | 6 |  | 10-3 | 
+2-22-1989 |  |  | 7-53 | 
+5-2-1989 | 1 — 11 |  | 2-111 — 2-121 | 
+5-10-1989 | 1 |  | 4-21 | 
+ |  |  | 8-21 | 
+ |  |  | 8-41 | 
+ | 2 |  | 4-22 | 
+ |  |  | 8-22 | 
+ |  |  | 8-42 | 
+ | 3 |  | 4-23 | 
+ |  |  | 8-23 | 
+ |  |  | 8-42 | 
+ | 4 |  | 4-24 | 
+ |  |  | 8-24 | 
+ |  |  | 8-43 | 
+ | 5 |  | 8-42 | 
+ | 5, 6 |  | 4-25, 4-26 | 
+ | 6 |  | 8-44 | 
+11-17-1989 | 1 — 6 |  | 11-1 | 
+ | 9.0, 9.1 |  | 6-71 | 
+ | 9.2 |  | 6-72 | 
+ | 9.3 — 9.10 |  | 6-74 — 6-81 | 
+ | 9.11 |  | 6-71 | 
+ | 9.12 |  | 6-82 | 
+ | 9.13, 9.14 |  | 6-83 | 
+ | 9.15, 9.16 |  | 6-84 | 
+ | 9.17 |  | 6-73 | 
+ | 9.18 |  | 6-85 | 
+ | 16.1 — 16.13 |  | 6-102 — 6-114 | 
+ | 16.14 |  | 6-101 | 
+5-31-1990 |  |  | 5-1 | 
+7-17-1990(1) |  |  | 10-1 | 
+7-17-1990(2) |  |  | 10-2 | 
+9-17-1990(1) | 1 |  | 10-3 | 
+9-17-1990(2) |  |  | 2-51 | 
+10-30-1990 |  |  | 11-2 | 
+12-15-1990(1) |  |  | 11-5 | 
+12-15-1990(2) |  |  | 8-11 | 
+3-5-1991 | 1 — 5 |  | 12-2 | 
+6-18-1991(1) |  |  | 12-3 | 
+6-18-1991(2) | 1 — 7 |  | Adopting Ordinance, p. vii | 
+4-21-1992(1) |  |  | 2-1 | 
+4-21-1992(2) |  |  | 2-61 — 2-64 | 
+4-21-1992(3) |  |  | Rpld 11-1 | 
+5-19-1992 |  |  | 11-6 | 
+6-16-1992 |  |  | 2-25 | 
+8-18-1992 |  |  | 10-81 — 10-83 | 
+12-1-1992(1) |  |  | Rpld 11-4 | 
+12-1-1992(2) |  |  | Rpld 11-3 | 
+12-1-1992(3) |  |  | Rpld 2-21 | 
+12-1-1992(4) |  |  | Ch. 13, Art. III(note) | 
+12-15-1992 |  |  | 2-24 | 
+1-5-1993(1) |  |  | 2-83 | 
+1-5-1993(2) |  |  | 5-1(15) | 
+1-5-1993(3) |  |  | 4-2 | 
+1-5-1993(4) |  |  | 6-73 | 
+1-5-1993(5) |  |  | 7-53 | 
+1-5-1993(6) |  |  | 7-93 | 
+1-5-1993(7) |  |  | 13-82 — 13-93 | 
+1-5-1993(8) |  |  | 13-163 | 
+8-17-1993 |  |  | 2-24(a)(1)t., u. | 
+10-19-1993 |  |  | 11-27(a) | 
+ |  |  | 11-28(a), (c), (e) — (i) | 
+ |  |  | 11-29(c)(2), (3), (d)(4) — (6) | 
+ |  |  | 11-31(a), (b) | 
+6-21-1994(1) |  |  | 2-26 | 
+6-21-1994(2) | 1 |  | 5.5-51 | 
+ | 2 |  | 5.5-53 | 
+ | 3 — 5 |  | 5.5-55 — 5.5-57 | 
+ | 6 |  | 5.5-54 | 
+ | 7 |  | 5.5-58 | 
+ | 8 |  | 5.5-52 | 
+ | 9 |  | 5.5-59 | 
+12-20-1994(1) |  |  | 7-31 | 
+ |  | Rpld | 7-32 | 
+ |  |  | 7-33 — 7-37 | 
+ |  |  | 7-51 — 7-58 | 
+12-20-1994(2) |  |  | 13-165 | 
+3-21-1995(1) |  | Rpld | 13-81 — 13-93 | 
+ |  |  | 13-101 — 13-111 | 
+ |  |  | 13-121 — 13-131 | 
+3-21-1995(2) |  | Added | 13-81 — 13-84 | 
+ |  |  | 13-91 — 13-94 | 
+6-20-1995 |  |  | 13-169 | 
+8-15-1995(1) |  | Rpld | 13-51 | 
+8-15-1995(2) |  |  | 13-51 | 
+1-23-1996 | 1 — 3 |  | 9-2 | 
+9-3-1996 |  |  | Ch. 2(note) | 
+6-2-1997 |  | Rpld | 8-41 — 8-44 | 
+ |  | Added | 8-41 — 8-48 | 
+6-3-1997 |  |  | 2-120(a) | 
+7-15-1997 |  |  | 2-84 | 
+10-7-1997 |  | Added | 3-3 | 
+6-16-1998(1) |  |  | 2-85 | 
+6-16-1998(2) |  |  | 4-3 | 
+12-1-1998 |  |  | 9-3 | 
+7-20-1999 |  | Added | 2-86 | 
+3-21-2000 | 1, 2 | Added | 2-71 | 
+5-16-2000 |  |  | 4-1 | 
+3-5-2002 | I — VII | Added | 12-4 | 
+10-15-2002 |  | Rpld | 11-6(c)(7) | 
+6-3-2003 | X-1 — X-8 |  | 4-41 — 4-48 | 
+10-21-2003 |  |  | 10-81, 10-82 | 
+ |  | Dltd | 10-83 | 
+ |  |  | Art. V, title | 
+ |  | Added | 10-85, 10-86 | 
+4-27-2004 |  |  | 13-22, 13-23 | 
+11-8-2006 |  | Added | 8-50 | 
+12-12-2006 | I — VI | Added | 13-86 — 13-90 | 
+
+

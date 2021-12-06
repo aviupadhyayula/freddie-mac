@@ -1,0 +1,507 @@
+xiii      industrial wastewater
+https://ecode360.com/9893536
+0.5222196113406333
+ | BOD | Biochemical oxygen demand (five-day carbonaceous) | 
+ | CFR | Code of Federal Regulations | 
+ | COD | Chemical oxygen demand | 
+ | EPA | United States Environmental Protection Agency | 
+ | FAC | Florida Administrative Code | 
+ | gpd | Gallons per day | 
+ | mg/l | Milligrams per liter | 
+ | NPDES | National Pollutant Discharge Elimination System | 
+ | POTW | Publicly owned treatment works | 
+ | RCRA | Resource Conservation and Recovery Act | 
+ | SIC | Standard Industrial Classification | 
+ | SIU | Significant industrial user | 
+ | TSS | Total suspended solids | 
+ | U.S.C. | United States Code | 
+
+
+iii      planning and zoning fees
+https://ecode360.com/9892897
+0.493252933170809
+NOTE: | 
+*These are minimum costs. Additional costs based
+upon hourly rates established by the Council each six months for staff
+review/labor will be collected as necessary. The cost of newspaper
+notice and notice to surrounding property owners will be assessed.
+All additional costs must be paid prior to final approval. | 
+
+
+water
+https://ecode360.com/9893546
+0.465540633181955
+AG | Air gap | 
+ANSI | American National Standards Institute | 
+ASSE | American Society of Sanitary Engineers | 
+AVB | Atmospheric vacuum breaker | 
+AWWA | American Water Works Association | 
+BFP | Backflow preventer or backflow prevention | 
+CCC | Cross-connection control | 
+DCVA | Double check valve assembly | 
+DDCVA | Double detector check valve assembly | 
+FAC | Florida Administrative Code | 
+FDEP | Florida Department of Environmental Protection | 
+HBVB | Hose bib vacuum breaker | 
+Psi | Pounds per square inch | 
+PVB | Pressure vacuum breaker | 
+RDC | Residential dual check | 
+RPZ | Reduced pressure zone backflow assembly | 
+TREEO | Training, Research and Education for Environmental Occupations | 
+USC/FCCHR | University of Southern California/Foundation for Cross-Connection
+Control and Hydraulic Research | 
+
+
+town council
+https://ecode360.com/9892455
+0.4629145932269834
+ | ATTEST: | TOWN OF ZOLFO SPRINGS, FLORIDA | 
+ | By: | By: | 
+ | Town Clerk | Council Chairperson | 
+ | APPROVED AS TO FORM: | MAYOR'S APPROVAL: | 
+ |  | THIS ORDINANCE APPROVED BY ME ON THIS _________
+DAY OF ___________, _____. | 
+ | Town Attorney |  | 
+ |  |  | 
+ |  | Mayor | 
+
+
+iii      code enforcement through citations
+https://ecode360.com/14543915
+0.43829534109399093
+ | Violations of the Land Development Code ("LDC"), except as specifically
+stated herein | Various | I | 
+ | 3.07.05 of LDC | Failure to maintain buffers | II | 
+ | Chapter 102 | Animal control | As provided in Code | 
+ | Chapter 120 | Unsafe building or structure | IV | 
+ | Chapter 125 | Open burning | II | 
+ | Chapter 197 | Noise (except alarms-fines in Code) | I | 
+ | Section 205-8 | Business licenses | II | 
+ | Sections 218-4E, G, K | Nuisances | I | 
+ | Section 218-4F, H, I | Nuisances | II | 
+ | Section 218-4B, C, D, J | Nuisances | IV | 
+ | Section 218-5B(1) | Property maintenance | I | 
+ | Section 218-5B(2) | Property maintenance | II | 
+ | Section 218-5B(3) | Property maintenance | IV | 
+ | Chapter 229 | Solid waste | I | 
+ | Chapter 234 | Special events | I | 
+ | Chapter 257 | Utilities | I | 
+ | Chapter 263 | Abandoned vehicles | IV | 
+ | Chapter 275 | Utilities | I | 
+ | Chapter 282 | Water protection | I | 
+ | Chapter 288 | Water shortage | IV | 
+ | All Code or ordinance provisions not provided for herein | I |  | 
+
+
+buildings  unsafe
+https://ecode360.com/9892687
+0.3945470990424519
+ |  | CHAPTER 4 | 
+ |  | ENFORCEMENT | 
+ | 4.1. | The provisions of this code shall be enforced pursuant to Town code
+enforcement ordinances, F.S. Ch. 162, or any other lawful alternatives, including,
+without limitation, declaratory relief and temporary and permanent mandatory
+and prohibitory injunctions through action in a court of competent jurisdiction. | 
+ | 4.2. | The Town shall be entitled to, and shall seek compensation for, any
+costs of repair or demolition, as well as attorney fees and costs, including
+appellate fees and costs, pursuant to the provisions of Chapter 162 and any
+other statutes or applicable law. | 
+ | 4.3. | This chapter is subject to enforcement as a civil infraction pursuant to Chapter 8, Code Enforcement, of the Code of the Town of Zolfo Springs.[1] | 
+ | 4.4. | In addition to administrative and civil penalties provided by law and
+Town code enforcement ordinances,[2] willful violation of this chapter shall be a misdemeanor, punishable
+by imprisonment for up to 60 days. | 
+
+
+water
+https://ecode360.com/9893546
+0.38158208192662735
+Air-conditioning cooling tower | PVB | 
+Medical aspirators | RPZ | 
+Autoclave and sterilizer steam tables | RPZ | 
+Boiler industrial feed lines | RPZ | 
+Medical and industrial condensers | RPZ | 
+Commercial dishwashing machines | AVB | 
+Suction side pump chlorinators | AVB | 
+Degreasing equipment | PVB | 
+Hospital digesters | RPZ | 
+Town water and sewage pump direct connections | RPZ | 
+Hydraulic elevators and industrial processes | RPZ | 
+Dental cuspidors and saliva ejectors | RPZ | 
+Etching tanks | RPZ | 
+Floor drains with trap primers or flush connections | RPZ | 
+Garbage can washers | PVB | 
+Industrial in-plant plumbing systems | RPZ | 
+Hospital laundry machines | RPZ | 
+Industrial plant's protection meter | RPZ | 
+Pesticide, herbicide or exterminating chemical storage | AG or RPZ | 
+Processing tanks | RPZ | 
+Pumps for unsafe materials primed with water | RPZ | 
+Residential and commercial hose bibs | HBVB | 
+Fire-protection sprinkling systems | RPZ | 
+Steam tables | PVB | 
+Dairy and stable water troughs | PVB | 
+Poultry or livestock water troughs where vaccine is added | PVB | 
+
+
+development and planning
+https://ecode360.com/9892739
+0.3660111174675198
+ | Credit = (Cost of Proportionate Share Project)
+x (Total Project Traffic Impact Fee Liability) | 
+
+
+iv      procurements pursuant to state and federal grants
+https://ecode360.com/13952446
+0.3392477133870552
+1 | $25 to $5,000 | Simple procurement | Price checks/simple purchase | 
+2 | $5000.01 to $10,000 | Intermediate procurement | Informal competition, written agreement | 
+3 | $10,000.01 to and over | Formal procurement | Formal competition, bids, proposals or contracts | 
+
+
+xiii      industrial wastewater
+https://ecode360.com/9893536
+0.33726487326108223
+ | When considering the above alternatives, the director shall
+give consideration to the economic impact of each alternative on the
+discharge. If pretreatment or equalization of waste flows is required,
+the design and installation of plants and equipment shall be subject
+to the independent review of the Town's engineers and approval
+of the director and shall meet the requirements of DEP Chapter 62-625,
+as amended from time to time. | 
+
+
+buildings  unsafe
+https://ecode360.com/9892687
+0.3344990279122272
+ | The building official shall prepare and issue a notice of unsafe building
+directed to the owner of record of the building or structure. The notice and
+procedures for effecting notice shall comply with F.S. Ch. 162 as an ordinance
+violation. | 
+
+
+buildings  unsafe
+https://ecode360.com/9892687
+0.31629662396775016
+ | Final interpretation of this code shall be made by the Code Enforcement
+Board (either the Town's or other government's pursuant to interlocal agreement),
+Special Master, or state court of competent jurisdiction, the choice of which
+shall be solely the Town's. | 
+
+
+property maintenance
+https://ecode360.com/9893189
+0.3149001653090505
+ | This property, to wit: __________ (setting forth
+brief description) is unlawfully upon public or private property known
+as __________ (setting forth brief description of location) and must
+be removed within 10 days from the date of this notice, otherwise
+it shall be presumed to be an abandoned vehicle and may be removed
+and disposed of at the owner's expense by an order of the Town of
+Zolfo Springs. Dated this _____, day of _____, 20____. | 
+
+
+water
+https://ecode360.com/9893546
+0.29794319014390425
+Backflow preventors as specified by the Town shall be provided
+with the following types of plumbing devices: | 
+
+
+xiii      industrial wastewater
+https://ecode360.com/9893536
+0.29424672465725155
+ | "I certify under penalty of law that this document and all attachments
+were prepared under my direction or supervision in accordance with
+a system designed to assure that qualified personnel properly gather
+and evaluate the information submitted. Based on my inquiry of the
+person or persons who manage the system, or those persons directly
+responsible for gathering the information, the information submitted
+is, to the best of my knowledge and belief, true, accurate, and complete.
+I am aware that there are significant penalties for submitting false
+information, including the possibility of fine and imprisonment for
+knowing violations." | 
+
+
+dl      disposition list
+https://ecode360.com/9893645
+0.28988059355379364
+Ord. No. 2019-03 | 9-23-2019 | Water: Cross Connection Control and Backflow Prevention | Ch. 282, Art. I | 10 | 
+Ord. No. 2019-04 | 12-16-2019 | Comprehensive Plan Amendment | NCM | 10 | 
+Ord. No. 2019-05 | 11-26-2019 | Annexation | NCM | 10 | 
+Ord. No. 2019-06 | 11-26-2019 | Future Land Use Map Amendment | NCM | 10 | 
+Ord. No. 2019-07 | 11-26-2019 | Zoning Map Amendment | NCM | 10 | 
+Ord. No. 2019-09 | 11-26-2019 | Land Development Code Amendment | See Ch. 300 | 10 | 
+Ord. No. 2020-01 | 3-24-2020 | Vehicles, Abandoned Amendment | Ch. 263 | 10 | 
+Ord. No. 2020-02 | 3-24-2020 | Land Development Code Amendment | See Ch. 300 | 10 | 
+Res. No. 2019-02 | 4-23-2019 | Commercial and Residential Water Rates | See Ch. 275 | 10 | 
+
+
+water
+https://ecode360.com/9893546
+0.2853667294373037
+Automotive maintenance facilities | RPZ | 
+Auxiliary water systems | RPZ | 
+Beauty salons, hair salons, etc. | RPZ | 
+Bottling plants | RPZ | 
+Buildings with house pumps and/or water storage tanks | RPZ | 
+Canneries, packing houses, or reduction plants | RPZ | 
+Car washes | RPZ | 
+Centralized heating and air-conditioning plants | RPZ | 
+Chemical plants | RPZ | 
+Chemically treated potable water systems | RPZ | 
+Commercial laundries | RPZ | 
+Dairy and cold storage plants | RPZ | 
+Dentist or doctor office | RPZ | 
+Dye works | RPZ | 
+Film-processing laboratories | RPZ | 
+Fire systems with pumps and/or storage tanks | RPZ | 
+Fire systems with auxiliary supplies | RPZ | 
+Food-processing plants | RPZ | 
+Schools and colleges | RPZ | 
+Hospitals, mortuaries, and medical and dental buildings | RPZ | 
+Convalescent homes and sanitariums | RPZ | 
+Irrigation systems | RPZ | 
+Laboratories using toxic materials | RPZ | 
+Manufacturing, processing, and fabricating plants | RPZ | 
+Mobile home parks | RPZ | 
+Nail salons | RPZ | 
+Nursing homes | RPZ | 
+Oil and gas production facilities | RPZ | 
+Plating plants | RPZ | 
+Reclaimed or recycled water use | RPZ | 
+Restaurants | RPZ | 
+Restricted, classified or other restricted and/or closed facilities | RPZ | 
+Steel goods fabricating or welding plant | RPZ | 
+Where cross-connections are maintained | RPZ | 
+Apartment with fire hydrant, blow-off, pool or irrigation system | RPZ | 
+
+
+iii      code enforcement through citations
+https://ecode360.com/14543915
+0.2678835025796932
+ | Class I | $50 | $100 | Court hearing mandatory | 
+ | Class II | $125 | $250 | Court hearing mandatory | 
+ | Class III | $150 | $300 | Court hearing mandatory | 
+ | Class IV | $200 | $400 | Court hearing mandatory | 
+
+
+alarm systems
+https://ecode360.com/9892528
+0.25718693604934406
+ | *In lieu of payment of the fine, and on a one-time basis only, the alarm
+user can show an invoice or other document evidencing repair work performed
+by a qualified alarm technician within five days of the third false alarm
+resolving the condition causing the false alarms. However, if a fourth false
+alarm occurs within the six-month period, the fine for that false alarm shall
+be $75. | 
+
+
+iv      utility fees
+https://ecode360.com/13952534
+0.24212222554419838
+Item/Service | Fee | 
+Irrigation Meters Installed | $350 | 
+Deposits | $125 | 
+Reconnect fees | $45 | 
+Late fee | $10 | 
+Returned check fees | $25 | 
+
+
+alarm systems
+https://ecode360.com/9892528
+0.17783977529836295
+ | $25 | $100 | $100 per day | 
+
+
+alarm systems
+https://ecode360.com/9892528
+0.17783977529836295
+ | $25 | $150 | $150 per day | 
+
+
+alarm systems
+https://ecode360.com/9892528
+0.17783977529836295
+ | $25 | $50 | $100 per day | 
+
+
+development and planning
+https://ecode360.com/9892739
+0.038966739986056265
+ |  | 
+
+
+iv      procurements pursuant to state and federal grants
+https://ecode360.com/13952446
+0.00247303523522438
+ | 1-800-872-3362 | 
+
+
+iv      procurements pursuant to state and federal grants
+https://ecode360.com/13952446
+0.00247303523522438
+ | 1-800-342-8170 | 
+
+
+alcoholic beverages
+https://ecode360.com/9892553
+-0.003185699267139741
+ | The consumption of alcohol
+may be hazardous
+during your pregnancy
+(especially during the first 13 weeks)
+---------------------------------------------------------------------------
+AVISO
+PARA LAS MUJERES EMBARAZADAS
+El consumo de alcohol
+puede ser peligroso
+durante su embarazo
+(especialmente durante las primeras 13 semanas) | 
+
+
+alarm systems
+https://ecode360.com/9892528
+-0.03505542425407013
+ | $0 | $0 | $0 | $50* | $250 | $500 | 
+
+
+xiii      industrial wastewater
+https://ecode360.com/9893536
+-0.051192817305678845
+ | CBOD | 250 | 
+ | TSS | 250 | 
+ | TKN | 30 | 
+ | TP | 15 | 
+ | Ammonia | 50 | 
+
+
+dl      disposition list
+https://ecode360.com/9893645
+-1.0274335309150415
+Res. No. 2005-11 | 1-9-2005 | Personnel policies | See Ch. 43 | 
+Ord. No. 2005-05 | 6-13-2005 | Dangerous dogs | Ch. 102, Art. III | 
+Ord. No. 2005-06 |  |  | Number not used | 
+Ord. No. 2005-07 |  |  | Number not used | 
+Res. No. 2005-07 | 12-6-2005 | Planning and zoning fees | Ch. 159, Art. III | 
+Ord. No. 2005-08 |  |  | Missing | 
+Ord. No. 2005-09 |  |  | Number not used | 
+Ord. No. 2005-10 |  | Purchasing amendment | Ch. 54 | 
+Ord. No. 2005-11 |  |  | Number not used | 
+Ord. No. 2005-12 |  | Adopting Town Administrator position | Denied | 
+Ord. No. 2006-01 | 5-8-2006 | Approving form of Charter amendment for ballot | NCM | 
+Election | 6-27-2006 | Charter | Charter | 
+Ord. No. 2006-02 |  | Extension of utility service area | Denied | 
+Ord. No. 2006-03 |  | Modify time for Town meeting | Denied | 
+Ord. No. 2006-04 | 7-10-2006 | Property maintenance: unsightly, dangerous and
+detrimental conditions | Ch. 218, Art. II | 
+Ord. No. 2006-05 | 7-10-2006 | Property annexation | NCM | 
+Ord. No. 2006-06 | 8-14-2006 | Extension of utility service area | NCM | 
+Ord. No. 2006-07 | 8-14-2006 | Property annexation | NCM | 
+Ord. No. 2006-08 | 8-14-2006 | Solid waste collection franchises | Ch. 229, Art. III | 
+Ord. No. 2006-09 | 9-18-2006 | Compensation for Town Commissioners and Mayor | Superseded by Ord. No. 2012-01 | 
+Ord. No. 2006-10 | 11-20-2006 | Town Council amendment | Ch. 75 | 
+Ord. No. 2006-11 | 11-20-2006 | Salary of Town Clerk and Chief of Police amendment | Ch. 35, Art. II | 
+Ord. No. 2006-12 |  | Future Land Use Map amendment | Denied | 
+Ord. No. 2006-13 |  | Zoning Map amendment | Denied | 
+Ord. No. 2006-14 | 3-19-2006 | Future Land Use Map amendment | NCM | 
+Ord. No. 2006-15 | 3-19-2006 | Zoning Map amendment | NCM | 
+Ord. No. 2006-16 | 11-20-2006 | Development and planning: Transportation Fair-Share
+Program | Ch. 141, Art. I | 
+Ord. No. 2006-17 | 3-19-2007 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2006-18 |  | Additional homestead exemption for seniors | Denied | 
+Ord. No. 2006-19 | 1-22-2007 | Adoption of Code | Ch. 1, Art. I | 
+Ord. No. 2006-20 | 1-22-2007 | Contracts: indemnification of third parties | Ch. 11, Art. I | 
+Ord. No. 2007-01 |  | Solid waste amendment | Denied | 
+Ord. No. 2007-02 | 4-16-2007 | Future Land Use Map amendment | NCM | 
+Ord. No. 2007-03 | 4-16-2007 | Zoning Map amendment | NCM | 
+Res. No. 2007-05 | 5-21-2007 | Utility fees | Ch. 159, Art. IV | 
+Ord. No. 2007-04 |  |  | Number not assigned | 
+Ord. No. 2007-05 |  |  | Number not assigned | 
+Ord. No. 2007-06 |  |  | Denied | 
+Res. No. 2007-06 | 6-7-2007 | Adoption of Safety Manual | Ch. 68, Reference Page | 
+Ord. No. 2007-07 | 6-18-2007 | Qualifications and compensation for Town Manager | Ch. 35, Art. II | 
+Ord. No. 2007-08 | 7-27-2007 | Unsightly, dangerous and detrimental conditions
+amendment | Ch. 218, Art. II | 
+Ord. No. 2007-09 |  |  | Denied | 
+Ord. No. 2007-10 |  |  | Denied | 
+Ord. No. 2007-11 | 11-19-2007 | Garage sales | Ch. 172 | 
+Ord. No. 2007-12 | 12-17-2007 | Garbage disposal and collection amendment | Ch. 229, Art. I | 
+Ord. No. 2007-13 | 2-11-2008 | Water and sewer rates amendment | See § 275-12 | 
+Ord. No. 2007-14 | 4-21-2008 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2007-15 | 1-21-2008 | Water and wastewater utility services amendment | Ch. 275 | 
+Ord. No. 2008-01 | 3-10-2008 | Town Council amendment | Ch. 75 | 
+Ord. No. 2008-02 | 5-19-2008 | Purchasing amendment | Ch. 54 | 
+Res. No. 2008-05 | 5-19-2008 | Section 504 Compliance Policy | See Ch. A308, Art. I | 
+Res. No. 2008-06 | 5-19-2008 | Personnel Manual | Ch. 43, Reference Page | 
+Res. No. 2008-07 | 7-21-2008 | Sex offenders | Ch. 225 | 
+Ord. No. 2008-03 | 8-18-2008 | Water and wastewater utility services amendment | Ch. 275 | 
+Ord. No. 2008-04 | 8-18-2008 | Approving form of Charter amendment for ballot | NCM | 
+Ord. No. 2008-05 | 9-18-2008 | Future Land Use Map amendment | NCM | 
+Ord. No. 2008-06 | 9-18-2008 | Zoning Map amendment | NCM | 
+Election | 10-27-2008 | Charter amendment | Section 2.02 | 
+Ord. No. 2008-07 | 11-17-2008 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2008-08 |  | Water Management Plan | NCM | 
+Ord. No. 2008-09 | 12-8-2008 | Future Land Use Map amendment | NCM | 
+Ord. No. 2008-10 | 12-8-2008 | Zoning Map amendment | NCM | 
+Ord. No. 2008-11 | 12-8-2008 | Alley vacation | NCM | 
+Ord. No. 2009-01 | 7-20-2009 | Water and wastewater utility services amendment | Ch. 275 | 
+Ord. No. 2009-02 | 7-20-2009 | Solid waste collection franchises amendment | Ch. 229, Art. III | 
+Ord. No. 2009-03 | 9-21-2009 | General penalty; code enforcement | Ch. 1, Art. II; Ch. 8 | 
+Ord. No. 2009-04 | 12-21-2009 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2010-01 | 2-15-2010 | Purchasing amendment | Ch. 54 | 
+Ord. No. 2010-02 |  |  | Not adopted | 
+Ord. No. 2010-03 |  |  | Not adopted | 
+Ord. No. 2010-04 | 4-19-2010 | Truck routes | Ch. 269, Art. I | 
+Ord. No. 2010-05 | 4-19-2010 | Traffic and parking in parks | Ch. 212, Art. II | 
+Ord. No. 2010-06 | 4-19-2010 | Water and wastewater utility services amendment | Ch. 275 | 
+Ord. No. 2010-07 | 6-21-2010 | Parking of vehicles | Ch. 269, Art. VI | 
+Ord. No. 2010-08 | 12-20-2010 | Water and wastewater utility services amendment | Ch. 275 | 
+Ord. No. 2010-09 | 12-20-2010 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2011-01 |  |  | Number not used | 
+Ord. No. 2011-02 | 4-18-2011 | Zoning Map amendment | NCM | 
+Ord. No. 2011-03 | 4-18-2011 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2011-04 | 4-18-2011 | Zoning Map amendment | NCM | 
+Ord. No. 2011-05 | 6-20-2011 | Temporary moratorium on pain management clinics | NCM | 
+Ord. No. 2011-06 |  |  | Denied | 
+Ord. No. 2011-07 | 8-15-2011 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2011-08 | 6-20-2011 | Correcting scrivener's error in Ord. No. 2000-08 | NCM | 
+Ord. No. 2011-09 | 7-18-2011 | Water and wastewater utility services amendment | Ch. 275 | 
+Ord. No. 2011-10 | 9-19-2011 | Parks and recreation areas: park use and sporting events amendment | Ch. 212, Art. I | 
+Ord. No. 2011-11 | 1-26-2012 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2012-01 | 5-21-2012 | Compensation of Mayor and Commissioners | Repealed by Ord. No. 2016-03 | 
+Ord. No. 2012-02 |  |  | Not adopted | 
+Ord. No. 2012-03 | 7-16-2012 | Land Development Code amendment | See Ch. 300 | 
+Ord. No. 2012-04 | 7-16-2012 | Grant of conditional use permit | NCM | 
+Ord. No. 2012-05 | 7-16-2012 | Land Development Code amendment | See Ch. 300 | 
+Ord. No. 2012-06 |  |  | Number not used | 
+Ord. No. 2013-01 | 2-18-2013 | Town Council amendment | Ch. 75 | 
+Ord. No. 2013-02 | 5-20-2013 | Flood damage prevention; Land Development Code amendment | Ch. 166; see Ch. 300 | 
+Ord. No. 2013-03 | 8-19-2013 | Purchasing amendment | Ch. 54 | 
+Ord. No. 2013-04 | 8-19-2013 | Flood damage prevention amendment | Ch. 166 | 
+Ord. No. 2013-05 | 3-17-2014 | Natural gas franchise | See Ch. A306A | 
+Ord. No. 2013-06 | 9-23-2013 | Future Land Use Map amendment | NCM | 
+Ord. No. 2014-01 | 5-19-2014 | Comprehensive Plan amendment | NCM | 
+Ord. No. 2014-02 | 8-18-2014 | Streets and sidewalks: rights-of-way | Ch. 240, Art. II | 
+Ord. No. 2015-01 | 12-21-2015 | Approval of conditional use permit | NCM | 
+Ord. No. 2016-01 | 7-18-2016 | Medical cannabis dispensing facilities; Land Development Code
+amendment | Ch. 97; see Ch. 300 | 
+Ord. No. 2016-02 | 11-28-2016 | Taxation: senior homestead exemption | Ch. 250, Art. I | 
+Ord. No. 2016-03 | 12-19-2016 | Compensation of Commissioners and Mayor | Ch. 35, Art. III | 
+Ord. No. 2017-01 | 2-20-2017 | Medical Marijuana Moratorium | NCM | 
+Ord. No. 2017-02 | 4-4-2017 | Comprehensive Plan Amendment | NCM | 
+Ord. No. 2017-03 | 5-1-2017 | Charter Amendment | Section 2.02; Section 6.01 | 
+Ord. No. 2017-04 | 8-21-2017 | Streets and Sidewalks: Communications Facilities in Public Rights-of-Way | Ch. 240, Art. III | 
+Ord. No. 2017-05 | 9-18-2017 | Land Development Code Amendment | NCM | 
+Ord. No. 2017-06 | 11-20-2017 | Town Council Amendment | Ch. 75 | 
+Ord. No. 2017-07 | 12-18-2017 | Land Development Code Amendment | NCM | 
+Ord. No. 2017-08 | 1-23-2018 | Town Council Amendment | Ch. 75 | 
+Ord. No. 2018-01 | 4-24-2018 | Streets and Sidewalks: Street Vacation Procedure Amendment | Ch. 240, Art. I | 
+Ord. No. 2018-02 | 4-4-2018 | Street Vacation | NCM | 
+Res. No. 2018-03 | 6-26-2018 | Civic Center Fees | See Ch. 159, Art. I | 
+Res. No. 2018-13 | 10-23-2018 | Policies: Protection of Individuals Engaging in Nonviolent Civil
+Rights Demonstrations Policy | See Ch. A308, Art. II | 
+Res. No. 2018-16 | 12-18-2018 | Policies: CDBG Citizen Complaint Policy | See Ch. A308, Art. III | 
+Ord. No. 2019-01 | 3-26-2019 | Street Vacation | NCM | 
+Ord. No. 2019-02 | 3-26-2019 | Animals: Dangerous Dogs Amendment | Ch. 102, Art. III | 
+
+

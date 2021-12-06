@@ -1,0 +1,55 @@
+iv      relief for elderly and or totally disabled homeowners
+https://ecode360.com/10520216
+0.29644267028269716
+ | Group I | From $0 up to the maximum income allowed for
+married taxpayer to qualify for relief under state program | $1,400 | 
+ | Group II | Income in excess of Group I limit, with maximum
+income level of 1.7 times the maximum income allowed for eligibility
+in Group I | $1,120 | 
+
+
+dl      disposition list
+https://ecode360.com/13322935
+0.2306949633881275
+6-11-2008 | Economic Development Commission amendment | Ch. 75, Art. VII | 
+8-13-2008 | Moderator amendment | Ch. 86, Art. I | 
+11-12-2008 | Outdoor wood-burning or wood-fired furnaces or boilers | Ch. 237, Art. IV | 
+12-2-2008 | Scenic roads | Ch. 375, Art. II | 
+3-3-2009 | Land use fees amendment | Ch. 225, Art. I | 
+5-14-2009 | Other post-employment benefits trust agreement | Ch. 91, Art. I | 
+10-14-2009 | Adoption of Code | Ch. 1, Art. II | 
+3-22-2010 | Tax exemption for ambulance-type vehicles | Ch. 382, Art. VIII | 
+3-22-2010 | Blighted premises amendment | Ch. 175 | 
+3-22-2010 | Solid waste regulations amendment | Ch. 485 | 
+3-22-2010 | Snow removal | Ch. 375, Art. III | 
+3-3-2011 | Purchasing amendment | Ch. 98 | 
+7-14-2011 | Vehicles and traffic amendment | Ch. 397 | 
+12-14-2011 | Municipal agencies amendment | Ch. 75 | 
+10-10-2012 | Noise amendment | Ch. 315 | 
+12-12-2012 | Municipal agencies amendment | Ch. 75 | 
+3-6-2013 | Tax relief for elderly and/or totally disabled homeowners amendment | Ch. 382, Art. IV | 
+3-6-2013 | Country Club Enterprise Fund | Ch. 42, Art. I | 
+3-12-2014 | Taxation: relief for elderly and/or totally disabled homeowners
+amendment | Ch. 382, Art. IV | 
+7-13-2016 | Vehicles and traffic amendment | Ch. 397 | 
+9-14-2016 | Municipal agencies amendment | Ch. 75 | 
+6-14-2017 | Animals: dog leashing requirements and removal of dog litter
+amendment | Ch. 160, Art. I | 
+6-14-2017 | Firearms amendment | Ch. 231 | 
+3-14-2018 | Taxation: Exemption for Veterans Amendment | Ch. 382, Art. VII | 
+4-11-2018 | Natural Gas and Oil Exploration: Storage, Disposal, Sale and
+Treatment of Wastes | Ch. 310, Art. I | 
+9-12-2018 | Animals: Dog Leashing Requirements and Removal of Dog Litter
+Amendment | Ch. 160, Art. I | 
+9-12-2018 | Taxation: Tax Abatement for Fire Department Personnel | Ch. 382, Art. IX | 
+
+
+dl      disposition list
+https://ecode360.com/13322935
+0.17434773386283234
+6-12-2019 | Solid Waste Regulations Amendment | Ch. 485 | 9 | 
+1-8-2020 | Agricultural Commission | Ch. 6 | 9 | 
+1-8-2020 | Blighted Premises Amendment | Ch. 175 | 9 | 
+1-8-2020 | Stormwater Management Amendment | Ch. 370 | 9 | 
+
+

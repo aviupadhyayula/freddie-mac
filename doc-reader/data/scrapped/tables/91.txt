@@ -1,0 +1,567 @@
+iii      establishment of districts
+https://ecode360.com/10830207
+0.5954701818778292
+R-1 | Single-Family Residential Use District | 
+R-2 | Single-Family Residential Use District | 
+R-3 | General and Multifamily Residential Use District | 
+T-C | Town Center Use District | 
+C-1 | Commercial and Business Use District | 
+M-R | Marine Resources Use District | 
+LI-1 | Light Industrial Use District | 
+LPD | Large Parcel Development District | 
+HP-OD | Historic Preservation Overlay District | 
+
+
+vii      development guidelines
+https://ecode360.com/10831167
+0.5600272549514514
+ | Single-family dwelling unit | 2 spaces per unit | 
+ | 2-family dwelling | 2.5 spaces per unit | 
+ | Townhouses or multifamily dwelling units | 2.5 spaces per unit | 
+ | Hospitals, nursing homes | 1 space per 200 gross square feet | 
+ | Bed-and-breakfasts, inns | 1 space for each bedroom within the facility, plus 2 for the
+property owners | 
+ | Motels/hotels | 1 space for each unit, plus 1 space per 500 square feet of common
+area | 
+ | Offices | 1 space for each 300 gross square feet | 
+ | Retail establishments, veterinary hospitals, banks, and related
+commercial establishments of a personal service nature | 1 space per 200 gross square feet | 
+ | Restaurants | 1 space per 100 gross square feet | 
+ | Health club | 1 space per 100 gross square feet | 
+ | Warehouse | 1 space per 500 gross square feet | 
+ | Assembly | 1 space per 200 gross square feet | 
+ | Medical office | 1 space per 200 gross square feet | 
+ | Schools | 1 space per 3.5 seats in assembly rooms, plus 1 space per faculty
+member | 
+ | Industry | 1 space per 500 square feet | 
+ | Funeral homes | 1 space per 20 square feet of floor area used for seating accommodations,
+plus 1 space per employee | 
+
+
+iv      zoning use and overlay districts
+https://ecode360.com/10830815
+0.5180316935979373
+ | An application is deemed complete when the items required by
+the Project Coordinator have been submitted. After the review process
+is completed and approved, the Project Coordinator will return two
+sets of plans to the applicant and retain the remainder for Town records. | 
+
+
+ii      general penalty
+https://ecode360.com/10826648
+0.5147759039830105
+Animals | 63 | 
+Building Construction | 85 | 
+Burning, Open | 89 | 
+Business Licenses | 93 | 
+Housing Standards | 136 | 
+Nuisances | 152 | 
+Rental Properties | 164 | 
+Street and Sidewalks | 183 | 
+Trailers and Camping | 198 | 
+Vehicles, Abandoned or Inoperable | 208 | 
+Vehicles and Traffic | 209 | 
+Water | 215 | 
+
+
+noise
+https://ecode360.com/10827915
+0.5113505520831658
+All Commercial Districts | Daytime | 70 |  | 31.5 | 85 | 
+ |  |  |  | 63 | 84 | 
+ | Nighttime | 55 | 120 | 125 | 79 | 
+ |  |  |  | 250 | 74 | 
+ |  |  |  | 500 | 68 | 
+ |  |  |  | 1,000 | 62 | 
+ |  |  |  | 2,000 | 57 | 
+ |  |  |  | 4,000 | 53 | 
+ |  |  |  | 8,000 | 50 | 
+All Residential Districts | Daytime | 65 |  | 31.5 | 80 | 
+ |  |  |  | 63 | 79 | 
+ | Nighttime | 55 |  | 125 | 74 | 
+ |  |  | 100 | 250 | 69 | 
+ |  |  |  | 500 | 63 | 
+ |  |  |  | 1,000 | 57 | 
+ |  |  |  | 2,000 | 52 | 
+ |  |  |  | 4,000 | 48 | 
+ |  |  |  | 8,000 | 45 | 
+
+
+vi      planning and zoning commission site plan review and special use permits
+https://ecode360.com/10830975
+0.4731730866584307
+ | I, _____, hereby certify that I am a registered
+engineer, land surveyor, or architect in the State of Delaware, that
+the information shown hereon has been prepared under my supervision
+and to my best knowledge and belief represents good engineering, surveying,
+and/or architectural practices as required by the applicable laws
+of the State of Delaware. | 
+ | Date _____ Seal _____ Signature | 
+
+
+source water protection areas
+https://ecode360.com/30526123
+0.4632314035472364
+Aboveground storage tanks | No | No | No | No | 
+Automobile body/repair shop | No | No | No | No | 
+Chemical processing/storage facility | No | No | No | No | 
+Dry cleaner | No | No | No | No | 
+Electrical/electronic manufacturing facility | No | No | No | No | 
+Equipment maintenance/fueling areas | No | No | No | No | 
+Fleet/trucking/bus terminal | No | No | No | No | 
+Gas station | No | No | No | No | 
+Hazardous waste: treatment, storage, and disposal facilities | No | No | No | No | 
+# Dry wells/sumps | No | Yes | Yes | Yes | 
+# Injection wells | Yes | Yes | Yes | Yes | 
+Junk/scrap/salvage yard | No | No | No | No | 
+Land divisions resulting in high density (greater than 1 acre) | No | Yes | Yes | Yes | 
+Machine shop | No | No | No | No | 
+Manure storage | No | No | No | No | 
+Metal plating/finishing/fabricating facility | No | No | No | No | 
+Mines/gravel pit | No | No | No | No | 
+On-site wastewater treatment and disposal systems | No | No | No | No | 
+Sanitary and industrial landfills | No | No | No | No | 
+Underground storage tanks | No | No | No | No | 
+Vessel storage | No | No | No | No | 
+Wood preserving/treating facility | No | No | No | No | 
+
+
+vi      planning and zoning commission site plan review and special use permits
+https://ecode360.com/10830975
+0.4617863369059866
+ | I, _____, hereby certify that I am the owner
+of the property described and shown on this plan, that the plan was
+made at my direction,* and that I acknowledge the same to be my act
+and desire the plan to be recorded according to Ordinance. | 
+ | * In the case of proposed streets to be dedicated,
+the following should be added after the word "direction" to the above
+certification: | 
+ | ". . .that all streets shown hereon and not
+heretofore dedicated are hereby dedicated to the public use and that
+all proposed monuments and markers shown hereon will be set at the
+location indicated" | 
+
+
+source water protection areas
+https://ecode360.com/30526123
+0.3898256795737104
+(#) | Injection wells other than those used in the remediation of
+groundwater contamination that inject oxygen-releasing compounds. | 
+
+
+iii      procedures for administration of personnel system
+https://ecode360.com/10826756
+0.3883631505499301
+ | 1 | 0.50 | 
+ | 2 | 1.00 | 
+ | 3 | 1.50 | 
+ | 4 | 2.00 | 
+ | 5 | 2.50 | 
+ | 6 | 3.00 | 
+ | 7 | 3.50 | 
+ | 8 | 4.00 | 
+ | 9 | 4.50 | 
+ | 10 | 5.00 | 
+ | 11 | 5.50 | 
+ | 12 | 6.00 | 
+ | 13 | 6.50 | 
+ | 14 | 7.00 | 
+ | 15 | 7.50 | 
+ | 16 | 8.00 | 
+ | 17 | 8.50 | 
+ | 18 | 9.00 | 
+ | 19 | 9.50 | 
+ | 20 or more | 10.00 | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.3859543325498858
+ | • | C equals the cost of construction of new plant from the nearest
+technically feasible point on the Cable System trunk or feeder line; | 
+ | • | LE equals the number of occupied residential dwelling units
+requesting Cable Service in the line extension area, who subsequently
+pay a contribution in aid of construction; | 
+ | • | CA equals the average cost of construction per mile in the primary
+service area; | 
+ | • | P equals the 30 residential dwelling units per mile density specified in Subsection A; and | 
+ | • | SC equals the per-occupied-residential-dwelling-unit contribution
+in aid of construction in the line extension area. | 
+
+
+noise
+https://ecode360.com/10827915
+0.3282498352647224
+ |  |  | 31.5 | 65 | 
+ |  |  | 63 | 64 | 
+ |  |  | 125 | 59 | 
+ |  |  | 250 | 54 | 
+All | 50 | 90 | 500 | 48 | 
+ |  |  | 1,000 | 42 | 
+ |  |  | 2,000 | 38 | 
+ |  |  | 4,000 | 33 | 
+ |  |  | 8,000 | 30 | 
+
+
+iii      procedures for administration of personnel system
+https://ecode360.com/10826756
+0.32637504907144155
+ | 1 | 0.50 hour | 0.50 hour | 0.75 hour | 
+ | 2 | 1.00 | 1.25 | 1.50 | 
+ | 3 | 1.50 | 1.75 | 2.00 | 
+ | 4 | 2.00 | 2.50 | 2.75 | 
+ | 5 | 2.50 | 3.00 | 3.50 | 
+ | 6 | 3.00 | 3.50 | 4.25 | 
+ | 7 | 3.50 | 4.25 | 5.00 | 
+ | 8 | 4.00 | 4.75 | 5.50 | 
+ | 9 | 4.50 | 5.50 | 6.25 | 
+ | 10 | 5.00 | 6.00 | 7.00 | 
+ | 11 | 5.50 | 6.50 | 7.75 | 
+ | 12 | 6.00 | 7.25 | 8.50 | 
+ | 13 | 6.50 | 7.75 | 9.00 | 
+ | 14 | 7.00 | 8.50 | 9.75 | 
+ | 15 | 7.50 | 9.00 | 10.50 | 
+ | 16 | 8.00 | 9.50 | 11.25 | 
+ | 17 | 8.50 | 10.25 | 12.00 | 
+ | 18 | 9.00 | 10.75 | 12.50 | 
+ | 19 | 9.50 | 11.50 | 13.25 | 
+ | 20 or more | 10.00 | 12.00 | 14.00 | 
+
+
+i      general provisions and scope
+https://ecode360.com/10826719
+0.3173098266572286
+ | Charter Reference: Power to establish and regulate
+merit system for employees, Section 29. | 
+
+
+security and alarm systems
+https://ecode360.com/26799605
+0.30322007684724017
+ | 4 to 5 | $50 per violation | 
+ | 6 to 9 | $100 per violation | 
+ | 10 to 15 | $200 per violation | 
+ | 16 and over | $250 per violation | 
+
+
+iii      rules for use of public sewers
+https://ecode360.com/10828174
+0.29296406824802823
+* To be established at a later date. | 
+
+
+dl      disposition list
+https://ecode360.com/13750198
+0.28589135122110815
+Ord. No. 2019-007 | 9-9-2019 | Sewers Amendment | Ch. 170 | 16 | 
+Ord. No. 2020-001 | 6-15-2020 | Building Construction Amendment | Ch. 85 | 16 | 
+Ord. No. 2020-002 | 7-6-2020 | Zoning Amendment | Ch. 220 | 16 | 
+Ord. No. 2020-003 | 10-5-2020 | Zoning Amendment | 220 | 17 | 
+Ord. No. 2020-004 | 7-6-2020 | Zoning Amendment | Ch. 220 | 16 | 
+Ord. No. 2020-005 | 10-5-2020 | Subdivision and Land Development Amendment | Ch. 188 | 17 | 
+Ord. No. 2020-006 | 8-3-2020 | Zoning Map Amendment Application Extension | NCM | 17 | 
+Ord. No. 2020-007 | 8-3-2020 | Annexation Agreement Amendment | Ch. 67 | 17 | 
+Ord. No. 2020-008 | 10-5-2020 | Zoning Map Amendment | NCM | 17 | 
+Ord. No. 2020-009 | 10-5-2020 | Zoning Map Amendment | NCM | 17 | 
+Ord. No. 2020-010 | 12-15-2020 | Zoning Map Amendment | NCM | 17 | 
+Ord. No. 2020-011 | 12-15-2020 | Zoning Map Amendment | NCM | 17 | 
+Ord. No. 2021-001 | 1-4-2021 | Noise: General Provisions Amendment; Sound Trucks and Amplification
+Equipment Amendment | Ch. 148, Art. I; Ch. 148, Art. II | 17 | 
+
+
+transportation  public
+https://ecode360.com/10829344
+0.26402212831141436
+ | NO PARKING
+TAXI STAND
+BY ORDER OF
+THE COUNCIL | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.261102629028807
+ | Comcast Cable Northeast Division
+676 Island Pond Road
+Manchester, New Hampshire 03109
+Attention: Government Affairs Department | 
+
+
+solid waste
+https://ecode360.com/10828727
+0.254466428794626
+State law reference: As to depositing refuse
+on public property, see 16 Del. C. § 1704. | 
+
+
+iii      procedures for administration of personnel system
+https://ecode360.com/10826756
+0.2540101942725399
+ | 1 to 15 | 0.25 | 
+ | 16 to 30 | 0.50 | 
+ | 31 to 45 | 0.75 | 
+ | 46 to 60 | 1.0 | 
+
+
+iii      procedures for administration of personnel system
+https://ecode360.com/10826756
+0.2540101942725399
+ | 1 to 15 | 0.25 | 
+ | 16 to 30 | 0.50 | 
+ | 31 to 45 | 0.75 | 
+ | 46 to 60 | 1.00 | 
+
+
+viii      signage
+https://ecode360.com/10831392
+0.2526470740491503
+Notes: Sum of shaded areas only
+represents sign area for Code compliance purposes. Signs consisting
+of individual letters, elements or logos placed on building walls
+or structures. | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.245804150873116
+ | Upon the request of any potential subscriber desiring service, the Grantee shall prepare, at its cost, a feasibility study to determine the cost of any plant extension under Subsection A(1). The Grantee shall be entitled to charge a nonrefundable fee of $100 for each Subscriber to cover the costs of preparing the same. The Grantee shall not be required to prepare a feasibility study under this section for a specific area more than once every five years. | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.24152744125279532
+ | Town of Milton
+115 Federal Street
+Milton, Delaware 19968
+Attention: Mayor | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.21974649395088783
+ | Comcast Cable
+7850 Walker Drive, 2nd Floor
+Greenbelt, Maryland 21236
+Attention: Government Affairs Department | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.21547112668633836
+ | To the Franchising Authority: | 
+
+
+dt      derivation table
+https://ecode360.com/13621905
+0.20851754224192628
+NCM | = | Not Code material (legislation is
+not general or permanent in nature). | 
+REP | = | Repealed effective with adoption of Code; see Ch. 1, Art. III. | 
+NI | = | Not included in Code but saved from
+repeal. | 
+NLP | = | New legislation is pending. | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.1979514656793023
+ | and to: | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.18741102522335715
+ | Comcast of Delmarva, LLC
+8098 Sandpiper Circle
+Nottingham, Maryland 21236
+Attention: Government Affairs Department | 
+
+
+iii      rules for use of public sewers
+https://ecode360.com/10828174
+0.17204407813226869
+Arsenic | 0.50 | 
+Barium | 4.00 | 
+Boron | * | 
+Cadmium | 0.20 | 
+Chromium, hexavalent | 0.75 | 
+Chromium, total | 0.75 | 
+Copper | 2.00 | 
+Iron | 4.00 | 
+Lead | 0.50 | 
+Manganese | * | 
+Mercury | 0.015 | 
+Nickel | 2.00 | 
+Selenium | 0.05 | 
+Silver | 0.05 | 
+Zinc | 2.00 | 
+Ammonium nitrogen1 | 35.00 | 
+Cyanide, total | 0.25 | 
+Total phosphates2 | 10.00 | 
+Phenolics | 2.00 | 
+BOD5 | 5.00 | 
+Suspended solids | 5.00 | 
+Color | 5.00 | 
+
+
+drugs
+https://ecode360.com/10827364
+0.13479844931747856
+[State law reference: As to possession of syringes,
+see 16 Del. C. § 4757 (1953).] | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.1346200478973236
+ | with copies to: | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+0.12580531232452383
+ | To the Grantee: | 
+
+
+transportation  public
+https://ecode360.com/10829344
+0.1239218014857286
+Dated: | Signature of Applicant | 
+
+
+water
+https://ecode360.com/28502527
+-0.015481431057168094
+ | 
+
+
+a         cable television franchise
+https://ecode360.com/10831503
+-0.07076782492472333
+ |  | 
+
+
+viii      signage
+https://ecode360.com/10831392
+-0.08921440492307202
+ | 
+
+
+viii      signage
+https://ecode360.com/10831392
+-0.08921440492307202
+ | 
+
+
+viii      signage
+https://ecode360.com/10831392
+-0.08921440492307202
+ | 
+
+
+dl      disposition list
+https://ecode360.com/13750198
+-0.7824960182783199
+Ord. No. 2009-001 | 12-7-2009 | Adoption of Code | Ch. 1, Art. III | 
+ | 10-5-2009 | Zoning amendment | Ch. 220 | 
+ | 12-7-2009 | Zoning amendment | Ch. 220 | 
+ | 5-3-2010 | Water amendment | Ch. 215 | 
+Ord. No. 2011-001 | 3-7-2011 | Outdoor smoking in public places | Ch. 177, Art. I | 
+Ord. No. 2011-002 | 5-2-2011 | Personnel policies amendment | Ch. 26 | 
+Ord. No. 2011-003 | 5-2-2011 | Clean Hands Policy | Ch. 95 | 
+Ord. No. 2011-004 | 7-11-2011 | Vehicles and traffic amendment | Ch. 209 | 
+Res. No. 2011-1 |  |  | Number not used | 
+Res. No. 2011-2 |  |  | Number not used | 
+Res. No. 2011-3 | 9-13-2011 | Hazard Mitigation Plan | NCM | 
+Res. No. 2011-4 | 12-6-2010 | Use of branding materials | NCM | 
+Res. No. 2011-5 | 10-3-2011 | Scheduling of public hearing on Zoning Map amendment | NCM | 
+Res. No. 2011-6 | 12-5-2011 | Affirming principles of the Fair Housing Act | NCM | 
+Res. No. 2011-7 | 12-5-2011 | Endorsing application for funding from Delaware State Housing
+Authority | NCM | 
+Res. No. 2011-8 | 12-5-2011 | Adopting National Incident Management System | NCM | 
+Res. No. 2011-9 | 12-5-2011 | Scheduling of public hearing on Zoning Map amendment | NCM | 
+Ord. No. 2012-01 | 1-9-2012 | Vehicles and traffic amendment | Ch. 209 | 
+Ord. No. 2012-02 |  |  | Not adopted | 
+Ord. No. 2012-03 | 3-6-2012 | Personnel policies amendment | Ch. 26 | 
+Ord. No. 2012-04 | 3-6-2012 | Personnel policies amendment | Ch. 26 | 
+Ord. No. 2012-05 | 7-2-2012 | Zoning amendment | Ch. 220 | 
+Ord. No. 2012-06 | 8-6-2012 | Penalties amendment | Ch. 1, Art. I; Ch. 63; Ch. 183 | 
+Ord. No. 2012-07 | 8-6-2012 | Security systems and protective services: false alarms | Superseded by Ord. No. 2016-009 | 
+Ord. No. 2012-08 | 8-6-2012 | Residence of sex offenders amendment | Ch. 174 | 
+Ord. No. 2012-09 | 9-10-2012 | Retail licenses amendment | Repealed by Ord. No. 2015-008 | 
+Ord. No. 2012-10 | 11-5-2012 | Personnel policies amendment | Ch. 26 | 
+Ord. No. 2013-01 | 4-1-2013 | Subdivision and land development amendment | Ch. 188 | 
+Ord. No. 2013-02 | 5-13-2013 | Property maintenance amendment | Ch. 158 | 
+Ord. No. 2013-03 | 7-1-2013 | Business licenses amendment | Ch. 93 | 
+Ord. No. 2013-04 | 9-9-2013 | Comprehensive fees amendment | Ch. 67; Ch. 85; Ch. 93; Ch. 95; Ch. 125; Ch. 148, Art. II; Ch. 158; Ch. 164; Ch. 170; Ch. 179; Ch. 183; Ch. 188; Ch. 194, Art. I; Ch. 202; Ch. 209; Ch. 215, Art. II; Ch. 220 | 
+Ord. No. 2013-05 | 9-9-2013 | Personnel policies amendment | Ch. 26 | 
+Ord. No. 2013-06 |  |  | Number not used | 
+Ord. No. 2013-07 | 10-7-2013 | Zoning amendment | Ch. 220 | 
+Ord. No. 2014-01 | 2-3-2014 | Fees and costs: Freedom of Information Act requests | Ch. 119, Art. I | 
+Ord. No. 2014-02 | 3-13-2014 | Zoning amendment | Ch. 220 | 
+Ord. No. 2014-03 | 4-21-2014 | Taxation: determination of tax rates amendment | Ch. 194, Art. I | 
+Ord. No. 2014-04 | 5-7-2014 | Zoning amendment | Ch. 220 | 
+Ord. No. 2014-05 | 7-7-2014 | Streets and sidewalks amendment | Ch. 183 | 
+Ord. No. 2014-06 | 8-18-2014 | Property maintenance amendment | Ch. 158 | 
+Ord. No. 2014-07 | 8-18-2014 | Streets and sidewalks amendment | Ch. 183 | 
+Ord. No. 2014-08 | 10-6-2014 | Zoning amendment | Ch. 220 | 
+Ord. No. 2014-09 | 10-6-2014 | Nuisances amendment | Ch. 152 | 
+Ord. No. 2014-10 | 12-1-2014 | Floodplain management | Ch. 125 | 
+Ord. No. 2015-001 | 1-21-2015 | Vehicles and traffic amendment | Ch. 209 | 
+Ord. No. 2015-002 | 2-2-2015 | Vehicles and traffic amendment | Ch. 209 | 
+Ord. No. 2015-003 | 3-16-2015 | Business licenses amendment | Ch. 93 | 
+Ord. No. 2015-004 | 4-20-2015 | Building construction amendment | Ch. 85 | 
+Ord. No. 2015-005 | 7-20-2015 | Building construction amendment; noise: general provisions amendment | Ch. 85; Ch. 148, Art. I | 
+Ord. No. 2015-006 | 7-20-2015 | Zoning amendment | Ch. 220 | 
+Ord. No. 2015-007 | 7-20-2015 | Zoning amendment | Ch. 220 | 
+Res. | 5-11-2015 | Charter amendment request | NCM | 
+Ord. No. 2015-008 | 5-13-2015 | Rental properties | Ch. 164 | 
+Ord. No. 2015-009 | 6-22-2015 | Source water protection areas; zoning amendment | Ch. 181; Ch. 220 | 
+Ord. No. 2015-010 | 8-3-2015 | Housing standards amendment | Ch. 136 | 
+80 Del. Laws, c. 186 | 9-3-2015 | Charter amendment | Charter | 
+Ord. No. 2015-011 | 2-24-2016 | Vehicles and traffic amendment | Ch. 209 | 
+Ord. No. 2016-001 | 3-21-2016 | Cable television franchise | Ch. A223 | 
+Ord. No. 2016-002 | 5-16-2016 | Floodplain management amendment | Ch. 125 | 
+Ord. No. 2016-003 |  |  | Not adopted | 
+Ord. No. 2016-004 | 7-11-2016 | Streets and sidewalks amendment | Ch. 183 | 
+Ord. No. 2016-005 |  |  | Not adopted | 
+80 Del. Laws, c. 350 | 8-3-2016 | Charter amendment | Charter | 
+Ord. No. 2016-006 | 9-12-2016 | Housing standards amendment | Ch. 136 | 
+Ord. No. 2016-007 | 9-12-2016 | Solid waste amendment | Ch. 179 | 
+Ord. No. 2016-008 | 9-12-2016 | Building construction amendment | Ch. 85 | 
+Ord. No. 2016-009 | 2-6-2017 | Security and alarm systems | Ch. 167 | 
+Ord. No. 2016-010 | 11-7-2016 | Zoning amendment | Ch. 220 | 
+Ord. No. 2016-011 | 12-5-2016 | Vehicles and traffic amendment | Ch. 209 | 
+Ord. No. 2017-001 | 1-23-2017 | Streets and sidewalks amendment | Ch. 183 | 
+Ord. No. 2017-002 |  |  | Pending adoption | 
+Ord. No. 2017-003 | 6-5-2017 | Zoning amendment | Ch. 220 | 
+Ord. No. 2017-004 | 3-6-2017 | Clean hands policy amendment | Ch. 95 | 
+Ord. No. 2017-005 | 3-6-2017 | Personnel policies amendment | Ch. 26 | 
+Ord. No. 2017-006 | 4-3-2017 | Vehicles and traffic amendment | Ch. 209 | 
+Res. | 12-5-2016 | Charter amendment request | NCM | 
+Ord. No. 2017-007 |  |  | Pending adoption | 
+Ord. No. 2017-008 | 7-3-2017 | Water: service and use amendment | Ch. 215, Art. II | 
+81 Del. Laws, c. 70 | 7-17-2017 | Charter amendment | Charter | 
+Ord. No. 2017-009 | 9-11-2017 | Zoning amendment | Ch. 220 | 
+Ord. No. 2017-010 | 9-11-2017 | Zoning amendment | Ch. 220 | 
+Ord. No. 2018-001 | 5-7-2018 | Floodplain Management Amendment | Ch. 125 | 
+Ord. No. 2018-002 | 6-4-2018 | Fines and Penalties Amendment | Ch. 1, Art. II; Ch. 63; Ch. 85; Ch. 89; Ch. 93; Ch. 136; Ch. 152; Ch. 164; Ch. 183; Ch. 198; Ch. 208; Ch. 209; Ch. 215, Art. II | 
+Ord. No. 2018-003 | 6-4-2018 | Water: Restrictions on Use Amendment; Water: Service and Use
+Amendment | Ch. 215, Art. I; Ch. 215, Art. II | 
+Ord. No. 2018-004 | 11-5-2018 | Sex Offenders, Residence of Amendment | Ch. 174 | 
+Ord. No. 2018-005 | 8-6-2018 | Taxation: Determination of Tax Rates Amendment | Ch. 194, Art. I | 
+Ord. No. 2018-006 | 1-7-2019 | Zoning Amendment | Ch. 220 | 
+Ord. No. 2018-007 | 12-3-2018 | Clean Hands Policy Amendment | Ch. 95 | 
+Ord. No. 2018-008 | 12-3-2018 | Comprehensive Plan | NCM | 
+Ord. No. 2018-009 | 12-3-2018 | Water: Service and Use Amendment | Ch. 215, Art. II | 
+Res. No. 2019-004 | 2-4-2019 | Charter Amendment Request | NCM | 
+Ord. No. 2018-010 | 3-4-2019 | Zoning Amendment | Ch. 220 | 
+Ord. No. 2019-001 | 4-1-2019 | Zoning Amendment | Ch. 220 | 
+Ord. No. 2019-002 | 3-4-2019 | Vehicles and Traffic Amendment | Ch. 209 | 
+Ord. No. 2019-003 | 3-4-2019 | Vehicles and Traffic Amendment | Ch. 209 | 
+Ord. No. 2019-004 | 5-6-2019 | Zoning Amendment | Ch. 220 | 
+Ord. No. 2019-005 | 7-1-2019 | Zoning Amendment | Ch. 220 | 
+82 Del. Laws c. 106 | 7-17-2019 | Charter Amendment | Ch. C | 
+Ord. No. 2019-006 | 8-5-2019 | Water Amendment | Ch. 215 | 
+
+

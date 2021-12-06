@@ -1,0 +1,840 @@
+zoning violations
+https://ecode360.com/32080738
+0.643732297649763
+Construction of any building without a zoning permit | $150 | 
+Alteration of any building without a zoning permit | $100 | 
+Conducting an unauthorized use | $150 | 
+Illegal sign | $100 | 
+Building beyond foundation without foundation as-built or erosion
+control approval | $150 | 
+
+
+noise
+https://ecode360.com/11767120
+0.5135418246713119
+ | Key: |  |  | 
+ | CI | - | Commercial Industrial Zone | 
+ | TBP | - | Tolland Business Park | 
+ | GDD | - | Gateway Design District | 
+ | NC | - | Neighborhood Commercial Zone | 
+
+
+a         special acts
+https://ecode360.com/11767142
+0.48198064710345306
+S.A. 63-316 | Authorizing the state to transfer to the Town
+of Tolland the former Tolland County Jail Farm property | 
+S.A. 65-70 | An Act concerning the transfer of custody and
+control of certain lands in the Town of Tolland to the State Board
+of Fisheries and Game | 
+S.A. 67-131 | An Act concerning compensation of the Town Clerk
+of Tolland | 
+S.A. 81-55 | An Act concerning the transfer of state-owned
+realty to St. Luke's Home in Middletown, the Metropolitan District
+and the Town of Tolland | 
+S.A. 81-62 | An Act concerning authorization of state grant
+commitments for school construction projects (High School) | 
+S.A. 82-12 | An Act concerning the transfer of state-owned
+realty to the City of New London and the Town of Tolland | 
+P.A. 86-406, s. 14 and 15 | An Act concerning a recreation and natural heritage
+trust program, use of certain railroad rights-of-way in Eastern Connecticut,
+lands of the Connecticut River Gateway Commission and the conveyance
+of certain state land to the Town of Tolland | 
+S.A. 87-55 | An Act concerning authorization of state grant
+commitments for school construction projects | 
+S.A. 88-56 | An Act concerning authorization of state grant
+commitments for school construction projects | 
+S.A. 89-54 | An Act authorizing the transfer of a parcel
+of the NYE-Holman State Forest from the Environmental Protection Department
+to the Public Safety Department | 
+S.A. 90-23 | An Act concerning authorization of state grant
+commitments for school construction projects | 
+P.A. 91-253 | An Act concerning authorization of state grant
+commitments for school building projects | 
+P.A. 91-5 (June Special Session) | An Act concerning authorization of state grant
+commitments for school building projects | 
+S.A. 92-2 | An Act extending the time for the reinstatement
+of certain stock and nonstock corporations | 
+S.A. 92-14 | An Act concerning authorization of state grant
+commitments for school building projects | 
+S.A. 93-41 | An Act concerning authorization of state grant
+commitments for school building projects | 
+P.A. 97-265 | An Act concerning authorization of state grant
+commitments for school building projects (new elementary school; increase
+projected enrollment for new elementary school project) | 
+P.A. 98-249 | An Act concerning authorization of state grant
+commitments for school building projects (roof replacement at Tolland
+High School) | 
+P.A. 04-213 | An Act concerning authorization of state grant
+commitments for school building projects (installation of sewer line
+at Parker Memorial School and at Tolland Middle School) | 
+P.A. 07-249 | An Act concerning authorization of state grant
+commitments for school building projects and changes to the statutes
+concerning school building projects (installation of water line extension
+at Parker Memorial School and the old Tolland High School) | 
+S.A. 11-16 | An Act concerning the conveyance of certain parcels of state
+land and the removal of certain traffic signs. | 
+S.A. 13-23 | An Act concerning the conveyance of certain parcels of state
+land, etc. | 
+
+
+a         town policies
+https://ecode360.com/11767141
+0.4684342472432319
+The project is mandated by state or federal statute or approved
+through a binding local referendum. | 0 to 25 | 
+The project ensures code compliance and/or improves public health
+and safety in Town. | 0 to 25 | 
+The project can be definitively shown by an appropriate Town
+official to improve program effectiveness and efficiency. | 0 to 20 | 
+The project can be definitively shown by an appropriate Town
+official to reduce operating and maintenance costs. | 0 to 20 | 
+If implemented, the project will enhance community values and
+improve the Town's quality of life. | 0 to 10 | 
+Maximum Possible Score | 100 Points | 
+
+
+a         town policies
+https://ecode360.com/11767141
+0.4468809369494017
+ | Couch (3 sectional or equivalent) | 3 | 
+ | Love seat or two-section couch | 2 | 
+ | Bed headboard or footboard | 2 | 
+ | Mattress | 2 | 
+ | Box spring/foundation (all-metal box springs
+not accepted) | 2 | 
+ | Sleeper sofa (metal frame must be removed and
+disposed of separately as a metal item) | 2 | 
+ | Other furniture/wood item weighing more than
+50 pounds | 2 | 
+ | Other furniture/wood item weighing less than
+50 pounds | 1 | 
+ | Television with a screen larger than 25 inches | 3 | 
+ | Television with a screen of 25 inches or smaller | 2 | 
+ | Desktop computer processor | 2 | 
+ | Laptop computer | 2 | 
+ | Desktop computer monitor | 2 | 
+ | Motor vehicle tire with rim removed up to 17
+inches (limit of 2/collection) | 2 | 
+ | Rug no more than 3 feet in length rolled and
+tied and 70 pounds or less | 1 | 
+ | Nonrecyclable plastic furniture and toys | 1 | 
+ | Small electronics (e.g., VCR, DVD, radio, CD
+players) | 1 | 
+ | Porcelain item, large (e.g., bathtub) | 2 | 
+ | Porcelain or vitreous clay item, small, (e.g.,
+sink, toilet, urn) | 1 | 
+ | Lumber/construction debris of 3 feet or less
+in length bundled (maximum 1 cubic yard) | 1 | 
+ | Other household item of less than 50 pounds
+too large for trash can or bag | 1 | 
+
+
+a         town policies
+https://ecode360.com/11767141
+0.44058401504989225
+ | 5,000 or less | $1,000.00 | 
+ | 5,001 to 10,000 | $2,000.00 | 
+ | 10,001 to 20,000 | $3,000.00 | 
+ | 20,001 to 30,000 | $4,000.00 | 
+ | 30,001 to 40,000 | $5,000.00 | 
+ | 40,001 to 50,000 | $6,000.00 | 
+ | 50,001 to 60,000 | $7,000.00 | 
+ | 60,001 to 70,000 | $8,000.00 | 
+ | 70,001 to 80,000 | $9,000.00 | 
+ | 80,001 to 90,000 | $10,000.00 | 
+ | 90,001 to 100,000 | $11,000.00 | 
+ | 100,001 to 110,000 | $12,000.00 | 
+ | 110,001 to 120,000 | $13,000.00 | 
+ | 120,001 to 130,000 | $14,000.00 | 
+ | 130,001 to 140,000 | $15,000.00 | 
+ | 140,001 to 150,000 | $16,000.00 | 
+
+
+fire prevention
+https://ecode360.com/11767113
+0.43049335365641733
+Fire report | One copy provided | $10 | 
+Blasting work | Site review and permit required | $60 | 
+Fireworks tent sales | Site review and permit required | $60 | 
+Special events: i.e., carnivals, concession stands, temporary
+food service, craft booths | Site review and permit required | $20 | 
+LPG commercial | Site review and permit required | $60 | 
+LPG filling stations | Site review and permit required | $20 | 
+Summer camp | Site review and permit required | $20 | 
+Temporary liquor permit | Site review and permit required | $20 | 
+Commercial demolition | Site review and permit required; pre- and post-demolition | $100 | 
+
+
+a         town policies
+https://ecode360.com/11767141
+0.41946532928024377
+ | Gymnasium | 60 x 45 feet, limited seating, no locker room
+(no food or beverages allowed) | 
+ | Community Room | 32 x 21 feet (approximately), seating for 40,
+some tables available, no kitchen facilities | 
+ | Conference Room | Level 2, seating for 12 (no food or beverages
+allowed) | 
+ | Conference Room | Level 6, seating for 6 (no food or beverages
+allowed) | 
+ | Council Chamber | Level 6, seating for 40 (no food or beverages
+allowed) | 
+
+
+a         town policies
+https://ecode360.com/11767141
+0.3919125415502186
+ | Assessments shall be deferred until such time
+as the property owner applies for a building permit or where a home
+presently exists and water service is requested, an assessment will
+be levied at the time a connection is made to the water system. Property
+may be conveyed or transferred without payment of an assessment when
+it has been deferred. All deferred assessments may be adjusted for
+inflation. | 
+
+
+xv      retirement and other fringe benefits
+https://ecode360.com/11928848
+0.34448295969663123
+ | 20 | 50% | 
+ | 21 | 55% | 
+ | 22 | 60% | 
+ | 23 | 65% | 
+ | 24 | 70% | 
+ | 25 | 75% | 
+ | 26 | 80% | 
+ | 27 | 85% | 
+ | 28 | 90% | 
+ | 29 | 95% | 
+ | 30 or more | 100% | 
+
+
+dl      disposition list
+https://ecode360.com/11767144
+0.3328463516695847
+ | 12-10-2019 | Rules of Procedure Amendment | Ch. A175 | 36 | 
+Water Pollution Control Authority | 1-21-2020 | Water Pollution Control Authority Schedule of Connection Charges
+Amendment | § A173-12 | 36.1 | 
+Ord. No. 84 | 3-31-2020 | Emergency Declaration Fund Amendment | Ch. 12 | 36.2 | 
+Ord. No. 97 | 5-26-2020 | Commission on People with Disabilities | Ch. 5A | 36.3 | 
+Policy No. 25 | 6-9-2020 | Flag Policy | § A176-25 | 36.4 | 
+ | 7-14-2020 | Fees Amendment | Ch. A173 | 36.5 | 
+ | 9-8-2020 | Personnel Policies and Procedures Amendment | Ch. A174 | 36.6 | 
+ | 9-8-2020 | Town Green Sign Policy Amendment | § A176-15 | 36.6 | 
+ | 1-26-2021 | Rules of Procedure Amendment | Ch. A175 | 36.7 | 
+ | 6-22-2021 | Town Policies Amendment | § A176-26 | 36.7 | 
+ | 7-13-2021 | Town Policies Amendment | §§ A176-12; A176-24 | 36.7 | 
+ | 8-24-2021 | Veterans Recognition Commission Amendment | Ch. 47A | 36.7 | 
+
+
+vii      leave
+https://ecode360.com/11928656
+0.3206503004898972
+ | New Year's Day | 
+ | Martin Luther King, Jr., Day | 
+ | President's Day | 
+ | Good Friday | 
+ | Memorial Day | 
+ | Independence Day | 
+ | Labor Day | 
+ | Columbus Day | 
+ | Veterans Day | 
+ | Thanksgiving Day | 
+ | Friday following Thanksgiving Day | 
+ | Christmas Day | 
+ | Floating holiday | 
+
+
+ii      disposal and discharge of waste
+https://ecode360.com/11928164
+0.3050216892714754
+ | Arsenic as As | 0.05 | 
+ | Barium as BA | 5.0 | 
+ | Boron as Bo | 5.0 | 
+ | Cyanides as CN | 0.1 | 
+ | (amendable) |  | 
+ | Fluoride as F | 20.0 | 
+ | Chromium (Total) | 1.0 | 
+ | Chromium (Cr +6) | 0.1 | 
+ | Magnesium as Mg | 100.0 | 
+ | Manganese as Mn | 5.0 | 
+ | Copper as Cu | 1.0 | 
+ | Zinc as Zn | 1.0 | 
+ | Cadmium | 0.1 | 
+ | Lead | 0.1 | 
+ | Tin | 2.0 | 
+ | Silver | 0.1 | 
+ | Mercury | 0.01 | 
+ | Nickel | 1.0 | 
+
+
+historic districts
+https://ecode360.com/11767118
+0.2960618720701247
+ | Any member or alternate may be appointed for another term or terms.
+All members shall serve without compensation. Each member and alternate member
+shall continue in office until his successor is duly appointed. | 
+
+
+noise
+https://ecode360.com/11767120
+0.28788904868363896
+ | CI and TBP | 70 | 66 | 61 | 51 | 
+ | NC and GDD | 62 | 62 | 55 | 45 | 
+ | Residential | 62 | 55 | 55 | 45 | 
+
+
+a         fees
+https://ecode360.com/11767138
+0.2804661920698062
+1,000 and under | $300 | 
+1,001 to 10,000 | $500 | 
+10,001 and over | $750, plus $25 each additional 1,000 square feet | 
+
+
+vii      leave
+https://ecode360.com/11928656
+0.2788551290268231
+ | * In the year of hire, employees cannot use
+vacation until they have been employed for six months of continuous
+service. | 
+
+
+a         fees
+https://ecode360.com/11767138
+0.2788234182623194
+ | 1,000 and under | $100 | 
+ | 1,001 - 10,000 | $250 | 
+ | 10,001 and over | $500, plus $20 per each additional 1,000 square
+feet | 
+
+
+xv      retirement and other fringe benefits
+https://ecode360.com/11928848
+0.27361599754268934
+ | 59 1/2 | 5 1/2 years single primary coverage | 
+ | 60 1/2 | 4 1/2 years single primary coverage; 1
+year medigap coverage | 
+ | 61 1/2 | 3 1/2 years single primary coverage; 2
+years medigap coverage | 
+ | 62 1/2 | 2 1/2 years single primary coverage; 3
+years medigap coverage | 
+ | 63 1/2 | 1 1/2 years single primary coverage; 4
+years medigap coverage | 
+ | 64 1/2 | 1/2 year single primary coverage; 5 years medigap
+coverage | 
+ | 65 1/2+ | 5 1/2 years medigap coverage | 
+
+
+xv      retirement and other fringe benefits
+https://ecode360.com/11928848
+0.2710719454280771
+ | Summary plan descriptions (SPD), which describe
+the existing benefits, conditions, restrictions and exclusions of
+the current plans, are available from the Office of the Town Manager.
+If there are any conflicts between this provision of the Personnel
+Policy and the SPD governing these plans, the SPD will control. | 
+
+
+xv      retirement and other fringe benefits
+https://ecode360.com/11928848
+0.2671857793028015
+ | July 1, 2016 | 18.5% of health insurance premium | 
+
+
+iv      building sewers  subdivisions  developments
+https://ecode360.com/11928337
+0.2594218681052648
+ | 8 or less | 5 | 06 | 
+ | 10 | 6 | 22 | 
+ | 12 | 7 | 39 | 
+ | 14 | 9 | 35 | 
+
+
+a         fees
+https://ecode360.com/11767138
+0.25026344776570497
+Less than 1,000 | $250 | 
+1,001 to 50,000 | $500 | 
+50,001 to 100,000 | $1,000 | 
+More than 100,001 | $2,000 | 
+
+
+a         fees
+https://ecode360.com/11767138
+0.23449691989417515
+1 to 5 | $25 | 
+6 to 10 | $50 | 
+Each additional 5 or fraction thereof | $25 | 
+
+
+viii      accelerated depreciation of computer equipment
+https://ecode360.com/11927843
+0.223822161415917
+ | First | 90% | 
+ | Second | 60% | 
+ | Third | 40% | 
+ | Fourth | 20% | 
+ | Fifth and thereafter | 10% | 
+
+
+vi      hours and overtime
+https://ecode360.com/11928641
+0.21753433960570362
+ | Monday | 8:30 a.m. to 4:30 p.m. | 
+ | Tuesday | 8:30 a.m. to 4:30 p.m. | 
+ | Wednesday | 8:30 a.m. to 4:30 p.m. | 
+ | Thursday | 8:00 a.m. to 7:30 p.m. | 
+ | Friday | 8:00 a.m. to 12:30 p.m. | 
+
+
+vi      hours and overtime
+https://ecode360.com/11928641
+0.21753433960570362
+ | Monday | 8:30 a.m. to 4:00 p.m. | 
+ | Tuesday | 8:30 a.m. to 4:00 p.m. | 
+ | Wednesday | 8:30 a.m. to 4:00 p.m. | 
+ | Thursday | 8:30 a.m. to 7:30 p.m. | 
+ | Friday | 8:30 a.m. to 12:00 p.m. | 
+
+
+viii      accelerated depreciation of computer equipment
+https://ecode360.com/11927843
+0.17926272787221223
+ | First | 70% | 
+ | Second | 40% | 
+ | Third | 20% | 
+ | Fourth | 10% | 
+
+
+dl      disposition list
+https://ecode360.com/11767144
+0.17477445180530482
+Ord. No. 95 | 4-9-2019 | Board of Education | Ch. 7B | 35.4 | 
+Ord. No. 96 | 9-10-2019 | Tax Stabilization Fund | Ch. 46A | 35.4 | 
+
+
+vii      leave
+https://ecode360.com/11928656
+0.16455683211065678
+ | Upon hire* | 10 | 
+ | 1 less than 2 | 11 | 
+ | 2 less than 3 | 12 | 
+ | 3 less than 4 | 13 | 
+ | 4 less than 5 | 14 | 
+ | 5 less than 6 | 15 | 
+ | 6 less than 7 | 16 | 
+ | 7 less than 8 | 17 | 
+ | 8 less than 9 | 18 | 
+ | 9 less than 10 | 19 | 
+ | 10 less than 11 | 20 | 
+ | 11 less than 12 | 20 | 
+ | 12 less than 13 | 20 | 
+ | 13 less than 14 | 20 | 
+ | 14 less than 15 | 20 | 
+ | 15 less than 16 | 20 | 
+ | 16 less than 17 | 20 | 
+ | 17 less than 18 | 20 | 
+ | 18 less than 19 | 20 | 
+ | 19 less than 20 | 20 | 
+ | 20 less than 21 | 20 | 
+ | 21 less than 22 | 21 | 
+ | 22 less than 23 | 22 | 
+ | 23 less than 24 | 23 | 
+ | 24 less than 25 | 24 | 
+ | 25 or more | 25 | 
+
+
+fire prevention
+https://ecode360.com/11767113
+0.1577005450771556
+0 - 3,000 | $30 | 
+3,001 - 5,000 | $50 | 
+5,001 - 7,500 | $70 | 
+7,501 - 10,000 | $90 | 
+10,001 -12,500 | $110 | 
+12,501 -15,000 | $130 | 
+15,001 -17,500 | $150 | 
+17,501 -20,000 | $170 | 
+20,001 -30,000 | $190 | 
+30,001 - 40,000 | $210 | 
+40,001 - 50,000 | $230 | 
+50,001 - 60,000 | $250 | 
+60,001 - 70,000 | $270 | 
+70,001 - 100,000 | $280 | 
+100,001 - 150,000 | $300 | 
+150,001 - 200,000 | $310 | 
+
+
+a         fees
+https://ecode360.com/11767138
+0.05380344417835904
+ | 5/8-inch | $2,505 | 
+ | 3/4-inch | $3,006 | 
+ | 1-inch | $5,010 | 
+ | 2-inch | $20,040 | 
+ | 3-inch | $33,400 | 
+ | 4-inch | $56,780 | 
+ | 6-inch | $116,900 | 
+ | 8-inch | $217,100 | 
+
+
+vi      local tax relief program for permanently disabled and senior residents
+https://ecode360.com/11927777
+-0.01963933352251948
+ | 
+
+
+dl      disposition list
+https://ecode360.com/11767144
+-0.7816598187591892
+Ord. No. 1 | 3-26-1974 | Numbering of buildings | Ch. 106 | 
+Ord. No. 4 | 8-6-1974 | Justices of the Peace | Ch. 27 | 
+Ord. No. 8 | 11-12-1974 | Effective date of tax exemptions | Ch. 136, Art. I | 
+Ord. No. 9 | 10-17-1974 | Peddlers and itinerant vendors | Ch. 115 | 
+Ord. No. 12 | 3-9-1976 | Fire zones | Superseded 4-22-2003 | 
+Ord. No. 15 | 6-14-1977 | Parking regulations | Ch. 143, Art. I | 
+Ord. No. 16 | 10-11-1977 | Tax exemption for solar energy systems | Ch. 136, Art. II | 
+Ord. No. 18 | 11-28-1978 | Water and Waste Management Commission | Ch. 49 | 
+Ord. No. 19 | 4-14-1981 | Abandoned vehicles | Ch. 141 | 
+Ord. No. 20 | 4-14-1981 | Water main extensions | Ch. 57, Art. I | 
+Ord. No. 24 | 2-27-1984 | Tax exemption for ambulance-type vehicles | Ch. 136, Art. III | 
+Ord. No. 25 | 10-22-1985 | Tax deferral for senior citizens | Ch. 136, Art. IV | 
+Ord. No. 26 | 2-24-1987 | Noise | Ch. 103 | 
+Ord. No. 27 | 3-24-1987 | Flood damage prevention | Ch. 88 | 
+Ord. No. 28 | 7-14-1987 | Bazaars and raffles | Ch. 60 | 
+Ord. No. 30 | 1-26-1988 | Snow and ice removal | Ch. 130, Art. II | 
+Ord. No. 32 | 3-8-1988 | Inland Wetlands Commission | Ch. 25 | 
+Ord. No. 33 | 10-25-1988 | Food service establishments | Superseded 2-13-1996 | 
+Ord. No. 35 | 11-22-1988 | Economic Development Commission | Ch. 17 | 
+Ord. No. 36 | 11-22-1988 | Civil Preparedness Agency | Ch. 5 | 
+Ord. No. 37 | 2-14-1989 | Tax exemption for modular classrooms | Ch. 126, Art. V | 
+Ord. No. 38 | 4-11-1989 | General assessments | Ch. 57, Art. II | 
+Ord. No. 39 | 5-8-1990 | Parks and recreation areas | Ch. 112 | 
+Ord. No. 40 | 5-8-1990 | Sewage disposal and water supply | Ch. 124 | 
+Ord. No. 41 | 5-8-1990 | Planning and Zoning Commission | Ch. 40 | 
+Ord. No. 42 | 6-12-1990 | Building permits | Ch. 64, Art. I | 
+Ord. No. 43 | 10-9-1990 | Drainage ditches and driveways | Ch. 130, Art. I | 
+Ord. No. 44 | 10-9-1990 | Penalties amendment | Chs. 88, 124, 130 | 
+Ord. No. 45 | 10-9-1990 | Adoption of Code | Ch. 1, Art. I | 
+Ord. No. 46 | 10-23-1990 | Garbage, rubbish, and refuse | Ch. 94 | 
+Ord. No. 47 | 12-11-1990 | Fire Department rapid entry systems | Ch. 81, Art. I | 
+Ord. No. 48 | 10-8-1991 | Historic districts | Ch. 96 | 
+Ord. No. 49 | 2-8-1992 | Celebration Committee | Ch. 3 | 
+Ord. No. 50 | 6-22-1993 | Zoning amendment | Ch. 170 | 
+Ord. No. 51 | 12-14-1993 | Permanent Building Committee | Repealed 12-12-1995 | 
+Ord. No. 52 | 12-28-1993 | Adult-oriented establishments | Ch. 51 | 
+Ord. No. 53 | 3-26-1996 | Snow and ice removal amendment | Ch. 130, Art. II | 
+Ord. No. 54 | 5-14-1996 | Voting districts and places | Ch. 9, Art. I | 
+Ord. No. 55 | 7-23-1996 | Topographic mapping fees | § A173-7 | 
+Ord. No. 56 | 2-11-1997 | Zoning regulations amendment; zoning violations | See Ch. 170; Ch. 171 | 
+Ord. No. 57 | 11-24-1998 | Water Commission | Ch. 48 | 
+Ord. No. 58 | 3-9-1999 | Inland wetlands citation procedures | Ch. 99 | 
+Ord. No. 59 | 8-8-2000 | Open Space Acquisition Fund | Ch. 37 | 
+Ord. No. 60 | 11-14-2000 | Local tax relief program | Ch. 136, Art. VI | 
+Ord. No. 61 | 5-8-2001 | Abatement on housing for low- and moderate-
+income persons | Ch. 136, Art. VII | 
+Ord. No. 62 | 9-24-2002 | Registrars of voters | Ch. 45 | 
+Ord. No. 60 | 10-8-2002 | Tax relief for the elderly amendment | Ch. 136, Art. VI | 
+Ord. No. 63 | 11-26-2002 | Teen Center Board | Ch. 47 | 
+Ord. No. 64 | 8-26-2003 | Water Pollution Control Authority | Ch. 50 | 
+Ord. No. 65 | 10-14-2003 | Board of Parks and Recreation | Ch. 39 | 
+Ord. No. 66 | 1-13-2004 | Planning and Zoning Commission alternate members | Ch. 40, Art. II | 
+Ord. No. 67 | 1-13-2004 | Zoning Board of Appeals alternate members | Ch. 50A, Art. I | 
+Ord. No. 68 | 1-13-2004 | Library Board | Ch. 30 | 
+Ord. No. 69 | 1-13-2004 | Board of Building Appeals | Ch. 2 | 
+Ord. No. 70 | 6-22-2004 | Designation of Planning and Zoning Commission
+as Aquifer Protection Agency | Ch. 40, Art. III | 
+Ord. No. 71 | 6-28-2005 | Conservation Commission amendment | Ch. 7 | 
+Ord. No. 72 | 7-26-2005 | Accelerated depreciation of computer equipment | Ch. 136, Art. VIII | 
+Ord. No. 73 | 10-11-2005 | Cemetery Fund | Ch. 70, Art. I | 
+Ord. No. 74 | 10-11-2005 | Scenic roads | Ch. 130, Art. III | 
+Ord. No. 75 | 1-10-2006 | Code of Ethics | Ch. 6 | 
+Ord. No. 76 | 9-26-2006 | Board of Assessment Appeals alternate members | Ch. 1A, Art. I | 
+ | 1-23-2007 | Tax deferral for senior citizens amendment | Ch. 136, Art. IV | 
+ | 2-13-2007 | Adult-oriented establishments amendment | Ch. 51 | 
+Ord. No. 77 | 2-13-2007 | Veterans Recognition Commission | Ch. 47A | 
+ | 10-9-2007 | Local tax relief program amendment | Ch. 136, Art. VI | 
+ | 1-8-2008 | Parks and recreation areas amendment | Ch. 112 | 
+ | 3-11-2008 | Conservation Commission amendment | Ch. 7 | 
+ | 4-22-2008 | Local tax relief program for permanently disabled
+and senior residents amendment | Ch. 136, Art. VI | 
+ | 6-24-2008 | Adult-oriented establishments amendment | Ch. 51 | 
+ | 7-22-2008 | Adult-oriented establishments amendment | Ch. 51 | 
+ | 11-25-2008 | Solid waste, recycling and hazardous waste amendment | Ch. 94 | 
+ | 2-10-2009 | Parking amendment | Ch. 143, Art. I | 
+ | 3-10-2009 | Parking amendment | Ch. 143, Art. I | 
+Ord. No. 78 | 3-10-2009 | Motor vehicle tax | Ch. 136, Art. IX | 
+Ord. No. 79 | 3-24-2009 | Taxation: payments in excess of amount due | Ch. 136, Art. X | 
+ | 6-23-2009 | Solid waste, recycling and hazardous waste amendment | Ch. 94 | 
+ | 11-10-2009 | Code of Ethics amendment | Ch. 6 | 
+ | 12-8-2009 | Solid waste, recycling and hazardous waste amendment | Ch. 94 | 
+Ord. No. 80 | 3-9-2010 | Firearms | Ch. 79 | 
+ | 5-25-2010 | Motor vehicle tax amendment | Ch. 136, Art. IX | 
+Ord. No. 81 | 6-8-2010 | Central Connecticut Solid Waste Authority | Ch. 46 | 
+Ord. No. 82 | 8-24-2010 | Storm sewers: illicit discharges and connections | Ch. 129, Art. I | 
+ | 2-22-2011 | Motor vehicle tax amendment | Ch. 136, Art. IX | 
+Ord. No. 83 | 9-27-2011 | Personal property tax exemption | Ch. 136, Art. XI | 
+ | 2-14-2012 | Solid waste, recycling and hazardous waste amendment | Ch. 94 | 
+ | 2-28-2012 | Voting districts and places amendment | Ch. 9, Art. I | 
+ | 9-11-2012 | Solid waste, recycling and hazardous waste amendment | Ch. 94 | 
+Ord. No. 84 | 10-23-2012 | Emergency Storm Fund | Ch. 12 | 
+ | 3-26-2013 | Code of Ethics amendment | Ch. 6 | 
+Ord. No. 85 | 7-9-2013 | Agriculture Commission | Ch. 1B | 
+Ord. No. 86 | 8-27-2013 | Education Reserve Fund | Ch. 8 | 
+Ord. No. 87 | 1-29-2015 | Debt Service Fund | Ch. 7A | 
+ | 3-24-2015 | Elections: voting districts and places amendment | Ch. 9, Art. I | 
+Ord. No. 88 | 7-14-2015 | Open space areas: Residential Design District | Ch. 113, Art. II | 
+ | 11-24-2015 | Library Advisory Board amendment | Ch. 30 | 
+Ord. No. 89 | 10-11-2016 | Property maintenance: blighted premises | Ch. 118, Art. I | 
+ | 1-24-2017 | Tax abatement program for business zones amendment | Ch. 136, Art. XII | 
+Ord. No. 90 | 1-24-2017 | Fire protection: permits and inspections; fees | Ch. 81, Art. II | 
+Ord. No. 92 | 10-24-2017 | Farming: right to farm | Ch. 77, Art. I | 
+ | 10-24-2017 | Solid waste, recycling, hazardous waste amendment | Ch. 94 | 
+ | 11-13-2018 | Education Reserve Fund | Ch. 8 | 
+Ord. No. 93 | 1-22-2019 | Conservation Fund | Ch. 6A | 
+Ord. No. 94 | 3-12-2019 | Agriculture Fund | Ch. 1C | 
+
+
+dl      disposition list
+https://ecode360.com/11767144
+-2.0285815248560595
+Town Meeting | 12-20-1963 | Alcoholic beverages | Ch. 53 | 
+Town Meeting | 3-13-1964 | Drainage ditches and driveways | Ch. 130, Art. I | 
+Town Meeting | 3-24-1965 | Zoning exemption | Ch. 159 | 
+Town Meeting | 7-10-1973 | Regional Council of Governments | Ch. 44 | 
+Sewer Authority | 10-26-1977 | Sewer assessments | Superseded 9-25-1990 (see Ch. 164) | 
+Policy No. 2 | 11-22-1983 | Charges for copy services | § A176-2 | 
+Policy No. 3 | 11-22-1983 | Disposal of surplus real public property | § A176-3 | 
+Policy No. 4 | 11-22-1983 | Disposal of surplus personal public property | § A176-4 | 
+Policy No. 5 | 4-10-1984 | Use of public safety personnel at public events
+in school buildings and grounds | § A176-5 | 
+Policy No. 6 | 10-9-1984 | Use of Tolland Green by groups and organizations | § A176-6 | 
+Policy No. 1 | 11-1-1984 | Policy regarding water main assessments | § A176-1 | 
+Policy No. 7 | 11-12-1985 | Use of Hicks Memorial Municipal Center and Library
+building | § A176-7 | 
+Policy No. 8 | 4-22-1986 | Exempting public service groups from public
+service payments | § A176-8 | 
+Policy No. 9 | 8-28-1988 | Issuance of senior citizen cards | § A176-9 | 
+ | 3-24-1987 | Dog impoundment fees | § A173-2 | 
+Policy No. 10 | 12-8-1987 | Delinquent motor vehicle tax payments | § A176-10 | 
+ | 5-10-1988 | Cemetery fees | § A173-1 | 
+ | 7-5-1988 | Inland wetlands and watercourses regulations | See Ch. 158 | 
+Planning and Zoning
+Comm-
+ission | 11-14-1988 | Subdivision regulations | Superseded 7-12-2000 | 
+Policy No. 11 | 4-25-1989 | Purchasing policy | § A176-11 | 
+ | 6-27-1989 | Water regulations | Ch. 146 | 
+ | 10-10-1989 | Personnel policies | Superseded 6-8-1999 | 
+ | 5-8-1990 | Sewage disposal system and water supply wells
+fees | § A173-3 | 
+ | 6-12-1990 | Building permit fees | § A173-4 | 
+ | 9-25-1990 | Sewer regulations | Ch. 164 | 
+ | 11-26-1990 | Subdivision amendment | Superseded 7-12-2000 | 
+ | 9-25-1990 | Sewer regulations | Ch. 164 | 
+ | 1- 14-1991 | Zoning amendment | Superseded 5-24-1993 | 
+ | 3-12-1991 | Personnel policies amendment | Superseded 6-8-1999 | 
+ | 4-9-1991 | Zoning Board of Appeals applications fees | § A173-5 | 
+ | 5-13-1991 | Subdivision amendment | Superseded 7-12-2000 | 
+ | 5-28-1991 | Zoning amendment | Superseded 5-24-1993 | 
+ | 11-6-1991 | Town Council rules of procedure amendment | Ch. A175 | 
+ | 11-12-1991 | Soil testing fees amendment | § A173-3 | 
+ | 1-7-1992 | Personnel policies amendment | Superseded 6-8-1999 | 
+ | 6-8-1992 | Subdivision amendment | Superseded 7-12-2000 | 
+Planning
+and Zoning
+Comm-
+ission | 5-24-1993 | Zoning regulations | Superseded 7-12-2000 | 
+Inland
+Wetlands
+Comm-
+ission | 10-7-1993 | Wetlands and watercourses amendment | Superseded 7-13-1998 | 
+ | 1-24-1994 | Zoning amendment | See Ch. 170 | 
+ | 2-14-1994 | Subdivision amendment | See Ch. 166 | 
+ | 6-14-1994 | Water main extensions amendment | Ch. 57, Art. I | 
+ | 8-9-1994 | Personnel policies amendment | Ch. A174 | 
+ | 9-26-1994 | Zoning amendment | See Ch. 170 | 
+ | 1-17-1995 | General assessment and sewer regulations amendment | Ch. 57, Art. II; Ch. 164 | 
+ | 1-23-1995 | Subdivision amendment | See Ch. 166 | 
+ | 1-23-1995 | Zoning amendment | See Ch. 170 | 
+ | 3-13-1995 | Zoning amendment | See Ch. 170 | 
+ | 3-14-1995 | Sewer regulations amendment | Ch. 164 | 
+Policy No. 1 | 6-3-1995 | Policy regarding water main assessments amendment | Ch. A176 | 
+ | 8-14-1995 | Zoning amendment | See Ch. 170 | 
+ | 9-12-1995 | Water amendment | Ch. 146 | 
+ | 12-11-1995 | Zoning amendment | See Ch. 170 | 
+ | 12-12-1995 | Permanent Building Committee repealer | Ch. 2, repealer | 
+ | 2-13-1996 | Food service establishments | Ch. 90; § A173-6 | 
+ | 3-26-1996 | Justices of the Peace amendment | Ch. 27 | 
+ | 8-1-1996 | Inland wetlands and watercourses | See Ch. 158 | 
+ | 12-9-1996 | Zoning amendment | See Ch. 170 | 
+ | 1-14-1997 | Personnel policies amendment | Ch. A174 | 
+ | 1-27-1997 | Subdivision amendment | See Ch. 166 | 
+ | 2-11-1997 | Personnel policies amendment | Ch. A174 | 
+ | 2-24-1997 | Zoning amendment | See Ch. 170 | 
+ | 6-10-1997 | Sewage disposal and water supply amendment | Ch. 124; § A173-3 | 
+ | 6-10-1997 | Food service permit fees amendment | § A173-6 | 
+ | 6-10-1997 | Plan review fees | § A173-8 | 
+ | 6-19-1997 | Inland wetlands and watercourses amendment | See Ch. 158 | 
+ | 7-28-1997 | Moratorium on tele-
+communications | NCM | 
+ | 12-22-1997 | Zoning amendment | See Ch. 170 | 
+ | 6-9-1998 | Cemetery fees amendment | § A173-1 | 
+ | 6-18-1998 | Inland wetlands and watercourses amendment | See Ch. 158 | 
+ | 8-25-1998 | Conservation Commission | Ch. 7 | 
+Policy No. 8 | 2-23-1999 | Policy regarding public safety service payments
+exemptions | § A176-8 | 
+ | 4-12-1999 | Zoning amendment | See Ch. 170 | 
+ | 5-24-1999 | Zoning amendment | See Ch. 170 | 
+ | 6-8-1999 | Personnel policies | Ch. A174 | 
+Policy No. 12 | 7-23-1999 | Comprehensive capital financing policy | § A176-12 | 
+Policy No. 14 | 7-27-1999 | Computer policy | § A176-14 | 
+ | 8- 17-1999 | Building permit fee amendment | § A173-4 | 
+ | 11-4-1999 | Inland wetlands and watercourses amendment | See Ch. 158 | 
+ | 2-1-2000 | Water main extensions amendment; water amendment | Ch. 57, Art. I; Ch. 146 | 
+Policy No. 11 | 6-13-2000 | Purchasing policy amendment | § A176-11 | 
+Policy No. 13 | 6-27-2000 | Short-term investments | § A176-13 | 
+Policy No. 12 | 6-27-2000 | Comprehensive capital financing policy amendment | § A176-12 | 
+ | 7-12-2000 | Zoning regulations | See Ch. 170 | 
+ | 7-12-2000 | Subdivision regulations | See Ch. 166 | 
+ | 7-12-2000 | Design manual | See Ch. 166 | 
+ | 8-22-2000 | Personnel policy amendment | Ch. A174 | 
+ | 9-18-2000 | Subdivision fees amendment | Ch. 132 | 
+ | 10-10-2000 | Sewer regulations amendment | Ch. 164 | 
+Policy No. 15 | 1-23-2001 | Town Green sign policy | § A176-15 | 
+ | 7-9-2001 | Zoning regulations amendment; zoning violations
+amendment | See Ch. 170; Ch. 171 | 
+ | 7-9-2001 | Subdivision of land amendment | See Ch. 166 | 
+ | 1-22-2002 | Local tax relief program amendment | Ch. 136, Art. VI | 
+ | 3-12-2002 | Parking amendment | Ch. 14, Art. I | 
+Policy No. 11 | 4-9-2002 | Purchasing policy | § A176-11 | 
+Policy No. 14 | 6-11-2002 | Capital asset policy | See § A176-12 | 
+Policy No. 15 | 6-27-2002 | Capital budgeting guidelines | See § A176-12 | 
+ | 9-9-2002 | Zoning amendment | See Ch. 170 | 
+Policy No. 12 | 9-24-2002 | Capital financing policy amendment | § A176-12 | 
+Policy No. 16 | 12-10-2002 | Policy regarding placement of mailboxes, newspaper
+tubes, roadside structures and landscaping elements | § A176-16 | 
+ | 1-13-2003 | Zoning amendment | See Ch. 170 | 
+ | 1-13-2003 | Zoning amendment | See Ch. 170 | 
+ | 4-15-2003 | Sewer regulations | Ch. 164 | 
+ | 4-22-2003 | Fire zones | Ch. 85 | 
+ | 4-22-2003 | Vehicles and traffic | Ch. 143 | 
+ | 5-13-2003 | Noise amendment | Ch. 103 | 
+ | 5-22-2003, effective 11-5-2003 | Charter | Charter | 
+ | 6-9-2003 | Zoning amendment | See Ch. 170 | 
+Res. No. 03-40 | 6-24-2003 | Conservation Commission amendment | Ch. 7 | 
+ | 8-25-2003 | Subdivision of land amendment | See Ch. 166 | 
+ | 8-26-2003 | Parks and recreation areas amendment | Ch. 112 | 
+ | 8-26-2003 | Planning and zoning permit fees | §§ A173-4, A173-5, A173-9 and A173-10 | 
+ | 9-8-2003 | Subdivision of land and zoning amendments | See Chs. 166 and 170 | 
+ | 10-27-2003 | Subdivision of land and zoning amendments | See Chs. 166 and 170 | 
+ | 2-19-2004 | Inland wetlands and watercourses regulations
+amendment | See Ch. 158 | 
+ | 3-22-2004 | Zoning amendment | See Ch. 170 | 
+Policy No. 8 | 4-13-2004 | Policy exempting public service groups for public
+safety service payments amendment | § A176-8 | 
+ | 4-13-2004 | Personnel policies | Ch. A174 | 
+ | 5-4-2004 | Charter amendments | Charter | 
+Policy No. 11 | 5-25-2004 | Purchasing Policy amendment | § A176-11 | 
+ | 6-8-2004 | Voting districts and places amendment | Ch. 9, Art. I | 
+ | 8-17-2004 | Sewers | Ch. 164 | 
+Policy | 8-24-2004 | Purchasing development rights | § A176-16.1 | 
+Res. No. 04-59 | 8-10-2004 | Planning and zoning application permit fees amendment | § A173-9 | 
+ | 10-25-2004 | Subdivision; design manual amendment | See Ch. 166 | 
+ | 10-25-2004 | Zoning amendment | See Ch. 170 | 
+ | 10-25-2004 | Zoning amendment | See Ch. 170 | 
+ | 10-25-2004 | Zoning amendment | See Ch. 170 | 
+ | 11-4-2004 | Inland wetlands and watercourses regulations
+amendments | See Ch. 158 | 
+Policy | 11-23-2004 | Repeal of Policy No. 8 | Ch. A176, Editors' note only | 
+ | 12-14-2004 | Personnel policies amendment | Ch. A174 | 
+ | 2-28-2005 | Zoning amendment | See Ch. 170 | 
+ | 7-11-2005 | Subdivision; design manual amendment | See Ch. 166 | 
+Policy | 7-26-2005 | Policy concerning disposal of surplus personal
+public property amendment | § A176-4 | 
+ | 8-23-2005 | Garbage, rubbish and refuse amendment | Ch. 94 | 
+Policy | 8-23-2005 | Bulky waste collection fee schedule amendment | § A176-17 | 
+ | 10-11-2005 | Cemetery fees amendment | § A173-1 | 
+ | 10-24-2006 | Noise amendment | Ch. 130 | 
+ | 11-28-2006 | Celebration Committee amendment | Ch. 3 | 
+ | 11-28-2006 | Cemetery fees amendment | § A173-1 | 
+ | 4-22-2008 | Personnel policies and procedures amendment | Ch. A174 | 
+ | 7-8-2008 | Building permit fees amendment | § A173-4 | 
+ | 7-8-2008 | Zoning Board of Appeals applications fees amendment | § A173-5 | 
+ | 8-12-2008 | Voting districts and places amendment | Ch. 9, Art. I | 
+ | 2-10-2009 | Dog impoundment fees amendment | § A173-2 | 
+Policy | 3-10-2009 | Collection policies | § A176-18 | 
+ | 3-24-2009 | Rules of procedure | Ch. A175 | 
+Policy | 4-14-2009 | Town Green and Fire Training Center sign policy
+amendment | § A176-15 | 
+ | 6-9-2009 | Personnel policies and procedures amendment | Ch. A174 | 
+ | 11-4-2009 | Rules of procedure amendment | Ch. A175 | 
+ | 11–24-2009 | Personnel policies and procedures amendment | Ch. A174 | 
+Policy | 11-24-2009 | Distribution of materials and use of Town facilities for political
+purposes | § A176-19 | 
+ | 1-12-2010 | Rules of procedure amendment | Ch. A175 | 
+ | 3-23-2010 | Building permit fees amendment | § A173-4 | 
+Policy | 8-10-2010 | Town Green and Fire Training Center sign policy amendment | § A176-15 | 
+Policy | 9-28-2010 | Purchasing policy amendment | § A176-11 | 
+Policy | 12-14-2010 | Policy on delinquent tax collection enforcement for real estate
+taxes | § A176-20 | 
+Policy | 1-25-2011 | Financial policy amendment | § A176-12 | 
+ | 6-28-2011 | Personnel policies and procedures amendment | Ch. A174 | 
+ | 7-26-2011 | Building permit fees amendment | § A173-4 | 
+ | 8-9-2011 | Personnel policies and procedures amendment | Ch. A174 | 
+Policy | 1-10-2012 | Social media policy | § A176-21 | 
+Water Pollution Control Authority | 1-17-2012 | Sewer regulations amendment | Ch. 164 | 
+Water Pollution Control Authority | 1-17-2012 | Water Pollution Control Authority Schedule of Connection Charges | § A173-12 | 
+Water Pollution Control Authority | 3-20-2012 | Sewer regulations amendment | Ch. 164 | 
+ | 3-27-2012 | Taxation: Motor Vehicle Tax Amendment | Ch. 136, Art. IX | 
+ | 5-22-2012 | Water amendment | Ch. 146 | 
+ | 6-12-2012 | Impoundment of dogs fees amendment; sewage disposal systems
+and water supply wells repealer; building permit fees amendment; Zoning
+Board of Appeals application fees amendment; food service permits
+repealer; topographic mapping repealer; plan review repealer; planning
+and zoning application permit fees amendment; zoning permit fees amendment;
+delinquent motor vehicle tax payments fee; policy regarding delinquent
+motor vehicle tax payments amendment | §§ A173-2 through A173-10; A173-13; A176-10 | 
+ | 6-26-2012 | Personnel policies and procedures amendment | Ch. A174 | 
+Policy | 8-29-2012 | Post-issuance tax compliance policies and procedures | § A176-22 | 
+ | 6-11-2013 | Personnel policies and procedures amendment | Ch. A174 | 
+ | 8-27-2013 | Code of Ethics amendment | Ch. 6 | 
+Policy | 11-12-2013; 11-13-2013 | Town and Board of Education utility internal service policy/agreement | § A176-24 | 
+ | 1-28-2014 | Personnel policies and procedures amendment | Ch. A174 | 
+ | 1-28-2014 | Rules of procedure amendment | Ch. A175 | 
+Policy | 3-25-2014 | Purchasing policy amendment | § A176-11 | 
+Policy | 3-25-2014 | Financial policy amendment | § A176-12 | 
+ | 4-8-2014 | Parks and recreation areas amendment | Ch. 112 | 
+Policy | 5-13-2014 | Collection policies amendment | § A176-18 | 
+Res. No. 14-55 | 8-12-2014 | Open space areas | Ch. 113 | 
+Res. No. 14-81 | 12-9-2014 | Tax abatement program for Tolland Village Area, Gateway Design
+District and Technology Campus Zone | Ch. 136, Art. XII | 
+Res. No. 15-58 | 8-25-2015 | Policy on delinquent tax collection enforcement for real estate
+taxes amendment | § A176-20 | 
+Res. No. 15-62 | 10-13-2015 | Water Pollution Control Authority Schedule of Connection Charges
+amendment | § A173-12 | 
+ | 11-4-2015 | Rules of procedure amendment | Ch. A175 | 
+ | 6-14-2016 | Personnel policies and procedures amendment | Ch. A174 | 
+Policy No. 24 | 6-28-2016 | Municipal website content policy | § A173-23 | 
+Res. No. 16-55 | 11-8-2016 | Building permit fees amendment | § A173-4 | 
+Water Pollution Control Authority | 11-15-2016 | Water Pollution Control Authority Schedule of Connection Charges
+amendment | § A173-12 | 
+Water Pollution Control Authority | 1-23-2017 | Water Pollution Control Authority Schedule of Connection Charges
+amendment | § A173-12 | 
+ | 5-23-2017 | Fire Department: mitigation rates | Ch. 20, Art. I | 
+Res. No. 17-49 | 8-22-2017 | Subdivision fees repealer; planning and zoning application permit
+fees amendment; zoning permit fees amendment | Ch. 132, reference only; § A173-9; § A173-10 | 
+Res. No. 17-60 | 10-10-2017 | Property maintenance: blighted premises amendment | Ch. 118, Art. I | 
+Water Pollution Control Authority | 1-1-2018 | Water Pollution Control Authority Schedule of Connection Charges
+amendment | § A173-12 | 
+Res. No. 18-09 | 2-27-2018 | Property maintenance: blighted premises amendment | Ch. 118, Art. I | 
+Policy | 3-27-2018 | Financial policy amendment | § A176-12 | 
+Res. No. 18-39 | 8-14-2018 | Fees Amendment | Ch. A173 | 
+ | 8-28-2018 | Streets, Sidewalks and Other Public Improvements: Public Improvements
+Manual | Ch. 130, Art. IV | 
+ | 11-6-2018, effective 11-7-2018 | Charter | Charter | 
+Policy No. 22 | 12-11-2018 | Social Media Policy Amendment | §A176-21 | 
+Water Pollution Control Authority | 1-15-2019 | Water Pollution Control Authority Schedule of Connection Charges
+amendment | § A173-12 | 
+
+

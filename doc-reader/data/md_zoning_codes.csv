@@ -1,0 +1,690 @@
+﻿jurscode,county,muni,premcity,zoneauth,zoning,zoning_name
+KENT,Kent,Kent,KENT,COUNTY,AZD,Agricultural
+MONT,Montgomery,Laytonsville,LAYTONSVILLE,MUNICIPALITY,A,Agricultural
+TALB,Talbot,Trappe,TRAPPE,MUNICIPALITY,A,Agricultural
+WICO,Wicomico,Wicomico,WICOMICO,COUNTY,A-1 ,Agricultural - Rural
+HARF,Harford,Harford,HARFORD,COUNTY,AG,Agricultural (Conventional Residential)
+WASH,Washington,Washington,WASHINGTON,COUNTY,A (R ),Agricultural (Rural)
+CHAR,Charles,Charles,CHARLES,COUNTY,AC,Agricultural Conservation
+TALB,Talbot,Talbot,TALBOT,COUNTY,AC,Agricultural Conservation
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,AC-RCA,Agricultural Conservation -- Resource Conservation Area District
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,AC,Agricultural Conservation District
+CARR,Carroll,Carroll,CARROLL,COUNTY,A,Agricultural District
+TALB,Talbot,Easton,EASTON,MUNICIPALITY,A-1,Agricultural District
+WORC,Worcester,Worcester,WORCESTER,COUNTY,A-1,Agricultural District
+WORC,Worcester,Worcester,WORCESTER,COUNTY,A-2,Agricultural District
+SOME,Somerset,Somerset,SOMERSET,COUNTY,AR,Agricultural Residential
+GARR,Garrett,Deep Creek Lake,DEEP CREEK LAKE,MUNICIPALITY,AR,Agricultural Resource
+GARR,Garrett,Mountain Lake Park,MOUNTAIN LAKE PARK,MUNICIPALITY,AR,Agricultural Resource Area
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,AT,Agricultural Transition
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,AR,Agricultural-Residential District 
+FRED,Frederick,Frederick,FREDERICK,COUNTY,A,Agriculture
+QUEE,Queen Anne's,Barclay,BARCLAY,MUNICIPALITY,A,Agriculture
+CECI,Cecil,Rising Sun,RISING SUN,MUNICIPALITY,A-R,Agriculture district
+KENT,Kent,Millington,MILLINGTON,MUNICIPALITY,AR,Agriculture District
+TALB,Talbot,St. Michaels,ST. MICHAELS,MUNICIPALITY,A,Agriculture District
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,AR,Agriculture Reserved
+WORC,Worcester,Berlin,BERLIN,MUNICIPALITY,R-3,Apartment District
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,A.S.,Automotive Service
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,NC-20,avg lot size  20000
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,BSC,Bio-Science Campus Zoning District
+GARR,Garrett,Oakland County seat,OAKLAND COUNTY SEAT,MUNICIPALITY,CBA,Central Business Area
+TALB,Talbot,Easton,EASTON,MUNICIPALITY,CR,Central Business Commercial District
+CHAR,Charles,La Plata,LA PLATA,MUNICIPALITY,CBT,Central Business Transition Zone
+CECI,Cecil,Rising Sun,RISING SUN,MUNICIPALITY,CC,Central commercial district
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,CMPD,Chester Master-Planned Development District 
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,CC-MU,City Center Mixed Use
+CECI,Cecil,Charlestown,CHARLESTOWN,MUNICIPALITY,C-1,Commercial
+GARR,Garrett,Oakland County seat,OAKLAND COUNTY SEAT,MUNICIPALITY,C,Commercial
+GARR,Garrett,Mountain Lake Park,MOUNTAIN LAKE PARK,MUNICIPALITY,C,Commercial 
+TALB,Talbot,Oxford,OXFORD,MUNICIPALITY,C-1,Commercial District
+CALV,Calvert,Chesapeake Beach,CHESAPEAKE BEACH,MUNICIPALITY,C,Commercial District 
+QUEE,Queen Anne's,Church Hill,CHURCH HILL,MUNICIPALITY,C,Commercial District 
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,C3,Commercial- General
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,C1,Commercial- Local
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,CM,commercial marine
+CALV,Calvert,North Beach,NORTH BEACH,MUNICIPALITY,C-M ,Commercial mixed use
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,C2,Commercial- Office
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR0.5,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR0.7,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR1.0,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR1.2,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR1.5,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR1.7,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR2.0,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR2.2,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR2.5,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR2.7,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR3.0,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR3.5,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR4.0,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR5.0,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR5.2,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR6.0,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR6.2,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR7.2,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR8.0,Commercial Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRN1.0,Commercial Residential Neighborhood
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRN0.2,Commercial Residential Neighborhood
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRN0.7,Commercial Residential Neighborhood
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT0.2,Commercial Residential Town
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT0.7,Commercial Residential Town
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT1.0,Commercial Residential Town
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT1.2,Commercial Residential Town
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT1.7,Commercial Residential Town
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT2.0,Commercial Residential Town
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT2.2,Commercial Residential Town
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT3.0,Commercial Residential Town
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT4.0,Commercial Residential Town
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,C.C.C,"Commercial, Community Core"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,C.R.,"Commercial, Rural"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,C.T,"Commercial, Town Center Core"
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRN,Commercial/Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CRT,Commercial/Residential
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,CR,Commercial/Residential
+KENT,Kent,Rock Hall,ROCK HALL,MUNICIPALITY,C-1,Community Commercial District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,C-2,Community Commercial Zoning District
+KENT,Kent,Kent,KENT,COUNTY,CR,community residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,L-A-C,Comprehensive Design Zones - Subdivision - LOCAL ACTIVITY CENTER
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,M-A-C,Comprehensive Design Zones - Subdivision - MAJOR ACTIVITY CENTER
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-L,Comprehensive Design Zones - Subdivision - Residential Low Development
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-M,Comprehensive Design Zones - Subdivision - Residential Medium Development
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-S,Comprehensive Design Zones - Subdivision - Residential Suburban Development
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-U,Comprehensive Design Zones - Subdivision - Residential Urban Development
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,V-L,Comprehensive Design Zones - Subdivision - Village Low Density 
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,V-M,Comprehensive Design Zones - Subdivision - Village Medium Density
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,C2,Conservation Business
+CARR,Carroll,Carroll,CARROLL,COUNTY,C,Conservation District
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,C1,Conservation Residence
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,B1,Convenience Shopping
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,C,Conversion District 
+CHAR,Charles,Charles,CHARLES,COUNTY,CER,Core Employment/Residential
+CHAR,Charles,Charles,CHARLES,COUNTY,CMR,Core Mixed Residential
+CHAR,Charles,Charles,CHARLES,COUNTY,CRR,Core Retail/Residential
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,CMX,coridor mixed use
+HOWA,Howard,Howard,HOWARD,COUNTY,CAC,Corridor Activity Center
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,CD,Corridor Deveopment
+DORC,Dorchester,Cambridge,CAMBRIDGE,MUNICIPALITY,CMU,Corridor Mixed Use (CMU) Lots
+TALB,Talbot,Talbot,TALBOT,COUNTY,CP,Countryside Preservation
+KENT,Kent,Kent,KENT,COUNTY,CAR,Critical Area Residential
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,D.R.1,"Density Residential, 1.0 dwelling unit per acre"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,D.R.10.5,"Density Residential, 10.5 dwelling units per acre"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,D.R.16,"Density Residential, 16.0 density units per acre"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,D.R.2,"Density Residential, 2.0 dwelling units per acre"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,D.R.3.5,"Density Residential, 3.5 dwelling units per acre"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,D.R.5.5,"Density Residential, 5.5 dwelling units per acre"
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-2,Detached and Semi-Detached Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-4,Detached and Semi-Detached Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-1A,Detached Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-1B,Detached Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-1C,Detached Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-1D,Detached Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-1E,Detached Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-1,Detached Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-3,Detached Residential Zoning District
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,C-2,downtown commercial district
+FRED,Frederick,Frederick,FREDERICK,COUNTY,DB,Downtown Commercial/Residential
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,DMX,downtown core mixed use
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,C-5,Downtown District
+FRED,Frederick,Frederick,FREDERICK,COUNTY,DBO,Downtown Office Commercial
+FRED,Frederick,Frederick,FREDERICK,COUNTY,DR,Downtown Residential
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,R-5,downtown residential district
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,O-EOD,East Odenton
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,EC,Educational Campus Zoning District
+KENT,Kent,Kent,KENT,COUNTY,EC,Employment Center
+CECI,Cecil,Cecil,CECIL,COUNTY,EMU,Employment Mixed Use
+WASH,Washington,Washington,WASHINGTON,COUNTY,EC ,Environmental Conservation
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.8,Environmental Enhancement Zone
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,O-HIS,Eodenton Historic
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,E,Estate District
+WORC,Worcester,Worcester,WORCESTER,COUNTY,E-1,Estate District
+CALV,Calvert,Calvert,CALVERT,COUNTY,FFD,Farm and Forest District 
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,C-1,general commercial district
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,C-3,General Commercial Zoning District
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R3,General Residence
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R4,General Residence
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R3-NC,General Residence Neighborhood Conservation 
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R3-NC2,General Residence Neighborhood Conservation 2
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R3-R,General Residence Neighborhood Revitalization
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R4-R,General Residence Neighborhood Revitalization
+WORC,Worcester,Worcester,WORCESTER,COUNTY,R-4,General Residential District 
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,GNC,Grasonville Neighorhood Commercial District 
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,GPRN,Grasonville Planned Residential Neighborhood District
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,GVC,Grasonville Village Commercial District 
+CALV,Calvert,Chesapeake Beach,CHESAPEAKE BEACH,MUNICIPALITY,R-HD,High Density Residential
+CECI,Cecil,Cecil,CECIL,COUNTY,RM,High Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-12,High Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-16,High Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-20,High Density Residential
+HARF,Harford,Bel Air,BEL AIR,MUNICIPALITY,R-3,High Density Residential
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,R-H,High Density Residential
+SOME,Somerset,Somerset,SOMERSET,COUNTY,R-3,High Density Residential
+WORC,Worcester,Snow Hill,SNOW HILL,MUNICIPALITY,R-3,High Density Residential
+KENT,Kent,Rock Hall,ROCK HALL,MUNICIPALITY,R-3,High Density Residential District
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R-H,High Rise
+CHAR,Charles,Charles,CHARLES,COUNTY,RH,High-Density Residential
+DORC,Dorchester,Hurlock,HURLOCK,MUNICIPALITY,R-3,High-density Residential District
+HOWA,Howard,Howard,HOWARD,COUNTY,HC,Historic Commercial
+HOWA,Howard,Howard,HOWARD,COUNTY,HO,Historic Office
+TALB,Talbot,Oxford,OXFORD,MUNICIPALITY,R-2,Historic Residential District
+MONT,Montgomery,Brookeville,BROOKEVILLE,MUNICIPALITY,HVC,Historic Village Commercial
+MONT,Montgomery,Brookeville,BROOKEVILLE,MUNICIPALITY,HVR,Historic Village Residential
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,H,Honeygo Area
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,HI,Honeygo Area
+CHAR,Charles,Charles,CHARLES,COUNTY,HVC,Hughesville Village Core Subzone
+CHAR,Charles,Charles,CHARLES,COUNTY,HVG,Hughesville Village Gateway Subzone
+CHAR,Charles,Charles,CHARLES,COUNTY,HVR,Hughesville Village Residential Subzone
+KENT,Kent,Kent,KENT,COUNTY,I ,Industrial
+KENT,Kent,Kent,KENT,COUNTY,LDA,Industrial Critical Area
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,IMU-1,Industrial Mixed-Use Zoning District
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,I.M,"Industrial, Major "
+KENT,Kent,Kent,KENT,COUNTY,IV,Intense Village
+KENT,Kent,Kent,KENT,COUNTY,IVCA,Intense Village Critical Area
+GARR,Garrett,Deep Creek Lake,DEEP CREEK LAKE,MUNICIPALITY,LR1,Lake Residential 1 District 
+GARR,Garrett,Deep Creek Lake,DEEP CREEK LAKE,MUNICIPALITY,LR2,Lake Residential 2 District 
+CECI,Cecil,Rising Sun,RISING SUN,MUNICIPALITY,LC,Light Commercial district
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,LC,Local Conversion District 
+CECI,Cecil,Cecil,CECIL,COUNTY,LDR,Low Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-1,Low Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-2,Low Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-3,Low Density Residential
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,R-A,Low Density Residential
+SOME,Somerset,Somerset,SOMERSET,COUNTY,R-1,Low Density Residential
+WORC,Worcester,Snow Hill,SNOW HILL,MUNICIPALITY,R-1,Low Density Residential
+CALV,Calvert,Chesapeake Beach,CHESAPEAKE BEACH,MUNICIPALITY,R-LD,Low Density Residential 
+HARF,Harford,Bel Air,BEL AIR,MUNICIPALITY,R-1,Low Density Residential 
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,R-3,low density residential district
+KENT,Kent,Rock Hall,ROCK HALL,MUNICIPALITY,R-1,Low Density Residential District
+DORC,Dorchester,Hurlock,HURLOCK,MUNICIPALITY,R-1,Low-density  Residential District
+CHAR,Charles,Charles,CHARLES,COUNTY,RL,Low-Density Residential
+CECI,Cecil,Cecil,CECIL,COUNTY,MH,Manufactured Home
+KENT,Kent,Rock Hall,ROCK HALL,MUNICIPALITY,MC,Maritime Commercial District
+CALV,Calvert,Chesapeake Beach,CHESAPEAKE BEACH,MUNICIPALITY,M,Maritime District 
+KENT,Kent,Rock Hall,ROCK HALL,MUNICIPALITY,Mrec,Maritime Recreational District
+SOME,Somerset,Somerset,SOMERSET,COUNTY,MRC,Maritime Residential Commercial
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,M-A-R,Maritime-Agricultural-Residential 
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-4,Medium Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-5,Medium Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-6,Medium Density Residential
+FRED,Frederick,Frederick,FREDERICK,COUNTY,R-8,Medium Density Residential
+HARF,Harford,Bel Air,BEL AIR,MUNICIPALITY,R-2,Medium Density Residential
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,R-6,Medium Density Residential
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,R-18,Medium Density Residential
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,R-20,Medium Density Residential
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,R-90,Medium Density Residential
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,R-90 C,Medium Density Residential
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,RP-T,Medium Density Residential
+SOME,Somerset,Somerset,SOMERSET,COUNTY,R-2,Medium Density Residential
+WORC,Worcester,Snow Hill,SNOW HILL,MUNICIPALITY,R-2,Medium Density Residential
+CHAR,Charles,Charles,CHARLES,COUNTY,RM,Medium-Density Residential 
+DORC,Dorchester,Hurlock,HURLOCK,MUNICIPALITY,R-2,Medium-density Residential District
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,ME,Mercantile Exposition
+CALV,Calvert,Chesapeake Beach,CHESAPEAKE BEACH,MUNICIPALITY,R-MD,Mid Density Residential 
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,M43,Middle River Employment Center
+CECI,Cecil,Cecil,CECIL,COUNTY,MEA,Mineral Extraction A
+CARO,Caroline,Denton ,DENTON ,MUNICIPALITY,MR,Mixed Residential
+CARO,Caroline,Ridgley,RIDGLEY,MUNICIPALITY,R-2 ,Mixed Residential District
+CECI,Cecil,Rising Sun,RISING SUN,MUNICIPALITY,R-2,Mixed Residential District
+KENT,Kent,Rock Hall,ROCK HALL,MUNICIPALITY,R-2,Mixed Residential District
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,MX,Mixed Use
+HOWA,Howard,Howard,HOWARD,COUNTY,MXD-3,Mixed Use
+HOWA,Howard,Howard,HOWARD,COUNTY,MXD-6,Mixed Use
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,MXD,Mixed Use
+QUEE,Queen Anne's,Sudlersville,SUDLERSVILLE,MUNICIPALITY,MU,Mixed Use 
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,MXB,Mixed Use Business
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,MXD-C,Mixed Use Commercial
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,MXC,Mixed Use Commercial
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,M-X-C,Mixed Use Community
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,MXCD,Mixed Use Corridor District
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,MXD-E,Mixed Use Employment
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,MXE,Mixed Use Employment
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,M-U-I,Mixed Use Infill
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,MXN,Mixed Use Neighborhood 
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,MXNC,Mixed Use Neighborhood Commercial
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,MXD-R,Mixed Use Residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,M-U-TC,Mixed Use Town Center
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,MXD-T,Mixed Use Transit
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,MXTD,Mixed Use Transit District
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,MXT,Mixed Use Transitional
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,M-X-T,Mixed Use Transportation oriented
+CECI,Cecil,Rising Sun,RISING SUN,MUNICIPALITY,MH,Mobile Home district
+CECI,Cecil,Rising Sun,RISING SUN,MUNICIPALITY,R-3,Multi family district
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-H,"multifamilly, high rise"
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-10 ,Multifamily High Density Residential 
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-10A,Multifamily High Density Residential-Efficiency
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-H,Multifamily High-Rise Residential 
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-30,Multifamily Low Density Residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-30C,Multifamily Low Density Residential Condominium
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-18,Multifamily Medium Density Residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-18C,Multifamily Medium Density Residential Condominium
+CARO,Caroline,Preston ,PRESTON ,MUNICIPALITY,R-2,Multi-Family Residential
+WORC,Worcester,Worcester,WORCESTER,COUNTY,R-3,Multi-family Residential District
+WASH,Washington,Boonsboro,BOONSBORO,MUNICIPALITY,MR,Multi-family residential district 
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-10,"multifamily, high density"
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-30,"multifamily, low density"
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-18,"multifamily, medium density"
+CARO,Caroline,Federalsburg,FEDERALSBURG,MUNICIPALITY,R-3,Multiple Family Residential
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,R-4,multiple family residential district
+MONT,Montgomery,Poolesville,POOLESVILLE,MUNICIPALITY,PR-MUL,Multiple residential PR-MUL
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,NVC,Neighborhood and Village Center District 
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,C-1-E,Neighborhood Business and Entertainment Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,C-1,Neighborhood Business Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,C-1-VC,Neighborhood Business Zoning District (Village Center)
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,C-3,neighborhood commercial district
+WASH,Washington,Boonsboro,BOONSBORO,MUNICIPALITY,NC,Neighborhood Commercial District 
+WASH,Washington,Boonsboro,BOONSBORO,MUNICIPALITY,SR,Neighborhood Commercial District 
+WORC,Worcester,Worcester,WORCESTER,COUNTY,C-1 ,Neighborhood Commercial District 
+CHAR,Charles,La Plata,LA PLATA,MUNICIPALITY,NCX,Neighborhood Commercial Mixed Use Zone 
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,NC,Neighborhood Commons
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,NC,Neighborhood Conservation District
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,NC-15,Neighborhood Conservation District - avg lot size  15000
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,NC-5,Neighborhood Conservation District - avg lot size  217800
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,NC-8,Neighborhood Conservation District - avg lot size  8000
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,NC-1,Neighborhood Conservation District - avg lot size 43560
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,NC-2,Neighborhood Conservation District - avg lot size 87120
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,N-MU,Neighborhood Mixed Use 
+HOWA,Howard,Howard,HOWARD,COUNTY,NT,New Town
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R1A,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R1AA,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R1B,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R1C,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R1D,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R1E,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R2,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R3,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-R4,No Name
+WICO,Wicomico,Fruitland,FRUITLAND,MUNICIPALITY,F-W1,No Name
+CECI,Cecil,Cecil,CECIL,COUNTY,NAR,Northern Agricultural Residential
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,OT,Office and Technology
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,OR-1,Office Building -- Residential
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,OR-2,Office Building -- Residential
+QUEE,Queen Anne's,Church Hill,CHURCH HILL,MUNICIPALITY,OP,Office Professional District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,OR,Office-Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,OR-1,Office-Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,OR-2,Office-Residential Zoning District
+KENT,Kent,Millington,MILLINGTON,MUNICIPALITY,R-3,Old Town Residential District
+CARO,Caroline,Federalsburg,FEDERALSBURG,MUNICIPALITY,R-2,One-and-Two Family Residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-80,One-Family Detached Residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-55,One-Family Detached Residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-35,"One-Family Semidetached, and Two-Family Detached Residential"
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-20,One-Family Triple-Attached Residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,O-S,Open Space
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD2,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD3,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD4,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD5,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD7,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD9,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD11,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD13,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD15,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD18,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD22,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD25,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD28,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD35,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD44,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD60,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD68,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD75,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD88,Planned Development
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,PD100,Planned Development
+SOME,Somerset,Crisfield,CRISFIELD,MUNICIPALITY,PDD,Planned Development District 
+CHAR,Charles,Charles,CHARLES,COUNTY,PMH,Planned Development Zone - 
+CHAR,Charles,Charles,CHARLES,COUNTY,MX,Planned Development Zone - Mixed Use 
+CHAR,Charles,Charles,CHARLES,COUNTY,TOD,Planned Development Zone - Transit Oriented Development 
+CHAR,Charles,Charles,CHARLES,COUNTY,PRD,Planned Development Zone -Planned Residential Development Zone
+QUEE,Queen Anne's,Sudlersville,SUDLERSVILLE,MUNICIPALITY,PN,Planned Neighborhood District Floating Zone
+WICO,Wicomico,Salisbury,SALISBURY,MUNICIPALITY,PRD,Planned Residential District 
+HOWA,Howard,Howard,HOWARD,COUNTY,PSC,Planned Senior Community
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,PUD-V,Planned Unit Development 
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,PUD-R,Planned Unit Development 
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,PUD-X,Planned Unit Development - Mixed Use
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,PUD-MHP,Planned Unit Development - Mobile Home Park
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,PUDR,Planned Unit Development - Residential 
+QUEE,Queen Anne's,Centreville,CENTREVILLE,MUNICIPALITY,PUD,Planned Unit Development District
+GARR,Garrett,Mountain Lake Park,MOUNTAIN LAKE PARK,MUNICIPALITY,PD,Preservation District 
+GARR,Garrett,Oakland County seat,OAKLAND COUNTY SEAT,MUNICIPALITY,PD,Preservation District 
+WASH,Washington,Washington,WASHINGTON,COUNTY,P,Preservation District 
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,PM,Professional Mixed Office
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,PM2,Professional Mixed Office Park
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,P,Professional Office
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,RB,professional office district
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,P-I,Public Institutional
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-O-S,Reserved Open Space
+CARR,Carroll,Carroll,CARROLL,COUNTY,"R-40,000",Residence District
+CARR,Carroll,Carroll,CARROLL,COUNTY,"R-7,500","Residence, Multi-Family District"
+CARR,Carroll,Carroll,CARROLL,COUNTY,"R-20,000","Residence, Suburban District"
+CARR,Carroll,Carroll,CARROLL,COUNTY,"R-10,000","Residence, Urban District"
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,R1,Residential
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,R10,Residential
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,R15,Residential
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,R2,Residential
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,R22,Residential
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,R5,Residential
+QUEE,Queen Anne's,Queens Town,QUEENS TOWN,MUNICIPALITY,R-1 ,Residential
+QUEE,Queen Anne's,Queens Town,QUEENS TOWN,MUNICIPALITY,R-2,Residential
+SOME,Somerset,Princess Anne,PRINCESS ANNE,MUNICIPALITY,R-1,Residential
+TALB,Talbot,Trappe,TRAPPE,MUNICIPALITY,R-1,Residential
+TALB,Talbot,Trappe,TRAPPE,MUNICIPALITY,R-2,Residential
+TALB,Talbot,Trappe,TRAPPE,MUNICIPALITY,R-3,Residential
+WICO,Wicomico,Wicomico,WICOMICO,COUNTY,R-8,Residential
+WICO,Wicomico,Wicomico,WICOMICO,COUNTY,R-15,Residential
+WICO,Wicomico,Wicomico,WICOMICO,COUNTY,R-20,Residential
+WICO,Wicomico,Wicomico,WICOMICO,COUNTY,R-30,Residential
+WICO,Wicomico,Salisbury,SALISBURY,MUNICIPALITY,R-5,Residential
+WICO,Wicomico,Salisbury,SALISBURY,MUNICIPALITY,R-5A,Residential
+WICO,Wicomico,Salisbury,SALISBURY,MUNICIPALITY,R-8,Residential
+WICO,Wicomico,Salisbury,SALISBURY,MUNICIPALITY,R-8A,Residential
+WICO,Wicomico,Salisbury,SALISBURY,MUNICIPALITY,R-10,Residential
+WICO,Wicomico,Salisbury,SALISBURY,MUNICIPALITY,R-10A,Residential
+WICO,Wicomico,Salisbury,SALISBURY,MUNICIPALITY,RR-5A,Residential 
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R-O,"Residential -- Office, 5.5 dwelling units per acre"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R-O-A,"Residential -- Office, Class A Office "
+QUEE,Queen Anne's,Centreville,CENTREVILLE,MUNICIPALITY,R-3,Residential (high density)
+SOME,Somerset,Princess Anne,PRINCESS ANNE,MUNICIPALITY,R-2,Residential (higher density)
+QUEE,Queen Anne's,Centreville,CENTREVILLE,MUNICIPALITY,R-2,Residential (median density)
+DORC,Dorchester,Cambridge,CAMBRIDGE,MUNICIPALITY,R,Residential (R ) District 
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-A,Residential Agricultural
+MONT,Montgomery,Gaithersburg,GAITHERSBURG,MUNICIPALITY,R-B,Residential Buffer
+TALB,Talbot,Oxford,OXFORD,MUNICIPALITY,R-1-C,Residential Cluster District
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RE-2,Residential Detached
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RE-2C,Residential Detached
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RE-1,Residential Detached
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R-200,Residential Detached
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R-90,Residential Detached
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R-60,Residential Detached
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R-40,Residential Detached
+CECI,Cecil,Rising Sun,RISING SUN,MUNICIPALITY,R-O,Residential District
+TALB,Talbot,Easton,EASTON,MUNICIPALITY,R-7A,Residential District
+TALB,Talbot,Easton,EASTON,MUNICIPALITY,R-10A,Residential District
+TALB,Talbot,Easton,EASTON,MUNICIPALITY,R-10M,Residential District
+TALB,Talbot,Oxford,OXFORD,MUNICIPALITY,R-1,Residential District
+TALB,Talbot,Oxford,OXFORD,MUNICIPALITY,R-3,Residential District
+TALB,Talbot,St. Michaels,ST. MICHAELS,MUNICIPALITY,R-1,Residential District
+TALB,Talbot,St. Michaels,ST. MICHAELS,MUNICIPALITY,R-2,Residential District
+TALB,Talbot,St. Michaels,ST. MICHAELS,MUNICIPALITY,R-3,Residential District
+WORC,Worcester,Pocomoke,POCOMOKE,MUNICIPALITY,R-1,Residential District
+WORC,Worcester,Pocomoke,POCOMOKE,MUNICIPALITY,R-2,Residential District
+WORC,Worcester,Pocomoke,POCOMOKE,MUNICIPALITY,R-3,Residential District
+CALV,Calvert,Calvert,CALVERT,COUNTY,RD,Residential District 
+WORC,Worcester,Berlin,BERLIN,MUNICIPALITY,R-1,Residential District 
+WORC,Worcester,Berlin,BERLIN,MUNICIPALITY,R-2,Residential District 
+WORC,Worcester,Berlin,BERLIN,MUNICIPALITY,R-4,"Residential District (on the map, this area includes PUD)"
+TALB,Talbot,St. Michaels,ST. MICHAELS,MUNICIPALITY,RG,Residential Gateway District
+MONT,Montgomery,Laytonsville,LAYTONSVILLE,MUNICIPALITY,RH,Residential Historic
+GARR,Garrett,Oakland County seat,OAKLAND COUNTY SEAT,MUNICIPALITY,RIP,Residential Institutional-Professional 
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,RLD,Residential Low Density
+SOME,Somerset,Crisfield,CRISFIELD,MUNICIPALITY,R-1,Residential Low Density
+SOME,Somerset,Crisfield,CRISFIELD,MUNICIPALITY,R-4,Residential Manufactured Home
+SOME,Somerset,Crisfield,CRISFIELD,MUNICIPALITY,R-2,Residential Medium Density
+CECI,Cecil,Cecil,CECIL,COUNTY,RMU,Residential Mixed Use
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,RMX,residential mixed use
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,RMD10,Residential Moderate Density
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,RMD15,Residential Moderate Density
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,RMD25,Residential Moderate Density
+SOME,Somerset,Crisfield,CRISFIELD,MUNICIPALITY,R-3,Residential Multifamily
+WASH,Washington,Washington,WASHINGTON,COUNTY,RM,Residential Multi-family
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R-10,Residential Multi-Unit High Density
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R-30,Residential Multi-Unit Low Density
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R-20,Residential Multi-Unit Medium Density
+CHAR,Charles,Charles,CHARLES,COUNTY,RO,Residential Office
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,RO,Residential Office 
+HARF,Harford,Harford,HARFORD,COUNTY,RO,Residential Office  Conventional 
+CECI,Cecil,Elkton,ELKTON,MUNICIPALITY,R-O,Residential Office District
+HARF,Harford,Bel Air,BEL AIR,MUNICIPALITY,R-O,Residential Office District
+MONT,Montgomery,Laytonsville,LAYTONSVILLE,MUNICIPALITY,R1,Residential One Acre
+MONT,Montgomery,Poolesville,POOLESVILLE,MUNICIPALITY,PR-1/2,Residential one-half (1/2) acre PR-1/2
+MONT,Montgomery,Laytonsville,LAYTONSVILLE,MUNICIPALITY,R2,Residential One-Half Acre
+MONT,Montgomery,Poolesville,POOLESVILLE,MUNICIPALITY,PR-1/3,Residential one-third (1/3) acre PR-1/3
+CALV,Calvert,North Beach,NORTH BEACH,MUNICIPALITY,R-1,Residential- single family
+CALV,Calvert,North Beach,NORTH BEACH,MUNICIPALITY,R-2,Residential- single family & multifamily
+QUEE,Queen Anne's,Church Hill,CHURCH HILL,MUNICIPALITY,SF ,"Residential Single Family District (SF, or R-SF)"
+WASH,Washington,Washington,WASHINGTON,COUNTY,RS,Residential Subsurban
+MONT,Montgomery,Poolesville,POOLESVILLE,MUNICIPALITY,PR-3/4,Residential three-quarter (3/4) acre PR-3/4
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RT-6.0,Residential Townhouse
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RT-8.0,Residential Townhouse
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RT-10.0,Residential Townhouse
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RT-12.5,Residential Townhouse
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RT-15.0,Residential Townhouse
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,TLD,Residential Townhouse
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,TMD,Residential Townhouse
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,THD,Residential Townhouse
+WASH,Washington,Washington,WASHINGTON,COUNTY,RT,Residential Transition
+MONT,Montgomery,Laytonsville,LAYTONSVILLE,MUNICIPALITY,R3,Residential Two Acres
+WASH,Washington,Washington,WASHINGTON,COUNTY,RU,Residential Urban
+CALV,Calvert,Chesapeake Beach,CHESAPEAKE BEACH,MUNICIPALITY,R-V,Residential Village District 
+CHAR,Charles,La Plata,LA PLATA,MUNICIPALITY,R10,"Residential Zone - 10,000 sqft"
+CHAR,Charles,La Plata,LA PLATA,MUNICIPALITY,R21,"Residential Zone - 21,000 sqft"
+CHAR,Charles,La Plata,LA PLATA,MUNICIPALITY,R3,"Residential Zone - 3,000 sqft"
+CHAR,Charles,La Plata,LA PLATA,MUNICIPALITY,R5,"Residential Zone - 5,000 sqft"
+CHAR,Charles,La Plata,LA PLATA,MUNICIPALITY,R8,"Residential Zone - 8,000 sqft"
+QUEE,Queen Anne's,Centreville,CENTREVILLE,MUNICIPALITY,R-1,Residential(low density)
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.A.E.1,"Residential, Apartment, Elevator, 40.0 density units per acre"
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.A.E.2,"Residential, Apartment, Elevator, 80.0 density units per acre"
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,RH,"residential, high density"
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,RH,"Residential, High Density"
+CECI,Cecil,Charlestown,CHARLESTOWN,MUNICIPALITY,R-3,"Residential, High-Density"
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,RL,"residential, low density"
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,RL-T,"residential, low density - transitional"
+CECI,Cecil,Charlestown,CHARLESTOWN,MUNICIPALITY,R-1,"Residential, Low-Density"
+CECI,Cecil,Charlestown,CHARLESTOWN,MUNICIPALITY,R-2,"Residential, Medium Density"
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,RMED,"Residential, Medium Density"
+WASH,Washington,Hagerstown,HAGERSTOWN,MUNICIPALITY,RMOD,"Residential, Moderate Density"
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,RNC,"residential, neighborhood conservation"
+CECI,Cecil,Charlestown,CHARLESTOWN,MUNICIPALITY,R-R,"Residential, Shoreline Recreational"
+HOWA,Howard,Howard,HOWARD,COUNTY,R-A-15,Residential: Apartments
+HOWA,Howard,Howard,HOWARD,COUNTY,R-APT,Residential: Apartments
+HOWA,Howard,Howard,HOWARD,COUNTY,R-ED,Residential: Environmental Development
+HOWA,Howard,Howard,HOWARD,COUNTY,R-H-ED,Residential: Historic
+HOWA,Howard,Howard,HOWARD,COUNTY,R-MH,Residential: Mobile Home
+HOWA,Howard,Howard,HOWARD,COUNTY,R-SI,Residential: Senior Institutional
+HOWA,Howard,Howard,HOWARD,COUNTY,R-20,Residential: Single
+HOWA,Howard,Howard,HOWARD,COUNTY,R-12,Residential: Single
+HOWA,Howard,Howard,HOWARD,COUNTY,R-SA-8,Residential: Single Attached
+HOWA,Howard,Howard,HOWARD,COUNTY,R-SC,Residential: Single Cluster
+HOWA,Howard,Howard,HOWARD,COUNTY,R-VH,Residential: Village Housing
+CALV,Calvert,Calvert,CALVERT,COUNTY,R-1,Residential; No zoning data but significant in parcel data
+CALV,Calvert,Calvert,CALVERT,COUNTY,R-2,Residential; No zoning data but significant in parcel data
+CALV,Calvert,Calvert,CALVERT,COUNTY,R-7_5,Residential; No zoning data but significant in parcel data
+CALV,Calvert,Calvert,CALVERT,COUNTY,R-20,Residential; No zoning data but significant in parcel data
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-E,Residential-Estate
+CECI,Cecil,Chesapeake City,CHESAPEAKE CITY,MUNICIPALITY,RC,Resource Conservation
+FRED,Frederick,Frederick,FREDERICK,COUNTY,RC,Resource Conservation
+TALB,Talbot,Talbot,TALBOT,COUNTY,RC,Resource Conservation
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.2,Resource Conservation - Agricultural
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.C.,Resource Conservation - Commercial 
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.20,Resource Conservation - Critical Area
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.50,Resource Conservation - Critical Area-Agriculture
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.3,Resource Conservation - Deferral of Planning and Development
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.5,Resource Conservation - Rural Residential
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.4,Resource Conservation - Watershed Protection
+DORC,Dorchester,Cambridge,CAMBRIDGE,MUNICIPALITY,RC,Resource Conservation (RC)
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,RC,Resource Conservation District
+KENT,Kent,Kent,KENT,COUNTY,RCD,Resource Conservation District
+CALV,Calvert,Chesapeake Beach,CHESAPEAKE BEACH,MUNICIPALITY,RC,Resource Conservation District 
+QUEE,Queen Anne's,Church Hill,CHURCH HILL,MUNICIPALITY,RC,Resource Conservation District 
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.7,Resource Preservation Zone
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-5,Rowhouse and Multi-Family Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-6,Rowhouse and Multi-Family Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-7,Rowhouse and Multi-Family Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-8,Rowhouse and Multi-Family Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-9,Rowhouse and Multi-Family Residential Zoning District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,R-10,Rowhouse and Multi-Family Residential Zoning District
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,R,Rural 
+ANNE,Anne Arundel,Anne Arundel,ANNE ARUNDEL,COUNTY,RA,Rural Agricultural 
+CARO,Caroline,Denton ,DENTON ,MUNICIPALITY,RA,Rural Agriculture
+GARR,Garrett,Mountain Lake Park,MOUNTAIN LAKE PARK,MUNICIPALITY,R,Rural Area
+WASH,Washington,Washington,WASHINGTON,COUNTY,RB,Rural Business Existing 
+KENT,Kent,Kent,KENT,COUNTY,RC,Rural Character
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RC,Rural Cluster
+CALV,Calvert,Calvert,CALVERT,COUNTY,RCD,Rural Community District 
+CHAR,Charles,Charles,CHARLES,COUNTY,RC,Rural Conservation
+HOWA,Howard,Howard,HOWARD,COUNTY,RC,Rural Conservation
+BACO,Baltimore,Baltimore County,BALTIMORE COUNTY,COUNTY,R.C.6,Rural Conservation and Residential
+KENT,Kent,Millington,MILLINGTON,MUNICIPALITY,R-1,Rural Conservation Residential District
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,RCL,Rural Copmmercial Limited
+MONT,Montgomery,Poolesville,POOLESVILLE,MUNICIPALITY,P-RD,Rural Density twenty five plus (25+) acres P-RD
+GARR,Garrett,Accident,ACCIDENT,MUNICIPALITY,RD,Rural Development District 
+GARR,Garrett,Friendsville,FRIENDSVILLE,MUNICIPALITY,RD,Rural Development District 
+CARO,Caroline,Caroline,CAROLINE,COUNTY,R,Rural District
+MONT,Montgomery,Montgomery,MONTGOMERY,COUNTY,RNC,Rural Neighborhood Cluster
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,RPD,Rural preservation district
+CECI,Cecil,Cecil,CECIL,COUNTY,RR,Rural Residential
+CHAR,Charles,Charles,CHARLES,COUNTY,RR,Rural Residential
+HOWA,Howard,Howard,HOWARD,COUNTY,RR,Rural Residential
+KENT,Kent,Kent,KENT,COUNTY,RR,Rural residential
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-R,Rural Residential
+TALB,Talbot,Talbot,TALBOT,COUNTY,RR,Rural Residential
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,RR,Rural Residential District
+HARF,Harford,Harford,HARFORD,COUNTY,RR,Rural Residential District
+TALB,Talbot,Oxford,OXFORD,MUNICIPALITY,R-R,Rural Residential District
+WASH,Washington,Boonsboro,BOONSBORO,MUNICIPALITY,RR,Rural Residential District
+WORC,Worcester,Worcester,WORCESTER,COUNTY,R-1 ,Rural Residential District 
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,RR-C,Rural Residential-Conservation District
+GARR,Garrett,Deep Creek Lake,DEEP CREEK LAKE,MUNICIPALITY,RR,Rural Resource
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,RSC,Rural Service Center
+WASH,Washington,Washington,WASHINGTON,COUNTY,RV,Rural Village
+TALB,Talbot,St. Michaels,ST. MICHAELS,MUNICIPALITY,SLC,Select Light Commercial District
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,R150,Single Family 150
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,R200,Single Family 200
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,R40,Single Family 40
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,R400,Single Family 400
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,R60,Single Family 60
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,R75,Single Family 75
+MONT,Montgomery,Rockville,ROCKVILLE,MUNICIPALITY,R90,Single Family 90
+CARO,Caroline,Caroline,CAROLINE,COUNTY,R-2 ,Single Family and Two Family Residential District
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-5,Single Family Detached
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-55,Single Family Detached
+CECI,Cecil,Rising Sun,RISING SUN,MUNICIPALITY,R-1,Single Family District
+CARO,Caroline,Federalsburg,FEDERALSBURG,MUNICIPALITY,R-1,Single Family Residential
+CARO,Caroline,Preston ,PRESTON ,MUNICIPALITY,R-1,Single Family Residential
+QUEE,Queen Anne's,Sudlersville,SUDLERSVILLE,MUNICIPALITY,SF,Single Family Residential
+QUEE,Queen Anne's,Barclay,BARCLAY,MUNICIPALITY,R,Single Family Residential 
+CARO,Caroline,Caroline,CAROLINE,COUNTY,R-1,Single Family Residential District
+KENT,Kent,Millington,MILLINGTON,MUNICIPALITY,R-2,Single Family Residential District
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,R-1,single family residential district 
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,R-2,Single family residential district 
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-20,"Single family semi detached, two family detached"
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-MD,"single family, medium density"
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R1,single-family residence
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R1-A,single-family residence
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R1-B,single-family residence
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R2,single-family residence
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,R2-NC,single-family residence neighborhood conservation 
+CARO,Caroline,Ridgley,RIDGLEY,MUNICIPALITY,R-1,Single-Family Residential District
+CARO,Caroline,Ridgley,RIDGLEY,MUNICIPALITY,R-3 ,Single-Family Residential District/Agricultural District
+CECI,Cecil,Cecil,CECIL,COUNTY,SAR,Southern Agricultural Residential
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,C2A,Special Conservation Business
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,C2P,Special Conservation Professional 
+ANNE,Anne Arundel,Annapolis,ANNAPOLIS,MUNICIPALITY,C1A,Special Conservation Residence
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,SHVC,Stevensville Historic Village Center District 
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,SMPD,Stevensville Master-Planned Development District 
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,SE,Suburban Estate District
+CARO,Caroline,Denton ,DENTON ,MUNICIPALITY,SR,Suburban Residential
+GARR,Garrett,Oakland County seat,OAKLAND COUNTY SEAT,MUNICIPALITY,SR,Suburban Residential
+GARR,Garrett,Mountain Lake Park,MOUNTAIN LAKE PARK,MUNICIPALITY,SR,Suburban Residential 
+CECI,Cecil,Elkton,ELKTON,MUNICIPALITY,R-2,Suburban Residential District
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,SR,Suburban Residential District
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,SR,Suburban Residential District
+GARR,Garrett,Accident,ACCIDENT,MUNICIPALITY,SR,Suburban Residential District 
+GARR,Garrett,Friendsville,FRIENDSVILLE,MUNICIPALITY,SR,Suburban Residential District 
+GARR,Garrett,Grantsville,GRANTSVILLE,MUNICIPALITY,SR,Suburban Residential District 
+WORC,Worcester,Worcester,WORCESTER,COUNTY,R-2,Suburban Residential District 
+CECI,Cecil,Cecil,CECIL,COUNTY,ST,Suburban Transition Residential
+GARR,Garrett,Oakland County seat,OAKLAND COUNTY SEAT,MUNICIPALITY,TC,Town Center
+QUEE,Queen Anne's,Queens Town,QUEENS TOWN,MUNICIPALITY,TC,Town center
+QUEE,Queen Anne's,Barclay,BARCLAY,MUNICIPALITY,TC,Town Center 
+QUEE,Queen Anne's,Sudlersville,SUDLERSVILLE,MUNICIPALITY,TCC,Town Center Commercial 
+KENT,Kent,Rock Hall,ROCK HALL,MUNICIPALITY,C-3,Town Center Commercial District
+CECI,Cecil,Elkton,ELKTON,MUNICIPALITY,TC,Town Center District
+KENT,Kent,Millington,MILLINGTON,MUNICIPALITY,TC,Town Center District
+WORC,Worcester,Berlin,BERLIN,MUNICIPALITY,B-1,Town Center District
+GARR,Garrett,Accident,ACCIDENT,MUNICIPALITY,TC,Town Center District 
+GARR,Garrett,Deep Creek Lake,DEEP CREEK LAKE,MUNICIPALITY,TC,Town Center District 
+GARR,Garrett,Friendsville,FRIENDSVILLE,MUNICIPALITY,TC,Town Center District 
+GARR,Garrett,Grantsville,GRANTSVILLE,MUNICIPALITY,TC,Town Center District 
+GARR,Garrett,Loch Lynn Heights,LOCH LYNN HEIGHTS,MUNICIPALITY,TC,Town Center District 
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,TC,Town Center District 
+WASH,Washington,Boonsboro,BOONSBORO,MUNICIPALITY,TC,Town Center District 
+CALV,Calvert,Calvert,CALVERT,COUNTY,TC-D,Town Center District - Dunkirk
+CALV,Calvert,Calvert,CALVERT,COUNTY,TC-H,Town Center District - Huntingtown
+CALV,Calvert,Calvert,CALVERT,COUNTY,TC- L,Town Center District - Lusby
+CALV,Calvert,Calvert,CALVERT,COUNTY,TC-O,Town Center District - Owings
+CALV,Calvert,Calvert,CALVERT,COUNTY,TC-PF,Town Center District - Prince Fredrick
+CALV,Calvert,Calvert,CALVERT,COUNTY,TC- S,Town Center District - Solomons
+CALV,Calvert,Calvert,CALVERT,COUNTY,TC- SL,Town Center District - St Leonard
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,TMX,town center mixed use
+TALB,Talbot,Talbot,TALBOT,COUNTY,TC,Town Conservation
+CECI,Cecil,Elkton,ELKTON,MUNICIPALITY,R-1,Town Estate District
+GARR,Garrett,Mountain Lake Park,MOUNTAIN LAKE PARK,MUNICIPALITY,TR,Town Residential
+GARR,Garrett,Oakland County seat,OAKLAND COUNTY SEAT,MUNICIPALITY,TR,Town Residential
+TALB,Talbot,Talbot,TALBOT,COUNTY,TR,Town Residential
+QUEE,Queen Anne's,Sudlersville,SUDLERSVILLE,MUNICIPALITY,TR,Town Residential 
+QUEE,Queen Anne's,Church Hill,CHURCH HILL,MUNICIPALITY,TR,Town Residential District
+WASH,Washington,Boonsboro,BOONSBORO,MUNICIPALITY,TR,Town Residential District
+GARR,Garrett,Accident,ACCIDENT,MUNICIPALITY,TR,Town Residential District 
+GARR,Garrett,Deep Creek Lake,DEEP CREEK LAKE,MUNICIPALITY,TR,Town Residential District 
+GARR,Garrett,Friendsville,FRIENDSVILLE,MUNICIPALITY,TR,Town Residential District 
+GARR,Garrett,Grantsville,GRANTSVILLE,MUNICIPALITY,TR,Town Residential District 
+GARR,Garrett,Loch Lynn Heights,LOCH LYNN HEIGHTS,MUNICIPALITY,TR,Town Residential District 
+CARO,Caroline,Denton ,DENTON ,MUNICIPALITY,TR,Town Scale Residential
+WICO,Wicomico,Wicomico,WICOMICO,COUNTY,TT,Town Transition
+PRIN,Prince George's,Prince George's,PRINCE GEORGE'S,COUNTY,R-T,Townhouse
+PRIN,Prince George's,Laurel,LAUREL,MUNICIPALITY,R-T,townhouse
+CHAR,Charles,La Plata,LA PLATA,MUNICIPALITY,TDX,Traditional Development Mixed Use Zone
+CECI,Cecil,Chesapeake City,CHESAPEAKE CITY,MUNICIPALITY,TND,Traditional Neighborhood Development
+KENT,Kent,Chestertown,CHESTERTOWN,MUNICIPALITY,R-6,traditional neighborhood development
+QUEE,Queen Anne's,Centreville,CENTREVILLE,MUNICIPALITY,TND,Traditional Neighborhood Development
+HOWA,Howard,Howard,HOWARD,COUNTY,TOD,Transit Oriented Development
+MONT,Montgomery,Poolesville,POOLESVILLE,MUNICIPALITY,PTR- 2+,Transition two plus (2+) acres PTR- 2+
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,TOD-2,Transit-Oriented Development District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,TOD-3,Transit-Oriented Development District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,TOD-4,Transit-Oriented Development District
+BACI,Baltimore,Baltimore City,BALTIMORE CITY,MUNICIPALITY,TOD-1,Transit-Oriented Development District
+QUEE,Queen Anne's,Church Hill,CHURCH HILL,MUNICIPALITY,EC,UNKNOWN
+CECI,Cecil,Elkton,ELKTON,MUNICIPALITY,R-3,Urban Residential District
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,UR,Urban Residential District
+HARF,Harford,Harford,HARFORD,COUNTY,R1CCRC,Urban Residential District Continuing Care Retirement Community
+HARF,Harford,Harford,HARFORD,COUNTY,R2CCRC,Urban Residential District Continuing Care Retirement Community
+HARF,Harford,Harford,HARFORD,COUNTY,R3CCRC,Urban Residential District Continuing Care Retirement Community
+HARF,Harford,Harford,HARFORD,COUNTY,R4CCRC,Urban Residential District Continuing Care Retirement Community
+HARF,Harford,Harford,HARFORD,COUNTY,R1,Urban Residential District Conventional
+HARF,Harford,Harford,HARFORD,COUNTY,R2,Urban Residential District Conventional
+HARF,Harford,Harford,HARFORD,COUNTY,R3,Urban Residential District Conventional
+HARF,Harford,Harford,HARFORD,COUNTY,R4,Urban Residential District Conventional
+HARF,Harford,Harford,HARFORD,COUNTY,R1HFE,Urban Residential District Housing for the Elderly
+HARF,Harford,Harford,HARFORD,COUNTY,R2HFE,Urban Residential District Housing for the Elderly
+HARF,Harford,Harford,HARFORD,COUNTY,R3HFE,Urban Residential District Housing for the Elderly
+HARF,Harford,Harford,HARFORD,COUNTY,R4HFE,Urban Residential District Housing for the Elderly
+HARF,Harford,Harford,HARFORD,COUNTY,R1PRD,Urban Residential District Planned Residential Development 
+HARF,Harford,Harford,HARFORD,COUNTY,R2PRD,Urban Residential District Planned Residential Development 
+HARF,Harford,Harford,HARFORD,COUNTY,R3PRD,Urban Residential District Planned Residential Development 
+HARF,Harford,Harford,HARFORD,COUNTY,R4PRD,Urban Residential District Planned Residential Development 
+HARF,Harford,Harford,HARFORD,COUNTY,R1COS,Urban Residential District with Conventional with Open Space (COS)
+HARF,Harford,Harford,HARFORD,COUNTY,R2COS,Urban Residential District with Conventional with Open Space (COS)
+HARF,Harford,Harford,HARFORD,COUNTY,R3COS,Urban Residential District with Conventional with Open Space (COS)
+HARF,Harford,Harford,HARFORD,COUNTY,R4COS,Urban Residential District with Conventional with Open Space (COS)
+CECI,Cecil,Cecil,CECIL,COUNTY,UR,Urbanized Residential
+KENT,Kent,Kent,KENT,COUNTY,V,Village
+HARF,Harford,Harford,HARFORD,COUNTY,VB,Village Business District (Conventional)
+CECI,Cecil,Chesapeake City,CHESAPEAKE CITY,MUNICIPALITY,V-1,Village Center
+CARO,Caroline,Caroline,CAROLINE,COUNTY,VC,Village Center District
+FRED,Frederick,Frederick,FREDERICK,COUNTY,VC,Village Center District
+QUEE,Queen Anne's,Queen Anne's,QUEEN ANNE'S,COUNTY,VC,Village Center District 
+STMA,St. Mary's,St. Mary's,ST. MARY'S,COUNTY,VMX,village center mixed use
+CECI,Cecil,Chesapeake City,CHESAPEAKE CITY,MUNICIPALITY,V-2,Village Commercial
+WICO,Wicomico,Wicomico,WICOMICO,COUNTY,VC,Village Conservation
+DORC,Dorchester,Dorchester,DORCHESTER,COUNTY,V,Village District
+WORC,Worcester,Worcester,WORCESTER,COUNTY,V-1,Village District 
+TALB,Talbot,Talbot,TALBOT,COUNTY,VH,Village Hamlet
+TALB,Talbot,Talbot,TALBOT,COUNTY,VM,Village Mixed
+CARO,Caroline,Caroline,CAROLINE,COUNTY,VN,Village Neighborhood District
+CECI,Cecil,Cecil,CECIL,COUNTY,VR,Village Residential
+CHAR,Charles,Charles,CHARLES,COUNTY,RV,Village Residential
+TALB,Talbot,Talbot,TALBOT,COUNTY,VR,Village Residential
+HARF,Harford,Harford,HARFORD,COUNTY,VR,Village Residential District (Conventional Residential)
+TALB,Talbot,St. Michaels,ST. MICHAELS,MUNICIPALITY,WD,Waterfront Development District
+CALV,Calvert,North Beach,NORTH BEACH,MUNICIPALITY,W-1 ,Waterfront Limited
+CHAR,Charles,Charles,CHARLES,COUNTY,WCD,Watershed Conservation District
+TALB,Talbot,Talbot,TALBOT,COUNTY,WRC,Western Rural Conservation

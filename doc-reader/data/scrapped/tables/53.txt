@@ -1,0 +1,353 @@
+vi      required fire marshal inspection and permit fees
+https://ecode360.com/33204136
+0.5332194934261426
+Retail fireworks/sparkler vendor (annual) | $50 | 
+Retail fireworks/sparkler vendor (thirty-day) | $50 | 
+Private fireworks display* | $100 | 
+Fireworks/explosives storage | $100 | 
+Pyrotechnic/special effects | $50 | 
+Underground flammable/combustible |  | 
+Storage tank removal |  | 
+Under 1,000 gallon capacity | $25 | 
+Over 1,000 gallon capacity | $50 | 
+Commercial fuel tank installation | $50 | 
+Propane filling station (Annual) | $25 | 
+Propane exchange retail operation (Annual) | $25 | 
+Open burning permit |  | 
+Seven-day permit | No fee | 
+Thirty-day permit | No fee | 
+Blasting permits | $60 (per CGS) | 
+Missed (no-show) inspection fee | $25 | 
+Return check fee (per Town of Putnam policy) |  | 
+
+
+iv      water rates
+https://ecode360.com/14552181
+0.5041499335628236
+Public hydrant fee | $69/year | 
+Private hydrant fee | $46/year | 
+Sprinkler systems | $9.20/1,000 square feet per year | 
+Water service tie in, up to 2-inch | $230 | 
+Water service tie in, over 2-inch | Time and materials | 
+Sewer tie-in inspection | $100 | 
+Water shut-off | $28.75 | 
+Water turn-on | $28.75 | 
+Water shut-off and turn-on within 1 hour | $28.75 | 
+Inspection fee for cutoff and cap house service | $28.75 | 
+Service calls | $28.75, plus labor | 
+Replace faulty meter | No charge | 
+Replace functioning meter | $86.25 | 
+Ext. | $46.72 | 
+
+
+iii      parking of commercial vehicles in municipal parking lots
+https://ecode360.com/14552782
+0.4878237771159866
+Kennedy Drive | Both | South of Route 44 and at Rotary Park | 
+Main Street |  | Adjacent to Post Office | 
+Providence Street | North |  | 
+South Main Street |  | East of railroad tracks | 
+Union Square |  |  | 
+
+
+iii      building permit fees
+https://ecode360.com/14552164
+0.4348558655556999
+Unfinished basement | $15 | 
+Finished basement | $35 | 
+Living spaces | $75 | 
+Porch — enclosed | $20 | 
+Porch — open or deck | $16 | 
+Pool — inground | $12 | 
+Sheds/Barns | $15 | 
+Utility farms buildings | $10 | 
+Attached garages | $25 | 
+Detached garages | $25 | 
+Pool — aboveground | N/A | 
+
+
+street naming and numbering
+https://ecode360.com/14552608
+0.4131792861799669
+Front Street | A state highway beginning at the bridge over the Quinebaug River
+and running easterly to the intersection with School Street and Oak
+Street, formerly known as "Route 44" | 
+Harrisville Road | A road beginning at a point at the eastern terminus of Woodstock
+Avenue and running west and south to the Woodstock/Putnam Town line | 
+James Street East | A road running from the intersection of Perry Street and through
+Arthur Street and Edmond Street in an easterly direction, formerly
+known as "James Street" | 
+James Street West | A road running from Eden Street in a westerly direction, formerly
+known as "James Street" | 
+Liberty Highway | A state highway running from a point on the Killingly/Putnam
+Town line transversing the entire length of Putnam to a point on the
+Thompson/Putnam Town line, formerly known as "Route 21" | 
+Peake Brook Road | A road beginning at a point at the eastern terminus of Woodstock
+Avenue and running westerly to the Woodstock/Putnam Town line | 
+Pomfret Street | A state highway running from a point on the Pomfret/Putnam Town
+line, running easterly to the Quinebaug River, formerly known as "Route
+44" | 
+Providence Pike | A state highway running easterly from a point at the intersection
+with Dewey Street to the Town of Putnam/Rhode Island line, formerly
+known as "Route 44" | 
+School Street | A state highway running from Oak Street and Front Street (formerly
+known as "Route 44"), easterly to a point on the Special Service District/Town
+line and at an intersection with Dewey Street | 
+Woodstock Avenue West | A state highway running from the intersection of West Thompson
+Road and Woodstock Avenue, westerly to a point on the Thompson/Putnam
+Town line, formerly known as "Route 171" | 
+
+
+i      parking
+https://ecode360.com/14552932
+0.4100352685206333
+Canal Street | East | In the rear of Montgomery Ward store | 
+Front Street | North | Adjacent to the Bugbee's store property | 
+Main Street | East | Adjacent to the Putnam Office Building, and a portion of the
+Congregational Church property | 
+
+
+rehabilitation areas
+https://ecode360.com/14551911
+0.40555486277261177
+Northerly | by other land of Marion Dozodoy along a common with an adjoining
+building 98 feet, more or less; | 
+Easterly | by Main Street 54.50 feet, more or less; | 
+Southerly | by Pomfret Street, 119.64 feet; and | 
+Westerly | by Canal Street 50.00 feet, more or less. | 
+
+
+i      license fees
+https://ecode360.com/14552159
+0.39180421963356177
+ | First-class circus | $50/day | 
+ | Ten- and twenty-five-cent shows under canvas | $10 to $25 per day | 
+ | Concerts, operas, theatricals and other public exhibitions given
+in opera houses or other halls | $2/day | 
+ | Bowling alleys, billiard and pool rooms | $10/year for each table or alley used | 
+ | Restaurants and lunch carts - victualer's license | $5/year | 
+ | Peddling, vending or selling of merchandise of whatever kind
+and description not otherwise exempted by law, upon the streets or
+from house to house[Amended 5-14-1979] | $5 for 60 days or less; $25 for one year | 
+ | Junk dealers, for the collecting and peddling of scrap metals
+or junk | $1/year | 
+ | Secondhand shops, for the sale of secondhand merchandise, provided
+no such merchandise shall be displayed outside the store or building | $5/year | 
+
+
+vi      required fire marshal inspection and permit fees
+https://ecode360.com/33204136
+0.37426800699192353
+* | NOTE: Any building plans for buildings 25,000 square feet or
+greater may be required to have an independent plan review, as determined
+at the sole discretion of the Putnam Fire Marshal's Office. The
+independent plan review shall be conducted by a plan reviewer hired
+by the applicant and is subject to approval by the Fire Marshal's
+Office. The applicant shall pay all costs associated with the approved
+and contracted plan reviewer's independent review. The applicant
+shall submit the plan reviewer's written report, along with documentation
+that the reviewer's costs have been paid in full. A fee of 1/4
+the amount listed above shall be assessed for a Fire Marshal's
+Office review of the written report and plans. The Fire Marshal's
+Office will have 10 days to review and upon approval shall submit
+authorization to release building permit, in writing, to the Town
+of Putnam Building Official in accordance with Connecticut General
+Statute 29-263. | 
+
+
+vi      required fire marshal inspection and permit fees
+https://ecode360.com/33204136
+0.37426800699192353
+* | NOTE: Any building plans for buildings 25,000 square feet or
+greater may be required to have an independent plan review, as determined
+at the sole discretion of the Putnam Fire Marshal's Office. The
+independent plan review shall be conducted by a plan reviewer hired
+by the applicant and is subject to approval by the Fire Marshal's
+Office. The applicant shall pay all costs associated with the approved
+and contracted plan reviewer's independent review. The applicant
+shall submit the plan reviewer's written report, along with documentation
+that the reviewer's costs have been paid in full. A fee of 1/4
+the amount listed above shall be assessed for a Fire Marshal's
+Office review of the written report and plans. The Fire Marshal's
+Office will have 10 days to review and upon approval shall submit
+authorization to release building permit, in writing, to the Town
+of Putnam Building Official in accordance with Connecticut General
+Statute 29-263. | 
+
+
+vi      required fire marshal inspection and permit fees
+https://ecode360.com/33204136
+0.37268164627120826
+* | NOTE: Any building plans for buildings 25,000 square feet or
+greater may be required to have an independent plan review, as determined
+at the sole discretion of the Putnam Fire Marshal's Office. The
+independent plan review shall be conducted by a plan reviewer hired
+by the applicant and is subject to approval by the Fire Marshal's
+Office. The applicant shall pay all costs associated with the approved
+and contracted plan reviewer's independent review. The applicant
+shall submit the plan reviewer's written report, along with documentation
+that the reviewer's costs have been paid in full. A fee of 1/4
+the amount listed above shall be assessed for a Fire Marshal's
+Office review of the written report and plans. The Fire Marshal's
+Office will have 10 days to review and upon approval shall submit
+authorization to release building permit, in writing, to the Town
+of Putnam Building Official in accordance with C.G.S. § 29-263. | 
+
+
+dl      disposition list
+https://ecode360.com/14614236
+0.3702377043575334
+9-20-2010 STM | Use of Town property amendment | Ch. 291 | 
+12-20-2010 STM | Use of Town property amendment | Ch. 291 | 
+1-22-2013 STM | Street numbering | Ch. 269, Art. II | 
+4-15-2013 STM | Blighted properties | Ch. 172 | 
+10-21-2013 STM | Water and sewers: fats, oils and grease pretreatment | Ch. 312, Part 4 | 
+10-21-2013 STM | Water and sewers: storm sewer management | Ch. 312, Part 5 | 
+3-3-2014 STM | Economic Development Trust Fund | Ch. 45, Art. III | 
+11-17-2014 STM | Purchasing and contracts: purchasing amendment | Ch. 101, Art. II | 
+5-4-2015 STM | Water and sewers: Water and Sewer Commission amendment | Ch. 312, Part 1 | 
+1-19-2016 STM | Location of Superintendent of Schools in Town Hall requirement
+repealer | NCM | 
+8-14-2017 STM | Peddling and Soliciting amendment | Ch. 250 | 
+11-7-2017 | Charter amendment | Ch. C | 
+11-20-2017 STM | Fees and Charges: Required Fire Marshall and Permit Fees | Ch. 206, Art. VI | 
+4-16-2018 STM | Bazaars and Raffles amendment | Ch. 166 | 
+4-16-2018 STM | Bingo amendment | Ch. 170 | 
+9-4-2018 STM | Adoption of Code | Ch. 1, Art. I | 
+
+
+vi      required fire marshal inspection and permit fees
+https://ecode360.com/33204136
+0.3696248881640937
+Up to 2,000 square feet | $50 | 
+2,000 to 4,999 square feet | $125 | 
+5,000 to 9,999 square feet | $250 | 
+10,000 to 24,999 square feet | $500 | 
+25,000 to 39,999 square feet | $750* | 
+40,000 to 49,999 square feet | $1,000* | 
+50,000 square feet and over | $1,500* | 
+
+
+vi      required fire marshal inspection and permit fees
+https://ecode360.com/33204136
+0.3696248881640937
+Up to 2,000 square feet | $50 | 
+2,000 to 4,999 square feet | $100 | 
+5,000 to 9,999 square feet | $200 | 
+10,000 to 24,999 square feet | $300 | 
+25,000 to 39,999 square feet | $400* | 
+40,000 to 49,999 square feet | $500* | 
+50,000 square feet and over | $700* | 
+
+
+vi      required fire marshal inspection and permit fees
+https://ecode360.com/33204136
+0.3696248881640937
+Up to 2,000 square feet | $50 | 
+2,000 to 4,999 square feet | $100 | 
+5,000 to 9,999 square feet | $200 | 
+10,000 to 24,999 square feet | $300 | 
+25,000 to 39,999 square feet | $400* | 
+40,000 to 49,999 square feet | $500* | 
+50,000 square feet and over | $700* | 
+
+
+ii      traffic regulations
+https://ecode360.com/14552774
+0.36551440653390943
+Lee Street | West | From Main Street | 
+
+
+a         agreements
+https://ecode360.com/14551678
+0.3521160702853804
+9-29-1855 | Agreement between Towns of Pomfret and Putnam upon incorporation
+of Town of Putnam | 
+7-7-1856 | Agreement between Towns of Killingly and Putnam upon incorporation
+of Town of Putnam | 
+7-11-1994 | Agreement with Towns of Thompson, Killingly, Plainfield and
+Sterling to establish Northeast Enterprise Corridor Zone | 
+
+
+iv      water rates
+https://ecode360.com/14552181
+0.3201804345839328
+5/8 | $37.38 | 
+3/4 | $46.00 | 
+1 | $66.13 | 
+1 1/2 | $88.55 | 
+2 and over | $120.75 | 
+
+
+iv      water rates
+https://ecode360.com/14552181
+0.2790441246657408
+0 to 20,000 | $2.88 | 
+2,001 to 50,000 | $2.99 | 
+Over 50,000 | $2.70 per 1,000 gallons | 
+
+
+dl      disposition list
+https://ecode360.com/14614236
+0.25796103091064876
+1-7-2019 STM | Water and Sewers: Fats, Oils and Grease Pretreatment Amendment | Ch. 312, Pt. 4 | 5 | 
+12-16-2019 STM | Blighted Properties | Ch. 172 | 6 | 
+3-25-2021 STM | Putnam Municipal Complex | Ch. 102 | 7 | 
+3-25-2021 STM | Boards, Commissions and Committees: Veterans Commission | Ch. 10, Art. XIV | 7 | 
+9-7-2021 | Rehabilitation Areas: Putnam Rehabilitation Area Amendment | Ch. 118, Art. II | 7 | 
+
+
+vi      false and nuisance fire alarms
+https://ecode360.com/29931633
+0.17954256572194785
+ | 1st to 3rd | $0 | 
+ | 4th | $100 | 
+ | 5th | $150 | 
+ | 6th and each additional | $250 | 
+
+
+vi      false and nuisance fire alarms
+https://ecode360.com/29931633
+0.17954256572194785
+ | 1st to 3rd | $0 | 
+ | 4th | $100 | 
+ | 5th | $150 | 
+ | 6th and each additional | $250 | 
+
+
+rehabilitation areas
+https://ecode360.com/14551911
+0.17839432711081363
+ | 1 | 0% | 0% | 0% | 
+ | 2 | 10% | 10% | 10% | 
+ | 3 | 20% | 20% | 20% | 
+ | 4 | 100% | 30% | 30% | 
+ | 5 |  | 40% | 40% | 
+ | 6 |  | 50% | 50% | 
+ | 7 |  | 100% | 60% | 
+ | 8 |  |  | 70% | 
+ | 9 |  |  | 80% | 
+ | 10 |  |  | 90% | 
+ | 11 |  |  | 100% | 
+
+
+bazaars and raffles
+https://ecode360.com/14552105
+0.17601394134529796
+1 | $50 | 
+2 | $20 | 
+3 | $20 per day | 
+4 | $5 | 
+5 | $80 | 
+6 | $100 | 
+7 | $100 | 
+
+
+dl      disposition list
+https://ecode360.com/14614236
+0.16161806749788132
+12-13-2010 | Open burning | Ch. A350, Art. V | 
+12-13-2010 | False and nuisance fire alarms | Ch. A350, Art. VI | 
+12-13-2010 | Parking amendment | Ch. A350, Art. I | 
+
+

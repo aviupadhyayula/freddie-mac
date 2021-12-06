@@ -1,0 +1,144 @@
+iii      fees
+https://ecode360.com/32096267
+0.3897297407765791
+Application (includes fee to State of Connecticut $58) | $135 | 
+Declaratory ruling | No additional fee | 
+Summary ruling | No additional fee | 
+Plenary ruling | $250 | 
+(*Note: If a limit of investigation is used as a basis for decision,
+it shall be used to determine the fee structure.) |  | 
+Each additional acre or part thereof, up to 25 acres $10 per
+acre |  | 
+(*Note: If a limit of investigation is used as a basis for decision
+it shall be used to determine the fee structure.) |  | 
+Subdivision (in addition to above) | $100 per lot | 
+ |  | 
+Map revision |  | 
+Up to 5.0 acres | $100 per lot | 
+Over 5.0 acres (flat fee) | $150 | 
+ |  | 
+Public hearing |  | 
+First three hours or part thereof | $250 | 
+Each hour or part thereof beyond three hours | $150 | 
+ |  | 
+Fee for field inspection of regulated activities conducted prior
+to the issuance of a permit | $500 | 
+Fee for field inspection | $100 each | 
+
+
+dl      disposition list
+https://ecode360.com/15958279
+0.297996945608861
+1-2-2013 | Adoption of Code | Ch. 1, Art. II | 
+5-15-2014 | Council of Governments | Ch. 19 | 
+8-13-2014 | Capital and Nonrecurring Reserve Fund amendment; Open Space
+Fund | Ch. 23, Arts. I and II | 
+2-5-2015 | Personnel policies: pension and retirement systems amendment | Ch. 38, Art. I | 
+5-28-2015 | Boards, committees and commissions: Parks and Recreation Commission
+amendment | Ch. 10, Art. IX | 
+9-3-2015 | Boards, committees and commissions: Historic District Commission
+amendment | Ch. 10, Art. III | 
+12-22-2015 | Building construction: penalties for building code violations
+amendment | Ch. 64, Art. I | 
+12-22-2015 | Building construction: Fire Marshal | Ch. 64, Art. II | 
+5-26-2016 | Officers and employees: Town Clerk | Ch. 35, Art. I | 
+11-17-2016 | Alcoholic beverages: hours amendment | Ch. 57, Art. I | 
+11-17-2016 | Inland Wetlands Agency: fees | Ch. 27, Art. III | 
+5-25-2017 | Personnel policies: Length of Service Awards Plan | Ch. 38, Art. IV | 
+2-20-2018 | Taxation: Waiver of Taxes Amendment | Ch. 121, Art. III | 
+2-20-2018 | Inland Wetlands Agency: Fees Amendment | Ch. 27, Art. III | 
+2-20-2018 | Special Events | Ch. 114 | 
+5-24-2018 | Interlocal Agreements | Ch. 28 | 
+5-24-2018 | Septic Systems Amendment | Ch. 109 | 
+9-19-2019 | Aircraft: Fixed-Wing Aircraft Amendment | Ch. 52, Art. II | 
+9-19-2019 | Alarm Systems Amendment | Ch. 54 | 
+9-19-2019 | Earth Materials Amendment | Ch. 75 | 
+9-19-2019 | Firearms Amendment | Ch. 78 | 
+9-19-2019 | Fire Lanes Amendment | Ch. 79 | 
+9-19-2019 | Parks and Recreational Facilities: Parks, Beaches and Recreational
+Facilities Amendment | Ch. 98, Art. II | 
+
+
+v      roadway construction project guidelines
+https://ecode360.com/15958112
+-0.30074040282653014
+Arch Bridge Road | With proper safety measures, no police officer necessary | 
+Arrowhead Lane | With proper safety measures, no police officer necessary | 
+Auncient Oak Road | With proper safety measures, no police officer necessary | 
+Bellamy Lane | Police officer and proper safety measures required | 
+Bergemann Hill Road | With proper safety measures, no police officer necessary | 
+Bethlehem Lane | With proper safety measures, no police officer necessary | 
+Burritt Hill Road | With proper safety measures, no police officer necessary | 
+Cabbage Lane | With proper safety measures, no police officer necessary | 
+Carmel Hill Road North (2) | Police officer and proper safety measures required | 
+Carmel Hill Road North (Route 132) | Police officer and proper safety measures required | 
+Carmel Hill South | Police officer and proper safety measures required | 
+Cowels Road | With proper safety measures, no police officer necessary | 
+Crane Hollow Road | Police officer and proper safety measures required | 
+Crane Lane | With proper safety measures, no police officer necessary | 
+Dark Entry Road | With proper safety measures, no police officer necessary | 
+Deerwood Drive | With proper safety measures, no police officer necessary | 
+Double Hill Road | Police officer and proper safety measures required | 
+East Street (Route 132) | Police officer and proper safety measures required | 
+Falls Road | With proper safety measures, no police officer necessary | 
+Flanders Road | Police officer and proper safety measures required | 
+Green Hill Road | Police officer and proper safety measures required | 
+Gros Road | With proper safety measures, no police officer necessary | 
+Guilds Hollow (Route 132) | Police officer and proper safety measures required | 
+Hard Hill Road North and South | Police officer and proper safety measures required | 
+Harrison Lane | Police officer and proper safety measures required | 
+Hayes Road | With proper safety measures, no police officer necessary | 
+Hickory Lane | With proper safety measures, no police officer necessary | 
+Highland Road | With proper safety measures, no police officer necessary | 
+Hinman Road | With proper safety measures, no police officer necessary | 
+Jackson Lane | Private road | 
+Judge Lane | Police officer and proper safety measures required | 
+Judson Lane | With proper safety measures, no police officer necessary | 
+Kasson Avenue | With proper safety measures, no police officer necessary | 
+Kasson Road (Route 132) | Police officer and proper safety measures required | 
+Lake Avenue | With proper safety measures, no police officer necessary | 
+Lake Drive | With proper safety measures, no police officer necessary | 
+Lakes Lane | With proper safety measures, no police officer necessary | 
+Lakes Road | Police officer and proper safety measures required | 
+Lakeview Drive | With proper safety measures, no police officer necessary | 
+Long Horizon Road | With proper safety measures, no police officer necessary | 
+Maddox Road | With proper safety measures, no police officer necessary | 
+Magnolia Hill Road | Police officer and proper safety measures required | 
+Main Street North (Route 61) | Police officer and proper safety measures required | 
+Main Street South (Route 61) | Police officer and proper safety measures required | 
+Mill Pond Road | With proper safety measures, no police officer necessary | 
+Molzon Lane | With proper safety measures, no police officer necessary | 
+Munger Lane | Police officer and proper safety measures required | 
+Nettleton Hollow Road | With proper safety measures, no police officer necessary | 
+Nonnewaug Road | Police officer and proper safety measures required | 
+Orchard Avenue | With proper safety measures, no police officer necessary | 
+Paddy Hollow Road | With proper safety measures, no police officer necessary | 
+Porter Hill Road | Police officer and proper safety measures required | 
+Ridgedale Way | With proper safety measures, no police officer necessary | 
+Ridge Road | With proper safety measures, no police officer necessary | 
+Robert Leather Road | Police officer and proper safety measures required | 
+Sandford Lane | With proper safety measures, no police officer necessary | 
+Sky Meadow Road | With proper safety measures, no police officer necessary | 
+Smith Lane | With proper safety measures, no police officer necessary | 
+Spring Road | With proper safety measures, no police officer necessary | 
+Still Hill Road | Police officer and proper safety measures required | 
+Sunny Ridge Road | With proper safety measures, no police officer necessary | 
+Sunset Road | With proper safety measures, no police officer necessary | 
+Terrell Farm Road | With proper safety measures, no police officer necessary | 
+Thomson Road | With proper safety measures, no police officer necessary | 
+Todd Hill Road | Police officer and proper safety measures required | 
+Tousi Road | With proper safety measures, no police officer necessary | 
+Town Line Highway South (Route 132) | Police officer and proper safety measures required | 
+Town Line Road | Police officer and proper safety measures required | 
+Tulip Tree Lane | With proper safety measures, no police officer necessary | 
+Veteran's Memorial (the Green) | Police officer and proper safety measures required | 
+Virginia Lane | With proper safety measures, no police officer necessary | 
+Weekeepeemee Road | Police officer and proper safety measures required | 
+West Lane | With proper safety measures, no police officer necessary | 
+West Shore Drive | With proper safety measures, no police officer necessary | 
+White Birch Lane | With proper safety measures, no police officer necessary | 
+Woodcreek Road | Police officer and proper safety measures required | 
+Woodland Road | Private road | 
+Woodsedge Road | With proper safety measures, no police officer necessary | 
+
+

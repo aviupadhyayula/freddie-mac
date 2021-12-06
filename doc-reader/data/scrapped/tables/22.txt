@@ -1,0 +1,86 @@
+parking
+https://ecode360.com/27043281
+0.4881276877216141
+ | Parking time limit | $10 | 
+ | Parking in no-parking area | $10 | 
+ | Parking in crosswalk | $20 | 
+ | Parking within 10 feet of fire hydrant | $50 | 
+ | Parking within 25 feet of intersection | $20 | 
+ | Parking in front of driveway | $20 | 
+ | Parking in Town park | $20 | 
+ | Parking in restricted area | $30 | 
+ | Parking in handicapped zone (unless a handicapped vehicle) | $150 for first violation; $250 for subsequent violation | 
+ | Other violations | $20 | 
+
+
+v      tax relief for the elderly
+https://ecode360.com/27043325
+0.431516522227968
+ | Example 1: |  | 
+ | Maximum credit | = 42% | 
+ | Ownership | = 100% | 
+ | Last year's property taxes due | = $8,000 | 
+ | Last year's income | = $45,000 | 
+ | Income multiplier | = [85,000-45,000]/85,000 = 0.47 | 
+ | Tax abatement | = 0.42 x 1.0 x 8,000 x 0.47 = $1,579 | 
+ | Assume this year's taxes due | = $8,200 | 
+ | Taxes due after abatement | = $8,200 - $1,579 = $6,621 | 
+ | Example 2: |  | 
+ | Maximum credit | = 42% | 
+ | Ownership | = 50% | 
+ | Last year's property taxes due | = $8,000 | 
+ | Last year's income | = $50,000 | 
+ | Income multiplier | = [85,000-50,000]/85,000 = 0.41 | 
+ | Tax abatement | = 0.42 x 0.5 x 8,000 x 0.41 = $689 | 
+ | Assume this year's taxes due | = $8,200 | 
+ | Taxes due on 50% ownership | = $4,100 (co-owner pays the other $4,100) | 
+ | Taxes due after abatement | = $4,100 - $689 = $3,411 | 
+
+
+v      tax relief for the elderly
+https://ecode360.com/27043325
+0.4003079727037373
+ | Example |  | 
+ | Last year's property taxes due | = $8,000 | 
+ | Ownership | = 100% | 
+ | Last year's income | = $35,000 | 
+ | Income multiplier | = [85,000-35,000]/85,000 = 0.59 | 
+ | Tax abatement | = 0.42 x 1.0 x 8,000 x 0.59 = $1,982 | 
+ | Circuit breaker | = $750 | 
+ | This year's taxes due | = $8,200 | 
+ | Taxes due after all relief | = $8,200 - $1,982 - $750 = $5,468 | 
+ | Tax deferral allowed | = $5,468 x 0.75 = $4,101 | 
+
+
+v      tax relief for the elderly
+https://ecode360.com/27043325
+0.38084540617705087
+ | 1 | IRS adjusted gross income (AGI) | AGI as shown on Line 37 of IRS Form 1040 or Line 21 of Form
+1040A | 
+ | 2 | Add: federal tax-exempt interest | IRS Form 1040 Line 8b | 
+ | 3 | Add: the portion of social security benefits exempt from taxation | IRS Form 1040 Line 20a - 20b | 
+ | 4 | Add: other nontaxable income, if any | Any other income or funds received and not reported as taxable
+income on the 1040, including but not limited to all IRA distributions,
+pensions and annuities | 
+ | 5 | Less: 1/2 of all out-of-pocket health insurance premiums | Medicare Parts B, C and D, Medicare supplement insurance, other
+private health care insurance and long-term health care insurance
+(not including the amount in 1040 Line 29) | 
+ | 6 | Less: medical expenses | From IRS Form 1040 Schedule A (less the amount in Line 5 above)
+in excess of 20% of the balance of income calculated resulting from
+Lines 1 to 5 herein | 
+
+
+v      tax relief for the elderly
+https://ecode360.com/27043325
+-0.003204898175055232
+ | 2011 | 2012-2013 | $85,000 | 42.0% | 
+ | 2012 | 2013-2014 | $85,000 | 42.0% | 
+ | 2013 | 2014-2015 | $85,000 | 42.0% | 
+
+
+dl      disposition list
+https://ecode360.com/28088740
+-0.12390506443096225
+ |  |  | 
+
+

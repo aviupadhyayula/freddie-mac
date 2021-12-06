@@ -1,0 +1,181 @@
+v      refuse collection and disposal
+https://ecode360.com/33283518
+0.4120747523261521
+Cardboard (corrugated) | Container at Safety Complex and Transfer Station | 
+Glass food container | Container at Safety Complex | 
+Metal food container | Container at Safety Complex | 
+Newspapers | Container at Safety Complex | 
+Office paper, computer printout, ledger, bond writing paper,
+stationery, envelopes (except kraft), copy paper, file stock, NCR
+forms, manila folders, bond-grade catalogues and brochures | Container at Safety Complex | 
+Waste oil | Container at Transfer Station - Brush Hill Road | 
+Storage batteries | Container at Transfer Station - Brush Hill Road | 
+Leaves | Transfer Station - Brush Hill Road | 
+Scrap metal | Transfer Station - Brush Hill Road | 
+
+
+v      abatement for dairy farms and fruit orchards
+https://ecode360.com/33283596
+0.3502019778233037
+More than 10 | 0% | 
+Between 9 and 10 | 10% | 
+Between 8 and 9 | 20% | 
+Between 7 and 8 | 30% | 
+Between 6 and 7 | 40% | 
+Between 5 and 6 | 50% | 
+Between 4 and 5 | 60% | 
+Between 3 and 4 | 70% | 
+Between 2 and 3 | 80% | 
+Between 1 and 2 | 90% | 
+Between 0 and 1 | 100% | 
+
+
+dl      disposition list
+https://ecode360.com/34328727
+0.11036905579294787
+ | 6-6-2021 | Boating Amendment | Ch. 157 | 1 | 
+ | 6-6-2021 | Officers and Employees: Treasurer | Ch. 84, Art. VI | 1 | 
+
+
+commercial districts
+https://ecode360.com/33283921
+0.10208747465485599
+C-40 | 40,000 | 200 | 30 | ** | 50 | 50% | 
+
+
+rural districts
+https://ecode360.com/33283880
+-0.029872368472514843
+RU-120 | 120,000 | 42,000 | 200 | 50 | * | 8% | 12% | 
+RU-80 | 80,000 | 28,000 | 200 | 50 | * | 8% | 10% | 
+RU-40 | 40,000 | 14,000 | 150 | 50 | * | 8% | 10% | 
+
+
+waterfront business districts
+https://ecode360.com/33283910
+-0.05132073083569025
+WF-20 | 20,000 | * | * | * | 40% | 50% | 
+
+
+dl      disposition list
+https://ecode360.com/34328727
+-0.8451825619669794
+ | 10-16-1913 | Library | Ch. 70 | 
+ | 10-18-1941 | Zoning Commission | Superseded 6-16-1962 | 
+ | 6-12-1943 | Elections: Biennial Elections | Ch. 28, Art. I | 
+ | 10-11-1947 | Fire Company | Ch. 37 | 
+ | 11-19-1955 | Boating: Hog Pond and Norwich Pond | Repealed 2-14-1962 | 
+ | 12-3-1955 | Elections: Board for Admission of Electors | Superseded 5-14-1964 | 
+ | 12-3-1955 | Zoning Board of Appeals | Repealed 5-29-1992 | 
+ | 12-19-1955 | Bazaars and Raffles | Ch. 151 | 
+ | 12-7-1957 | Solid Waste: Littering or Dumping on Highways | Ch. 264, Art. I | 
+ | 5-10-1958 | Parks and Public Areas: Wild Plant Life Area | Repealed 12-10-2019; see Ch. 1, Art. I | 
+ | 5-9-1959 | Boating: Operation of Motorboats | Ch. 157, Art. I | 
+ | 8-10-1959 | Zoning Board of Appeals Alternate Members | Repealed 5-29-1992 | 
+ | 11-7-1959 | Zoning Commission Vacancies | Superseded 6-16-1962 | 
+ | 5-6-1960 | Date of Annual Town Meeting | Repealed 11-15-1991 | 
+ | 5-6-1960 | Building Construction: Building Permits | Repealed 12-31-1964 | 
+ | 2-14-1962 | Boating: Hog Pond and Norwich Pond | Ch. 157, Art. II | 
+ | 6-16-1962 | Planning and Zoning Commission | Ch. 93 | 
+ | 5-14-1964 | Elections: Board for Admission of Electors | Repealed 5-21-1976 | 
+ | 12-31-1964 | Building Construction: Building Permits | Ch. 162, Art. I | 
+ | 12-31-1964 | Streets and Sidewalks: Acceptance of Roads; Minimum Road Construction
+Specifications | Ch. 272, Art. I | 
+ | 7-3-1965 | Conservation Commission | Ch. 19 | 
+ | 1-7-1966 | Solid Waste: Disposal of Refuse | Repealed 5-22-1971 | 
+ | 6-6-1967 | Participation in Connecticut River Estuary Planning Region | Repealed 12-10-2019; see Ch. 1, Art. I | 
+ | 6-6-1967 | Streets and Sidewalks: Driveways and Approaches to Town Roads | Ch. 272, Art. II | 
+ | 1-1-1968 | Health and Sanitation: Public Health Code | Repealed 5-17-2018 | 
+ | 12-6-1968 | Streets and Sidewalks: Acceptance of Roads; Minimum Road Construction
+Specifications Amendment | See Ch. 272, Art. I | 
+ | 6-1-1969 | Boating: Rogers Lake | Superseded 1-28-1970 | 
+ | 1-28-1970 | Boating: Rogers Lake | Superseded by Ord. No. 90-3 | 
+ | 9-11-1970 | Building Construction: Building Code | Ch. 162, Art. II | 
+ | 6-6-1971 | Solid Waste: Use and Operation of Transfer Station | Ch. 264, Art. II | 
+ | 12-3-1971 | Snowmobiles | Ch. 260 | 
+ | 12-3-1971 | Boating: Operation of Airboats on Rogers Lake | Superseded by Ord. No. 90-3 | 
+ | 5-12-1972 | Recreation Commission | Ch. 100 | 
+ | 5-18-1973 | Authorizing Conservation Commission To Promulgate Regulations | Repealed by Ord. No. 90-6 | 
+ | 12-7-1973 | Conservation Commission Amendment | Ch. 19 | 
+ | 12-7-1973 | Gifts, Devises, Bequests and Trusts | Superseded by Ord. No. 94-2 | 
+ | 12-7-1973 | Solid Waste: Solid Waste Management | Ch. 264, Art. III | 
+ | 12-7-1973 | Lake Authority | Ch. 66 | 
+ | 5-31-1974 | Authorizing Conservation Commission To Promulgate Regulations
+Amendment | Repealed by Ord. No. 90-6 | 
+ | 12-12-1975 | Board of Finance: Alternate Members | Ch. 34, Art. I | 
+ | 5-21-1976 | Cemetery Commission | Ch. 15 | 
+ | 5-21-1976 | Elections: Board for Admission of Electors | Ch. 28, Art. II | 
+ | 12-3-1976 | Solid Waste: Solid Waste Management Plan | Ch. 264, Art. IV | 
+ | 12-3-1976 | Streets and Sidewalks: Driveways and Approaches to Town Roads
+Amendment | See Ch. 272, Art. II | 
+ | 12-3-1976 | Taxation: Solar Energy Tax Exemption | Repealed 11-21-1980 | 
+ | 5-20-1977 | Parks and Public Areas: Use of Town-Owned Property | Ch. 238, Art. I | 
+ | 9-14-1978 | Youth Service Bureau | Ch. 129 | 
+ | 9-14-1978 | Parks and Public Areas: Use of Town-Owned Property Amendment | Ch. 238, Art. I | 
+ | 5-24-1979 | Cemetery Commission Amendment | Ch. 15 | 
+ | 5-24-1979 | Solid Waste: Use and Operation of Transfer Station Amendment | Ch. 264, Art. II | 
+ | 11-21-1980 | Elections: Board for Admission of Electors Amendment | Ch. 28, Art. II | 
+ | 11-21-1980 | Taxation: Solar Energy Exemption | Ch. 279, Art. I | 
+ | 11-21-1980 | Health and Sanitation: Development on Substandard Lots | Ch. 197, Art. I | 
+ | 11-21-1980 | Transit District | Ch. 114 | 
+ | 11-21-1980 | Youth Service Bureau Amendment | Ch. 129 | 
+ | 5-29-1981 | Funds: Lyme Cemeteries Trust Fund | Ch. 45, Art. I | 
+ | 5-29-1981 | Water Pollution Control Commission | Ch. 125 | 
+ | 12-4-1981 | Officers and Employees: Vacancies | Ch. 84, Art. I | 
+ | 5-28-1982 | Conservation Commission Amendment | Ch. 19 | 
+ | 5-28-1982 | Solid Waste: Use and Operation of Transfer Station Amendment | Ch. 264, Art. II | 
+ | 1-7-1983 | Boating: Rogers Lake Amendment | Superseded by Ord. No. 90-3 | 
+ | 1-7-1983 | Cemetery Commission Amendment | Ch. 15 | 
+ | 1-7-1983 | Flood and Erosion Control Board | Ch. 41 | 
+ | 1-7-1983 | Taxation: Tax Abatement for Property Damaged by June 1982 Flood | NCM (temporary measure) | 
+ | 6-1-1984 | Officers and Employees: Justices of the Peace | Ch. 84, Art. II | 
+Ord. No. 88-1 | 5-29-1987 | Solid Waste: Refuse Collection and Disposal | Ch. 264, Art. II and Art. V | 
+Ord. No. 88-2 | 1-8-1988 | Taxation: Elderly Tax Relief Program | Ch. 279, Art. II | 
+Ord. No. 88-3 | 1-8-1988 | Officers and Employees: Town Clerk | Ch. 84, Art. III | 
+Ord. No. 88-4 | 5-27-1988 | Historic District | Ch. 201 | 
+Ord. No. 90-1 | 1-19-1990 | Taxation: Improvements on Real Property with Delinquent Taxes | Ch. 279, Art. III | 
+ | 3-15-1989 | Inland Wetlands and Watercourses Regulations | Superseded 6-20-2018 | 
+Ord. No. 90-2 | 1-19-1990 | Affordable Housing Commission | Ch. 3 | 
+Ord. No. 90-3 | 6-1-1990 | Boating: Rogers Lake | Ch. 157, Art. III | 
+Ord. No. 90-4 | 12-28-1990 | Solid Waste: Refuse Collection and Disposal Amendment | Ch. 265, Art. V | 
+Ord. No. 90-5 | 12-28-1990 | Alarm Systems | Ch. 145 | 
+Ord. No. 90-6 | 12-28-1990 | Conservation Commission Amendment | Ch. 19 | 
+Ord. No. 90-6A | 1-25-1991 | Conservation Commission Amendment | Ch. 19 | 
+Ord. No. 90-7 | 12-28-1990 | Boating: Rogers Lake Amendment | Ch. 157, Art. III | 
+Ord. No. 92-1 | 2-28-1992 | Boating: Mooring Permits | Ch. 157, Art. IV | 
+Ord. No. 92-2 | 5-29-1992 | Zoning Board of Appeals | Ch. 133 | 
+Ord. No. 93-1 | 9-17-1993 | Meetings | Ch. 75 | 
+Ord. No. 94-1a | 12-10-1994 | Alarm Systems Amendment | Ch. 145 | 
+Ord. No. 94-2 | 12-10-1994 | Gifts, Devises, Bequests and Trusts | Repealed by Ord. No. 2011-2 | 
+Ord. No. 95-1 | 5-26-1995 | Taxation: Solar Energy Exemption Amendment | Ch. 279, Art. I | 
+Ord. No. 95-2 | 5-26-1995 | Parks and Public Areas: Use of Town-Owned Property Amendment | Ch. 238, Art. I | 
+Ord. No. 96-1 | 3-29-1996 | Officers and Employees: Justices of the Peace Amendment | Ch. 84, Art. II | 
+Ord. No. 2006-1 | 11-25-2006 | Affordable Housing: Exemption from Subdivision Regulations | Ch. 140, Art. I | 
+Ord. No. 2006-2 | 11-25-2006 | Numbering of Buildings | Ch. 166 | 
+Ord. No. 2006-3 | 11-25-2006 | Streets and Sidewalks: Acceptance of roads; Minimum Road Construction
+Specifications Amendment | See Ch. 272, Art. I | 
+Ord. No. 2007-1 | 6-15-2007 | Taxation: Elderly Tax Relief Program Amendment | Ch. 279, Art. II | 
+Ord. No. 2007-2 | 10-26-2007 | Citations: Inland Wetlands and Watercourses Regulations | Ch. 173, Art. I | 
+Ord. No. 2007-3 | 11-16-2007 | Taxation: Exemptions for Farm Machinery and Buildings | Ch. 279, Art. IV | 
+Ord. No. 2007-4 | 10-26-2007 | Taxation: Abatement for Dairy Farms and Fruit Orchards | Ch. 279, Art. V | 
+Ord. No. 2007-5 | 11-16-2007 | Streets and Sidewalks: Acceptance of Roads; Minimum Road Construction
+Specifications Amendment | Ch. 272, Art. I | 
+Ord. No. 2009-1 | 12-21-2009 | Cemetery Committee Changed to Cemetery Commission | See Ch. 15 | 
+Ord. No. 2011-1 | 5-27-2011 | Streets and Sidewalks: Deposit of Snow and Ice | Ch. 272, Art. III | 
+Ord. No. 2011-2 | 12-2-2011 | Gifts, Grants, Devises, Bequests and Trusts | Repealed by Ord. No. 2019-3 | 
+Ord. No. 2013-1 | 5-20-2013 | Streets and Sidewalks: Driveways and Approaches to Town Roads
+Amendment | Ch. 272, Art. II | 
+Ord. No. 2014-1 | 5-15-2014 | Officers and Employees: Constables | Ch. 84, Art. IV | 
+Ord. No. 2014-2 | 5-15-2014 | Board of Assessors | Ch. 6 | 
+Ord. No. 2014-3 | 5-15-2014 | Funds: Lyme Cemeteries Trust Fund Amendment | Ch. 45, Art. I | 
+ | 3-18-2016 | Zoning Regulations | Ch. 315 | 
+ | 3-18-2016 | Subdivision Regulations | Ch. 310 | 
+Ord. No. 2017-1 | 5-18-2017 | Officers and Employees: Collector of Taxes | Ch. 84, Art. V | 
+ | 7-18-2018 | Inland Wetlands and Watercourses Regulations | Ch. 300 | 
+Ord. No. 2019-1 | 5-14-2019 | Officers and Employees: Town Clerk Amendment | Ch. 84, Art. III | 
+Ord. No. 2019-2 | 5-14-2019 | Taxation: Excess Tax Payments | Ch. 279, Art. VI | 
+Ord. No. 2019-3 | 5-14-2019 | Gifts, Grants, Devises, Bequests and Trusts | Ch. 49 | 
+Ord. No. 2019-4 | 12-10-2019 | General Provisions: Adoption of Code | Ch. 1, Art. I | 
+Ord. No. 2019-5 | 12-10-2019 | Planning and Zoning Commission Amendment | Ch. 93 | 
+
+

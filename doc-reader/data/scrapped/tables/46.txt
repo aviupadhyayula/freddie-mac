@@ -1,0 +1,320 @@
+a         sewage disposal system requirements
+https://ecode360.com/8839937
+0.391401457906445
+ | NOTE: A sewage-disposal permit must be obtained before a building permit
+will be issued. Builders are asked to provide the owner with a lot plan showing
+location of the well and the several components of the sewage-disposal system. | 
+
+
+ii      street excavations
+https://ecode360.com/8839750
+0.38495508872753736
+General liability* | Each occurrence | $1,000,000 | 
+ | General aggregate | $2,000,000 | 
+ | Products/completed operations aggregate | $2,000,000 | 
+Auto liability* | Combined single limit each accident | $1,000,000 | 
+Umbrella* (excess liability) | Each occurrence aggregate | $1,000,000 | 
+ |  | $1,000,000 | 
+Worker's compensation and employer's liability | Work comp | Statutory limits | 
+ | EL: each accident | $500,000 | 
+ | EL: disease, each employee | $500,000 | 
+ | EL: disease, policy limit | $500,000 | 
+
+
+noise
+https://ecode360.com/8839288
+0.340495415673421
+**NOTE: Based on the Zoning Regulations and Zoning Map of the Town of
+North Branford. | 
+
+
+noise
+https://ecode360.com/8839288
+0.3377118308752432
+ | Initial | $25.00 fine | 
+ | Second | $50.00 fine and/or confinement in jail not exceeding 7 days | 
+ | Third | $100.00 fine and/or confinement in jail not exceeding 7 days | 
+ | Additional | $100.00 fine and/or confinement in jail not exceeding 30 days | 
+ | Each day on which a violation occurs or continues shall be considered
+a separate violation of this chapter. |  | 
+
+
+a         sewage disposal system requirements
+https://ecode360.com/8839937
+0.3279907020510151
+ | A | 0 to 3 | 30 (minimum total 150 square feet) | 4 to 5 | 
+ | B | 4 to 10 | 35 to 40 | 5.5 to 8 | 
+ | C | 11 to 30 | 42 to 63 | 8.3 to 16 | 
+ | D | 45 60 | 87 110 | 22 28 | 
+
+
+ii      street excavations
+https://ecode360.com/8839750
+0.29694822240502927
+* | The Town of North Branford must be named as "additional insured"
+on this policy. | 
+
+
+noise
+https://ecode360.com/8839288
+0.2561781289523699
+A | Residential | R-80, R-40, R-GA | 
+B | Commercial | B-1, B-2, B-3 | 
+C | Industrial | I-1, I-2, I-3 | 
+
+
+noise
+https://ecode360.com/8839288
+0.2225339304064026
+ | Emitter Noise Zone | C 
+(dBA) | B 
+(dBA) | A-Day 
+(dBA) | A-Night 
+(dBA) | 
+ | Class C | 70 | 66 | 61 | 51 | 
+ | Class B | 62 | 62 | 55 | 45 | 
+ | Class A | 62 | 55 | 55 | 45 | 
+
+
+dl      disposition list
+https://ecode360.com/8840002
+0.1603906200473625
+Ord. No. 257 | 10-1-2019 | Purchasing Amendment | Ch. 84 | 43 | 
+Ord. No. 258 | 4-21-2020 | Taxation: Tax Relief for the Elderly and Permanently Disabled
+Amendment; Exemption for Blind Persons Amendment; Exemption for Totally
+Disabled Persons Amendment | Ch. 213, Art. III; Ch. 213, Art. V; Ch. 213, Art. VI | 43 | 
+
+
+a         sewage disposal system requirements
+https://ecode360.com/8839937
+0.061824824311511595
+ | 1 | 150 | 200 | 300 | 
+ | 2 | 200 | 300 | 600 | 
+ | 3 | 300 | 450 | 900 | 
+
+
+a         sewage disposal system requirements
+https://ecode360.com/8839937
+0.061824824311511595
+1 | 1 | 6 | 6 | 1 | 6 | 7 | 2 | 6 | 7 | 
+2 | 1 | 8 | 6 | 2 | 6 | 7 | 2 | 9 | 8 | 
+3 | 2 | 6 | 6 | 2 | 8 | 8 | 3 | 9 | 8 | 
+
+
+dl      disposition list
+https://ecode360.com/8840002
+-2.032064823402855
+ | Fire Department | 04-27-1938 | Ch. 40 | 
+ | Transportation of garbage | 11-29-1941 | Ch. 193, Art. I | 
+ | Fireworks | 06-03-1942 | Ch. 140 | 
+ | Zoning regulations | 04-14-1954 | Repealed 9-2-1977 | 
+ | Abandoned refrigerators | 05-06-1954 | Repealed by Ord. No. 185 | 
+ | Sewage disposal systems | 01-??-1955 | Superseded by DPHAS regulations | 
+ | Planning Commission | 12-21-1955 | Superseded 12-23-1963 | 
+ | Bingo | 04-03-1956 | Ch. 119 | 
+ | Park and Recreation Commission | 10-01-1956 | Repealed by Ord. No. 132 | 
+ | Peddling or vending | 06-11-1957 | Repealed by Ord. No. 171 | 
+ | Oil-burning equipment | 06-27-1957 | Ch. 174 | 
+ | Cesspools and septic tanks | 12-30-1958 | Ch. 189, Art. I | 
+ | Building construction administration | 12-07-1959 | Repealed by Ord. No. 121 | 
+ | Building construction | 03-02-1960 | Repealed by Ord. No. 121 | 
+ | Electrical Code | 03-02-1960 | Repealed by Ord. No. 121 | 
+ | Road construction | 03-21-1960 | Ch. 201, Art. I | 
+ | Vehicles and traffic | 03-21-1960 | Repealed by Ord. No. 125 | 
+ | Subdivision of land | 08-01-1962 | Ch. 209 | 
+ | Regional Planning Agency | 01-19-1963 | Repealed by Ord. No. 185 | 
+ | Space heaters | 02-13-1963 | Ch. 197 | 
+ | Zoning Commission and Zoning Board of Appeals | 12-23-1963 | Repealed by Ord. No. 202 | 
+ | Justices of the Peace | 05-12-1964 | Ch. 60 | 
+ | Zoning Commission and Planning Commission amendment | 07-16-1964 | Repealed by Ord. No. 202 | 
+ | Zoning Board of Appeals amendment | 12-23-1964 | Superseded by Ord. No. 202 | 
+ | Conservation Commission | 12-20-1965 | Repealed by Ord. No. 184 | 
+ | Cesspools and septic tanks amendment | 05-03-1966 | Ch. 189, Art. I | 
+ | Housing Authority | 05-03-1966 | Ch. 48 | 
+ | Park and Recreation Commission amendment | 05-03-1966 | Repealed By Ord. No. 132 | 
+ | School Building Commission | 05-03-1966 | Repealed by Ord. No. 180 | 
+ | Zoning regulations amendment | 01-06-1969 | Repealed 9-2-1977 | 
+ | Regional Council of Elected Officials | 02-11-1969 | Repealed by Ord. No. 185 | 
+ | Board of Police Commissioners | 07-17-1969 | Ch. 77 | 
+ | Refuse disposal | 09-11-1969 | Repealed by Ord. No. 128 | 
+ | Loitering | 08-24-1970 | Ch. 166 | 
+ | Employee retirement plan | 11-05-1970 | Repealed by Ord. No. 178 | 
+ | Charter | 03-09-1971 |  | 
+Ord. No. 100 | Building Code Board of Appeals | 03-07-1972 | Repealed by Ord. No. 121 | 
+Ord. No. 101 | Collective bargaining | 05-23-1972 | Ch. 16 | 
+Ord. No. 102 | Cesspools and septic tanks amendment | 06-06-1972 | Ch. 189, Art. I | 
+Ord. No. 103 | Roads amendment | 06-06-1972 | Superseded by Ord. No. 135 | 
+Ord. No. 104 | Salary of Town Clerk | 06-06-1972 | Ch. 92, Art. I | 
+Ord. No. 105 | Personnel Appeals Board | 08-08-1972 | Repealed by Ord. No. 146 | 
+Ord. No. 106 | Water pollution | 08-08-1972 | Ch. 228 | 
+Ord. No. 107 | Cesspools and septic tanks amendment | 09-05-1972 | Ch. 189, Art. I | 
+Ord. No. 108 | Human Relations Committee | 11-26-1972 | Repealed by Ord. No. 215 | 
+Ord. No. 109 | Firearms | 01-02-1973 | Ch. 136 | 
+Ord. No. 110 | Fire zones | 01-16-1973 | Ch. 144 | 
+Ord. No. 111 | Refuse disposal amendment | 02-20-1973 | Superseded by Ord. No. 128 | 
+Ord. No. 112 | Purchasing procedures | 10-16-1973 | Ch. 84 | 
+Ord. No 113 | Driveways connecting to town roads | __ | Not adopted | 
+Ord. No. 114 | Roads amendment | 10-02-1973 | Superseded by Ord. No. 135 | 
+Ord. No. 115 | Inland Wetlands Agency | 10-23-1973 | Ch. 20 | 
+Ord. No. 116 | Cesspools and septic tanks amendment | 02-05-1974 | Ch. 189, Art. I | 
+Ord. No. 117 | Roads amendment | 02-19-1974 | Superseded by Ord. No. 135 | 
+Ord. No. 118 | Flood and Erosion Control Board | 05-07-1974 | Ch. 44 | 
+Ord. No. 119 | Fire Department amendment | 07-09-1974 | Ch. 40 | 
+Ord. No. 120 | Manager's salary | 09-17-1974 | Repealed by Ord. No. 123 | 
+Ord. No. 121 | Board of Appeals and Building construction | 11-26-1974 | Chs. 12 and 123 | 
+Ord. No. 122 | Powers of Sewer Authority | 01-07-1975 | Superseded by Ord. No. 136 | 
+Ord. No. 123 | Manager's salary | 10-19-1976 | Repealer only | 
+ | Zoning | 09-02-1977 | Ch. 232 | 
+Ord. No. 124 | Solar energy systems tax exemption | 01-03-1978 | Repealed by Ord. No. 145 | 
+Ord. No. 125 | Parking | 03-21-1978 | Ch. 220, Art. I | 
+Ord. No. 126 | Flood Damage Control | 07-11-1978 | Superseded by Ord. No. 166 | 
+Ord. No. 127 | Inland Wetlands Agency amendment | 06-20-1978 | Ch. 20 | 
+Ord. No. 128 | Solid waste disposal | 07-21-1978 | Repealed by Ord. No. 185 | 
+Ord. No. 129 | Economic Development Commission | 08-15-1978 | Ch. 29 | 
+Ord. No. 130 | Coordination of boards and commissions | __ | Tabled 8-15-1978/ rejected | 
+Ord. No. 131 | Air pollution | 07-11-1978 | Ch. 104 | 
+Ord. No. 132 | Recreation Commission | 03-06-1979 | Ch. 88 | 
+Ord. No. 133 | Parks and recreation areas | 03-06-1979 | Ch. 178 | 
+Ord. No. 134 | Sewer use charges | 01-09-1979 | Ch. 189, Art. II | 
+Ord. No. 135 | Industrial cost recovery | 01-09-1979 | Repealed by Ord. No. 185 | 
+Ord. No. 136 | Parking amendment | 01-09-1979 | Ch. 220, Art. I | 
+Ord. No. 135 | Road construction amendment | 07-17-1979 | Ch. 201, Art. I | 
+Ord. No. 136 | Water pollution amendment | 07-17-1979 | Ch. 228 | 
+Ord. No. 137 | Library | 09-14-1979 | Ch. 64 | 
+Ord. No. 138 | Budget and spending | 01-02-1981 | Ch. 8 | 
+Ord. No. 139 | Police Commission | __ | Defeated 12-9-1980 | 
+Ord. No. 140 | Fire Department amendment | 06-16-1981 | Ch. 40 | 
+Ord. No. 141 | Road construction amendment | 10-16-1981 | Ch. 201, Art. I | 
+Ord. No. 142 | Space heaters amendment | 11-17-1981 | Ch. 197 | 
+Ord. No. 143 | Snow and ice removal | 01-05-1982 | Ch. 201, Art. II | 
+Ord. No. 144 | Registrar of Voters | 01-19-1982 | Ch. 92, Art. II | 
+Ord. No. 145 | Exemption for solar energy systems | 03-02-1982 | Ch. 213, Art. I | 
+Ord. No. 146 | Personnel Appeals Board | 09-21-1982 | Repealer only | 
+Ord. No. 147 | Solid waste disposal amendment | 06-21-1983 | Repealed by Ord. No. 185 | 
+Ord. No. 148 | Possession of alcoholic beverages by minors | 08-16-1983 | Ch. 112, Art. I | 
+Ord. No. 149 | Board of Education | 09-06-1983 | Ch. 33 | 
+Ord. No. 150 | Council of Governments | 05-08-1984 | Ch. 24 | 
+Ord. No. 151 | Solid waste disposal amendment | 10-02-1984 | Repealed by Ord. No. 185 | 
+Ord. No. 152 | Water main extensions | 01-22-1985 | Ch. 224, Art. I | 
+Ord. No. 153 | Water main extensions amendment | 04-02-1985 | Ch. 224, Art. I | 
+Ord. No. 154 | Building construction amendment | 02-04-1986 | Ch. 123 | 
+Ord. No. 155 | Alarm devices | 08-19-1986 | Ch. 108 | 
+Ord. No. 156 | Parks and recreation areas amendment | 08-19-1986 | Ch. 178 | 
+Ord. No. 157 | Purchasing procedures amendment | 02-03-1987 | Ch. 84 | 
+Ord. No. 158 | Purchasing procedures amendment | 04-19-1988 | Ch. 84 | 
+Ord. No. 159 | Fuel storage tanks | 06-07-1988 | Ch. 152 | 
+Ord. No. 160 | Solid waste disposal amendment | 06-07-1988 | Repealed by Ord. No. 185 | 
+Ord. No. 161 | Building moratorium | 03-21-1989 | Temporary measure | 
+Ord. No. 162 | Residential refuse collection | 09-05-1989 | Ch. 193, Art. II | 
+Ord. No. 163 | Housing partnership | 10-09-1989 | Ch. 52 | 
+Ord. No. 164 | Building construction amendment | 05-15-1990 | Ch. 123 | 
+Ord. No. 165 | Noise | 06-05-1990 | Ch. 170 | 
+Ord. No. 166 | Flood damage prevention | 10-16-1990 | Ch. 148 | 
+Ord. No. 167 | Recycling | 11-13-1990 | Ch. 193, Art. III | 
+Ord. No. 168 | Number not used |  |  | 
+Ord. No. 169 | Number not used |  |  | 
+Ord. No. 170 | White Hollow/ Middletown Avenue sewer facilities
+use | 05-07-1991 | Ch. 189, Art. III | 
+Ord. No. 171 | Peddling, hawking and vending | 07-16-1991 | Ch. 182 | 
+Ord. No. 172 | Sewer use charges amendment | 06-04-1991 | Ch. 189, Art. II | 
+Ord. No. 173 | Residential refuse collection amendment | 06-04-1991 | Ch. 193, Art. II | 
+Ord. No. 174 | Demolition of historic properties | 08-20-1991 | Ch. 159, Art. I | 
+Ord. No. 175 | Building construction amendment | 07-16-1991 | Ch. 123 | 
+Ord. No. 176 | Purchasing procedures amendment | 04-21-1992 | Ch. 84 | 
+Ord. No. 177 | Refuse collection amendment | 06-16-1992 | Ch. 193, Art. II | 
+Ord. No. 178 | Employee retirement plan | 06-01-1993 | Ch. 69 | 
+Ord. No. 179 | Parking amendment | 11-16-1993 | Ch. 220, Art. I | 
+Ord. No. 180 | Permanent Project Building Committee | 11-15-1994 | Ch. 73 | 
+Ord. No. 181 | Street signs and numbering of buildings | 02-07-1995 | Ch. 205 | 
+Ord. No. 182 | Sewer use charge amendment | 06-20-1995 | Ch. 189, Art. II | 
+Ord. No. 183 | Board of Police Commissioners amendment | 07-11-1995 | Ch. 77 | 
+Ord. No. 184 | Conservation and Inland Wetlands and Watercourses
+Agency | 09-19-1995 | Ch. 20 | 
+Ord. No. 185 | Abandoned refrigerators; industrial cost recovery;
+solid waste disposal; Regional Council of Elected Officials; Regional
+Planning Agency | 10-10-1995 | Repealer only | 
+Ord. No. 186 | Building construction amendment | 10-10-1995 | Ch. 123 | 
+Ord. No. 187 | Building Code Board of Appeals amendment | 10-10-1995 | Ch. 12 | 
+Ord. No. 188 | Firearms amendment | 10-10-1995 | Ch. 136 | 
+Ord. No. 189 | Fire Department amendment | 10-10-1995 | Ch. 40 | 
+Ord. No. 190 | Fire zones amendment | 10-10-1995 | Ch. 144 | 
+Ord. No. 191 | Flood and Erosion Control Board amendment | 10-24-1995 | Ch. 44 | 
+Ord. No. 192 | Fuel storage tanks amendment | 10-24-1995 | Ch. 152 | 
+Ord. No. 193 | Oil-burning equipment amendment | 10-24-1995 | Ch. 174 | 
+Ord. No. 194 | Sewers and sewage disposal amendment | 10-24-1995 | Ch. 189, Art. I | 
+Ord. No. 195 | Residential refuse collection amendment | 10-24-1995 | Ch. 193, Art. II | 
+Ord. No. 196 | Recycling amendment | 10-24-1995 | Ch. 193, Art. III | 
+Ord. No. 197 | Housing Authority amendment | 10-24-1995 | Ch. 48 | 
+Ord. No. 198 | Snow and ice removal amendment | 10-24-1995 | Ch. 201, Art. II | 
+Ord. No. 199 | Loitering amendment | 10-24-1995 | Ch. 166 | 
+Ord. No. 200 | Board of Education amendment | 10-24-1995 | Ch. 33 | 
+Ord. No. 201 | Exemption for solar energy systems amendment | 10-24-1995 | Ch. 213, Art. I | 
+Ord. No. 202 | Zoning Commission, Zoning Board of Appeals and
+Planning Commission amendment | 10-24-1995 | Ch. 75 | 
+Ord. No. 203 | Justices of the Peace | 4-2-1996 | Ch. 60 | 
+Ord. No. 204 | Open Space Trust Fund | 4-17-1996 | Ch. 67 | 
+Ord. No. 205 | Director of Public Works | 6-25-1996 | Ch. 81 | 
+Ord. No. 206 | Exemption on vehicles which transport medically
+incapacitated individuals | 8-13-1996 | Ch. 213, Art. II | 
+Ord. No. 207 | Adoption of Code | 9-3-1996 | Ch. 1, Art. I | 
+Ord. No. 208 | Parks and Recreation Commission | 9-3-1996 | Chs. 88 and 178 | 
+Ord. No. 209 | Vehicles and traffic amendment | 11-19-1996 | Ch. 220 | 
+Ord. No. 210 | Charter amendment | 11-5-1996 | Charter | 
+Ord. No. 211 | Adult-oriented establishments | 1-21-1997 | Ch. 101 | 
+Ord. No. 212 | Residential refuse collection amendment | 11-3-1998 | Ch. 193, Art. II | 
+Ord. No. 213 | Permanent Project Building Committee amendment | 11-3-1998 | Ch. 73 | 
+Ord. No. 214 | Noise amendment | 2-16-1999 | Ch. 170 | 
+Ord. No. 215 | Human Relations | 4-20-1999 | Ch. 56, repealer only | 
+Ord. No. 216 | Open Space Trust Fund amendment | 6-1-1999 | Ch. 67 | 
+Ord. No. 217 | Conservation and Inland Wetlands and Watercourses
+Agency amendment | 6-15-1999 | Ch. 20 | 
+Ord. No. 218 | Pensions and retirement amendment | 9-21-1999 | Ch. 69 | 
+Ord. No. 219 | Charter amendment | 11-2-1999 | Charter | 
+Ord. No. 220 | 1999 - 2001 Officials Page | 11-2-1999 | Officials Page | 
+Ord. No. 221 | Tax relief for the elderly and permanently disabled | 10-17-2000 | Ch. 213, Art. III | 
+Ord. No. 222 | Open Space Trust Fund amendment | 12-12-2000 | Ch. 67 | 
+Ord. No. 223 | Board of Police Commissioners amendment | 4-3-2001 | Ch. 77 | 
+Ord. No. 224 | Historic properties: demolition amendment | 6-19-2001 | Ch. 159, Art. I | 
+Ord. No. 225 | Tobacco vending machines | 11-20-2001 | Ch. 222 | 
+Ord. No. 226 | Tax relief for the elderly and permanently disabled
+amendment | 2-5-2002 | Ch. 213, Art. III | 
+Ord. No. 227 | Permanent Project Building Committee amendment | 3-5-2002 | Ch. 73 | 
+Ord. No. 228 | Parking amendment | 6-18-2002 | Ch. 220, Art. I | 
+Ord. No. 229 | Delinquent motor vehicle taxes | 3-23-2004 | Ch. 213, Art. IV | 
+Ord. No. 230 | Peddling, hawking and vending amendment | 7-6-2004 | Ch. 182 | 
+Ord. No. 231 | Code of Ethics | 5-17-2005 | Ch. 35 | 
+Ord. No. 232 | Economic Development Commission amendment | 10-18-2005 | Ch. 29 | 
+Ord. No. 233 | Historic properties amendment | 10-18-2005 | Ch. 159 | 
+Ord. No. 234 | Tax relief for the elderly and permanently disabled
+amendment | 6-6-2006 | Ch. 213, Art. III | 
+Ord. No. 235 | Building construction amendment | 7-11-2006 | Ch. 123 | 
+Ord. No. 236 | Agriculture Commission | 5-15-2007 | Ch. 4 | 
+Ord. No. 237 | Storm sewers: illicit discharges and connections | 8-7-2007 | Ch. 199, Art. I | 
+Ord. No. 238 | Code of Ethics amendment | 8-7-2007 | Ch. 35 | 
+Ord. No. 239 | Tax relief for elderly and permanently disabled
+amendment | 4-7-2009 | Ch. 213, Art. III | 
+Ord. No. 240 | Tax exemption for blind persons; tax exemption for totally disabled
+persons | 4-6-2010 | Ch. 213, Arts. V and VI | 
+Ord. No. 241 | Flood damage prevention amendment | 10-19-2010 | Ch. 148 | 
+Ord. No. 242 | Transportation of refuse amendment; residential refuse collection
+amendment; recycling amendment | 9-20-2011 | Ch. 193, Art. I, II and III | 
+Ord. No. 243 | Charter amendment | 11-6-2012 | Charter | 
+Ord. No. 244 | Building construction amendment | 10-15-2013 | Ch. 123 | 
+Ord. No. 245 | Purchasing amendment | 10-15-2013 | Ch. 84 | 
+Ord. No. 246 | Tax relief for the elderly and permanently disabled amendment | 3-18-2014 | Ch. 213, Art. III | 
+Ord. No. 247 | Public Safety Communications Committee | 7-7-2015 | Ch. 80 | 
+Ord. No. 248 | Solid/hazardous waste and recycling: Solid/Hazardous Waste and
+Recycling Committee; transportation of refuse amendment; residential
+refuse and bulky waste collection amendment; recycling amendment | 12-8-2015 | Ch. 193 | 
+Ord. No. 249 | Parks and Recreation Commission; parks and recreation areas
+amendment | 11-1-2016 | Ch. 88 | 
+Ord. No. 250 | Street signs and numbering of buildings amendment | 2-7-2017 | Ch. 205 | 
+Ord. No. 251 | Flood Damage Prevention amendment | 3-21-2017 | Ch. 148 | 
+Ord. No. 252 | Fire Department amendment | 1-16-2018 | Ch. 40 | 
+Ord. No. 253 | Sewers and Sewage Disposal: White Hollow/Middletown Avenue Sewer
+Facilities amendment | 2-6-2018 | Ch. 189, Art. III | 
+Ord. No. 254 | Purchasing amendment | 2-20-2018 | Ch. 84 | 
+Ord. No. 255 | Fire Department amendment | 10-16-2018 | Ch. 40 | 
+Ord. No. 256 | Streets and Sidewalks Amendment | 3-5-2019 | Ch. 201 | 
+
+

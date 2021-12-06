@@ -1,0 +1,231 @@
+noise
+https://ecode360.com/7271096
+0.5690073008080025
+Residential | 51 | 46 | 51 | 46 | 51 | 46 | 
+Business | 56 | 51 | 56 | 56 | 56 | 56 | 
+Industrial | 61 | 56 | 61 | 56 | 64 | 61 | 
+
+
+fees
+https://ecode360.com/7270737
+0.4819497271533958
+ | Registration |  |  |  |  | 
+ |  | Industrial | 300 | 400 | 500 | 
+ |  | Commercial | 300 | 400 | 500 | 
+ |  | Other | 200 | 300 | 400 | 
+ | Permits |  |  |  |  | 
+ |  | Industrial | 500 | 750 | 1,000 | 
+ |  | Commercial | 500 | 750 | 1,000 | 
+ |  | Other | 400 | 600 | 800 | 
+ | Materials management plan (MMP) review |  | 200 | 300 | 400 | 
+ | Stormwater management plan (SMP) review |  | 300 | 400 | 500 | 
+ | Public hearing |  | 250 | 250 | 250 | 
+ | Facility inspection/ monitoring |  | 150 | 250 | 350 | 
+ | Regulation petition |  | 250 | 250 | 250 | 
+ | Transfer of registration or permit |  | 50 | 50 | 50 | 
+
+
+iii      requirements for domestic sewage receptacles
+https://ecode360.com/7271327
+0.4522092267497936
+ | 3 | 3.7 | 
+ | 4 | 2.7 | 
+ | 5 | 2.5 | 
+ | 6 | 2.3 | 
+ | 7 | 2.1 | 
+ | 8 | 2.0 | 
+ | 9 | 1.9 | 
+ | 10 | 1.75 | 
+ | 12 | 1.6 | 
+ | 15 | 1.4 | 
+ | 20 | 1.1 | 
+ | 25 | 0.9 | 
+ | 30 | 0.8 | 
+ | More than 30 | Special consideration needed to avoid nuisance conditions. In some soils
+it may be impractical or impossible to use subsurface disposal. | 
+
+
+iv      property tax relief for elderly homeowners  local option
+https://ecode360.com/7271882
+0.3447415741338671
+ | *Effective with the October 1, 2015 Grand List, the income limits
+shall be adjusted to be the same as for the state program, except
+that the maximum state income levels shall be increased by $6,000. | 
+
+
+iii      requirements for domestic sewage receptacles
+https://ecode360.com/7271327
+0.32840481367133983
+ | 5 or less | 125 | 
+ | 6-10 | 165 | 
+ | 11-15 | 195 | 
+ | 16-20 | 225 | 
+ | 21-30 | 250 | 
+ | 30 or more | Special consideration needed to avoid nuisance conditions | 
+
+
+v      residential assessments and sewer costs
+https://ecode360.com/14363466
+0.32347910063651764
+ | Zoning Class | Assessment Amount | 
+ | R-20 and Under | $10,000 | 
+ | R-30 and R-40 | $12,500 | 
+ | R-80 | $15,000 | 
+
+
+iv      property tax relief for elderly homeowners  local option
+https://ecode360.com/7271882
+0.2941074207812173
+ | $0 | $17,600 | $1,250 to $400 | 
+ | $17,600 | $23,600 | $1,000 to $350 | 
+ | $23,600 | $29,500 | $750 to $250 | 
+ | $29,500 | $35,200 | $500 to $250 | 
+ | $35,200 | $42,900 | $250 to $150 | 
+ | $41,200* | $48,900* | $250 to $150* | 
+
+
+iii      sewer use
+https://ecode360.com/7271441
+0.2879544327589539
+ | Arsenic as AS | 0.05 | 
+ | Barium as Ba | 5.0 | 
+ | Boron as BO | 5.0 | 
+ | Cyanides as CN (amendable) | 0.1 | 
+ | Fluoride as F | 20 | 
+ | Chromium (Total) | 1.0 | 
+ | Chromium (Cr +6) | 0.1 | 
+ | Magnesium as Mg | 100 | 
+ | Manganese as Mn | 5.0 | 
+ | Copper as Cu | 1.0 | 
+ | Zinc as Zn | 1.0 | 
+ | Cadmium | 0.1 | 
+ | Lead | 0.1 | 
+ | Tin | 2.0 | 
+ | Silver | 0.1 | 
+ | Mercury | 0.01 | 
+ | Nickel | 1.0 | 
+
+
+vii      retirement benefits
+https://ecode360.com/7270118
+0.2859221355250361
+2.00% prior to July 1, 1988 | 
+2.25% effective July 1, 1988 | 
+2.50% effective July 1, 1992 | 
+of the annual average of the highest annual earnings received
+by a police employee from the Town during any four consecutive years,
+multiplied by the police employee's years of credited service
+and fractions thereof. If the final year of earnings before retirement
+or termination is a partial year, this partial year of earnings will
+be annualized before determining the four highest years of earnings. | 
+
+
+xiii      definitions
+https://ecode360.com/7270163
+0.28247835288425815
+Effective July 1, 2010, SEIU members hired after this date will
+not be eligible to be a part of this plan. | 
+Effective July 1, 2011, AFSCME members hired after this date
+will not be eligible to be a part of this plan. | 
+Effective July 1, 2011, unaffiliated employees hired after this
+date will not be eligible to be a part of this plan. | 
+Effective July 1, 2019, Farmington Public Schools Employees
+United, ATF, members hired after this date will not be eligible to
+be a part of this plan. | 
+
+
+iv      property tax relief for elderly homeowners  local option
+https://ecode360.com/7271882
+0.28077408744788396
+ | $0 | $17,600 | $1,000 to $350 | 
+ | $17,600 | $23,600 | $750 to $250 | 
+ | $23,600 | $29,500 | $500 to $150 | 
+ | $29,500 | $35,200 | $250 to $150 | 
+ | $35,200* | $41,200* | $250 to $150* | 
+
+
+iii      sewer use
+https://ecode360.com/7271441
+0.26259010396355686
+ | Note: All metals are to be measured as total
+metals. | 
+
+
+vi      eligibility
+https://ecode360.com/7270097
+0.1494635979334688
+ | Prior to July 1, 1987 | 56th | 
+ | July 1, 1987 - June 30, 1990 | 55th | 
+ | July 1, 1990 - June 30, 1993 | 54th | 
+ | July 1, 1993 - June 30, 1995 | 52nd | 
+ | July 1, 1995 and thereafter | 48th | 
+
+
+dl      disposition list
+https://ecode360.com/7272117
+0.11634881229054556
+7-1-2003 (approved at referendum 11-4-2003) | Charter amendments | Charter | 
+1-13-2004 | Rules of Procedure amendment | Ch. A205 | 
+3-9-2004 | Historic District; historic properties amendment | Ch. 111, Art. I | 
+3-9-2004 | Solar energy tax exemption repealer; day-care
+tax exemption repealer; tax exemption for qualifying veterans and
+their surviving spouses | Ch. 176, Art. III; Ch, 176, Art. V; Ch. 176, Art. VI | 
+5-11-2004 | Aquifer Protection Agency | Ch. 126 | 
+5-9-2006 | Noise amendment | Ch. 135 | 
+3-13-2007 | Peddling and soliciting amendment | Ch. 144 | 
+9-11-2007 | Property tax relief for elderly homeowners amendment;
+elderly tax freeze program | Ch. 176, Art. IV; Ch. 176, Art. VII | 
+2-26-2008 | Enforcement of zoning regulations, wetland regulations
+and aquifer protection area regulations for Level A mapped areas | Ch. 22 | 
+2-26-2008 | Citation hearing procedure amendment | Ch. 91 | 
+2-26-2008 | Fees amendment | Ch. 98 | 
+2-26-2008 | Historic District; historic properties amendment | Ch. 111, Art. I | 
+8-5-2008 | Historic areas: Unionville Historic District
+and historic properties | Ch. 111, Art. III | 
+2-10-2009 | Property tax relief for elderly homeowners (local
+option) amendment; elderly tax freeze program amendment | Ch. 176, Art. IV; Ch. 176, Art. VII | 
+5-11-2010 | Sewers: deferred assessment of costs amendment; permit agreements
+amendment; residential assessments and sewer costs | Ch. 156, Art. I; Ch. 156, Art. II; Ch. 156, Art. V | 
+6-29-2010 | Central Connecticut Solid Waste Authority | Ch. 165, Art. IV | 
+10-12-2010 | Historic areas: Unionville Historic District and historic properties | Ch. 111, Art. III | 
+6-9-2011 | Conservation Commission amendment | Repealed 1-25-2012 | 
+6-9-2011 | Inland Wetlands and Watercourses Agency amendment | Repealed 1-25-2012 | 
+7-12-2011 | Streets and sidewalks: illicit discharges and connections | Ch. 169, Art. IX | 
+12-13-2011 | Pensions amendment | Ch. 51 | 
+1-25-2012 | Conservation and Inland Wetlands Commission | Ch. 9 | 
+1-25-2012 | Inland Wetlands and Watercourses Agency repealer | Ch. 38, reference only | 
+2-13-2012 | Historic District; historic properties amendment | Ch. 111, Art. I | 
+12-18-2012 | Pensions amendment | Ch. 51 | 
+1-14-2014 | Rules of Procedure amendment | Ch. A205 | 
+4-7-2014 | Sewers: sewer use amendment | Ch 156, Art. III | 
+2-10-2015 | Historic areas: Unionville Historic District and historic properties
+amendment | Ch. 111, Art. III | 
+6-9-2015 | Fees amendment | Ch. 98 | 
+2-9-2016 | Building Code amendment | Ch. 83, Art. II | 
+2-9-2016 | Taxation: property tax relief for elderly homeowners (local
+option) amendment; property tax exemption for qualifying veterans
+and their surviving spouses amendment; Elderly Tax Freeze Program
+amendment; waivers and excess payments. | Ch. 176, Art. IV; Ch. 176, Art. VI; Ch. 176, Art. VII; Ch. 176, Art. VIII | 
+7-12-2016 | Sewers: sewer use charge system | Ch 156, Art. VI | 
+3-15-2017 | Purchasing amendment | Ch. 55 | 
+1-9-2018 | Rules of procedure amendment | Ch. A205 | 
+9-11-2018 | Historic Areas: Unionville Historic District and Historic Properties
+Amendment | Ch. 111, Art. III | 
+12-11-2018 | Pensions Amendment | Ch. 51 | 
+2-13-2019 | Housing Standards Amendment | Ch. 118 | 
+1-14-2020 | Rules of Procedure Amendment | Ch. A205 | 
+
+
+iii      requirements for domestic sewage receptacles
+https://ecode360.com/7271327
+0.0791477777664356
+3 | 67 | 83 | 99 | 114 | 130 | 146 | 161 | 
+4 | 85 | 103 | 122 | 141 | 160 | 179 | 198 | 
+5 | 104 | 126 | 148 | 170 | 192 | 214 | 236 | 
+6 | 125 | 151 | 176 | 201 | 226 | 251 | 276 | 
+7 | 149 | 177 | 205 | 234 | 262 | 290 | 318 | 
+8 | 173 | 205 | 236 | 267 | 299 | 330 | 362 | 
+9 | 199 | 233 | 268 | 302 | 337 | 371 | 406 | 
+10 | 226 | 264 | 301 | 339 | 377 | 415 | 452 | 
+
+

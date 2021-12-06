@@ -1,0 +1,104 @@
+recycling authority
+https://ecode360.com/11767046
+0.4399255287455836
+Ansonia | 253 Main Street, Ansonia, Connecticut 06401 | 
+Bethany | 40 Peck Road, Bethany, Connecticut 06525 | 
+Cheshire | 84 South Main Street, Cheshire, Connecticut 06410 | 
+Derby | 35 Fifth Street, Derby, Connecticut 06418 | 
+East Haven | 250 Main Street, East Haven, Connecticut 06512 | 
+Guilford | 31 Park Street, Guilford, Connecticut 06437 | 
+Hamden | 2372 Whitney Avenue, Hamden, Connecticut 06518 | 
+New Haven | 95 Orange Street, New Haven, Connecticut 06510 | 
+North Branford | 1599 Foxon Road, North Branford, Connecticut 06471 | 
+North Haven | 18 Church Street, North Haven, Connecticut 06473 | 
+Seymour | 1 First Street, Seymour, Connecticut 06483 | 
+West Haven | P.O. Box 526, West Haven, Connecticut 06516 | 
+Woodbridge | 11 Meetinghouse Lane, Woodbridge, Connecticut 06525 | 
+
+
+ix      economic development tax incentive program
+https://ecode360.com/30773652
+0.35437602646776745
+ | Year 1 | 75% | 25% | 
+ | Year 2 | 65% | 35% | 
+ | Year 3 | 55% | 45% | 
+ | Year 4 | 45% | 55% | 
+ | Year 5 | 35% | 65% | 
+ | Year 6 | 25% | 75% | 
+ | Year 7 | 15% | 85% | 
+
+
+ethics  code of
+https://ecode360.com/11767034
+0.3337039875573874
+ | Note: In addition, attorneys who represent, or have represented,
+the Town or any of its commissions or departments, in any capacity,
+are governed by the Rules of Professional Conduct as set forth in
+the Connecticut Rules of Court. See specifically Rule 1.11, Special
+Conflicts of Interest for Former and Current Government Officers and
+employees. | 
+
+
+ix      economic development tax incentive program
+https://ecode360.com/30773652
+0.3277093598011008
+ | Year 1 | 70% | 30% | 
+ | Year 2 | 60% | 40% | 
+ | Year 3 | 50% | 50% | 
+ | Year 4 | 30% | 70% | 
+ | Year 5 | 20% | 80% | 
+
+
+ix      economic development tax incentive program
+https://ecode360.com/30773652
+0.3010426931344341
+ | Year 1 | 50% | 50% | 
+ | Year 2 | 30% | 70% | 
+ | Year 3 | 20% | 80% | 
+
+
+dl      disposition list
+https://ecode360.com/11767079
+0.23853446694732014
+Ord. | 9-28-2006 | Aquifer Protection Agency | Ch. 58, Art. II | 
+STM | 3-13-2007 | Tax relief for the elderly and permanently disabled
+amendment | Ch. 184, Art. VII | 
+ATM | 5-14-2007 | Noise | Ch. 146 | 
+STM | 3-16-2009 | Sealed public bids for certain contracts and
+purchases | Ch. 32, Art. V | 
+STM | 3-16-2009 | Tax relief for elderly and permanently disabled
+amendment | Ch. 184, Art. VII | 
+Referendum | 5-19-2009 | Code of Ethics | Ch. 30 | 
+STM | 9-28-2010 | Outdoor furnaces | Ch. 115A | 
+STM | 9-28-2010 | Flood damage prevention | Ch. 121 | 
+STM | 9-27-2011 | Blight prevention | Ch. 84 | 
+STM | 1-11-2012 | Open burning | Ch. 150 | 
+ATM | 5-14-2012 | Blight prevention | Ch. 84 | 
+STM | 6-26-2013 | Flood damage prevention amendment | Ch. 121 | 
+ATM | 9-23-2013 | Building construction: withholding of permits and certificates
+for delinquent taxes, charges, and assessments | Ch. 88, Art. IV | 
+STM | 10-14-2014 | Taxation: economic development tax incentive program | Ch. 184, Art. IX | 
+STM | 10-19-2015 | Blasting | Ch. 83 | 
+STM | 10-19-2015 | Building construction: withholding of permits and certificates
+for delinquent taxes, charges, and assessments amendment | Ch. 88, Art. IV | 
+STM | 3-29-2016 | Soldiers' memorial amendment | Ch. 67 | 
+STM | 3-29-2016 | Taxation: property tax freeze relief for certain elderly homeowners | Ch. 184, Art. X | 
+STM | 11-15-2016 | Taxation: economic development tax incentive program amendment | Ch. 184, Art. IX | 
+STM | 1-30-2017 | Parking amendment | Ch. 151 | 
+ATM | 9-18-2017 | Other Post-Employment Benefits Trust | Ch. 54 | 
+STM | 6-25-2018 | Illicit Discharge and Connection to Stormwater Drainage Systems | Ch. 133 | 
+STM | 6-25-2018 | Code of Ethics Amendment | Ch. 30 | 
+STM | 6-25-2018 | Hydraulic Fracturing Waste | Ch. 130 | 
+STM | 6-25-2018 | Public School Security Supernumerary Program | Ch. 163 | 
+STM | 3-25-2019 | Finances: Sealed Public Bids for Certain Contracts and Purchases
+Amendment | Ch. 32, Art. V | 
+
+
+noise
+https://ecode360.com/11767064
+0.012181971190008523
+ | Zone A Emitter | 62 dBA | 55 dBA | 55 dBA | 45 dBA | 
+ | Zone B Emitter | 62 dBA | 62 dBA | 55 dBA | 45 dBA | 
+ | Zone C Emitter | 70 dBA | 66 dBA | 61 dBA | 51 dBA | 
+
+

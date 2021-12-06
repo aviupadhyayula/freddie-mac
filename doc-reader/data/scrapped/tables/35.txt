@@ -1,0 +1,601 @@
+ii      establishment of zoning districts and provision for official zoning map
+https://ecode360.com/29252344
+0.7417472493923103
+R | Residential Zone | 
+DMR | Designed Multiple Residence | 
+GC | General Commercial Zone | 
+VCD | Village Center District | 
+DBIZ | Designed Business/Industrial Zone | 
+GI | General Industrial Zone | 
+DI | Designed Industrial Zone | 
+DR | Designed Recreation Zone | 
+DC | Designed Commercial Zone | 
+
+
+vi      residential zone regulations
+https://ecode360.com/29252874
+0.5911559377312116
+a. | On-site individual subsurface sewage disposal system and well | 80,000 square feet | 200 feet | 
+b. | Community water system and on-site subsurface sewage disposal
+system or community sewage disposal system and on-site well | 50,000 square feet | 175 feet | 
+c. | Rear lot on-site subsurface sewage disposal system and on-site
+well | 120,000 square feet | 50 feet | 
+
+
+vi      residential zone regulations
+https://ecode360.com/29252874
+0.5794874978047401
+ | a. | Standard – on-site subsurface sewage disposal system and
+on-site well | 40,000 square feet | 100 feet | 
+ | b. | Community water system and/or on-site subsurface sewage disposal
+system | 30,000 square feet | 100 feet | 
+ | c. | Rear lot – on-site subsurface sewage disposal system and
+on-site well | 40,000 square feet | 20 feet | 
+
+
+xii      designed development zone regulations
+https://ecode360.com/29253737
+0.5517207208282134
+ | * NOTE: These land uses have the potential for contaminating
+the groundwaters of the Town, consequently the Commission may require
+certain design restrictions, such as but not limited to setbacks,
+material storage areas, floor drains, stormwater management facilities
+and fire-protection measures. | 
+
+
+xii      designed development zone regulations
+https://ecode360.com/29253737
+0.5517042860430575
+ | b. | These land uses have the potential for contaminating the groundwaters
+of the Town, consequently the Commission may require certain design
+restrictions, such as but not limited to setbacks, material storage
+areas, floor drains, stormwater management facilities and fire-protection
+measures. | 
+
+
+xii      designed development zone regulations
+https://ecode360.com/29253737
+0.5472015437083079
+ | Minimum yard requirements are designed to protect neighboring
+properties from the site placement of buildings, parking areas or
+other structures and activities. The minimum yard requirements shall
+not apply to athletic fields or play areas unless the Commission requires
+such setbacks, except that the minimum buffer strip shall apply. | 
+
+
+xii      designed development zone regulations
+https://ecode360.com/29253737
+0.5472015437083079
+ | Minimum yard requirements are designed to protect neighboring
+properties from the site placement of buildings, parking areas or
+other structures and activities. The minimum yard requirements shall
+not apply to athletic fields or play areas unless the Commission requires
+such setbacks, except that the minimum buffer strip shall apply. | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.5372009238150357
+ | Industrial uses | 1 space for every 15 parking stalls | 
+ | Mixed-use developments | Sum of multifamily and commercial/office/retail | 
+ | Multifamily residential | 1 space for every 4 residential units | 
+ | Commercial/office/retail | 1 space for every 25 parking stalls | 
+
+
+viii      general commercial zone   regulations
+https://ecode360.com/29253346
+0.5334404033888905
+ | a. | These land uses have the potential for contaminating the groundwaters
+of the Town. The Commission may require certain design restrictions,
+such as but not limited to setbacks, material storage areas, floor
+drains, stormwater management facilities and fire-protection measures. | 
+
+
+x      general industrial  gi  zone regulations
+https://ecode360.com/29253600
+0.5023873133299055
+ | a. | These land uses have the potential for contaminating the groundwater
+of the Town, consequently the Commission may require certain design
+restrictions, such as but not limited to setbacks, material storage
+areas, floor drains, stormwater management facilities and fire-protection
+measures. | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.4834125464873335
+Address sign | 10 | 
+Contractor's sign | 10 | 
+Detached sign | 15 | 
+Development sign | 25 | 
+Home occupation | 15 | 
+Nameplate sign | — | 
+Political sign | 10 | 
+Protection sign | 10 | 
+Public interest sign | 15 | 
+Public safety sign | 10 | 
+Temporary event sign | 15 | 
+Temporary real estate sign | 10 | 
+Temporary tag sale sign | 10 | 
+
+
+iv      final application procedures
+https://ecode360.com/35024580
+0.48078352107726613
+MARLBOROUGH PLANNING COMMISSION, MARLBOROUGH, CONNECTICUT | 
+DATE APPROVED _______________ DATE OF EXPIRATION __________ | 
+___________________________________________________, CHAIRMAN | 
+___________________________________________________, SECRETARY | 
+MARLBOROUGH SANITARIAN, | 
+THE FOLLOWING LOTS SOIL TEST DATA MEETS THE STANDARDS OF THE
+STATE OF CONNECTICUT | 
+PUBLIC HEALTH CODE FOR SUBSURFACE DISPOSAL SYSTEM LOTS; | 
+, | 
+___________________, TOWN SANITARIAN DATE __________ | 
+MARLBOROUGH CONSERVATION COMMISSION, MARLBOROUGH, CONNECTICUT | 
+DATE APPROVED ______________ DATE OF EXPIRATION __________ | 
+__________________________________________________, CHAIRMAN | 
+__________________________________________________, SECRETARY | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.47735206353244203
+Address sign | 2 | — | 2 | 
+Contractor's sign | 6 | — | 6 | 
+Detached sign1 | — | 4 | 10 | 
+Development sign | — | 10 | 20 | 
+Home occupation sign2 | — | 4 | 4 | 
+Nameplate sign | 2 | — | 2 | 
+Political sign | 6 | — | 6 | 
+Protection sign | 2 | — | 2 | 
+Public interest sign | — | 16 | 32 | 
+Public safety sign | 2 | — | 2 | 
+Temporary event sign3 | — | 16 | 32 | 
+Temporary real estate sign | 6 | — | 6 | 
+Temporary tag sale sign | 3 | — | 3 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.4750146918875521
+Awning sign | N/A | 
+Billboard sign | 100 | 
+Contractor's sign | 10 | 
+Detached sign | 10 | 
+Directory sign | 10 | 
+Directory identification sign | N/A | 
+Nameplate sign | N/A | 
+Political sign | 10 | 
+Protection sign | 10 | 
+Public interest sign | 10 | 
+Public safety sign | 10 | 
+Roof sign | N/A | 
+Temporary event sign | 10 | 
+Temporary real estate sign | 10 | 
+Wall sign | N/A | 
+
+
+xii      designed development zone regulations
+https://ecode360.com/29253737
+0.47292266645270076
+ | (DR) | Designed Recreation Zone | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.46190683271600363
+Awning sign | — | 16 | 50 | 
+Billboard sign1 | — | — | 25 | 
+Detached sign2 | — | 16 | 50 | 
+Directory sign1 | — | 16 | 120 | 
+Directory identification sign1 | 4 | — | 10 | 
+Nameplate sign | 2 | — | 2 | 
+Political sign1 | 6 | — | 6 | 
+Protection sign1 | 2 | — | 2 | 
+Public interest sign1 | — | 16 | 50 | 
+Public safety sign1 | 4 | — | 4 | 
+Roof sign | — | 16 | 50 | 
+Temporary event sign | — | 10 | 50 | 
+Temporary real estate sign1 | 6 | — | 6 | 
+Wall sign | — | 16 | 50 | 
+Window sign | — | 5 | 10 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.45706970530427204
+Awning sign | N/A | 
+Billboard sign | 100 | 
+Contractor's sign | 15 | 
+Detached sign | 15 | 
+Directory sign | 15 | 
+Directory identification sign | N/A | 
+Nameplate sign | N/A | 
+Political sign | 15 | 
+Protection sign | 10 | 
+Public interest sign | 15 | 
+Public safety sign | 10 | 
+Roof sign | N/A | 
+Temporary event sign | 15 | 
+Temporary real estate sign | 15 | 
+Wall sign | N/A | 
+Window sign | N/A | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.45706970530427204
+Awning sign | N/A | 
+Billboard sign | 200 | 
+Contractor's sign | 50 | 
+Detached sign | 50 | 
+Directory sign | 50 | 
+Directory identification sign | N/A | 
+Nameplate sign | N/A | 
+Political sign | 15 | 
+Protection sign | 5 | 
+Public interest sign | 50 | 
+Public safety sign | 5 | 
+Roof sign | N/A | 
+Temporary event sign | 50 | 
+Temporary real estate sign | 15 | 
+Wall sign | N/A | 
+Window sign | N/A | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.45639608051871183
+1 | Nameplate sign | 
+1 of the following: (provided that no detached sign shall be
+permitted if a directory sign is located on the lot) | Awning sign
+Detached sign
+Public interest sign
+Roof sign
+Wall sign | 
+4 (not to exceed 1 per window) | Window sign | 
+1 | Temporary event sign | 
+1 | Directory sign | 
+No limit | Directory identification sign | 
+1 | Contractor's sign | 
+1 | Temporary real estate sign | 
+No limit | Political signs | 
+No limit | Protection signs | 
+1 | Billboard sign | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.42690852353023423
+ | Up to 25 | 1 | 
+ | 26 to 50 | 2 | 
+ | 51 to 75 | 3 | 
+ | 76 to 100 | 4 | 
+ | 101 to 150 | 5 | 
+ | 151 to 200 | 6 | 
+ | 201 to 300 | 7 | 
+ | 301 to 400 | 8 | 
+ | 401 to 500 | 9 | 
+ | 501 to 1,000 | 2% of total | 
+ | Over 1,000 | 20 + 1 for additional 100 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.4244587339300493
+Detached sign | 15 | 
+Directory sign | 15 | 
+Directory identification sign | N/A | 
+Nameplate sign | N/A | 
+Political sign | 10 | 
+Protection sign | 10 | 
+Public interest sign | 10 | 
+Public safety sign | 10 | 
+Temporary event sign | 10 | 
+Temporary real estate sign | 10 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.4244587339300493
+Detached sign | 15 | 
+Directory sign | 15 | 
+Directory identification sign | N/A | 
+Nameplate sign | N/A | 
+Political sign | 15 | 
+Protection sign | 10 | 
+Public interest sign | 15 | 
+Public safety sign | 10 | 
+Temporary event sign | 15 | 
+Temporary real estate sign | 15 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.4244587339300493
+Detached sign | 50 | 
+Directory sign | 50 | 
+Directory identification sign | N/A | 
+Nameplate sign | N/A | 
+Political sign | 15 | 
+Protection sign | 5 | 
+Public interest sign | 50 | 
+Public safety sign | 5 | 
+Temporary event sign | 50 | 
+Temporary real estate sign | 15 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.4201974610759639
+Detached sign2 | — | 16 | 50 | 
+Directory sign1 | — | 32 | 120 | 
+Directory identification sign1 | 4 | — | 10 | 
+Nameplate sign | 2 | — | 2 | 
+Political sign1 | 6 | — | 6 | 
+Protection sign1 | 2 | — | 2 | 
+Public interest sign1 | — | 16 | 50 | 
+Public safety sign1 | 4 | — | 4 | 
+Temporary event sign3 | 16 | — | 32 | 
+Temporary real estate sign1 | 6 | — | 6 | 
+
+
+xi      designed business industrial park zone  dbipz
+https://ecode360.com/30894507
+0.40812778999214594
+ | State highway front yard | 40 | 50 | 
+ | Local road front yard | 30 | 50 | 
+ | Side yard | 25 | 40 | 
+ | Rear yard | 25 | 50 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.37725378807929294
+Political sign | 6 | — | 6 | 
+Protection sign | 4 | — | 4 | 
+Public safety sign | — | 16 | 50 | 
+Temporary event sign1 | — | 10 | 32 | 
+Temporary real estate sign | 6 | — | 6 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.37725378807929294
+Political sign | 5 | 
+Protection sign | 5 | 
+Public safety sign | 5 | 
+Temporary event sign | 15 | 
+Temporary real estate sign | 15 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.37725378807929294
+Political sign | 15 | 
+Protection sign | 5 | 
+Public safety sign | 5 | 
+Temporary event sign | 50 | 
+Temporary real estate sign | 15 | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.3712278605231907
+ | For any use not specified herein, sufficient parking spaces
+shall be provided to the standards of the most similar use specified
+in this chapter as determined by the Commission. Mixed-use development
+parking requirements shall be the sum of the parking requirements
+for the various uses, except where a reduction of parking spaces is
+allowed by this section. | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.36189734897022685
+1 | Nameplate sign | 
+1 of the following: (provided that no detached sign shall be
+permitted if a directory sign is located on the lot) | Awning sign
+Detached sign
+Public interest sign
+Roof sign
+Wall sign | 
+4 (not to exceed 1 per window) | Window sign | 
+1 | Temporary event sign | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.32596887649583267
+ | 45° | 12 feet 9 inches | One way | 
+ | 50° | 12 feet 9 inches | One way | 
+ | 55° | 13 feet 3 inches | One way | 
+ | 60° | 14 feet 3 inches | One way | 
+ | 65° | 15 feet 2 inches | One way | 
+ | 70° | 16 feet | One way | 
+ | 75° | 24 feet | Two way | 
+ | 90° | 24 feet | Two way | 
+
+
+v      design standards
+https://ecode360.com/35024711
+0.32414559987399505
+Residential streets |  |  |  |  |  |  | 
+Light | 50 | 50 | 22-28 | 70 | 18 | 15 | 
+Standard | 50-150 | 50 | 28 | 70 | 18 | 15 | 
+Residential collector | 150-300 | 50 | 28 | 80 | 18 | 20 | 
+Collector | N/A | 50 | 30 | N/A | N/A | N/A | 
+Arterial | N/A | 60 | 32 | N/A | N/A | N/A | 
+Commercial | N/A | 50-60 | 30 | 80 | 18 | 20 | 
+Industrial | N/A | 60 | 32 | 80 | 18 | 20 | 
+
+
+iv      use of public sewers
+https://ecode360.com/29254692
+0.3037365675415059
+ | Arsenic as As | 0.05 | 
+ | Barium as Ba | 5.00 | 
+ | Boron as B | 5.00 | 
+ | Cyanides as CN (amenable) | 0.10 | 
+ | Fluoride as F | 20.00 | 
+ | Chromium (Total) | 1.00 | 
+ | Chromium (Cr +6) | 0.10 | 
+ | Magnesium as Mg | 100.00 | 
+ | Manganese as Mn | 5.00 | 
+ | Copper as CU | 1.00 | 
+ | Zinc as Zn | 1.00 | 
+ | Cadmium | 0.07 | 
+ | Lead | 0.10 | 
+ | Tin | 2.00 | 
+ | Silver | 0.10 | 
+ | Mercury | 0.01 | 
+ | Nickel | 1.00 | 
+
+
+xi      designed business industrial park zone  dbipz
+https://ecode360.com/30894507
+0.29544211984148006
+ | Front yard | 20 | 40 | 
+ | Side yard | 20 | 40 | 
+ | Rear yard | 35 | 50 | 
+
+
+xi      designed business industrial park zone  dbipz
+https://ecode360.com/30894507
+0.29544211984148006
+ | Front yard | 30 | 50 | 
+ | Side yard | 20 | 40 | 
+ | Rear yard | 25 | 50 | 
+
+
+xi      designed business industrial park zone  dbipz
+https://ecode360.com/30894507
+0.29544211984148006
+ | Front yard | 25 | 50 | 
+ | Side yard | 20 | 40 | 
+ | Rear yard | 25 | 50 | 
+
+
+xi      designed business industrial park zone  dbipz
+https://ecode360.com/30894507
+0.29544211984148006
+ | Front yard | 30 | 50 | 
+ | Side yard | 25 | 40 | 
+ | Rear yard | 25 | 50 | 
+
+
+xi      designed business industrial park zone  dbipz
+https://ecode360.com/30894507
+0.29544211984148006
+ | Front yard | 30 | 50 | 
+ | Side yard | 25 | 40 | 
+ | Rear yard | 25 | 50 | 
+
+
+iii      building sewers and connections
+https://ecode360.com/29254602
+0.2734052695207283
+ | "I certify under penalty of law that this document and all attachments
+were prepared under my direction or supervision in accordance with
+a system designed to assure that qualified personnel properly gather
+and evaluate the information submitted. Based on my inquiry of the
+person or persons who manage the system, or those persons directly
+responsible for gathering the information, the information submitted
+is, to the best of my knowledge and belief, true, accurate and complete.
+I am aware that there are significant penalties for submitting false
+information, including the possibility of fine and imprisonment for
+knowing violations." | 
+
+
+ix      village center district regulations
+https://ecode360.com/29253407
+0.24171432229754097
+ | Residential |  |  |  |  |  | 
+ | Multifamily garden apartments or quadruplex | N | N | N | N | Y | 
+ | Village Center Residential Cluster Planned Development | N | N | N | N | Y | 
+ | Village Center Residential Cluster Subdivision | N | N | N | N | Y | 
+ | Mixed-use residential housing - upper stories only | Y | Y | N | N | Y | 
+ | Minor home occupation - in accordance with § 340-6.2I | N | N | N | Y | Y | 
+ | Commercial |  |  |  |  |  | 
+ | Business and professional offices | Y | Y | N | N | N | 
+ | Retail sales and service establishments | Y | Y | N | N | N | 
+ | Beauty salons and barbershops | Y | Y | N | N | N | 
+ | Financial institutions | Y | Y | Y | N | N | 
+ | Grocery stores | Y | Y | N | N | N | 
+ | Convenience stores | Y | Y | N | N | N | 
+ | Medical and dental clinics | Y | Y | Y | N | N | 
+ | Restaurants and cafes | Y | Y | N | N | N | 
+ | Fast-food restaurants | N | N | N | N | N | 
+ | Bakeries | Y | Y | N | N | N | 
+ | Laundry, dry cleaners - limited to pickup and delivery | Y | Y | N | N | N | 
+ | Funeral homes | N | Y | Y | N | N | 
+ | Athletic clubs | Y | Y | N | N | N | 
+ | Inns and bed-and-breakfast operations | Y | Y | Y | N | N | 
+ | Wholesale businesses, sales offices and sample rooms | N | Y | N | N | N | 
+ | State-licensed child day-care center or group day-care homes | N | N | N | Y | N | 
+ | Adult day care | N | N | N | Y | N | 
+ | Alcohol liquor sales | Y | Y | N | N | N | 
+ | Drive-through facilities - for bank or pharmacy use only; direct
+access to and from principal arterials prohibited | Y | Y | Y | N | N | 
+ | Institutional |  |  |  |  |  | 
+ | Public utility installations needed for public convenience | Y | Y | Y | Y | Y | 
+ | State and federal government buildings | Y | Y | Y | Y | N | 
+ | Municipal facilities and uses | Y | Y | Y | Y | Y | 
+ | Rest homes, convalescent homes and hospitals | N | Y | Y | Y | N | 
+ | School/public bus shelters | Y | Y | Y | Y | Y | 
+
+
+v      special permit  temporary use permit and site development plan regulations
+https://ecode360.com/29252611
+0.2388490423985594
+ |  | SECRETARY | 
+
+
+ii      special regulations
+https://ecode360.com/29295838
+0.23617704555906432
+ | 1 1/2 | 180 | 
+ | 2 | 160 | 
+ | 2 1/2 | 140 | 
+ | 3 | 120 | 
+ | 3 1/2 | 100 minimum | 
+
+
+dl      disposition list
+https://ecode360.com/31775322
+0.21399315451690637
+3-3-2016 | Zoning Amendment | Ch. 340 | 
+3-2-2017 | Zoning Amendment | Ch. 340 | 
+3-2-2017 | Zoning Amendment | Ch. 340 | 
+4-18-2017 | Adoption of Code | Ch. 1, Art. I | 
+4-18-2017 | Sidewalks Amendment | Ch. 306, Art. III | 
+5-4-2017 | Zoning Amendment | Ch. 340 | 
+11-7-2017 | Charter Amendments | Ch. C | 
+12-7-2017 | Zoning amendment | Ch. 340 | 
+2-27-2018 | Subdivision of Land Amendment | Ch. 415 | 
+4-5-2018 | Zoning Amendment | Ch. 340 | 
+5-2-2019 | Zoning Amendment | Ch. 340 | 
+
+
+v      design standards
+https://ecode360.com/35024711
+0.19628100940295742
+40 to 50 | 20/narrowest side setback of 8 feet | 
+30 to 39 | 15/narrowest side setback of 5 feet | 
+25 to 29 | 10/narrowest side setback of 3 feet | 
+20 to 24 | 7/narrowest side setback of 3 feet | 
+
+
+xiii      special regulations
+https://ecode360.com/30894792
+0.15262155027620286
+ |  | SECRETARY | 
+
+
+xvi      amendments
+https://ecode360.com/29254341
+0.005497668773449538
+ | DATE |  | 
+
+

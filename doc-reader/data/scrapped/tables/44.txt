@@ -1,0 +1,171 @@
+noise
+https://ecode360.com/8835341
+0.5690073008080025
+Industrial | 70 | 66 | 61 | 51 | 
+Business | 62 | 62 | 55 | 45 | 
+Residential | 62 | 55 | 55 | 45 | 
+
+
+voting districts
+https://ecode360.com/8834758
+0.43628215768628215
+District 1: Mortensen Community Center, Garfield
+Street. | 
+District 2: Ruth L. Chaffee School, 160 Superior
+Avenue. | 
+District 3: Anna M. Reynolds School, 85 Reservoir
+Road. | 
+District 4: Elizabeth Green School, 30 Thomas
+Street. | 
+District 5: John Wallace Middle School, Halleran
+Drive. | 
+District 6: John Paterson School, 100 Church
+Street. | 
+District 7: Martin Kellogg Middle School, 155
+Harding Street. | 
+District 8: John Wallace Middle School, Halleran
+Drive. | 
+
+
+a         housing code
+https://ecode360.com/11770938
+0.39075136485120565
+ | If one or more persons to whom such notice of violation is addressed
+cannot be found after diligent effort to locate and serve such persons
+as is hereinabove provided, service may be made upon such persons
+by posting a copy of the notice of violation in a conspicuous place
+in or about the dwelling, dwelling unit, rooming unit, or premises
+described therein. | 
+ | After the passage of the period of time allowed for the correction
+of any violation described in such notice of violation, the enforcement
+officer shall reinspect the dwelling, dwelling unit, rooming unit,
+or premises described in the notice. In making such reinspection the
+enforcement officer shall follow the procedure detailed in subsections
+10.01 and 10.02 hereof. Before such reinspection is undertaken, the
+owner, operator or person in charge of the dwelling, dwelling unit,
+rooming unit, or premises to be inspected shall be informed that any
+evidence of a violation of any provision of this ordinance [code],
+or any regulation pursuant thereto, may form the basis of a criminal
+prosecution. The authorization of the owner, operator or person in
+charge to such reinspection shall then be secured as hereinabove provided
+in subsections 10.01 and 10.02. | 
+
+
+a         housing code
+https://ecode360.com/11770938
+0.3841426749804372
+ | Every person holding such permit shall give notice in writing
+to the enforcement officer within twenty-four (24) hours after having
+sold, transferred, given away, or otherwise disposed of ownership
+of, interest in, or control of any rooming house. Such written notice
+shall include the name and address of the person succeeding to the
+ownership, interest in, or control of such rooming house. Every rooming
+house permit shall expire at the end of the calendar year following
+its date of issuance, unless it is earlier suspended or revoked as
+hereinafter provided. | 
+
+
+a         housing code
+https://ecode360.com/11770938
+0.3838778209428356
+ | Every owner of a multiple dwelling who lets dwelling unit(s)
+to the public shall, at his own expense, change the combination of
+the door lock, or install a new door lock on each entrance or exit
+to a dwelling unit before a new tenant occupies said unit. | 
+
+
+wetlands and watercourses
+https://ecode360.com/8835956
+0.37510798435757076
+ | Carrying on activities without a permit, or carrying on activities not
+authorized by a permit, in the upland review area, which do not pose an immediate
+danger to a wetland or watercourse | $75 | 
+ | Carrying on activities without a permit, or carrying on activities not
+authorized by a permit, in the upland review area, which may pose an immediate
+danger to a wetland or watercourse | $150 | 
+ | Carrying on activities without a permit, or carrying on activities not
+authorized by a permit, in a wetland or watercourse, which cause limited and/or
+correctable damage to the wetland or watercourse | $200 | 
+ | Excavating in, filling or draining of any portion of a wetland or watercourse,
+without a permit | $750 | 
+ | Carrying on activities without a permit, or carrying on activities not
+authorized by a permit, which cause sediment to flow into any wetland or watercourse
+or otherwise cause the pollution of any portion of a wetland or watercourse | $750 | 
+ | Carrying on without a permit, or outside the authorization of a permit,
+any regulated activities in a regulated area not listed above | $250 | 
+
+
+vii      blocking intersections
+https://ecode360.com/33531125
+0.31287660339765305
+Cedar Street at Constance Leigh Drive and Hawley Street[Added 8-27-2019 by Ord. No. 1719-08] | 
+Fenn Road at Myra Cohen Way | 
+Main Street, southbound, at Louis Street | 
+Main Street, southbound, at Welles Drive[Added 8-13-2019 by Ord. No. 1719-07] | 
+West Hill Road at Chapman Street | 
+
+
+dl      disposition list
+https://ecode360.com/8835982
+0.20500005269598418
+1719-06 | 1-8-2019 | Interlocal Agreements Amendment | Ch. 65 | 13 | 
+1719-07 | 8-13-2019 | Vehicles and Traffic: Blocking Intersections Amendment | Ch. 404, Art. VII | 13 | 
+1719-08 | 8-27-2019 | Vehicles and Traffic: Blocking Intersections Amendment | Ch. 404, Art. VII | 13 | 
+1719-09 | 10-10-2019 | Vehicles, Recreational Amendment | Ch. 415 | 13 | 
+
+
+tobacco sales
+https://ecode360.com/8835858
+0.20052110063868825
+ | "By ordinance of the Town of Newington, cigarette sales to or purchases
+by persons under 18 years of age are prohibited." | 
+
+
+dl      disposition list
+https://ecode360.com/8835982
+0.16353324136049835
+9901-2 | 9-25-2001 | Alcoholic beverages: possession of alcohol by
+minors | Ch. 141, Art. II | 
+0103-1 | 3-12-2002 | Voting Districts amendment | Ch. 121 | 
+0103-2 | 9-24-2002 | Wetlands and watercourses: enforcement of regulations | Ch. 427, Art. II | 
+0103-3 | 10-22-2002 | Open burning amendment | Ch. 188 | 
+0103-4 | 10-22-2002 | Fees | Ch. 225 | 
+0103-5 | 11-25-2003 | Streets and sidewalks: work within public right-of-way
+amendment | Superseded by Res. No. 2014-10 | 
+0305-1 | 1-27-2004 | Personnel amendment | Ch. 85 | 
+0305-2 | 9-14-2004 | Appropriation | NCM | 
+0305-3 | 11-9-2004 | Streets and sidewalks: work within public right-of-way
+amendment | Superseded by Res. No. 2014-10 | 
+0305-4 | 12-7-2004 | Streets and sidewalks: newsracks | Superseded by Res. No. 2014-10 | 
+0507-1 | 10-23-2007 | Alcoholic beverages: possession of alcohol by
+minors amendment | Ch. 141, Art. II | 
+0709-1 | 6-10-2008 | Adoption of Code | Ch. 1, Art. III | 
+0709-2 | 6-10-2008 | Tax exempt organizations | Ch. 388, Art. VII | 
+0709-3 | 8-12-2008 | Committee on Community Safety | Repealed 11-22-2016 | 
+ | 2-23-2010 | Cemeteries amendment | Ch. 194 | 
+ | 3-23-2010 | Insurance Reserve Fund amendment | Ch. 48, Art. I | 
+ | 3-8-2011 | Other Post-Employment Benefits Trust Fund | Ch. 48, Art. VI | 
+ | 1-24-2012 | Refuse and recyclables amendment | Ch. 332 | 
+ | 3-27-2012 | Voting districts amendment | Ch. 121 | 
+ | 7-24-2012 | Blighted premises | Repealed 10-18-2016 | 
+ | 11-6-2012 | Charter | Charter | 
+ | 3-28-2013 | Funds: Public School Capital Improvement Projects Reserve Fund
+amendment | Ch. 48, Art. IV | 
+Res. No. 2014-10 | 2-11-2014 | Streets and sidewalks | Ch. 367 | 
+ | 9-8-2015 | Funds: Student Technology Insurance Fund | Ch. 48, Art. VII | 
+ | 5-24-2016 | Boards, committees, commissions and bureaus: Emergency Medical
+Service Committee | Ch. 8, Art. XI | 
+ | 9-27-2016 | Boards, committees, commissions and bureaus: Environmental Quality
+Commission amendment | Ch. 8, Art. VI | 
+ | 10-18-2016 | Blighted premises amendment | Ch. 182 | 
+ | 11-22-2016 | Boards, committees, commissions and bureaus: Committee on Community
+Safety repealer | Ch. 8, Art. XII | 
+1517-05 | 7-25-2017 | Vehicles and Traffic: Blocking Intersections | Ch. 404, Art. VII | 
+1719-01 | 5-22-2018 | Funds: Recreation Enterprise Fund Amendment | Ch. 48, Art. III | 
+1719-02 | 5-22-2018 | Funds: Recreation Capital Improvement Projects Reserve Fund | Ch. 48, Art. VIII | 
+1719-03 | 7-10-2018 | Peddling and Soliciting | Ch. 311 | 
+1719-04 | 6-26-2018 | Planning and Zoning: Penalties for Violations of Zoning Regulations
+Amendment | Ch. 91, Art. III | 
+1719-05 | 6-26-2018 | Blighted Premises Amendment | Ch. 182 | 
+
+

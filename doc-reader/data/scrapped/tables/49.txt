@@ -1,0 +1,328 @@
+a         special acts affecting old lyme
+https://ecode360.com/8842375
+0.49797878098532206
+Resolved by this Assembly, That all that part of the town
+of Lyme lying south of the dividing line between the north and south school
+societies in said town, with all the inhabitants residing south of said line,
+be and the same is hereby incorporated into a distinct and separate town,
+by the name of South Lyme, with all the rights, privileges and immunities,
+and subject to all the duties and liabilities of other towns in this state,
+with the right of sending one representative to the general assembly. | 
+And said new town shall pay its proportion, according to
+the list of 1854, of all debts, charges, expenses, suits, petitions and claims,
+already due and commenced, or which may exist against said town of Lyme, and
+for which said town shall be hereafter rendered liable by force of any claim
+now existing. | 
+And said new town shall take and maintain its portion of
+the poor persons now maintained by said town of Lyme, said proportion to be
+their respective lists, according to the grand list of 1854. | 
+And said town shall be liable to maintain, all such persons,
+residing out of said Town of Lyme, as are now chargeable thereto, or may hereafter
+become chargeable thereto, provided such persons, at the time of their departure
+from said town, had a legal settlement in that part of said town hereby incorporated
+into a new town, and shall not subsequent to such departure have gained a
+settlement elsewhere. | 
+All rights and property, of whatsoever nature or description,
+except as herein after provided, now owned by, due or belonging to the town
+of Lyme, or which may hereafter accrue to said town by virtue of any claim,
+right or title now existing, shall belong to said new town as hereby incorporated,
+and said town of Lyme, in proportion to their respective lists, according
+to the grand list of 1854. | 
+And the town deposit fund shall belong to and be divided
+between said new town as hereby incorporated, and said town of Lyme, in proportion
+to the number of their respective inhabitants, according to the census of
+1850. | 
+The present town hall in said town of Lyme shall be and
+remain the property of said town of Lyme; and the ferry house, wharf, and
+all the real estate and other property belonging to said town, situated at
+or near said ferry, and used in connection therewith, shall be and remain
+the property of said new town; and the said new town shall be liable to all
+the burdens imposed upon said town of Lyme by statute, relative to the support
+and maintenance of said ferry, and shall be entitled to all the privileges
+and emoluments arising therefrom. | 
+And the said respective proportions of taxable lists and
+the population of said towns respectively, and the number of paupers belonging
+to each, shall be ascertained and determined by the selectmen, or a majority
+of them, of said respective towns, and in such manner as they may deem advisable;
+always provided, that if, after the organization of said new town, the selectmen
+of said towns do not agree in the divisions of the paupers, funds, deposit
+fund and property, real and personal, belonging to said towns, and also upon
+their respective taxable lists and number of inhabitants, on or before the
+first Monday of September, 1855, the selectmen of either town may apply to
+Edward P. Brownell, of East Haddam, Selden M. Pratt, of Saybrook, and William
+R. Clark, of Old Saybrook, who, or either of whom, are hereby authorized and
+empowered to divide said paupers, funds, deposit funds, and property, and
+to ascertain and determine the amount of the taxable lists and number of inhabitants
+of said towns respectively, in manner aforesaid, which division, whether made
+by said selectmen, or a majority of them, or by said Brownell, Pratt, Clark,
+or either two of them, shall be final and conclusive. And in case said division
+shall be made by said last mentioned persons, the selectmen of both said towns
+shall be first duly notified of the time and place when and where said division
+shall be made; and the expense of said service shall be borne by said towns
+according to their respective lists, as they shall be ascertained in manner
+aforesaid. | 
+The collectors of the state, town and other taxes in the
+town of Lyme are hereby authorized to collect their respective taxes already
+laid, and in their respective rate-books contained, and pay the same over
+for the benefit of said towns of Lyme and South Lyme, in proportion to their
+respective lists, to be ascertained as aforesaid. | 
+Said new town, as hereby incorporated, shall belong to and
+constitute part of the ninth senatorial district, and also of the probate
+district of Lyme. The first meeting of said new town, as hereby incorporated,
+shall be holden at the conference house in said new town, on the first Monday
+of July, 1855, at nine o'clock in the forenoon, and Daniel P. Noyes, Esq.,
+or in case of his failure, William Beckwith, Esq., shall be moderator thereof;
+and the said meeting shall be warned by the said Noyes or Beckwith, by setting
+up a notification of the same on the public sign-posts within the limits of
+said town, at least five days before said meeting. And said new town shall
+have all the powers incident to other towns in this state at said first meeting,
+and full right to act accordingly; and the others elected at such meeting
+shall hold their respective offices until others are appointed and qualified
+in their stead. | 
+This act shall take effect and be in force from and after
+the day of its passage. | 
+Effective date: Passed 1855
+Reference: Private and Special Laws of Connecticut, Vol. 4, p. 1275 | 
+
+
+v      subdivision design and construction standards
+https://ecode360.com/8842073
+0.43481215451308775
+ | Arterial | 250 | 10 | 250 | 
+ | Collector | 200 | 10 | 200 | 
+ | Local residential | 155 | 12 | 200 | 
+
+
+xiii      design and construction of driveways
+https://ecode360.com/34254542
+0.42759676760444243
+Driveway apron serving a single residential lot | $1,000(1) | 
+Driveway apron serving more than one residential lot | $2,000(1) | 
+Driveway apron serving a commercial business or industrial lot | $3,000(1) | 
+Additional amount required for driveway culvert | $750(1) | 
+Additional amount required for driveway length to high point | $2 per square foot(1) | 
+Driveway repairs | No bond required | 
+
+
+vii      road criteria
+https://ecode360.com/34254317
+0.41604768006877535
+Collector road | 60 | 8 | 30 | 
+Local residential road | 50 | 4 | 24 | 
+Private residential road | 50 | 4 | 22 | 
+
+
+a         special acts affecting old lyme
+https://ecode360.com/8842375
+0.3762887256597658
+The Hatchetts Improvement Company, its successors and assigns,
+is authorized to construct and maintain a sea-wall or sea-walls in front of
+and around its land situated at Hatchetts Point, at South Lyme in the town
+of Old Lyme, bounded easterly and southerly by Long Island Sound, which sea-walls
+may be built on the line of high-water as it existed on the fifteenth day
+of March 1915, as shown on a map of lands of The Hatchetts Improvement Company,
+dated September 11, 1915, and certified to by Spencer & Washburn, Civil
+Engineers, and filed in the office of the town clerk of Old Lyme on or about
+October 1, 1915; and it is also authorized to fill in and grade the space
+inside of said walls, as it may deem expedient, and the land between said
+walls and the lands of adjoining owners, who are stockholders in said The
+Hatchetts Improvement Company, are granted to said company, its successors
+and assigns forever, provided said filling and sea-walls shall not impede
+public navigation. | 
+Effective date: April 2, 1919
+Reference: Special Acts of Connecticut, Vol. 25, p. 1181 | 
+
+
+a         special acts affecting old lyme
+https://ecode360.com/8842375
+0.36148495682929715
+The adjutant general may, with the advice and consent of
+the governor, acquire for the state any land or interest therein contiguous
+to the land of the military reservation in the towns of Lyme, Old Lyme and
+East Lyme, which, in the opinion of said adjutant general, may be desirable
+and necessary for the use of said reservation in exchange for land of the
+state forming part of said reservation or interests therein which are not
+desirable and necessary for the use of said reservation. The treasurer shall
+execute and deliver any deed or instrument to convey the title of any property
+of the state or interests therein, the exchange of which is authorized by
+this act. | 
+Effective date: June 8, 1937
+Reference: Special Acts of Connecticut, Vol. 2, p. 797 | 
+
+
+a         special acts affecting old lyme
+https://ecode360.com/8842375
+0.3557145082964638
+Beginning at the north-westerly corner of the land herein
+described at a point where the southerly line of land now or formerly of the
+estate of Nathaniel C. Hall meets the easterly line of route number 156; thence
+running in an easterly direction along the southerly line of land of said
+Hall, following the line of a stone wall, 354 feet more or less, to a point
+where said southerly line meets the northerly line of land of the state of
+Connecticut; thence running in a westerly direction, along said northerly
+line of the state of Connecticut, 297 feet more or less, to a point where
+said northerly line meets the easterly line of route number 156; thence running
+in a northerly direction along said easterly line of route number 156, 180
+feet more or less, to the point or place of beginning. The parcel herein described
+is bounded northerly and easterly by land now or formerly of the estate of
+Nathaniel C. Hall; southerly by land of the state of Connecticut; and westerly
+by route number 156. Said parcel of land is triangular in shape and contains
+six-tenths of an acre, more or less. | 
+Effective date: July 26, 1949
+Reference: Special Acts, 1948 and 1949, p. 1181 | 
+
+
+a         special acts affecting old lyme
+https://ecode360.com/8842375
+0.34355134765605566
+No person shall take or attempt to take any fish from the
+waters of the Thames River or Niantic Bay above the bridges of the Penn-Central
+Railroad Company or from the waters of the Mystic River or from the waters
+of the Connecticut River easterly of a straight line extending northerly from
+the westerly tip of Griswold Spit to the easterly abutment of the Bridge of
+the Penn-Central Railroad Company over the Connecticut River in the town of
+Old Lyme, by means of any otter or beam trawl or any device of a similar nature,
+or by use of any gill net and no person shall take or attempt to take any
+fish from the waters of North Cove in Old Saybrook by means of any otter or
+beam trawl or any similar device. | 
+Effective date: 1978
+Reference: Connecticut State Statutes, 1978, § 26-176 | 
+
+
+xiii      design and construction of driveways
+https://ecode360.com/34254542
+0.3349710249771277
+NOTES: | 
+(1) The base rates may be adjusted
+on an annual basis as determined by the Board of Selectmen. | 
+
+
+a         special acts affecting old lyme
+https://ecode360.com/8842375
+0.32893980063234274
+Any person who takes any clams less than two inches in length
+or more than one-half bushel of clams, or more than one-half bushel of oysters
+except from an area designated for planting oysters, in any day in the town
+of Old Lyme shall be fined not more than fifty dollars ($50.00) or imprisoned
+not more than thirty (30) days or both. | 
+Effective date: 1978
+Reference: Connecticut State Statutes, 1978, § 26-285 | 
+
+
+a         special acts affecting old lyme
+https://ecode360.com/8842375
+0.31081171619948245
+Effective date: May 26, 1857
+Reference: Private and Special Laws of Connecticut, Vol. 5, p. 8 | 
+
+
+general provisions
+https://ecode360.com/8841366
+0.2863008738026236
+[The acceptance of the renumbering and revision of the Historic District Regulations (Chapter 194) will be proposed before the Historic District Commission. Upon final adoption, this enactment will be included as Article II of this chapter.] | 
+
+
+general provisions
+https://ecode360.com/8841366
+0.2711537895174352
+[The acceptance of the renumbering of the Regulations for Sewerage Systems (Chapter 215) will be proposed before the Water Pollution Control Authority. Upon final adoption, this enactment will be included as Article V of this chapter.] | 
+
+
+general provisions
+https://ecode360.com/8841366
+0.2710912034446682
+[The acceptance of the renumbering and revision of the Beach Regulations (Chapter 183) and the Design and Construction Standards (Chapter 187) will be proposed before the Town Meeting. Upon final adoption, this enactment will be included as Article I of this chapter.] | 
+
+
+general provisions
+https://ecode360.com/8841366
+0.26512223762901976
+[The acceptance of the renumbering and revision of the Inland Wetlands and Watercourses Regulations (Chapter 197) will be proposed before the Conservation Commission. Upon final adoption, this enactment will be included as Article III of this chapter.] | 
+
+
+a         special acts affecting old lyme
+https://ecode360.com/8842375
+0.25816897149178863
+Effective date: 1958
+Reference: General Statutes of Connecticut, Revision of 1958, § 19-98 | 
+
+
+general provisions
+https://ecode360.com/8841366
+0.2576565871357982
+[The acceptance of the renumbering and revision of the Subdivision Regulations (Chapter 219) will be proposed before the Planning Commission. Upon final adoption, this enactment will be included as Article VI of this chapter.] | 
+
+
+general provisions
+https://ecode360.com/8841366
+0.25261138404515493
+[The acceptance of the renumbering and revision of the Parking Regulations (Chapter 210) will be proposed before the Board of Selectmen. Upon final adoption, this enactment will be included as Article IV of this chapter.] | 
+
+
+vii      road criteria
+https://ecode360.com/34254317
+0.247341993184214
+* When curbing is necessary, the width of the curbing shall
+be added to the width of the traveled portion of the pavement. | 
+
+
+i      hains park
+https://ecode360.com/8841275
+0.24303575815451625
+Beginning at a pipe on the northerly property
+line of New Haven Turnpike, as shown on said map; thence running in
+an easterly direction for a distance of 25 feet along the northerly
+edge of said turnpike to a point; thence running in a northerly direction
+for a distance of 160.4 feet to a pipe, as shown on said map; thence
+running in a northwesterly direction a distance of 184.6 feet to a
+pipe, as shown on said map; thence running in a southwesterly direction
+for a distance of 25 feet, as shown on said map, to a point; thence
+running in a southeasterly direction to a distance of 168 feet to
+a pipe, as shown on said map; thence running in a southerly direction
+for a distance of 150 feet to a pipe, as shown on said map, said pipe
+marking the point or place of beginning. | 
+
+
+dl      disposition list
+https://ecode360.com/8842396
+0.18215015249460903
+1-27-2003 | Adoption of Code | Ch. 1, Art. I | 
+1-27-2003 | Terms of office for Treasurer, Tax Collector
+and Registrars of Voters | Ch. 101, Art. VI | 
+1-27-2003 | Solid waste amendment | Superseded 4-16-2019 | 
+1-27-2003 | Parking regulations amendment | Ch. 210 | 
+1-27-2003 | Taxation: effective date of exemption for certain
+property | Ch. 150, Art. V | 
+1-27-2003 | Taxation: exemption for motor vehicles of disabled
+persons | Ch. 150, Art. VI | 
+1-26-2004 | Inland Wetlands Commission | Chs. 20, Art. VII; 47; 52; 101; 197; 219; A228 | 
+1-26-2004 | Conservation Commission | Ch. 20, Art. XII | 
+1-26-2004 | Taxation: fee for motor vehicle tax delinquencies | Ch. 150, Art. VII | 
+1-26-2004 | Trees and shrubs amendment | Ch. 156 | 
+1-23-2006 | Parking areas on private property amendment | Ch. 161, Art. II | 
+1-23-2006 | Citations and fines for violations of inland
+wetlands and watercourses regulations | Ch. 170, Art. II | 
+1-23-2006 | Sewage disposal systems amendment | Ch. 133 | 
+1-22-2007 | Stormwater management | Ch. 142 | 
+1-22-2007 | Affordable housing | Ch. 4 | 
+1-28-2008 | Code of Ethics | Ch. 43 | 
+7-1-2008 | Code of Ethics amendment | Ch. 43 | 
+1-26-2009 | Code of Ethics amendment | Ch. 43 | 
+5-26-2009 | Operation of motor buses on certain streets | Ch. 161, Art. IV | 
+5-26-2009 | Flood and Erosion Control Board amendment | Ch. 20, Art. VI | 
+7-14-2009 | Harbor Management Plan addendum (Harbor Management Commission) | Ch. 58 | 
+1-25-2010 | Permit fee schedules amendment; harbor management amendment | Chs. 47, Art. II; 58 | 
+12-13-2010 | Sound View Commission | Ch. 20, Art. XIV | 
+12-13-2010 | Open Space Commission | Ch. 20, Art. XIII | 
+4-23-2012 | Lower Connecticut River Valley Council of Governments | Ch. 123, Art. III | 
+4-23-2012 | Water Pollution Control Authority amendment | Ch. 16, Art. II | 
+4-23-2012 | Building on unaccepted roads amendment | Ch. 25, Art. III | 
+4-23-2012 | Parking regulations amendment | Ch. 210 | 
+3-24-2014 | Streets and Sidewalks: Construction and Acceptance of Roads
+Amendment | Ch. 144, Art. I | 
+3-24-2014 | Design and Construction Standards for Public Improvements | Ch. 187 | 
+3-5-2018 | Lymes' Senior Center Amendment (Board of Directors) | Ch. A227 | 
+7-23-2018 | Harbor Management Amendment | Ch. 58 | 
+4-16-2019 | Solid Waste and Recycling | Ch. 139 | 
+
+

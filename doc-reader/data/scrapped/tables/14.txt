@@ -1,0 +1,72 @@
+dl      disposition list
+https://ecode360.com/12064730
+0.3761126505093954
+234 | 4-11-2012 | Energy Committee | Ch. 161 | 
+ | 12-12-2012 | Finance and taxation: program of property tax relief amendment | Ch. 40, Art. VI | 
+235 | 6-26-2013 | Open Space Preservation and Acquisition Committee repealer | Ch. 158, reference only | 
+236 | 9-25-2013 | Planning and Zoning Commission | Ch. 145; Ch. 146, reference only | 
+ | 8-13-2014 | Finance and taxation: program of property tax relief amendment | Ch. 40, Art. VI | 
+ | 10-8-2014 | Finance and taxation: exemption for veterans and surviving spouses
+amendment | Ch. 40, Art. V | 
+237 | 6-24-2015 | Elections: polling places | Ch. 26, Art. II | 
+ | 9-30-2015 | Youth Services Bureau amendment | Ch. 157 | 
+238 | 10-28-2015 | Farming: right to farm | Ch. 245, Art. I | 
+239 | 12-9-2015 | Design Review Team repealer | Ch. 159, reference only | 
+240 | 12-9-2015 | Finance and taxation: exemption for farm buildings; additional
+exemption for farm machinery | Ch. 40, Art. VIII | 
+
+
+i      canton center
+https://ecode360.com/11807690
+0.3170582776998603
+ | The southern boundary of the district on the
+westerly side of Route 179 is defined by the southerly boundary of
+the Lyle Crowley property, and on the east side of Route 179 by a
+linear extension of that line. The district extends northerly from
+this boundary along both sides of Route 179 to Meadow Road, then westerly
+along both sides of Meadow Road to West Road, then southerly along
+both sides of West Road and Barbourtown Road to Route 179. The northern
+boundary of the district on the east side of Route 179 is a line extending
+perpendicular to Route 179 on the north side of the Samuel Richardson
+house. On the west side of West Road the northerly boundary is defined
+by the northerly boundary of the Rodney Pratt property. The district
+includes all property within 1,000 feet of the center line of the
+specified sections of the above roads, except as noted below. | 
+ | Annex No. 1 to the Canton Center Historic District
+is the Captain John Brown house and grounds now owned by Faith Lindsay
+on West Road. Annex No. 2 is the Nathaniel Sherman house and property
+now owned by Robinson Wright on East Mountain Road. The following
+properties which would otherwise protrude into the district from the
+rear boundary lines are excluded:
+Mildred B. Richardson
+Merle and Lawton Miner
+Donald and Alta M. Prentice
+Ralph and Carolyn Mattson
+Laurette Soucy
+Darl and Hilda Hood | 
+
+
+dl      disposition list
+https://ecode360.com/12064730
+0.28561814718415746
+241 | 6-7-2017 | Finance and Taxation: Tax Abatement | Ch. 40, Art. IX | 3 | 
+ | 8-23-2017 | Fees and Fines: Zoning, Subdivision, Inland Wetlands and Watercourses
+and Aquifer Protection Area Regulations Amendment | Ch. 248, Art. II | 3 | 
+ | 10-24-2018 | Citations Amendment | Ch. 15 | 3 | 
+242 | 10-24-2018 | Stormwater Management: Illicit Discharges and Stormwater Connections | Ch. 372 | 3 | 
+243 | 2-27-2019 | Elimination of Position of Constable | See Ch. 110 | 3 | 
+244 | 6-12-2019 | Water Pollution Control Authority Amendment | Ch. 148 | 3 | 
+ | 11-5-2019 | Charter Amendment | Ch. C | 3 | 
+
+
+vi      program of property tax relief
+https://ecode360.com/11807209
+0.28148165989541474
+$0 to $ $17,000 | $2,500 | 
+$17,001 to $22,900 | $2,000 | 
+$22,901 to $28,600 | $1,600 | 
+$28,601 to $34,100 | $800 | 
+$34,101 to $41,600 | $600 | 
+$41,601 to $48,000 | $500 | 
+
+

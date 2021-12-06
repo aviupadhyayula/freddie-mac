@@ -1,0 +1,67 @@
+ii      sewer use
+https://ecode360.com/28453595
+0.33702650894266384
+ | Equipment not registered | 30 days | 
+ | Equipment not properly installed | 90 days | 
+ | Major violations (outdoor and indoor) | 30 days | 
+ | Minor violations | 90 days | 
+
+
+ii      sewer use
+https://ecode360.com/28453595
+0.31106615463603243
+ | Arsenic as As | 0.05 | 
+ | Barium as Ba | 5.0 | 
+ | Boron as B | 5.0 | 
+ | Cyanides as CN (amenable) | 0.1 | 
+ | Fluoride as F | 20 | 
+ | Chromium (Total) | 1.0 | 
+ | Chromium (Cr +6) | 0.1 | 
+ | Magnesium as Mg | 100 | 
+ | Manganese as Mn | 5.0 | 
+ | Copper as Cu | 1.0 | 
+ | Zinc as Zn | 1.0 | 
+ | Cadmium | 0.07 | 
+ | Lead | 0.1 | 
+ | Tin | 2.0 | 
+ | Silver | 0.1 | 
+ | Mercury | 0.01 | 
+ | Nickel | 1.0 | 
+
+
+ii      sewer use
+https://ecode360.com/28453595
+0.2778265055285013
+ | Note: All metals are to be measured as total metals. | 
+
+
+dt      derivation table
+https://ecode360.com/28379604
+0.19677825107056185
+NCM | = | Not Code material (legislation is
+not general or permanent in nature). | 
+NI | = | Not included in Code but saved from
+repeal. | 
+NLP | = | New legislation is pending. | 
+
+
+dl      disposition list
+https://ecode360.com/30868276
+0.158346032127954
+Ord. | 10-3-2016 | Adoption of Code | Ch. 1, Art. I | 
+Ord. | 8-5-2019 | Taxation: Tax Abatement for Emergency Services Volunteers Amendment | Ch. 390, Art. VI | 
+
+
+i      appropriations
+https://ecode360.com/28378676
+0.14564416933376303
+(Date) | Signed 
+Chairman or Vice Chairman | 
+
+
+iii      use of town seal
+https://ecode360.com/28378680
+0.01945874687477575
+ | 
+
+

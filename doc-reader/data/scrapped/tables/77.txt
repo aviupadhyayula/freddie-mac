@@ -1,0 +1,1692 @@
+ix      overlay zoning districts
+https://ecode360.com/8861547
+0.7842933880054536
+ | Any use permitted in the underlying zone. | 
+ | Beekeeping. | 
+ | Cultivation for sale of agricultural products
+grown to provide food, forage, or fibers. | 
+ | Horticultural and floricultural activities,
+such as flowers, shrubs, and trees intended for ornamental or landscaping
+purposes, including wholesale or retail nurseries limited to the sale
+of products grown on-site and in greenhouses on-site. | 
+ | Mechanical repair facilities for agricultural
+equipment. | 
+ | Orchards. | 
+ | Packing or processing of agricultural crops,
+animals, and their by-products that entails more than picking, cutting,
+sorting and boxing or crating, but does not include rendering, tanning
+or reduction of meat. | 
+ | Roadside stands for the sale of agricultural
+products, provided adequate off-street parking shall be provided for
+all employees and customers. | 
+ | Sale of agricultural products grown, raised
+or produced on the premises. | 
+ | Sale of seed, fertilizer, tool, tractors, and
+normal farm equipment. | 
+ | Small commercial use of existing farm buildings
+for trades not disruptive to the integrity of the agricultural character
+of the area, such as carpentry shop, small-scale mechanical shop and
+similar activities that a farm operator might conduct. | 
+ | Small on-site commercial or industrial operations
+normally associated with farming. | 
+ | Storage and drying of crops in grain elevators
+or similar facilities. | 
+ | Storage use of existing farm buildings. | 
+ | Within the two-hundred-foot buffer area called for in Subsection C: | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.6759536280840571
+ | Apartment in combination with residential use. | 
+ | Bakery, provided that goods produced on the
+premises are also sold on the premises. | 
+ | Bank. | 
+ | Convenience store (D). | 
+ | Custom shop for making articles or products
+sold at retail on premises, such as custom clothing, art, needlework,
+and hand weaving. | 
+ | Dry cleaner, laundry, provided that no flammable
+agents are used. | 
+ | Dwelling, garden apartment (D). | 
+ | Dwelling, multifamily (D). | 
+ | Dwelling, townhouse (D). | 
+ | Dwelling, two-family (D). | 
+ | Gasoline station (D). | 
+ | Government facilities and services, nonlocal
+(D). | 
+ | Office (D). | 
+ | Professional services, such as accounting, architecture,
+dental, engineering, insurance, land planning, law, medical, and real
+estate. | 
+ | Repair shop for household and personal goods,
+such as watches, jewelry, musical instruments, electronic products,
+and household appliances. | 
+ | Restaurants, including take-out and fast-food
+(D). | 
+ | Retail sales establishments (D). | 
+ | Supermarket (D). | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.6743146302443426
+ | Art galleries. | 
+ | Bed-and-breakfast (D). | 
+ | Clubs (D) and other fraternal and social organizations. | 
+ | Community center (D). | 
+ | Construction trailer for a period not to exceed
+one year. | 
+ | Conversion of single-family dwelling to two-family
+or multiple-family dwelling. | 
+ | Day-care, family (one to six children) (D). | 
+ | Day-care, large family (seven to 12 children)
+(D). | 
+ | Dwelling, manufactured home (D). | 
+ | Educational institution (D) private and public,
+including charter. | 
+ | Hospital, veterinary. | 
+ | Libraries. | 
+ | Museums. | 
+ | Nursing and similar care facilities (D). | 
+ | Parking facility on residentially zoned property
+in conjunction with nearby commercial or industrial use. | 
+ | Places of worship (D). | 
+ | Public utility service facilities (D). | 
+
+
+viii      residential planned community  rpc  zoning district
+https://ecode360.com/8861397
+0.6721710895963869
+ | Art galleries. | 
+ | Bed-and-breakfast (D). | 
+ | Circus, carnival grounds, amusement parks, midways
+for any period not to exceed three days. | 
+ | Clubs and other fraternal and social organizations
+(D). | 
+ | Community center (D). | 
+ | Construction trailer for period not to exceed
+one year. | 
+ | Dwelling, manufactured home (D). | 
+ | Educational institution (D), private and public
+including charter (D). | 
+ | Exposition centers or fairgrounds, temporary. | 
+ | Libraries. | 
+ | Museums. | 
+ | Places of amusement, recreation, assembly, other
+than a theater, when conducted completely within a building. | 
+ | Places of worship (D). | 
+ | Public utility service facilities (D). | 
+ | Recreation facilities, private or commercial
+(D). | 
+ | Sports arenas and stadiums, commercial athletic
+fields and parks. | 
+ | Swimming and tennis clubs. | 
+ | Theater, open-air (drive-in). | 
+
+
+vi      residential zoning districts
+https://ecode360.com/8861296
+0.6355269581060512
+ | Community center (D). | 
+ | Construction trailer for period not to exceed
+one year. | 
+ | Conversion of single-family dwelling to two-family
+or multiple-family dwelling. | 
+ | Day-care, family (one to six children) (D). | 
+ | Day-care, large family (seven to 12 children)
+(D). | 
+ | Dwelling, manufactured home (D). | 
+ | Educational institution (D), private and public,
+including charter. | 
+ | Nursing and similar care facilities (D). | 
+ | Places of worship (D). | 
+ | Public utility service facilities (D). | 
+
+
+vi      residential zoning districts
+https://ecode360.com/8861296
+0.6320755479421919
+ | Community center (D). | 
+ | Construction trailer for period not to exceed
+one year. | 
+ | Conversion of single-family dwelling to two-family
+or multiple-family dwelling. | 
+ | Day-care, family (one to six children) (D). | 
+ | Day-care, large family (seven to 12 children)
+(D). | 
+ | Dwelling, manufactured home (D). | 
+ | Educational institution (D) and public, including
+charter. | 
+ | Nursing and similar care facilities (D). | 
+ | Places of worship (D). | 
+ | Public utility service facilities (D). | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.615275045384005
+ | Adult entertainment establishments. | 
+ | Bus terminal requiring no facilities in addition
+to the terminal building. | 
+ | Cemetery. | 
+ | Clubs (D) and other fraternal and social organizations. | 
+ | Community center (D). | 
+ | Construction trailer for period not to exceed
+one year. | 
+ | Conversion of single-family dwelling to two-family
+or multiple-family dwelling. | 
+ | Educational institution (D), private and public,
+including charter. | 
+ | Exposition centers or fairgrounds, temporary. | 
+ | Food products, manufacture and refining, except
+animal slaughter. | 
+ | General service shops including plumbing, heating,
+glazing, painting, paperhanging, roofing, ventilating contractors,
+blacksmiths, carpentry, soldering, welding, provided that all processing
+activities shall, if located on the ground floor, be not less than
+20 feet from the front of the building and shall be screened from
+the front portion of the building by a wall or partition. | 
+ | Glass manufacture. | 
+ | Metal processing and treatment, such as enameling
+and lacquering; metal or steel products fabrication and assembly;
+manufacture or light machinery; similar metal processes, provided
+that coke ovens, blast furnaces, ore reduction, refining, smelting
+and alloying or other basic process in the manufacture of iron or
+steel are not permitted. | 
+ | Heliport or helistop, temporary. | 
+ | Parking facility on residentially zoned property
+in conjunction with nearby commercial or industrial use. | 
+ | Places of worship (D). | 
+ | Public utility service facilities (D). | 
+ | Recreation facilities, private or commercial
+(D). | 
+ | Sports arenas and stadiums, commercial athletic
+fields, and parks. | 
+ | Stone or clay processing and products. | 
+ | Swimming and tennis clubs. | 
+ | Textile bleaching. | 
+ | Theater, open-air (drive-in). | 
+
+
+vi      residential zoning districts
+https://ecode360.com/8861296
+0.5944361274730664
+ | Apartment in combination with residential use. | 
+ | Dwelling, garden apartment (D). | 
+ | Dwelling, multifamily (D). | 
+ | Dwelling, townhouse (D). | 
+ | Dwelling, two-family (D). | 
+ | Government facilities and services, non local
+(D). | 
+
+
+vi      residential zoning districts
+https://ecode360.com/8861296
+0.5943930575246246
+ | Dwelling, single-family (D), including modular. | 
+ | Government facilities and services, local (D). | 
+ | Park, playground, recreation area, or recreational
+building, noncommercial (open to the public free of charge). | 
+ | Public safety facilities (D), including ambulance,
+fire, homeland security, police, and rescue. | 
+ | Public utility service lines (D). | 
+
+
+vi      residential zoning districts
+https://ecode360.com/8861296
+0.5943930575246246
+ | Dwelling, single-family (D), including modular. | 
+ | Government facilities and services, local (D). | 
+ | Park, playground, recreation area, or recreational
+building, noncommercial (open to the public free of charge). | 
+ | Public safety facilities (D), including ambulance,
+fire, homeland security, police, and rescue. | 
+ | Public utility service lines (D). | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.5885365292621021
+ | Bakery, provided that goods produced on the
+premises are also sold on the premises. | 
+ | Bank. | 
+ | Convenience store (D). | 
+ | Custom shop for making articles or products
+sold at retail on premises, such as custom clothing, art, needlework,
+and hand weaving. | 
+ | Dry cleaner, laundry, provided that no flammable
+agents are used. | 
+ | Gasoline station (D). | 
+ | Government facilities and services, non local
+(D). | 
+ | Hotel or motel. | 
+ | Manufactured home sales agency. | 
+ | Monument works. | 
+ | Mortuary. | 
+ | Newspaper publishing, job printing, bookbinding. | 
+ | Office (D). | 
+ | Outdoor place of amusement, recreation, assembly. | 
+ | Professional services, such as accounting, architecture,
+dental, engineering, insurance, land planning, law, medical, and real
+estate. | 
+ | Repair shop for household and personal goods,
+such as watches, jewelry, musical instruments, electronic products,
+and household appliances. | 
+ | Restaurants (D), including take-out and fast-food. | 
+ | Retail sales establishments (D). | 
+ | Shopping center (D). | 
+ | Supermarket (D). | 
+ | Telephone central offices. | 
+ | Theater, except open-air. | 
+ | Warehouse (D) or storage within a completely
+enclosed building for retail stores or for products of manufacturing
+uses permitted in M-1 Zone. | 
+ | Wholesale business establishment (D). | 
+ | Yard for storage, sale and distribution of coal
+or building materials, when enclosed within a solid fence not less
+than six feet high, but not including a junkyard, salvage, automobile
+or other wrecking yard. | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.5766033825497942
+ | Circus, carnival grounds, amusement parks, midways
+for any period not to exceed three days upon written application,
+nonprofit. | 
+ | Dwelling, single-family (D), including modular. | 
+ | Government facilities and services, local (D). | 
+ | Park, playground, recreation area, or recreational
+building, noncommercial (open to the public free of charge). | 
+ | Public safety facilities (D), including ambulance,
+fire, homeland security, police, and rescue. | 
+ | Public utility service lines (D). | 
+
+
+viii      residential planned community  rpc  zoning district
+https://ecode360.com/8861397
+0.572130929906633
+ | Circus, carnival grounds, amusement parks, midways
+for any period not to exceed three days upon written application,
+nonprofit. | 
+ | Dwelling, single-family (D), including modular. | 
+ | Government facilities and services, municipal
+(D). | 
+ | Park, playground, recreation area, or recreational
+building, noncommercial (open to the public free of charge). | 
+ | Public safety facilities (D), including ambulance,
+fire, homeland security, police, and rescue. | 
+ | Public utility service lines (D). | 
+ | Bakery, provided that goods produced on the
+premises are also sold on the premises. | 
+ | Bank. | 
+ | Convenience store (D). | 
+ | Custom shop for making articles or products
+sold at retail on premises, such as custom clothing, art, needlework,
+and hand weaving. | 
+ | Dry cleaner, laundry, provided that no flammable
+agents are used. | 
+ | Dwelling, two-family (D). | 
+ | Dwelling, garden apartment (D). | 
+ | Dwelling, multifamily (D). | 
+ | Dwelling, townhouse (D). | 
+ | Government facilities and services, nonmunicipal
+(D). | 
+ | Hotel or motel. | 
+ | Manufactured home sales agency. | 
+ | Office (D). | 
+ | Outdoor place of amusement, recreation, assembly. | 
+ | Professional services, such as accounting, architecture,
+dental, engineering, insurance, land planning, law, medical, and real
+estate. | 
+ | Repair shop for household and personal goods,
+such as watches, jewelry, musical instruments, electronic products,
+and household appliances. | 
+ | Restaurants (D), including take-out and fast-food
+restaurants. | 
+ | Retail sales establishments (D). | 
+ | Shopping center (D). | 
+ | Supermarket (D). | 
+ | Theater, except open-air. | 
+
+
+ix      overlay zoning districts
+https://ecode360.com/8861547
+0.5709758590612789
+ | "The property is located in the vicinity of
+land used primarily for agricultural purposes on which normal agricultural
+uses and activities have been afforded the highest priority use status.
+It can be anticipated that such agricultural uses and activities may
+now or in the future involve noise, dust, manure and other odors,
+the use of agricultural chemicals and nighttime farm operations. The
+use and enjoyment of this property is expressly conditioned on acceptance
+of any annoyance or inconvenience which may result from such normal
+agricultural uses and activities." | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.5543264381850856
+ | Government facilities and services, municipal
+(D). | 
+ | Park, playground, recreation area, or recreational
+building, noncommercial (open to the public free of charge). | 
+ | Public safety facilities, including ambulance,
+fire, homeland security, police, and rescue (D). | 
+ | Public utility service lines (D). | 
+
+
+vi      residential zoning districts
+https://ecode360.com/8861296
+0.5307618705410162
+ | 1. | The front yard setback may be reduced to the
+average alignment of existing buildings within 150 feet on each side
+of a proposed building within the same block if the alignments of
+those existing structures are less than the required front yard setback
+within the zone. However, the front yard on the long side of a corner
+lot may not be reduced to less than 10 feet. | 
+ | 2. | On corner lots, the side yard abutting the street
+shall have the same setback as the front yard. | 
+ | 3. | Building height may be increased by one foot
+for each foot by which the width of each side yard is increased beyond
+the minimum required side yard setback. | 
+ | 4. | See Article XVI, § 234-70 for additional standards governing structures in flood-prone areas. | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.5173802305023285
+ | Dwelling, single-family (D), including modular. | 
+ | Government facilities and services, local (D). | 
+ | Public safety facilities (D), including ambulance,
+fire, homeland security, police, and rescue. | 
+ | Public utility service lines (D). | 
+
+
+ii      penalties
+https://ecode360.com/27191112
+0.5133673571894499
+Alarms | 74 | 
+Alcoholic Beverages | 76 | 
+Amusement Devices | 80 | 
+Animals | 84 | 
+Brush, Grass and Weeds | 90 | 
+Building Construction | 96 | 
+Burning, Outdoor | 106 | 
+Business Licenses | 110 | 
+Fences | 132 | 
+Flood Damage Prevention | 138 | 
+Numbering of Buildings | 165 | 
+Rental Property | 180 | 
+Snow and Ice Removal | 197 | 
+Swimming Pools | 205 | 
+Vehicles, Abandoned | 220 | 
+Water | 228 | 
+Land Use and Development | 234 | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.5111526355722764
+ | Assembly of electrical equipment, including
+heavy machinery. | 
+ | Automobile repair services (D), provided that: | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.5105388283477552
+ | Automobile repair services (D). | 
+ | Automobile sales (D) on lot of at least two
+acres. | 
+ | Automobile service station (D), provided that: | 
+
+
+vi      residential zoning districts
+https://ecode360.com/8861296
+0.48732667929656215
+ | Government facilities and services, nonlocal
+(D). | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.4833188891148421
+ | 1. | The front yard setback may be reduced to the
+average alignment of existing buildings within 150 feet on each side
+of a proposed building within the same block if the alignment of existing
+structures is less than the required front yard setback within the
+zone. However, the front yard on the long side of a corner lot may
+not be reduced to less than 10 feet. | 
+ | 2. | See Article XVI, § 234-70 for additional standards governing structures in flood-prone areas. | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.4802093722215677
+ | Art galleries. | 
+ | Adult entertainment establishments. | 
+ | Bed-and-breakfast (D). | 
+ | Bus terminal requiring no facilities in addition
+to the terminal building. | 
+ | Cemetery. | 
+ | Circus, carnival grounds, amusement parks, midways
+for any period not to exceed three days. | 
+ | Clubs (D) and other fraternal and social organizations
+(D). | 
+ | Community center (D). | 
+ | Construction trailer for period not to exceed
+one year. | 
+ | Conversion of single-family dwelling to two-family
+or multiple-family dwelling. | 
+ | Day-care center (D). | 
+ | Educational institution (D), public and including
+charter. | 
+ | Exposition centers or fairgrounds, temporary. | 
+ | Gasoline station and convenience center (D). | 
+ | Heliport or helistop, temporary. | 
+ | Hospital (D). | 
+ | Large-scale retail uses. See Article X. | 
+ | Libraries. | 
+ | Medical clinic (D). | 
+ | Museums. | 
+ | Nursing and similar care facilities (D). | 
+ | Off-premises signs. See § 234-79. | 
+ | Parking facility on residentially zoned property
+in conjunction with nearby commercial or industrial use. | 
+ | Places of amusement, recreation, assembly, other
+than a theater, when conducted completely within a building. | 
+ | Places of worship (D). | 
+ | Public utility service facilities (D). | 
+ | Recreation facilities, private or commercial
+(D). | 
+ | Sports arenas and stadiums, commercial athletic
+fields and parks. | 
+ | Surgical center (D). | 
+ | Swimming and tennis clubs. | 
+ | Theater, open-air (drive-in). | 
+ | Veterinary hospital (D). | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.44955460791650204
+ | 1. | See Article XVI, § 234-70 for standards governing structures in flood-prone areas. | 
+
+
+xii      property development standards applying to all districts
+https://ecode360.com/8861711
+0.44598906945203276
+Belfries. | 
+Chimneys. | 
+Cupolas. | 
+Flagpoles. | 
+Ornamental towers. | 
+Public monuments. | 
+Radio and television antennas for residential
+use. | 
+Smokestacks. | 
+Spires. | 
+Water towers. | 
+
+
+ii      general provisions
+https://ecode360.com/8859223
+0.4306181738998835
+TBOD | Total biochemical oxygen demand | 
+SBOD | Soluble biochemical oxygen demand | 
+CFR | Code of Federal Regulations | 
+COD | Chemical oxygen demand | 
+EPA | United States Environmental Protection Agency | 
+gpd | Gallons per day | 
+l | Liter | 
+mg | Milligrams | 
+mg/l | Milligrams per liter | 
+NPDES | National Pollutant Discharge Elimination System | 
+O&M | Operation and maintenance | 
+POTW | Publicly owned treatment works | 
+RCRA | Resource Conservation and Recovery Act | 
+SIC | Standard industrial classifications | 
+SWDA | Solid Waste Disposal Act (42 U.S.C. § 6901
+et seq.) | 
+TSS | Total suspended solids | 
+USC | United States Code | 
+TKN | Total Kjeldahl nitrogen | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.4265225709146268
+ | Church Street (Rd. 583) | Main Street (Rd. 5) | North Town limits | 0.29 | 
+ | Denton Road (Rd. 404) | Market Street (Rd. 17) | Northwest Town limits | 0.27 | 
+ | Edgewood Street | Main Street (Rd. 5) | Laws Street | 0.19 | 
+ | Laws Street | Edgewood Street | Market Street (Rd. 17) | 0.31 | 
+ | Main Street (Rd. 5) | South Town limits | Northeast Town limits | 1.05 | 
+ | Market Street (Rd. 17) | West Town limits | Main Street (Rd. 5) | 0.6 | 
+ | Railroad Avenue (Rd. 546) | Southwest Town limits | Delaware Avenue | 0.43 | 
+ | U.S. 13 North/south (1,618.25 feet) | North Canterbury Association property line | South Willliam Lawrence Company, Inc., property
+line |  | 
+ | Wilson Farm Road (Rd. 546) North/south (7,430
+feet)[Added 10-20-2003 by Ord. No. A03-7] | Wilson Farm Line | Railroad Avenue | 1.40 | 
+
+
+xx      recreation  open space  screening  shade
+https://ecode360.com/8862187
+0.4037229522097564
+ | 1 or more |  | 0.60% | 
+ | 2 | 1/2 acre to 1 acre (40,000 square feet) | 1.20% | 
+ | 3 | 10,000 to 1/2 acre (20,000 square feet) | 1.73% | 
+ | 4 | 9,000 to 9,999 | 2.70% | 
+ | 5 | 8,000 to 8,999 | 3.01% | 
+ | 6 | 7,000 to 7,999 | 3.40% | 
+ | 7 | 6,000 to 6,999 | 3.90% | 
+ | 8 | 5,000 to 5,999 | 4.58% | 
+ | 9 | 5,000 to 5,999 | 4.58% | 
+ | 10 to 19 |  | 5.79% | 
+ | 20 to 29 |  | 9.30% | 
+ | 30 to 39 |  | 12.56% | 
+ | 40 to 49 |  | 15.58% | 
+ | 50 to 59 |  | 18.40% | 
+ | 60 to 69 |  | 21.05% | 
+ | 70 to 79 |  | 23.54% | 
+ | 80 to 89 |  | 25.85% | 
+ | 90 to 99 |  | 28.00% | 
+ | 100 and over |  | 29.07% | 
+
+
+xvi      sensitive areas
+https://ecode360.com/8861910
+0.39790511780138976
+Aboveground storage tanks | No | Yes | Yes | C | 
+Automotive body/repair shop | No | C | C | C | 
+Chemical processing/storage facility | No | C | C | C | 
+Dry cleaner | No | No | No | No | 
+Electrical/electronic manufacturing facility | No | No | C | C | 
+Equipment maintenance/fueling areas | No | C | C | C | 
+Fleet/trucking/bus terminal | No | C | C | C | 
+Gas station | No | C | C | C | 
+Hazardous waste treatment, storage and disposal facilities | No | No | No | No | 
+Dry wells/sumps | No1 | Yes | Yes | Yes | 
+Injection wells | No2 | Yes | Yes | Yes | 
+Junk/scrap/salvage yard | No | No | No | No | 
+Land divisions resulting in high density (greater than 1 acre) | No | C | C | C | 
+Machine shop | No | No | C | C | 
+Manure storage | No | No | No | No | 
+Metal plating/finishing/fabricating facility | No | No | C | C | 
+Mines/gravel pit | No | No | No | No | 
+On-site wastewater treatment and disposal system | No | No | C | C | 
+Sanitary and industrial landfills | No | No | No | No | 
+Underground storage tanks | No | C | C | C | 
+Vessel storage | No | C | C | C | 
+Wood preserving/treating facility | No | No | No | No | 
+
+
+building construction
+https://ecode360.com/8858837
+0.38518124555410216
+ | Estimated Cost of Construction | Fee | 
+ | Up to $1,000 | $20 | 
+ | Each additional $1,000 | $4 | 
+
+
+xvi      sensitive areas
+https://ecode360.com/8861910
+0.384823399515419
+Activities shall be subject to the land-use restrictions within
+this section that will protect the quality and quantity of groundwater
+supplies. In addition, all uses not permitted in the underlying zone
+district are prohibited. | 
+
+
+vii      nonresidential zoning districts
+https://ecode360.com/8861332
+0.3809329002511976
+ | Automobile sales agencies on a lot of at least
+two acres. | 
+ | Automobile sales (D) on a lot of at least two
+acres. | 
+ | Automobile service station (D). | 
+ | Bakery, provided that goods produced on the
+premises are also sold on the premises. | 
+ | Bank. | 
+ | Bottling plant. | 
+ | Carpet and rug cleaning. | 
+ | Chemical processes not involving noxious odors
+or danger from fire or explosion, such as adhesives, bleaching products,
+bluing, calcimine, dyestuffs (except aniline dyes), essential oils,
+salt processing, and vegetable gelatin. | 
+ | Contractor or general service shop including
+plumbing, heating carpentry, welding. | 
+ | Convenience store (D). | 
+ | Custom shop for making articles or products
+sold at retail on premises, such as custom clothing, art, needlework,
+and hand weaving. | 
+ | Food processing, pharmaceutical compounding. | 
+ | Gasoline station (D). | 
+ | Government facilities and services, nonmunicipal
+(D). | 
+ | Hospital, veterinary (D). | 
+ | Hotel or motel. | 
+ | Laboratory, research, experimental testing. | 
+ | Light metal processes, including finish, plating,
+grinding, sharpening, polishing, cleaning, rust-proofing and heat
+treatment; fabrication or assembly of small products. | 
+ | Manufacture of jewelry, watches, clocks, optical
+goods, musical, professional and scientific instruments, luggage. | 
+ | Manufacture of products from the following previously
+prepared materials: bone, canvas, cork, feathers, felt, fur, glass,
+hair, horn, leather, paper, plastics, shells, small rubber products
+and synthetic treated fabrics (excluding all rubber and synthetic
+processing), wood and textiles, and animal and poultry feeds. | 
+ | Manufactured home sales agency. | 
+ | Manufacturing of nonalcoholic beverages, ceramic
+products, clothing, cosmetics, electrical appliances, electrical supplies,
+silverware, tobacco products, tools, hardware, toys, umbrellas, etc. | 
+ | Monument works. | 
+ | Mortuary. | 
+ | Newspaper publishing, job printing, bookbinding
+establishment. | 
+ | Outdoor place of amusement, recreation, assembly. | 
+ | Places of amusement, recreation, assembly, other
+than theaters, when conducted completely within a building. | 
+ | Repair shop for household and personal goods,
+such as watches, jewelry, musical instruments, electronic products,
+and household appliances. | 
+ | Restaurants (D), including take-out and fast-food. | 
+ | Retail sales establishments (D). | 
+ | Supermarket (D). | 
+ | Telephone central offices. | 
+ | Textile manufacture or processing, excluding
+bleaching. | 
+ | Theater, except open-air. | 
+ | Truck yard or terminal, motor freight station,
+distributing station, hauling packing, crating. | 
+ | Upholstering. | 
+ | Warehouse (D) or storage within a completely
+enclosed building for retail stores or for products of manufacturing
+uses permitted in the M-1 Zone. | 
+ | Wholesale business establishment (D). | 
+ | Wood and lumber bulk processing, not including
+pulp and fiber reduction and processing. | 
+ | Yard for storage, sale and distribution of coal
+or building materials, when enclosed within a solid fence not less
+than six feet high, but not including a junkyard, salvage, automobile
+or other wrecking yard. | 
+
+
+xx      recreation  open space  screening  shade
+https://ecode360.com/8862187
+0.3790328211363766
+ | Formula: | $200 multiplied by the number of times that
+the total area of the subdivision is divisible by the required minimum
+lot size of the zoning district in which the tract to be subdivided
+is located. | 
+ | Examples: | Five-acre subdivision with minimum lot sizes
+varying from 10,000 square feet to 2,000 square feet. | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.3727378667142594
+Church Street | 12 | Entire length | 
+Denton Road (Rt. 404) | 12 | Entire length | 
+DuPont Highway | 12 | Entire length | 
+Edgewood Street Street | 12 | Laws Street to Main | 
+Laws Street | 12 | Market Street to Edgewood Street | 
+Main Street | 12 | Entire length | 
+Market Street | 12 | Entire length | 
+Railroad Avenue | 12 | Entire length | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.3630321443582193
+Church Street | South | Entire length | 
+Main Street | East/west (both sides) | From the southeast corporate limits north to
+bridge across Bridgeville Branch | 
+Market Street | North | From Main Street west to Denton Road (Rt. 404)
+intersection | 
+All alleys | Both | Within corporate limits | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.3630321443582193
+All Alleys | Both | Within corporate limits | 
+Church Street | South | Entire length | 
+Main Street | East/west (both sides) | From the southeast corporate limits north to
+bridge across Bridgeville Branch | 
+Market Street | North | From Main Street west to Denton Road (Rt. 404)
+intersection | 
+
+
+iv      administrative procedures
+https://ecode360.com/8861035
+0.36001772992757386
+Plat Information |  |  |  |  | 
+Name and address of owner and applicant | R | R | R |  | 
+Subdivision name | R | R | R | § 234-56D | 
+Signature and seal of a registered
+Delaware land surveyor or professional engineer |  | R | R |  | 
+Name, signature, license number, seal,
+and address of engineer, land surveyor, architect, planner, and/or
+landscape architect, as applicable, involved in preparation of plat |  | R | R |  | 
+Title block denoting type of application,
+Tax Map sheet, county, municipality, block, lot, and street location |  | R | R |  | 
+A vicinity map at specified scale
+showing location of tract with reference to surrounding properties,
+streets, municipal boundaries, etc. within 500 feet; date of current
+survey |  | R | R |  | 
+Schedule of required and provided
+zoning district standards, including lot area, width, depth, yard,
+setbacks, building coverage, open space, parking, etc. |  | R | R | §§ 234-30C, 234-31C, 234-32C, 234-33C, 234-34C, 234-37, 234-39C, 234-40C, 234-41C, 234-44, Article XII | 
+North arrow and scale | R | R | R |  | 
+Signature blocks for Planning and
+Zoning Commission Chairperson and/or pertinent Town official, pertinent
+Sussex County officials, Town Engineer |  |  | R |  | 
+Certification blocks for surveyor,
+engineer, architect including surveyor's or engineer's seal, signature,
+and certification statement that the final plat, as shown, is a correct
+representation of the survey as made, that all monuments indicated
+thereon exist and are correctly shown, and that the plat complies
+with all requirements of this chapter and other applicable laws and
+regulations |  |  | R |  | 
+Locations and descriptions of all
+permanent survey monuments |  |  | R | § 234-56E | 
+Plan sheets no larger than 24 inches
+by 36 inches including a 1/2-inch margin outside of border lines or
+other size acceptable to Sussex County |  |  |  |  | 
+Metes and bounds description showing
+dimensions, bearings, curve data, length of tangents, radii, arcs,
+chords, and central angles for all center lines and rights-of-way
+and center line curves on streets |  |  | R |  | 
+Acreage of tract to nearest tenth
+of an acre | G | R | R |  | 
+Date of original and all revisions | R | R | R |  | 
+Size and location of existing or proposed
+structures with all setbacks dimensioned | G | R | R | §§ 234-30C, 234-31C, 234-32C, 234-33C, 234-34C, 234-37, 234-39C, 234-40C 234-41C, 234-44, Article XII | 
+Proposed lot lines and areas of lots
+in square feet | R | R | R | § 234-57 | 
+Locations and dimensions of existing
+and proposed streets | G | R | R |  | 
+Copy and/or delineation of existing
+deed restrictions or covenants |  | R | R |  | 
+Copies of and a summary of deed restrictions
+for the new subdivision, including agreements for the operation and
+maintenance by the property owners or agency in the subdivision of
+common areas, open space, recreation facilities, surface drainage
+facilities, erosion and sedimentation control facilities, water supply
+facilities, sanitary sewer facilities, forested buffer strips, or
+other improvements deemed necessary by the Planning and Zoning Commission |  | G | R |  | 
+Owners' certification, acknowledging
+ownership of the property and agreeing to the subdivision thereof
+as shown on the plat and signed by the owner(s) |  |  | R |  | 
+Owners' statement dedicating streets
+and other public ways for public use |  |  | R |  | 
+Existing or proposed easement or land
+either reserved for or dedicated to public use or the residents of
+the proposed development | G | R | R |  | 
+Development or staging plans | G | G | R |  | 
+List of required regulatory approvals
+or permits | G | R | R |  | 
+Variances requested | G | R | R | § 234-23 | 
+Conditional uses required | G |  |  | § 234-24 | 
+Payment of application fees |  | R | R |  | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.35627791049205404
+All alleys | Both | Within corporate limits | 
+Church Street | South side | Entire length | 
+Main Street | East/west (both sides) | From the southeast corporate limits north to
+bridge across Bridgeville Branch | 
+Market Street | North | From Main Street west to Denton side Road (Rt.
+404) intersection | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.34743766138044657
+Denton Road (Rt.404) | West | Denton Road (Rt. 404) and Market Street | 
+First Street | North | First Street and Spruce Street | 
+Jacobs Avenue | North | Jacobs Avenue and Cannon Street | 
+Main Street | West | Main Street and Market Street | 
+Market Street | East | Market Street and Main Street | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.34525485461140315
+Birch Street | North-east | From Cannon Street to First Street | 
+Cooper Alley | North | From First Street to Church Street | 
+John Street | East | From Park Alley to Main Street | 
+Layton Alley | West | From Cannon Street to Mill Street | 
+Maple Alley | East | From Laws Street to William Street | 
+Mechanic Street | South-east | From Market Street to Delaware Avenue | 
+
+
+iv      administrative procedures
+https://ecode360.com/8861035
+0.3426475016372377
+ | Submitting plan to Administrator before next
+Planning and Zoning Commission meeting | N/A | 15 days | 10 days | 
+ | Acting on plan following Planning and Zoning
+Commission meeting. | N/A | 60 days | 45 days | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.33827986376287833
+Cedar Street | 20 | From Laws Street to Cedar Street, 100 feet west | 
+Cherry Alley | 20 | From Walnut Street to Edgewood Street | 
+Church Street | 20 | From Vine Street to the northwest Town limits | 
+Edgewood Street | 20 | From Main Street to Laws Street, 100 feet west | 
+Laws Street | 20 | From Walnut Street to Sussex Avenue | 
+Maple Alley | 20 | From Cherry Alley to Laws Street | 
+
+
+v      wastewater discharge permit eligibility
+https://ecode360.com/8859355
+0.33531542764233735
+"I certify under penalty of law that this document
+and all attachments were prepared under my direction or supervision
+in accordance with a system designed to assure that qualified personnel
+properly gather and evaluate the information submitted. Based on my
+inquiry of the person or persons who manage the system, or those persons
+directly responsible for gathering the information, the information
+submitted is to the best of my knowledge and belief, true, accurate
+and complete. I am aware that there are significant penalties for
+submitting false information, including the possibility of fine and
+imprisonment for knowing violations." | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.33297657378633183
+All other streets | 25 | Town-wide | 
+Sussex Highway (U.S. Route 13) | 55 |  | 
+Wilson Farm Road (County 546) | 50 |  | 
+
+
+iv      administrative procedures
+https://ecode360.com/8861035
+0.3294244652176731
+ | Duration of plan approvals beginning at approval
+or recording date | N/A | 2 years | 1 year | 5 years | 
+ | Number/duration of extensions permitted, provided
+that the applicant can demonstrate that delays were beyond his/her
+control | N/A | 1/1 year | 1/1 year | None | 
+
+
+xvi      sensitive areas
+https://ecode360.com/8861910
+0.3256998657831065
+2 | Injection wells other than those used in the remediation of
+groundwater contamination that inject oxygen-releasing compounds. | 
+
+
+iii      general sewer use requirements
+https://ecode360.com/8859298
+0.3170394686577568
+ | TBOD | 350 | 
+ | SBOD | 150 | 
+ | TSS | 450 | 
+ | TKN | 30 | 
+ | Oil and grease | 100 | 
+ | pH | 6.5 to 8.5  standard units | 
+
+
+dl      disposition list
+https://ecode360.com/8862314
+0.3024549722478988
+19-3 | 7-8-2019 | Land Use and Development Amendment | Ch. 234 | 22 | 
+19-4 | 11-11-2019 | Comprehensive Plan | NCM | 22 | 
+19-5 | 11-11-2019 | Annexation | NCM | 22 | 
+19-6 | 12-9-2019 | Solid Waste Amendment | Ch. 200 | 22 | 
+20-1 | 2-10-2020 | Comprehensive Plan | NCM | 22 | 
+20-2 | 2-10-2020 | General Provisions: Notice of Tort Claims; Defense and Indemnification
+of Employees and Officers | Ch. 1, Art. III; Ch. 1, Art. IV | 22 | 
+20-3 | 3-9-2020 | General Provisions: Appointment and Removal of Town Manager | Ch. 1, Art. V | 22 | 
+20-4 | 3-9-2020 | Vacant Building Registration Amendment | Ch. 217 | 22 | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.29437306743947644
+All Streets | Town wide | 
+
+
+elections
+https://ecode360.com/8858696
+0.28054378623302756
+"I do solemnly swear (affirm) that I am a resident
+of the Town of Bridgeville and have resided there at least ____ years
+preceding the day of the election in which this ballot is to be voted;
+and my local address is ______________________, in Bridgeville. | 
+That I will be absent from the Town of Bridgeville
+on the day of the election because of ( ) being in the Armed Forces
+of the United States, ( ) public service of this state, ( ) nature
+of my business or occupation, ( ) sickness or physical disability,
+( ) vacation and absence from the Town, and for the reason indicated,
+I cannot appear at the polling place of the Town of Bridgeville in
+which I am a qualified voter and for the reason indicated I request
+an absentee ballot. | 
+______________________________________ | 
+Signature of Voter | 
+SWORN TO AND SUBSCRIBED, before me, this _______
+day of _______________, _____. | 
+______________________________________ | 
+Notary Public | 
+
+
+iv      administrative procedures
+https://ecode360.com/8861035
+0.27516624465605444
+R = Complete data or information required | 
+
+
+iv      administrative procedures
+https://ecode360.com/8861035
+0.2670204970728389
+Setting—Environmental
+Information |  |  |  |  | 
+Property owners and lines of all parcels
+within 200 feet identified on most recent Tax Parcel Map | G | R | R |  | 
+Land used primarily for agricultural
+purposes, lands in Agricultural Preservation Districts, and lands
+whose development rights have been sold to preserve them for farming
+(PDRs) | G | R | R |  | 
+Existing streets, watercourses, floodplains,
+wetlands or other environmentally sensitive areas on and within 200
+feet of site | G | R | R |  | 
+Location of all wetlands and supporting
+documentation | G | G | R |  | 
+Location of 100-year floodplain based
+on current Flood Insurance Rate Map (FIRM) | G | R | R |  | 
+Water-resource protection areas | G | R | R |  | 
+Existing right-of-way and/or easements
+on and within 200 feet of site | R | R | R |  | 
+Topographical features of the site
+from the USC&GS Map |  | R | R |  | 
+Existing and proposed contour intervals
+based on USC&GS data at 1-foot intervals: contours shall extend
+at least 200 feet beyond subject property |  | R | R |  | 
+Boundary limits, nature and extent
+of wooded areas, specimen trees, and other significant features | G | R | R |  | 
+Existing drainage system of site and
+of any larger tract or basin of which it is a part |  | R | R |  | 
+Drainage Area Map |  | R | R |  | 
+Drainage calculations |  | R | R |  | 
+Improvements and Construction
+Information |  |  |  |  | 
+Water supply and distribution plan |  | R | R |  | 
+Sewage collection and treatment plan |  | R | R |  | 
+Soil erosion and sediment control
+plan |  | G | R |  | 
+Grading plan |  | G | R |  | 
+Permanent stormwater management plan |  | G |  |  | 
+Solid waste management plan |  |  |  |  | 
+Additional utility infrastructure
+plans, including gas, telephone, electric, cable TV | G | R | R |  | 
+Open space and recreation plan | G | R | R |  | 
+Detailed lighting plan | G | R | R |  | 
+Detailed landscape plan | G | R | R |  | 
+Site identification signs, traffic
+control signs, and directional signs | G | R | R |  | 
+Sight triangles | G | R | R |  | 
+Vehicular and pedestrian circulation
+patterns | G | R | R |  | 
+Parking and loading plan showing spaces,
+size, type, aisle width, curb cuts, drives, driveways, and all Ingress
+and egress areas and dimensions | G | R | R |  | 
+Spot and finished elevations at all
+property corners, corners of all structures or dwellings, existing
+or proposed first floor elevations | G | R | R |  | 
+Construction details, such as cross
+sections and profiles, as required by applicable laws, regulations,
+and policies | G | R | R |  | 
+Proposed street names | G | R | R |  | 
+New blocks lettered consecutively;
+lots numbered in consecutive numerical order | G | R | R |  | 
+Preliminary architectural plans and
+elevations | G |  | R |  | 
+Other information required by Town
+of Bridgeville, Sussex County, or other departments and agencies involved
+in plan approval | G | R | R |  | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.26362370222927367
+Cannon Street | East | 2 Hours/Mon. to Fri. | From Cannon Street to Mill Street | 
+Cedar Street | South | 8 a.m. to 2 p.m./Mon. to Fri. | 60 feet west from Laws Street | 
+Laws Street | West | 8 a.m. to 2 p.m./Mon. to Fri. | 60 feet South from Cedar Street | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.2630317377736481
+Mill Street | Both | From Cannon Street east 60 feet | 
+
+
+xviii      signs
+https://ecode360.com/8862019
+0.2612565716689421
+ | Number allowed | Not limited | No limit | 
+ | Maximum area | Total of 10 square feet on property | 50 square feet each sign; 100 square feet total
+sign area | 
+ | Maximum height | 5 feet | 10 feet | 
+ | Placement | 5 feet from property line | 5 feet from property line | 
+ | Illumination | Not permitted | Not permitted | 
+ | Permit needed | No | No | 
+
+
+elections
+https://ecode360.com/8858696
+0.255880752926547
+"I do solemnly swear (affirm) that I am a resident
+of the Town of Bridgeville and that my local address is _________________,
+in Bridgeville. | 
+I do solemnly swear (affirm) that I have not
+received nor accepted nor have I offered to receive or accept, paid
+or transferred or delivered or offered or promised to pay, transfer
+or deliver or contributed or offered to promise to contribute to another
+to be paid or used any money or other valuable thing such as compensation,
+inducement or reward for the fixing or withholding of this vote at
+this election. | 
+I do solemnly swear (affirm) that I mark my
+ballot in secret. | 
+______________________________________ | 
+Signature of Voter | 
+SWORN TO AND SUBSCRIBED before me, this _______
+day of ______________, _____. | 
+______________________________________ | 
+Notary Public | 
+
+
+fees
+https://ecode360.com/8858936
+0.24719388698384778
+Schedule of Charges and Fees 
+of the Community Sewer of the Town of
+Bridgeville | 
+
+
+fees
+https://ecode360.com/8858936
+0.22927419387365994
+Roof connection to sewer lines | $10 per month | 
+Catch basins in yard | $100 basin per month | 
+
+
+elections
+https://ecode360.com/8858696
+0.21948275864662828
+ | "This is to certify that this is the Official 2011 Election Districts Map referred to in Section 17-15, Chapter 17 of the Bridgeville Code, and referred to in Section 1 of Ordinance No. A 11-06 of the Town of Bridgeville, adopted on January 9, 2012, as amended by Ordinance No.16-3, adopted on the 8th day of August 2016." | 
+
+
+elections
+https://ecode360.com/8858696
+0.21799782909637921
+"Request received from _____________ of _____________,
+by mail __________ in person; ballot and official envelope number
+________, mailed to applicant on ___________ or ballot and official
+envelope delivered to ____________, of ___________; marked ballot
+sealed in package of official ballots; marked ballot forwarded to
+polls _____________;" | 
+and such other entries as the Commissioners of Bridgeville shall
+deem proper to prevent fraud and to make possible the tracing and
+detection of any attempt to do so. The Commissioners of Bridgeville
+shall also provide a space in the register and shall note thereon
+the date on which the Town Secretary receives the affidavit requesting
+an official ballot as provided by this article. The Town Secretary
+shall compile from the register a list of names and addresses of all
+applicants for absentee ballots and shall send current and complete
+copies thereof, without cost, to all candidates on the ballot in the
+forthcoming election. Such list shall be made available to the candidates
+during the two weeks before the election, such information to be recorded
+by the candidates from the daily records of the Town Secretary with
+the cooperation and assistance of the Town Secretary. | 
+
+
+fees
+https://ecode360.com/8858936
+0.18407754564434872
+ | Sewage flow per year in gallons + (Production
+Days x 200 gal/day/EDU). | 
+
+
+xvi      sensitive areas
+https://ecode360.com/8861910
+0.16777278353182387
+Yes = Allowed. | 
+
+
+viii      residential planned community  rpc  zoning district
+https://ecode360.com/8861397
+0.15287895600946935
+ | 
+
+
+xix      off street parking and loading
+https://ecode360.com/8862116
+0.14629001111419415
+ | Width | 12.0 feet | 10.0 feet | 
+ | Depth | 40.0 feet | 25.0 feet | 
+ | Vertical clearance | 14.5 feet | 8.0 feet | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.08930161201844053
+(Reserved) | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.08930161201844053
+(Reserved) | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.08930161201844053
+(Reserved) | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.08930161201844053
+(Reserved) | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.08930161201844053
+(Reserved) | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.08930161201844053
+(Reserved) | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.08930161201844053
+(Reserved) | 
+
+
+xii      property development standards applying to all districts
+https://ecode360.com/8861711
+0.07137450909890716
+ | 
+
+
+xx      recreation  open space  screening  shade
+https://ecode360.com/8862187
+0.05899779490573295
+ | $200 | 5.0 | 43,560 | 10,000 | $4,356 | 
+ | $200 | 5.0 | 43,560 | 7,000 | $6,223 | 
+ | $200 | 5.0 | 43,560 | 3,500 | $12,446 | 
+ | $200 | 5.0 | 43,560 | 3,000 | $14,520 | 
+ | $200 | 5.0 | 43,560 | 2,000 | $21,780 | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+0.057347237611281354
+Ball Park Lane | 4,000 | Entire length | 
+Birch Street | 4,000 | Entire length | 
+Cannon Street | 4,000 | Entire length | 
+Cedar Street | 4,000 | Entire length | 
+Cherry Alley | 4,000 | Entire length | 
+Chestnut Alley | 4,000 | Entire length | 
+Church Street | 4,000 | Entire length | 
+Colonial Drive | 4,000 | Entire length | 
+Cook Street | 4,000 | Entire length | 
+Cooper Alley | 4,000 | Entire length | 
+Delaware Avenue | 4,000 | Entire length | 
+Edgewood Street | 4,000 | Entire length | 
+Elliott Drive | 4,000 | Entire length | 
+Elm Street | 4,000 | Entire length | 
+Emory Street | 4,000 | Entire length | 
+First Street | 4,000 | Entire length | 
+Gum Street | 4,000 | Entire length | 
+Jacobs Avenue | 4,000 | Entire length | 
+John Street | 4,000 | Entire length | 
+Laverty Lane | 4,000 | Entire length | 
+Laverty Lane Extended | 4,000 | Entire length | 
+Laverty Place | 4,000 | Entire length | 
+Laws Street | 4,000 | Entire length | 
+Main Street | 4,000 | Entire length | 
+Maple Alley | 4,000 | Entire length | 
+Market Street | 4,000 | Entire length | 
+Mechanic Street | 4,000 | Entire length | 
+Mill Street | 4,000 | Entire length | 
+Oak Street | 4,000 | Entire length | 
+Park Alley | 4,000 | Entire length | 
+Pine Alley | 4,000 | Entire length | 
+Railroad Avenue | 4,000 | Entire length | 
+Second Street | 4,000 | Entire length | 
+Spruce Street | 4,000 | Entire length | 
+Sussex Avenue | 4,000 | Entire length | 
+Sussex Avenue Extended | 4,000 | Entire length | 
+Union Alley | 4,000 | Entire length | 
+Vine Street | 4,000 | Entire length | 
+Walnut Street | 4,000 | Entire length | 
+William Street | 4,000 | Entire length | 
+
+
+fees
+https://ecode360.com/8858936
+0.018306169310163406
+ | NOTE: 200 GPD = 1 EDU[Amended 10-14-2002 by Ord. No. 2-00] | 
+
+
+iv      administrative procedures
+https://ecode360.com/8861035
+0.010540593796520226
+ | 
+
+
+iv      administrative procedures
+https://ecode360.com/8861035
+0.010540593796520226
+ | 
+
+
+ii      definitions
+https://ecode360.com/8860730
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/8860730
+-0.03135213081102173
+ | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+-0.061373852697541365
+ | Amanda's Teal Drive[Added 5-11-2009 by Ord. No. A09-5] | Will's Island Drive | End | 0.27 | 
+ | Ball Park Lane | Cannon Street | End | 0.12 | 
+ | Birch Street | Cannon Street | First Street | 0.13 | 
+ | Blue Heron Court[Added 6-12-2017 by Ord.
+No. 17-3] | Heritage Shores Circle | Heritage Shores Circle | 0.13 | 
+ | Cannon Street | Church Street (Rd. 583) | South Town limits | 1.05 | 
+ | Canvasback Circle[Added 6-12-2017 by Ord.
+No. 17-3] | Heritage Shores Circle | Heritage Shores Circle | 0.42 | 
+ | Cedar Street | Laws Street | 0.10 mile west of Cannon Street | 0.2 | 
+ | Cherry Alley | Sussex Avenue | Delaware Avenue | 0.29 | 
+ | Chestnut Alley | Laws Street | Railroad Avenue (Rd. 546) | 0.3 | 
+ | Colonial Drive | Main Street | 0.04 mile east of Main Street (Rd. 5) | 0.04 | 
+ | Cook Street | Church Street | 0.04 mile of Church Street (Rd. 583) | 0.04 | 
+ | Cooper Alley | First Street | Church Street (Rd. 583) | 0.05 | 
+ | Delaware Avenue | Main Street (Rd. 5) | Railroad Avenue (Rd. 546) | 0.4 | 
+ | Edgewood Street | Laws Street | Cannon Street | 0.1 | 
+ | Elliott Drive | Main Street (Rd. 5) | Laws Street | 0.18 | 
+ | Elm Street | Main Street (Rd. 5) | 0.11 mile of Main Street (Rd. 5) | 0.11 | 
+ | Emily's Pintail Drive[Added 6-12-2017 by Ord.
+No. 17-3] | Will's Island Drive | John's Mallard Drive | 0.56 | 
+ | Emory Street | Cannon Street | Cemetery | 0.07 | 
+ | First Street | Spruce Street | Cooper Alley | 0.29 | 
+ | Gadwall Circle[Added 6-12-2017 by Ord.
+No. 17-3] | Whistling Duck Drive | Whistling Duck Drive | 0.15 | 
+ | Gum Street | First Street | Second Street | 0.14 | 
+ | Heritage Shores Circle[Added 5-11-2009 by Ord. No. A09-5; amended 6-12-2017 by Ord. No. 17-3] | Heritage Shores Drive | Wood Duck Drive | 1.15 | 
+ | Heritage Shores Drive[Added 5-11-2009 by Ord. No. A09-5] | U.S. 13 | Heritage Shores Circle | 0.57 | 
+ | Jacobs Avenue | Cannon Street | Main Street (Rd. 5) | 0.28 | 
+ | John Street | Main Street (Rd. 5) | Laws Street | 0.20 | 
+ | John's Mallard Drive[Added 6-12-2017 by Ord.
+No. 17-3] | Emily's Pintail Drive | Gadwall Circle | 0.06 | 
+ | Laverty Lane | Main Street (Rd. 5) | Rd. 4 S. B. (U.S. 13) | 0.32 | 
+ | Laverty Lane Extended | Laverty Lane | End | 0.04 | 
+ | Laverty Place | Cul-de-sac | Laverty Lane | 0.1 | 
+ | Laws Street | 0.03 mile of Jacobs Avenue | Edgewood Street | 0.21 | 
+ | Laws Street | Market Street (Rd. 17) | Cemetery | 0.06 | 
+ | Layton Alley | Cannon Street | Mill Street | 0.05 | 
+ | Maple Alley | Railroad Avenue (Rd. 546) | Cherry Alley | 0.42 | 
+ | Mechanic Street | Market Street (Rd. 17) | Delaware Avenue | 0.07 | 
+ | Mill Street | Railroad Avenue (Rd. 546) | 0.04 mile east of Cannon Street | 0.09 | 
+ | Oak Street | Cannon Street | Second Street | 0.1 | 
+ | Park Alley | Market Street (Rd. 17) | John Street | 0.03 | 
+ | Pine Alley | Railroad Avenue (Rd. 546) | Cherry Alley | 0.38 | 
+ | Railroad Avenue (Rd. 546) | Delaware Avenue | Mill Street | 0.14 | 
+ | Ruddy Duck Lane[Added 6-12-2017 by Ord.
+No. 17-3] | Heritage Shores Circle | Heritage Shores Circle | 0.46 | 
+ | Second Street | Gum Street | Oak Street | 0.13 | 
+ | Snowy Egret Court[Added 6-12-2017 by Ord.
+No. 17-3] | Heritage Shores Circle | Heritage Shores Circle | 0.13 | 
+ | Spruce Street | Church Street (Rd. 583) | First Street | 0.05 | 
+ | Sussex Avenue | Main Street (Rd. 5) | 0.06 mile of Laws Street | 0.24 | 
+ | Sussex Avenue Extended | Cannon Street | Railroad Avenue (Rd. 546) | 0.23 | 
+ | Union Alley | Cannon Street | Mechanic Street | 0.34 | 
+ | Vine Street | Church Street (Rd. 583) | First Street | 0.05 | 
+ | Walnut Street | Railroad Avenue (Rd. 546) | Main Street (Rd. 5) | 0.44 | 
+ | Whistling Duck Drive[Added 6-12-2017 by Ord.
+No. 17-3] | (N) Gadwall Circle | (S) End | 0.15 | 
+ | White Pelican Court[Added 6-12-2017 by Ord.
+No. 17-3] | Heritage Shores Circle | Heritage Shores Circle | 0.11 | 
+ | Widgeon Way[Added 6-12-2017 by Ord.
+No. 17-3] | Canvasback Circle | Canvasback Circle | 0.30 | 
+ | William Street | Maple Alley | Cemetery | 0.25 | 
+ | Will's Island Drive[Added 5-11-2009 by Ord. No. A09-5] | Heritage Shores Circle | End | 0.13 | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+-0.1297053839554515
+Cannon Street (N) | Emory Street | East/west | Stop sign | 
+Cannon Street (N) | First Street | East/west | Stop sign | 
+Cannon Street (N) | Mill Street | East/west | Stop sign | 
+Cannon Street (N) | Oak Street | Northeast | Stop sign | 
+Cannon Street (N) | Second Street | East/west | Stop sign | 
+Cannon Street (S) | Ball Park Lane | West | Stop sign | 
+Cannon Street (S) | Cedar Street | East/West | Stop sign | 
+Cannon Street (S) | Chestnut Alley | East/West | Stop sign | 
+Cannon Street (S) | Edgewood Street | East | Stop sign | 
+Cannon Street (S) | Maple Alley | East/West | Stop sign | 
+Cannon Street (S) | Sussex Avenue Extended | West | Stop sign | 
+Church Street | Cannon Street | South | Stop sign | 
+Church Street | Cook Steet | North | Stop sign | 
+Church Street | Cooper Alley | South | Stop sign | 
+Church Street | Spruce Street | South | Stop sign | 
+Church Street | Vine Street | South | Stop sign | 
+Delaware Avenue | Cannon Street | North/south | Stop sign | 
+Delaware Avenue | Cherry Alley | South | Stop sign | 
+Delaware Avenue | Laws Street | North/south | Stop sign | 
+Delaware Avenue | Mechanic Street | North | Stop sign | 
+Delaware Avenue | William Street | North/south | Stop sign | 
+Edgewood Street | Cherry Alley | North/south | Stop sign | 
+Edgewood Street | Laws Street | North/south | Stop sign | 
+First Street | Gum Street | South | Stop sign | 
+First Street | Oak Street | South | Stop sign | 
+First Street | Vine Street | North | Stop sign | 
+Gum Street | Second Street | West | Stop sign | 
+Jacobs Drive | Laws Street | North/south | Stop sign | 
+Main Street | Church Street | West | Stop sign | 
+Main Street | Colonial Drive | East | Stop sign | 
+Main Street | Delaware Avenue | West | Stop sign | 
+Main Street | Edgewood Street | West | Stop sign | 
+Main Street | Elliott Drive | West | Stop sign | 
+Main Street | Elm Street | East | Stop sign | 
+Main Street | Jacobs Avenue | West | Stop sign | 
+Main Street | John Street | West | Stop sign | 
+Main Street | Laverty Lane | East | Stop sign | 
+Main Street | Market Street | West | Stop signal | 
+Main Street | Sussex Avenue | West | Stop sign | 
+Main Street | Walnut Street | West | Stop sign | 
+Market Street | Cannon Street | South/north | Stop sign | 
+Market Street | Denton Road (Rt.404) | South/north | Stop sign | 
+Market Street | Laws Street | South/north | Stop sign | 
+Market Street | Mill Street | South/north | Stop sign | 
+Market Street | Railroad Avenue | South/north | Stop sign | 
+Market Street | William Street | South/north | Stop sign | 
+Railroad Avenue | Chestnut Alley | East | Stop sign | 
+Railroad Avenue | Delaware Avenue | East | Stop sign | 
+Railroad Avenue | Maple Alley | East | Stop sign | 
+Railroad Avenue | Pine Alley | East | Stop sign | 
+Railroad Avenue | Sussex Avenue Extended | East | Stop sign | 
+Railroad Avenue | Walnut Street | East | Stop sign | 
+Second Street | Birch Street | South | Stop sign | 
+Sussex Highway[Added 10-20-2003 by Ord. No. A03-7] | Sussex Highway | North/south | Stop sign | 
+Walnut Street | Cannon Street | North/south | Stop sign | 
+Walnut Street | Cherry Alley | North/south | Stop sign | 
+Walnut Street | Laws Street | North/south | Stop sign | 
+Walnut Street | William Street | North/south | Stop sign | 
+Wilson Farm Road[Added 10-20-2003 by Ord. No. A03-7] | Railroad Avenue | North/south | Stop sign | 
+
+
+vii      street schedules
+https://ecode360.com/8860515
+-0.36640179817494256
+Ball Park Lane | East | Cannon Street and Ball Park Lane | 
+Birch Street | North | Birch Street and First Street | 
+Birch Street | North/south | Birch Street and Second Street | 
+Cannon Street | North | Cannon Street and Church Street | 
+Cannon Street | North/south | Cannon Street and Delaware Avenue | 
+Cannon Street | North/south | Cannon Street and Market Street | 
+Cannon Street | North/south | Cannon Street and Walnut Street | 
+Cannon Street[Added 4-13-2009 by Ord. No. A09-4] | South | Cannon Street and Jacobs Avenue | 
+Cedar Street | East | Laws Street and Cedar Street | 
+Cedar Street | East/west | Cannon Street and Cedar Street | 
+Cherry Alley | North | Cherry Alley and Delaware Avenue | 
+Cherry Alley | North/south | Cherry Alley and Edgewood Street | 
+Cherry Alley | North/south | Cherry Alley and Walnut Street | 
+Cherry Alley | South | Cherry Alley and Sussex Avenue | 
+Chestnut Alley | East | Laws Street and Chestnut Alley | 
+Chestnut Alley | East/west | Cannon Street and Chestnut Alley | 
+Chestnut Alley | West | Railroad Avenue and Chestnut Alley | 
+Colonial Drive | West | Main Street and Colonial Drive | 
+Cook Street | South | Cook Street and Church Street | 
+Delaware Avenue | East | Delaware Avenue and Main Street | 
+Delaware Avenue | West | Delaware Avenue and Railroad Avenue | 
+Earlee Avenue | North | Cannon Street and Jacobs Avenue | 
+Earlee Avenue[Added 4-13-2009 by Ord. No. A09-4] | North | Earlee Avenue and Jacobs Avenue | 
+Edgewood Street | East | Main Street and Edgewood Street | 
+Edgewood Street | West | Cannon Street and Edgewood Street | 
+Elliott Drive | East | Main Street and Elliott Drive | 
+Elliott Drive | West | Laws Street and Elliott Drive | 
+Elm Street | West | Main Street and Elm Street | 
+Emory Street | West | Emory Street and Cannon Street | 
+First Street | East/west | Cannon Street and First Street | 
+Gum Street | North | Gum Street and First Street | 
+Jacobs Avenue | East | Main Street and Jacobs Avenue | 
+Jacobs Avenue[Added 4-13-2009 by Ord. No. A09-4] | West | Jacobs Avenue and Cannon Street | 
+John Street | East | John Street and Main Street | 
+John Street | East/west | John Street and William Street | 
+John Street | West | John Street and Laws Street | 
+Laverty Lane | West | Main Street and Laverty Lane | 
+Laws Street | North/south | Laws Street and Edgewood Street | 
+Laws Street | North/south | Laws Street and Delaware Avenue | 
+Laws Street | North/south | Laws Street and Jacobs Avenue | 
+Laws Street | North/south | Laws Street and Market Street | 
+Laws Street | North/south | Laws Street and Walnut Street | 
+Maple Alley | East | Cherry Alley and Maple Alley | 
+Maple Alley | East/west | Cannon Street and Maple Alley | 
+Maple Alley | West | Laws Street and Maple Alley | 
+Maple Alley | West | Railroad Avenue and Maple Alley | 
+Mechanic Street | South | Delaware Avenue and Mechanic Street | 
+Mill Street | East/west | Mill Street and Cannon Street | 
+Mill Street | South | Mill Street and Market Street | 
+Oak Street | South | Oak Street and Cannon Street | 
+Park Alley | North | Park Alley and John Street | 
+Pine Alley | East | Cherry Alley and Pine Alley | 
+Pine Alley | East/west | Pine Alley and Cannon Street | 
+Pine Alley | East/west | Pine Alley and Laws Street | 
+Pine Alley | East/west | Pine Alley and William Street | 
+Pine Alley | West | Pine Alley and Railroad Avenue | 
+Railroad Avenue | North | Railroad Avenue and Market Street | 
+Second Street | East | Gum Street and Second Street | 
+Second Street | East/west | Cannon Street and Second Street | 
+Spruce Street | North | Spruce Street and Church Street | 
+Sussex Avenue | East | Main Street and Sussex Avenue | 
+Sussex Avenue | East/west | Laws Street and Sussex Avenue | 
+Sussex Avenue Extended | East | Cannon Street and Sussex Avenue Extended | 
+Sussex Avenue Extended | West | Railroad Avenue and Sussex Avenue Extended | 
+Union Alley | East | Union Alley and Mechanic Street | 
+Union Alley | East/west | Union Alley and Laws Street | 
+Union Alley | East/west | Union Alley and William Street | 
+Union Alley | West | Union Alley and Cannon Street | 
+Vine Street | North | Vine Street and Church Street | 
+Vine Street | South | Vine Street and First Street | 
+Walnut Street | East | Walnut Street and Main Street | 
+Walnut Street | West | Walnut Street and Railroad Avenue | 
+William Street | North/south | William Street and Delaware Avenue | 
+William Street | North/south | William Street and Market Street | 
+William Street | North/south | William Street and Walnut Street | 
+William Street | South | William Street and Maple Alley | 
+Wilson Farm Road[Added 10-20-2003 by Ord. No. A03-7] | North | Wilson Farm Road and Railroad Avenue | 
+
+
+dl      disposition list
+https://ecode360.com/8862314
+-1.4871413347857194
+Ord. No. 1796 | 7-8-1996 | Adoption of Code | Ch. 1, Art. I | 
+Ord. No. 115 | 11-11-1996 | General curfew provisions | Ch. 114 | 
+Ord. No. 96-1 | 12-9-1996 | Vehicles and traffic amendment | Ch. 222, Art. VII | 
+Ord. No. 97-1 | 6-9-1997 | Fees amendment | Ch. 128 | 
+Ord. No. 97-2 | 8-11-1997 | Fees amendment | Ch. 128 | 
+Ord. No. 97-3 | 12-8-1997 | Fees amendment | Ch. 128 | 
+Ord. No. 98-1 | 2-19-1998 | Fees amendment (residential sewer) | Ch. 128 | 
+Ord. No. 98-2 | 7-13-1998 | Real property transfer tax | Ch. 210, Art. II | 
+Ord. No. 99-1 | 9-16-1999 | Zoning amendment | Ch. 234 | 
+Ord. No. 99-2 | 10-11-1999 | Vehicles and traffic amendment | Ch. 222 | 
+1-2000 | 10-9-2000 | Garbage and refuse collection | Ch. 200 | 
+2-00 | 12-11-2000 | Fees amendment | Ch. 128 | 
+01-1 | 3-12-2001 | Zoning amendment | Ch. 234 | 
+01-2 | 3-12-2001 | Peddling and soliciting amendment | Ch. 172 | 
+01-3 | 6-11-2001 | Flood damage prevention | Repealed by Ord. No. 15-1 | 
+01-4 | 6-11-2001 | Fees amendment | Ch. 128 | 
+01-5 | 6-11-2001 | Building construction amendment | Ch. 96 | 
+01-6 | 6-11-2001 | Fees amendment | Ch. 128 | 
+01-7 |  |  | Not adopted | 
+01-8 |  |  | Number not used | 
+01-9 | 11-12-2001 | Absentee voting | Ch. 17, Art. I | 
+A02-1 | 2-11-2002 | Comprehensive Land Use Plan | NCM | 
+A02-2 | 6-10-2002 | Zoning amendment | Ch. 234 | 
+A02-3 | 6-10-2002 | Zoning amendment | Ch. 234 | 
+A02-4 | 6-10-2002 | Fences amendment | Ch. 132 | 
+A02-5 | 6-10-2002 | Zoning amendment | Ch. 234 | 
+A02-6 |  |  | Not adopted | 
+A02-7 | 10-14-2002 | Zoning amendment | Ch. 234 | 
+A02-8 | 9-30-2002 | Zoning amendment | Ch. 234 | 
+A02-9 | 10-14-2002 | Fees amendment | Ch. 128 | 
+A03-1 | 2-10-2003 | Zoning amendment | Ch. 234 | 
+A03-2 | 3-10-2003 | Dangerous buildings | Chs. 99; 102, repealer only | 
+A03-3 | 414-2003 | Emergency services funding | Ch. 21 | 
+A03-4 | 5-12-2003 | Zoning amendment | Ch. 234 | 
+A03-5 | 6-9-2003 | Fees amendment | Ch. 128 | 
+A03-6 |  |  | Not adopted | 
+----- | 7-14-2003 | Zoning amendment (amendment to Ord. No. A02-8) | Ch. 234 | 
+A03-7 | 10-20-2003 | Vehicles and traffic amendment | Ch. 222 | 
+A03-8 | 1-12-2004 | Snow and ice removal | Ch. 197 | 
+A04-1 | 2-9-2004 | Fees amendment | Ch. 128 | 
+A04-2 | 4-12-2004 | Zoning amendment | Ch. 234 | 
+A04-3 | 4-12-2004 | Abandoned vehicles | Ch. 220 | 
+A04-4 | 4-12-2004 | Swimming pools | Ch. 205 | 
+A04-5 | 6-14-2004 | Fees amendment | Ch. 128 | 
+A04-6 | 6-24-2004 | Conditional use | NCM | 
+A04-7 | 6-24-2004 | Zoning Map amendment | NCM | 
+A04-8 | 11-8-2004 | Brush, grass and weeds amendment | Ch. 90 | 
+A05-1 | 4-11-2005 | Animals amendment | Ch. 84 | 
+A05-2 | 4-11-2005 | Zoning amendment | Ch. 234 | 
+A05-3 | 4-11-2005 | Zoning amendment | Ch. 234 | 
+A05-4 | 4-11-2005 | Swimming pools amendment | Ch. 205 | 
+A05-5 | 4-11-2005 | Sewer connections amendment | Ch. 190, Art. I | 
+A05-6 | 11-7-2005 | Building construction amendment | Ch. 96 | 
+A05-7 | 5-9-2005 | Heritage Shores Special Development District | Ch. 59, Art. I | 
+A05-8 | 10-3-2005 | Conditional use | NCM | 
+A05-9 | 11-7-2005 | Land use and development | Ch. 234 | 
+A06-1 | 2-6-2006 | Sex offenders: residency restrictions | Ch. 193, Art. I | 
+A06-2 | 3-13-2006 | Fees amendment | Ch. 128 | 
+A06-3 | 7-10-2006 | Fees amendment | Ch. 128 | 
+A06-4 | 7-10-2006 | Peace and safety | Ch. 169 | 
+A06-5 | 7-10-2006 | Conditional use | NCM | 
+A06-6 | 10-2-2006 | Zoning amendment | Ch. 234 | 
+A06-7 | 9-11-2006 | Comprehensive Land Use Plan amendment | NCM | 
+A06-8 |  | Zoning amendment | Not adopted | 
+A07-1 | 4-9-2007 | Fees amendment | Ch. 128 | 
+A07-2 | 4-9-2007 | Fees amendment | Ch. 128 | 
+A07-3 |  | Building construction amendment | Not adopted | 
+A07-4 | 6-11-2007 | Granting Chesapeake Utilities permission to
+build and maintain a gas distribution system | NCM | 
+A07-5 | 4-9-2007 | Conditional use | NCM | 
+A07-6 | 8-13-2007 | Vehicles and traffic: skateboards | Ch. 222, Art. IX | 
+A07-7 | 9-10-2007 | Numbering of buildings | Ch. 165 | 
+A07-8 | 12-10-2007 | Fees amendment | Ch. 128 | 
+A07-9 | 12-10-2007 | Election districts | Ch. 17, Art. II, reference only | 
+A08-1 | 3-17-2008 | Emergency management: emergency operations plan | Ch. 19, Art. II | 
+A08-2 | 5-12-2008 | Animals: dogs | Ch. 84, Art. II | 
+A08-3 | 5-12-2008 | Fees amendment | Ch. 128 | 
+A08-4 |  | Fees amendment | Not adopted | 
+A08-5 | 5-12-2008 | Sewers amendment; water: public works agreement | Chs. 190; 228, Art. V | 
+A08-6 |  | Land use and development amendment | Not adopted | 
+A08-7 | 6-2-2008 | Fees amendment | Ch. 128 | 
+A08-8 | 7-14-2008 | Swimming pools amendment | Ch. 205 | 
+A08-9 | 11-10-2008 | Peddling and soliciting amendment | Ch. 172 | 
+A08-10 | 8-11-2008 | Fees amendment | Ch. 128 | 
+A08-11 | 9-16-2008 | Real property transfer tax amendment | Ch. 210, Art. II | 
+A08-12 |  | Zoning Map amendment | NCM | 
+A08-13 | 10-6-2008 | Building construction amendment | Ch. 96 | 
+A09-1 | 2-9-2009 | Fees amendment | Ch. 128 | 
+A09-2 | 3-9-2009 | Alarms | Ch. 74 | 
+A09-3 | 3-9-2009 | Land use and development amendment | Ch. 234 | 
+A09-4 | 4-13-2009 | Vehicles and traffic: street schedules amendment | Ch. 222, Art. VII | 
+A09-5 | 5-11-2009 | Vehicles and traffic: street schedules amendment | Ch. 222, Art. VII | 
+A09-6 | 5-11-2009 | Vehicles and traffic: definitions repealer; enforcement, arrest,
+bail and appeal repealer; registration and titles of vehicles repealer;
+operation and equipment and rules of the road repealer; reporting
+accidents repealer; equipment and construction of vehicles repealer | Ch. 222, Arts. I through VI, reference only | 
+A09-7 | 7-13-2009 | Sewers: wastewater pretreatment standards amendment | Ch. 190, Part 2 | 
+A09-8 | 7-13-2009 | Fees amendment | Ch. 128 | 
+A09-9 |  | Zoning Map amendment | NCM | 
+A09-10 | 11-9-2009 | Sewers: wastewater pretreatment standards amendment | Ch. 190, Part 2 | 
+A10-1 | 4-12-2010 | Land use development amendment | Ch. 234 | 
+A10-2 | 3-8-2010 | Financial good standing | Ch. 135 | 
+A10-3 |  | Rights-of-way | Not adopted | 
+A10-4 | 6-14-2010 | Fees amendment | Ch. 128 | 
+A10-5 | 7-19-2010 | Fees amendment | Ch. 128 | 
+A10-6 | 7-19-2010 | Fees amendment | Ch. 128 | 
+A10-7 | 7-19-2010 | Fees amendment | Ch. 128 | 
+A10-8 | 7-19-2010 | Rental property: registration and licensure of rental property | Ch. 180, Art. I | 
+A10-9 |  | Establishment of business licenses | Not adopted | 
+A10-10 |  | Recreational vehicles | Not adopted | 
+A10-11 |  | Zoning Map amendment | NCM | 
+A11-1 | 6-13-2011 | Brush, grass and weeds amendment | Ch. 90 | 
+A11-2 |  | Zoning Map amendment | NCM | 
+A11-3 |  |  | Not adopted | 
+A11-4 |  | Conditional use for Tull lands | NCM | 
+A11-5 | 1-9-2012 | Contractor licenses | Repealed by Ord. No. 18-4 | 
+A11-6 | 1-9-2012 | Election districts | Ch. 17, Art. I | 
+A11-7 | 2-13-2012 | Land use and development amendment | Ch. 234 | 
+A12-1 | 4-9-2012 | Dogs amendment | Ch. 84, Art. II | 
+A12-2 | 4-9-2012 | Penalties amendment | Chs. 1, Art. II; 74; 76; 80; 84, Arts. I and II; 90; 96; 106; 132; 138; 165; 180; 197; 205; 220; 228, Arts. I and II; 234 | 
+A12-3 | 8-13-2012 | Land use and development amendment | Ch. 234 | 
+A13-1 | 2-11-2013 | Conditional use for gasoline station and convenience center | NCM | 
+A13-2 | 2-11-2013 | Penalties amendment | Chs. 74; 76; 80; 84, Arts. I and II; 90; 96; 106; 110; 132; 138; 165; 180; 197; 200; 205; 220; 228, Arts. I and II; 234 | 
+A13-3 | 2-11-2013 | Dogs amendment | Ch. 84, Art. II | 
+A13-4 | 3-11-2013 | Zoning Map amendment | NCM | 
+13-5 | 5-13-2013 | Land use and development amendment | Ch. 234 | 
+13-6 | 5-13-2013 | Brush, grass and weeds amendment | Ch. 90 | 
+13-7 | 6-10-2013 | Conditional use for place of worship | NCM | 
+13-8 | 10-14-2013 | Land use and development amendment | Ch. 234 | 
+13-9 | 10-14-2013 | Fees amendment | Ch. 128 | 
+13-10 | 11-11-2013 | Conditional use for three off-premises signs (billboards) | NCM | 
+13-11 | 12-9-2013 | Rights-of-way: maintenance and care | Ch. 183, Art. I | 
+14-1 | 2-10-2014 | Fees amendment | Ch. 128 | 
+14-2 | 3-10-2014 | Zoning Map amendment | NCM | 
+14-3 | 5-28-2014 | Fees amendment | Ch. 128 | 
+14-4 | 5-28-2014 | Fees amendment | Ch. 128 | 
+14-5 | 8-11-2014 | Land use and development amendment | Ch. 234 | 
+14-6 | 10-9-2014 | Bond | NCM | 
+14-7 | 10-13-2014 | Budget; fees amendment | Ch. 128 | 
+14-8 | 12-8-2014 | Conditional use for mini-storage facility | NCM | 
+15-1 | 1-12-2015 | Flood damage prevention; land use and development amendment | Ch. 138; Ch. 234 | 
+15-2 | 3-9-2015 | Heritage Shores special tax rate reduction | NCM | 
+15-3 | 3-9-2015 | Budget; fees amendment | Ch. 128 | 
+15-4 | 8-10-2015 | Zoning Map amendment | NCM | 
+15-5 | 11-9-2015 | Conditional use for beauty salon | NCM | 
+16-1 | 4-11-2016 | Land use and development amendment | Ch. 234 | 
+16-2 | 7-11-2016 | Sewers: wastewater pretreatment standards amendment | Ch. 190, Part 2 | 
+16-3 | 8-8-2016 | Election districts amendment | Ch. 17, Art. II | 
+17-1 | 4-10-2017 | Vacant building registration | Ch. 217 | 
+17-2 | 4-10-2017 | Noise | Ch. 162 | 
+17-3 | 6-12-2017 | Vehicles and traffic: street schedules amendment | Ch. 222, Art. VII | 
+17-4 | 7-10-2017 | Annexation of certain parcel of land | NCM | 
+17-5 | 11-13-2017 | Animals: dogs amendment | Ch. 84, Art. II | 
+18-1 | 9-10-2018 | Comprehensive Land Use Plan | NCM | 
+18-2 | 9-10-2018 | Sex Offenders Amendment | Ch. 193 | 
+18-3 | 11-19-2018 | Fees Amendment | Ch. 128 | 
+18-4 | 11-19-2018 | General Provisions: Adoption of Code Amendment; Business Licenses | Ch. 1, Art. I; Ch. 110 | 
+18-5 | 11-19-2018 | Flood Damage Reduction Amendment | Ch. 138 | 
+19-1 | 2-11-2019 | Annexation | NCM | 
+19-2 | 3-11-2019 | Land Use and Development Amendment | Ch. 234 | 
+
+

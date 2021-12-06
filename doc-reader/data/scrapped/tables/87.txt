@@ -1,0 +1,1035 @@
+ix      environmental protection regulations
+https://ecode360.com/7035463
+0.5455976224220692
+State and federal permitted disturbances, such as road crossing
+and fill with permits | Permitted | Permitted | 
+Other road crossings, such as bridges with permits | Permitted | Permitted | 
+Stormwater management outfalls permitted by Sussex Conservation
+District (SCD) | Permitted | Permitted | 
+Invasive species control | Required | Required | 
+Planting of native vegetation | Permitted | Permitted | 
+Floodplain creation without impacting associated wetlands with
+permits | Permitted | Permitted | 
+Tax ditch maintenance | Permitted | Permitted | 
+Stormwater management BMPs | Not permitted | Permitted | 
+Recreational trails constructed of permeable materials | Not Permitted | Permitted | 
+Selective cutting for maintenance | Not permitted | Permitted | 
+Erosion or stabilization measures | Not permitted | Permitted | 
+Boat ramps with permits | Permitted | Permitted | 
+Boardwalks | Not permitted | Permitted | 
+Docks with permits | Permitted | Permitted | 
+
+
+xvi      modifications to residential code
+https://ecode360.com/29552267
+0.5079795826568161
+Ground snow load: 20. | 
+Wind speed (mph): 100. | 
+Seismic design category: A. | 
+Subject to damage from weathering: Severe. | 
+Subject to damage from frost line depth: 24. | 
+Subject to damage from termite: Moderate. | 
+Winter design temp: 14. | 
+Ice barrier underlayment required: No. | 
+Flood hazards: March 15, 1977, Flood Insurance Study for Sussex
+County, Delaware, and Incorporated Areas, dated January 6, 2005, to
+be revised on March 16, 2015. | 
+Air freezing index: 330. | 
+Mean annual temperature: 55.2° F. | 
+
+
+iv      improvement specifications and design standards for major subdivisions
+https://ecode360.com/7033895
+0.47100646275858415
+ | Main thoroughfares | 80 to 100 | 44 | Yes | 
+ | Secondary streets | 60 to 80 | 36 to 40 | Yes | 
+ | Residential streets and group housing and apartments | 50 | 32 | Yes | 
+ | Residential streets | 50 | 32 | Yes | 
+
+
+vii      off street parking and loading
+https://ecode360.com/7035227
+0.4700879779031536
+ | Single and multifamily dwellings, apartments and garden apartments | 2 per dwelling unit | 
+ | Rooming houses, boardinghouses or tourist houses | 1 per rental room, plus 1 for the resident owner or manager | 
+ | Hotels, motels and lodging inns | 1 per rental room or suite, plus 1 per 3 employees. If a restaurant,
+open to the public, is operated in connection with such use, additional
+off-street parking space meeting the minimum requirements for a restaurant
+must be provided | 
+ | Eating places, taverns or bars and nightclubs | 1 per 200 square feet assigned for patron use, plus 1 for each
+2 employees on the largest shift | 
+ | Food service drive-in facilities | 15 minimum, plus 1 per 150 square feet of floor area | 
+ | Indoor and outdoor commercial recreation | 1 per 150 square feet of floor, building or ground area, or
+1 per 4 seats for patron use, whichever is applicable to the particular
+area | 
+ | Offices, office buildings, banks or other financial offices | 1 per 200 square feet of floor area, exclusive of basements,
+if not used for office or customer service purposes | 
+ | Retail stores and supermarkets | 1 per 200 square feet of floor area used for sales or display
+of merchandise purposes, plus 1 for each 2 employees on the largest
+shift | 
+ | Beauty shops and barbershops and other personal services | 2 per 200 square feet of floor area | 
+ | Shopping centers | 5 per 1,000 square feet of gross leasable area | 
+ | Furniture and appliance stores | 1 per 400 square feet of floor area devoted to sales and display
+purposes | 
+ | Funeral homes | 1 per 10 square feet of floor area used for seating accommodations,
+including chairs, plus 1 per employee | 
+ | Commercial nurseries, sales of outdoor equipment or furniture
+and sales of new and used cars, trucks, boats, mobile homes, trailers
+and campers | 3 per salesman during peak period of employment | 
+ | Gasoline service stations | 2 spaces for each employee plus 1 for each service bay | 
+ | Automobile service and repair garages | 1 per 500 square feet of floor area, plus 1 per employee during
+peak period of employment | 
+ | Wholesaling and manufacturing establishments | 1 for every 2 employees on the major shift | 
+ | Day nurseries, day-care centers or private preschools or kindergartens | 1 for every 1,000 square feet of floor area, plus 1 per adult
+teacher or attendant | 
+ | Elementary and junior high or middle schools | 3 per room used for administrative purposes, plus 1 per classroom,
+plus 1 for each 5 seats in the auditorium or gymnasium or other facility
+open to the public | 
+ | Senior high, trade and vocational schools, colleges and universities | 3 per room used for administrative offices, plus 1 for every
+10 pupils enrolled, plus 1 for each 5 seats in the auditorium, gymnasium
+or other facility open to the public | 
+ | Stadiums, assembly halls, theaters and community centers | 1 per 4 fixed seats in the assembly area or for each 40 square
+feet of floor area for rooms having movable seats or 1 space per 150
+square feet of floor area, whichever is applicable to the facility | 
+ | Public libraries | 1 per 400 square feet of floor area for public use, plus 1 per
+2 employees | 
+ | Nursing homes, convalescent homes and homes for the aged | 1 for each 4 patient beds, plus 1 per each employee on the largest
+shift | 
+ | Hospitals | 1 for each 3 patient beds, except bassinets, plus 1 per medical
+staff member, plus 1 per 2 employees on the largest shift | 
+ | Medical and dental clinics and offices | 1 for each 2 employees, plus 4 per doctor or dentist | 
+
+
+iv      improvement specifications and design standards for major subdivisions
+https://ecode360.com/7033895
+0.4680549189903839
+Residential | 25 | 150 | 10% | 150 | 26 | 12 | 
+
+
+vii      off street parking and loading
+https://ecode360.com/7035227
+0.44516153316854845
+ | Retail store, department store, eating and drinking establishment,
+wholesale establishment, warehouse, general service, manufacturing,
+or industrial establishment | 2,000 to 10,000
+10,000 to 20,000
+20,000 to 40,000
+40,000 to 60,000
+Each additional 50,000 | 1
+2
+3
+4
+1 | 
+ | Apartment building, hotel, motel, offices, office building,
+hospital or similar institution, places of public assembly | 5,000 to 25,000
+25,000 to 100,000
+100,000 to 200,000
+Each additional 50,000 | 1
+2
+3
+1 | 
+ | Funeral home or mortuary | N/A | 1 for each chapel | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.4396909615815334
+Beach No. 1 Parking Lot (situated at the end of Savannah Road,
+fronting the beach strand adjacent to the Delaware Bay)[Added 8-10-1992; amended 6-12-1995] |  | All times | Parking space nos. 101, 102, 118, 119, 159, 160 and 299 | 7 | 
+Beach No. 2 Parking Lot (north side of Cape Henlopen Drive from
+a point 1,289 feet east of the Savannah Road and Cape Henlopen Drive
+intersection)[Added 8-10-1992] |  | All times | Parking space nos. 20, 21, 22, 23 and 24 | 5 | 
+Market Street[Added 12-12-1988; amended 8-13-1990; repealed 8-10-1992] |  |  |  |  | 
+Market Street[Added 7-13-1998; repealed 10-20-2008] |  |  |  |  | 
+Market Street[Added 8-10-1992] | East | All times | Intersection of West Fourth Street and Market Street | 1 | 
+Market Street[Added 8-10-1992] | East | Sunday only | 55 feet north of the intersection of West Fourth Street and
+Market Street | 3 | 
+Mulberry Street[Added 2-13-2009] | West | All times | Fronting 214 Mulberry Street, Tax Map 3-35-8.07-295.00 | 1 | 
+Municipal Parking Lot (Front Street)[Added 8-10-1992] | North | All times | Third parking space east of the most westerly curbline of the
+parking lot, perpendicular to the L & R Canal | 1 | 
+Municipal Parking Lot (Front Street)[Added 2-10-1992] | North | All times | First parking space east of the most westerly curbline of the
+parking lot, perpendicular to the L & R Canal | 1 | 
+Second Street[Added 5-10-1993] | South | All times | 138 feet west of the Savannah Road and Second Street intersection | 1 | 
+Second Street[Added 5-10-1993] | South | All times | First parking space west of the intersection of Second Street
+and Market Street | 1 | 
+Second Street[Added 5-10-1993] | South | Sunday only | Second parking space west of the intersection of Second Street
+and Market Street | 1 | 
+Second Street[Repealed 5-10-1993] |  |  |  |  | 
+Second Street[Amended 4-10-1989; repealed 5-10-1993] |  |  |  |  | 
+West Third Street[Added 8-13-2001; repealed 3-20-2006] |  |  |  |  | 
+West Third Street Municipal Parking Lot[Added 3-13-1995] | North | All times | Most northerly parking space within the western row 89 feet
+north of the northerly lateral curbline of West Third Street | 1 | 
+
+
+v      dimensional regulations
+https://ecode360.com/7034707
+0.41750356189568727
+[Gross Tract Area - [Area of Tidal Waters + Area
+of Tidal Wetlands]] | = | Base Permitted Residential Units | 
+21,760 |  |  | 
+
+
+v      dimensional regulations
+https://ecode360.com/7034707
+0.41372747553590417
+• | If using Cluster Lot Option No. 1, maximum Permitted Residential
+Units = Base Permitted Residential Units | 
+• | If using Cluster Lot Option No. 2, maximum Permitted Residential
+Units = Base Permitted Residential Units + 30% Base Permitted Residential
+Units | 
+
+
+xiii      conditional uses
+https://ecode360.com/7035744
+0.39865497717861886
+[Gross Area - Commercial Area - Office Area - Open
+Space Area] = Base Permitted Residential Units | 
+10890 | 
+
+
+ii      minor subdivision  combining of lots
+https://ecode360.com/7033592
+0.3872104658110288
+ | "It hereby is certified that this minor subdivision/combining
+of lots site plan was granted approval by the Mayor and City Council
+of the City of Lewes, Delaware, on __________ (date) __________ and
+accordingly is eligible for recording in the office of the Recorder
+of Deeds for Sussex County, Delaware. | 
+ | City Manager" | 
+
+
+v      dimensional regulations
+https://ecode360.com/7034707
+0.3834070852370215
+The Permitted Residential Units provides an estimate for defining
+the maximum number of Permitted Residential Units using Cluster Lot
+Options. The actual number of residential units that can be constructed
+will be based on the creation of a site plan that meets all of the
+requirements defined below in Cluster Lot Option design requirements. | 
+
+
+iv      improvement specifications and design standards for major subdivisions
+https://ecode360.com/7033895
+0.3621017908057276
+ | * | Measured from toe (low point) of curb, or curb and gutter. | 
+ | ** | The developer shall provide an additional five-foot easement
+if an open drainage system is utilized. | 
+
+
+iv      improvement specifications and design standards for major subdivisions
+https://ecode360.com/7033895
+0.34423701630454984
+ | Right-of-way | 50 | 60 | 
+ | Outside edge of pavement | 38 | 46 | 
+ | Center island | N/A | 24 | 
+
+
+iv      improvement specifications and design standards for major subdivisions
+https://ecode360.com/7033895
+0.3432932638223294
+* | Sufficient right-of-way dedicated to the public use shall be
+provided to maintain the required line of sight. | 
+** | Maximum street grades can be waived on an individual basis subject
+to the City Engineer's judgment with respect to the severity
+of the topography. | 
+
+
+v      street reconstruction standards
+https://ecode360.com/7033461
+0.33760281782007256
+ | Surface course | Type C hot mix | 0.40 | 
+ | Binder course | Type A hot mix | 0.35 | 
+ |  | Type B hot mix | 0.40 | 
+ | Base course | Select borrow | 0.08 | 
+ |  | Quarry waste | 0.11 | 
+ |  | Graded aggregate | 0.14 | 
+ |  | Soil cement (6% cement +1%) | 0.20 | 
+ |  | Bituminous concrete | 0.32 | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.3366460455422737
+Cape Henlopen Drive and Freeman Highway | Right lane, eastbound | Right turn only | 
+Freeman Highway and Cape Henlopen Drive | Northbound | Right turn only | 
+Front Street and Savannah Road | Left lane, eastbound | Left turn only | 
+Front Street and Savannah Road | Right lane, eastbound | Right turn only | 
+Kings Highway and Savannah Road | Left lane, northbound | Left turn only | 
+Kings Highway and Savannah Road | Right lane, northbound | Right turn only | 
+Savannah Road and Cape Henlopen Drive | Northbound | Right turn only | 
+Savannah Road and Front Street | Northbound | Left turn only | 
+Savannah Road and Kings Highway | Southbound | Left turn only | 
+Savannah Road and Second Street | Northbound | Left turn only | 
+Savannah Road and Third Street | Northbound | Left turn only | 
+Third Street and Savannah Road | Left lane, eastbound | Left turn only | 
+Third Street and Savannah Road | Right lane, eastbound | Right turn only | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.3303742085864287
+Cape Henlopen Drive | East | From Savannah Road to a point 500 feet east of Savannah Road | 
+Kings Highway | Both | Entire length | 
+Savannah Road | Both | From a point 400 feet south of Third Street to Anglers Road | 
+Savannah Road | Both | From Sussex Drive to McFee Street | 
+Savannah Road | North | From Cedar Street to Bayview Avenue | 
+Savannah Road | North | From Vickers Avenue to Fourth Street | 
+Savannah Road | South | From Anglers Road to a point 400 feet north of Anglers Road | 
+Savannah Road | South | From Bayview Avenue to Bay Avenue | 
+Savannah Road | South | From Fourth Street to Orr Street | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.32384703145195615
+Bay Avenue[Repealed 11-14-2011] |  |  | 
+Bay Avenue[Repealed 11-14-2011] |  |  | 
+Bay Avenue[Repealed 11-14-2011] |  |  | 
+Bay Avenue[Added 11-14-2011] | East | From East Market Street to Michigan Avenue | 
+Bay Avenue[Added 11-14-2011] | West | From Washington Avenue to Maine Avenue | 
+Bay Avenue[Added 11-14-2011] | West | From Savannah Road to East Market Street | 
+Bayview Avenue | East | From Market Street to Savannah Road | 
+Chestnut Street[Added 6-13-2005] | North | From West Fourth Street to West Third Street | 
+Coleman Avenue[Added 9-12-1983] | West | From Kings Highway to Savannah Road | 
+Dewey Avenue[Repealed 9-9-2002] |  |  | 
+East Fourth Street | East | From Savannah Road to Kings Highway | 
+Maine Avenue | South | From Bay Avenue to Cedar Street | 
+Market Street | North | From Second Street to Farmers Bank exit | 
+Market Street[Repealed 2-8-1982] |  |  | 
+Market Street | South | From Second Street to Farmers Bank exit | 
+McFee Street[Added 10-8-1990; repealed 11-12-2000] |  |  | 
+Michigan Avenue | South | From Bay Avenue to Cedar Street | 
+Orr Street[Amended 8-10-1998] | West | From Chestnut Street to Market Street | 
+Saint Paul Street | East and south | From West Fourth Street to Mulberry Street extended | 
+Second Street | West | From Savannah Road to Market Street | 
+Second Street[Added 7-12-1982] | West | From Market Street to Mulberry Street | 
+Shipcarpenter Street | North | From Third Street to Front Street | 
+Vickers Avenue | West | From Savannah Road to Market Street | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.31284745699009053
+Cedar Avenue | Both | Entire length | 
+Dewey Avenue | Both | From Kings Highway to Savannah Road | 
+Kings Highway | Both | From City limits to Savannah Road | 
+Ocean View Boulevard | Both | From West Fourth Street to Canary Drive | 
+Savannah Road | Both | From City limits to Cape Henlopen Drive | 
+Second Street | Both | Entire length | 
+West Fourth Street | Both | From New Road to Savannah Road | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.3096984521871415
+Market Street[Added 10-14-1991] | East | From a point south 48 feet from the intersection of Second Street
+and Market Street | All times | 
+Market Street | West | First parking place next to the Lewes and Rehoboth Canal | 9:00 a.m. to 6:00 p.m., prevailing time, Monday through Saturday,
+both days inclusive, from April 1 to October 31 | 
+Municipal Parking Lot (Front Street)[Added 2-10-1992] | North | Second parking space east of the most westerly curbline of the
+parking lot, perpendicular to the L & R Canal | All times | 
+Savannah Road[Added 10-16-2000] | West | In front of Parcel 63 as shown on Sussex County Tax Map 3-34-8.08 | 7:00 a.m. to 4:00 p.m. | 
+West Third Street[Added 3-13-1995; amended 6-12-1995] | South | 101 feet west of the westerly lateral curbline of Savannah Road | 8:00 a.m. to 4:00 p.m. Monday through Saturday | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.3036219840227788
+Bay Avenue (Beach Parking Lot at end of Savannah Road) | Entire parking lot | Beach Parking Lot | 
+Front Street | North | City Parking Lot | 
+Market Street | West | Front Street to Second Street | 
+Second Street[Added 7-12-1982] | South | From Market Street to Mulberry Street | 
+Second Street | South | Savannah Road to Market Street | 
+
+
+dl      disposition list
+https://ecode360.com/7035966
+0.29848227529877847
+2-11-2019 | Building Code Amendment; Subdivision and Land Development Amendment;
+Zoning Amendment | Ch. 70; Ch. 170; Ch. 197 | 4 | 
+5-13-2019 | Zoning Amendment | Ch. 197 | 4 | 
+6-24-2019 | Water and Sewer Connections: Water Meters Amendment; Sewer Lateral
+Installation, Maintenance and Repair Amendment | Ch. 191, Art. I; Ch. 191, Art. II | 4 | 
+8-12-2019 | Zoning Amendment | Ch. 197 | 4 | 
+10-7-2019 | Subdivision and Land Development Amendment | Ch. 170 | 4 | 
+11-4-2019 | Zoning Amendment | Ch. 197 | 5 | 
+4-13-2020 | Vehicles and Traffic Amendment | Ch. 183 | 5 | 
+7-13-2020 | Beneficial Use Appeals | Ch. 64 | 5 | 
+7-13-2020 | Vehicles and Traffic Amendment | Ch. 183 | 5 | 
+8-6-2020 | Charter Amendment | § 29 | 5 | 
+9-14-2020 | Zoning Amendment | Ch. 197 | 6 | 
+9-14-2020 | Elections Amendment | Ch. 3 | 6 | 
+10-12-2020 | Zoning Amendment | Ch. 197 | 6 | 
+11-9-2020 | Zoning Amendment | Ch. 197 | 6 | 
+12-14-2020 | Zoning Amendment | Ch. 197 | 6 | 
+12-14-2020 | Environmental Protection; Littering Repealer; Outdoor Smoking
+in Public Places Repealer | Ch. 95; Ch. 121; Ch. 137 | 6 | 
+12-14-2020 | General Provisions: Delegations and Clarifications of Authority | Ch. 1, Art. IV | 6 | 
+2-8-2021 | Zoning Map Amendment | NCM | 6 | 
+2-8-2021 | Comprehensive Plan | NCM | 6 | 
+2-11-2021 | Parks and Recreation Commission Amendment | Ch. 40 | 6 | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.29135258878276293
+East Third Street[Added 9-9-1996] | South | In front of Parcel 91, as shown on Sussex County Tax Map 3.35-8.08 | 
+Market Street[Added 6-14-1993] | East | In front of Parcel 36, as shown on Sussex County Tax Map 3-35-8.08 | 
+West Third Street | North | In front of Parcel 37, as shown on Sussex County Tax Map 3-35-8.08 | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.2872841829946975
+Anglers Road[Added 10-18-2004] | 15 | Entire length | 
+Bay Avenue[Amended 11-14-2011] | 10 | Entire length | 
+Beach Plum Drive[Added 6-13-1994] | 15 | Entire length | 
+Beach Plum Place[Added 6-13-1994] | 15 | Entire length | 
+Cape Henlopen Drive | 35 | South 500 feet west of Freeman Highway, eastbound | 
+Cape Henlopen Drive | 35 | North and south of Tennessee Avenue, westbound and eastbound | 
+Cape Henlopen Drive | 45 | Lewes Ferry, eastbound | 
+Cape Henlopen Drive | 35 | North 500 feet east of Lewes Ferry, westbound | 
+Cape Henlopen Drive | 45 | South 1/4 mile west of State Park, eastbound | 
+Cape Henlopen Drive | 45 | South 300 feet west of Cape Henlopen State Park, eastbound | 
+Cape Henlopen Drive | 35 | East- and westbound from 500 feet west of Freeman Highway to
+500 feet east of Ferry Terminal | 
+Cape Henlopen Drive | 45 | East- and westbound from 500 feet east of Ferry Terminal to
+entrance of Cape Henlopen State Park | 
+Coleman Avenue[Added 9-12-2011] | 15 | Entire length | 
+Freeman Highway[Amended 5-14-2018] | 40 | From Cape Henlopen Drive to a point 1,050 feet east of Kings
+Highway | 
+Freeman Highway | 35 | From Kings Highway to a point 1,050 feet east of Kings Highway,
+southbound | 
+Freeman Highway | 35 | From Kings Highway to a point 1,050 feet east of Kings Highway,
+northbound | 
+Jefferson Avenue[Added 6-9-2008] | 15 | Entire length | 
+Kings Highway | 35 | From Freeman Highway, southbound to City limits | 
+Kings Highway | 35 | From the City limits to Freeman Highway, northbound | 
+Savannah Road | 20 | From a point 500 feet south of Sussex Drive to McFee Street | 
+Sussex Drive | 20 | From Savannah Road to City limits | 
+Washington Avenue[Added 7-9-1984] | 15 | From end of street, railroad track, to Kings Highway westbound | 
+Washington Avenue[Added 7-9-1984] | 15 | From Kings Highway eastbound to end of street, railroad track | 
+
+
+iv      improvement specifications and design standards for major subdivisions
+https://ecode360.com/7033895
+0.27903646041340235
+ | Hot-mix asphalt Type C | 1 1/2 | 2 | 0.4(0.35) | 
+ | Hot-mix asphalt Type B | 2 | 3 | 0.4(0.35) | 
+ | Bituminous concrete base course (BCBC) | 3 | 6 | 0.32(0.29) | 
+ | GABC | - | 8 | 0.14(0.14) | 
+
+
+ix      environmental protection regulations
+https://ecode360.com/7035463
+0.27381591453857
+Figure 1 - Wetlands Buffer Zones Ex. NTS | 
+
+
+iv      improvement specifications and design standards for major subdivisions
+https://ecode360.com/7033895
+0.2715143592935716
+ | * | Measured to the toe of curb. | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.24817666522476833
+East Third Street and Rodaline Avenue[Repealed 4-13-2020] |  | 
+Railroad Avenue and Washington Avenue | Railroad Avenue, northeast side | 
+West Third Street and Queen Ann Avenue[Added 4-13-1992] | West Third Street, north side | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.24314325854427443
+Cape Henlopen Drive East[Added 6-9-1986] | East | All times | From Savannah Road to a point where the extension of the southerly
+boundary line of Pilot Point intersects with Cape Henlopen Drive | 
+Cape Henlopen Drive West[Added 6-9-1986] | West | All times | From Savannah Road to Freeman Highway | 
+Freeman Highway | Both | All times | From a point 2,110 feet west of Cape Henlopen Drive to a point
+4,225 feet west of Cape Henlopen Drive | 
+
+
+v      street reconstruction standards
+https://ecode360.com/7033461
+0.2353162961150837
+ | A | 1 to 25 | 2.20 | 2.80 | 
+ | B | 26 to 50 | 2.50 | 3.20 | 
+ | C | 51 to 100 | 2.80 | 3.50 | 
+ | D | 101 to 200 | 3.20 | 4.00 | 
+ | E | 201 to 300 | 3.60 | 4.40 | 
+
+
+v      street reconstruction standards
+https://ecode360.com/7033461
+0.23393444870237476
+*NOTE: Class E requires a detailed pavement design. | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.22277648775657796
+Main Avenue | North | 11:00 p.m. and 6:00 a.m. | From Cedar Street and to Bay Avenue[1] | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.1958650906822271
+Westbound traffic on Gills Neck Road, eastbound traffic on First
+Street and north- and southbound traffic on Savannah Road at the intersection
+of Savannah Road and First Street and Gills Neck Road | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.17945963967170442
+East Fourth Street | 8,500 | Entire length | 
+McFee Street | 8,500 | Entire length | 
+Monroe Avenue | 8,500 | Entire length | 
+
+
+xvi      shared streets
+https://ecode360.com/31659364
+0.16695774571685118
+Bay Avenue | From East Savannah Road to Maine Avenue | 
+Neils Alley | From Front Street to 2nd Street | 
+
+
+trees
+https://ecode360.com/7034131
+0.1500982156595051
+Less than 6 | 1 | 1-3/4 | 
+6 to 9 | 1 | 1-3/4 | 
+9 to 12 | 2 | 1-3/4 | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.12953837643214372
+1812 Park (situated between Front Street and Lewes and Rehoboth
+Canal)[Added 11-13-2006] | All | 3 hrs.; 9:00 a.m. to 6:00 p.m./Monday through Friday, May 1
+through October 14 | All | 
+1812 Park (situate between Front Street and Lewes and Rehoboth
+Canal)[Added 9-10-2007; amended 10-15-2007; 12-30-2011] | All | 3 hrs.; 9:00 a.m. to 6:00 p.m./October 15 through April 30 | Canal side of lot | 
+Bank Street | East | 15 mins.; all times | Beside post office | 
+Bank Street[Added 2-9-2004; amended 11-13-2006; 3-18-2019] | East | 3 hrs.; 9:00 a.m. to 6:00 p.m./Monday through Sunday | From Second Street to the exit curb of property located at 3-35-8.08-027.00 | 
+Bank Street[Added 2-9-2004; amended 3-18-2019] | East | 30 mins.; all times | Parking Meter No. 33 fronting 111 Bank Street (3-35-8.08-026.01) | 
+Beach No. 1 Parking Lot (situated at the end of Savannah Road,
+fronting on the beach strand adjacent to the Delaware Bay)[Added 11-13-2006] | All | 9:00 a.m. to 6:00 p.m./Monday through Sunday, May 1 through
+September 30 | Entire lot | 
+Beach No. 2 Parking Lot (situated at the north end of Cape Henlopen
+Drive from a point 1,289 feet east of the Savannah Road and Cape Henlopen
+Drive intersection) | All | 9:00 a.m. to 6:00 p.m./Monday through Sunday, May 1 through
+September 30 | Entire lot | 
+Cape Henlopen Drive[Added 8-9-1992; amended 8-9-1993; repealed 1-8-2001] |  |  |  | 
+Cape Henlopen Drive[Added 4-13-1992; repealed 1-8-2001] |  |  |  | 
+Cape Henlopen Drive[Added 4-13-1992; repealed 1-8-2001] |  |  |  | 
+Chestnut Street[Added 7-13-1998; repealed 11-19-2001] |  |  |  | 
+Dewey Avenue[Added 1-8-2007] | South | 8:00 a.m. to 12:00 noon on Sundays for church parking only | 4 spaces, south side of Dewey Avenue east of the intersection
+of Dewey Avenue with Savannah Road | 
+East Fourth Street[Added 7-11-1994] | North | 15 mins.; 9:00 a.m. to 5:00 p.m./Monday through Friday | From a point 24 feet east of the easterly lateral curbline of
+Savannah Road, a distance of 35 feet east of that point | 
+East Third Street[Added 7-9-2007] | South | 2 hrs.; 8:00 a.m. to 5:00 p.m./Monday through Friday | In front of City Hall | 
+East Third Street[Added 9-10-1990] | South | 2 hrs.; 8:00 a.m. to 5:00 p.m. prevailing time/Monday through
+Saturday | From the intersection of East Third Street with King's Highway
+easterly to the westerly line of the driveway leading into the City
+Hall | 
+Front Street[Added 8-8-2005; repealed 5-15-2006] |  |  |  | 
+Front Street[Added 12-8-1997; amended 3-18-2019] | South | 30 mins.; all times | From a point 15 feet east of Neils Alley extending 66 feet in
+an easterly direction; Meter Nos. 34, 35, 36 | 
+Front Street | South | 15 mins.; all times | From Neils Alley to Bank Street | 
+Kings Highway[Added 1-12-1998] | West | 2 hrs.; 10:00 a.m. to 5:00 p.m. prevailing time/Monday through
+Friday | From a point 122 feet south of Savannah Road a distance of 165
+feet south of that point | 
+Manila Avenue[Added 4-13-1992] | North | 30 mins.; all times | From a point 46 feet east of the easterly lateral curbline of
+Savannah Road, a distance of 71 feet east of that point | 
+Market Street[Added 2-9-2004; amended 11-13-2006; 3-18-2019] | East and west | 3 hrs.; 9:00 a.m. to 6:00 p.m./Monday through Sunday | From Second Street to the Lewes and Rehoboth Canal | 
+Market Street[Added 4-14-2003] | East | 30 mins.; all times | Parking Meter No. 26 fronting 109 Market Street (Tax Map 3-35-8.08-30) | 
+Market Street[Added 7-13-1998; repealed 11-19-2001] |  |  |  | 
+Mulberry Street[Added 7-13-1998; repealed 11-19-2001] |  |  |  | 
+Municipal Parking Lot[Added 8-13-1990; repealed 11-19-2001] |  |  |  | 
+Savannah Road | East | 2 hrs.; all times | From a point 100 feet south of School Lane to a point 200 feet
+north of DeVries Circle | 
+Savannah Road[Added 4-13-1987] | East | 15 mins.; all times | From a point north 43 feet from the intersection of East Fourth
+Street | 
+Savannah Road[Added 10-12-1981; amended 7-12-1999] | East and west | 15 mins.; all times | From a point 50 feet south from the intersection of Cedar Street
+to Massachusetts Avenue | 
+Second Street[Added 5-10-1993; repealed 6-14-1993] |  |  |  | 
+Second Street[Added 3-13-1995; amended 12-8-1997; 3-8-1999; 11-19-2001; 11-13-2006; 3-18-2019] | North | 30 mins.; 9:00 a.m. to 6:00 p.m./Monday through Sunday, May
+1 through October 14 | Parking Meter No. 45 | 
+Second Street[Added 9-11-2000; amended 9-10-2001; 11-13-2006; 3-18-2019] | North and south | 3 hrs.; 9:00 a.m. to 6:00 p.m./Monday through Sunday, January
+1 through December 31 | From Savannah Road to Market Street | 
+Second Street[Added 3-13-1995; amended 12-8-1997; 3-8-1999; 11-19-2001; 11-13-2006; 3-18-2019] | South | 30 mins.; 9:00 a.m. to 6:00 p.m./Monday through Sunday, May
+1 through October 14 | Parking Meter No. 70 | 
+Second Street[Added 3-13-1995; amended 12-8-1997; 3-8-1999; 11-19-2001; 11-13-2006; repealed 3-18-2019] |  |  |  | 
+West Third Street[Repealed 7-13-1987] |  |  |  | 
+West Third Street[Added 8-8-2005; repealed 5-15-2006] |  |  |  | 
+West Third Street[Added 9-11-1995; amended 3-18-2019] | South | 30 mins.; all times | From a point 98 feet east of the easterly lateral curbline of
+Market Street for a distance of 18 feet east of that point, Meter
+No. 6 | 
+West Third Street[Added 4-9-1990; amended 3-18-2019] | South | 30 mins.; all times | From a point west 168 feet from the intersection of Savannah
+Road and West Third Street, Meter No. 2 | 
+West Third Street[Added 6-10-1991; amended 3-18-2019] | South | 3 hrs.; 9:00 a.m. to 6:00 p.m. | From a point west 250 feet from the intersection of Savannah
+Road and West Third Street | 
+
+
+vii      off street parking and loading
+https://ecode360.com/7035227
+0.12677600969326153
+ | Width | 12 | 10 | 
+ | Depth | 40 | 25 | 
+ | Vertical clearance | 14 | 8 | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.03577993645939098
+(Reserved) | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.03577993645939098
+(Reserved) | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.03577993645939098
+(Reserved) | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+0.03577993645939098
+(Reserved) | 
+
+
+xvi      definitions
+https://ecode360.com/7035845
+-0.11149116328136835
+ | 
+
+
+xvi      definitions
+https://ecode360.com/7035845
+-0.11149116328136835
+ | 
+
+
+xvi      definitions
+https://ecode360.com/7035845
+-0.11149116328136835
+ | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+-0.11287296562605076
+Anglers Road | Northeast | From Savannah Road to Market Street | 
+Bank Street | West | Entire length | 
+Bayview Avenue[Amended 8-10-2009] | North | From Market to Savannah Road | 
+Bayview Avenue[Added 8-10-2009] | South | From a distance of 35 feet northeasterly from Market Street
+around curve | 
+Beebe Avenue | Both | From Kings Highway to a point 20 feet west | 
+Beebe Avenue | Both | From Savannah Road to a point 30 feet east | 
+Cape Henlopen Drive | North | From a point 1,300 feet from the intersection of Savannah Road
+to Cape Henlopen State Park | 
+Chestnut Street[Added 11-17-2008] | North | From Fourth Street to Orr Street | 
+Coleman Avenue | Both | From approximately 100 feet from Kings Highway west to Savannah
+Road | 
+DeVries Circle | Northeast | For a distance of 100 feet east from Savannah Road | 
+East Third Street[Repealed 7-12-1993] |  |  | 
+Front Street | North | From Market Street to Shipcarpenter Street | 
+Front Street | North | From Neils Alley to Market Street | 
+Front Street | South | From Market Street to Bank Street | 
+Front Street | South | From Market Street to Shipcarpenter Street | 
+Front Street | South | From Shipcarpenter Street to a point 100 feet east | 
+Gills Neck Road[Added 6-8-1998; amended 7-13-1998] | South | From a point 765 feet east from the intersection of Savannah
+Road to the railroad tracks | 
+Kings Highway | East | Entire length | 
+Kings Highway | West | From Savannah Road to a point 80 feet south of Savannah Road | 
+Manila Avenue[Added 3-12-1990] | South | From a point 288 feet from the intersection of Savannah Road
+and Manila Avenue to a point 488 feet east | 
+Market Street[Added 10-11-1983] | East | From the property line of the Beebe Medical Center north to
+West Fourth Street | 
+Market Street | East | From Front Street to Lewes and Rehoboth Canal | 
+Market Street[Repealed 5-12-2003] |  |  | 
+Market Street[Added 5-12-2003] | East | From Second Street to a point 120 feet north of Second Street | 
+Market Street | West | From a point 100 feet south of Front Street to Second Street | 
+Market Street[Repealed 10-11-1993] |  |  | 
+Michigan Avenue | East | From Cedar Street to Bay Avenue | 
+Neils Alley | Both | Entire length | 
+New Hampshire Avenue[Added 5-19-2014] | West | Entire length | 
+New Jersey Avenue[Added 7-13-2020] | West | Entire length | 
+Ohio Avenue[Added 5-19-2014] | East | Entire length | 
+Oregon Avenue[Added 5-19-2014] | East | Entire length | 
+Park Avenue[Amended 9-13-1993; repealed 10-11-2010] |  |  | 
+Park Avenue[Added 9-13-1993; repealed 5-15-2006] |  |  | 
+Pilottown Road | North | From Shipcarpenter Street to a point 1,000 feet west | 
+Rhode Island Avenue[Added 7-13-2020] | West | Entire length | 
+Savannah Road[Added 10-20-2008; amended 1-12-2009] | East | From American Legion Road to a point 65 feet south | 
+Savannah Road | East | From Anglers Road to a point 300 feet south of Third Street | 
+Savannah Road | East | From Bayview Avenue to a point 160 feet north | 
+Savannah Road | East | From Beebe Avenue to Dewey Avenue | 
+Savannah Road[Added 6-14-1999] | East | From Manila Avenue to a point 54 feet south | 
+Savannah Road | West | From Bayview Avenue to Bay Avenue | 
+Savannah Road | West | From Massachusetts Avenue to a point 300 feet south | 
+Savannah Road | West | From a point 100 feet south of McFee Street to Sussex Drive | 
+Savannah Road | West | From Orr Street to 100 feet south of Fourth Street | 
+Savannah Road[Repealed 7-14-2003] |  |  | 
+Savannah Road[Added 7-14-2003] | West | From West Fourth Street to a point 878 feet south | 
+Savannah Road | West | From West Third Street to a point 185 feet south | 
+Shipcarpenter Street | West | From Second Street to Front Street | 
+Vermont Avenue[Added 5-19-2014] | West | Entire length | 
+Vickers Avenue[Repealed 7-14-2003] |  |  | 
+Virginia Avenue | Both | From Bayview Avenue to Cape Henlopen Drive | 
+Washington Avenue, Lewes Beach | West | From Cedar Street to Bay Avenue | 
+West Fourth Street | North | From Park Avenue west to Burton Avenue | 
+West Fourth Street[Amended 9-13-1993] | North | From a point 111 feet west of the west lateral curbline of Savannah
+Road to Park Avenue except during scheduled church services | 
+West Third Street | North | From Savannah Road to Park Avenue, except on spot designated
+in time limit parking | 
+
+
+xii      schedules
+https://ecode360.com/7034372
+-1.3697801934095482
+Adams Avenue and Kings Highway | Adams Avenue, north side | 
+Alley between Midland Avenue and Market Street and Bay Avenue | Alley, east side | 
+Alley between Midland Avenue and Savannah Road and Bay Avenue | Alley, west side | 
+American Legion Road and Savannah Road | American Legion Road, north side | 
+Bank Street and Front Street | Bank Street, east and west sides | 
+Bay Avenue and California Avenue[Added 8-10-1987] | Bay Avenue, north side | 
+Bay Avenue and Delaware Avenue[Added 8-10-1987] | Bay Avenue, north side | 
+Bay Avenue and East Canal Street[Repealed 8-10-1987] |  | 
+Bay Avenue and Illinois Avenue[Added 8-10-1987] | Bay Avenue, north side | 
+Bay Avenue and Iowa Avenue[Repealed 8-10-1987] |  | 
+Bay Avenue and Kentucky Avenue[Repealed 8-10-1987] |  | 
+Bay Avenue and Market Street | Bay Avenue, north side | 
+Bay Avenue and Massachusetts Avenue | Bay Avenue, north side | 
+Bay Avenue and Nebraska Avenue[Added 8-10-1987] | Bay Avenue, north side | 
+Bay Avenue and New Hampshire Avenue | Bay Avenue, north side | 
+Bay Avenue and New York Avenue | Bay Avenue, north side | 
+Bay Avenue and Ohio Avenue[Added 8-10-1987] | Bay Avenue, north side | 
+Bay Avenue and Oregon Avenue[Added 8-10-1987] | Bay Avenue, north side | 
+Bay Avenue and unnamed street | Bay Avenue, north side | 
+Bay Avenue and West Canal Avenue[Added 8-10-1987] | Bay Avenue, north side | 
+Bayview Avenue and Midland Avenue | Bayview Avenue, west side | 
+Bayview Avenue and Savannah Road | Bayview Avenue, south side | 
+Beach House and Cedar Street | Beach House, west side | 
+Beach No. 2 and Cape Henlopen Drive | Beach No. 2, west side | 
+Beebe Avenue and Kings Highway | Beebe Avenue, south side | 
+Beebe Avenue and Savannah Road | Beebe Avenue, north side | 
+Bradley Lane and West Third Street | Bradley Lane, south side | 
+Burton Avenue and West Fourth Street extended[Added 5-13-1991] | Burton Avenue, northwest side | 
+Burton Avenue and West Fourth Street extended[Added 5-13-1991] | Burton Avenue, southeast side | 
+Burton Avenue and West Third Street | Burton Avenue, east side | 
+California Avenue and Cedar Street | California Avenue, west side | 
+Camden Avenue and Cedar Street | Camden Avenue, east side | 
+Cedar Street and Savannah Road | Cedar Street, south side | 
+Chestnut Street and Orr Street[Amended 6-13-2005] | Chestnut Street, east side | 
+Chestnut Street and West Fourth Street[Repealed 6-13-2005] |  | 
+Chestnut Street and West Third Street | Chestnut Street, east side | 
+Church Street and Market Street | Church Street, south side | 
+Church Street and Mulberry Street | Church Street, north side | 
+Clayton Avenue and Cedar Street | Clayton Avenue, east side | 
+Coleman Avenue and Kings Highway | Coleman Avenue, south side | 
+Coleman Avenue and Savannah Road | Coleman Avenue, north side | 
+Connecticut Avenue and Cedar Street | Connecticut Avenue, west side | 
+Delaware Avenue and Cedar Street | Delaware Avenue, west side | 
+DeVries Circle and Kings Highway | DeVries Circle, south side | 
+DeVries Circle and Savannah Road | DeVries Circle, north side | 
+Dewey Avenue and Kings Highway | Dewey Avenue, south side | 
+Dewey Avenue and Savannah Road | Dewey Avenue, north side | 
+Dupont Avenue and Johnson Avenue[Added 8-10-1992] | Dupont Avenue, southeast and northwest sides | 
+Dupont Avenue and West Fourth Street | Dupont Avenue, east side | 
+East Canal Street and Cedar Street | East Canal Street, west side | 
+East Fourth Street and Kings Highway | East Fourth Street, south side | 
+East Third Street and Rodaline Avenue[Added 4-13-2020] | East Third Street, southwest side | 
+Felton Avenue and Cedar Street | Felton Avenue, east side | 
+Fourth Street and Market Street | Fourth Street, north side | 
+Franklin Avenue and Kings Highway | Franklin Avenue, north side | 
+Franklin Avenue and Schley Avenue | Franklin Avenue, south side | 
+Freeman Highway and Cape Henlopen Drive | Freeman Highway, north side | 
+Front Street and Savannah Road[Repealed 5-13-1991] |  | 
+Gills Neck Road and Savannah Road | Gills Neck Road, north side | 
+Hoornkill Avenue and Pilottown Road[Amended 5-13-1991] | Hoornkill Avenue, southeast side | 
+Illinois Avenue and Cedar Street | Illinois Avenue, west side | 
+Indiana Avenue and Cedar Street | Indiana Avenue, west side | 
+Iowa Avenue and Bay Avenue | Iowa Avenue, east and west sides | 
+Iowa Avenue and Cedar Street | Iowa Avenue, east and west sides | 
+Jefferson Avenue and Kings Highway | Jefferson Avenue, north side | 
+Johnson Avenue and Dupont Avenue | Johnson Avenue, north and south sides | 
+Kentucky Avenue and Cedar Street | Kentucky Avenue, west side | 
+Kings Highway and Freeman Highway | Kings Highway, north side | 
+Kings Highway and Savannah Road | Kings Highway, north side | 
+Lewes Avenue and Cedar Street | Lewes Avenue, east side | 
+Madison Avenue and King's Highway | Madison Avenue, north side | 
+Maine Avenue and Cedar Street | Maine Avenue, west side | 
+Manila Avenue and Kings Highway | Manila Avenue, south side | 
+Manila Avenue and Savannah Road | Manila Avenue, north side | 
+Market Street and Anglers Road | Market Street, west side | 
+Market Street and Cedar Street | Market Street, east and west sides | 
+Market Street and Front Street | Market Street, east and west sides | 
+Market Street and Massachusetts Avenue | Market Street, east and west sides | 
+Market Street and the pedestrian crosswalk[Added 9-12-2011] | Market Street, north and south sides between Second Street and
+Front Street | 
+Market Street and West Fourth Street | Market Street, east and west sides | 
+Market Street and West Third Street | Market Street, east and west sides | 
+Massachusetts Avenue and Cedar Street | Massachusetts Avenue, east and west sides | 
+Massachusetts Avenue and Savannah Road | Massachusetts Avenue, south side | 
+McFee Street and Kings Highway | McFee Street, south side | 
+McFee Street and Savannah Road | McFee Street, north side | 
+Michigan Avenue and Cedar Street | Michigan Avenue, west side | 
+Midland Avenue and Bay Avenue | Midland Avenue, east side | 
+Midland Avenue and Cedar Street | Midland Avenue, east and west sides | 
+Midland Avenue and Massachusetts Avenue | Midland Avenue, west side | 
+Missouri Avenue and Cedar Street | Missouri Avenue, west side | 
+Monroe Avenue and Freeman Highway | Monroe Avenue, north and south sides | 
+Monroe Avenue and Kings Highway | Monroe Avenue, north side | 
+Monroe Avenue and Railroad Avenue[Added 7-11-1988] | Monroe Avenue, north and south sides | 
+Mulberry Street and Second Street | Mulberry Street, east side | 
+Mulberry Street and West Fourth Street[Added 8-11-2008] | Mulberry Street, east side | 
+Mulberry Street and West Fourth Street | Mulberry Street, west side | 
+Mulberry Street and West Third Street | Mulberry Street, east and west sides | 
+Mulberry Street extension and West Fourth Street | Mulberry Street extension, east side | 
+Nebraska Avenue and Cedar Street | Nebraska Avenue, west side | 
+Neils Alley and Second Street | Neils Alley, southwest side | 
+Newark Avenue and Cedar Street | Newark Avenue, east side | 
+New Hampshire Avenue and Cedar Street | New Hampshire Avenue, west side | 
+New Jersey Avenue and Cedar Street | New Jersey Avenue, west side | 
+New Road and Pilottown Road[Amended 5-13-1991] | New Road, southeast side | 
+New York Avenue and Cedar Street | New York Avenue, west side | 
+Odessa Avenue and Cedar Street | Odessa Avenue, east side | 
+Ohio Avenue and Cedar Street | Ohio Avenue, west side | 
+Oregon Avenue and Cedar Street | Oregon Avenue, west side | 
+Orr Street and Chestnut Street | Orr Street, north side | 
+Orr Street and Savannah Road | Orr Street, south side | 
+Park Avenue and West Fourth Street[Added 5-13-1991] | Park Avenue, southeast and northwest sides | 
+Park Avenue and West Third Street | Park Avenue, east side | 
+Paynter Avenue and Johnson Avenue | Paynter Avenue, west side | 
+Paynter Avenue and West Fourth Street | Paynter Avenue, east side | 
+Pennsylvania Avenue and Cedar Street | Pennsylvania Avenue, west side | 
+Queen Anne Street and Pilottown Road | Queen Anne Street, east side | 
+Railroad Avenue and Jefferson Avenue | Railroad Avenue, west side | 
+Railroad Avenue and Madison Avenue | Railroad Avenue, northeast side | 
+Railroad Avenue and Monroe Avenue | Railroad Avenue, east and west sides | 
+Rhode Island Avenue and Cedar Street | Rhode Island Avenue, west side | 
+Rodaline Avenue and Gills Neck Road | Rodaline Avenue, east side | 
+Rodaline Avenue and Schley Avenue[Amended 4-13-2020] | Rodaline Avenue, southwest side | 
+Rodney Avenue and Pilottown Road | Rodney Avenue, north side | 
+Saint Paul Street and Mulberry Street extension | Saint Paul Street, south side | 
+Schley Avenue and Gills Neck Road | Schley Avenue, east side | 
+Schley Avenue and Washington Avenue | Schley Avenue, west side | 
+School Lane and Savannah Road | School Lane, north side | 
+Second Street and Shipcarpenter Street | Second Street, east side | 
+Shipcarpenter Square and Park Avenue[Added 6-11-1990] | Shipcarpenter Square, south side | 
+Shipcarpenter Street and Front Street | Shipcarpenter Street, east side | 
+Sussex Drive and Savannah Road | Sussex Drive, south side | 
+Vermont Avenue and Cedar Street | Vermont Avenue, west side | 
+Vickers Avenue and Market Street[Repealed 5-13-1991] |  | 
+Virginia Avenue and Cape Henlopen Drive | Virginia Avenue, west side | 
+Washington Avenue and Kings Highway | Washington Avenue, north side | 
+Washington Avenue (beach) and Cedar Street | Washington Avenue, west side | 
+West Canal Street and Cedar Street | West Canal Street, west side | 
+West Fourth Street and Burton Avenue | West Fourth Street, north side | 
+West Fourth Street and Market Street | West Fourth Street, north and south sides | 
+West Fourth Street and Mulberry Street[Added 8-11-2008] | West Fourth Street, north and south sides | 
+West Fourth Street and Park Avenue | West Fourth Street, north and south sides | 
+West Fourth Street and Savannah Road | West Fourth Street, south side | 
+West Fourth Street extended and Burton Avenue[Added 5-13-1991] | West Fourth Street, southwest side | 
+West Fourth Street extended and Oceanview Boulevard[Added 5-13-1991] | West Fourth Street, northeast and southwest sides | 
+West Third Street and Market Street | West Third Street, north side | 
+West Third Street and Mulberry Street[Added 8-11-2003] | West Third Street, north and south sides | 
+West Third Street and Park Avenue | West Third Street, east side | 
+West Third Street and Savannah Road | West Third Street, south side | 
+
+
+dl      disposition list
+https://ecode360.com/7035966
+-1.7947528280442209
+1-10-2005 | Bicycles amendment | Ch. 65 | 
+2-7-2005 | Charter amendment | § 29 | 
+2-14-2005 | Zoning amendment | Ch. 197 | 
+6-13-2005 | Zoning amendment | Ch. 197 | 
+6-13-2005 | Taxation: gross receipts rental tax amendment | Ch. 172, Art. II | 
+6-13-2005 | Vehicles and traffic amendment | Ch. 183 | 
+6-13-2005 | Vehicles and traffic amendment | Ch. 183 | 
+8-8-2005 | Building construction amendment | Ch. 70 | 
+8-8-2005 | Subdivision and land development amendment | Ch. 170 | 
+8-8-2005 | Vehicles and traffic amendment | Ch. 183 | 
+8-8-2005 | Zoning amendment | Ch. 197 | 
+8-8-2005 | Zoning amendment | Ch. 197 | 
+12-12-2005 | Emergency operations amendment | Ch. 15 | 
+3-20-2006 | Vehicles and traffic amendment | Ch. 183 | 
+4-12-2006 | Charter amendment | § 19 | 
+4-12-2006 | Charter amendment | § 24 | 
+5-15-2006 | Vehicles and traffic amendment | Ch. 183 | 
+5-15-2006 | Vehicles and traffic amendment | Ch. 183 | 
+8-14-2006 | Mercantile licensing: tattoo and body piercing
+establishments | Ch. 128, Art. II | 
+9-11-2006 | Docks | Ch. 86 | 
+10-16-2006 | Zoning amendment | Ch. 197 | 
+11-13-2006 | Vehicles and traffic amendment | Ch. 183 | 
+12-11-2006 | Zoning amendment | Ch. 197 | 
+12-11-2006 | Plumbing amendment | Ch. 145 | 
+12-11-2006 | Water and sewer connections: water meters amendment | Ch. 191, Art. I | 
+12-11-2006 | General provisions: annexation procedure amendment | Ch. 1, Art. II | 
+1-8-2007 | Beaches: activities on beach amendment | Ch. 63, Art. VI | 
+1-8-2007 | Building construction amendment | Ch. 70, Art. I | 
+1-8-2007 | Mercantile licensing amendment | Ch. 128 | 
+1-8-2007 | Subdivision and land development amendment | Ch. 170 | 
+1-8-2007 | Zoning amendment | Ch. 197 | 
+1-8-2007 | Zoning amendment | Ch. 197 | 
+1-8-2007 | Vehicles and traffic amendment | Ch. 183 | 
+2-12-2007 | Zoning amendment | Ch. 197 | 
+3-19-2007 | Mercantile licensing amendment | Ch. 128 | 
+4-5-2007 | Charter amendment | § 28 | 
+4-9-2007 | Subdivision and land development amendment | Ch. 170 | 
+6-11-2007 | Beaches: jet skis amendment | Ch. 63, Art. VIII | 
+7-9-2007 | Building construction amendment | Ch. 70 | 
+7-9-2007 | Building construction amendment | Ch. 70 | 
+7-9-2007 | Vehicles and traffic amendment | Ch. 183 | 
+7-9-2007 | Subdivision and land development amendment | Ch. 170 | 
+8-13-2007 | Garbage, rubbish and refuse amendment | Ch. 106 | 
+8-13-2007 | Activities on beach amendment; open fires on
+beaches amendment | Ch. 63, Art. VI; Ch. 63, Art. VII | 
+9-10-2007 | Subdivision and land development amendment | Ch. 170 | 
+9-10-2007 | Zoning amendment | Ch. 197 | 
+9-10-2007 | Vehicles and traffic amendment | Ch. 183 | 
+10-15-2007 | Vehicles and traffic amendment | Ch. 183 | 
+10-15-2007 | Garbage, rubbish and refuse amendment | Ch. 106 | 
+10-15-2007 | Garbage, rubbish and refuse amendment | Ch. 106 | 
+11-19-2007 | Garbage, rubbish and refuse amendment | Ch. 106 | 
+12-10-2007 | Streets and sidewalks: maintenance and repair
+amendment | Ch. 167, Art. II | 
+1-14-2007 | Elections | Ch. 3 | 
+1-14-2008 | Loitering amendment | Ch. 123 | 
+3-17-2008 | Vehicles and traffic amendment | Ch. 183 | 
+3-17-2008 | Zoning amendment | Ch. 197 | 
+6-9-2008 | Vehicles and traffic amendment | Ch. 183 | 
+6-26-2008 | Charter amendment | §§ 3; 5; 6; 7; 8; 9; 29; 31 | 
+7-14-2008 | Community events | Ch. 80 | 
+7-14-2008 | Parks and Recreation Commission amendment | Ch. 40 | 
+8-11-2008 | Vehicles and traffic amendment | Ch. 183 | 
+9-8-2008 | Zoning amendment | Ch. 197 | 
+10-20-2008 | Parks and Recreation Commission amendment | Ch. 40 (history only) | 
+10-20-2008 | Vehicles and traffic amendment | Ch. 183 | 
+11-17-2008 | Subdivision and land development amendment | Ch. 170 | 
+11-17-2008 | Vehicles and traffic amendment | Ch. 183 | 
+1-12-2009 | Vehicles and traffic amendment | Ch. 183 | 
+2-9-2009 | Littering amendment | Repealed 12-14-2020 | 
+2-13-2009 | Vehicles and traffic amendment | Ch. 183 | 
+3-9-2009 | Zoning amendment | Ch. 197 | 
+4-9-2009 | Charter amendment | § 14 | 
+4-9-2009 | Charter amendment | § 20A | 
+4-20-2009 | Vehicles and traffic amendment | Ch. 183 | 
+4-20-2009 | Taxation: gross receipts rental tax amendment | Ch. 172, Art. II | 
+4-20-2009 | Mercantile licensing amendment | Ch. 128 | 
+4-20-2009 | Code of Conduct amendment | Ch. 9 | 
+6-8-2009 | Vehicles and traffic amendment | Ch. 183 | 
+8-10-2009 | Vehicles and traffic amendment | Ch. 183 | 
+9-14-2009 | Outdoor smoking in public places | Repealed 12-14-2020 | 
+10-19-2009 | Subdivision of land amendment | Ch. 170 | 
+10-19-2009 | Subdivision of land amendment | Ch. 170 | 
+10-19-2009 | Vehicles and traffic amendment | Ch. 183 | 
+1-11-2010 | Building construction: general provisions amendment | Ch. 70, Art. I | 
+1-11-2010 | Zoning amendment | Ch. 197 | 
+1-11-2010 | Zoning amendment | Ch. 197 | 
+4-12-2010 | Garbage, rubbish and refuse amendment | Ch. 106 | 
+8-9-2010 | Zoning amendment | Ch. 197 | 
+10-11-2010 | Vehicles and traffic amendment | Ch. 183 | 
+11-8-2010 | Property maintenance amendment | Ch. 148 | 
+2-7-2011 | Planning Commission amendment | Ch. 33 | 
+3-8-2011 | Zoning amendment | Ch. 197 | 
+5-9-2011 | Vehicles and traffic amendment | Ch. 183 | 
+7-11-2011 | Zoning amendment | Ch. 197 | 
+9-12-2011 | Vehicles and traffic amendment | Ch. 183 | 
+9-12-2011 | Vehicles and traffic amendment | Ch. 183 | 
+9-12-2011 | Vehicles and traffic amendment | Ch. 183 | 
+10-13-2011 | Zoning amendment | Ch. 197 | 
+11-14-2011 | Vehicles and traffic amendment | Ch. 183 | 
+12-30-2011 | Vehicles and traffic amendment | Ch. 183 | 
+1-9-2012 | Garbage, rubbish and refuse amendment | Ch. 106 | 
+7-18-2012 | Charter amendment | §§ 7; 14 | 
+7-9-2012 | Zoning amendment | Ch. 197 | 
+12-10-2012 | Access to public records repealer | Ch. 37, reference only | 
+3-18-2013 | Vehicles and traffic amendment | Ch. 183 | 
+5-20-2013 | Zoning amendment | Ch. 197 | 
+5-20-2013 | Zoning amendment | Ch. 197 | 
+5-20-2013 | Zoning amendment | Ch. 197 | 
+6-10-2013 | Zoning amendment | Ch. 197 | 
+6-10-2013 | Vehicles and traffic amendment | Ch. 183 | 
+8-12-2013 | Dwelling units repealer | Ch. 90, reference only | 
+8-12-2013 | Mercantile licensing amendment | Ch. 128 | 
+8-12-2013 | Property Maintenance Code | Ch. 148 | 
+8-12-2013 | Zoning amendment | Ch. 197 | 
+10-21-2013 | Subdivision and land development | Ch. 170 | 
+10-21-2013 | Zoning amendment | Ch. 197 | 
+10-21-2013 | Zoning amendment | Ch. 197 | 
+12-9-2013 | Zoning amendment | Ch. 197 | 
+1-13-2014 | Building construction: general provisions amendment | Ch. 70, Art. I | 
+2-10-2014 | Vehicles and traffic amendment | Ch. 183 | 
+5-19-2014 | Vehicles and traffic amendment | Ch. 183 | 
+10-6-2014 | Water and sewer connections: sewer lateral installation, maintenance
+and repair | Ch. 191, Art. II | 
+11-10-2014 | Brush, grass and weeds repealer; unsafe buildings repealer;
+mechanical standards repealer | Ch. 68; Ch. 76; Ch. 127 (reference only) | 
+11-10-2014 | Building Code; numbering of buildings amendment | Ch. 70; Ch. 73 | 
+11-10-2014 | Property maintenance amendment | Ch. 148 | 
+11-10-2014 | Subdivision and land development amendment | Ch. 170 | 
+12-8-2014 | Outdoor smoking in public places amendment | Repealed 12-14-2020 | 
+12-16-2014 | Building Code amendment | Ch. 70 | 
+12-16-2014 | Zoning amendment | Ch. 197 | 
+1-12-2015 | Subdivision and land development amendment | Ch. 170 | 
+1-12-2015 | Zoning amendment | Ch. 197 | 
+2-5-2015 | Zoning amendment | Ch. 197 | 
+2-9-2015 | Zoning Map amendment | NCM | 
+7-13-2015 | Firearms and explosives amendment | Ch. 97 | 
+8-4-2015 | Charter amendment | §§ 2, 3, 4, 6, 7, 12, 29 | 
+11-9-2015 | Zoning amendment | Ch. 197 | 
+11-9-2015 | Zoning amendment | Ch. 197 | 
+5-9-2016 | Zoning amendment | Ch. 197 | 
+6-13-2016 | Parks and Recreation Commission amendment | Ch. 40 | 
+6-13-2016 | Animals: felines amendment | Ch. 59, Art. II | 
+7-11-2016 | Zoning amendment | Ch. 197 | 
+7-11-2016 | Zoning amendment | Ch. 197 | 
+10-17-2016 | Vehicles and traffic amendment | Ch. 183 | 
+2-13-2017 | Planning Commission amendment | Ch. 33 | 
+5-8-2017 | Vehicles and traffic amendment | Ch. 183 | 
+5-8-2017 | Zoning Map amendment | NCM | 
+5-8-2017 | Zoning amendment | Ch. 197 | 
+8-14-2017 | General provisions: City Committees, Boards and Commissions | Ch. 1, Art. III | 
+8-14-2017 | Zoning amendment | Ch. 197 | 
+8-30-2017 | Charter amendment | §§ 3, 40 | 
+9-11-2017 | Zoning amendment | Ch. 197 | 
+2-12-2018 | Zoning Map amendment | NCM | 
+2-12-2018 | Subdivision and land development amendment | Ch. 170 | 
+4-9-2018 | Zoning amendment | Ch. 197 | 
+5-14-2018 | Zoning amendment | Ch. 197 | 
+5-14-2018 | Noise amendment | Ch. 132 | 
+5-14-2018 | Mercantile licensing amendment | Ch. 128 | 
+5-14-2018 | Vehicles and traffic amendment | Ch. 183 | 
+6-11-2018 | Zoning Map amendment | NCM | 
+6-11-2018 | Zoning Map amendment | NCM | 
+7-9-2018 | Streets and Sidewalks: Access to City Streets and Alleys | Ch. 167, Art. VI | 
+8-13-2018 | Zoning Amendment | Ch. 197 | 
+8-13-2018 | Zoning Amendment | Ch. 197 | 
+8-13-2018 | Noise Amendment | Ch. 132 | 
+8-13-2018 | Zoning Map Amendment | NCM | 
+9-10-2018 | General Provisions: Adoption of Code | Ch. 1, Art. II | 
+10-15-2018 | Zoning Amendment | Ch. 197 | 
+10-15-2018 | Zoning Map Amendment | NCM | 
+10-15-2018 | Zoning Amendment | Ch. 197 | 
+10-15-2018 | Code of Conduct | Ch. 9 | 
+11-13-2018 | Subdivision and Land Development Amendment | Ch. 170 | 
+11-13-2018 | Zoning Map Amendment | NCM | 
+3-18-2019 | Vehicles and Traffic Amendment | Ch. 183 | 
+3-18-2019 | Zoning Map Amendment | NCM | 
+4-8-2019 | Beaches Amendment | Ch. 63 | 
+4-8-2019 | Vehicles and Traffic Amendment | Ch. 183 | 
+5-13-2019 | Beaches Amendment | Ch. 63 | 
+5-13-2019 | Animals: Felines: Cruelty to Animals | Ch. 59, Art. II | 
+
+

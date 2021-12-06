@@ -1,0 +1,745 @@
+vi      districts established
+https://ecode360.com/11903136
+0.5532377888267691
+R-1 | Residential District | 
+R-1A | Boardwalk Residential District | 
+R-1B | Sea Villas Residential District | 
+R-2 | Residential District | 
+C-1 | Central Commercial District | 
+C-2 | Neighborhood Commercial District | 
+CL-1 | Commercial Lodging District | 
+MORE | Municipal, Open Space, Recreation Facilities
+and Educational District | 
+
+
+xv      off street parking and loading
+https://ecode360.com/11903360
+0.394984735421789
+ | All commercial uses (except commercial lodging
+rooms) | 1,000 to 19,999 | 1 | 
+ |  | 20,000 to 40,000 | 2 | 
+
+
+iii      administration  unsafe structures and equipment
+https://ecode360.com/11903673
+0.36702293479121273
+ | ICC EC-03 | ICC Electrical Code™ — Administrative
+Provisions | 201.3, 604.2 | 
+ | IBC-03 | International Building Code® | 201.3, 401.3, 702.3 | 
+ | IEBC-03 | International Existing Building Code™ | 101.3, 102.3, 201.3 | 
+ | IFC-03 | International Fire Code® | 201.3, 702.1, 702.2, 704.1, 704.2 | 
+ | IMC-03 | International Mechanical Code® | 201.3 | 
+ | IPC-03 | International Plumbing Code® | 201.3, 505.1, 602.2, 602.3 | 
+ | IZC-03 | International Zoning Code® | 102.3, 201.3 | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.3233057332499203
+Signage Guidelines
+The purpose of residential subdivision signs is to identify
+the name of a subdivision, provided the subdivision is not an infill
+project within an established neighborhood. They are usually monument
+signs or wall signs placed on a wall feature in a landscaped open
+space area at the entry of the development. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.30942661495826074
+Signage Guidelines
+Directory signs are used for multitenant buildings to provide
+a directory of tenant locations within the building. They may also
+serve as the address sign for the property. Directory signs are small
+scale and are oriented to pedestrians. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.30178122407690233
+Signage Guidelines
+Shopping center identification signs should be compatible with
+the design theme of the development. They may identify multiple tenants,
+but larger shopping centers with more than five tenants should avoid
+listing individual tenants, other than the project anchors, to avoid
+sign clutter. The sign structure should contain elements of the design
+theme of the buildings in the center. | 
+
+
+ii      board of elections
+https://ecode360.com/11901093
+0.28857537922031684
+ | I _____, do solemnly swear (or affirm) that
+I will support the Constitution of the United States and the Constitution
+of the State of Delaware, and that I will faithfully discharge the
+duties as a member of the Board of Elections for the Town of Bethany
+Beach by ensuring that elections within the Town are conducted fairly,
+impartially and in accordance with the Delaware Code and Town Charter
+and ordinances to the best of my ability. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.2768938025878457
+Signage Guidelines
+Projecting signs are attached to a building face and project
+out perpendicular to the building wall. Projecting signs are very
+effective when oriented to pedestrians on the sidewalk level. Appropriate
+materials include wood and metal with carved or applied lettering,
+or any other material that is architecturally compatible with the
+building that the sign is attached to. Multiple projecting signs should
+not be installed within 10 feet of each other if on the same property
+and should be separated from projecting signs on adjacent properties
+by 10 feet to insure proper visibility. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.27428248601098437
+Signage Guidelines
+Pole signs are primarily intended to communicate with people
+in automobiles. The sign structure is typically located on a single
+pole, but other types of supports may be used. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.2738400533398715
+Signage Guidelines
+Freestanding post signs are primarily used to identify office
+uses, especially where a former residence has been converted into
+an office. They are similar to monument signs, except they do not
+have a base other than the support posts, they usually have a single
+sign face, and they are usually oriented parallel to the sidewalk
+instead of perpendicular. The colors and materials used for the sign
+must be compatible with the associated building design. Lettering
+should be carved, routed or applied as opposed to painted on a flat
+board. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.2737116394108945
+Signage Guidelines
+Monument signs are typically used where building setbacks, orientation
+or design make it difficult to provide other types of signage, such
+as wall signs, that are plainly visible to people that are trying
+to identify a use. Monument signs have a solid base that the sign
+face is installed upon. These signs should be designed so that the
+style of the sign and its base are consistent with the architecture
+of the buildings on the site. They are typically oriented perpendicular
+to the adjacent street and sidewalk and have a maximum of two parallel
+sign faces. Monument signs provide opportunities for landscaping to
+enhance their appearance. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.27298183895175243
+Signage Guidelines
+Wall signs include most types of signage that are attached to
+the face of a building wall. These include channel letters made out
+of wood, metal or plastic. Wall signs may be painted on a wall, or
+on a board that is attached to a wall. Wall signs should be oriented
+to achieve balanced composition and harmony with other architectural
+elements of a building facade. Wall signs should be placed on a flat
+building surface and should not be placed over or otherwise obscure
+architectural building features. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.2702889110728922
+Signage Guidelines
+Sandwich-board signs can be effective for certain types of uses,
+such as markets, restaurants or bakeries that have changing specials
+and menus. These sign may have re-writable surfaces, such as chalk
+boards or dry-erase boards. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.26760555660957097
+Signage Guidelines
+Hanging signs, or suspended signs, are used to help define entries
+and identify business names to pedestrians. They are small and can
+hang over a building entry if the appropriate clearance is provided.
+Hanging signs can be particularly useful for storefronts that have
+multiple tenants. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.26712997877404965
+ | Note: All pole signs outlined, described and listed in the attached
+Appendix[7] are deemed to be legal and are considered to be exceptions
+to the regulations prohibiting pole signs but are subject to all provisions
+in the ordinance from this date forward and will transfer with the
+property if a business is sold. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.2586881783777434
+Signage Guidelines
+Window signs should be scaled to the pedestrian and oriented
+to window shoppers on the sidewalk, as opposed to vehicles passing
+by. Window signs should be limited to small graphics and text that
+serve to frame a window or to provide information. A window sign should
+not obscure the view into a store or place of business. | 
+
+
+ii      board of elections
+https://ecode360.com/11901093
+0.2532131733345533
+ | I do solemnly swear (or affirm) that in the
+election to be held on the ___ day of _____ AD, I will not knowingly
+or willfully receive or consent to the receiving of the vote of any
+person who is not a citizen, and also that I will not receive or consent
+to the receiving of the vote of any person whom I shall believe not
+entitled to vote unless my associates shall adjudge such person to
+be entitled to vote. That I will not receive or reject nor concur
+in receiving or rejecting any vote through partiality or under bias
+and that I will determine every matter that shall come before me and
+perform every act and duty by law required of me touching the election,
+truly, faithfully and impartially according to the best of my skill
+and judgment that I have not received nor will I receive directly
+or indirectly from or through any candidate to be voted for at such
+election, or any other person, any money, pay or other valuable thing
+or reward that I have not been promised or in any manner been led
+to believe that I will at any time directly or indirectly receive
+any money pay or other valuable thing or reward from such candidate
+or other person other than that provided by law and if I shall discover
+any partiality, unfairness or corruption in the conduct of the election,
+I shall disclose the same to the Board of Elections that is conducting
+the election and to the Attorney General to the end that the subject
+may be investigated, so help me God (or so I solemnly affirm). | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.2512208653809097
+Signage Guidelines
+Certain building walls present opportunities for murals. Murals
+should not contain text or any specific commercial message. Murals
+that do not contain text or any specific commercial message can be
+considered public art. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.23577747531216206
+Signage Guidelines
+Signs on awnings should be minimized and are only appropriate
+if there are no appropriate alternatives for wall signs, projecting
+signs or hanging and suspended signs. Signage should be limited to
+the skirt of the awning and should not be on the awning face. Signs
+should only be considered for the awning face if there is no other
+adequate location for signage on a given storefront or property. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.2241771108831386
+Signage Guidelines
+Electronic message centers (EMCs) come in different shapes and
+sizes and typically have a scrolling message. Some EMCs have interactive
+computer screens. | 
+
+
+dt      derivation table
+https://ecode360.com/12941914
+0.2100247143507971
+NCM | = | Not Code material (legislation is
+not general or permanent in nature). | 
+REP | = | Repealed effective with adoption of Code; see Ch. 1, Art. II. | 
+NI | = | Not included in Code but saved from
+repeal. | 
+NLP | = | New legislation is pending. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.20776501897019814
+Signage Guidelines
+Flags should be sized appropriately for the height and diameter
+of the proposed pole. | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+0.19725068857345307
+ | 15 to 20 | 3 by 5 | 
+ | 25 | 4 by 6 | 
+ | 30 to 35 | 5 by 8 | 
+
+
+xiv      exceptions and modifications
+https://ecode360.com/11903332
+-0.0018302623534914852
+ |  | 
+ |  | 
+
+
+vii      design standards
+https://ecode360.com/11902918
+-0.030358996285387352
+ | 
+
+
+iv      general provisions
+https://ecode360.com/11903057
+-0.044256562530861326
+ | 
+
+
+iv      general provisions
+https://ecode360.com/11903057
+-0.044256562530861326
+ | 
+
+
+iv      general provisions
+https://ecode360.com/11903057
+-0.044256562530861326
+ | 
+
+
+iv      general provisions
+https://ecode360.com/11903057
+-0.044256562530861326
+ | 
+
+
+iv      general provisions
+https://ecode360.com/11903057
+-0.044256562530861326
+ | 
+
+
+iv      general provisions
+https://ecode360.com/11903057
+-0.044256562530861326
+ | 
+
+
+iv      general provisions
+https://ecode360.com/11903057
+-0.044256562530861326
+ | 
+
+
+iv      general provisions
+https://ecode360.com/11903057
+-0.044256562530861326
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+iv      sign standards
+https://ecode360.com/15930516
+-0.055368807877359594
+ | 
+
+
+dl      disposition list
+https://ecode360.com/11904358
+-3.190017826263814
+264 | 10-18-1991 | Zoning amendment | Ch. 425 | 
+16 | 3-20-1992 | Aircraft altitude and horizontal radius | Ch. 212, Art. I | 
+268 | 2-21-1992 | Zoning amendment | Ch. 425 | 
+269 | 4-24-1992 | Vehicles and traffic amendment | Ch. 227, Art. III | 
+270 | 4-24-1992 | Business license fees amendment | NCM | 
+271 | 4-24-1992 | Flood damage prevention amendment | Repealed by Ord. No. 511 | 
+272 | 4-24-1992 | Alcoholic beverages licensing | Ch. 217, Art. III | 
+273 | 4-24-1992 | Business licensing amendment | Ch. 102 | 
+274 | 6-19-1992 | Zoning amendment | Ch. 425 | 
+275 | 7-17-1992 | Absentee voting amendment | Ch. 378, Art. II | 
+276 | 7-17-1992 | Zoning amendment | Ch. 425 | 
+277 | 9-18-1992 | Sleeping on beach amendment | Ch. 223, Art. I | 
+278 | 9-18-1992 | Zoning amendment | Ch. 425 | 
+279 | 9-18-1992 | Adoption of 1992 Code and substantive revisions | Multiple chapters | 
+280 | 7-16-1993 | Zoning amendment | Ch. 425 | 
+281 | 9-17-1993 | Vehicles and traffic amendment | Ch. 227, Art. VII | 
+282 | 9-17-1993 | Zoning amendment | Ch. 425 | 
+283 | 1-21-1994 | Vehicles and traffic amendment | Ch. 227, Arts. I and III | 
+284 | 1-21-1994 | Business licensing amendment | Ch. 102 | 
+285 | 3-18-1994 | Vehicles and traffic amendment | Ch. 227, Arts. VII and VIII | 
+286 | 6-17-1994 | Public access to records | Ch. 349 | 
+287 | 10-21-1994 | Zoning amendment | Ch. 425 | 
+288 | 10-21-1994 | Skateboards, roller skates and roller blades
+amendment | Ch. 298 | 
+289 | 1-20-1995 | Permits for building construction amendment | Ch. 395, Part 3 | 
+290 | 1-20-1995 | Boardwalk amendment | Ch. 229 | 
+291 | 3-17-1995 | Dogs running at large amendment; vicious dogs
+amendment | Ch. 240, Arts. I and IV | 
+292 | 5-19-1995 | Licensing of commercial establishments amendment | Superseded by Ord. No. 295 | 
+293 | 5-19-1995 | Closing hours for sale in restaurants | Superseded by Ord. No. 296 | 
+294 | 4-21-1995 | Vehicles and traffic amendment | NCM | 
+295 | 6-23-1995 | Licensing of commercial establishments amendment | Ch. 217, Art. III | 
+296 | 6-23-1995 | Closing hours for sale in hotels and restaurants | Ch. 217, Art. IV | 
+297 | 4-19-1996 | Absentee voting amendment | Ch. 378, Art. II | 
+298 | 4-19-1996 | Voter registration amendment | Ch. 378, Art. I | 
+299 | 4-19-1996 | Brush, grass and weeds amendment; property maintenance
+amendment | Ch. 440; Ch. 475 | 
+300 | 5-17-1996 | Zoning amendment | Ch. 425 | 
+301 | 5-17-1996 | Subdivision of land amendment | Ch. 410 | 
+302 | 5-17-1996 | Zoning amendment | Ch. 425 | 
+303 | 5-17-1996 | Subdivision of land amendment | Ch. 410 | 
+304 | 5-17-1996 | Vehicles and traffic amendment | Ch. 227, Art. IX | 
+305 | 5-17-1996 | Personnel policies | Ch. 56 | 
+306 | 5-17-1996 | Drug and alcohol policy | Ch. 21 | 
+307 | 6-21-1996 | Vehicles and traffic amendment | Ch. 227, Schedules A and B | 
+308 | 6-21-1996 | Juvenile curfew | Ch. 282, Art. X | 
+309 | 7-19-1996 | Vehicles and traffic amendment | Ch. 227, Art. X | 
+310 | 7-19-1996 | Personnel policies amendment | Ch. 56 | 
+311 | 7-19-1996 | Zoning amendment | Ch. 425 | 
+312 | 7-19-1996 | Zoning amendment | Ch. 425 | 
+313 | 1-17-1997 | Zoning amendment | Ch. 425 | 
+314 | 4-18-1997 | Brush and grass amendment | Ch. 440 | 
+315 | 8-15-1997 | Zoning amendment | Ch. 425 | 
+316 | 8-15-1997 | Zoning amendment | Ch. 425 | 
+317 | 11-21-1997 | Zoning amendment | Ch. 425 | 
+Res. (Ch. 227 of the 140th General Assembly) | 11-21-1997 | Charter amendment |  | 
+318 | 1-16-1998 | Noise amendment | Ch. 275 | 
+319 | 3-13-1998 | Beach: unlawful activities amendment | Ch. 223, Art. II | 
+320 | 3-13-1998 | Vehicles and traffic amendment | Ch. 227 | 
+321 | 3-13-1998 | Manager amendment | Ch. 40 | 
+322 | 2-20-1998 | Realty transfer tax | Ch. 364, Art. I | 
+323 | 3-13-1998 | Voter registration and absentee voting amendments | Ch. 378, Arts. I and II | 
+324 | 5-15-1998 | Zoning amendment | Ch. 425 | 
+325 | 5-15-1998 | Zoning amendment | Ch. 425 | 
+326 | 7-29-1998 | Taxation: realty transfer tax amendment | Ch. 364, Art. I | 
+327 | 8-21-1998 | Peace and good order: use of laser beams | Ch. 282, Art. XI | 
+328 | 9-18-1998 | Abandoned vehicles | Ch. 316 | 
+329 | 9-18-1998 | Property maintenance: nuisances | Ch. 475, Art. II | 
+330 | 9-18-1998 | Personnel policies amendment | Ch. 56 | 
+331 | 1-15-1999 | Building construction: permits amendment | Ch. 395, Part 3 | 
+332 | 1-15-1999 | Vehicles and traffic: heavy vehicles or loads | Ch. 227, Art. XI | 
+333 | 1-15-1999 | Brush and grass amendment | Ch. 440 | 
+334 | 2-19-1999 | Vehicles and traffic: oversized vehicle parking
+amendment | Ch. 227, Art. VIII | 
+335 | 2-19-1999 | Vehicles and traffic: parking meter system amendment | Ch. 227, Art. III | 
+336 | 2-19-1999 | Vehicles and traffic: general and permit parking
+provisions amendment | Ch. 227, Art. I | 
+337 | 4-23-1999 | Boardwalk amendment | Ch. 229 | 
+338 | 5-21-1999 | Building construction: permits amendment | Ch. 395, Part 3 | 
+339 | 6-18-1999 | Adoption of ordinances amendment | Ch. 45 | 
+340 | 1-21-2000 | Wild, exotic and farm animals | Ch. 240, Art. VI | 
+341 | 2-18-2000 | Zoning amendment | Ch. 425 | 
+342 | 2-18-2000 | Special events | Ch. 282, Art. XII | 
+343 | 4-27-1995 | Water and sewers amendment | Ch. 516, Art. III | 
+344 | 5-19-2000 | Personnel policies amendment | Ch. 56 | 
+345 | 6-16-2000 | Dogs running at large amendment | Ch. 240, Art. I | 
+346 | 7-21-2000 | Manager amendment | Ch. 40 | 
+347 | 11-17-2000 | Vicious dogs | Ch. 240, Art. IV | 
+348 | 1-19-2001 | Dogs running at large amendment | Ch. 240, Art. I | 
+349 | 1-19-2001 | Property maintenance standards | Ch. 475, Art. I | 
+350 | 1-19-2001 | Flood damage prevention amendment | Repealed by Ord. No. 511 | 
+351 | 2-16-2001 | Zoning amendment | Ch. 425 | 
+352 | 3-16-2001 | General and permit parking provisions amendment | Ch. 227 Art. I | 
+353 | 3-16-2001 | Numbering of houses amendment | Ch. 461 | 
+354 | 5-18-2001 | Firearms and weapons amendment | Ch. 247 | 
+General Assembly | 7-10-2001 | Charter amendment | §§ 7.1, 16.1 | 
+355 | 7-20-2001 | Vehicles and traffic: permit parking | Ch. 227, Art. I | 
+356 | 8-17-2001 | Assessments | Ch. 9 | 
+357 | 10-19-2001 | Vehicles and traffic: speed limits | Ch. 227, Art. VII | 
+358 | 11-16-2001 | Zoning amendment | Ch. 425 | 
+359 | 11-16-2001 | Vehicles and traffic: parking meters | Ch. 227, Art. III | 
+360 | 11-16-2001 | Water impact fees amendment | Ch. 516 | 
+361 | 1-18-2002 | Zoning amendment | Ch. 425 | 
+362 | 1-18-2002 | Building construction permits amendment | Ch. 395, Part 3 | 
+General Assembly | 1-22-2002 | Charter amendment | §§ 5.3, 5.4 | 
+ | 3-15-2002 | Vehicles and traffic: general and permit parking
+provisions amendment | Ch. 227, Art. I | 
+363 | 6-21-2002 | Tax rate | NCM | 
+364 | 6-21-2002 | Voter registration and absentee voting amendments | Ch. 378, Arts. I and II | 
+365 | 6-21-2002 | Proof of identification required to vote | Repealed by 2009 Code Adoption Ordinance | 
+366 | 7-30-2002 | Vehicles and traffic: shuttle buses amendment | Ch. 227, Art. X | 
+367 | 7-30-2002 | Vehicles and traffic: repeal of commercial loading
+zones | Ch. 227, Art. IX | 
+368 | 3-21-2003 | Vehicles and traffic: shuttle buses amendment | Ch. 227, Art. X | 
+369 | 3-21-2003 | Building permits amendment | Ch. 395, Part 3 | 
+370 | 3-21-2003 | Absentee voting amendment | Ch. 378, Art. II | 
+371 | 3-21-2003 | Trees on private property | Ch. 507, Art. II | 
+372 | 3-21-2003 | Animal control | Ch. 240, Art. VI | 
+373 | 3-21-2003 | Zoning amendment | Ch. 425 | 
+374 | 6-20-2003 | Noise amendment | Ch. 374 | 
+375 | 6-20-2003 | Zoning amendment | Ch. 425 | 
+376 | 6-20-2003 | Zoning Map amendment | Ch. 425 (table only) | 
+377 | 7-18-2003 | Vehicles and traffic | Ch. 227 | 
+378 | 7-18-2003 | Open space repealer | Ch. 493, Art. V (footnote only) | 
+379 | 2-20-2004 | Vehicles and traffic amendment | Ch. 227 | 
+380 | 4-16-2004 | Commercial activities amendment | Ch. 123 | 
+381 | 4-16-2004 | Vehicles and traffic amendment | Ch. 227 | 
+382 | 6-18-2004 | Vehicles and traffic amendment | Ch. 227 | 
+383 | 6-18-2004 | Construction hours amendment | Ch. 395, Art. VIII | 
+384 | 6-18-2004 | Coin-operated machines amendment | Ch. 116 | 
+385 | 7-23-2004 | Alcoholic beverages amendment | Ch. 217, Art. III | 
+386 | 8-20-2004 | Code amendments | Chs. 21, 395, 116 and 240 | 
+387 | 10-15-2004 | Trees: removal of trees during new construction | Ch. 507, Art. III | 
+388 | 10-15-2004 | Zoning amendment | Ch. 425 | 
+389 | 1-21-2005 | Alcoholic beverages: licensing of commercial
+establishments amendment | Ch. 217, Art. III | 
+390 | 1-21-2005 | Business licensing amendment | Ch. 102 | 
+391 | 1-21-2005 | Building construction: standard building construction
+code amendment | Ch. 395, Part 1 | 
+392 | 2-18-2005 | Flood damage prevention amendment | Repealed by Ord. No. 511 | 
+393 | 3-18-2005 | Planning Commission amendment | Ch. 60 | 
+394 | 3-18-2005 | Public access to records amendment | Ch. 349 | 
+395 | 4-15-2005 | Alcoholic beverages: licensing of commercial
+establishments amendment | Ch. 217, Art. III | 
+396 | 7-15-2005 | Swimming pools amendment | Ch. 500 | 
+397 | 9-16-2005 | Building construction amendment | Ch. 395, Part 3 | 
+398 | 10-21-2005 | Alcoholic beverages: licensing of commercial
+establishments amendment | Ch. 217, Art. III | 
+399 | 11-18-2005 | Subdivision of land amendment | Ch. 410 | 
+400 | 11-18-2005 | Wireless communications facilities | Ch. 525 | 
+401 | 1-20-2006 | Zoning amendment | Ch. 425 | 
+402 | 1-20-2006 | Transportation of sewage | Ch. 516, Art. VII | 
+403 | 1-20-2006 | Zoning amendment | Ch. 425 | 
+404 | 2-10-2006 | Subdivision of land amendment; zoning amendment | Chs. 410, 425 | 
+405 | 2-10-2006 | Zoning amendment | Ch. 425 | 
+406 | 2-17-2006 | Property maintenance | Ch. 475 | 
+407 | 2-17-2006 | Fines and penalties amendment | Multiple chapters | 
+408 | 2-17-2006 | Schedule of fines and penalties | Ch. 1, Art. I | 
+409 | 3-17-2006 | Erosion control | Ch. 448 | 
+410 | 4-21-2006 | Zoning amendment | Ch. 425 | 
+411 | 4-21-2006 | Subdivision of land amendment | Ch. 410 | 
+412 | 4-21-2006 | Zoning amendment | Ch. 425 | 
+413 | 8-7-2006 | Zoning amendment | Ch. 425 | 
+414 | 8-18-2006 | Property maintenance amendment | Ch. 475, Art. I | 
+415 | 8-18-2006 | Building construction amendment | Ch. 392, Part 2 | 
+416 | 8-18-2006 | Zoning Map amendment | NCM | 
+417 | 8-18-2006 | Zoning amendment | Ch. 425 | 
+418 | 8-18-2006 | Zoning amendment | Ch. 425 | 
+419 | 8-18-2006 | Zoning Map amendment | NCM | 
+420 | 11-17-2006 | Town Employee Pension Fund | Ch. 51 | 
+421 | 2-16-2007 | Water and sewers amendment | Ch. 516, Part 1 | 
+422 | 3-16-2007 | Subdivision of land amendment | Ch. 410 | 
+423 | 3-16-2007 | Zoning amendment | Ch. 425 | 
+424 | 4-20-2007 | Commercial activities and concessionaires amendment | Ch. 123, Arts. I and II | 
+425 | 4-20-2007 | Water and sewer impact fees amendment | Ch. 516, Part 1 | 
+426 | 4-20-2007 | Zoning amendment | Ch. 425 | 
+427 | 7-3-2007 | Elections | Ch. 26 | 
+428 | 7-20-2007 | Schedule of fines and penalties amendment | Ch. 1, Art. I | 
+429 | 8-17-2007 | Schedule of fines and penalties amendment | Ch. 1, Art. I | 
+430 | 8-17-2007 | Schedule of fines and penalties amendment |  | 
+431 | 8-17-2007 | Building construction amendment | Ch. 395, Part 2 | 
+432 | 11-16-2007 | Planning Commission | Repealed by Ord. No. 525 | 
+433 | 2-15-2008 | Building construction: permits amendment | Ch. 395, Part 3 | 
+434 | 4-18-2008 | Outdoor smoking | Ch. 301 | 
+435 | 4-18-2008 | General provisions: penalties amendment (outdoor
+smoking) | Ch. 1, Art. I | 
+436 | 5-16-2008 | Open and recreational fires; outdoor cooking | Ch. 251 | 
+437 | 6-20-2008 | Subdivision of land amendment | Ch. 410 | 
+438 | 6-20-2008 | Zoning amendment | Ch. 425 | 
+439 | 6-20-2008 | Revised Zoning Map | Ch. 425 (table only) | 
+440 | 8-15-2008 | Boats, personal watercraft and boat trailers | Ch. 231 | 
+441 | 8-15-2008 | Manager amendment | Ch. 40 | 
+442 | 8-15-2008 | Subdivision of land amendment | Ch. 410 | 
+443 | 8-15-2008 | Zoning amendment | Ch. 425 | 
+444 | 1-16-2009 | Business licensing amendment | Ch. 102 | 
+445 | 1-16-2009 | Voter registration amendment | Ch. 378, Art. I | 
+446 | 3-20-2009 | Streets and sidewalks: public utility construction | Ch. 493, Art. V | 
+447 | 5-15-2009 | General provisions: penalties amendment (vehicles
+and traffic) | Ch. 1, Art. I | 
+448 | 5-15-2009 | Vehicles and traffic amendment | Ch. 227 | 
+449 | 5-15-2009 | General provisions: penalties amendment  (vehicles
+and traffic) | Ch. 1, Art. I | 
+450 | 5-15-2009 | Noise amendment | Ch. 275 | 
+451 | 3-20-2009 | Town Bandstand and Plaza | Ch. 72 | 
+452 | 7-17-2009 | Geothermal closed loop heat exchange well systems | Ch. 144 | 
+453 | 3-19-2010 | Town Bandstand and Plaza amendment | Ch. 72 | 
+454 | 3-19-2010 | Town Bandstand and Plaza amendment | Ch. 72 | 
+455 | 5-21-2010 | Solar energy systems | Ch. 484 | 
+456 | 6-18-2010 | Zoning amendment | Ch. 425 | 
+457 | 6-18-2010 | Adoption of ordinances amendment | Ch. 45 | 
+458 | 10-15-2010 | Code corrections and amendments | Chs. 45, 56, 60, 102, 123, 227, 282 | 
+459 | 2-18-2011 | Zoning amendment | Ch. 425 | 
+460 | 2-18-2011 | Zoning amendment | Ch. 425 | 
+461 | 1-21-2011 | Personal wireless services amendment | Ch. 525 | 
+462 | 3-18-2011 | Outdoor smoking amendment | Ch. 301 | 
+463 | 4-15-2011 | Elections amendment; voting and voter registration amendment | Chs. 26; 378, Arts. I and II | 
+464 | 5-20-2011 | General provisions: penalties amendment (vehicles and traffic);
+vehicles and traffic: parking meters, pay stations and parking permits | Chs. 1, Art. I; 227, Art. III | 
+465 | 6-17-2011 | General provisions: penalties amendment (vehicles and traffic);
+boats, personal watercraft, and boat trailers; recreational vehicles;
+portable on-demand storage units amendment | Chs. 1, Art. I; 231 | 
+466 | 6-23-2011 | Zoning amendment | Ch. 425 | 
+467 | 8-19-2011 | Advertisements repealer; outdoor smoking amendment; subdivision
+of land amendment; zoning amendment; water and sewers: line specifications
+amendment; signs | Chs. 85, reference only; 301; 410; 425; 516, Art. II; 530 | 
+468 | 8-19-2011 | General provisions: penalties amendment (construction hours) | Ch. 1, Art. I | 
+469 | 10-21-2011 | General provisions: penalties amendment (vehicles and traffic);
+boats, personal watercraft, and boat trailers; recreational vehicles;
+portable on-demand storage units amendment | Chs. 1, Art. I; 231 | 
+470 | 11-18-2011 | Zoning amendment | Ch. 425 | 
+471 | 1-20-2012 | Signs amendment | Ch. 530 | 
+472 | 1-20-2012 | Signs amendment | Ch. 530 | 
+473 | 2-17-2012 | Business licensing amendment | Ch. 102 | 
+474 | 2-17-2012 | Personnel policies amendment | Ch. 56 | 
+475 | 3-16-2012 | General provisions: penalties amendment (vehicles and traffic) | Ch. 1, Art. I | 
+476 | 4-20-2012 | Signs amendment | Ch. 530 | 
+477 | 4-20-2012 | Zoning amendment | Ch. 425 | 
+478 | 5-18-2012 | Zoning amendment | Ch. 425 | 
+479 | 6-15-2012 | Zoning amendment | Ch. 425 | 
+78 Del. Laws, c. 281 | 6-28-2012 | Charter amendment | Charter Section 15 | 
+480 | 9-21-2012 | Flood damage prevention amendment | Repealed by Ord. No. 511 | 
+481 | 9-21-2012 | Property maintenance: nuisances amendment | Ch. 475, Part 2 | 
+482 | 9-21-2012 | General provisions: penalties amendment (signs) | Ch. 1, Art. I | 
+483 | 9-21-2012 | Signs amendment | Ch. 530 | 
+484 | 10-19-2012 | Signs amendment | Ch. 530 | 
+485 | 3-15-2013 | Littering, solid waste, recyclables and yard waste amendment | Ch. 486 | 
+486 | 3-15-2013 | Signs amendment | Ch. 530 | 
+487 | 5-17-2013 | Standard Building Construction Code amendment | Ch. 395, Part 1 | 
+488 | 5-17-2013 | Parking of motor buses | Ch. 227, Art, XI | 
+489 | 5-17-2013 | Zoning amendment | Ch. 425 | 
+490 | 5-17-2013 | Zoning amendment | Ch. 425 | 
+491 | 5-17-2013 | Zoning amendment | Ch. 425 | 
+492 | 5-17-2013 | Zoning amendment | Ch. 425 | 
+493 | 5-17-2013 | Zoning amendment | Ch. 425 | 
+494 | 5-17-2013 | Zoning amendment | Ch. 425 | 
+495 | 7-19-2013 | Outdoor smoking amendment | Ch. 301 | 
+496 | 8-16-2013 | Building construction: permits amendment | Ch. 395, Part 3 | 
+497 | 8-16-2013 | Comprehensive Plan amendment | NCM | 
+498 | 8-16-2013 | Zoning amendment | Ch. 425 | 
+499 | 8-16-2013 | Zoning Map amendment | NCM | 
+500 | 11-15-2013 | Zoning amendment | Ch. 425 | 
+501 | 2-21-2014 | Vehicles and traffic: vehicle operation and equipment amendment | Ch. 227, Art. VII | 
+502 | 4-15-2014 | Vehicles and traffic: general and permit parking provisions
+amendment | Ch. 227, Art. I | 
+503 | 5-23-2014 | Outdoor smoking amendment | Ch. 301 | 
+504 | 5-23-2014 | Zoning amendment | Ch. 425 | 
+505 | 5-23-2014 | Subdivision of land amendment | Ch. 410 | 
+506 | 8-15-2014 | Beach: unlawful activities amendment | Ch. 223, Art. II | 
+507 | 8-15-2014 | Beach: surfing amendment | Ch. 223, Art. VI | 
+508 | 12-19-2014 | Zoning amendment | Ch. 425 | 
+509 | 1-16-2015 | Signs amendment | Ch. 530 | 
+510 | 1-16-2015 | Zoning amendment | Ch. 425 | 
+511 | 2-20-2015 | Flood damage prevention | Ch. 453 | 
+512 | 5-15-2015 | General provisions: penalties amendment | Ch. 1, Art. I; Ch. 102 | 
+513 | 6-19-2015 | Signs amendment | Ch. 530 | 
+514 | 6-19-2015 | Signs amendment | Ch. 530 | 
+515 | 8-21-2015 | Flood damage prevention amendment | Ch. 453 | 
+516 | 8-21-2015 | Flood damage prevention amendment | Ch. 453 | 
+517 | 8-21-2015 | Flood damage prevention amendment | Ch. 453 | 
+518 | 8-21-2015 | Flood damage prevention amendment | Ch. 453 | 
+519 | 10-16-2015 | Zoning amendment | Ch. 425 | 
+520 | 11-20-2015 | Firearms and weapons amendment | Ch. 247 | 
+521 | 3-18-2016 | Zoning amendment | Ch. 425 | 
+522 | 3-18-2016 | Zoning amendment | Ch. 425 | 
+523 | 3-18-2016 | Zoning amendment | Ch. 425 | 
+524 | 6-17-2016 | Aircraft: unmanned aircraft systems | Ch. 212, Art. III | 
+525 | 10-21-2016 | Planning and Zoning Commission | Superseded by Ord. No. 527 | 
+526 | 10-21-2016 | Zoning amendment | Ch. 425 | 
+527 | 11-18-2016 | Planning and Zoning Commission | Ch. 60 | 
+528 | 2-17-2017 | Alcoholic beverages: licensing of commercial establishments
+amendment; closing hours for sale in hotels and restaurants amendment | Ch. 217, Art. III; Ch. 217, Art. IV | 
+529 | 2-17-2017 | Building construction: permits amendment | Ch. 395, Part 3 | 
+530 | 2-17-2017 | Property maintenance amendment | Ch. 475, Part 3 | 
+531 | 3-17-2017 | Zoning amendment | Ch. 425 | 
+532 | 4-21-2017 | Zoning amendment | Ch. 425 | 
+533 | 4-21-2017 | Zoning amendment | Ch. 425 | 
+534 | 6-16-2017 | Dogs and other animals: dogs running at large amendment | Ch. 240, Art. I | 
+535 | 11-17-2017 | Flood Damage Prevention Amendment | Ch. 453 | 
+536 | 11-17-2017 | Flood Damage Prevention Amendment | Ch. 453 | 
+537 | 11-17-2017 | Flood Damage Prevention Amendment | Ch. 453 | 
+538 | 2-16-2018 | Beach: Shading Devices and Other Fixtures | Ch. 223, Art. VIII | 
+539 | 2-16-2018 | Alcoholic Beverages: Licensing of Commercial Establishments
+Amendment | Ch. 217, Art. III | 
+540 | 2-16-2018 | Zoning Amendment | Ch. 425 | 
+541 | 2-16-2018 | Zoning Map Amendment | NCM | 
+542 | 7-20-2018 | Beach: Shading Devices and Other Fixtures Amendment | Ch. 223, Art. VIII | 
+543 | 7-20-2018 | Zoning Amendment | Ch. 425 | 
+
+

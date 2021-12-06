@@ -1,0 +1,515 @@
+i      general provisions and administration
+https://ecode360.com/8844846
+0.5931017811170731
+Residence | RES | 
+Commercial C-1 District | C-1 | 
+Commercial C-2 District | C-2 | 
+Local Shopping Center LSC District | LSC | 
+Light Industrial District #1 | LI-1 | 
+Light Industrial District #2 | LI-2 | 
+Light Industrial District #3 | LI-3 | 
+Light Industrial District #4[1] | LI-4 | 
+Light Industrial District #5 | LI-5 | 
+Business Office Park District | BOP | 
+Office Park District | OP | 
+
+
+noise
+https://ecode360.com/8843529
+0.5734177832941503
+Light Industrial | 70 | 66 | 66 | 66 | 61 | 51 | 
+Commercial | 62 | 62 | 62 | 62 | 55 | 45 | 
+Business | 62 | 62 | 62 | 62 | 55 | 35 | 
+Office Park | 62 | 62 | 62 | 62 | 55 | 45 | 
+Residential | 62 | 55 | 55 | 55 | 55 | 45 | 
+
+
+xviii      off street parking and loading
+https://ecode360.com/8846240
+0.48228999791627125
+ | Residential | 100% | — | — | — | 
+ | Lodging | 90% | 100% | — | — | 
+ | Office | 70% | 60% | 100% | — | 
+ | Retail | 80% | 75% | 80% | 100% | 
+
+
+fire prevention
+https://ecode360.com/16060917
+0.47708847924188846
+ | Building plan review
+(new construction or total area being renovated) | Up to 2,000 square feet | $65 | 
+ |  | 2,000 to 4,999 square feet | $100 | 
+ |  | 5,000 to 9,999 square feet | $350 | 
+ |  | 10,000 to 30,000 square feet | $500 | 
+ |  | 30,000 to 50,000 square feet | $750 | 
+ |  | Over 50,000 square feet | $1,000* | 
+ | Fire alarm system
+(area being protected) | Up to 5,000 square feet | $65 | 
+ |  | 5,000 square feet to 9,999 square feet | $100 | 
+ |  | 10,000 square feet to 49,000 square feet | $200 | 
+ |  | Over 50,000 square feet | $500* | 
+ | Active fire protection system
+(area being protected) | Up to 5,000 square feet | $65 | 
+ |  | 5,000 square feet to 9,999 square feet | $100 | 
+ |  | 10,000 square feet to 49,000 square feet | $200 | 
+ |  | Over 50,000 square feet | $500* | 
+ | Food service Type I hood system
+(includes final acceptance inspection) |  | $100 each | 
+ | Modifications, alterations, or additions to existing fire alarm
+and active fire protection system(s) |  | 1/2 base fee | 
+
+
+xii      planned residential development  prd  regulations
+https://ecode360.com/8845546
+0.44091711189884564
+ | Multi-unit dwellings | 2.0 spaces per unit | 
+ | Restricted age 62 or older units | 1.5 spaces per unit | 
+ | Congregate or assisted elderly units as defined
+in CT General Statutes | 0.75 spaces per unit | 
+
+
+xi      light industrial district
+https://ecode360.com/8845448
+0.4239838913136358
+ | Office 50% | 0 retail | 50% | 
+ | Office 35% | Up to 4.9% retail | Under 40% | 
+ | Office 20% | 5 to 9.9% retail | Under 30% | 
+ | Office 5% | 10 to 14.9% retail | Under 20% | 
+
+
+building construction
+https://ecode360.com/8842962
+0.3798487245092148
+ | $0 to $1,000 | $12 | 
+ | $1,001 to $2,000 | $18 | 
+ | $2,000 to $3,000 | $24 | 
+ | $3,000 to $4,000 | $30 | 
+ | $4,001 to $5,000 | $36 | 
+ | $5,001 to $6,000 | $42 | 
+ | $6,001 to $7,000 | $48 | 
+ | $7,001 to $8,000 | $54 | 
+ | $8,001 to $9,000 | $60 | 
+ | $9,001 to $10,000 | $66 | 
+ | Each additional $1,000 | 46 | 
+
+
+xx      records retention and disposition
+https://ecode360.com/8844472
+0.35878462013896917
+Applications (inc. supporting materials) | 10 years | — | 
+Decision Letters | 10 years | Permanent | 
+Approved Site Plans | 10 years | — | 
+Legal Notices | 10 years | Permanent | 
+Staff and Public Written Testimony (hearing
+records) | 10 years | — | 
+Minutes of Meetings and Public Hearings | 15 years | Permanent | 
+Tapes, Audio- Inland Wetland Matters | 4 years | — | 
+Notices of Violation and Orders | 10 years | — | 
+Text of Changes Adopted In Regulations | Continuous Update/ Permanent | — | 
+General Correspondence Issued or Received | 5 years | — | 
+
+
+fire prevention
+https://ecode360.com/16060917
+0.3069339812827945
+ | * | Any building plans for buildings 50,000 square feet or greater
+may be required to have an independent plan review, as determined
+at the sole discretion of the Office of the Fire Marshal. The independent
+plan review shall be conducted by a plan reviewer hired by the applicant
+and subject to the approval of the Office of the Fire Marshal. The
+applicant shall pay all costs associated with the contracted plan
+reviewer's independent review. The applicant shall submit the
+plan reviewer's written report, along with documentation that
+the reviewer's costs have been paid in full, prior to the Office
+of the Fire Marshal's review and approval of any such plan. | 
+
+
+xviii      off street parking and loading
+https://ecode360.com/8846240
+0.3055773049824544
+A. | If Uses Not Listed Below |  | 
+1. | Other uses not listed in this § 383-174 | Off-street parking spaces as approved by resolution of the Commission
+as sufficient to preserve the purpose and intent of this article | 
+B. | Residential-Type Uses | Minimum Parking Requirement | 
+1. | Structures containing one dwelling unit | 2.0 spaces | 
+2. | Structures containing two dwelling units | 2.0 spaces per dwelling unit | 
+3. | Structures containing three or more dwelling units (when not
+part of a Planned Residential Development) | 1.5 spaces per dwelling unit | 
+4. | Multiple dwelling units (in a Planned Residential Development) | 2.0 spaces per dwelling unit | 
+5. | Rooms to rent in a dwelling unit | 1.0 space per two beds offered for rent | 
+C. | Institutional-Type Uses | Minimum Parking Requirement | 
+1. | Churches and places of worship | 1.0 space for each four legal occupants | 
+2. | Educational facilities including vocational, trade, business
+schools, colleges and similar types of secondary or post-secondary
+educational facilities | 1.0 space for each nonresident student plus 1.0 space per each
+four resident students plus 1.0 space for each two employees | 
+3. | Hospitals; and healthcare facilities with inpatient beds | 1.0 space for each three beds for patients and 1.0 space per
+each 1.5 employees during the largest daily work shift period | 
+D. | Public Assembly-Type Uses | Minimum Parking Requirement | 
+1. | Theaters, including movie theaters and assembly halls, or stadium | 1.0 space for each four legal occupants | 
+2. | Places of amusement, including bowling alleys, recreational
+facilities, arcades and similar | 1.0 space for each three legal occupants. The Commission may,
+by special permit, allow a lesser number of parking spaces than required
+above, if it finds that the applicant has demonstrated that the peak
+demand for parking would not require this number of spaces, or that
+adequate off-street parking exists elsewhere that can be utilized
+by the visitors or patrons | 
+E. | Retail/Service Type Uses | Minimum Parking Requirement | 
+1. | Shopping centers and retail stores up to and including 10,000
+square feet of gross leasable area | 4.50 spaces per 1,000 square feet of gross leasable area | 
+2. | Shopping centers and retail stores of 10,001 to 25,000 square
+feet of gross leasable area | 4.00 spaces per 1,000 square feet of gross leasable area but
+not less than 45 spaces | 
+3. | Shopping centers and retail stores of 25,001 square feet or
+more of gross leasable area | 3.75 spaces per 1,000 square feet of gross leasable area but
+not less than 100 spaces | 
+4. | Garden center: stand-alone, with a permanent roof, or when comprising
+20% or more of the ground floor area of the retail establishment it
+is attached to and part of | 4.00 spaces per 1,000 square feet of gross leasable area. | 
+5. | Garden center: without a permanent roof and when comprising
+less than 20% of the ground floor area of the retail establishment
+it is attached to and part of | No additional spaces required | 
+6. | Motor vehicle service stations and repair garages | 4.0 spaces for each service bay | 
+7. | Funeral parlor | 1.0 space for each three legal occupants | 
+F. | Office-Type Uses | Minimum Parking Requirement | 
+1. | Business and professional offices | 4.0 spaces per 1,000 square feet of gross floor area | 
+2. | Financial institutions and similar institutions | 4.0 spaces per 1,000 square feet of gross floor area | 
+3. | Medical and dental clinics | 5.0 spaces per 1,000 square feet of gross floor area | 
+G. | Hospitality-Type Uses | Minimum Parking Requirement | 
+1. | Restaurants and other food or beverage service establishments | 10 spaces per 1,000 square feet of gross floor area | 
+2. | Hotels and motels | 1.0 space for each sleeping room plus 1.0 space per employee
+on the largest shift plus any spaces as required for restaurant and/or
+banquet or conference facilities | 
+H. | Industrial Uses | Minimum Parking Requirement | 
+1. | Establishments for the manufacture, processing or assembling
+of goods | 2.0 spaces per 1,000 square feet of gross floor area | 
+2. | Warehouses, wholesale businesses, truck terminals | 4.0 spaces per each 1,000 square feet of office space plus 3.0
+spaces per loading bay | 
+I. | Other Uses | Minimum Parking Requirement | 
+2. | Day-care facilities | 1.0 space per employee plus 1.0 space per eight licensed client
+capacity | 
+
+
+food handling establishments
+https://ecode360.com/8843364
+0.3015279477250138
+ | Up to and including 2,000 square feet | $150 | 
+ | 2,001 square feet and over | $250 | 
+
+
+dl      disposition list
+https://ecode360.com/8846470
+0.29533343151743324
+Plan and Zoning Commission | 10-15-2019 | Zoning Amendment | Ch. 383 | 50 | 
+Board of Selectmen | 3-11-2020 | Dance Halls and Other Public Entertainment Repealer | Ch. 204, reference only | 50 | 
+Plan and Zoning Commission | 2-18-2020 | Zoning Amendment | Ch. 383 | 51 | 
+Plan and Zoning Commission | 9-1-2020 | Zoning Amendment | Ch. 383 | 51 | 
+Plan and Zoning Commission | 4-6-2021 | Zoning Amendment | Ch. 383 | 52 | 
+Plan and Zoning Commission | 4-20-2021 | Zoning Amendment | Ch. 383 | 52 | 
+Plan and Zoning Commission | 5-18-2021 | Zoning Amendment | Ch. 383 | 52 | 
+Board of Selectmen | 9-8-2021 | Public Property, Use of Amendment | Ch. 307 | 52 | 
+
+
+vi      tax abatement for volunteer firefighters
+https://ecode360.com/8843996
+0.2857183365787152
+2 | $100 | $200 | 
+3 | $200 | $400 | 
+4 | $300 | $600 | 
+5 | $400 | $800 | 
+6 or more | $500 | $1,000 | 
+
+
+xix      application fees
+https://ecode360.com/8844431
+0.27685333142285795
+ | Square Feet | Fee | 
+ | 0 to 500 | $50.00 | 
+ | 501 to 1,000 | $75.00 | 
+ | 1,001 to 5,000 | $100.00 | 
+ | Over 5,000 | $200.00, plus $5.00 per square foot over 5,000
+square feet | 
+
+
+iii      municipal animal control agreement
+https://ecode360.com/8842728
+0.2558130796909738
+Attached hereto and made a part hereof.[1] | 
+
+
+littering
+https://ecode360.com/8843437
+0.20984592097952492
+ | 1 to 25 | 1 | 
+ | 26 to 50 | 2 | 
+ | 51 to 100 | 4 | 
+ | 101 to 200 | 5 | 
+ | 201 to 400 | 6 | 
+ | For each additional 200 parking spaces | 1 | 
+
+
+historic district and commission
+https://ecode360.com/8842675
+0.1838393309940664
+Commencing from a point located on the westerly boundary of Orange Center
+Road 670 feet, more or less, north of the northern corner of the intersection
+of Meetinghouse Lane and Orange Center Road, the Historic District is bounded: | 
+NORTHERLY for 285 feet, more or less, by land now or formerly of the
+Orange Cemetery Association; | 
+WESTERLY for 295 feet, more or less, by other land of the Southern New
+England Telephone Company along a line defined by and being in part an extension
+of the westerly boundary line of land now or formerly of Charles Enders and
+Ruth Enders; | 
+SOUTHERLY for 123 feet, more or less, by land now or formerly of Albert
+M. Clark and Hannah Clark Russell; | 
+WESTERLY for 307.1 feet, more or less, by land now or formerly of Albert
+M. Clark and Hannah Clark Russell; | 
+NORTHERLY for 136.5 feet, more or less, by land now or formerly of Albert
+M. Clark and Hannah Clark Russell; | 
+WESTERLY for 200 feet, more or less, by land now or formerly of Albert
+M. Clark and Hannah Clark Russell; and then | 
+across Meetinghouse Lane by a line which is an extension of the westerly
+boundary line of land now or formerly of Albert M. Clark, Jr., and Charlotte
+R. Clark, and then by the southerly boundary of Meetinghouse Lane for 250
+feet, more or less, to the northwest corner of land now or formerly of Marie
+Louise Coppolla and Louis L. Coppolla; and then | 
+WESTERLY for 124.8 feet, more or less, by land now or formerly of Frederick
+C. Pilbro and Audrey J. Pilbro; | 
+SOUTHERLY for 230 feet, more or less, by land now or formerly of Hannah
+Clark Russell; | 
+WESTERLY from that point for 359 feet, more or less, along a straight
+line to the northwest corner of land now or formerly of Kenyon H. Case, by
+land now or formerly of Hannah Clark Russell; | 
+WESTERLY for 92 feet, more or less, by land now or formerly of Hannah
+Clark Russell; | 
+SOUTHERLY for 59 feet, more or less, by land now or formerly of Hannah
+Clark Russell; | 
+WESTERLY for 136 feet, more or less, by land now or formerly of Hannah
+Clark Russell; | 
+SOUTHERLY for 300 feet, more or less, by land now or formerly of Hannah
+Clark Russell; and then | 
+across Orange Center Road by a line which is an extension of the southerly
+boundary line of land now or formerly of Albert M. Clark III and Susan Clark,
+and then by the easterly boundary of Orange Center Road for 320 feet, more
+or less, to the southwest corner of land now or formerly of Norman W. Boppert;
+and then | 
+SOUTHERLY for 251.6 feet, more or less, by land now or formerly of Helen
+Racz, et al; | 
+EASTERLY for 220.7 feet, more or less, by land now or formerly of Arthur
+Boppert and Gemma Boppert; and then | 
+across Porter Lane by a straight line to the southeast corner of land
+now or formerly of Leonard Pollack and Sonya A. Pollack; and then | 
+EASTERLY for 302 feet, more or less, by land now or formerly of Marie
+Johnston; | 
+SOUTHERLY for 15 feet, more or less, by land now or formerly of Marie
+Johnston; | 
+EASTERLY for 30 feet, more or less, by land now or formerly of Marie
+Johnston; | 
+EASTERLY for 128 feet, more or less, by land now or formerly of Kathryn
+B. Clark, et al; | 
+EASTERLY for 260 feet, more or less, by other lands of Kathryn B. Clark,
+et al; | 
+SOUTHERLY for 30 feet, more or less, by land now or formerly of Kathryn
+B. Clark, et al; | 
+EASTERLY for 316 feet, more or less, by land now or formerly of the
+Town of Orange; and then | 
+across Tyler City Road by a line which is an extension of the easterly
+boundary line of land now or formerly of the Town of Orange, and then by the
+northerly boundary of Tyler City Road for 217 feet, more or less, to the intersection
+of the northerly boundary of Tyler City Road and a line defined by and being
+an extension of the easterly face of the Town Hall; and then | 
+EASTERLY for 275 feet, more or less, along a line defined by and being
+in part an extension of the easterly face of the Town Hall and of the Fire
+House, by other lands of the Town of Orange; | 
+SOUTHERLY for 90 feet, more or less, along a line defined by and being
+in part an extension of the southerly face of a projection of Mary Tracy School,
+by other lands of the Town of Orange; | 
+EASTERLY for 130 feet, more or less, along a line defined by an easterly
+face of the Mary Tracy School, by other lands of the Town of Orange; | 
+SOUTHERLY for 40 feet, more or less, along a southerly face of the Mary
+Tracy School, by other lands of the Town of Orange; | 
+EASTERLY for 225 feet, more or less, along a line defined by and being
+in part an extension of the easterly face of the Mary Tracy School to the
+southerly boundary of Schoolhouse Lane, by other lands of the Town or Orange; | 
+SOUTHERLY for 120 feet, more or less, along the southerly boundary of
+Schoolhouse Lane, by land now or formerly of the Town of Orange; and then | 
+across Schoolhouse Lane to the southeast corner of land now or formerly
+of the Town of Orange by a line which is an extension of the easterly boundary
+line of land now or formerly of the Town of Orange; and then | 
+EASTERLY for 150 feet, more or less, by land now or formerly of Harriet
+W. Rogers; | 
+NORTHERLY for 75 feet, more or less, by land now or formerly of Harriet
+W. Rogers; | 
+EASTERLY for 151 feet, more or less, by land now or formerly of Harriet
+W. Rogers; | 
+NORTHERLY for 143.1 feet, more or less, by land now or formerly of Harriet
+W. Rogers; | 
+WESTERLY for 150 feet, more or less, by land now or formerly of Harriet
+W. Rogers; | 
+NORTHERLY for 25 feet, more or less, by land now or formerly of Harriet
+W. Rogers; | 
+EASTERLY for 50 feet, more or less, by land now or formerly of Harriet
+W. Rogers; | 
+NORTHERLY for 155 feet, more or less, by land now or formerly of Harriet
+W. Rogers to the easterly boundary of Orange Center Road; and then | 
+by the easterly boundary of Orange Center Road for 330 feet, more or
+less, to a point opposite the point of beginning, and then across Orange Center
+Road by a straight line to the point of beginning. | 
+
+
+noise
+https://ecode360.com/8843529
+0.002795006064508415
+ | 3 | 15 | 
+ | 6 | 5 | 
+
+
+xviii      off street parking and loading
+https://ecode360.com/8846240
+-9.66538696641761e-05
+ | 
+
+
+dl      disposition list
+https://ecode360.com/8846470
+-1.0789990856590514
+Plan and Zoning Commission | 2-20-2001 | Acceptance of Code | Ch. 380, Art. II | 
+Inland Wetlands and Water Courses Commission | 2-27-2001 | Acceptance of Code | Ch. 380, Art. I | 
+Board of Selectmen | 3-14-2001 | Adoption of Code | Ch. 1, Art. I | 
+Board of Selectmen | 5-9-2001 | Property maintenance | Ch. 305 | 
+Plan and Zoning Commission | 6-19-2001 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 6-19-2001 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 8-8-2001 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 9-12-2001 | Government Access Television Committee | Ch. 68 | 
+Board of Selectmen | 10-10-2001 | Septic tank wastes repealer | Ch. 325, Art. I | 
+Plan and Zoning Commission | 10-16-2001 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 4-10-2002 | Passive open space | Ch. 294, Art. IV | 
+Board of Selectmen | 5-8-2002 | Parks and recreation: passive open space amendment;
+inland wetlands and watercourses regulations amendment | Chs. 294, Art. IV and 381 | 
+Board of Selectmen | 9-5-2002 | Property tax exemption for veterans | Ch. 350, Art. VIII | 
+Board of Selectmen | 9-18-2002 | Noise | Ch. 290 | 
+Board of Selectmen | 10-9-2002 | Assistant Town Clerks and Assistant Registrars
+of Vital Statistics | Ch. 100, Art. I | 
+Board of Selectmen | 10-9-2002 | Alcoholic beverages: possession by minors | Ch. 172, Art. III | 
+Plan and Zoning Commission | Effective 11-19-2002 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | Effective 2-10-2003 | Land use applications fees amendment | Ch. 270 | 
+Inland Wetlands and Water Courses Commission | 2-11-2003 | Inland wetlands and watercourses regulations
+amendment | Ch. 381 | 
+Plan and Zoning Commission | 2-18-2003 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 4-9-2003 | Community services amendment | Ch. 36 | 
+Plan and Zoning Commission | 5-28-2003 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 5-28-2003 | Subdivision of land amendment | Ch. 382 | 
+Plan and Zoning Commission | 5-28-2003 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 7-9-2003 | Noise amendment | Ch. 290 | 
+Inland Wetlands and Water Courses Commission | 9-3-2003 | Inland wetlands and watercourses regulations
+amendment | Ch. 381 | 
+Board of Selectmen | 10-8-2003 | Inland wetlands and watercourses violations
+amendment | Ch. 195, Art. III | 
+Board of Selectmen | 12-10-2003 | Taxation: Hebrew Day School exemption | Ch. 350, Art. IX | 
+Board of Selectmen | 12-10-2003 | Trees amendment | Ch. 360 | 
+Plan and Zoning Commission | 2-17-2004 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 2-17-2004 | Subdivision regulations amendment | Ch. 382 | 
+Inland Wetlands and Water Courses Commission | 3-9-2004 | Inland wetlands and watercourses regulations
+amendment | Ch. 381 | 
+Board of Selectmen | 6-9-2004 | Code of Ethics | Ch. 53 | 
+Plan and Zoning Commission | 7-6-2004 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 10-5-2004 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 2-1-2005 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 5-12-2005 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 6-7-2005 | Subdivision regulations amendment | Ch. 382 | 
+Plan and Zoning Commission | 6-7-2005 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 6-7-2005 | Land use applications | Ch. 270 | 
+Board of Selectmen | 8-10-2005 | Eminent domain | Ch. 51 | 
+Plan and Zoning Commission | 8-16-2005 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 8-16-2005 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 8-16-2005 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 9-20-2005 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 4-19-2006 | Bid solicitation and exceptions amendment | Ch. 11 | 
+Plan and Zoning Commission | 2-21-2006 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 3-7-2006 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 5-10-2006 | Tax relief for certain elderly and/or totally
+disabled homeowners amendment | Ch. 350, Art. VII | 
+Plan and Zoning Commission | 9-5-2006 | Subdivision regulations amendment; zoning amendment | Chs. 382; 383 | 
+Board of Selectmen | 10-11-2006 | Emergency Management Advisory Council | Ch. 28 | 
+Plan and Zoning Commission | 11-6-2006 | Zoning amendment | Ch. 383 | 
+Inland Wetlands and Water Courses Commission | 2-13-2007 | Inland wetlands and watercourses regulations
+amendment | Ch. 381 | 
+Board of Selectmen | 2-15-2007 | Noise amendment | Ch. 290 | 
+Plan and Zoning Commission | 4-17-2007 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 8-8-2007 | Housatonic River Estuary Commission | Ch. 76 | 
+Plan and Zoning Commission | 9-18-2007 | Zoning amendment | Ch. 383 | 
+Inland Wetlands and Water Courses Commission | 10-10-2007 | Inland wetlands and water courses regulations
+amendment | Ch. 381 | 
+Board of Selectmen | 1-9-2008 | Fuel-efficient vehicles | Ch. 233 | 
+Plan and Zoning Commission | 2-5-2008 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 3-12-2008 | Inland Wetlands and Water Courses Commission
+amendment | Ch. 81 | 
+Board of Selectmen | 6-18-2008 | Use of public property amendment | Ch. 307 | 
+Plan and Zoning Commission | 12-2-2008 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 3-11-2009 | Tax relief for certain elderly and/or totally
+disabled homeowners amendment | Ch. 350, Art. VII | 
+Plan and Zoning Commission | 4-21-2009 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 5-2-2009 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 5-5-2009 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 5-5-2009 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 5-5-2009 | Zoning Map amendment | NCM | 
+Plan and Zoning Commission | 5-5-2009 | Zoning Map amendment | NCM | 
+Board of Selectmen | 5-13-2009 | Excavation of streets and highways amendment | Ch. 339, Art. I | 
+Plan and Zoning Commission | 11-4-2009 | Zoning amendment | Ch. 383 | 
+Board of Selectmen |  | Land use application fees amendment | Ch. 270 | 
+Plan and Zoning Commission | 3-16-2010 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 6-15-2010 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 6-15-2010 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 6-15-2010 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 11-10-2010 | Flood damage prevention amendment | Ch. 223 | 
+Plan and Zoning Commission | 11-16-2010 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 12-7-2010 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 6-8-2011 | Municipal Animal Control Agreement | Ch. 83, Art. III | 
+Plan and Zoning Commission | 6-21-2011 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 7-19-2011 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 9-6-2011 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 10-4-2011 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 10-12-2011 | Harassment policies: harassment-free workplace | Ch. 118, Art. II | 
+Plan and Zoning Commission | 1-17-2012 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 1-17-2012 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 3-14-2012 | Food-handling establishments amendment | Ch. 227 | 
+Board of Selectmen | 3-14-2012 | Massage establishments amendment | Ch. 281 | 
+Board of Selectmen | 3-14-2012 | Sewage disposal systems amendment | Ch. 325, Art. II | 
+Board of Selectmen | 3-14-2012 | Wells amendment | Ch. 374 | 
+Board of Selectmen | 4-11-2012 | Outdoor burning amendment | Ch. 190 | 
+Board of Selectmen | 4-11-2012 | Fire prevention: fees | Ch. 217, Art. I | 
+Plan and Zoning Commission | 8-21-2012 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 11-20-2012 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 4-2-2013 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 6-4-2013 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 9-17-2013 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 11-19-2013 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 12-11-2013 | Pawnbrokers (repealer only) | Ch. 298 | 
+Board of Selectmen | 3-11-2014 | Bamboo | Ch. 175 | 
+Board of Selectmen | 6-11-2014 | Legion of Christ tax exemption repealer | Ch. 350, Art. III (footnote only) | 
+Board of Selectmen | 6-11-2014 | Chinmaya Mission Fairfield New Haven tax exemption | Ch. 350, Art. III | 
+Board of Selectmen | 10-8-2014 | Firearms amendment | Ch. 211 | 
+Board of Selectmen | 12-10-2014 | Library amendment | Ch. 91 | 
+Plan and Zoning Commission | 1-6-2015 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 6-2-2015 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 6-10-2015 | New Haven Hebrew Day School tax exemption amendment | Ch. 350, Art. IX | 
+Plan and Zoning Commission | 2-2-2016 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 2-10-2016 | Solid waste: recycling amendment | Ch. 331, Art. II | 
+Plan and Zoning Commission | 4-19-2016 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 5-10-2017 | Flood damage prevention amendment | Ch. 223 | 
+Board of Selectmen | 5-10-2017 | Property tax exemption for veterans amendment | Ch. 350, Art. VIII | 
+Plan and Zoning Commission | 9-19-2017 | Zoning amendment | Ch. 383 | 
+Plan and Zoning Commission | 10-3-2017 | Zoning amendment | Ch. 383 | 
+ | 11-7-2017 | Charter amendment | Sections 1.1 through 11.3 | 
+Plan and Zoning Commission | 12-5-2017 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 12-13-2017 | Gas-burning equipment repealer | Ch. 236, reference only | 
+Plan and Zoning Commission | 3-20-2018 | Zoning amendment | Ch. 383 | 
+Board of Selectmen | 6-13-2018 | Illicit discharges and connections | Ch. 384 | 
+Board of Selectmen | 6-13-2018 | Food-handling establishments: licensing of places serving foods
+or beverages covered by State Public Health Code amendment | Ch. 227, Art. I | 
+Plan and Zoning Commission | 2-5-2019 | Zoning Amendment | Ch. 383 | 
+Board of Selectmen | 2-13-2019 | Taxation: Additional Property Tax Exemption for Veterans Amendment | Ch. 350, Art. VIII | 
+Plan and Zoning Commission | 3-19-2019 | Zoning Amendment | Ch. 383 | 
+Plan and Zoning Commission | 5-7-2019 | Zoning Amendment | Ch. 383 | 
+
+

@@ -1,0 +1,749 @@
+ii      establishment of districts
+https://ecode360.com/6175460
+0.6567087700715779
+R-1 Residential District | 
+R-2 Residential District | 
+R-3 Residential District | 
+R-4 Residential District[Added 5-1-2006] | 
+MR Multifamily Residential District | 
+DR Duplex Residential District | 
+MH Mobile Home Park Residential District | 
+HR Historic Residential District | 
+HB Historic Business District | 
+GC General Commercial District | 
+IP Industrial Park District | 
+RPC Residential Planned Community District[Added 12-3-2012] | 
+
+
+xv      off street parking
+https://ecode360.com/6176283
+0.5567134008118034
+ | Single-family and multifamily dwellings and
+townhouses | 2 per dwelling unit | 
+ | Rooming, boarding-, or bed-and-breakfast, tourist
+homes | 2 for the resident owner or manager and 1 per
+rental room | 
+ | Hotels, motels or lodging inns | 1 per rental room or suite, plus 1 per 3 employees.
+If a restaurant open to the public is operated in connection with
+such use, additional off-street parking space meeting the minimum
+requirements for a restaurant must be provided | 
+ | Restaurants, taverns, bars and nightclubs | 1 per 2 seats for patron use, or 1 for each
+50 square feet assigned for patron use, whichever provides the greater
+number of parking spaces, plus 1 per 2 employees on the largest shift | 
+ | Indoor and outdoor commercial recreation | 1 for each 150 square feet of floor area or
+1 per 4 seats for patron use, whichever provides the greater number
+of spaces | 
+ | Offices, office buildings, banks or other financial
+offices | 1 space per 2 employees and 1 per 200 square
+feet of floor area used for customers or offices, excluding the basement | 
+ | Retail stores | 1 space per 200 square feet of floor area | 
+ | Beauty and barber shops or other personal services | 1 space per 200 square feet of floor area | 
+ | Furniture and appliance stores | 1 space per 200 square feet of floor area | 
+ | Funeral homes | 1 per 20 square feet of floor area for seating
+accommodations, plus 1 per employee | 
+ | Automobile service and repair garages | 1 space for each employee plus 3 for each service
+bay | 
+ | Day-care centers or private preschools and kindergartens | 1 per 350 square feet of floor area, plus 1
+per employee | 
+ | Public libraries | 1 per 400 square feet of floor area for public
+use, plus 1 per 2 employees | 
+ | Medical and dental clinics and offices | 1 for each 2 employees, plus 4 per doctor or
+dentist | 
+ | Churches or other places of worship | 1 for each 5 seats | 
+
+
+iii      assessments and fees
+https://ecode360.com/6174160
+0.44558369223244154
+ | 1. | House or dwelling with one kitchen and one or
+more baths and bedroom(s) separate from kitchen | 1.0 | 
+ | 2. | House or dwelling with one kitchen and one or
+more baths and bedroom(s) separate from kitchen and attached to other
+dwelling or structures | 1.0 | 
+ | 3. | Mobile home with one kitchen and one or more
+baths and bedroom(s) separate from kitchen | 1.0 | 
+ | 4. | Apartment with one kitchen and one or more baths
+and bedroom(s) separate from kitchen | 1.0 | 
+ | 5. | Efficiency unit or a rental vacation cottage
+having a living space in one room and having one bath | .6 | 
+ | 6. | Motel or hotel room without kitchen and with
+bath | 1/3 | 
+ | 7. | Gas station with one service bay | 2.0 | 
+ | 8. | Each additional gas station service bay in excess
+of one | 1.0 | 
+ | 9. | Retail store(s) building 0.10 gallon per day
+per square foot, 300 gallons per day = 1 EDU (1 EDU per 3,000 square
+feet) | 1.0 min./bld. | 
+ | 10. | Laundromat 300 gallons per day per washer, 300
+gallons per day = 1 EDU (1 EDU per washer) plus 7 FU | 6.0 min. | 
+ | 11. | Office units 0.3 gallons per day per square
+foot, 300 gallons per day = EDU (1 EDU per 1,000 square feet) | 1.0 min./bld. | 
+
+
+subdivision of land
+https://ecode360.com/6174707
+0.43512907787417476
+ | "It hereby is certified that the section or
+sections of this subdivision plot plan distinctively shown hereon
+as the part to be recorded were granted approval by the Mayor and
+Town Council of Selbyville on ______(date)_______, and accordingly,
+the section or sections so shown are eligible for recording in the
+office of the Recorder of Deeds for Sussex County, Delaware. | 
+ | ________________
+Mayor" | 
+
+
+subdivision of land
+https://ecode360.com/6174707
+0.4345881033501201
+ | "It hereby is certified that this subdivision
+plot plan was granted approval by the Mayor and Council of the Town
+of Selbyville on ______ (date) ______ and accordingly is eligible
+for recording in the office of the Recorder of Deeds for Sussex County,
+Delaware. | 
+ | ________________
+Mayor" | 
+
+
+subdivision of land
+https://ecode360.com/6174707
+0.4311694662405743
+ | "It hereby is certified that this subdivision
+plot plan was granted provisional approval valid for five years by
+the Mayor and Council of the Town of Selbyville on ___ (date)_____,
+subject to presentation to Mayor and Council of successive sections
+thereof to be considered for approval. Only such section hereof as
+may be granted specific Mayor and Town Council approval and so certified
+by the Mayor may be eligible for recording in the office of the Recorder
+of Deeds for Sussex County, Delaware. | 
+ | ________________
+Mayor" | 
+
+
+vi      other single family detached dwellings districts and residential planned community district
+https://ecode360.com/6175587
+0.4268237709397629
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XXI, Administration and Enforcement | 
+§ 200-36, Residential Planned Community (RPC) District | 
+
+
+viii      general provisions
+https://ecode360.com/6174302
+0.4230000053159529
+BOD — Biochemical oxygen demand. | 
+CFR — Code of Federal Regulations. | 
+COD — Chemical oxygen demand. | 
+EPA — United States Environmental Protection
+Agency. | 
+gpd — Gallons per day. | 
+mg/l — Milligrams per liter. | 
+NPDES — National Pollutant Discharge Elimination
+System. | 
+POTW — Publicly owned treatment works. | 
+RCRA — Resource Conservation and Recovery
+Act. | 
+SIC — Standard Industrial Classification. | 
+TSS — Total suspended solids. | 
+U.S.C. — United States Code. | 
+
+
+subdivision of land
+https://ecode360.com/6174707
+0.41265657840142933
+ | "I hereby certify that this map and the survey
+has been made under my supervision and complies with the Laws of the
+State of Delaware, the Ordinance of The Town of Selbyville and that
+the error in closure does not exceed one in five thousand. I further
+certify that all monuments and corner markers have been accurately
+set under my supervision. | 
+ | Licensed Engineer or Land Surveyor No.____" | 
+
+
+iii      assessments and fees
+https://ecode360.com/6174160
+0.39728195755918855
+ | 12. | Churches and attached facilities and buildings | 
+ | 13. | Fire stations | 
+ | 14. | Convention halls and public gathering places | 
+ | 15. | Municipal buildings | 
+ | 16. | Bus stations and other public depots | 
+
+
+xv      off street parking
+https://ecode360.com/6176283
+0.3831369970962585
+ | Single-family and multi-family dwellings and
+townhouses | 2 per dwelling unit; 1.5 per one-bedroom dwelling
+unit for elderly housing | 
+ | Single-family and multifamily dwellings and
+townhouses rented by owner | 2 per rental unit, plus 1 for each additional
+bedroom over 2 | 
+ | Rooming, boarding, bed-and-breakfast, tourist
+homes | 1 per rental room, plus 2 for the resident owner
+or manager | 
+ | Hotels, motels | 1 per rental room or suite, plus 1 per 3 employees.
+If a restaurant open to the public is operated in connection with
+such use, additional off-street parking space meeting the minimum
+requirements for a restaurant must be provided | 
+ | Restaurants, taverns, bars and nightclubs | 1 per 2 seats per patron use or 1 for each 50
+square feet assigned for patron use, whichever provides the greater
+number of parking spaces, plus 1 per 2 employees on the largest shift | 
+ | Indoor and outdoor commercial recreation | 1 for each 150 square feet of floor area or
+1 per 4 seats for patron use, whichever provides the greater number
+of spaces, plus 1 per 2 employees | 
+ | Offices, office buildings, banks or other financial
+offices | 1 per 200 square feet of floor area, exclusive
+of basement, if not used for office or customer service purposes,
+plus 1 per 2 employees | 
+ | Retail stores | 1 per 200 square feet of floor area used for
+sales or display of merchandise purposes, plus 1 for each 2 employees
+on the largest shift | 
+ | Beauty/barber shops or other personal services | 1 per 200 square feet of floor area, plus 1
+per 2 employees | 
+ | Shopping centers | 1 per 1,000 square feet of gross leasable area,
+plus 1 per 2 employees | 
+ | Furniture and appliance stores | 1 per 400 square feet of floor area devoted
+to sales and display purposes, plus 1 per 2 employees | 
+ | Food service drive-in facility | 15 spaces minimum, plus 1 space per 150 square
+feet of floor area | 
+ | Funeral homes | 1 per 20 square feet of floor area used for
+seating accommodations, plus 1 per employee | 
+ | Commercial nurseries, sales or outdoor equipment
+or furniture sales of new and used cars, trucks, boats, mobile homes,
+trailers and campers | 2 per salesmen during peak period employment,
+minimum of 5 for customers | 
+ | Car wash establishments: coin do-it-yourself | 2 at waiting areas for each lane; 2 at exit
+areas for each lane | 
+ | Car wash establishments: coin-operated automatic
+drive through | 4 at waiting area for each lane; 4 at exit area
+for each lane | 
+ | Car wash establishments: employee-operated | 8 at waiting area for each lane; 4 at exit area
+for each lane | 
+ | Gasoline filling stations | 2 for employees, plus 1 for each service bay | 
+ | Automobile service and repair garages | 1 space for each employee plus 3 for each service
+bay or one per 500 square feet of floor space, whichever is greater | 
+ | Wholesaling or manufacturing establishments | 1 for every 2 employees on the major shift | 
+ | Day-care centers or private preschools or kindergartens | 1 per 350 square feet of floor area, plus 1
+per employee | 
+ | Elementary and junior high or middle schools | 3 per room used for administrative purposes,
+plus 1 per classroom, plus 1 for each 5 seats in the auditorium or
+gymnasium or other facility open to the public | 
+ | Senior high, trade or vocational schools, colleges
+and universities | 3 per room used for administrative offices,
+plus 1 for every 10 pupils enrolled, plus 1 for each 5 seats in the
+auditorium, gymnasium or other facility open to the public | 
+ | Stadiums, theaters and community centers | 1 per 4 fixed seats in the assembly area or
+for each 50 square feet of floor area for rooms having seats | 
+ | Public libraries | 1 per 400 square feet of floor area for public
+use, plus 1 per 2 employees | 
+ | Nursing homes, convalescent homes, homes for
+the aged and hospitals | 1 for each 4 patient beds, plus 1 per 2 employees
+on the largest shift, 1 for each 3 patient beds, except bassinets,
+plus 1 per medical staff member, plus 1 per 2 employees on the largest
+shift | 
+ | Medical and dental clinics and offices | 1 for each 2 employees, plus 4 per doctor or
+dentist | 
+ | Churches or other places of worship | 1 for each 5 seats | 
+
+
+x      hr historic residential district
+https://ecode360.com/6175828
+0.3609623589530578
+ | Article I, Definitions and word usage | 
+ | Article XIV, Signs | 
+ | Article XVII, Conditional Uses | 
+ | Article XVIII, Nonconforming Uses | 
+ | Article XIX, Board of Adjustment | 
+ | Article XX, HDC Historic District Commission | 
+ | Article XXI, Administration and Enforcement | 
+
+
+xvi      off street loading
+https://ecode360.com/6176304
+0.3542676294479429
+Retail store, department store, restaurant,
+wholesale house, warehouse, general service, manufacturing or industrial
+establishment | 2,000-10,000 
+10,000-20,000 
+20,000-40,000 
+40,000-60,000 
+Each 50,000 over 60,000 | 1 
+2 
+3 
+4 
+1 additional | 
+Apartment building, motel, hotel office or office
+building, hospital or similar institution or place of public assembly | 5,000-25,000 
+25,000-100,000 
+100,000-200,000
+ Each 100,000 over 200,000 | 1 
+2 
+3 
+1 additional | 
+Funeral home or mortuary |  | 1 berth for each chapel | 
+
+
+vi      other single family detached dwellings districts and residential planned community district
+https://ecode360.com/6175587
+0.3473117883726403
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XXI, Administration and Enforcement | 
+
+
+ix      mh mobile home park residential district
+https://ecode360.com/6175788
+0.3375540273292593
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XXI, Administration and Enforcement | 
+
+
+subdivision of land
+https://ecode360.com/6174707
+0.33543185417493704
+ | Attest: | Town Clerk | By: | ________________
+Mayor | 
+ |  |  |  | ________________
+Member
+________________
+Member | 
+
+
+vii      mr multifamily residential district
+https://ecode360.com/6175678
+0.33373357977546153
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XXI, Administration and Enforcement | 
+
+
+xi      hb historic business district
+https://ecode360.com/6175875
+0.3291754655853024
+ | Single-family dwelling | 10,000 | 75 | 100 | 4.4 | 
+ | Business/other | 10,000 | 75 | 100 | 4.4 | 
+
+
+xi      hb historic business district
+https://ecode360.com/6175875
+0.3291754655853024
+ | Single-family dwelling | 30 | 10 | 10 | 
+ | Business/other | 30 | 5 | 5 | 
+
+
+xi      hb historic business district
+https://ecode360.com/6175875
+0.3291754655853024
+ | Single-family dwelling | 35 | 3 | 
+ | Business/other | 35 | 3 | 
+
+
+viii      miscellaneous provisions
+https://ecode360.com/6176706
+0.3261463009487236
+The notices or responses to the franchising authority shall be addressed
+as follows: | 
+Town of Selbyville
+68 West Church Street
+Selbyville, DE 19975
+Attention: Mayor and Council | 
+The notices or responses to the grantee shall be addressed as follows: | 
+Mediacom of Lower Delaware/Maryland
+P.O. Box 440
+Millsboro, Delaware 19966
+Attention: Donald E. Zagorski, General Manager | 
+with a copy to: | 
+Mediacom LLC
+100 Crystal Run Road
+Middletown, NY 10941
+Attention: Mark E. Stephan, Sr. Vice President and CFO | 
+The franchising authority and the grantee may designate such other address
+or addresses from time to time by giving notice to the other. | 
+
+
+xi      wastewater discharge permit application
+https://ecode360.com/6174415
+0.32023228261834147
+"I certify under penalty of law that this document
+and all attachments were prepared under my direction or supervision
+in accordance with a system designed to assure that qualified personnel
+properly gather and evaluate the information submitted. Based on my
+inquiry of the person or persons who manage the system, or those persons
+directly responsible for gathering the information, the information
+submitted is, to the best of my knowledge and belief, true, accurate
+and complete. I am aware that there are significant penalties for
+submitting false information, including the possibility of fine and
+imprisonment for knowing violations." | 
+
+
+iv      r   residential district
+https://ecode360.com/6175502
+0.3200977933460599
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XXI, Administration and Enforcement | 
+
+
+v      r   residential district
+https://ecode360.com/6175545
+0.31219719147036284
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XXI, Administration and Enforcement | 
+
+
+xi      hb historic business district
+https://ecode360.com/6175875
+0.30221256273504266
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XX, HDC Historic District Commission | 
+Article XXI, Administration and Enforcement | 
+
+
+viii      dr duplex residential district
+https://ecode360.com/6175737
+0.3011535057157262
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XXI, Administration and Enforcement | 
+
+
+iii      assessments and fees
+https://ecode360.com/6174160
+0.29439741869150926
+ | NOTE: Establishments listed below, 17 through
+24, shall be assigned EDUs as a fixed number of EDUs, plus a number
+of EDUs based on the number of FUs. | 
+
+
+iv      r   residential district
+https://ecode360.com/6175502
+0.2914687498394116
+ | Single-family | 30 | 7 minimum aggregate of 15 | 10 | 
+
+
+x      hr historic residential district
+https://ecode360.com/6175828
+0.28809749343154256
+ | Article XV, Off-Street Parking | 
+
+
+plumbing
+https://ecode360.com/6174015
+0.2875972949137764
+Section 101.1. Insert: Town of Selbyville. | 
+Section 106.5.2. is deleted. | 
+Section 106.5.3. is deleted. | 
+Section 108.4. is revised to read as follows: | 
+Violations and penalties. Any person who shall violate a provision of
+this code or shall fail to comply with any of the requirements thereof or
+who shall erect, install, alter or repair plumbing work in violation of the
+approved construction documents or directive of the Code Official, or of a
+permit or certificate issued under the provisions of this code, shall be punishable
+by a fine of $200 per day, plus costs, including attorney's fees. Each day
+that a violation continues after due notice has been served shall be deemed
+a separate offense. | 
+Section 108.5. Insert: "$50 per day" in the first blank and "$200 per
+day" in the second blank. | 
+Section 305.6.1. is revised to read as follows: | 
+Sewer depth. Building sewers that connect to private sewage disposal
+systems shall be a minimum of inches (mm), as established by the town, below
+finished grade at the point of septic tank connection. Building sewers shall
+be a minimum of inches, as established by the town (mm), below grade. | 
+Section 904.1. is revised to read as follows: | 
+Roof extension. All open vent pipes that extend through a roof shall
+be terminated at least a number of inches (mm), as established by the town,
+above the roof, except that where a roof is to be used for any purpose other
+than weather protection, the vent extensions shall be run at least seven feet
+(2134 mm) above the roof. | 
+
+
+v      r   residential district
+https://ecode360.com/6175545
+0.28356814796371466
+ | Single-family | 30 | 7 minimum aggregate of 15 | 10 | 
+
+
+xii      gc general commercial district
+https://ecode360.com/6175933
+0.2822167327171107
+Article I, Definitions and word usage | 
+Article XIV, Signs | 
+Article XV, Off-Street Parking | 
+Article XVII, Conditional Uses | 
+Article XVIII, Nonconforming Uses | 
+Article XIX, Board of Adjustment | 
+Article XXI, Administration and Enforcement | 
+
+
+vii      mr multifamily residential district
+https://ecode360.com/6175678
+0.27694918301183546
+ | Single-family dwelling | 7,500 | 75 | 100 | 5.8 | 
+ | Multifamily | 3,630 | 75 | 100 | 12 | 
+ | Duplex | 3,750 | 75 | 100 | 11.6 | 
+
+
+vii      mr multifamily residential district
+https://ecode360.com/6175678
+0.27503514058414347
+ | Single-family detached | 30 | 7-15 aggregate | 10 | 
+ | Duplex | 30 | 7-15 aggregate | 10 | 
+ | Multifamily | 30 | 7-15 aggregate | 30 | 
+
+
+vii      mr multifamily residential district
+https://ecode360.com/6175678
+0.266272207170265
+ | All | 35 | 3 | 
+
+
+x      hr historic residential district
+https://ecode360.com/6175828
+0.26556711883461914
+ | Single-family | 7,500 | 75 | 100 | 5.8 | 
+
+
+x      hr historic residential district
+https://ecode360.com/6175828
+0.26556711883461914
+ | Single-family | 30 | 10 | 10 | 
+
+
+x      hr historic residential district
+https://ecode360.com/6175828
+0.26556711883461914
+ | Single-family | 35 | 3 | 
+
+
+vi      other single family detached dwellings districts and residential planned community district
+https://ecode360.com/6175587
+0.2608342564463476
+ | Single-family | 20,000 | 110 | 100 | 2.2 | 
+
+
+vi      other single family detached dwellings districts and residential planned community district
+https://ecode360.com/6175587
+0.2608342564463476
+ | Single-family | 30 | 15 | 30 | 
+
+
+vi      other single family detached dwellings districts and residential planned community district
+https://ecode360.com/6175587
+0.2608342564463476
+ | Single-family | 35 | 3 | 
+
+
+vi      other single family detached dwellings districts and residential planned community district
+https://ecode360.com/6175587
+0.2608342564463476
+ | Single-family | 12,000 | 100 | 120 | 2.2 | 
+
+
+vi      other single family detached dwellings districts and residential planned community district
+https://ecode360.com/6175587
+0.2608342564463476
+ | Single-family | 30 | 15 | 30 | 
+
+
+vi      other single family detached dwellings districts and residential planned community district
+https://ecode360.com/6175587
+0.2608342564463476
+ | Single-family | 35 | 3 | 
+
+
+building construction
+https://ecode360.com/6173450
+0.2494065875230679
+ | § 101.1. | Insert: Town of Selbyville | 
+ | § 1612.3. | Insert: Town of Selbyville | 
+ | § 1612.3. | Insert: [June 16, 1995] | 
+ | § 3410.2 | Insert: June 6, 2005 [effective date] | 
+
+
+xii      gc general commercial district
+https://ecode360.com/6175933
+0.2491439205459612
+ | Other | 40 | 10 | 30 | 
+
+
+xii      gc general commercial district
+https://ecode360.com/6175933
+0.2491439205459612
+ | Other | 35 | 3 | 
+
+
+xiii      ip industrial park district
+https://ecode360.com/6176031
+0.24198645987304257
+Declaration of Protective Covenants | 
+[Adopted 5-22-1991] | 
+
+
+iv      r   residential district
+https://ecode360.com/6175502
+0.2336202614197672
+ | Single-family | 7,500 | 75 | 100 | 5.8 | 
+
+
+iv      r   residential district
+https://ecode360.com/6175502
+0.2336202614197672
+ | Single-family | 35 | 3 | 
+
+
+viii      dr duplex residential district
+https://ecode360.com/6175737
+0.22789089445280197
+ | Duplex | 30 | 7 | 10 | 
+ | Single-family detached | 30 | 7 each | 10 | 
+
+
+v      r   residential district
+https://ecode360.com/6175545
+0.22571965954407017
+ | Single-family | 10,000 | 90 | 100 | 4.3 | 
+
+
+v      r   residential district
+https://ecode360.com/6175545
+0.22571965954407017
+ | Single-family | 35 | 3 | 
+
+
+building construction
+https://ecode360.com/6173450
+0.22532135060927322
+ | § R101.1 | Insert: Town of Selbyville | 
+ | Table R301.2(1) | Insert. 120 mph (Basic wind speed) | 
+
+
+xii      gc general commercial district
+https://ecode360.com/6175933
+0.22425137747641735
+ | All uses | 10,000 | 75 | 100 | 4.4 | 
+
+
+viii      dr duplex residential district
+https://ecode360.com/6175737
+0.2063250010724308
+ | Duplex | 35 | 3 | 
+ | Single-family detached | 35 | 3 | 
+
+
+dl      disposition list
+https://ecode360.com/6176714
+0.169591763465969
+Ord. | 12-3-2018 | Subdivision of Land Amendment | Ch. 160 | 21 | 
+Ord. | 9-9-2019 | Zoning Amendment | Ch. 200 | 21 | 
+Ord. | 11-4-2019 | Zoning Amendment | Ch. 200 | 21 | 
+Ord. | 12-3-2007 | Elections: Mayor and Council Members | Ch. 10, Art. I | 22 | 
+Ord. | 8-5-2019 | Zoning Amendment | Ch. 200 | 22 | 
+Ord. | 8-3-2020 | Comprehensive Plan | NCM | 22 | 
+
+
+viii      dr duplex residential district
+https://ecode360.com/6175737
+0.1693020720177865
+ | Duplex | 3,750/Unit | 75 | 100 | 11.6 | 
+
+
+dl      disposition list
+https://ecode360.com/6176714
+-0.24100413566496798
+Res. | 6-14-2000 | Charter | Charter | 
+Ord. No. 114 | 9-11-2000 | Adoption of Code | Ch. 1, Art, I | 
+Ord. No. 94 | 5-7-2001 | Noise | Ch. 108 | 
+Ord. | 7-2-2001 | Zoning amendment (Industrial Park Declaration
+of Protective Covenants) | Ch. 200 | 
+Ord. | 11-5-2001 | Zoning amendment (definitions) | Ch. 200 | 
+Ord. | 12-3-2001 | Licensing of businesses amendment | Ch. 73 | 
+Ord. | 12-3-2001 | Building construction amendment | Ch. 61 | 
+Ord. | 12-3-2001 | Zoning amendment (bed-and-breakfasts) | Ch. 200 | 
+Ord. | 12-3-2001 | Housing standards | Ch. 95 | 
+Ord. | 1-7-2002 | Zoning amendment (off-street parking) | Ch. 200 | 
+Ord. | 6-3-2002 | Property maintenance amendment | Ch. 131 | 
+Ord. | 6-3-2002 | Licensing of businesses amendment | Ch. 73 | 
+Ord. | 6-3-2002 | Numbering of properties amendment | Ch. 113 | 
+Ord. | 6-3-2002 | Building construction amendment | Ch. 61 | 
+Ord. | 6-3-2002 | General penalty | Ch. 10 | 
+Ord. | 6-3-2002 | Housing standards amendment | Ch. 95 | 
+73 Del.Laws, c. 323 | 6-25-2002 | Charter amendment | C-20.2.1.1 | 
+Ord. | 11-4-2002 | Zoning amendment (churches and parks) | Ch. 200 | 
+Ord. | 1-6-2003 | Zoning amendment (places of worship) | Ch. 200 | 
+Ord. | 3-10-2003 | Solid waste amendment | Ch. 150 | 
+73 Del.Laws, c. 2 | 7-15-2003 | Charter amendment | C-4.2.30 | 
+Ord. | 11-3-2003 | Subdivision of land amendment | Ch. 160 | 
+Ord. | 2-2-2004 | Zoning amendment | Ch. 200 | 
+Ord. | 2-2-2004 | Arcades amendment | Ch. 49 | 
+Ord. | 2-2-2004 | Billiards repealed | Ch. 56 | 
+Ord. | 8-2-2004 | Handicapped parking signs | Ch. 184, Art. III | 
+Ord. | 1-10-2005 | Vehicles and traffic amendment | Ch. 184 | 
+Ord. | 3-7-2005 | Zoning Map amendment | NCM | 
+Ord. | 6-6-2005 | Building construction amendment | Ch. 61 | 
+Ord. | 4-3-2006 | Vehicles and traffic amendment | Ch. 184 | 
+Ord. | 5-1-2006 | Zoning amendment | Ch. 200 | 
+Ord. | 6-6-2006 | Comprehensive Plan | Ch. 7 | 
+Ord. | 6-6-2006 | Fireworks and firearms | Ch. 89 | 
+Ord. | 7-10-2006 | Property maintenance amendment | Ch. 131 | 
+Ord. | 8-7-2006 | Zoning amendment | Ch. 200 | 
+Ord. | 4-2-2007 | Sewers | Ch. 146 | 
+Ord. | 6-4-2007 | Zoning amendment | Ch. 200 | 
+Ord. | 8-6-2007 | Zoning amendment | Ch. 200 | 
+Ord. | 12-3-2007 | Comprehensive Plan | Ch. 7 | 
+Ord. | 12-3-2007 | Elections: Mayor and Council Members | Ch. 10, Art. I | 
+Ord. | 2-4-2008 | Zoning amendment | Ch. 200 | 
+Ord. | 2-4-2008 | Zoning amendment | Ch. 200 | 
+Ord. | 5-5-2008 | Water service regulations amendment | Ch. 195, Part 1 | 
+Ord. | 10-6-2008 | Water service regulations amendment | Ch. 195, Part 1 | 
+Ord. | 10-5-2009 | Zoning amendment | Ch. 200 | 
+Ord. | 11-2-2009 | Zoning amendment | Ch. 200 | 
+Ord. | 2-6-2012 | Water amendment | Ch. 195 | 
+Ord. | 4-2-2012 | Zoning amendment | Ch. 200 | 
+Ord. | 12-3-2012 | Zoning amendment | Ch. 200 | 
+Ord. | 2-4-2013 | Zoning amendment | Ch. 200 | 
+Ord. | 8-4-2014 | Sewers amendment; subdivision of land amendment; water: service
+regulations amendment | Chs. 146; 160; 195, Part 1 | 
+Ord. | 11-3-2014 | Flood damage prevention | Ch. 91 | 
+Ord. | 1-5-2015 | Zoning amendment | Ch. 200 | 
+Ord. | 1-9-2017 | Zoning amendment | Ch. 200 | 
+Ord. | 7-3-2017 | Property maintenance amendment | Ch. 131 | 
+Ord. | 8-7-2017 | Zoning amendment | Ch. 200 | 
+
+

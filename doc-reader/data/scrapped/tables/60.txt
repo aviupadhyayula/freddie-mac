@@ -1,0 +1,271 @@
+subdivision regulations
+https://ecode360.com/32539644
+0.4770352985755426
+Arterial | Greater than 5,000 | 60 | 32 | 
+Collector | 1,000 to 5,000 | 60 | 30 | 
+Local | 200 to 1,000 | 50 | 26 | 
+Limited local (dead-end streets) | Fewer than 200 | 50 | 24 | 
+
+
+iv      zoning districts and use regulations
+https://ecode360.com/32540415
+0.46395373389247074
+See also § 315-39 for additional requirements. | 
+
+
+vi      flexible residential development
+https://ecode360.com/32541461
+0.4377040856140204
+Subtract from the total gross area the total
+amount of wetlands, watercourses, water bodies, areas with slopes
+in excess of 20%, and areas with easements affecting development | Total area:
+Wetlands:
+Uplands: | 100.0 acres
+-20.0 acres
+80.0 acres | 100.0 acres
+-20.0 acres
+80.0 acres | 50.0 acres
+-10.0 acres
+40.0 acres | 
+Subtract 20% for open space | Open Space: | -16.0 acres
+64.0 acres | -16.0 acres
+64.0 acres | -8.0 acres
+32.0 acres | 
+Subtract a fixed percentage of 10% of the remaining
+acreage in the R-90 and 20% in the R-45 and R-25 Zoning Districts
+for street rights-of-way (ROW) | ROW:
+Net: | -6.4 acres
+57.6 acres | -12.8 acres
+51.2 acres | -6.4 acres
+25.6 acres | 
+Divide the underlying district lot area requirements
+to obtain the maximum of dwellings permitted |  | (90,000 square feet)
+27 dwellings | (45,000 square feet)
+49 dwellings | (25,000 square feet)
+47 dwellings | 
+
+
+vi      flexible residential development
+https://ecode360.com/32541461
+0.4227073711231666
+Subtract from the total gross area the total
+amount of wetlands and areas with easements affecting development | Total area:
+Wetlands:
+Uplands: | 100.0 acres
+-20.0 acres
+80.0 acres | 
+Calculate 50% for open space | Open space: | x 0.5 = 40.0 acres | 
+
+
+subdivision regulations
+https://ecode360.com/32539644
+0.4056152429516814
+* | Applicants shall determine the 85th percentile of operating
+speed on existing streets by conducting a speed study or by determining
+the AASHTO sight distance requirements for the posted speed limit
+plus 10 miles per hour. | 
+
+
+vii      parking and loading requirements
+https://ecode360.com/32541515
+0.38915849815412795
+* | One-way aisles located between a parking area
+and building requires a twenty-foot minimum width. | 
+
+
+subdivision regulations
+https://ecode360.com/32539644
+0.360304146017716
+Passing 5/8 inch | 100 | 
+Passing 1/2 inch | 90 to 100 | 
+Passing 3/4 inch | 30 to 100 | 
+Passing #4 | 0 to 80 | 
+Passing #8 | 0 to 35 | 
+Passing #100 | 0 to 2 | 
+
+
+ix      signage
+https://ecode360.com/32541603
+0.34138573564517
+Sign pertaining to the sale, lease or rental
+of property on which it is located | 6 square feet | 1 on each street frontage | Back of street line | No | 
+Sign pertaining to and during construction of
+property | 6 square feet | 1 per lot | 15-foot front setback | Yes | 
+Sign offering lots and/or homes for sale within
+an approved subdivision to be displayed for no more than 12 months,
+with 1 extension permitted | 25 square feet | 1 on each street frontage | 15-foot front setback | Yes | 
+Sign of civic and nonprofit organizations displayed
+for no more than 30 days in a 12-month period | 25 square feet | 1 per property | 15-foot front setback | Yes | 
+Holiday decoration without commercial advertising |  |  | 15-foot setback | No | 
+Seasonal decorations without commercial advertising
+sponsored by the Town | 72 inches vertical, 30 inches horizontal | 1 per utility pole | Located not to impair pedestrian or vehicular
+traffic sight lines | No | 
+
+
+iv      zoning districts and use regulations
+https://ecode360.com/32540415
+0.3052418609804572
+R-90 | 30 | 200 | 90,000 | 60,000 | 10% | 50 | 30 | 50 | 
+R-45 | 30 | 175 | 45,000 | 45,000 | 20% | 50 | 20 | 50 | 
+R-25 | 30 | 125 | 25,000 | 25,000 | 25% | 50 | 20 | 40 | 
+R-20 | 30 | 100 | 20,000 | 20,000 | 30% | 40 | 10 | 40 | 
+R-15 | 30 | 90 | 15,000 | 15,000 | 35% | 40 | 10 | 35 | 
+R-11 | 30 | 75 | 11,000 | 11,000 | 40% | 40 | 9 | 25 | 
+
+
+ix      signage
+https://ecode360.com/32541603
+0.3029965136851779
+Nameplate signs indicating the name of development | 12 square feet or | 1 for each street frontage where access exists | 15-foot front setback | Yes | 
+ | 25 square feet |  | 30-foot front setback | Yes | 
+Signs identifying the rental or property management
+agency | 6 square feet | 1 for each street frontage where access exists | Back of street line | No | 
+Signs pertaining to the sale, lease or rental
+of property for a period of 12 months | 25 square feet | 1 per property | 15-foot front setback | Yes | 
+
+
+ix      signage
+https://ecode360.com/32541603
+0.29394868528498497
+Nonilluminated nameplate sign | 1 square foot | 1 per lot | Back of street line | No | 
+Nonilluminated sign pertaining to a profession
+or occupation permitted as an accessory use without a special permit | 4 square feet | 1 per lot | Back of street line | Yes | 
+Sign pertaining to a profession or occupation
+where a special permit is required (nonilluminated sign only) | 6 square feet | 1 per lot | Back of street line | Yes | 
+Sign pertaining to institutional uses including,
+places of worship, schools, and nursing homes by special permit | 25 square feet | 1 on each street frontage | 15 ft. front setback | Yes | 
+
+
+dl      disposition list
+https://ecode360.com/32545485
+0.27813482463158756
+ | 5-7-1992 | Tax Abatement for Dairy Farms | Ch. A401, Art. II | 
+Ord. No. 94-01 | 8-29-1994 | Landfill Appeals Board | Ch. 66 | 
+Ord. No. 94-02 | 8-29-1994 | Pension Plan Amendment | Ch. 102, Art. II | 
+Ord. No. 95-01 | 7-27-1995 | Recycling Amendment | Superseded by Ord. No. 2005-01 | 
+Ord. No. 96-01 | 6-27-1996 | Justices of the Peace | Ch. 82, Art. III | 
+Ord. No. 99-01 | 4-7-1999 | Real Property Liens for Waste Removal Service Charges | Ch. 286, Art. IV | 
+Ord. No. 2000-01 | 5-17-2000 | Adult-Oriented Establishments | Ch. 134 | 
+Ord. No. 2000-02 | 5-17-2000 | Littering | Repealed 12-19-2019; see Ch. 1, Art. II | 
+Ord. No. 2000-03 | 5-17-2000 | Parking Regulations | Ch. 281, Art. I | 
+— | 3-1-2001 | Costs of Special Studies | Ch. 184, Art. I | 
+— | 7-30-2001 | Tax Abatement for Volunteer Fire and Ambulance Personnel | Ch. 270, Art. VI | 
+Ord. No. 2002-01 | 5-16-2002 | Social Services Commission Amendment | Ch. 111 | 
+Ord. No. 2002-02 | 5-16-2002 | Public Works Commission | Repealed 12-19-2019; see Ch. 1, Art. II | 
+Ord. No. 2005-01 | 5-24-2005 | Waste Management Collection and Disposal Amendment; Recycling
+Amendment | Ch. 286, Art. II; Ch. 286, Art. III | 
+— | 10-26-2006 | Ethics Amendment | Ch. 40 | 
+Ord. No. 2010-01 | 3-17-2010 | Other Post-Employment Benefits Trust | Ch. 102, Art. III | 
+— | 5-23-2013 | Exemption for Property Leased to Charitable, Religious or Nonprofit
+Organization | Ch. 270, Art. VII | 
+— | 2-27-2014 | Tax Exemption for Real and Personal Property Acquired by Certain
+Tax-Exempt Institutions | Ch. 270, Art. VIII | 
+— | 2-27-2014 | Sewers Amendment | Ch. 257 | 
+— | 8-5-2015 | Excess Tax Payments | Ch. 270, Art. IX | 
+ | 10-22-2015 | Fire Hydrant Winter Maintenance | Ch. 265, Art. IV | 
+ | 1-4-2019 | Zoning Regulations Amendment | Ch. 315 | 
+ | 12-19-2019 | Adoption of Code | Ch. 1, Art. II | 
+
+
+vii      parking and loading requirements
+https://ecode360.com/32541515
+0.2701539631290236
+Parallel parking or < 46° angle parking | 12 feet | 20 feet | 
+46° to 79° angle parking | 18 feet | 20 feet | 
+> 79° angle parking | 20 feet | 24 feet | 
+
+
+vi      abatement for volunteer fire and ambulance personnel
+https://ecode360.com/32539403
+0.220040738868215
+Level 1 | $500 | 
+Level 2 | $750 | 
+Level 3 | $1,000 | 
+
+
+subdivision regulations
+https://ecode360.com/32539644
+0.09625119954379377
+ | 
+
+
+subdivision regulations
+https://ecode360.com/32539644
+0.09625119954379377
+ | 
+
+
+ii      pension plan
+https://ecode360.com/32536107
+0.035046337363489805
+7-1-1988 | 9 | 
+7-1-1990 | 8 | 
+7-1-1992 | 7 | 
+7-1-1994 | 6 | 
+7-1-1996 | 5 | 
+
+
+vi      abatement for volunteer fire and ambulance personnel
+https://ecode360.com/32539403
+0.027150246524866695
+2> | $100 | $200 | 
+3> | $200 | $400 | 
+4> | $300 | $600 | 
+5> | $400 | $800 | 
+6> | $500 | $1,000 | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+
+ii      definitions
+https://ecode360.com/32540068
+-0.03135213081102173
+ | 
+
+

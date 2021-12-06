@@ -1,0 +1,2905 @@
+iii      districts and district maps
+https://ecode360.com/7602290
+0.7000347127036776
+AC | Agricultural Conservation | 
+AR | Agricultural Residential | 
+RS1 | Single-family Residential | 
+RS5 | Medium-Density Residential | 
+RMH | Residential Manufactured Home | 
+RM | Multifamily Residential | 
+BN | Neighborhood Business | 
+BC | Business Complex | 
+BG | General Business | 
+IL | Limited Industrial | 
+IG | General Industrial | 
+
+
+x      rmh   residential manufactured home district
+https://ecode360.com/7602985
+0.5759672617416672
+Cemeteries | 
+Child-care center | 
+Churches and ancillary uses | 
+Community swimming pools | 
+Country clubs, private clubs and service organizations[1] | 
+Detention and correctional institutions, reformatories
+and similar uses.[Added 10-13-1998 by Ord. No. 98-18] | 
+Group homes other than for the care of handicapped,
+elderly | 
+Home occupations (within a single-family attached
+or multifamily dwelling)[Amended 2-28-2006 by Ord. No. 06-03] | 
+Private educational institutions | 
+Public utilities and public utility uses | 
+PUD (Planned Unit Development) | 
+Sample homes[2] | 
+Semipublic or quasi-public schools[Added 10-14-1997 by Ord. No. 97-21] | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.5675059961612767
+R611.1. Definitions. POST FRAME BUILDING: A structural building
+frame consisting of a wood truss or rafters connected to vertical
+timber columns or sidewall posts, which function as the principal
+gravity and load resisting elements of the building. A building used
+for motor vehicles is considered a garage and must meet the requirements
+in Section R309 as well as Section 614 of this code. | 
+R612.1. Design loads. Plans are required to meet the minimum
+design loads noted in Table R301.2 (1). Uplift reaction forces involved
+are required to be provided. | 
+R612.2. Truss design drawings. Truss design drawings are required
+at the time of plan submittal. The building plans should specify the
+permanent bracing for cords and webs to meet the bracing requirements
+shown on the truss design drawings. | 
+R612.3. Size, grade, and species of wood members. All lumber
+shown on the submitted drawings should identify the size, grade and
+species or species group. Any engineered lumber should be identified
+by the product name, size and stress grade. | 
+R612.4. Isolation of siding. Methods and materials to isolate
+steel siding from preservative treated lumber should be specified
+26 and detailed on the submitted plans. | 
+R612.5. Connection of truss carrier to bearing post. Submitted
+plans shall specify a bearing notch, properly designed bearing block,
+or other means for positive load transfer. | 
+R612.6. Fastener schedule. Submitted plans are required to include
+a fastener schedule completely describing the fasteners and quantities
+required at each connection. Power-driven nails should specify the
+type, diameter and length. | 
+R612.7. Roofing and siding diaphragms. Submitted plans shall
+include metal roof and wall panel thickness, fastener type and size,
+and the fastener pattern for roof and siding panels. If stitch screws
+are required to attach metal sheet-to-sheet, the plans should show
+the locations. Shingled roofs shall meet the requirements of Section
+R905. | 
+R613.1. Footing depth. Footings for post frame structures shall
+extend a minimum of 40 inches (914 mm) below grade. | 
+R613.2. Footing size. Footings for all post frame structures
+shall be sized to support the loads imposed. Minimum footing sizes
+for all post frame structures shall be 18 inches (457 mm) diameter
+and a minimum of 12 inches (203 mm) thick concrete under the support
+posts. | 
+R613.3. Resistance to uplift. A lumber cleat shall be attached
+to the bottom of all vertical support posts to resist uplift. Exception:
+Other means to resist uplift may be used and should be noted on the
+submitted plans. | 
+R614.1. Preservative treatment. All wood in contact with the
+ground shall be preservative-treated meeting the requirements of Section
+R319. | 
+R614.2. Support posts. Support posts fabricated from multiple
+plies shall have the number of plies of lumber, lumber species, grade,
+and connection system between plies noted. | 
+R614.3. Truss carrier spans. The allowable spans for truss carriers
+shall support the load of the proposed roof structure and floor system
+if present. Fabricated or dimensional lumber shall not exceed the
+values set forth in Tables R617.4 (1) through R617.4 (3). Spans exceeding
+the values set forth in Tables R617.4 (1) through R617.4 (3) shall
+be engineered. | 
+
+
+viii      rs    medium density residential district
+https://ecode360.com/7602857
+0.5569326753209336
+Cemeteries | 
+Child-care center | 
+Churches and ancillary uses | 
+Cluster development | 
+Commercial recreational facilities | 
+Community swimming pools | 
+Country clubs, private clubs and service organizations | 
+Detention and correctional institutions, reformatories
+and similar uses.[Added 10-13-1998 by Ord. No. 98-18] | 
+Group homes other than for the care of handicapped,
+elderly | 
+Home occupations (within a single-family attached
+or multifamily dwelling)[Amended 2-28-2006 by Ord. No. 06-03] | 
+Hospitals, sanatoriums, nursing homes and convalescent
+homes | 
+Indoor recreational facilities, spas | 
+Manufactured home subdivisions | 
+Medical and dental clinics | 
+Nonprofit charitable and philanthropic organizations
+or institutions | 
+Public utilities and public utility uses | 
+PUD (Planned Unit Developments) | 
+Sample house[1] | 
+Semipublic or quasi-public schools[Added 10-14-1997 by Ord. No. 97-21] | 
+Temporary shelter facility | 
+
+
+vii      rs    single family residential district
+https://ecode360.com/7602797
+0.5529081746185277
+Accessory apartment (within a single-family detached and semi-detached
+dwelling)[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory cottage[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory structures and uses | 
+Agriculture on a lot of 10 acres or more | 
+Bus shelter [Added 3-14-2000 by Ord. No. 00-05; amended 1-15-2002 by Ord. No. 02-02] | 
+Community recreational facilities | 
+Duplex housing with each unit on a separate
+lot and with public water and sewer[Added 5-25-1993 by Ord. No. 93-07] | 
+ECHO housing as specified under Article IV, § 205-43, of this chapter[Added 5-13-1997 by Ord. No. 97-09] | 
+Emergency uses - police, fire, rescue | 
+Golf courses | 
+Group homes for the care of handicapped persons,
+elderly | 
+Home occupations as specified under Article XXII of this chapter[Added 2-28-2006 by Ord. No. 06-03] | 
+Private residential pools | 
+Public parks and open space | 
+Signs (for more information, see Article XVIII, Signs) | 
+Single-family detached dwellings | 
+Water-oriented recreational areas and uses | 
+Wildlife preserves | 
+
+
+xi      bn   neighborhood business district
+https://ecode360.com/7603045
+0.5403358904961651
+Apartments | 
+Bed-and-breakfast - country inn | 
+Child-care centers | 
+Churches and ancillary uses | 
+Detention and correctional institutions, reformatories
+and similar uses.[Added 10-13-1998 by Ord. No. 98-18] | 
+Dry cleaners | 
+Funeral establishments | 
+Gasoline pumps - accessory to permitted use | 
+Health centers and clinics, medical or dental | 
+Mini-warehouses[Added 12-18-2018 by Ord.
+No. 18-18] | 
+Off-premises monument sign[Added 6-23-2009 by Ord. No. 09-12] | 
+Public utilities and public utility uses | 
+Sample house[1] | 
+Temporary shelter facilities | 
+
+
+viii      rs    medium density residential district
+https://ecode360.com/7602857
+0.5393741195164673
+Accessory apartment (within a single-family detached and semi-detached
+dwelling)[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory cottage[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory structures and uses | 
+Agriculture on a lot of 10 acres or more | 
+Bus shelter[Added 3-14-2000 by Ord. No. 00-05; amended 1-15-2002 by Ord. No. 02-02] | 
+Community recreational facilities | 
+Duplex dwellings, semidetached and multiplex
+structures | 
+Emergency uses - police, fire, rescue | 
+Golf courses, country club facilities | 
+Group homes for the care of handicapped persons,
+elderly | 
+Home occupations as specified under Article XXII of this chapter[Added 2-28-2006 by Ord. No. 06-03] | 
+Home occupations (within a single-family detached
+or semidetached dwelling)[Added 2-28-2006 by Ord. No. 06-03] | 
+Libraries, museums, public buildings | 
+Pools for private residences | 
+Public parks and open space | 
+Signs (for more information, see Article XVIII, Signs) | 
+Single-family detached dwellings | 
+Townhouses | 
+Wildlife preserves | 
+
+
+xiiia      oc   office office complex district
+https://ecode360.com/7603194
+0.5338687801517936
+ | Banks, drive-in | 
+ | Barber/beauty shop | 
+ | Cafeteria | 
+ | Child-care facility | 
+ | Cleaners (pick-up only) | 
+ | Copy center | 
+ | Newsstand | 
+ | Office supply | 
+ | Off-premises monument sign[Added 6-23-2009 by Ord. No. 09-12] | 
+ | Restaurant | 
+ | Retail store | 
+ | Spa and health club | 
+
+
+x      rmh   residential manufactured home district
+https://ecode360.com/7602985
+0.5334633324771644
+Accessory apartment (within a single-family detached and semi-detached
+dwelling)[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory cottage[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory structures and uses | 
+Agriculture on a lot of 10 acres or more | 
+Bus shelter[Added 3-14-2000 by Ord. No. 00-05; amended 1-15-2002 by Ord. No. 02-02] | 
+Community recreational facilities | 
+ECHO housing as specified under Article IV, § 205-43, of this chapter[Added 5-13-1997 by Ord. No. 97-09] | 
+Emergency uses - police, fire, rescue | 
+Group homes for the care of handicapped persons,
+elderly | 
+Home occupations as specified under Article XXII of this chapter[Added 2-28-2006 by Ord. No. 06-03] | 
+Home occupations (within a single-family detached
+or semidetached dwelling)[Added 2-28-2006 by Ord. No. 06-03] | 
+Manufactured single-family homes on individual
+lots | 
+Manufactured home parks | 
+Manufactured home subdivisions | 
+Manufactured home sales, when associated with
+a manufactured home park or subdivision | 
+Private residential pools | 
+Public parks and open space | 
+Signs (for more information, see Article XVIII, Signs) | 
+Single-family detached dwellings[Amended 2-28-2006 by Ord. No. 06-03] | 
+
+
+ix      rm   multifamily residential district
+https://ecode360.com/7602920
+0.5111759619096089
+Accessory apartment (within a single-family detached and semi-detached
+dwelling)[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory buildings and uses | 
+Accessory cottage[Added 6-23-2009 by Ord. No. 09-11] | 
+Agriculture on a lot of 10 acres or more | 
+Apartments | 
+Bus shelter [Added 3-14-2000 by Ord. No. 00-05; amended 1-15-2002 by Ord. No. 02-02] | 
+Child-care centers | 
+Community recreational facility | 
+Detached, lot line, patio and village dwellings | 
+Duplexes, semidetached and multiplex dwellings | 
+Emergency uses - police, fire, rescue | 
+Golf courses | 
+Group homes for the care of handicapped persons,
+elderly | 
+Home occupations as specified under Article XXII of this chapter[Added 2-28-2006 by Ord. No. 06-03] | 
+Home occupations (for single-family detached
+or semidetached dwelling)[Added 2-28-2006 by Ord. No. 06-03] | 
+Libraries, museums, public buildings | 
+Modular - multifamily housing | 
+Private swimming pools | 
+Public parks and open spaces | 
+Signs (for more information, see Article XVIII, Signs) | 
+Townhouses | 
+
+
+vii      rs    single family residential district
+https://ecode360.com/7602797
+0.5057150186418008
+Bed-and-breakfast/country inn[1][Added 3-13-2001 by Ord. No. 01-02] | 
+Cemeteries | 
+Child-care center | 
+Churches and ancillary uses | 
+Cluster development | 
+Commercial greenhouses | 
+Community swimming pools | 
+Country clubs, private clubs and service organizations | 
+Craft centers | 
+Detention and correctional institutions, reformatories
+and similar uses[Added 10-13-1998 by Ord. No. 98-18] | 
+Dog grooming business[2] | 
+Group homes, other than for the care of handicapped,
+elderly[3] | 
+Hospitals, sanatoriums, nursing homes and convalescent
+homes | 
+Nursery farm | 
+Outside accessory storage | 
+Private educational institutions | 
+Public utilities and public utility uses | 
+PUD (Planned Unit Development) | 
+Roadside stands (seasonal) | 
+Sample house[4] | 
+School bus storage | 
+Semipublic or quasi-public schools[Added 10-14-1997 by Ord. No. 97-21] | 
+Stables, tack and harness shops and horse training | 
+
+
+xiiia      oc   office office complex district
+https://ecode360.com/7603194
+0.48341763182246855
+Accessory structures and uses | 
+Banks (not drive-in) | 
+Offices, business, professional or governmental | 
+Office complex (parks) | 
+
+
+x      required improvements
+https://ecode360.com/7600980
+0.4785098762841394
+ | Aboveground water tanks/towers | 50 | 100 | 180 | 
+ | Ground-mounted water tanks | Distance equal to tank/tower height | 100 | 35 | 
+ | Community sanitary sewer treatment buildings | 100 | 200 | 35 | 
+ | Community sanitary sewer drain fields - subsurface | 50 | 100 | N/A | 
+ | Community sanitary sewer drain fields - drip
+irrigation | 50 | 100 | N/A | 
+ | Community sanitary sewer well injection | 25 | 50 | N/A | 
+ | Community spray irrigation disposal fields* | 100 | 200 | N/A | 
+ | Sanitary sewer pump stations | 30 | 50 | 20 | 
+ | County/municipal sanitary sewer treatment plant
+facility | 100 | 500 | 35 | 
+ | Electrical distribution substations | 50 | 200 | 50 | 
+ | Liquid propane and/or natural gas substation | 100 | 200 | 20 | 
+ | Stormwater management ponds/basins | 30 | 100 | N/A | 
+
+
+xv      ig   general industrial district
+https://ecode360.com/7603304
+0.4766430685123952
+179 | Miscellaneous special trade contractors | 
+242 | Sawmills and planing mills | 
+323 | Glass products, made of purchased glass | 
+352 | Farm and garden machinery and equipment | 
+358 | Refrigeration and service industry machinery | 
+495 | Sanitary services | 
+521 | Lumber and other building material dealers | 
+753 | Automotive repair shops | 
+
+
+xii      bn   neighborhood business district
+https://ecode360.com/7603093
+0.46167282452812447
+Charitable and philanthropic organizations without
+liquor license | 
+Child-care center | 
+Churches and ancillary uses | 
+Conference center | 
+Dog-grooming establishment[Added 2-25-2003 by Ord. No. 03-05] | 
+Medical/dental laboratories | 
+Off-premises monument sign[Added 6-23-2009 by Ord. No. 09-12] | 
+Private clubs and service organizations without
+liquor license | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.44876850038715205
+Section 302.4. Prohibited growth of weeds and grass. | 
+Weeds and grass shall be no greater than 12 inches high on any
+parcel except as provided below. | 
+Section 302.4.1. Exception, Weeds do not include:
+(a) ornamental shrubs and trees, (b) a wildflower meadow maintained
+and located no less than 10 feet from any property line. | 
+Section 302.4.2. Application to agricultural parcels.
+This section shall not apply to any parcel that is a farm or property
+used exclusively for agricultural purposes. | 
+Section 302.4.3. Natural resource area plan. This
+section shall not apply to any parcel or portion thereof to the extent
+that it conflicts with a County- or state-approved plan, including,
+but not limited to, a landscape plan, record plan, reforestation plan
+or natural resource area management plan. | 
+Section 302.4.4. Trees. Outside of wooded areas,
+all trees shall be free from dead limbs or branches and dead trees
+shall be removed. | 
+Section 302.4.5. Shrubbery. All shrubbery shall
+be maintained so as not to encroach upon or extend beyond the line
+of any walkway or driveway. All shrubbery shall be trimmed from blocking
+any doors or hatchways. | 
+Section 302.4.6. Application to wooded areas. The
+provisions on high weeds and grass shall not apply to wooded areas,
+including, but not limited to, young and mature forest and critical
+natural areas. | 
+
+
+ix      rm   multifamily residential district
+https://ecode360.com/7602920
+0.44244041627744257
+Animal hospitals | 
+Banquet and conference facilities | 
+Bed-and-breakfast - country inn | 
+Cemeteries | 
+Child-care center | 
+Churches and ancillary uses | 
+Commercial recreational facilities | 
+Community swimming pools | 
+Country clubs, private clubs and service organizations | 
+Detention and correctional institutions, reformatories
+and similar uses.[Added 10-13-1998 by Ord. No. 98-18] | 
+Group homes other than for the care of handicapped,
+elderly | 
+Health centers and clinics, medical or dental | 
+Heliports and helipads | 
+Home occupations (within a single-family attached
+or multifamily dwelling)[Amended 2-28-2006 by Ord. No. 06-03] | 
+Hospitals, sanatoriums, nursing homes and convalescent
+homes | 
+Indoor recreational facilities/spas | 
+Manufactured home parks | 
+Manufactured home subdivisions | 
+Minor retail sales and service facilities | 
+Nonprofit charitable and philanthropic organizations
+and Institutions | 
+Private educational institutions | 
+Professional buildings | 
+Public utilities and public utility uses | 
+PUD (Planned Unit Development) | 
+Restaurant, tavern, cocktail lounges | 
+Rooming houses | 
+Sample house[1] | 
+Temporary shelter facilities | 
+
+
+xv      ig   general industrial district
+https://ecode360.com/7603304
+0.42941400637749244
+Child-care facilities, when associated with
+a business | 
+Contractor establishments and construction shops | 
+Detention and correctional institutions, reformatories
+and similar uses.[Added 10-13-1998 by Ord. No. 98-18] | 
+Heliports and helipads[1][Added 3-17-1998 by Ord. No. 98-04] | 
+Off-premises monument sign[Added 6-23-2009 by Ord. No. 09-12] | 
+Sand and gravel pits | 
+Tractor-trailer storage and parking | 
+Transfer station, waste management facility[Added 10-24-2000 by Ord. No. 00-26] | 
+
+
+vi      final plan preparation and procedure for major subdivisions
+https://ecode360.com/7600727
+0.428378142698015
+ | "This property is located in the vicinity of
+land used primarily for agricultural purposes on which normal agricultural
+uses and activities have been afforded the highest priority use status.
+It can be anticipated that such agricultural uses and activities may
+now or in the future involve noise, dust, manure and other odors,
+the use of agricultural chemicals and nighttime farm operations." | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.4283713924354381
+R315.2.1. New construction. For new construction, carbon monoxide
+alarms shall be provided in dwelling units. | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.42665422519893537
+R324.6. Roof access and pathways. Delete as written and add:
+Roof access, pathways and setback requirements shall be provided in
+accordance with Sections R324.6.1 and R324.6.2, through R324.6.2.1.
+Access and minimum spacing shall be required to provide emergency
+access to the roof, to provide pathways to specific areas of the roof,
+to provide for smoke ventilation opportunity areas, and to provide
+emergency egress from the roof. | 
+R324.6.1. Pathways. Delete as written and add: A
+36" pathway shall be provided on all edges, valleys and hips of roofs.
+Pathways on townhomes shall maintain at least 18" from the property
+line if the roof on either side of the property line shares the same
+plane. If the plane of the roof is different, a 36" pathway shall
+be provided on each side. | 
+R324.6.2. Setback at ridge. Delete as written and
+replace with: A 36" clear setback is required on each side of the
+horizontal ridge. | 
+R324.6.2.1. Alternative setback at ridge. Delete
+as written. | 
+
+
+iv      main system capital improvement fees
+https://ecode360.com/7599108
+0.4248258232401761
+ | 3-bowl commercial sink | 2 | 
+ | Washstand or lavatory | 1 | 
+ | Toilet | 2 | 
+ | Bath and shower | 1 | 
+ | Mop sink or service sink | 1 | 
+ | Flush urinal | 1 | 
+ | Continuous flush urinal | 3 | 
+ | Convenience outlet | 1 | 
+ | Domestic dishwasher | 2 | 
+ | Commercial dishwasher | 4 | 
+ | Drinking fountain | 1 | 
+ | Garbage disposal | 1 | 
+ | Residential washing machine | 1 | 
+
+
+iii      international building code
+https://ecode360.com/37407219
+0.4180582699082656
+305.2. Group E, day-care facilities. This group includes buildings
+and structures or portions thereof occupied by more than five children
+older than 2 1/2 years of age who receive educational or personal
+care services, or supervision for fewer than 24 hours per day. | 
+305.2.1. Within places of religious worship. Rooms
+and spaces within places of religious worship providing such day care
+during religious functions shall be classified as part of the primary
+occupancy. | 
+305.2.2. Five or fewer children. A facility having
+five or fewer children receiving such day care shall be classified
+as part of the primary occupancy. | 
+305.2.3. Five or fewer children in a dwelling unit.
+A facility such as the above within a dwelling unit and having five
+or fewer children receiving such day care shall be classified as a
+Group R-3 occupancy or shall comply with the International Residential
+Code/2018 and this code. | 
+Exception: Those buildings approved by the Department
+of Planning Services as a family child care home, caring for nine
+children or less, shall be classified as a Group R-3 or shall comply
+with the International Residential Code/2018. Compliance with any
+applicable provisions of Title III of the Americans with Disabilities
+Act shall be the responsibility of the applicant. | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.4139540227413816
+R502.3. Allowable joist spans. Spans for floor joists shall
+be in accordance with Tables R502.3.1(1) and R502.3.1 (2). For other
+grades and species and for other loading conditions, refer to the
+AWC STJR. | 
+R502.3.4. Deck floor joist spans. Deck floor joist spans shall
+be in accordance with the American Forest and Paper, Design for Acceptance
+#6, Prescriptive Residential Wood Deck Construction Guide. | 
+R502.5. Allowable girder and header spans. The allowable spans
+of girders and headers fabricated of dimension lumber shall not exceed
+the values set forth in Tables R602.7 (1), and R602.7 (2) and R602.7
+(3). | 
+R502.5.1. Deck girder spans. Deck girder spans shall be in accordance
+with the American Forest and Paper, Design for Acceptance #6, Prescriptive
+Residential Wood Deck Construction Guide. | 
+
+
+vi      ar   agricultural residential district
+https://ecode360.com/7602675
+0.4093738735726298
+ | NOTE: Minimum frontage requirement on culs-de-sac
+and radial curves may be reduced but must meet the minimum frontage
+requirement measure at the minimum front building setback line. | 
+ | NOTE: All residential access in village developments
+must be taken from an interior subdivision street. | 
+
+
+v      ac   agricultural conservation district
+https://ecode360.com/7602555
+0.40820617102074996
+ | NOTE: Minimum frontage requirement on culs-de-sac
+and radial curves may be reduced but must meet the minimum frontage
+requirement measured at the minimum front building setback line. | 
+ | NOTE: All residential access in village developments
+must be taken from an interior subdivision street. | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.4071881488348298
+R602.10. Wall bracing. Buildings shall be braced in accordance
+with this section or, when applicable, Section R602.12. Where a building,
+or portion thereof, does not comply with one or more of the bracing
+requirements in this section, those portions shall be designed and
+constructed in accordance with Section R301.1. | 
+Exception: Porches with roofs and screen porches
+shall not be required to comply with the requirements of R602.10.
+Wall bracing, when constructed with approved translucent or transparent
+plastic not more than 0.125 inch (3.2 mm) in thickness. | 
+
+
+vi      final plan preparation and procedure for major subdivisions
+https://ecode360.com/7600727
+0.4063238204262206
+ | "Within one year of initial construction of
+all stormwater management facilities, wetland and landscape plantings
+shall be installed and permanent metallic signage shall be placed
+at the SWM detention area indicating: 'Water Quality Management Area
+-- Do Not Mow.'" | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.3961668103564183
+R313.1. Townhouse automatic fire sprinkler systems. An automatic
+residential fire sprinkler system may be installed in townhouses. | 
+R313.2. One- and two-family dwelling automatic fire sprinkler
+systems. An automatic residential fire sprinkler system may be installed
+in one- and two-family dwellings. | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+0.3958415043599053
+ | "Property shown on this plan is impacted by
+the current Airport Environs Zoning Overlay. Any building constructed
+within the impacted area must comply with the acoustical performance
+standards found within the Kent County Zoning Ordinance and/or Kent
+County Code during the construction process, as to the degree of noise
+attenuation required." | 
+
+
+v      ac   agricultural conservation district
+https://ecode360.com/7602555
+0.39484406484058865
+Accessory apartment (within a single-family detached and semi-detached
+dwelling)[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory cottage[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory storage (enclosed) | 
+Accessory structures and uses | 
+Agriculture | 
+Aquaculture | 
+Bus shelter | 
+Cold storage lockers | 
+Community facilities, including recreational | 
+ECHO housing as specified under Article IV, § 205-43, of this chapter. | 
+Egg farms | 
+Emergency uses - police, fire, rescue | 
+Forestry | 
+Golf courses | 
+Greenhouses, commercial | 
+Group homes, for the care of handicapped persons,
+elderly | 
+Hides, raw fur and leather dressing | 
+Home-based contractor establishment, no outdoor storage[Added 10-27-2009 by Ord. No. 09-26] | 
+Home occupations as specified under Article XXII of this chapter | 
+Horse training facilities | 
+Hunting - commercial, private or public | 
+Ice house | 
+Manufactured homes on individual lots | 
+Nature areas | 
+Nature trails | 
+Nursery farms | 
+Private camps for seasonal residency | 
+Private pool[2] | 
+Public parks and open space | 
+Single-family detached dwellings | 
+Water-oriented recreational area and uses | 
+Wildlife preserves | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+0.39257631726776154
+ | Total Per-Student Construction Cost = $34,786
+Local Share = 29% or $10,088
+35% Local Share = $3,531
+Student Generation Rate (single-family) = 0.6 | 
+ | Per-Household Mitigation Payment calculation: 
+35% of Local Share $3,531 (in this example) x Student
+Generation Rate 0.6 (in this example) = Per=Household Mitigation Payment,
+$2,118/unit (in this example) | 
+ | *This example is for illustrative purposes only. The Total Per-Student
+Construction Cost and the Local Share are subject to change and revised
+periodically by the Delaware Department of Education; and the Student
+Generation Rate is subject to change based upon the most recent decennial
+census data for average school-aged children per household, and by
+age cohort. Based upon changes to those factors, the Per-Household
+Mitigation Payment is subject to change accordingly. | 
+
+
+vi      ar   agricultural residential district
+https://ecode360.com/7602675
+0.3923628313561788
+ | *NOTE: All properties that qualify for minor subdivision review will be allowed to subdivide (a maximum of four lots and a remainder), with a minimum lot size of one acre or as provided for in the § 205-397.2, Growth Zone Overlay District. | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.39160291473934794
+R405.1. Concrete or masonry foundations. Drains shall be provided
+around concrete or masonry foundations that retain earth and enclose
+crawl space/basements of habitable or usable spaces located below
+grade. Drainage tiles, gravel or crushed stone drains, perforated
+pipe or other approved systems or materials shall be installed at
+or below the top of the footing or below the bottom of the slab and
+shall discharge by gravity or mechanical means into an approved drainage
+system. Gravel or crushed stone drains shall extend not less than
+1 foot (305 mm) above the top of the footing and be covered with an
+approved filter membrane material. The top of open joints of drain
+ties shall be protected with strips of building paper. Except where
+otherwise recommended by the drain manufacturer, perforated drains
+shall be surrounded with an approved filter membrane or the filter
+membrane shall cover the washed gravel or crushed rock covering the
+drain. Drainage tiles or perforated pipe shall be placed on not less
+than two inches (51 mm) of washed gravel or crushed rock not less
+than one sieve size larger than the tile joint opening or perforation
+and covered with not less than six inches (152 mm) of the same material. | 
+Exception: A drainage system is not required where
+the foundation is installed on well-drained ground or sand-gravel
+mixture soils according to the Unified Soil Classification System,
+Group 1 soils, as detailed in Table R405.1 | 
+
+
+v      ac   agricultural conservation district
+https://ecode360.com/7602555
+0.39127954403431564
+ | *NOTE: All properties that qualify for minor subdivision review will be allowed to subdivide (a maximum of four lots and a remainder), with a minimum lot size of one acre or as provided for in the § 205-397.2, Growth Zone Overlay District. | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+0.3911742734502826
+ | Density | 3.5 DU/1 acre | 3.5 DU/1 acre | 1.5 DU/1 acre | 1.5 DU/1 acre | 
+ | Minimum lot area | 7,500 square feet | 10,000 square feet | 0.50 acre; 21,780 square feet | 0.50 acre; 21,780 square feet | 
+ | Maximum impervious surface coverage | 35% | 30% | 25% | 25% | 
+ | Minimum front yard setback | 25 feet | 30 feet | 30 feet | 30 feet | 
+ | Minimum side yard setback and (aggregate) | 10 feet (20 feet) | 10 feet (25 feet) | 15 feet (40 feet) | 15 feet (40 feet) | 
+ | Duplex, side yard setback (aggregate) | 0 feet (10 feet) |  |  |  | 
+ | Minimum rear yard setback | 25 feet | 25 feet | 30 feet | 30 feet | 
+ | Minimum frontage -- state road | 100 feet | 100 feet | 150 feet | 150 feet | 
+ | Duplex, minimum frontage -- state road | 75 feet |  |  |  | 
+ | Minimum frontage -- subdivision street | 65 feet | 75 feet | 80 feet | 100 feet | 
+ | Duplex, minimum frontage -- subdivision street | 45 feet |  |  |  | 
+ | Minimum lot width | 65 feet | 75 feet | 80 feet | 100 feet | 
+ | Duplex, minimum lot width | 45 feet |  |  |  | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.3900523886333679
+R310.2.5.1. Replacement window. At least one emergency escape
+and rescue opening complying with Section 310.2 is required in any
+sleeping room that is being added or gutted due to renovation to a
+structure. | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+0.38713682379699854
+ | Dwelling Units Permitted | 
+ | Total Dwelling Units Permitted/Total Site Area = Site Density | 
+
+
+xiv      il   limited industrial district
+https://ecode360.com/7603243
+0.3854576025937475
+Airfields | 
+Detention and correctional institutions, reformatories
+and similar uses.[1][Added 10-13-1998 by Ord. No. 98-18] | 
+Off-premises monument sign[Added 6-23-2009 by Ord. No. 09-12] | 
+Racetracks | 
+Radio/television facilities | 
+Sample homes[Added 12-8-1998 by Ord. No. 98-20] | 
+Stadiums | 
+
+
+vi      final plan preparation and procedure for major subdivisions
+https://ecode360.com/7600727
+0.3818687385134404
+ | "This property and/or dwelling unit is located
+in the vicinity of aircraft operations associated with the Dover Air
+Force Base. It can be anticipated that such aircraft operations may
+result in high noise disturbances or the potential for an aircraft
+accident." | 
+
+
+iii      international building code
+https://ecode360.com/37407219
+0.3816426840707017
+429.1. General. Home-based occupations as defined by Chapter 205, Zoning, shall be classified as Group R-3 occupancy and shall comply with the residential requirements of this code. Compliance with any applicable provisions of Title III of the Americans with Disabilities Act shall be the responsibility of the applicant. | 
+Exception: The building official or designee may
+determine that specific home occupations, including, but not limited
+to, auto repair shops, cabinet shops, and welding shops, may be required
+to comply with other provisions of this code pertaining to life and
+safety (e.g., building structural loads, ventilation, etc.). | 
+
+
+vi      ar   agricultural residential district
+https://ecode360.com/7602675
+0.3783746719155691
+Accessory apartment (within a single-family detached and semi-detached
+dwelling)[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory cottage[Added 6-23-2009 by Ord. No. 09-11] | 
+Accessory storage (enclosed) | 
+Accessory structures and uses | 
+Agriculture | 
+Aquaculture | 
+Bus shelter | 
+Cold storage lockers | 
+Community facilities, including recreational | 
+ECHO housing as specified under Article IV, § 205-43, of this chapter. | 
+Egg farms | 
+Emergency uses - police, fire, rescue | 
+Forestry | 
+Golf courses | 
+Greenhouses, commercial | 
+Group homes for the care of handicapped persons,
+elderly | 
+Hides, raw fur and leather dressing | 
+Home-based contractor establishment, no outdoor storage[Added 10-27-2009 by Ord. No. 09-26] | 
+Home occupations as specified under Article XXII of this chapter | 
+Horse training facilities | 
+Hunting - commercial, private or public | 
+Ice house | 
+Manufactured homes on individual lots | 
+Nature areas | 
+Nature trails | 
+Nursery farms | 
+Off-premises monument sign[Added 6-23-2009 by Ord. No. 09-12] | 
+Private camps for seasonal residency | 
+Private pool | 
+Public parks and open space[2] | 
+Single-family detached dwellings | 
+Water-oriented recreational area and uses | 
+Wildlife preserves | 
+
+
+iv      main system capital improvement fees
+https://ecode360.com/7599108
+0.3747578887420022
+ | NOTES:
+**Number of students (design capacity) as certified
+by the Delaware Department of Education. | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.36783173078639864
+Section 101.1.1. Jurisdiction. This chapter shall regulate all
+housing and property maintenance on properties located in unincorporated
+Kent County and in any of the incorporated municipalities that elect
+to have Kent County provide code enforcement services. Municipalities
+must make a formal request from their elected body in order for Kent
+County to assume enforcement of these property maintenance standards.
+Kent County Levy Court must take official action consenting to provide
+code enforcement services and may develop a fee schedule to offset
+additional costs. Kent County shall not be responsible for any costs
+related to legal action as part of municipal code enforcement. | 
+
+
+iii      international building code
+https://ecode360.com/37407219
+0.3635094873469179
+1612.3. Establishment of flood hazard areas. To establish flood
+hazard areas, the applicable governing authority shall adopt a Flood
+Hazard Map and supporting data. The Flood Hazard Map shall include,
+at a minimum, areas of special flood hazard as identified by the Federal
+Emergency Management Agency (FEMA) in an engineering report entitled
+"The Flood Insurance Study for Kent County, Delaware," date most recently
+enacted, as amended or revised, with the accompanying Flood Insurance
+Rate Map (FIRM) and Flood Boundary and Floodway Map (FBFM), along
+with any related supporting data pertaining to any revisions. The
+adopted Flood Hazard Map and supporting data are hereby adopted by
+reference and declared to be part of this section. | 
+
+
+iv      residential code
+https://ecode360.com/37407234
+0.36241213559678076
+R405.2.3. Drainage systems. In other than Group 1 soils, a sump
+shall be provided to drain the porous layer and footings. The sump
+shall be not less than 24 inches (610 mm) in diameter or 20 inches
+square (0.0129 m2), shall extend not less
+than 24 inches (610 mm) below the bottom of the crawl space or basement
+floor and shall be capable of positive gravity or mechanical drainage
+to remove any accumulated water. The drainage system shall discharge
+into an approved sewer system or to daylight | 
+
+
+sewer advisory board  regional
+https://ecode360.com/7598844
+0.3599857793861735
+ | Voting member and alternate voting member | City of Dover | 
+ | Voting member and alternate voting member | City of Milford | 
+ | Voting member and alternate voting member | Town of Smyrna | 
+ | Voting member and alternate voting member | Camden-Wyoming Sewer & Water Authority | 
+ | Voting member and alternate voting member | DAFB Wing Commander | 
+ | Voting member and alternate voting member | DNREC | 
+
+
+personnel policy
+https://ecode360.com/7598342
+0.3575857718819055
+ | New Year's Day | 
+ | Martin Luther King Jr. Day | 
+ | Presidents’ Day | 
+ | Good Friday | 
+ | Memorial Day | 
+ | Independence Day | 
+ | Labor Day | 
+ | Election Day in even-numbered years | 
+ | Veterans Day | 
+ | Thanksgiving Day | 
+ | Day after Thanksgiving | 
+ | Christmas Day | 
+ | Day after Christmas | 
+
+
+i      introduction  applicability and organization
+https://ecode360.com/7599464
+0.3569580034926415
+Note 1: The Federal Manufactured Home Construction and Safety Standards
+(MHCSS) cover one-family occupancies only. This chapter makes no provisions
+for other residential occupancies.
+Note 2: This chapter does not apply to manufactured homes used for other
+than dwelling purposes.
+Note 3: The provisions of this chapter shall not apply to recreational
+vehicles as defined in the National Fire Protection Association (NFPA) 501C,
+Standard for Recreational Vehicles, or to park trailers as defined by Delaware
+Code. | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+0.35599314976211155
+ | Minimum Lot Size/Area (square feet) | 7,000 | 4,000 | 2,000 | 1,700 per unit | 2,000 per unit | 
+ | Maximum Impervious Surface Lot Coverage | 40% | 40% | 45% | 45% | 45% | 
+ | Maximum Building Height (feet) | 35 | 35 | 35 | 45 | 45 | 
+ | Minimum Frontage (feet) | 60 | 40 | 20 | 60 | 60 | 
+ | Minimum Lot Width (feet) | 60 | 40 | 20 | 60 | 60 | 
+ | Front Yard Setback (feet) | 15 | 10 | 10 | 30 | 20 | 
+ | Side Yard Setback (feet) | 10 | 10 | 15, end units only | 15 | 15 | 
+ | Rear Yard Setback (feet) | 25 | 20 | 20 | 30 | 25 | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+0.3552392395543593
+ | Single-family detached | X | X | 
+ | Single-family semidetached | X | X | 
+ | Single-family attached | X | X | 
+ | Multifamily | X | Not permitted | 
+ | Multiplexes designed to emulate single-family
+detached dwellings; must be indicated on the plan | X | X | 
+ | Apartments constructed as a second story to
+detached accessory structures; must be indicated on the plan | X | X | 
+ | Dwellings located on the upper floors of commercial
+structures | X | X | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+0.35388171919733613
+ | (Area within Growth Zone x permitted density)
++ (Area outside overlay zone x permitted density) = Total | 
+
+
+iii      regulations of sewer use
+https://ecode360.com/7600039
+0.3516207344382868
+ | Actual pounds/month = total monthly flow (MG)
+x Average sample TOD concentration x 8.34 | 
+ | Where total monthly flow shall be provided by
+the SIU and represents the flow for the covered calendar month. | 
+
+
+x      required improvements
+https://ecode360.com/7600980
+0.34714571260678306
+ | Inside of Growth Zone | County sewer service, except that lots created through minor
+subdivision may utilize individual on-site septic | County sewer service | County sewer service1 | County sewer service1 | 
+ | Outside of Growth Zone | Individual on-site septic; 1 DU per 1 acre; minimum lot size
+of 1 acre.2, 3 | Individual on-site septic; 1 DU per 2 acres; minimum lot size
+of 2 acres.2, 3 | Individual on-site septic; 1 DU per 3 acres; minimum lot size
+of 3 acres.2, 3 | Individual on-site septic; 1 DU per 4 acres; minimum lot size
+of 4 acres.2, 3 | 
+
+
+vi      final plan preparation and procedure for major subdivisions
+https://ecode360.com/7600727
+0.3456221137673571
+ | "Lots ___ through/and _______ are impacted by
+the one-hundred-year floodplain. Notification of such shall be included
+on the sales contracts, deeds, and deed restrictions for the above-mentioned
+lots." | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+0.3414909643608756
+ | Density | 3 DU/1 acre | 1 DU/1 acre | 1 DU/1 acre | 1 DU/1 acre | 
+ | Minimum lot area | 10,000 square feet | 15,000 square feet | 0.50 acre;
+21,780 square feet | 0.50 acre;
+21,780 square feet | 
+ | Maximum impervious surface coverage | 35% | 30% | 25% | 25% | 
+ | Minimum front yard setback | 25 feet | 25 feet | 25 feet | 30 feet | 
+ | Minimum side yard setback and (aggregate) | 10 feet (25 feet) | 10 feet (25 feet) | 15 feet (40 feet) | 15 feet (40 feet) | 
+ | Minimum rear yard setback | 25 feet | 25 feet | 25 feet | 30 feet | 
+ | Minimum road frontage -- state or County numbered
+road | 100 feet | 100 feet | 150 feet | 150 feet | 
+ | Minimum road frontage -- subdivision street | 75 feet | 80 feet | 100 feet | 100 feet | 
+ | Minimum lot width | 75 feet | 80 feet | 100 feet | 100 feet | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+0.3414909643608756
+ | Density | 3 DU/1 acre | 2 DU/1 acre | 1.5 DU/1 acre | 1.5 DU/1 acre | 
+ | Minimum lot area | 8,000 square feet | 12,000 square feet | 0.50 acre;
+21,780 square feet | 0.50 acre;
+21,780 square feet | 
+ | Maximum impervious surface coverage | 35% | 30% | 25% | 25% | 
+ | Minimum front yard setback | 25 feet | 25 feet | 25 feet | 30 feet | 
+ | Minimum side yard setback and (aggregate) | 10 feet (20 feet) | 10 feet (25 feet) | 15 feet (40 feet) | 15 feet (40 feet) | 
+ | Minimum rear yard setback | 25 feet | 25 feet | 25 feet | 30 feet | 
+ | Minimum road frontage -- state or County numbered
+road | 100 feet | 100 feet | 150 feet | 150 feet | 
+ | Minimum road frontage -- subdivision street | 70 feet | 75 feet | 90 feet | 100 feet | 
+ | Minimum lot width | 70 feet | 75 feet | 90 feet | 100 feet | 
+
+
+iii      international building code
+https://ecode360.com/37407219
+0.33439809521961794
+308.5. Group I-4, day-care facilities. This group shall include
+buildings and structures occupied by persons of any age who receive
+custodial care for less than 24 hours by individuals other than parents
+or guardians or relatives by blood, marriage or adoption and in a
+place other than the home of the recipient of care. | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.328502787843723
+Section 101.5. Conflict. Where there is a conflict between a
+provision in this chapter and another chapter of the Kent County Code,
+the most-restrictive provision shall apply. | 
+
+
+iv      sewer system design
+https://ecode360.com/7600370
+0.32708040800321436
+ |  | Qmax/Qavg = (20+2 [EDU/10]1/2)/(5+2 [EDU/10]1/2) | 
+ | where: |  | 
+ |  | Qmax = Maximum rate of sewage flow | 
+ |  | Qavg = Average daily sewage flow | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+0.32702619910521163
+ | Minimum Lot Size (square feet) | 8,000 | 5,000 | 2,000 | 2,500 | 
+ | Maximum Impervious Surface Lot Coverage | 35% | 40% | 45% | 35% | 
+ | Maximum Building Height (feet) | 35 | 35 | 35 | 45 | 
+ | Minimum Frontage (feet) | 70 | 50 | 20 | 60 | 
+ | Minimum Lot Width (feet) | 70 | 50 | 20 | 60 | 
+ | Front Yard Setback (feet) | 25 | 20 | 10 | 25 | 
+ | Side Yard Setback (feet) | 10 | 10 | 15, end units only | 15 | 
+ | Rear Yard Setback (feet) | 25 | 25 | 30 | 30 | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+0.32517047754141193
+Sources: DNERRS, Kent County Parks Division,
+& Delaware Natural Heritage Inventory | 
+* For additional species, consult "The Flora
+of Delaware," an annotated checklist, McAvoy & Bennett, 2001. | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.3213987970177604
+Section 101.1, Title. These regulations shall be known as the
+"Kent County Property Maintenance Code," hereinafter referred to as
+"this chapter." | 
+
+
+part        fee schedule
+https://ecode360.com/13530608
+0.3202242074900087
+ | ** | After 5:00 p.m. nonprofit and community service organizations
+are exempt from the fees associated with usage of Rooms 117, 126 and
+221 (without audio-visual equipment) and the Library Conference Room. | 
+
+
+xi      design requirements and standards
+https://ecode360.com/7601066
+0.318593242438037
+ | Access | Interior access if the interior is developed;
+driveway design to allow potential future connection to interior street
+per DelDOT requirements for access | Interior access only; minimum 25% of lots fronting
+on connected routes | Interior access only; minimum 35% of lots fronting
+on connected routes | Interior access only; minimum 50% of lots fronting
+on connected routes; second entrance required when possible and permittable | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.31307498887445484
+Section 107.3.1, Method of service exception. In no case shall
+the Code Official be required by this section to provide a violation
+notice within a twelve-month period to any owner or person responsible
+previously provided notice pursuant to this section or under any former
+code provision where the same code violation is alleged by the Code
+Official to exist. | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.31231234385510487
+Section 106.6, Extensions. The Code Official is authorized to
+grant one or more extensions of time. The applicant must demonstrate
+justifiable cause, including reasons for the delay, plans for completion,
+and what actions the applicant has taken to correct the problem. The
+Code Official may set conditions regarding the time frame to rectify
+any violation as well as any other conditions such as, but not limited
+to, those prescribed by a court of law or the Board of License, Inspection,
+and Review. | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+0.3121222031638917
+ | 25 or larger | 10 | 3 | 
+ | 17 to 24 | 6 | 2 | 
+ | 9 to 16 | 6 | 1.75 | 
+ | 8 or less | 4 | 1.75 | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.31055689238363204
+Section 107.1. Notice to owner or person responsible. Whenever
+the Code Official determines that there has been a violation of this
+chapter, or has reasonable grounds to believe that a violation has
+occurred, notice shall be given in the manner prescribed in Section
+107.2 and Section 107.3 to the owner or person responsible for the
+violation as specified in this chapter. Notices for condemnation procedures
+shall also comply with Section 108.3. | 
+
+
+xix      cluster development
+https://ecode360.com/7603670
+0.30713522534668514
+ | Minimum lot area (in square feet) | 4,500 | 
+ | Maximum floor ratio | .50 | 
+ | Maximum yard width (feet) | 8 | 
+ | Minimum patio area (square feet) | 1,000 | 
+ | Minimum patio width (feet) | 20 | 
+ | Maximum height (feet) | 28 | 
+ | Off-street parking spaces | 2.5 | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.30680290120408316
+Section 101.6. No liability created. Nothing in this chapter
+shall create any liability for loss or damage resulting from the failure
+of the County to perform any responsibility set forth in this chapter
+or obligate the County to make any appropriation or expend any money
+not appropriated for any purpose set forth in this chapter. | 
+
+
+part        fee schedule
+https://ecode360.com/13530608
+0.2989759291297915
+ | $1 and less than $29,999.99 | $25 | 
+ | Over $30,000 and less than $99,999.99 | $50 | 
+ | Over $100,000 and less than $499,999.99 | $75 | 
+ | Over $500,000 and less than $999,999.99 | $100 | 
+ | Each additional increment of $0 up to $500,000 | $100 | 
+
+
+v      installation procedures
+https://ecode360.com/7599575
+0.2983627841050389
+ | Types of Foundation Systems - Main Components | 
+ | Piers-Ground anchors: The manufactured home rests on piers
+of concrete block; formed-in-place concrete; permanent wood; or steel pedestals
+on permanent wood, crushed stone or concrete footers. The ground anchors in
+the soil are angled to the resist straps or embedded in dead-men in the soil.
+Straps are tied to the frame, with or without over-the-top straps. | 
+ | Concrete slab or continuous footings: The manufactured
+home rests on a concrete slab or ribbons of concrete. The straps are tied
+between the frame and the perimeter footers or concrete slab. | 
+ | Pile/post system: The manufactured home rests on piles
+or posts placed sufficiently deep in the ground to resist all wind, snow and
+earthquake forces. Straps fasten the home to the piles or posts or to caps
+placed thereon. | 
+ | Concrete, concrete block or wood foundation, load-bearing, perimeter
+walls: The manufactured home rest on exterior load-bearing walls that
+sit on concrete or gravel footings. Straps fasten the home to the walls to
+resist all external forces. | 
+
+
+x      required improvements
+https://ecode360.com/7600980
+0.29647785342254895
+ | Notes: * - Spray irrigation systems meeting advanced treatment requirements of DNREC shall be governed by provisions of §187-53D(8) above. | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.2910096088286015
+Section 101.4. Severability. The provisions of this chapter
+shall be severable. If any provision of this chapter is found by a
+court of competent jurisdiction to be unconstitutional or void, such
+decision shall not affect the validity of the remaining portions of
+this chapter. | 
+
+
+iii      regulations of sewer use
+https://ecode360.com/7600039
+0.2829682142256863
+ | Total oxygen demand (TOD) | Historical average + 1 standard deviation | Historical average + 2 standard deviations | Historical average + 3 standard deviations | 
+ | Surcharge rates |  | $0.25/pound | $0.50/pound | 
+
+
+iv      sewer system design
+https://ecode360.com/7600370
+0.281249225237979
+ | C = 100 for unlined cast-iron pipe, ductile
+iron and steel pipe: 24 inches and larger | 
+ | C = 96 for unlined cast-iron, ductile iron and
+steel pipe: 12 inches and larger | 
+ | C = 89 for unlined cast-iron, ductile iron and
+steel pipe: four inches and larger | 
+ | C = 120 for cement-lined cast iron pipe, reinforced
+concrete pipe and asbestos-cement pressure pipe | 
+ | C = 130 for various types of gasketed plastic
+pipe | 
+ | C = 140 for HDPE pipe | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.27906424064282
+Section 101.7. Effect upon suits, proceedings, rights, liabilities.
+Nothing in this chapter or in any of the codes hereby adopted shall
+be construed to affect any suit or proceeding pending in any court
+or any rights acquired or liability incurred or any causes of action
+acquired or existing under any act or ordinance hereby repealed, nor
+shall any just or legal right or remedy of any character be lost,
+impaired, or affected by this chapter. | 
+
+
+property maintenance
+https://ecode360.com/7599862
+0.2775162686629842
+Section 106.1. Violations; generally. Any person who shall violate
+any provision(s) of this chapter or shall fail to comply with any
+of the requirements hereof shall be subject to any of the enforcement
+mechanisms and penalties outlined in this chapter. | 
+
+
+xi      design requirements and standards
+https://ecode360.com/7601066
+0.27723606994513694
+ | 25 or larger | 5 | 3 | 
+ | 17 to 24 | 3 | 2 | 
+ | 9 to 16 | 3 | 1.75 | 
+ | 8 or less | 2 | 1.75 | 
+
+
+xiv      il   limited industrial district
+https://ecode360.com/7603243
+0.2761928331179174
+323 | Glass products, made of purchased glass | 
+
+
+xii      bn   neighborhood business district
+https://ecode360.com/7603093
+0.2692879180128714
+Accessory structures and uses | 
+Agriculture (cropland and forest areas only) | 
+Emergency uses - police, fire, rescue | 
+Funeral establishments | 
+Health centers and clinics, medical or dental | 
+Nonmanufacturing scientific research facilities | 
+Nursing homes | 
+Office, general, professional | 
+Professional schools | 
+Research/data center | 
+Retail establishments: | 
+Art galleries | 
+Barber shop | 
+Beauty shop | 
+Bookstore (no adult entertainment
+space) | 
+Candy stores | 
+Data processing service center | 
+Delicatessen | 
+Drug stores | 
+Dry-cleaning pickup | 
+Florist shop | 
+Food catering establishment | 
+Gift shop | 
+Ice cream store | 
+Jewelry store | 
+Newsstand | 
+Office supply stores | 
+Photostats and blueprint establishment | 
+Public utilities and public utility
+uses | 
+Secretarial, telephone answering
+message center | 
+Shoe repair | 
+Small office equipment sales and
+service | 
+Stationery stores | 
+Telegraph and messenger service | 
+Tobacco stores | 
+Travel agencies | 
+Taxi stands | 
+Signs (for more information, see Article XVIII, Signs) | 
+Technical centers | 
+TV studios, radio broadcasting and recording
+studios (without towers) | 
+
+
+general provisions
+https://ecode360.com/7597982
+0.24397269787746953
+ | PUBLIC WORKS DIRECTOR: | 
+
+
+part        fee schedule
+https://ecode360.com/13530608
+0.2203133981447925
+ | Levy Court Chamber* | $40/hour | $55/hour | $60/hour | 
+ | Room 117** | $20/hour | n/a | n/a | 
+ | Room 126** | $20/hour | n/a | n/a | 
+ | Room 220 | $30/hour | $45/hour | $50/hour | 
+ | Room 221** | $20/hour | n/a | $35/hour | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+0.20492973487900312
+ | Antique shops | 
+ | Art galleries | 
+ | Bakery | 
+ | Banks | 
+ | Barber/beauty shop | 
+ | Bed-and-breakfast: country inn | 
+ | Bookstore (no adult entertainment space) | 
+ | Candy store | 
+ | Charitable and philanthropic organizations without
+liquor license | 
+ | Child-care center | 
+ | Churches and ancillary uses | 
+ | Coin-operated laundry | 
+ | Community centers | 
+ | Community pool and recreational facilities | 
+ | Delicatessen | 
+ | Drugstore | 
+ | Emergency uses: fire, police, rescue | 
+ | Florist | 
+ | Food catering establishment | 
+ | Gift shop | 
+ | Government buildings | 
+ | Grocery stores | 
+ | Hardware store | 
+ | Ice cream store | 
+ | Indoor recreation: racquetball, tennis, etc. | 
+ | Jewelry store | 
+ | Laundry and dry cleaning pickup | 
+ | Libraries, museums | 
+ | Newsstand | 
+ | Office supply stores | 
+ | Offices, business, professional or governmental | 
+ | Parks | 
+ | Private clubs and service organizations | 
+ | Private educational facilities | 
+ | Public educational facilities | 
+ | Public utilities and public utility uses | 
+ | Restaurants, taverns, lounges | 
+ | Shoe repair | 
+ | Stationery stores | 
+ | Transportation uses: multimodal stations and
+commuter lots | 
+ | Variety stores | 
+ | Video stores (no adult entertainment space) | 
+
+
+personnel policy
+https://ecode360.com/7598342
+0.18763572975698445
+ | 35-hour workweek employees | 8.75 hours per month | 
+ | 40-hour workweek employees | 10.00 hours per month | 
+
+
+xiv      il   limited industrial district
+https://ecode360.com/7603243
+0.18323179719989274
+205 | Bakery products | 
+206 | Sugar and confectionery products | 
+228 | Yarn and thread mills | 
+229 | Miscellaneous textile goods | 
+231 | Men's and boys' suits, coats and overcoats | 
+232 | Men's and boys' furnishings, work clothing and
+allied garments | 
+233 | Women's, misses' and juniors' outerwear | 
+234 | Women's, misses', children's and infants' undergarments | 
+235 | Hats, caps and millinery | 
+236 | Girls', children's and infants' outerwear | 
+238 | Miscellaneous apparel and accessories | 
+239 | Miscellaneous fabricated textile products | 
+265 | Paperboard containers and boxes | 
+273 | Books | 
+274 | Miscellaneous publishing | 
+275 | Commercial printing | 
+276 | Manifold business forms | 
+277 | Greeting cards | 
+278 | Blankbooks, looseleaf binders and bookbinding
+and related work | 
+279 | Service industries for the printing trade | 
+314 | Footwear, except rubber | 
+315 | Leather gloves and mittens | 
+316 | Luggage | 
+317 | Handbags and other personal leather goods | 
+357 | Computer and office equipment | 
+367 | Electronic components and accessories | 
+369 | Miscellaneous electrical machinery, equipment
+and supplies | 
+381 | Search, detection, navigation, guidance, aeronautical
+and nautical systems, instruments and equipment | 
+382 | Laboratory apparatus and analytical, optical,
+measuring and controlling instruments | 
+384 | Surgical, medical and dental instruments and
+supplies | 
+385 | Ophthalmic goods | 
+387 | Watches, clocks, clockwork operated devices
+and parts | 
+391 | Jewelry, silverware and plated ware | 
+393 | Musical instruments | 
+394 | Dolls, toys, games and sporting and athletic
+goods | 
+395 | Pens, pencils and other artists' materials | 
+396 | Costume jewelry, costume novelties, buttons
+and miscellaneous notions, except precious metal | 
+399 | Miscellaneous manufacturing industries | 
+599 | Retail stores, not elsewhere classified | 
+2452 | Wood buildings and components.[Added 5-12-1998 by Ord. No. 98-10] | 
+
+
+xi      bn   neighborhood business district
+https://ecode360.com/7603045
+0.17731475836455285
+Accessory structures and uses | 
+Agriculture | 
+Antique shops | 
+Art galleries | 
+Bakery | 
+Banks | 
+Barber shop | 
+Beauty shop | 
+Book stores | 
+Bus shelter[Added 3-14-2000 by Ord. No. 00-05; amended 1-15-2002 by Ord. No. 02-02] | 
+Candy store | 
+Coin-operated laundry | 
+Community centers | 
+Community pool and recreational facilities | 
+Convenience food facility | 
+Delicatessen | 
+Drugstore | 
+Emergency uses - fire, police, rescue | 
+Florist | 
+Gift shop | 
+Government buildings | 
+Grocery stores | 
+Hardware store | 
+Health spa | 
+Ice cream stores | 
+Indoor recreation - racquetball, tennis, etc. | 
+Laundry and dry cleaning pickup | 
+Libraries, museums | 
+Meat, fish, poultry stores | 
+Package stores | 
+Parking and loading (for more information, see Article XVII, Parking) | 
+Parks | 
+Private clubs and service organizations | 
+Private educational facilities | 
+Professional offices/general business | 
+Restaurants, taverns, lounges | 
+Shoe repair | 
+Signs (for more information, see Article XVIII, Signs) | 
+Tanning salons | 
+Taxicab stand, dispatch facility | 
+Theaters, indoor | 
+Variety stores | 
+Video store | 
+
+
+xviii      signs
+https://ecode360.com/7603502
+0.16877133718935666
+ | 0 to 5 | None permitted | 
+ | 5 to 15 | 48 square feet | 
+ | 15 to 25 | 99 square feet | 
+ | 25 to 35 | 100 to 160 square feet | 
+ | 35+ | 200 square feet | 
+
+
+xviii      signs
+https://ecode360.com/7603502
+0.16817424914429124
+ | 0 to 5 | Not permitted | 
+ | 5 to 15 | 48 square feet | 
+ | 15 to 25 | 99 square feet | 
+ | 25 to 35 | 160 square feet | 
+ | 35+ | 200 square feet | 
+
+
+personnel policy
+https://ecode360.com/7598342
+0.1680546510929658
+ | 35-hour-workweek employees | 210 hours | 
+ | 40-hour-workweek employees | 240 hours | 
+ | Exempt employees | 480 hours | 
+
+
+xv      ig   general industrial district
+https://ecode360.com/7603304
+0.16781318080680574
+204 | Grain mill products | 
+207 | Fats and oils | 
+208 | Beverages | 
+261 | Pulp mills | 
+262 | Paper mills | 
+263 | Paperboard mills | 
+281 | Industrial inorganic chemicals | 
+282 | Plastics materials and synthetic resins, synthetic
+rubber, cellulosic and other man-made fibers, except glass | 
+283 | Drugs | 
+284 | Soap, detergents and cleaning preparations;
+perfumes, cosmetics and other toilet preparations | 
+285 | Paints, varnishes, lacquers, enamels and allied
+products | 
+286 | Industrial organic chemicals | 
+287 | Agricultural chemicals | 
+289 | Miscellaneous chemical products | 
+291 | Petroleum refining | 
+295 | Asphalt paving and roofing materials | 
+299 | Miscellaneous products of petroleum and coal | 
+301 | Tires and inner tubes | 
+311 | Leather tanning and finishing | 
+321 | Flat glass | 
+322 | Glass and glassware, pressed or blown | 
+324 | Cement, hydraulic | 
+327 | Concrete, gypsum and plaster products | 
+329 | Abrasive, asbestos and miscellaneous nonmetallic
+mineral products | 
+331 | Steel works, blast furnaces and rolling and
+finishing mills | 
+332 | Iron and steel foundries | 
+333 | Primary smelting and refining of nonferrous
+metals | 
+334 | Secondary smelting and refining of nonferrous
+metals | 
+335 | Rolling, drawing and extruding of nonferrous
+metals | 
+336 | Nonferrous foundries (castings) | 
+339 | Miscellaneous primary metal products | 
+346 | Metal forgings and stampings | 
+348 | Ordnance and accessories, except vehicles and
+guided missiles | 
+358 | Refrigeration and service industry machinery | 
+371 | Motor vehicles and motor vehicle equipment | 
+372 | Aircraft and parts | 
+373 | Ship and boat building and repairing | 
+374 | Railroad equipment | 
+376 | Guided missiles and space vehicles and parts | 
+379 | Miscellaneous transportation equipment | 
+495 | Sanitary services | 
+
+
+v      sanitary sewer district expansion fees
+https://ecode360.com/7599150
+0.16444573112194877
+ | Bowers | 2025 | 
+ | Cheswold | 2009 | 
+ | Dykes | 2022 | 
+ | Felton | 2006 | 
+ | Frederica | 2007 | 
+ | Isaacs | 2007 | 
+ | Little Creek | 2034 | 
+ | Magnolia | 2007 | 
+ | Tidbury | 2007 | 
+
+
+xviii      signs
+https://ecode360.com/7603502
+0.15833825052935177
+ | 0 to 5 | Not permitted | 
+ | 5 to 15 | 32 square feet | 
+ | 15 to 25 | 64 square feet | 
+ | 25+ | 100 square feet | 
+
+
+xviii      signs
+https://ecode360.com/7603502
+0.15833825052935177
+ | 0 to 5 | Not permitted | 
+ | 5 to 15 | 32 square feet | 
+ | 15 to 25 | 64 square feet | 
+ | 25+ | 100 square feet | 
+
+
+xviii      signs
+https://ecode360.com/7603502
+0.1503653583241656
+ | 0 to 5 | Not permitted | 
+ | 5 to 15 | 32 square feet | 
+ | 15+ | 50 square feet | 
+
+
+vi      real estate tax exemption for industries
+https://ecode360.com/7601883
+0.1392694340564885
+1 | 90% | 
+2 | 80% | 
+3 | 70% | 
+4 | 60% | 
+5 | 50% | 
+6 | 40% | 
+7 | 30% | 
+8 | 20% | 
+9 | 10% | 
+10 | 0% | 
+
+
+iv      main system capital improvement fees
+https://ecode360.com/7599108
+0.12852587160149842
+ | Animal services (such as veterinary offices,
+animal boarding/kennel) |  | 1 EDU + (#FUs/6) | 
+ | Assisted-living facilities |  | 1 EDU + 1 EDU per 2 suites | 
+ | Bars and lounges |  | 1 EDU + (#FUs/6) | 
+ | Bus stations and other public depots |  | 1 EDU + (#FUs/6) | 
+ | Campgrounds and travel trailer parks |  | 1 EDU + 1 EDU per 2 spaces | 
+ | Camp, modern, seasonal (such as Boy/Girl Scout Camp, youth camp,
+summer camp; operates seasonally and has central restroom/bathhouse
+facilities) |  | 1 EDU + (#FUs/12) | 
+ | Car washes with water recycling |  | 1 EDU + 2 EDU per wash bay | 
+ | Churches and associated facilities |  | 1 EDU + (#FUs/6) | 
+ | Churches without associated facilities, such
+as day-cares, schools, rectories, etc. and without food service functions
+for fund-raising and/or any other nonparishioner for-profit activities |  | 1 EDU + (#FUs/12) | 
+ | Churches without associated facilities and a
+sanctuary with seating capacity of fewer than 100 seating spaces |  | #FUs/6 | 
+ | Convenience store with rest rooms open to the
+public |  | 1 EDU + (#FUs/4) | 
+ | Convention halls and public gathering places |  | 1 EDU + (#FUs/6) | 
+ | Convention halls and other public gathering
+places used at a frequency of not more than one event per week and
+without any for-profit activities |  | 1 EDU + (#FUs/12) | 
+ | Day-care facilities |  | 1 EDU + (#FUs/6) | 
+ | Delicatessen and food take-outs |  | 1 EDU + (#FUs/6) | 
+ | Dormitories |  | 1 EDU + 1 EDU per 2.5 beds | 
+ | Drive-in food service |  | 1 EDU + (#FUs/6) | 
+ | Fire stations with associated convention hall(s)
+holding a maximum of one hall rental event per month and having no
+regularly scheduled fund-raising functions or fire company business
+meetings |  | #FUs/24 | 
+ | Fire stations with associated convention hall(s)
+holding more than one hall rental event per month and having up to
+four fund-raising and/or fire company business meetings per month |  | #FUs/12 | 
+ | Fire stations with associated convention hall(s)
+holding more than one hall rental event per week and having more than
+four scheduled fund-raising functions and/or fire company business
+meetings per month |  | #FUs/6 | 
+ | Fraternal and/or civic organizations used at
+a frequency of not more than once per week (if other commercial activities
+are operating from these premises, they are treated as separate accounts) |  | 1 EDU + (#FUs/9) | 
+ | General commercial |  | 1 EDU + (#FUs/6) | 
+ | General commercial, without public access to restrooms |  | 1 EDU + (#FUs/9) | 
+ | Grocery stores |  | 1 EDU + (#FUs/6) | 
+ | Health-care facilities (such as dentist, doctor,
+physical therapy facilities) |  | 1 EDU + (#FUs/6) | 
+ | Hospitals |  | 1 EDU + 1 EDU per 2 beds | 
+ | Hotels and motels without restaurants |  | 1 EDU + 1 EDU per 3 rooms or 1 EDU + 1 EDU per
+2 suites | 
+ | Laundromat |  | 1 EDU + 1 EDU per standard commercial washer;
+0.15 EDU per high-efficiency commercial washer up to 25 pounds; 0.3
+EDU per high-efficiency commercial washer up to 45 pounds; 0.5 EDU
+per high-efficiency commercial washer up to 80 pounds | 
+ | Lodging / Dormitory / Housing - full-time occupancy
+and some shared fixtures (no summer session) |  | 1 EDU per every 2 rooms | 
+ | Marinas with and without boat waste pumping
+facilities |  | 1 EDU + (#FUs/6) | 
+ | Mortuary services / funeral homes |  | 1 EDU + (#FUs/6) | 
+ | Multiple use - facilities/buildings with multiple
+uses |  | 1 EDU + (#FUs/6) | 
+ | Municipal buildings |  | 1 EDU + (#FUs/6) | 
+ | Nursing homes |  | 1 EDU + 1 EDU per 3 beds | 
+ | Office buildings with public access |  | 1 EDU + (#FUs/6) | 
+ | Office buildings without public access |  | 1 EDU + (#FUs/9) | 
+ | Plane washing facility (military installation) |  | 33 EDU | 
+ | Prisons |  | 1 EDU + 1 EDU per 2 beds | 
+ | Recreational facility (such as fitness centers,
+community centers) |  | 1 EDU + (#FUs/6) | 
+ | Restaurants and eating places, with restrooms |  | 1 EDU + (#FUs/6) | 
+ | Retail store |  | 1 EDU + (#FUs/6) | 
+ | Schools without full-service kitchen |  | 1 EDU + 1 EDU per 30 certified students** | 
+ | Schools without shower facilities |  | 1 EDU + 1 EDU per 30 certified students** | 
+ | Schools with full-service kitchen or with showers |  | 1 EDU + 1 EDU per 25 certified students** | 
+ | Service station with service bays |  | 1 EDU + (#FUs/6) | 
+ | Service station with wash bays |  | 1 EDU + (#FUs/4) | 
+ | Special commercial - facilities staffed 24/7/365 |  | 1 EDU + (#FUs/3) | 
+ | Warehouse/Storage buildings |  | 1 EDU + (#FUs/9) | 
+
+
+iv      sewer system design
+https://ecode360.com/7600370
+0.0994288468810163
+ | 1 inch = 30 feet | 1 inch = 3 feet | 
+ | 1 inch = 40 feet | 1 inch = 4 feet | 
+ | 1 inch = 50 feet | 1 inch = 5 feet | 
+ | 1 inch = 100 feet | 1 inch = 10 feet | 
+
+
+dl      disposition list
+https://ecode360.com/7605547
+0.08718537174818303
+19-02 | 2-26-2019 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 34 | 
+19-03 | 5-14-2019 | Library Tax District 2019-2020 Budget | NCM | 34 | 
+19-04 | 5-14-2019 | 2019-2020 Budget | NCM | 34 | 
+19-05 | 5-21-2019 | General Obligation Bond | NCM | 34 | 
+19-06 | 5-21-2019 | General Obligation Debt | NCM | 34 | 
+19-07 | 6-25-2019 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 34 | 
+19-08 | 6-25-2019 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 34 | 
+19-09 | 6-25-2019 | Subdivision and Land Development Amendment | Ch. 187 | 34 | 
+19-10 | 6-25-2019 | Fees: Types of Fees; Administration Amendment | Ch. 128, Pt. 1 | 34 | 
+19-11 | 6-25-2019 | Fees: Fee Schedule Amendment | Ch. 128, Pt. 2 | 34 | 
+19-12 | 7-23-2019 | Fees: Fee Schedule Amendment | Ch. 128, Pt. 2 | 34 | 
+19-13 | 8-13-2019 | Zoning Map Amendment | NCM | 34 | 
+19-14 | 9-24-2019 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 34 | 
+19-15 | 9-24-2019 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 34 | 
+19-16 | 9-24-2019 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 34 | 
+19-17 | 9-24-2019 | Subdivision and Land Development Amendment | Ch. 187 | 34 | 
+19-18 | 9-24-2019 | Zoning Amendment | Ch. 205 | 34 | 
+19-19 | 9-24-2019 | Fees: Fee Schedule Amendment | Ch. 128, Pt. 2 | 34 | 
+19-20 | 10-15-2019 | Fees: Fee Schedule Amendment | Ch. 128, Pt. 2 | 34 | 
+19-21 | 10-22-2019 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 34 | 
+19-22 | 11-12-2019 | General Obligation Bond | NCM | 34 | 
+19-23 | 11-12-2019 | General Obligation Debt | NCM | 34 | 
+19-24 | 11-12-2019 | Retirement Amendment | Ch. 83 | 34 | 
+19-25 | 12-10-2019 | Retirement Amendment | Ch. 83 | 34 | 
+20-1 | 1-28-2020 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 34 | 
+20-2 | 1-28-2020 | Subdivision and Land Development Amendment | Ch. 187 | 34 | 
+20-3 | 5-26-2020 | Library Tax District Budget | NCM | 35 | 
+20-4 | 5-26-2020 | Budget | NCM | 35 | 
+20-5 | 9-15-2020 | Property Maintenance | Ch. 175 | 35 | 
+20-6 | 8-18-2020 | Building Construction | Ch. 105 | 35 | 
+20-7 | 9-29-2020 | Subdivision and Land Development Amendment | Ch. 187 | 35 | 
+20-8 | 9-29-2020 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 35 | 
+20-9 | 10-27-2020 | Zoning Amendment | Ch. 205 | 35 | 
+20-10 | 11-10-2020 | Strategic Development Fund Amendment | Ch. 86 | 35 | 
+20-11 | 11-10-2020 | Taxation: Real Estate Tax Exemption for Industries Amendment | Ch. 191, Art. VI | 35 | 
+20-12 | 12-15-2020 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 35 | 
+
+
+iv      sewer system design
+https://ecode360.com/7600370
+0.049382259444769455
+ | 2 | 1 | 
+ | 5 | 2 | 
+ | 7 | 3 | 
+ | 11 | 7 | 
+ | 15 | 14 | 
+
+
+xiii      bg   general business district
+https://ecode360.com/7603146
+0.04563759945476664
+Adult entertainment establishments | 
+Apartments | 
+Auctions, permanent | 
+Banks | 
+Billboards on divided highways only | 
+Boat and trailer sales/storage | 
+Box outlets | 
+Car wash[1] | 
+Churches and ancillary uses | 
+Civic centers | 
+Commercial carnivals, temporary | 
+Contractor establishments | 
+Detention and correctional institutions, reformatories
+and similar uses. | 
+Exterminating establishments | 
+Factory outlets | 
+Farm equipment sales and service | 
+Fast food establishments | 
+Flea markets | 
+Funeral establishments | 
+Gas stations with repair facilities | 
+Health centers and clinics, medical or dental | 
+Heating, ventilating, cooling and refrigeration
+sales | 
+Heliports and helipads | 
+Ice houses | 
+Laundry and dry-cleaning establishments | 
+Lumberyards with storage | 
+Manufactured home sales, display and storage | 
+Material storage yards | 
+Medical/dental laboratories[2] | 
+Motorcycle sales and repair | 
+Nursing homes and care centers | 
+Off-premises monument sign[Added 6-23-2009 by Ord. No. 09-12] | 
+Outdoor storage | 
+Outside storage accessory and incidental to
+principal use | 
+Pawn shops | 
+Private clubs and service organizations | 
+Private educational institution | 
+Public utilities and public utility uses | 
+Radio and television station and facilities (see Article XXI) | 
+Restaurants (drive-in) | 
+Sample house[3] | 
+Semi-public or quasi-public schools[Added 10-14-1997 by Ord. No. 97-21] | 
+Signs (For more information, see Article XVIII, Signs) | 
+Shopping centers | 
+Showrooms (boats, cars, motorcycles, etc.) | 
+Temporary shelter facilities | 
+Tire sales | 
+Tractor trailer sales, service and storage | 
+Truck terminal, freight[4] | 
+Warehouses | 
+Wholesale establishments | 
+Yard and garden equipment sales, rental and
+service | 
+
+
+part        fee schedule
+https://ecode360.com/13530608
+0.032112964388562176
+ | 8.5 x 11 | $0.50 | 
+ | 8.5 x 14 | $1 | 
+ | 8.35 x 17 | $2 | 
+
+
+xviii      signs
+https://ecode360.com/7603502
+-0.0027373678419450043
+ | Figure 1: | 
+ |  | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+-0.005153148669012397
+ |  | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+-0.005153148669012397
+ |  | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+-0.005153148669012397
+ |  | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+-0.005153148669012397
+ |  | 
+
+
+xvii      supplementary regulations
+https://ecode360.com/7601389
+-0.005153148669012397
+ |  | 
+
+
+xi      design requirements and standards
+https://ecode360.com/7601066
+-0.02336029878636109
+ | 
+
+
+xi      design requirements and standards
+https://ecode360.com/7601066
+-0.02336029878636109
+ | 
+
+
+xi      design requirements and standards
+https://ecode360.com/7601066
+-0.02336029878636109
+ | 
+
+
+vi      ar   agricultural residential district
+https://ecode360.com/7602675
+-0.047194022922224965
+Airfields[1] | 
+Animal hospital | 
+Auction facilities | 
+Auctions, temporary | 
+Buggy repair | 
+Butcher shop - not rendering plant | 
+Bed-and-breakfast - country inn | 
+Blacksmiths | 
+Campground (public or private)[Added 1-24-2017 by Ord.
+No. 17-03] | 
+Cemeteries | 
+Child-care center | 
+Churches and ancillary uses | 
+Cluster development | 
+Commercial carnivals, temporary | 
+Commercial marinas[2] | 
+Commercial recreational facilities | 
+Community swimming pools | 
+Country clubs, private clubs and service organizations | 
+Commercial greenhouses | 
+Commercial kennels | 
+Craft centers | 
+Detention and correctional institutions, reformatories
+and similar uses[Added 10-13-1998 by Ord. No. 98-18] | 
+Dog grooming business[3] | 
+Farm machinery/equipment repair and service | 
+Farm tenant houses | 
+Farm winery, with accessory gift shop, meeting
+hall, retail sales and tasting facility[Amended 5-8-2001 by Ord. No. 01-09] | 
+Florist establishment[Added 8-13-1996 by Ord. No. 96-13] | 
+Grain milling and vegetable oil mills | 
+Group homes, other than for the care of the
+handicapped, elderly | 
+Hay, grain and feed stores | 
+Heliports and helipads[4] | 
+Horse trailer sales | 
+Hospitals, sanatoriums, nursing homes, and convalescent
+homes | 
+Hunting lodges | 
+Manufacturing or preparation of feed, feed concentrates,
+feed supplements and other feed ingredients for poultry and/or livestock | 
+Monasteries, convents | 
+Mulching[Added 12-11-2001 by Ord. No. 01-25] | 
+Nonaccessory tents for special purposes | 
+Nonprofit charitable and philanthropic organizations
+or institutions | 
+Outside accessory storage | 
+Pallet manufacturing | 
+Private boat docks, boat houses and landings
+as principal structures | 
+Private educational institutions | 
+Private airstrips | 
+PUD (Planned Unit Development) | 
+Recreational uses (private membership clubs) | 
+Retail nurseries | 
+Retail sales of farm hardware and miscellaneous
+farm supplies, farm machinery and equipment sales[Added 1-14-1997 by Ord. No. 97-01] | 
+Riding clubs | 
+Rifle, pistol, trap, skeet, or archery ranges | 
+Roadside stands (seasonal) | 
+Sand and gravel pits, without processing.[Amended 10-14-1997 by Ord. No. 97-18] | 
+Sanitary landfill | 
+Sawmill operations | 
+School bus parking[5] | 
+Seasonal labor housing | 
+Semipublic or quasi-public schools[Added 10-14-1997 by Ord. No. 97-21] | 
+Septage processing and storage | 
+Slaughterhouses | 
+Stables, tack and harness shops, horse training
+(commercial) | 
+Stockyard (commercial) | 
+Storage of agricultural chemicals in bulk, retail
+and wholesale | 
+Storage of clam shells | 
+Storage of fishing/crabbing equipment | 
+Temporary sawmill | 
+Public utilities and public utility uses | 
+Wholesale trade establishment with facilities
+for storage and transport of farm products | 
+
+
+v      ac   agricultural conservation district
+https://ecode360.com/7602555
+-0.08131254199899662
+Airfields[1] | 
+Animal hospital | 
+Auction facilities | 
+Auctions, temporary | 
+Buggy repair | 
+Butcher shop - not rendering plant | 
+Bed-and-breakfast - country inn | 
+Blacksmiths | 
+Campground (public or private)[Added 1-24-2017 by Ord.
+No. 17-03] | 
+Cemeteries | 
+Child-care center | 
+Churches and ancillary uses | 
+Cluster development | 
+Commercial carnivals, temporary | 
+Commercial marinas[2] | 
+Commercial recreational facilities | 
+Community swimming pools | 
+Country clubs, private clubs and service organizations | 
+Commercial greenhouses | 
+Commercial kennels | 
+Craft centers | 
+Detention and correctional institutions, reformatories
+and similar uses.[Added 10-13-1998 by Ord. No. 98-18] | 
+Dog grooming business[3] | 
+Farm machinery/equipment repair and service | 
+Farm tenant houses | 
+Farm winery, with accessory gift shop, meeting
+hall, retail sales and tasting facility[Amended 5-8-2001 by Ord. No. 01-09] | 
+Florist establishment[Added 8-13-1996 by Ord. No. 96-13] | 
+Grain milling and vegetable oil mills | 
+Group homes, other than for the care of the
+handicapped, elderly | 
+Hay, grain and feed stores | 
+Heliports and helipads[4] | 
+Horse trailer sales | 
+Hospitals, sanatoriums, nursing homes, physical
+therapy and sports medicine facilities, medical rehabilitation centers,
+and convalescent homes[Amended 3-28-2017 by Ord. No. 17-06] | 
+Hunting lodges | 
+Manufacturing of fruit, juice or vegetables[Added 8-14-2001 by Ord. No. 01-17] | 
+Manufacturing or preparation of feed, feed concentrates,
+feed supplements and other feed ingredients for poultry and/or livestock | 
+Monasteries, convents | 
+Mulching[Added 12-11-2001 by Ord. No. 01-25] | 
+Nonaccessory tents for special purposes for
+more than 14 calendar days[Amended 10-24-2000 by Ord. No. 00-26] | 
+Nonprofit charitable and philanthropic organizations
+or institutions | 
+Off-premises monument sign.[Added 6-23-2009 by Ord. No. 09-12] | 
+Outside accessory storage | 
+Pallet manufacturing | 
+Private boat docks, boat houses and landings
+as principal structures | 
+Private educational institutions | 
+Private airstrips | 
+PUD (Planned Unit Development) | 
+Recreational uses (private membership clubs) | 
+Retail nurseries | 
+Retail sales of farm hardware and miscellaneous
+farm supplies, farm machinery and equipment sales[Added 1-14-1997 by Ord. No. 97-01] | 
+Riding clubs | 
+Rifle, pistol, trap, skeet or archery ranges | 
+Roadside stands (seasonal) | 
+Sand and gravel pits, without processing[Amended 10-14-1997 by Ord. No. 97-18] | 
+Sanitary landfill | 
+Sawmill operations | 
+School bus parking | 
+Seasonal labor housing | 
+Semipublic or quasi-public schools[Added 10-14-1997 by Ord. No. 97-21] | 
+Septage processing and storage | 
+Slaughterhouses | 
+Stables, tack and harness shops, horse training
+(commercial) | 
+Stockyard (commercial) | 
+Storage of agricultural chemicals in bulk, retail
+and wholesale | 
+Storage of clam shells | 
+Storage of fishing/crabbing equipment | 
+Temporary sawmill | 
+Public utilities and public utility uses | 
+Wholesale trade establishment with facilities
+for storage and transport of farm products | 
+
+
+xxvia      supplementary regulations
+https://ecode360.com/7605219
+-0.08812609284126369
+Acer rubrum | Red Maple | Juglans nigra | Black Walnut | 
+Baccharis halimifolia | Groundsel Bush |  |  | 
+Carex alata | Winged Sedge | Juniperus virginiana | Red Cedar | 
+Carex albolutescens | Greenish-White Sedge |  |  | 
+Carex lonchocarpa | Long Sedge | Liquidembar styraciflua | Sweet Gum | 
+Carex lurida | Lurid Sedge | Magnolia virginiana | Sweet Bay Magnolia | 
+Carex stricta | Uptight Sedge | Myrica pensylvanica | Northern Bayberry | 
+Carya cordiformis | Bitternut Hickory |  |  | 
+Carya tomentosa | Mockernut Hickory |  |  | 
+Carya glabra | Pignut Hickory |  |  | 
+Celtus occidentalis | Hackberry | Nyssa sylvatica | Black or Sour Gum | 
+Cephalanthus occidentalis | Buttonbush | Panicum virgatum | Switchgrass | 
+Pinus rigida | Pitch Pine |  |  | 
+Chamaecyparis thyoides | Atlantic White Cedar |  |  | 
+Clethra alnifolia | Sweet Pepperbush | Pinus virginiana | Virginia Pine | 
+Plantanus occidentalis | American Sycamore |  |  | 
+Cornus amomum | Silky Dogwood | Prunus serotina | Black Chery | 
+Cornus racemosa | Gray Dogwood | Quercus phellos | Willow Oak | 
+Quercus rubrum | Northern Red Oak | Quercus falcata | Southern Red Oak | 
+Diospyros virginiana | Persimmon Tree | Rhododendron viscosum | Swamp Honeysuckle | 
+Eupatorium maculatum | Joe Pye Weed | Rosa palustris | Swamp Rose | 
+Fagus grandifolia | American Beech | Sambucus canadensis | Common Elderberry | 
+Fraxinus pennsylvanica | Green Ash | Sassafra albidum | Common Sassafras | 
+Hibiscus palustris | Swamp Rose Mallow | Schizachyrium scoparium | Little Bluestern | 
+Ilex glabra | Inkberry |  |  | 
+Ilex opaca | American Holly | Vaccinium corumbosum | Highbush Blueberry | 
+Ilex verticilata | Winterberry | Vaccinium dubium | Lowbush Blueberry | 
+ |  | Viburnum dentatum | Southern Arrowood | 
+Viburnum prunifolium | Black Haw |  |  | 
+Iva frutescens | Marsh Elder | Viburnum recognitum | Northern Arrowwood | 
+
+
+xv      ig   general industrial district
+https://ecode360.com/7603304
+-0.5766791494398633
+201 | Meat products | 
+202 | Dairy products | 
+203 | Canned, frozen and preserved fruits, vegetables
+and food specialties | 
+205 | Bakery products | 
+206 | Sugar and confectionery products | 
+209 | Miscellaneous food preparations and kindred
+products | 
+211 | Cigarettes | 
+212 | Cigars | 
+213 | Chewing and smoking tobacco and snuff | 
+214 | Tobacco stemming and redrying | 
+221 | Broadwoven fabric mills, cotton | 
+222 | Broadwoven fabric mills, man-made fiber and
+silk | 
+223 | Broadwoven fabric mills, wool (including dyeing
+and finishing) | 
+224 | Narrow fabric and other smallwares mills: cotton,
+wool, silk and man-made fiber | 
+225 | Knitting mills | 
+226 | Dyeing and finishing textiles, except wool fabrics
+and knit goods | 
+227 | Carpets and rugs | 
+228 | Yarn and thread mills | 
+229 | Miscellaneous textile goods | 
+231 | Men's and boys' suits, coats and overcoats | 
+232 | Men's and boys' furnishings, work clothing and
+allied garments | 
+233 | Women's, misses' and juniors' outerwear | 
+234 | Women's, misses', children's and infant's undergarments | 
+235 | Hats, caps and millinery | 
+236 | Girl's, children's and infants' outerwear | 
+237 | Fur goods | 
+238 | Miscellaneous apparel and accessories | 
+239 | Miscellaneous fabricated textile products | 
+241 | Logging | 
+243 | Millwork, veneer, plywood and structural wood
+members | 
+244 | Wood containers | 
+245 | Wood buildings and mobile homes | 
+249 | Miscellaneous wood products | 
+251 | Household furniture | 
+252 | Office furniture | 
+253 | Public building and related furniture | 
+254 | Partitions, shelving, lockers and office and
+store fixtures | 
+259 | Miscellaneous furniture and fixtures | 
+265 | Paperboard containers and boxes | 
+267 | Converted paper and paperboard products, except
+containers and boxes | 
+271 | Newspapers: publishing or publishing and printing | 
+272 | Periodicals: publishing or publishing and printing | 
+273 | Books | 
+274 | Miscellaneous publishing | 
+275 | Commercial printing | 
+276 | Manifold business forms | 
+277 | Greeting cards | 
+278 | Blankbooks, looseleaf binders and bookbinding
+and related work | 
+279 | Service industries for the printing trade | 
+302 | Rubber and plastics footwear | 
+305 | Gaskets, packing and sealing devices and rubber
+and plastic hose and belting | 
+306 | Fabricated rubber products, not elsewhere classified | 
+308 | Miscellaneous plastics products | 
+313 | Boot and shoe cut stock and findings | 
+314 | Footwear, except rubber | 
+315 | Leather gloves and mittens | 
+316 | Luggage | 
+317 | Handbags and other personal leather goods | 
+319 | Leather goods, not elsewhere classified | 
+325 | Structural clay products | 
+326 | Pottery and related products | 
+328 | Cut stone and stone products | 
+341 | Metal cans and shipping containers | 
+342 | Cutlery, handtools and general hardware | 
+343 | Heating equipment, except electric and warm
+air; and plumbing fixtures | 
+344 | Fabricated structural metal products | 
+345 | Screw machine products, and bolts, nuts, screws,
+rivets and washers | 
+347 | Coating, engraving and allied services | 
+349 | Miscellaneous fabricated metal products | 
+351 | Engines and turbines | 
+352 | Farm, Garden machinery and equipment | 
+353 | Construction, mining and materials handling
+machinery and equipment | 
+354 | Metalworking machinery and equipment | 
+355 | Special industry machinery, except metalworking
+machinery | 
+356 | General industrial machinery and equipment | 
+357 | Computer and office equipment | 
+359 | Miscellaneous industrial and commercial machinery
+and equipment | 
+361 | Electric transmission and distribution equipment | 
+362 | Electrical industrial apparatus | 
+363 | Household appliances | 
+364 | Electric lighting and wiring equipment | 
+365 | Household audio and video equipment, and audio
+equipment | 
+366 | Communications equipment | 
+367 | Electronic components and accessories | 
+369 | Miscellaneous electrical machinery, equipment
+and supplies | 
+381 | Search, detection, navigation, guidance, aeronautical
+and nautical systems, instruments and equipment | 
+382 | Laboratory apparatus and analytical, optical,
+measuring and controlling instruments | 
+384 | Surgical, medical and dental instruments and
+supplies | 
+385 | Ophthalmic goods | 
+386 | Photographic equipment and supplies | 
+387 | Watches, clocks, clockwork operated devices
+and parts | 
+391 | Jewelry, silverware and plated ware | 
+393 | Musical instruments | 
+394 | Dolls, toys, games and sporting and athletic
+goods | 
+395 | Pens, pencils and other artists' materials | 
+396 | Costume jewelry, costume novelties, buttons
+and miscellaneous notions, except precious metals | 
+399 | Miscellaneous manufacturing industries | 
+
+
+xxi      conditional uses
+https://ecode360.com/7603721
+-1.412430467717883
+Adult entertainment establishments | BG |  | 
+Airfields |  | AC, AR, IL | 
+Airstrips (private) |  | AC, AR, IL | 
+Animal hospital |  | AC, AR, RM | 
+Animals, keeping of other than livestock | AC, AR |  | 
+Apartments[1] |  | BN, BG | 
+Auction facilities | AC, AR, BG |  | 
+Auctions, temporary | AC, AR |  | 
+Auto/mobile home dismantling and recycling |  | IG | 
+Auto repair |  | IG | 
+Bakeries | BG |  | 
+Banks |  | BG | 
+Banquet/conference facilities Bed-and-breakfast/country
+inn[Amended 3-13-2001 by Ord. No. 01-02] |  | RM AC, AR, RS1, RM, BN | 
+Blacksmith's shop | AC, AR |  | 
+Boat and trailer sales and storage | BG |  | 
+Boat docks, boathouses and landings, as principal
+structure (private) | AC, AR |  | 
+Box outlet | BG |  | 
+Buggy repair operation/horse trailer sales | AC, AR |  | 
+Butcher shops - not rendering plant | AC, AR |  | 
+Campground (public or private)[Amended 1-24-2017 by Ord. No. 17-03] | AC, AR |  | 
+Carnival, commercial | AC, AR, BG |  | 
+Cemeteries |  | AC, AR, RS1, RS5, RM, RMH | 
+Child-care facilities |  | AC, AR, RS1, RS5, RMH, RM, BN1 | 
+Child-care facilities (associated with business) |  | IL, IG | 
+Churches and ancillary uses |  | AC, AR, RS1, RS5, RMH, RM, BN, BN1, BG | 
+Civic center |  | BG | 
+Clam shells, storage | AC, AR |  | 
+Clinics, medical and dental |  | RS5, RM, BN, BG | 
+Cluster development |  | AC, AR, RS1, RS5 | 
+Cold storage locker facilities |  | AC, AR | 
+Conference center | BN1 |  | 
+Contractor/construction shop |  | IG | 
+Contractor establishment outside storage |  | BG | 
+Conversion of SFD to MFD | RS5 |  | 
+Country club, private club and service organization |  | AC, AR, RS1, RS5, RMH, RM, BG | 
+Craft center |  | AC, AR, RS1 | 
+Detention and correctional institute, reformatories |  | AC, AR, RS1, RS5, RMH, RM, BN, BG, IL, IG | 
+Dog-grooming establishment[Amended 2-25-2003 by Ord. No. 03-05] | AC, AR, RS1, BN-1 |  | 
+Dry-cleaning establishment |  | BN, BG | 
+Exterminating establishment | BG |  | 
+Extractive use[Added 10-24-2000 by Ord. No. 00-26] |  | AC, AR, IG | 
+Factory outlet | BG |  | 
+Farm and garden machinery and equipment manufacture | IG |  | 
+Farm equipment, machinery and miscellaneous
+supply sales | AC, AR |  | 
+Farm equipment, sales/service | BG |  | 
+Farm machinery/equipment repair | AC, AR |  | 
+Farm tenant houses | AC, AR |  | 
+Farm winery with retail sales | AC, AR |  | 
+Fast food establishment | BG |  | 
+Flea market | BG |  | 
+Florist establishment | AC, AR |  | 
+Funeral establishment |  | BN, BG | 
+Gas stations with repair facilities |  | BG | 
+Gasoline pumps, accessory to permitted uses |  | BN | 
+Glass product manufacture |  | IL, IG | 
+Glass products made of purchased glass | IG |  | 
+Grain milling and vegetable oil mills and manufacturing
+of feed, etc. for poultry and livestock[2] | AC, AR |  | 
+Greenhouses, commercial |  | RS1 | 
+Group homes (other than for handicapped or elderly) |  | AC, AR, RS1, RS5, RM, RMH | 
+Hay, grain and feed stores |  | AC, AR | 
+Hazardous uses |  | IG | 
+Heating, ventilation, cooling and refrigeration
+manufacture and supply |  | IG | 
+Heating, ventilating, cooling and refrigeration
+sales | BG |  | 
+Heliports and helipads |  | AC, AR, RM, BG, IG | 
+Home occupations (see § 205-366)[3][Amended 2-28-2006 by Ord. No. 06-03] | RS5, RMH, RM |  | 
+Hospitals, sanatorium, nursing home, physical
+therapy and sports medicine facilities, medical rehabilitation centers,
+and convalescent homes[Amended 3-28-2017 by Ord. No. 17-06] |  | AC | 
+Hunting lodges |  | AC, AR | 
+Ice house | BG |  | 
+Kennels, commercial |  | AC, AR | 
+Laboratories, medical/dental |  | BG | 
+Lumber and other building material dealers | IG |  | 
+Lumberyard and millwork | IG |  | 
+Lumberyard and storage | BG |  | 
+Manufactured home park |  | RM | 
+Manufactured home sales/storage |  | BG | 
+Manufactured home subdivision |  | RS5, RM | 
+Manufacturing fruits, juice and vegetables[Added 8-14-2001 by Ord. No. 01-17] |  | AC, AR | 
+Marinas, commercial |  | AC, AR | 
+Material storage yards | BG |  | 
+Mini-warehouses[Amended 12-18-2018 by Ord. No. 18-18] |  | BN | 
+Miscellaneous special trade contractors | IG |  | 
+Monasteries, convents |  | AC, AR | 
+Motorcycle repair |  | BG | 
+Mulching[Added 12-11-2001 by Ord. No. 01-25] |  | AC, AR | 
+Nonaccessory tents for special purposes | AC, AR |  | 
+Nonprofit, philanthropic and charitable organizations |  | AC, AR, RS5, RM | 
+Nonprofit, philanthropic and charitable organization
+without liquor license | BN1 |  | 
+Nurseries, retail |  | AC, AR | 
+Nursery farms | RS1 |  | 
+Nursing homes and care centers |  | BG | 
+Office building (exceeds 20,000 square feet) |  | OC | 
+Office complex (exceeds 50,000 square feet)
+permits the following: |  | OC | 
+Banks, drive-through |  |  | 
+Barber/beauty shop |  |  | 
+Cafeteria |  |  | 
+Child-care facility |  |  | 
+Cleaners (pick-up only) |  |  | 
+Copy center |  |  | 
+Newsstand |  |  | 
+Office supply |  |  | 
+Restaurant |  |  | 
+Retail store |  |  | 
+Spa and health club |  |  | 
+Office conversions |  |  | 
+Off-premises monument sign[Added 6-23-2009 by Ord. No. 09-12] | AC, AR, BN, BN-1, BG, OC, IL, IG |  | 
+Outside storage (see general requirements) | BG |  | 
+Pallet manufacturing |  | AC, AR | 
+Pawn shops | BG |  | 
+Planned unit development (PUD) |  | AC, AR, RS1, RS5, RMH, RM | 
+Private educational institution |  | AC, AR, RS1, RS5, RMH, RM, BG | 
+Private club and service organization without
+liquor license | BN1 |  | 
+Professional buildings |  | RM, BG (over 5,000 square feet; see Article
+XX) | 
+Public utilities and uses |  | AC, AR, RS1, RS5, RMH, RM, BN, BG | 
+Racetracks |  | IL | 
+Radio and television station facilities | BG, IL |  | 
+Ranges, rifle, archery, trap, skeet and pistol |  | AC, AR | 
+Recreational facilities, commercial |  | AC, AR, RS5, RM | 
+Recreational facilities (indoor) |  | RS5, RM | 
+Recreational uses (private membership clubs) |  | AC, AR, BG, RM | 
+Refrigeration and service industry machinery | IG |  | 
+Restaurants (drive-thru) | BG |  | 
+Restaurants, taverns, lounges |  | RM | 
+Retail, minor sales and service | RM |  | 
+Retail establishment within office complex |  |  | 
+Riding clubs, commercial stables or horse training,
+including tack shops |  | AC, AR, RS1 | 
+Roadside stands (seasonal) | AC, AR, RS1 |  | 
+Rooming or boarding houses | RM |  | 
+Sample homes | RS1, RS5, RMH, RM, BN, BG, IL |  | 
+Sanitary landfill |  | AC, AR | 
+Sanitary services | IG |  | 
+Sawmills |  | AC, AR, IG | 
+Sawmills, temporary | AC, AR |  | 
+School bus parking | AC, AR, RS1 |  | 
+School, semipublic and quasipublic |  | AC, AR, RS1, RS5, RMH, BG | 
+Seasonal labor housing |  | AC, AR | 
+Septage processing/storage |  | AC, AR | 
+Service center for autos, buses, trucks, motorcycles,
+radiator repair, recapping, vulcanizing |  | IG | 
+Shopping centers | BG |  | 
+Show rooms (boats, cars motorcycles, etc.) | BG |  | 
+Signs on divided highway, billboards | BG |  | 
+Slaughterhouses |  | AC, AR | 
+Stadiums |  | IL | 
+Stockyard, animal |  | AC, AR | 
+Storage, accessory outside | AC, AR, RS1, BG |  | 
+Storage of agricultural chemicals |  | AC, AR | 
+Storage of fishing/crabbing equipment | AC, AR |  | 
+Swimming pools (community) |  | AC, AR, RS1, RS5, RMH, RM | 
+Temporary shelter facility | RS5, RM, BN, BG |  | 
+Tire sales[4] | BG |  | 
+Tower, broadcasting and telecommunications[Added 10-24-2000 by Ord. No. 00-26] |  | All districts | 
+Tractor trailer parking/storage |  | IG | 
+Transfer station, waste management facility |  | IG | 
+Trash compaction (see § 205-362) |  | IG | 
+Truck freight terminal[5] |  | BG | 
+Warehouses | BG |  | 
+Wholesale trade establishments with facilities
+for storage and transport of farm products |  | AC, AR | 
+Yard and garden equipment sales, rental and
+service | BG |  | 
+
+
+dl      disposition list
+https://ecode360.com/7605547
+-5.785920567492026
+99-17 | 9-14-1999 | BOCA Building Code amendment | Superseded by Ord. No. 20-6 | 
+99-18 | 9-28-1999 | Tax credit program for historic properties | Ch. 191, Art. VII | 
+99-19 | 9-28-1999 | Regional Planning Commission amendment | Ch. 77 | 
+99-20 | 9-28-1999 | Bond | NCM | 
+99-21 | 10-12-1999 | Zoning amendment | Ch. 205 | 
+99-22 | 10-12-1999 | Zoning amendment | Ch. 205 | 
+99-23 | 11-30-1999 | Noise amendment | Ch. 161 | 
+99-24 | 12-14-1999 | County Employees' Retirement Program amendment | Repealed by Ord. No. 03-10 | 
+99-25 | 12-14-1999 | County Employees' Retirement Program amendment | Repealed by Ord. No. 03-10 | 
+99-26 | 12-14-1999 | Subdivision of land amendment | Repealed by Ord. No. 03-11 | 
+99-27 | 12-14-1999 | Subdivision of land amendment | Repealed by Ord. No. 03-11 | 
+99-28 | 12-21-1999 | Bond | NCM | 
+00-01 | 1-11-2000 | Zoning amendment | Ch. 205 | 
+00-02 | 1-11-2000 | Zoning amendment | Ch. 205 | 
+00-03 | 1-11-2000 | Zoning amendment | Ch. 205 | 
+00-04 | 3-14-2000 | County Employees' Retirement Program amendment | Repealed by Ord. No. 03-10 | 
+00-05 | 3-14-2000 | Zoning amendment | Ch. 205 | 
+00-06 | 3-14-2000 | Zoning amendment | Ch. 205 | 
+00-07 | 3-14-2000 | Zoning amendment | Ch. 205 | 
+00-08 | 3-14-2000 | Sanitary standards amendment | Repealed by Ord. No. 03-04 | 
+00-09 | 3-14-2000 | Sanitary standards amendment | Repealed by Ord. No. 03-04 | 
+00-10 | 3-14-2000 | Sanitary standards amendment | Repealed by Ord. No. 03-04 | 
+00-11 | 4-11-2000 | Zoning amendment | Ch. 205 | 
+00-12 | 4-11-2000 | Zoning amendment | Ch. 205 | 
+00-13 | 5-9-2000 | 2001 budget | NCM | 
+00-14 | 5-9-2000 | Library Tax District 2001 budget | NCM | 
+00-15 | 6-13-2000 | Property maintenance amendment | Superseded by Ord. No. 20-5 | 
+00-16 | 6-27-2000 | Personnel policy amendment | Ch. 68 | 
+00-17 | 6-27-2000 | Bond | NCM | 
+00-18 | 7-11-2000 | Sanitary standards amendment | Repealed by Ord. No. 03-04 | 
+00-19 | 7-11-2000 | Sanitary standards amendment | Repealed by Ord. No. 03-04 | 
+00-20 | 8-22-2000 | Bond | NCM | 
+00-21 | 9-12-2000 | Bond | NCM | 
+00-22 | 9-26-2000 | Realty transfer tax amendment | Ch. 191, Art. IV | 
+00-23 | 9-12-2000 | Zoning amendment | Ch. 205 | 
+00-24 | 10-10-2000 | Personnel policy amendment | Ch. 68 | 
+00-25 | 10-10-2000 | Bond | NCM | 
+00-26 | 10-24-2000 | Adoption of Code | Ch. 1, Art. I | 
+00-27 | 10-24-2000 | Personnel policy amendment | Ch. 68 | 
+00-28 | 11-14-2000 | County Employees' Retirement Program amendment | Repealed by Ord. No. 03-10 | 
+00-29 | 11-28-2000 | Fees amendment | Repealed by Ord. No. 03-03 | 
+01-01 | 1-2-2001 | Community Development Advisory Committee amendment;
+Library Advisory Committee amendment; Parks and Recreation Commission
+amendment; Regional Planning Commission amendment; zoning amendment | Chs. 19; 53; 60; 77; 205 | 
+01-02 | 3-13-2001 | Zoning amendment | Ch. 205 | 
+01-03 | 3-13-2001 | Zoning amendment | Ch. 205 | 
+01-04 | 3-27-2001 | Building construction amendment | Superseded by Ord. No. 20-6 | 
+01-05 | 4-25-2001 | 2002 budget | NCM | 
+01-06 | 4-25-2001 | Library Tax District 2002 budget | NCM | 
+01-07 | 4-25-2001 | Fee schedule amendment | Repealed by Ord. No. 04-05 | 
+01-08 | 5-8-2001 | Zoning amendment | Ch. 205 | 
+01-09 | 5-8-2001 | Zoning amendment | Ch. 205 | 
+01-10 | 5-8-2001 | Zoning amendment | Ch. 205 | 
+01-11 | 5-8-2001 | Bond | NCM | 
+01-12 | 5-22-2001 | Moratoriums | Ch. 158 | 
+01-13 | 6-12-2001 | Zoning amendment | Ch. 205 | 
+01-14 | 6-12-2001 | Bond | NCM | 
+01-15 | 6-12-2001 | Land Management Records Routing Form amendment | Ch. 177, Art. I | 
+01-16 | 7-24-2001 | Fee schedule amendment | Repealed by Ord. No. 04-05 | 
+01-17 | 8-14-2001 | Zoning amendment | Ch. 205 | 
+01-18 | 9-25-2001 | Bond | NCM | 
+01-19 | 10-9-2001 | Reapportionment | Repealed by Ord. No. 11-12 | 
+01-20 | 10-9-2001 | Sewer use amendment | Repealed by Ord. No. 03-04 | 
+01-21 | 10-23-2001 | Readoption of Code | Ch. 1, Art. II | 
+01-22 | 11-13-2001 | Retirement amendment | Ch. 83 | 
+01-23 | 11-13-2001 | Zoning amendment | Ch. 205 | 
+01-24 | 12-11-2001 | Hearing procedures | Ch. 139 | 
+01-25 | 12-11-2001 | Zoning amendment | Ch. 205 | 
+01-26 | 4-10-2001 | Main system capital improvement fees amendment | Repealed by Ord. No. 03-03 | 
+02-01 | 1-15-2002 | Zoning amendment | Ch. 205 | 
+02-02 | 1-15-2002 | Zoning amendment | Ch. 205 | 
+02-03 | 2-12-2002 | Bonds | NCM | 
+02-04 | 2-12-2002 | Fee schedule amendment | Repealed by Ord. No. 04-05 | 
+02-05 | 2-26-2002 | Bonds | NCM | 
+02-06 | 3-12-2002 | Zoning amendment | Ch. 205 | 
+02-07 | 3-12-2002 | Subdivision of land amendment | Repealed by Ord. No. 03-11 | 
+02-08 | 3-23-2002 | Comprehensive Plan update | NCM | 
+02-09 | 4-9-2002 | Disabled property owner and senior citizen exemption
+amendment | Ch. 191, Art. I | 
+02-10 | 4-23-2002 | Operating budget | NCM | 
+02-11 | 4-23-2002 | Operating budget for Library Tax District | NCM | 
+02-12 | 4-23-2002 | Zoning amendment | Ch. 205 | 
+02-13 | 5-28-2002 | Sanitary standards amendment | Repealed by Ord. No. 03-04 | 
+02-14 | 5-28-2002 | Delinquent taxes amendment | Ch. 191, Art. II | 
+02-15 | 6-25-2002 | Fee schedule amendment | Repealed by Ord. No. 04-05 | 
+02-16 | 7-9-2002 | Amendment of adopted report of Redistricting
+Commission | NCM | 
+02-17 | 7-23-2002 | Noise amendment | Ch. 161 | 
+02-18 | 8-13-2002 | Amendment of adopted report of Redistricting
+Commission | NCM | 
+02-19 | 10-8-2002 | Tax credit program for historic properties amendment | Ch. 191, Art. VII | 
+02-20 | 10-22-2002 | Bonds | NCM | 
+03-01 | 1-14-2003 | Fee schedule amendment | Repealed by Ord. No. 04-05 | 
+03-02 | 2-11-2003 | Fee schedule amendment | Repealed by Ord. No. 04-05 | 
+03-03 | 2-11-2003 | Fees | Repealed by Ord. No. 04-06 | 
+03-04 | 2-11-2003 | Sanitary standards | Ch. 180 | 
+03-05 | 2-25-2003 | Zoning amendment | Ch. 205 | 
+03-06 | 4-29-2003 | Extension of tax abatement program | Ch. 191, Art. VI | 
+03-07 | 4-29-2003 | Operating budget | NCM | 
+03-08 | 4-29-2003 | Operating budget for Library Tax District | NCM | 
+03-09 | 5-13-2003 | Building construction amendment | Superseded by Ord. No. 20-6 | 
+03-10 | 5-13-2003 | Retirement program | Ch. 83, Art. I | 
+03-11 | 6-24-2003 | Subdivision and land development | Ch. 187 | 
+03-12 | 6-24-2003 | Sewer districts amendment | Ch. 180, Art. IV | 
+03-13 | 6-24-2003 | Zoning amendment | Ch. 205 | 
+03-14 | 6-24-2003 | Zoning amendment | Ch. 205 | 
+03-15 | 7-1-2003 | Bond | NCM | 
+03-16 | 7-29-2003 | Fee schedule amendment | Repealed by Ord. No. 04-05 | 
+03-17 | 7-29-2003 | Fee schedule amendment | Repealed by Ord. No. 04-05 | 
+03-18 | 8-12-2003 | Zoning amendment | Ch. 205 | 
+03-19 | 8-26-2003 | Regional Planning Commission amendment | Ch. 77 | 
+03-20 | 8-26-2003 | Disabled property owner and senior citizen tax
+exemption amendment | Ch. 191, Art. I | 
+03-21 | 9-16-2003 | Bond | NCM | 
+03-22 | 9-16-2003 | Retirement program amendment | Ch. 83, Art. I | 
+03-23 | 10-14-2003 | Bond | NCM | 
+03-24 | 10-28-2003 | Fee schedule | Repealed by Ord. No. 04-05 | 
+03-25 | 10-28-2003 | Fees amendment | Repealed by Ord. No. 04-06 | 
+03-26 | 11-25-2003 | Zoning amendment | Ch. 205 | 
+03-27 | 11-25-2003 | Emergency Services Assistance Fund | Ch. 37 | 
+03-28 | 12-9-2003 | Sanitary standards amendment | Ch. 180 | 
+03-29 | 12-9-2003 | Zoning amendment | Ch. 205 | 
+03-30 | 12-16-2003 | Zoning amendment | Ch. 205 | 
+04-01 | 1-13-2004 | Bond | NCM | 
+04-02 | 2-3-2004 | International Residential Code | Superseded by Ord. No. 20-6 | 
+04-03 | 3-2-2004 | Noise amendment | Ch. 161 | 
+04-04 | 3-23-2004 | Bonds | NCM | 
+04-05 | 3-23-2004 | Fee schedule | Ch. 128, Part 2 | 
+04-06 | 4-13-2004 | Fees | Repealed by Ord. No. 05-02 | 
+04-07 | 4-13-2004 | Sanitary standards amendment | Ch. 180 | 
+04-08 | 4-27-2004 | Operating budget | NCM | 
+04-09 | 4-27-2004 | Library Tax District budget | NCM | 
+04-10 | 4-27-2004 | Finances | Ch. 43 | 
+04-11 | 6-22-2004 | Property maintenance amendment | Superseded by Ord. No. 20-5 | 
+04-12 | 6-22-2004 | Sanitary standards amendment | Ch. 180 | 
+04-13 | 6-22-2004 | Types of fees; administration amendment | Ch. 128, Part 1 | 
+04-14 | 6-22-2004 | Records retention | Ch. 81, Art. I | 
+04-15 | 6-22-2004 | Zoning amendment | Ch. 205 | 
+04-16 | 7-27-2004 | Personnel policy amendment | Ch. 68 | 
+04-17 | 8-24-2004 | Subdivision and land development amendment | Ch. 187 | 
+04-18 | 8-24-2004 | Zoning amendment | Ch. 205 | 
+04-19 and 04-20 |  |  | Numbers not used | 
+04-21 | 11-30-2004 | Types of fees; administration amendment | Ch. 128, Part 1 (Attachments 2 and 3) | 
+04-22 | 11-30-2004 | Retirement amendment | Ch. 83 | 
+04-23 | 2-22-2005 | Bond | NCM | 
+05-01 |  |  | NCM | 
+05-02 | 3-8-2005 | Types of fees; administration amendment | Ch. 128, Part 1 | 
+05-03 | 3-8-2005 | Sanitary standards amendment | Ch. 180 | 
+05-04 | 4-12-2005 | Taxation amendment | Ch. 191 | 
+05-05 | 5-10-2005 | Annual budget | Chs. 19, 53, 60, 77, 84 | 
+05-06 |  |  | NCM | 
+05-07 | 6-28-2005 | Bond | NCM | 
+05-08 | 6-28-2005 | Sanitary standards amendment | Ch. 180 | 
+05-09 | 7-5-2005 | Zoning amendment | Ch. 205 | 
+05-10 | 8-23-2005 | Sanitary standards amendment | Ch. 180 | 
+05-11 | 12-22-2005 | Types of fees; administration amendment | Ch. 128, Part 1 | 
+05-12 | 10-25-2005 | Subdivision and land development amendment | Ch. 187 | 
+06-01 | 1-31-2006 | Fee schedule amendment | Ch. 128, Part 2 | 
+06-02 | 2-22-2006 | Zoning amendment | Ch. 205 | 
+06-03 | 2-28-2006 | Zoning amendment | Ch. 205 | 
+06-04 | 2-28-2006 | Subdivision and land development amendment | Ch. 187 | 
+06-05 | 2-28-2006 | Zoning amendment | Ch. 205 | 
+06-06 | 2-28-2006 | Zoning amendment | Ch. 205 | 
+06-07 | 3-14-2006 | Types of fees; administration amendment | Ch. 128, Part 1 (Attachments 2 and 3) | 
+06-08 | 3-28-2006 | Subdivision and land development amendment | Ch. 187 | 
+06-09 | 3-28-2006 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+06-10 | 3-28-2006 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+06-11 | 4-25-2006 | 2007 annual operating budget | NCM | 
+06-12 | 4-25-2006 | 2007 operating budget (Library Tax District) | NCM | 
+06-13 | 4-25-2006 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+06-14 | 4-25-2006 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+06-15 | 5-23-2006 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+06-16 | 5-23-2006 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+06-17 | 5-23-2006 | Fee schedule amendment | Ch. 128, Part 2 | 
+06-18 | 5-23-2006 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+06-19 | 6-13-2006 | TDR Receiving Areas Map amendment | NCM | 
+06-20 | 6-27-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-21 | 6-27-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-22 | 6-27-2006 | Fee schedule amendment | Ch. 128, Part 2 | 
+06-23 | 7-11-2006 | Building permit fee surcharge | Superseded by Ord. No. 20-6 | 
+06-24 | 7-18-2006 | Subdivision and land development amendment | Ch. 187 | 
+06-25 | 7-25-2006 | Zoning amendment | Ch. 205 | 
+06-26 | 9-12-2006 | Fee schedule amendment | Ch. 128, Part 2 | 
+06-27 | 9-12-2006 | BOCA Building Code amendment | NCM | 
+06-28 | 9-12-2006 | International Residential Code amendment | NCM | 
+06-29 | 9-12-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-30 | 9-27-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-31 | 9-27-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-32 | 9-27-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-33 | 9-27-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-34 | 9-27-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-35 | 9-27-2006 | TDR Receiving Areas Map amendment | NCM | 
+06-36 | 9-27-2006 | Subdivision and land development amendment | Ch. 187 | 
+06-37 | 10-10-2006 | Disabled property owner and senior citizen tax
+exemption amendment | Ch. 191, Art. I | 
+06-38 | 10-10-2006 | Kent County retiree benefits program | Ch. 79, Art. I | 
+06-39 | 10-10-2006 | Types of fees; administration amendment | Ch. 128, Part 1 | 
+06-40 | 10-10-2006 | Fee schedule amendment | Ch. 128, Part 2 | 
+06-41 | 10-17-2006 | Subdivision and land development amendment | Ch. 187 | 
+06-42 | 10-24-2006 | Subdivision and land development amendment | Ch. 187 | 
+06-43 | 10-24-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-44 | 10-24-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-45 | 11-28-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-46 | 11-28-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-47 | 11-28-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+06-48 | 11-28-2006 | Real estate tax exemption for industries amendment | Ch. 191, Art. VI | 
+06-49 | 11-28-2006 | Subdivision and land development amendment | Ch. 187 | 
+06-50 | 11-28-2006 | Special elections: Levy Court amendment | Ch. 34, Art. I | 
+06-51 | 12-12-2006 | Types of fees; administration amendment | Ch. 128, Part 1 | 
+06-52 | 12-19-2006 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-01 | 1-16-2007 | Moratoriums amendment | Ch. 158 | 
+07-02 | 1-16-2007 | Subdivision and land development amendment | Ch. 187 | 
+07-03 | 1-30-2007 | Fee schedule amendment | Ch. 128, Part 2 | 
+07-04 |  |  | Void | 
+07-05 | 2-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-06 | 2-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-07 | 2-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-08 | 3-27-2007 | Subdivision and land development amendment | Ch. 187 | 
+07-09 | 3-27-2007 | Subdivision and land development amendment | Ch. 187 | 
+07-10 | 3-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-11 | 3-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-12 | 3-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-13 | 4-24-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-14 | 4-24-2007 | Adoption of annual budget | NCM | 
+07-15 | 4-24-2007 | Adoption of annual operating budget for Library
+Tax District | NCM | 
+07-16 | 5-22-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-17 | 5-22-2007 | Sanitary standards amendment | Ch. 180 | 
+07-18 | 5-22-2007 | Fee schedule amendment | Ch. 128, Part 2 | 
+07-19 | 6-26-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-20 | 6-26-2007 | Building permit fee surcharge amendment | Superseded by Ord. No. 20-6 | 
+07-21 | 6-26-2007 | Moratoriums amendment | Ch. 158 | 
+07-22 | 7-24-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-23 | 7-24-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-24 | 8-21-2007 | Moratoriums amendment | Ch. 158 | 
+07-25 | 8-28-2007 | Fee schedule amendment | Ch. 128, Part 2 | 
+07-26 | 10-9-2007 | Economic development revenue bonds | NCM | 
+07-27 | 10-9-2007 | Disabled property owner and senior citizen tax
+exemption amendment | Ch. 191, Art. I | 
+07-28 | 10-23-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-29 | 10-23-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-30 | 10-23-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-31 | 11-13-2007 | Real estate tax credit program for uniformed
+military personnel serving in combat zones | Ch. 191, Art. VIII | 
+07-32 | 11-13-2007 | Emergency Services Assistance Fund amendment | Ch. 37 | 
+07-33 | 11-13-2007 | Fee schedule amendment | Ch. 128, Part 2 | 
+07-34 | 11-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-35 | 11-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-36 | 11-27-2007 | Comprehensive Plan and Zoning Map amendment | NCM | 
+07-37 | 12-11-2007 | Types of fees; administration amendment | Ch. 128, Part 1 | 
+08-01 | 1-15-2008 | Sanitary standards amendment | Ch. 180 | 
+08-02 | 1-29-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-03 | 1-29-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-04 | 2-26-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-05 | 3-25-2008 | Zoning amendment | Ch. 205 | 
+08-06 | 3-25-2008 | Subdivision and land development amendment | Ch. 187 | 
+08-07 | 3-26-2008 | Zoning amendment (Source Water Protection Overlay
+Zone) | Repealed by Ord. No. 09-02 | 
+08-08 | 3-26-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-09 | 3-26-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-10 | 4-8-2008 | Realty transfer tax amendment | Ch. 191, Art. IV | 
+08-11 | 4-8-2008 | Personnel policy amendment | Ch. 68 | 
+08-12 | 4-22-2008 | 2008 budget | NCM | 
+08-13 | 4-22-2008 | Library Tax District 2008 budget | NCM | 
+08-14 | 4-22-2008 | Real estate tax exemption for industries amendment | Ch. 191, Art. VI | 
+08-15 | 5-27-2008 | Zoning amendment (Source Water Protection Overlay
+Zone) | Repealed by Ord. No. 09-02 | 
+08-16 | 6-24-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-17 | 7-29-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-18 | 8-26-2008 | International Building Code amendment; International
+Residential Code amendment | Superseded by Ord. No. 20-6 | 
+08-19 | 9-30-2008 | Subdivision and land development amendment | Ch. 187 | 
+08-20 | 10-7-2008 | Adoption of 2007 Comprehensive Plan | NCM | 
+08-21 | 10-14-2008 | Retirement amendment | Ch. 83 | 
+08-22 | 10-21-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-23 | 10-21-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-24 | 10-28-2008 | General obligation debt | NCM | 
+08-25 | 11-25-2008 | Comprehensive Plan and Zoning Map amendment | NCM | 
+08-26 | 11-25-2008 | Zoning Map amendment | NCM | 
+08-27 | 11-25-2008 | Zoning amendment | Ch. 205 | 
+08-28 | 12-9-2008 | Bond | NCM | 
+09-01 | 1-27-2009 | Sanitary standards amendment | Ch. 180 | 
+09-02 | 1-27-2009 | Zoning amendment (repeal of Source Water Protection
+Overlay Zone) | Ch. 205 (Editor's Note only) | 
+09-03 | 2-10-2009 | Types of fees; administration amendment | Ch. 128, Part 1 | 
+09-04 | 3-10-2009 | Retirement amendment | Ch. 83 | 
+09-05 | 4-28-2009 | Retirement amendment | Ch. 83 | 
+09-06 | 4-28-2009 | 2009-2010 budget | NCM | 
+09-07 | 4-28-2009 | Library Tax District 2009-2010 Budget | NCM | 
+09-08 | 5-12-2009 | Kent County retiree benefits program amendment | Ch. 79, Art. I | 
+09-09 | 5-12-2009 | Fee schedule amendment | Ch. 128, Part 2 | 
+09-10 | 5-26-2009 | Subdivision and land development amendment | Ch. 187 | 
+09-11 | 6-23-2009 | Zoning amendment | Ch. 205 | 
+09-12 | 6-23-2009 | Zoning amendment | Ch. 205 | 
+09-13 | 6-23-2009 | Zoning amendment | Ch. 205 | 
+09-14 | 7-21-2009 | Subdivision and land development amendment | Ch. 187 | 
+09-15 | 8-11-2009 | Fee Schedule amendment | Ch. 128, Part 2 | 
+09-16 | 8-25-2009 | Fee Schedule amendment | Ch. 128, Part 2 | 
+09-17 | 8-25-2009 | Parks and recreation amendment | Ch. 168 | 
+09-18 | 8-25-2009 | Fee Schedule amendment | Ch. 128, Part 2 | 
+09-19 | 8-25-2009 | Sanitary standards amendment | Ch. 180 | 
+09-20 | 8-25-2009 | Fee Schedule amendment | Ch. 128, Part 2 (Att. 1) | 
+09-21 | 9-8-2009 | Building permit fee surcharge amendment | Superseded by Ord. No. 20-6 | 
+09-22 | 9-22-2009 | Subdivision and land development amendment | Ch. 187 | 
+09-23 | 9-22-2009 | Personnel policy amendment | Ch. 68 | 
+09-24 | 9-22-2009 | Subdivision and land development amendment | Ch. 187 | 
+09-25 | 10-27-2009 | Comprehensive Plan and Zoning Map amendment | NCM | 
+09-26 | 10-27-2009 | Zoning amendment | Ch. 205 | 
+09-27 | 11-10-2009 | General obligation bond | NCM | 
+09-28 | 11-24-2009 | Comprehensive Plan and Zoning Map amendment | NCM | 
+09-29 | 12-15-2009 | General obligation bond amendment | NCM | 
+09-30 | 12-15-2009 | Subdivision and land development amendment | Ch. 187 | 
+09-31 | 12-15-2009 | Subdivision and land development amendment | Ch. 187 | 
+09-32 | 12-15-2009 | Comprehensive Plan and Zoning Map amendment | NCM | 
+09-33 | 12-15-2009 | Zoning amendment | Ch. 205 | 
+09-34 | 12-15-2009 | Subdivision and land development amendment | Ch. 187 | 
+09-35 | 12-29-2009 | Fee schedule amendment | Ch. 128, Part 2 | 
+10-01 | 3-23-2010 | General obligation bond | NCM | 
+10-02 | 4-13-2010 | Fee schedule amendment | Ch. 128, Part 2 | 
+10-03 | 4-27-2010 | 2010-2011 budget | NCM | 
+10-04 | 4-27-2010 | Library Tax District 2010-2011 budget | NCM | 
+10-05 | 5-11-2010 | Property maintenance amendment | Superseded by Ord. No. 20-5 | 
+10-06 | 5-25-2010 | Comprehensive Plan and Zoning Map amendment | NCM | 
+10-07 | 6-15-2010 | Bond | NCM | 
+10-08 | 6-15-2010 | Bond | NCM | 
+10-09 | 6-29-2010 | Comprehensive Plan and Zoning Map amendment | NCM | 
+10-10 | 6-29-2010 | General obligation bond | NCM | 
+10-11 | 6-29-2010 | Retirement amendment | Ch. 83 | 
+10-12 | 8-10-2010 | Emergency Services Assistance Fund amendment | Ch. 37 | 
+10-13 | 8-10-2010 | Sanitary standards amendment | Ch. 180 | 
+10-14 | 8-24-2010 | General obligation bond amendment | NCM | 
+10-15 | 9-28-2010 | General obligation bond | NCM | 
+10-16 | 9-28-2010 | Comprehensive Plan and Zoning Map amendment | NCM | 
+10-17 | 10-12-2010 | International Residential Code amendment | Superseded by Ord. No. 20-6 | 
+10-18 | 1-26-2010 | Economic development bond | NCM | 
+10-19 | 11-9-2010 | Sanitary standards amendment | Ch. 180 | 
+10-20 | 11-23-2010 | Zoning Map amendment | NCM | 
+10-21 | 11-23-2010 | General obligation bond | NCM | 
+10-22 | 11-23-2010 | Economic development bond | NCM | 
+10-23 | 12-21-2010 | Retirement amendment | Ch. 83 | 
+10-24 | 12-21-2010 | Retirement amendment | Ch. 83 | 
+11-01 | 1-25-2011 | Zoning amendment | Ch. 205 | 
+11-02 | 1-25-2011 | Zoning amendment | Ch. 205 | 
+11-03 | 1-25-2011 | Zoning amendment | Ch. 205 | 
+11-04 | 1-25-2011 | Subdivision and land development amendment | Ch. 187 | 
+11-05 | 2-22-2011 | Comprehensive Plan and Zoning Map amendment | NCM | 
+11-06 | 3-22-2011 | Refunding revenue bonds | NCM | 
+11-07 | 4-26-2011 | 2011-2012 budget | NCM | 
+11-08 | 4-26-2011 | Library Tax District 2011-2012 budget | Superseded by Ord. No. 11-13 | 
+11-09 | 4-26-2011 | Fee schedule amendment | Ch. 128, Part 2 | 
+11-10 | 5-10-2011 | Fee schedule amendment; parks and recreation amendment | Chs. 128, Part 2; 168 | 
+11-11 | 5-24-2011 | Zoning Map amendment | Ch. 205 (footnote only) | 
+11-12 | 6-28-2011 | Reapportionment repealer | Repealed by Ord. No. 11-20 | 
+11-13 | 7-12-2011 | Library Tax District 2011-2012 budget | NCM | 
+11-14 | 7-12-2011 | Fee schedule amendment | Ch. 128, Part 2 | 
+11-15 | 5-24-2011 | Zoning Map amendment | NCM | 
+11-16 | 8-9-2011 | Parks and recreation amendment | Ch. 168 | 
+11-17 | 8-9-2011 | Fee schedule amendment | Ch. 128, Part 2 | 
+11-18 | 9-27-2011 | Zoning Map amendment | NCM | 
+11-19 | 10-11-2011 | Retirement amendment | Ch. 83 | 
+11-20 | 10-25-2011 | Reapportionment repealer | NCM | 
+11-21 | 11-29-2011 | Disabled property owner and senior citizen tax exemption amendment | Ch. 191, Art. I | 
+11-22 | 12-13-2011 | Fee schedule amendment | Ch. 128, Part 2 | 
+12-01 | 1-10-2012 | Building construction: International Building Code amendment | Superseded by Ord. No. 20-6 | 
+12-02 | 2-14-2012 | Aeropark Authority amendment | Ch. 5 | 
+12-03 | 2-28-2012 | Bond | NCM | 
+12-04 | 3-13-2012 | Building permit fee surcharge amendment | Superseded by Ord. No. 20-6 | 
+12-05 | 4-24-2012 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+12-06 | 4-24-2012 | 2012-2013 budget | NCM | 
+12-07 | 4-24-2012 | Library Tax District 2012-2013 budget | NCM | 
+12-08 | 4-24-2012 | Fees: types of fees; administration amendment | Ch. 128, Part 1 | 
+12-09 | 5-8-2012 | Fee schedule amendment | Ch. 128, Part 2 | 
+12-10 | 5-22-2012 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+12-11 | 6-26-2012 | Bond | NCM | 
+12-12 | 6-26-2012 | Bond | NCM | 
+12-13 | 6-26-2012 | Zoning Map amendment | NCM | 
+12-14 | 6-26-2012 | Comprehensive Plan Map and Zoning Map amendments | NCM | 
+12-15 | 7-10-2012 | Sanitary standards amendment | Ch. 180 | 
+12-16 | 8-14-2012 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+12-17 | 10-9-2012 | Building permit fee surcharge amendment | Superseded by Ord. No. 20-6 | 
+12-18 | 11-13-2012 | Personnel policy amendment | Ch. 68 | 
+12-19 | 11-27-2012 | Board of Assessment Review | Ch. 9 | 
+12-20 | 12-18-2012 | Zoning Map amendment | NCM | 
+12-21 | 12-18-2012 | Zoning Map amendment | NCM | 
+13-01 | 1-22-2013 | Subdivision and land development amendment | Ch. 187 | 
+13-02 | 1-22-2013 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+13-03 | 2-12-2013 | Retirement amendment | Ch. 83 | 
+13-04 | 3-26-2013 | Fee schedule amendment | Ch. 128, Part 2 | 
+13-05 | 4-23-2013 | 2013-2014 budget | NCM | 
+13-06 | 4-23-2013 | Library Tax District 2013-2014 budget | NCM | 
+13-07 | 5-28-2013 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+13-08 | 5-28-2013 | Subdivision and land development amendment | Ch. 187 | 
+13-09 | 5-28-2013 | Retirement amendment | Ch. 83 | 
+13-10 | 6-25-2013 | Fees: types of fees; administration amendment | Ch. 128, Part 1 | 
+13-11 | 8-20-2013 | Bond | NCM | 
+13-12 | 9-24-2013 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+13-13 | 9-24-2013 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+13-14 | 9-24-2013 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+13-15 | 9-24-2013 | Bond | NCM | 
+13-16 | 10-22-2013 | Subdivision and land development amendment | Ch. 187 | 
+13-17 | 12-17-2013 | Zoning Map amendment | NCM | 
+14-01 | 2-25-2014 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+14-02 | 3-11-2014 | Subdivision and land development amendment | Ch. 187 | 
+14-03 | 3-25-2014 | Floodplain management; zoning amendment | Chs. 188; 205 | 
+14-04 | 3-25-2014 | Zoning amendment | Ch. 205 | 
+14-05 | 3-25-2014 | Building construction: International Building Code amendment;
+International Residential Code amendment | Superseded by Ord. No. 20-6 | 
+14-06 | 4-29-2014 | 2014-2015 budget | NCM | 
+14-07 | 4-29-2014 | Library Tax District 2014-2015 budget | NCM | 
+14-08 | 5-13-2014 | Retirement amendment | Ch. 83 | 
+14-09 | 5-27-2014 | Subdivision and land development amendment | Ch. 187 | 
+14-10 | 6-24-2014 | General obligation bond | NCM | 
+14-11 | 7-22-2014 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+14-12 | 7-22-2014 | Zoning amendment | Ch. 205 | 
+14-13 | 7-22-2014 | General obligation bond | NCM | 
+14-14 | 7-22-2014 | General obligation bond | NCM | 
+14-15 | 9-23-2014 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+14-16 | 10-28-2014 | Subdivision and land development amendment | Ch. 187 | 
+14-17 | 10-28-2014 | Subdivision and land development amendment | Ch. 187 | 
+14-18 | 11-10-2014 | General obligation bond | NCM | 
+14-19 | 12-16-2014 | General obligation bond amendment | NCM | 
+14-20 | 12-9-2014 | Retirement amendment | Ch. 83 | 
+14-21 | 12-16-2014 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+15-01 | 1-27-2015 | Fee schedule amendment | Ch. 128, Part 2 | 
+15-02 | 2-10-2015 | Property maintenance amendment | Superseded by Ord. No. 20-5 | 
+15-03 | 2-10-2015 | Emergency Services Assistance Fund amendment | Ch. 37 | 
+15-04 | 2-10-2015 | Building construction: building permit fee surcharge amendment | Superseded by Ord. No. 20-6 | 
+15-05 | 4-28-2015 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+15-06 | 4-28-2015 | 2015-2016 budget | NCM | 
+15-07 | 4-28-2015 | Library Tax District 2015-2016 budget | NCM | 
+15-08 | 6-23-2015 | General obligation bonds | NCM | 
+15-09 | 7-21-2015 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+15-10 | 11-24-2015 | Zoning Map amendment | NCM | 
+15-11 | 11-24-2015 | Zoning Map amendment | NCM | 
+15-12 | 11-24-2015 | Bond | NCM | 
+15-13 | 12-15-2015 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+16-01 | 3-22-2016 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+16-02 | 4-26-2016 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+16-03 | 4-26-2016 | Library Tax District 2016-2017 budget | NCM | 
+16-04 | 4-26-2016 | 2016-2017 budget | NCM | 
+16-05 | 5-24-2016 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+16-06 | 5-24-2016 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+16-07 | 5-24-2016 | Fee schedule amendment | Ch. 128, Part 2 | 
+16-08 | 5-24-2016 | Bond | NCM | 
+16-09 | 7-12-2016 | Property maintenance amendment | Superseded by Ord. No. 20-5 | 
+16-10 | 7-12-2016 | Violations and complaints amendment | Ch. 90 | 
+16-11 | 7-19-2016 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+16-12 | 8-9-2016 | Fee schedule amendment | Ch. 128, Part 2 | 
+16-13 | 11-15-2016 | General obligation debt | NCM | 
+16-14 | 11-29-2016 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+16-15 | 11-29-2016 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+16-16 | 11-29-2016 | 2016-2017 budget amendment | NCM | 
+16-17 | 12-13-2016 | Pension Review Committee amendment | Ch. 64 | 
+17-01 | 2-28-2017 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+17-02 | 2-28-2017 | Fee schedule amendment | Ch. 128, Part 2 | 
+17-03 | 1-24-2017 | Zoning amendment | Ch. 205 | 
+17-04 | 3-28-2017 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+17-05 | 3-28-2017 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+17-06 | 3-28-2017 | Zoning amendment | Ch. 205 | 
+17-07 | 4-25-2017 | Bond | NCM | 
+17-08 | 5-9-2017 | Library Tax District 2017-2018 budget | NCM | 
+17-09 | 5-9-2017 | 2017-2018 budget | NCM | 
+17-10 | 5-23-2017 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+17-11 | 7-18-2017 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+17-12 | 7-18-2017 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+17-13 | 7-18-2017 | Comprehensive Plan Map and Zoning Map amendment | NCM | 
+17-14 | 8-15-2017 | Fee schedule amendment | Ch. 128, Part 2 | 
+17-15 | 8-15-2017 | Fee schedule amendment | Ch. 128, Part 2 | 
+17-16 | 9-26-2017 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+17-17 | 10-24-2017 | Taxation: Disabled Property Owner and Senior Citizen Exemption
+Amendment | Ch. 191, Art. I | 
+17-18 | 10-24-2017 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+17-19 | 10-24-2017 | Zoning Amendment | Ch. 205 | 
+17-20 | 10-24-2017 | Zoning Amendment | Ch. 205 | 
+18-01 | 2-27-2018 | Sanitary Standards Amendment | Ch. 180 | 
+18-02 | 2-27-2018 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+18-03 | 2-27-2018 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+18-04 | 4-10-2018 | Bond | NCM | 
+18-05 | 5-8-2018 | Library Tax District FY 2019 Budget | NCM | 
+18-06 | 5-8-2018 | FY 2019 Budget | NCM | 
+18-07 | 6-26-2018 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+18-08 | 9-11-2018 | Comprehensive Plan Amendment | NCM | 
+18-09 | 9-25-2018 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+18-10 | 9-25-2018 | Subdivision and Land Development Amendment | Ch. 187 | 
+18-11 | 10-23-2018 | Fees: Fee Schedule Amendment | Ch. 128, Pt. 2 | 
+18-12 | 10-23-2018 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+18-13 | 10-23-2018 | Comprehensive Plan | NCM | 
+18-14 | 11-27-2018 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+18-15 | 12-18-2018 | Budget Amendment | NCM | 
+18-16 | 12-18-2018 | Comprehensive Plan Map and Zoning Map Amendment | NCM | 
+18-17 | 12-18-2018 | Zoning Map Amendment | NCM | 
+18-18 | 12-18-2018 | Zoning Amendment | Ch. 205 | 
+19-01 | 1-15-2019 | Sanitary Standards Amendment | Ch. 180 | 
+
+

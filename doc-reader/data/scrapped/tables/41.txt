@@ -1,0 +1,462 @@
+i      municipal water utility system
+https://ecode360.com/8834108
+0.4408552495806225
+ | Blumenthal Drive | 8 | 41 | 
+ | Brewer Street | 4 | 104 | 
+ | Brewer Street | 6 | 370 | 
+ | Crescent Street | 16 | 1,110 | 
+ | Depot Road | 16 | 197 | 
+ | Harrison Street | 6 | 514 | 
+ | Jerome Avenue | 8 | 1,123 | 
+ | Jerome Road | 8 | 3,190 | 
+ | Maple Avenue Extension | 16 | 1,285 | 
+ | Maple Avenue | 16 | 2,421 | 
+ | Pink Row | 8 | 47 | 
+ | Powerhouse Road | 12 | 1,147 | 
+ | Powerhouse Road | 16 | 31 | 
+ | Route 32 Crossings | 8 | 185 | 
+ | Route 32 | 12 | 1,904 | 
+ | Route 32 | 16 | 1,532 | 
+ | Starr Road | 8 | 965 | 
+
+
+i      municipal water utility system
+https://ecode360.com/8834108
+0.35105340531650975
+ | Lathrop Road | 24 | 600 | 
+ | Lathrop Road | 16 | 1,500 | 
+ | Pink Row | 16 | 750 | 
+ | Depot Road | 8 | 1,270 | 
+ | Edwards Road | 6 | 570 | 
+ | Gair Court | 8 | 270 | 
+ | Dock Road | 8 | 1,400 | 
+ | Peter Road | 8 | 850 | 
+
+
+fees
+https://ecode360.com/8833714
+0.32414897110613483
+ | $1 to $500 | $10.41 | 
+ | $501 to $2,000 | $10.41 for the first $500 plus $0.26 for each additional $100
+or fraction thereof up to and including $2,000 | 
+ | $2,001 to $25,000 | $14.31 for the first $2,000 plus $1.04 for each additional $1,000
+or fraction thereof up to and including $25,000 | 
+ | $25,001 to $50,000 | $38.25 for the first $25,000 plus $0.78 for each additional
+$1,000 or fraction thereof up to and including $50,000 | 
+ | $50,001 to $100,000 | $57.77 for the first $50,000 plus $0.52 for each additional
+$1,000 or fraction thereof up to and including $100,000 | 
+ | $100,001 to $500,000 | $83.80 for the first $100,000 plus $0.46 for each additional
+$1,000 or fraction thereof up to and including $500,000 | 
+ | $500,001 to $1,000,000 | $271.18 for the first $500,000 plus $0.42 for each additional
+$1,000 | 
+ | $1,000,001 and up | $479.38 for the first $1,000,000 plus $0.26 for each additional
+$1,000 or fraction thereof | 
+ | Manufactured structures setup fee | $10.41 per section, with a minimum fee of $20.82 per permit | 
+
+
+a         fee schedules
+https://ecode360.com/8834197
+0.32301042123006873
+ | No action taken on application | Total fees, less administrative fee of $30 | 
+ | Plan review completed
+Permit not issued | Total fees, less administrative fee of $30 and the plan review
+fee | 
+ | Plan review completed
+Permit issued | 75% of total fees | 
+ | Plan review completed
+Permit issued
+Inspection(s) done | No refund | 
+
+
+fees
+https://ecode360.com/8833714
+0.313343653101026
+0 to 3,000 square feet | $60 | $60 | $60 | $60 | 
+3,001 to 5,000 square feet | $95 | $95 | $95 | $95 | 
+5,001 to 7,500 square feet | $125 | $125 | $125 | $125 | 
+7,501 to 10,000 square feet | $135 | $135 | $135 | $135 | 
+10,001 to 12,500 square feet | $150 | $150 | $150 | $150 | 
+12,501 to 15,000 square feet | $170 | $170 | $170 | $170 | 
+15,001 to 17,500 square feet | $180 | $180 | $180 | $180 | 
+17,501 to 20,000 square feet | $190 | $190 | $190 | $190 | 
+20,001 to 30,000 square feet | $205 | $205 | $205 | $205 | 
+30,001 to 40,000 square feet | $230 | $230 | $230 | $230 | 
+40,001 to 50,000 square feet | $245 | $245 | $245 | $245 | 
+50,001 to 60,000 square feet | $260 | $260 | $260 | $260 | 
+60,001 to 70,000 square feet | $275 | $275 | $275 | $275 | 
+70,001 to 100,000 square feet | $285 | $285 | $285 | $285 | 
+100,001 to 150,000 square feet | $305 | $305 | $305 | $305 | 
+150,001 to 200,000 square feet | $340 | $340 | $340 | $340 | 
+
+
+i      municipal water utility system
+https://ecode360.com/8834108
+0.24832639962745842
+ | Blumenthal Road | 4 | 258 | 
+ | Blumenthal Road | 8 | 133 | 
+ | Hewitt Drive | 8 | 965 | 
+ | Route 32 | 8 | 821 | 
+
+
+a         bond ordinances
+https://ecode360.com/8834193
+0.2214386578143571
+O-H-3 | 12-19-1989 | 7/467 | $5,900,000 | General obligation | 9-1-1989 to 6-30-1990 | 
+
+
+dl      disposition list
+https://ecode360.com/8834209
+0.1988074467417212
+Res. No. 2019-77 | 10-16-2019 | Fee Schedules Amendment | Ch. A410 | 28 | 
+Ord. No. 2019-08 | 12-9-2019 | Solid Waste Amendment | Ch. 328 | 28 | 
+Ord. No. 2019-09 | 12-9-2019 | Fire Departments: Volunteer Firefighters' Relief Program Amendment | Ch. 52, Art. I | 28 | 
+Ord. No. 2020-01 | 5-11-2020 | Conveyance of Property | Ch. A405 | 28 | 
+
+
+fees
+https://ecode360.com/8833714
+-0.02842858230020684
+ | Aircraft hangars | For servicing or repairing aircraft | $100 per year | 
+ | Airport terminal buildings | For operation | $100 per year | 
+ | Ambulatory health care occupancy | To operate an ambulatory health care occupancy | See Occupancy Permit Fee Table | 
+ | Ammonium nitrate | For storage | $250 per year | 
+ | Apartment buildings and dormitories | To operate an apartment building or dormitory | See Occupancy Permit Fee Table | 
+ | Automobile wrecking yards | To operate automobile wrecking yards | $100 per year | 
+ | Battery system | To operate stationary lead-acid battery systems having an electrolyte
+capacity of more than 100 gallon (379 liters) in sprinklered buildings
+or 50 gallon (189 liters) in nonsprinklered buildings | $75 per year | 
+ | Business occupancies | To operate a business occupancy | See Occupancy Permit Fee Table | 
+ | Candles, open flames, and portable cooking | To use in connection with assembly areas, dining areas of restaurants,
+or drinking establishments | $30; single use; $60 multi-use | 
+ | Cellulose nitrate film | For storage, handling, or use | $100 per year | 
+ | Cleanrooms | For operation | $150 per year | 
+ | Combustible material storage | To store more than 2,500 ft3 (70.8
+m3) gross volume | $250 per year | 
+ | Commercial rubbish-handling operation | To operate | $150 per year | 
+ | Consumer fireworks (1.4G) | For the sale, on-site handling, manufacture, and storage of
+consumer fireworks (1.4G) | $150 per year | 
+ | Covered mall buildings | Annual requirement for facilities that utilize mall area for
+exhibits or displays with 4 conditions | $250 per year | 
+ | Cutting and welding operation | For operations within a jurisdiction | $30; single use; $60; multi-use | 
+ | Day-care occupancies | To operate a day-care occupancy | See Occupancy Permit Fee Table | 
+ | Dry-cleaning plants | To engage in business of dry cleaning or to change to a more
+hazardous cleaning solvent | $180 per year | 
+ | Dust-producing operations | To operate a grain elevator, flour mill, starch mill, feed mill,
+or plant pulverizing aluminum, coal, cocoa, magnesium, spices, or
+sugar, etc. | $250 per year | 
+ | Educational occupancy | To operate an educational occupancy | See Occupancy Permit Fee Table | 
+ | Exhibit and trade shows | For operation of all exhibits and trade shows held within a
+jurisdiction | $250 per event | 
+ | Fairs, no rides | To conduct the events | $50 per event | 
+ | Flame effects | Use of flame effects before an audience | $180 per event | 
+ | Health care facility | To operate a health care occupancy | See Occupancy Permit Fee Table | 
+ | High-piled combustible storage | To use any building or portion thereof as a high-piled storage
+area exceeding 500 ft2 (46.45 m2) | $250 per year | 
+ | Hot work operations | For hot work; for additional permit requirements for hot work
+operations, see 41.1.5[1] | $30, single use; $60, multi-use | 
+ | Hotels and bed-and-breakfast establishment | To operate a hotel, motel or bed and breakfast establishment | See Occupancy Permit Fee Table | 
+ | Industrial occupancies | To operate an industrial occupancy | See Occupancy Permit Fee Table | 
+ | Industrial ovens and furnaces | For operation of industrial ovens and furnaces covered by Chapter
+51[2] | $100 per year | 
+ | Lumberyards and woodworking plants | For storage of lumber exceeding 100,000 board feet | $250 per year | 
+ | Membrane structures, tents, and canopies - permanent | For construction, location, erection, or placement | $100 per structure | 
+ | Membrane structures, tents, and canopies - temporary | To operate an air-supported temporary membrane structure or
+tent having an area in excess of 200 ft2 (18.6 m2) or a canopy in excess of 400
+ft2 (37.2 m2).
+Exception: temporary membrane structures, tents, or canopy structures
+used exclusively for camping | $50, single use; $100, multi-use | 
+ | Mercantile occupancies | To operate a mercantile occupancy | See Occupancy Permit Fee Table | 
+ | Organic coatings | For operation and maintenance of a facility that manufactures
+organic coatings | $150 per year | 
+ | Places of assembly, including special amusement buildings | To operate a place of assembly | See Occupancy Permit Fee Table | 
+ | Pyrotechnics before a proximate audience | For the display and use of pyrotechnic materials before a proximate
+audience | $150 per event | 
+ | Propane filling station | Where cylinder refilling takes place | $50 per year | 
+ | Propane tank installation | Inspection of all propane installation, residential and commercial | $20 for permit | 
+ | Propane tank use at events | Tanks used at events or fairs | $20 per tank | 
+ | Refrigeration equipment | To operate a mechanical refrigeration unit or system | $50 per year | 
+ | Repair garages and service stations | For operation of service stations and repair garages | $50 per year | 
+ | Residential board and care occupancies | To operate a residential board and care occupancy | See Occupancy Permit Fee Table | 
+ | Rocketry manufacturing | For the manufacturing of model rocket motors | $250 per year | 
+ | Rooftop heliports | For operation of a rooftop heliport | $250 per year | 
+ | Special outdoor events, carnivals, and fairs | For the location and operation of special outdoor events, carnivals,
+and fairs | $60 per event | 
+ | Special structures and high-rise buildings | To operate special structures and high-rise buildings | See Occupancy Permit Fee Table | 
+ | Storage occupancies | To operate a storage occupancy | See Occupancy Permit Fee Table | 
+ | Tar kettles | For placement of a tar kettle, placement shall be obtained prior
+to the placement of a tar kettle | $30, single use; $60, multi-use | 
+ | Tire-rebuilding plants | For operation and maintenance of a tire-rebuilding plant | $150 per year | 
+ | Tire storage | To use an open area or portion thereof to store tires in excess
+of 1,000 ft3 (28.3 m3) | $150 per year | 
+ | Torch-applied roofing operation | For the use of a torch for application of roofing materials | $30, single use; $60, multi-use | 
+ | Wildland fire-prone areas | For use of hazardous areas within fire-prone areas. | $x per year | 
+ | Wood products | To store chips, hogged material, lumber, or plywood in excess
+of 200 ft3 (5.7 m3) | $150 per year | 
+
+
+a         conveyance ordinances
+https://ecode360.com/8834195
+-0.12786437828926434
+HJRes. 440 |  |  | 6-26-1895 | Union Baptist Church authorized to take gifts
+of property | 
+O-Q | 1/465 | 1/21 | 10-24-1972 | Leasing of residence at Camp Oakdale (repealed
+by Ord. No. O-U-1) | 
+O-R | 1/466 | 1/21 | 10-24-1972 | Leasing of property at 298 Norwich-New London
+Turnpike | 
+O-S | 1/488 | 1/22 | 12-11-1972 | Gifford property utility easement | 
+O-T | 1/489 | 1/23 | 12-11-1972 | Leasing or sale of Bridge Street property adjacent
+to All-Time Manufacturing Company property | 
+O-V | 2/22 | 1/24 | 7-9-1973 | Maple Avenue property adjacent to Fred Johnson
+property | 
+O-G-1 | 3/70 | 1/34 | 6-14-1976 | Southerly side of PTA Lane | 
+O-U-1 | 4/180 | 1/46 | 1-14-1980 | Leasing of residence at Camp Oakdale (repeals
+Ord. No. O-U and is superseded by Ord. No. O-I-2) | 
+O-W-1 | 4/309 | 1/47 | 11-10-1980 | Property on Route 163 | 
+O-X-1 | 4/309 | 1/48 | 6-8-1981 | Lots 37, 38, Section G, Oxoboxo Lakesites | 
+O-A-2 | 5/42 | 1/51 | 3-8-1982 | Easterly of Pink Row, formerly Doyle property | 
+O-C-2 | 5/189 | 1/55 | 9-29-1982 | South side of Holly Hill Drive | 
+O-D-2 | 5/195 | 1/55 | 10-13-1982 | Corner of Kitemaug Road and Massapeag Road,
+formerly heirs of John Spicer property | 
+O-I-2 | 6/81 | 1/66 | 6-11-1994 | Lease of residence at Camp Oakdale (supersedes
+Ord. No. O-U-1 and is superseded by Ord. No. O-X-2) | 
+O-K-2 | 6/174 | 1/67 | 12-10-1984 | Windy Hill Estates property conveyed to Alejo
+Ortega | 
+O-L-2 | 6/174 | 1/67 | 12-10-1984 | Windy Hill Estates property conveyed to Alejo
+Ortega | 
+O-N-2 | 6/1 |  | 3-11-1986 | Drainage easements along Old Colchester Road
+near intersection with Cottonwood Lane (former Hayden property) | 
+O-X-2 | 7/240 | 1/76 | 7-11-1988 | Leasing of residence at Camp Oakdale (supersedes
+Ord. No. O-I-2) | 
+O-V-3 |  | 9/127 | 3-8-1993 | Leasing of a portion of the Uncasville School
+to the Thames Valley Council for Community Action (TVCCA) | 
+O-Z-3 |  | 9/221 | 8-9-1993 | Southerly side of PTA Lane and easterly side
+of Rt. 2 to Joseph Bonner | 
+O-A-4 |  | 9/221 | 8-9-1993 | Easement along Connecticut Route 163, Crandall
+Hill Road and Bridge Street to the State of Connecticut | 
+O-E-4 |  | 10/109 | 8-14-1995 | Leasing of an area at the Fair Oaks School to
+the Montville Visiting Nurses Association (MVNA) | 
+O-J-4 |  | 10/193 | 3-11-1996 | Property located on the westerly side of Route
+32 in consideration for property conveyed by Korean United Methodist
+Church | 
+O-L-4 |  | 10/359 | 1-13-1997 | Sale of property known as Lot Number 64, Section
+G, Oxoboxo Lake Sites, at public auction | 
+O-N-4 |  | 10/456 | 7-14-1997 | Property located off Maple Avenue to E. T. Legg
+and Associates, Inc. | 
+O-O-4 |  | 11/13 | 12-8-1997 | Property located off Pequot Road in exchange
+for conservation easement over property owned by David Washington | 
+O-P-4 |  | 7/261 | 11-9-1998 | Leasing of shellfish grounds below the Thames
+River to Ram Island Oyster Company, Inc. | 
+O-R-4 |  | 7/274 | 8-9-1999 | Easement located on the westerly side of Old
+Colchester Road to Southern New England Telephone Company | 
+O-T-4 |  | 7/283 | 1-10-2000 | Portion of Mohegan Sun Boulevard belonging to
+the Town of Montville | 
+2002-3 |  |  | 3-11-2003 | Leasing of shellfish grounds | 
+2003-1 |  |  | 8-11-2003 | Southerly side of PTA Lane | 
+2003-2 |  |  | 8-11-2003 | 1595 Route 163 and 1605 Route 163 | 
+2004-5 |  |  | 9-13-2004 | Easement located on the easterly side of Indiana
+Circle (“Oakdale School”) to Southeastern Connecticut
+Water Authority | 
+2005-1 |  |  | 2-14-2005 | Easement on property at 1954 Route 32, Uncasville,
+Connecticut, Assessor’s Map 99 Lot 46, from Connecticut/ Montville
+Hotel Associates LLC  to the Town of Montville | 
+2005-3 |  |  | 3-14-2005 | Portion of Lot 89, Route 32 (PTA Lane), being
+a portion of the premises conveyed to the Town of Montville by deed
+of Stanley J. and Frances D. Kohanski, which deed is recorded in Volume
+96, Page 575 of the Montville Land Records. | 
+2005-4 |  |  | 3-14-2005 | Real property located at Short Road, Montville,
+Connecticut containing .16 acre or 6,775 square feet, being the same
+premises conveyed to the Town of Montville by deed dated September
+9, 1987, and recorded in Volume 199, Page 261 of the Montville Land
+Records. | 
+2006-1 |  |  | 4-10-2006 | Nonexclusive easement to Ronald P. Bolles, Trustee,
+Michelle Bolles Vitale, Trustee, and Michael Edward Bolles, Trustee,
+in and to a portion of a parcel of land between Salt Box Circle and
+a certain pentway along the northerly boundary of the Salt Box subdivision
+owned by the Town of Montville for “Future Road Purposes”
+and shown on a plan recorded in the Montville Land Records entitled
+“SUBDIVISION PLAN SALTBOX FARMS - SECTION 2 PROPERTY NOW OR
+FORMERLY OF THE COLCHESTER GROUP OLD COLCHESTER ROAD, MONTVILLE, CONN.
+SCALE 1” = 100’ OCTOBER 14, 1988” | 
+2006-2 |  |  | 5-8-2006 | Five tracts of land to Platoz Associates, LLC,
+and one tract of land to ABCO Realty, LLC, as set forth in the appropriate
+warranty deeds | 
+2007-3 |  |  | 6-11-2007 | Certain real property located at 300C Maple
+Avenue containing .35 acres being the same premises conveyed to the
+Town of Montville by deed dated June 22, 2006, and recorded in Volume
+492, Page 1079 of the Montville land records | 
+2007-4 |  |  | 6-11-2007 | Certain real property located at 136 Oxoboxo
+Dam Road containing  1.21 acres, being the same premises conveyed
+to the Town of Montville by deed dated June 21, 2005, and recorded
+in Volume 467, Page 694 of the Montville land records | 
+2007-5 |  |  | 6-11-2007 | Certain real property located at 275 Route 163
+containing .52 acres being the same premises conveyed to the Town
+of Montville by deed dated December 5, 2006, and recorded in Volume
+505, Page 891 of the Montville land records | 
+2007-6 |  |  | 9-11-2007 | Easement to Dominion Nuclear Connecticut, Inc.
+for the erection of an emergency siren pole on the west side of Old
+Colchester Road, approximately 93 feet south of the intersection with
+Moxley Road | 
+2007-7 |  |  | 9-11-2007 | Easement to Dominion Nuclear Connecticut, Inc.
+for the erection of an emergency siren pole on the north side of Sharp
+Hill Road approximately 980 feet east of the intersection with Old
+Colchester Road | 
+2007-8 |  |  | 9-11-2007 | Easement to Dominion Nuclear Connecticut, Inc.,
+for the erection of an emergency siren pole on the west side of Fire
+Street approximately 180 feet south of the intersection with Chesterfield
+Road | 
+2009-1 |  |  | 6-9-2009 | 275 Maple Avenue, containing 0.58 acre, being the same premises
+conveyed to the Town of Montville by deed dated April 15, 2008, and
+recorded in volume 524, page 62, of the Town of Montville land records | 
+2009-2 |  |  | 6-9-2009 | 314 Route 163, containing 0.36 acre, being the same premises
+conveyed to the Town of Montville by deed dated February 3, 2009,
+and recorded in volume 532, page 949, of the Town of Montville land
+records | 
+2009-3 |  |  | 6-9-2009 | 1455 Route 32,  containing 0.58 acre, being the same premises
+conveyed to the Town of Montville by deed dated December 29, 2008,
+and recorded in volume 531, page 1136, of the Town of Montville land
+records | 
+2009-6 |  |  | 12-14-2009 | 1887 Route 32 (also known as "PTA Lane"), containing 0.53 acres,
+being the same premises conveyed to the Town by deed dated August
+17, 1967, and recorded in Volume 96, Page 575, of the Town land records | 
+2010-1 |  |  | 6-14-2010 | Portion of Walker Road discontinued by the Town on June 1, 2004,
+beginning at a point from Bozrah Light & Power pole no. 2168,
+approximately 900 feet from the intersection of Walker Road and Caroline
+Road, and running to the end of Walker Road to the Bozrah town line | 
+2010-2 |  |  | 6-14-2010 | 12 New York Road, shown as “Nevada Road” on a map
+which is on file as Map 208-B in the Town Clerk's office, conveyed
+to the Town by warranty deed dated October 14, 1963, and recorded
+in Volume 79, Page 614, of the Town land records | 
+2011-3 |  |  | 5-9-2011 | Lease, sale and conveyance of real property located at 14 Bridge
+Street to Impulse Design, LLC | 
+2011-4 |  |  | 6-13-2011 | Conveyance of real property located at 75 Pink Row to GL&C
+Construction, LLC, and acquisition of certain tract from GL&C
+Construction, LLC | 
+2012-3 |  |  | 3-29-2012 | Electrical distribution easement across land located on the
+northeast side of Norwich-New London Turnpike to the Connecticut Light
+& Power Company | 
+2012-9 |  |  | 11-14-2012 | Bidding authorized for real property located at 245 Lynch Hill
+Road, containing 1.26 acres being the same premises conveyed to the
+Town of Montville by deed dated May 27, 2008, and recorded in volume
+525, page 1178, of the Town land records | 
+2012-10 |  |  | 11-14-2012 | Bidding authorized for real property located at 230B Maple Avenue,
+containing .51 acre being the same premises conveyed to the Town of
+Montville by deed dated August 29, 2011, and recorded in volume 563,
+page 412, of the Town land records | 
+2014-04 |  |  | 10-15-2014 | Conveyance of real property known as 91 Leffingwell Road | 
+2014-05 |  |  | 10-15-2014 | Lease of real property located at 14 Bridge Street | 
+2015-03 |  |  | 12-14-2015 | Lease of real property located at 911 Route 32 to Cellco Parternship
+(d/b/a Verizon Wireless) | 
+2017-04 |  |  | 7-10-2017 | Sale and conveyance of real property located at 289 Route 32
+(former Youth Services building) | 
+2018-02 |  |  | 1-8-2018 | Conveyance of 335 +/- square feet of property located at 836
+Old Colchester Road and four easements for the purpose of constructing
+Old Colchester Road culverts over Fox Brook | 
+2018-05 |  |  | 6-11-2018 | Easement 10 feet in width under and across property of the Town
+of Montville located at the northeasterly side of Lake Drive | 
+2018-07 |  |  | 10-10-2018 | Bidding for certain real property located at 916 Route 163,
+Oakdale, Connecticut containing 0.42 acres being the same premises
+conveyed to the Town of Montville by deed dated August 10, 2017, and
+recorded in volume 628, page 244 of the Town of Montville land records. | 
+2019-02 |  |  | 4-8-2019 | Conveyance of real property located at 15 Benway Court | 
+2019-03 |  |  | 7-8-2019 | Conveyance of real property located at Bridge Street | 
+2019-04 |  |  | 7-8-2019 | Conveyance of real property located at 30 Church Road | 
+2019-05 |  |  | 7-8-2019 | Conveyance of real property located at 87 PTA Lane | 
+2019-06 |  |  | 7-8-2019 | Conveyance of real property located at 309 Route 163 | 
+2019-07 |  |  | 7-8-2019 | Conveyance of real property located at 323 Route 163 | 
+2020-01 |  |  | 5-11-2020 | Sale and conveyance of real property located at 0 and 735 Fire
+Street | 
+
+
+dl      disposition list
+https://ecode360.com/8834209
+-0.5431446257276442
+2002-2 | 2-27-2002 | Voting districts | Ch. 130 | 
+2002-3 | 3-11-2002 | Leasing of shellfish grounds | Ch. A405 | 
+2002-4 | 7-8-2002 | Abandoned vehicles on private property | Ch. 362 | 
+2003-1 | 8-11-2003 | Conveyance of property | Ch. A405 | 
+2003-2 | 8-11-2003 | Conveyance of property | Ch. A405 | 
+2004-1 | 5-12-2004 | Building construction | See Ch. 188 | 
+2004-2 | 6-14-2004 | Adoption of Code | Ch. 1, Art. I | 
+2004-3 | 8-9-2004 | Planning and Zoning Commission to act as Aquifer
+Protection Agency | Ch. 101, Art. III | 
+2004-4 | 8-9-2004 | Denial of building permits in case of delinquent
+taxes | Ch. 188, Art. II | 
+2004-5 | 9-13-2004 | Conveyance of easement | Ch. A405 | 
+2004-6 | 12-13-2004 | Numbering of buildings amendment | Ch. 265 | 
+2004-7 | 12-13-2004 | Fire zones amendment | Ch. 222 | 
+2005-1 | 2-14-2005 | Easement release | Ch. A405 | 
+2005-2 | 3-14-2005 | Refund of excess tax payments | Ch. 345, Art. V | 
+2005-3 | 3-14-2005 | Conveyance of property | Ch. A405 | 
+2005-4 | 3-14-2005 | Conveyance of property | Ch. A405 | 
+2005-5 | 4-11-2005 | Veterans property tax exemption | Superseded by Ord. No. 2012-4 | 
+2005-6 | 7-11-2005 | Access to buildings: rapid-entry systems | Ch. 191, Art. I | 
+2006-1 | 4-10-2006 | Conveyance of easement | Ch. A405 | 
+2006-2 | 5-8-2006 | Conveyance of property | Ch. A405 | 
+2006-3 | 11-13-2006 | Volunteer Firefighters' Relief Program; Volunteer
+Firefighters' Relief Fund repealed | Ch. 52, Art. I; Ch. 55, Art. II, footnote only | 
+2007-1 | 5-14-2007 | Land use fees repealed | Chs. 214, Arts. I and II (footnote only); A410, Art. II (footnote only) | 
+2007-2 | 5-14-2007 | Land use application processing fees | Ch. 214, Art. I | 
+2007-3 | 6-11-2007 | Conveyance of property | Ch. A405 | 
+2007-4 | 6-11-2007 | Conveyance of property | Ch. A405 | 
+2007-5 | 6-11-2007 | Conveyance of property | Ch. A405 | 
+2007-6 | 9-11-2007 | Conveyance of property | Ch. A405 | 
+2007-7 | 9-11-2007 | Conveyance of property | Ch. A405 | 
+2007-8 | 9-11-2007 | Conveyance of property | Ch. A405 | 
+2008-1 | 2-11-2008 | Sidewalk maintenance | Ch. 337, Art. III | 
+2009-1 | 6-9-2009 | Conveyance of property | Ch. A405 | 
+2009-2 | 6-9-2009 | Conveyance of property | Ch. A405 | 
+2009-3 | 6-9-2009 | Conveyance of property | Ch. A405 | 
+2009-4 | 8-11-2009 | Sewer connections and uses and related service charges and penalties | Ch. 313, Art. IV | 
+2009-5 | 10-14-2009 | Blighted premises | Ch. 195 | 
+2009-6 | 12-14-2009 | Conveyance of property | Ch. A405 | 
+Res. No. 2010-18 | 3-8-2010 | Fee schedules amendment | Ch. A410 | 
+Ord. No. 2010-1 | 6-14-2010 | Conveyance of property | Ch. A405 | 
+Ord. No. 2010-2 | 6-14-2010 | Conveyance of property | Ch. A405 | 
+Ord. No. 2010-3 | 10-14-2010 | Child safety zones | Ch. 200 | 
+Ord. No. 2011-1 | 1-10-2011 | Human Resources Department | Ch. 70 | 
+Ord. No. 2011-2 | 4-11-2011 | Parks and recreation areas: tobacco-free community recreation | Ch. 283, Art. I | 
+Ord. No. 2011-3 | 5-9-2011 | Conveyance of property | Ch. A405 | 
+Ord. No. 2011-4 | 6-13-2011 | Conveyance of property | Ch. A405 | 
+Ord. No. 2012-1 | 2-13-2012 | Voting districts amendment | Ch. 130 | 
+Ord. No. 2012-2 |  |  | Not adopted | 
+Ord. No. 2012-3 | 3-29-2012 | Conveyance of easement | Ch. A405 | 
+Ord. No. 2012-4 | 4-9-2012 | Veterans property tax exemption | Ch. 345, Art. VI | 
+Ord. No. 2012-5 | 4-9-2012 | Town property: disposal of surplus personal property | Ch. 127, Art. I | 
+Res. | 4-9-2012 | Fee schedules amendment | Ch. A410 | 
+Ord. No. 2012-6 | 5-14-2012 | Fire Marshal's permits and inspections | Ch. 214, Art. II | 
+Ord. No. 2012-7 | 9-10-2012 | Child safety zones amendment | Ch. 200 | 
+Ord. No. 2012-8 | 10-10-2012 | Senior safety zones | Repealed 1-14-2013 | 
+Ord. No. 2012-9 | 11-14-2012 | Conveyance of property | Ch. A405 | 
+Ord. No. 2012-10 | 11-14-2012 | Conveyance of property | Ch. A405 | 
+Ord. No. 2012-11 | 12-10-2012 | Child safety zones amendment | Ch. 200 | 
+Ord. No. 2012-12 | 12-10-2012 | Senior safety zones amendment | Repealed 1-14-2013 | 
+Ord. No. 2014-1 | 4-14-2014 | Peddlers, vendors and solicitors amendment | Ch. 289 | 
+Ord. No. 2014-2 | 5-1-2014 | Gardner Lake Slow-No-Wake zone | Ch. 230 | 
+Ord. No. 2014-3 | 9-9-2014 | Veterans property tax exemption | Ch. 345, Art. VI | 
+Ord. No. 2014-04 | 10-15-2014 | Conveyance of property | Ch. A405 | 
+Ord. No. 2014-05 | 10-15-2014 | Conveyance of property | Ch. A405 | 
+Ord. No. 2014-06 | 12-8-2014 | Officers and employees: Registrars of Voters | Ch. 91, Art. I | 
+Ord. No. 2015-01 | 7-13-2015 | Economic Development Commission amendment | Ch. 37 | 
+Ord. No. 2015-02 | 8-12-2015 | Animals: dogs and other animals in public places | Ch. 162, Art. I | 
+Ord. No. 2015-03 | 12-14-2015 | Lease of property | Ch. A405 | 
+Ord. No. 2017-01 | 3-13-2017 | Fees: land use application processing fees amendment | Ch. 214, Art. I | 
+Ord. No. 2017-02 | 7-10-2017 | Route 11 Greenway Authority Commission repealer | Ch. 117 (reference only) | 
+Ord. No. 2017-03 | 7-10-2017 | Officers and employees: Registrars of Voters amendment | Ch. 91, Art. I | 
+Ord. No. 2017-04 | 7-10-2017 | Conveyance of property | Ch. A405 | 
+Ord. No. 2018-01 | 1-8-2018 | Fire Departments: Volunteer Firefighters' Relief Program Amendment | Superseded by Ord. No. 2019-09 | 
+Ord. No. 2018-02 | 1-8-2018 | Conveyance Ordinances Amendment | Ch. A405 | 
+Ord. No. 2018-03 | 3-12-2018 | Animals: Dogs And Other Animals In Public Places Amendment | Ch. 162, Art. I | 
+Ord. No. 2018-04 | 3-12-2018 | Open Space Amendment | Ch. 277 | 
+Ord. No. 2018-05 | 6-11-2018 | Conveyance of Property | Ch. A405 | 
+Ord. No. 2018-06 | 9-10-2018 | Blighted Premises Amendment | Ch. 195 | 
+Ord. No. 2018-07 | 10-10-2018 | Conveyance of Property | Ch. A405 | 
+Ord. No. 2018-08 | 11-14-2018 | Solid Waste Amendment | Ch. 328 | 
+Ord. No. 2019-01 | 2-12-2019 | Taxation: Property Tax Exemption for Gold Star Parents and Spouses | Ch. 345, Art. VII | 
+Ord. No. 2019-02 | 4-8-2019 | Conveyance of Property | Ch. A405 | 
+Ord. No. 2019-03 | 7-8-2019 | Conveyance of Property | Ch. A405 | 
+Ord. No. 2019-04 | 7-8-2019 | Conveyance of Property | Ch. A405 | 
+Ord. No. 2019-05 | 7-8-2019 | Conveyance of Property | Ch. A405 | 
+Ord. No. 2019-06 | 7-8-2019 | Conveyance of Property | Ch. A405 | 
+Ord. No. 2019-07 | 7-8-2019 | Conveyance of Property | Ch. A405 | 
+
+

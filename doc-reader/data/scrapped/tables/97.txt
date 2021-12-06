@@ -1,0 +1,2915 @@
+ii      establishment of districts  maps
+https://ecode360.com/8883884
+0.6631250960221596
+UB | Urban Business District | 
+B-1 | Neighborhood Business District | 
+C-1 | General Commercial District | 
+CR-1 | Commercial Residential District[1] | 
+B-2 | Business Community District | 
+B-3 | Business Research District | 
+C-2 | Medium Commercial District | 
+C-3 | Heavy Commercial District | 
+C-4 | Planned Commercial District | 
+C-5 | Service/Limited Manufacturing District | 
+I-1 | Institutional District | 
+
+
+ii      establishment of districts  maps
+https://ecode360.com/8883884
+0.6545318768007702
+AR-1 | Agricultural Residential District | 
+AR-2 | Agricultural Residential District | 
+MR | Medium-Density Residential District | 
+GR | General Residential District | 
+HR-1 | High-Density Residential District | 
+HR-2 | High-Density Residential District | 
+UR | Urban Residential District | 
+RPC | Residential Planned Community District | 
+VRP | Vacation-Retirement-Residential-Park District | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.6312808804378591
+ | Any use permitted in the LI-2 District | 
+ | Banks, drive-in or otherwise | 
+ | Clinics | 
+ | Data-processing centers | 
+ | Dwellings for resident watchmen and caretakers
+employed on the premises | 
+ | Farms and farming | 
+ | General business offices | 
+ | Heliports or helistops | 
+ | Hotels, motels or motor lodges | 
+ | Laboratories, research, experimental or testing | 
+ | Nurseries and greenhouses | 
+ | Parking garages | 
+ | Private clubs | 
+ | Professional offices | 
+ | Restaurants, drive-in or otherwise | 
+
+
+viii      ur urban residential district
+https://ecode360.com/8884142
+0.6015822474088578
+Beaches, commercial | 
+Cemeteries, including a crematorium if located
+at least 200 feet from the boundaries of the cemetery | 
+Institutions, educational or philanthropic,
+including museums, art galleries and libraries | 
+Marinas or yacht clubs | 
+Multifamily dwelling structures, subject to the provisions of § 115-219 | 
+Nursing and similar care facilities[Added 4-16-2019 by Ord.
+No. 2645] | 
+Private clubs | 
+Public or governmental buildings and uses, including
+schools, parks, parkways, playgrounds and public boat landings | 
+Public utilities or public service uses, buildings,
+generating or treatment plants, pumping or regulator stations, substations
+and transmission lines utilizing multilegged structures, but not telephone
+central offices | 
+Structures for commercial poultry raising on
+a farm of five acres or more, provided that such structures shall
+be located at least 200 feet from any dwelling not located on the
+premises | 
+Swimming or tennis clubs, private, nonprofit
+or commercially operated | 
+
+
+viii      ur urban residential district
+https://ecode360.com/8884142
+0.5945590244609578
+Alteration, extension or replacement of a nonconforming manufactured home, subject to the provisions of § 115-196 | 
+Cemeteries for pets | 
+Commercial communications towers and antennas | 
+Commercial greenhouses, wholesale or retail,
+and nurseries for growing plants, trees and shrubs, including a building
+for sale of products produced on the premises | 
+Day nurseries or child-care centers | 
+Garage/studio apartments, when not approved administratively
+by the Director or his or her designee, provided that at least one
+parking space for the exclusive use of the tenant is included on the
+premises | 
+Private garages for more than four automobiles
+and with floor area more than 900 square feet in a residential district | 
+Public telephone booths in residential districts | 
+Telephone central offices, provided that all
+storage of materials, all repair facilities and all housing of repair
+crews are within a completely enclosed building | 
+Tourist homes (also referred to as "bed-and-breakfast
+inns") | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.5809688877386723
+Alteration, extension or replacement of a nonconforming manufactured home, subject to the provisions of § 115-196 | 
+Cemeteries for pets | 
+Commercial communications towers and antennas | 
+Commercial greenhouses, wholesale or retail | 
+Day nurseries or child-care centers | 
+Farm ponds on less than five acres, subject to § 115-219 | 
+Garage/studio apartments, when not approved administratively
+by the Director or his or her designee, provided that at least one
+parking space for the exclusive use of the tenant is included on the
+premises. | 
+Nurseries for growing plants, trees and shrubs,
+including a building for sale of products produced on the premises | 
+Private garages for more than four automobiles
+and with floor area of more than 900 square feet in a residential
+district | 
+Public telephone booths in residential districts | 
+Telephone central offices, provided that all
+storage of materials, all repair facilities and all housing of repair
+crews are within a completely enclosed building | 
+Tourist homes (also referred to as "bed-and-breakfast
+inns") | 
+
+
+viii      ur urban residential district
+https://ecode360.com/8884142
+0.5807807417865793
+A wind turbine which meets § 115-194.4 as a permitted use | 
+Accessory off-street parking and loading spaces.
+An open or enclosed place for parking one commercial vehicle of not
+more than one-ton capacity and used by the occupant of a dwelling
+shall be permitted as accessory | 
+Boat docks and boathouses for private use | 
+Domestic storage in a main building or in an
+accessory building | 
+Garages, private | 
+Home barbecue grills | 
+Home occupations in a main building or accessory
+building | 
+Playhouses, without plumbing, limited in floor
+area to 150 square feet and headroom limited to five feet | 
+Servants' quarters | 
+Storage of a boat trailer or camp trailer or
+a boat, but not in a front yard, provided that it is not used for
+living purposes while so parked or stored | 
+Swimming pools and game courts, lighted or unlighted,
+for the use of occupants or their guests | 
+Temporary buildings, including manufactured
+home-type structures, the use of which is incidental to construction
+operations or sale of lots during development being conducted on the
+same or adjoining tract or subdivision and which shall be removed
+upon completion or abandonment of such construction or upon the expiration
+of a period of two years of the time of erection of such temporary
+buildings, whichever is sooner. If construction operations or the
+initial sale of lots remain actively underway, the Director may grant
+extensions to this time period | 
+
+
+xxv      supplementary regulations
+https://ecode360.com/8884945
+0.5788413224610117
+AR-1 Agricultural Residential | 40 | 20 | 
+AR-2 Agricultural Residential | 40 | 20 | 
+MR Medium Density Residential | 40 | 20 | 
+GR General Residential | 40 | 20 | 
+HR-1 High-Density Residential | 60 | 20 | 
+HR-2 High Density Residential | 60 | 20 | 
+B-1 Neighborhood Business | 60 | 20 | 
+B-2 Business Community | 60 | 20 | 
+B-3 Business Research | 60 | 20 | 
+C-1 General Commercial | 60 | 20 | 
+CR-1 Commercial Residential | 60 | 20 | 
+C-2 Medium Commercial | 60 | 20 | 
+C-3 Heavy Commercial | 60 | 20 | 
+C-4 Planned Commercial | 60 | 20 | 
+C-5 Service/Limited Manufacturing | 60 | 20 | 
+I-1 Institutional | 60 | 20 | 
+M Marine | 60 | 20 | 
+LI-1 Limited Industrial | 60 | 20 | 
+LI-2 Light Industrial | 60 | 20 | 
+HI-1 Heavy Industrial | 60 | 20 | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.5718113748898271
+Archery ranges | 
+Asphalt batching plants or concrete batching
+plants | 
+Commercial dog kennels | 
+Driving ranges | 
+Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+Pony rings | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+Riding academies, public stables or private
+stables | 
+Rifle or pistol ranges, trap or skeet shooting | 
+Sawmills for cutting timber grown on the premises | 
+Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation,
+such permit not to exceed two years | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.5692048460465585
+ | A wind turbine which meets § 115-194.4 as a permitted use | 
+ | Accessory off-street parking and loading spaces | 
+ | Boat docks and boathouses | 
+ | Domestic storage in the main building or in
+an accessory building | 
+ | Farm ponds on five acres or more subject to § 115-219 | 
+ | Garages, private | 
+ | Home barbecue grills | 
+ | Home occupations in a main building or accessory
+building | 
+ | Keeping of small animals, insects, reptiles,
+fish or birds, but only for personal enjoyment or household use and
+not as a business | 
+ | Playhouses, without plumbing, limited in floor
+area to 150 square feet and headroom limited to five feet | 
+ | Servants' quarters | 
+ | Storage of a boat trailer or camp trailer or
+a boat, but not in a front yard, provided that it is not used for
+living purposes while so parked or stored | 
+ | Swimming pools and game courts, lighted or unlighted,
+for use of occupants or their guests | 
+ | Temporary buildings, including manufactured
+home-type structures, the use of which is incidental to construction
+operations or sale of lots during development being conducted on the
+same or adjoining tract or subdivision and which shall be removed
+upon completion or abandonment of such construction or upon the expiration
+of a period of two years of the time of erection of such temporary
+buildings, whichever is sooner. If construction operations or the
+initial sale of lots remain actively underway, the Director may grant
+extensions to this time period | 
+
+
+ii      establishment of districts  maps
+https://ecode360.com/8883884
+0.5647931924927271
+M | Marine District | 
+LI-1 | Limited Industrial District | 
+LI-2 | Light Industrial District | 
+HI-1 | Heavy Industrial District | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.5563024084001169
+ | Cemeteries for pets | 
+ | Commercial communications towers and antennas | 
+ | Commercial greenhouses, wholesale or retail,
+and nurseries for growing of plants, trees and shrubs, including a
+building for sale of products produced on the premises | 
+ | Day nurseries or child-care centers | 
+ | Garage/studio apartments, when not approved administratively
+by the Director or his or her designee, provided that at least one
+parking space for the exclusive use of the tenant is included on the
+premises | 
+ | Private garages for more than four automobiles
+and with floor area of more than 900 square feet in a residential
+district | 
+ | Public telephone booths in residential districts | 
+ | Telephone central offices, provided that all
+storage of materials, all repair facilities and all housing of repair
+crews are within a completely enclosed building | 
+
+
+x      b   neighborhood business district
+https://ecode360.com/8884212
+0.546594255870795
+Archery ranges | 
+Asphalt batching plants or concrete batching
+plants | 
+Commercial dog kennels | 
+Driving ranges | 
+Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+Pony rings | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+Riding academies, public stables or private
+stables | 
+Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.5457525555982427
+Archery ranges | 
+Asphalt batching plants or concrete batching
+plants | 
+Commercial dog kennels | 
+Miniature golf courses or driving ranges[1] | 
+Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+Pony rings | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+Riding academies | 
+Rifle or pistol ranges, trap or skeet shooting | 
+Sawmills for cutting timber grown on the premises | 
+Temporary buildings for use as a sales or rental
+office for an approval real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation
+when not approved administratively by the Director or his or her designee,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.5443586876311957
+Beaches, commercial | 
+Bus terminals | 
+Marinas or yacht clubs | 
+Private clubs | 
+Public or governmental buildings and uses, including
+schools, parks, parkways, playgrounds and public boat landings | 
+Public utilities or public service uses, buildings,
+generating or treatment plants, pumping or regulator stations, substations
+and transmission lines utilizing multilegged structures, but not telephone
+central offices | 
+Recreation facilities, privately or commercially
+operated, such as a fishing or boating lake, picnic grounds or dude
+ranch, and accessory facilities, including sale of food, beverages,
+bait, incidentals, supplies and equipment | 
+Swimming or tennis clubs, private, nonprofit
+or commercially operated | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.5434226512960304
+Archery ranges | 
+Asphalt batching plants or concrete batching
+plants | 
+Commercial dog kennels | 
+Driving ranges | 
+Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+Pony rings | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+Riding academies, public stables or private
+stables | 
+Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation
+when not approved administratively by the Director or his or her designee,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.5371753607682865
+Accessory off-street parking and loading spaces | 
+Boat docks and boathouses | 
+Domestic storage in the main building or in
+an accessory building | 
+Garages, private | 
+Guest houses | 
+Home barbecue grills | 
+Home occupations in a main building or accessory
+building | 
+Keeping of small animals, insects, reptiles,
+fish or birds, but only for personal enjoyment or household use and
+not as a business | 
+Playhouses, without plumbing, limited in floor
+area to 150 square feet and headroom limited to five feet | 
+Servants' quarters | 
+Storage of a boat trailer or camp trailer or
+a boat, but not in a front yard, provided that it is not used for
+living purposes while so parked or stored | 
+Swimming pools and game courts, lighted or unlighted,
+for the use of the occupants or their guests | 
+Temporary buildings, including manufactured
+home-type structures, the use of which is incidental to construction
+operations or sale of lots during development being conducted on the
+same or adjoining tract or subdivision and which shall be removed
+upon completion or abandonment of such construction or upon the expiration
+of a period of two years of the time of erection of such temporary
+buildings, whichever is sooner. If construction operations or the
+initial sale of lots remain actively underway, the Director may grant
+extensions to this time period | 
+
+
+xxvii      board of adjustment
+https://ecode360.com/8885262
+0.5361474640148346
+ | Archery ranges | 
+ | Asphalt batching plants or concrete batching
+plants | 
+ | Commercial dog kennels | 
+ | Miniature golf courses or driving ranges | 
+ | Nonaccessory tents for special purposes | 
+ | Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+ | Pony rings | 
+ | Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+ | Riding academies, public stables or private
+stables | 
+ | Rifle or pistol ranges, trap or skeet shooting | 
+ | Sawmills for cutting timber grown on the premises | 
+ | Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+ | Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation
+when not approved administratively by the Director or his or her designee,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+ | Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+x      b   neighborhood business district
+https://ecode360.com/8884212
+0.5351476374384391
+Amusement places or theaters, except open-air
+drive-in theaters. Amusement places include bowling alleys, dance
+halls, subject to applicable county regulations, skating rinks, swimming
+pools, miniature golf, billiard or pool parlors, indoor model racing
+tracks and similar activities. Mobile or fixed-type cranes or lifting
+devices, not designed, not approved for, not manufactured for or not
+intended to carry, transport or in any fashion move individual(s)
+or person(s), shall be prohibited and shall not be used for amusement
+purposes.[Added 8-11-1992 by Ord. No. 849; amended 3-30-1993 by Ord. No.
+887] | 
+Aquariums, commercial | 
+Beaches, commercial | 
+Bus terminals | 
+Cemeteries, including a crematorium if located
+at least 200 feet from the boundaries of the cemetery | 
+Exposition centers or fairgrounds | 
+Heliports or helistops | 
+Hospitals and sanitariums | 
+Institutions, educational or philanthropic,
+including museums, art galleries and libraries | 
+Marinas or yacht clubs | 
+Multifamily dwelling structures, subject to the provisions of Articles IV through XX, § 115-219 and Table III (included at the end of this chapter)[Amended 8-22-2006 by Ord. No. 1870] | 
+Nursing and similar care facilities[Added 4-16-2019 by Ord.
+No. 2645] | 
+Public or governmental buildings and uses, including
+schools, parks, parkways, playgrounds and public boat landings | 
+Public utilities or public service uses, buildings,
+generating or treatment plants, pumping or regulator stations, substations
+and transmission lines utilizing multilegged structures | 
+Recreation facilities, privately or commercially
+operated, such as a fishing or boating lake, picnic grounds or dude
+ranch, and accessory facilities, including sale of food, beverages,
+bait, incidentals, supplies and equipment | 
+Residential, business, commercial or industrial
+uses when the purposes of this chapter are more fully met by issuing
+a conditional use permit | 
+Special events such as circuses or carnival grounds, amusement parks or midways, festivals, concerts, race/walks or any other special event or gathering being held outdoors or within a temporary structure or at a site and for a purpose different from the designated use and usual occupancy of the premises and located on unincorporated lands within Sussex County, permanently or for a temporary time period exceeding three days. Special events not approved by the Director as a permitted use under § 115-69 shall require a conditional use permit. All special events, regardless of duration, shall be subject to the requirements of the Sussex County Special Event Policy.[Amended 5-1-1990 by Ord. No. 680; 11-10-1992 by Ord. No. 863; 8-20-2013 by Ord. No. 2316; 9-18-2018 by Ord. No. 2599] | 
+Sports arenas or stadiums, commercial athletic
+fields or baseball parks | 
+Swimming or tennis clubs, private, nonprofit
+or commercially operated | 
+
+
+xiii      li   limited industrial district
+https://ecode360.com/8884402
+0.53359255595027
+ | Archery ranges | 
+ | Asphalt batching plants or concrete batching
+plants | 
+ | Commercial dog kennels | 
+ | Miniature golf courses or driving ranges | 
+ | Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+ | Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+ | Sawmills for cutting timber grown on the premises | 
+ | Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+ | Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+ | Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+ | Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+vi      gr general residential district
+https://ecode360.com/8884071
+0.5303247783256538
+Alteration, extension or replacement of a nonconforming manufactured home, subject to the provisions of § 115-196 | 
+Cemeteries for pets | 
+Commercial communications towers and antennas | 
+Commercial greenhouses, wholesale or retail | 
+Day nurseries or child-care centers | 
+Farm ponds on less than five acres, subject to § 115-219 | 
+Garage/studio apartments, when not approved
+administratively by the Director or his or her designee, provided
+that at least one parking space for the exclusive use of the tenant
+is included on the premises | 
+More than one manufactured home, meeting the requirements of § 115-20A(1), may be permitted on a farm of 10 acres or more pursuant to § 115-21A(5), provided that all manufactured homes or dwellings on the property are the primary place of residence for persons employed on the premises or immediate members of the family owning or operating the farm, and provided that the granting of this exception will not adversely affect the values or uses of adjacent properties. | 
+Nurseries for growing of plants, trees and shrubs,
+including a building for sale of products produced on the premises | 
+Private garages for more than four automobiles
+and with floor area of more than 900 square feet in a residential
+district | 
+Public telephone booths in residential districts | 
+Telephone central offices, provided that all
+storage of materials, all repair facilities and all housing of repair
+crews are within a completely enclosed building | 
+Tourist homes (also referred to as "bed-and-breakfast
+inns") | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.5296915589273758
+Airports, heliports, helistops and landing fields
+or seaplane bases, provided that they shall comply with the recommendations
+of the Federal Aviation Administration | 
+Aquariums, commercial | 
+Bus terminals | 
+Camps, day and boarding, private or commercial | 
+Exposition centers or fairgrounds | 
+Fish, shrimp, crab, clam, oyster and other seafood processing, packing and storing, except curing or smoking, unless approved by the Board of Adjustment under Article XXVII, subject to all applicable state and county laws and ordinances, and provided that any such use shall be located at least 200 feet from any residential district and there shall be no open or uncovered storage of shells, bones or refuse | 
+Hospitals and sanitariums, but not animal hospitals | 
+Manufactured home parks[Amended 10-12-2010 by Ord. No. 2152] | 
+Manufacture of boat parts, sails, accessories
+and equipment not involving drop-forging, stamping, automatic screw
+machines or a foundry | 
+Marine or oceanographic laboratories or experimental
+stations | 
+Nursing and similar care facilities[Added 4-16-2019 by Ord.
+No. 2645] | 
+Parks or campgrounds for mobile campers, tents,
+camp trailers, touring vans and the like | 
+Public utilities or public service uses, buildings,
+generating or treatment plants, pumping or regulator stations, substations
+and transmission lines utilizing multilegged structures | 
+Recreation facilities, privately or commercially
+operated, such as a fishing or boating lake or picnic grounds, and
+accessory facilities, including sale of food, beverages, bait, incidentals,
+supplies and equipment | 
+Residential, business, commercial or industrial
+uses when the purposes of this chapter are more fully met by issuing
+a conditional use permit | 
+Special events such as circuses or carnival grounds, amusement parks or midways, festivals, concerts, race/walks or any other special event or gathering being held outdoors or within a temporary structure or at a site and for a purpose different from the designated use and usual occupancy of the premises and located on unincorporated lands within Sussex County, permanently or for a temporary time period exceeding three days. Special events not approved by the Director as a permitted use under § 115-85 shall require a conditional use permit. All special events, regardless of duration, shall be subject to the requirements of the Sussex County Special Event Policy.[Amended 5-1-1990 by Ord. No. 680; 11-10-1992 by Ord. No. 863; 8-20-2013 by Ord. No. 2316; 9-18-2018 by Ord. No. 2599] | 
+Sports arenas or stadiums, commercial athletic
+fields or baseball parks | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.5294223336084312
+ | Archery ranges | 
+ | Commercial dog kennels | 
+ | Miniature golf courses or driving ranges | 
+ | Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+ | Pony rings | 
+ | Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+ | Riding academies, public stables or private
+stables | 
+ | Rifle or pistol ranges, trap or skeet shooting | 
+ | Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+ | Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+ | Use of a manufactured-home-type structure for
+any business, commercial or industrial use or residence for a caretaker
+or watchman when not approved administratively by the Director or
+his or her designee | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.5273550927544965
+Beaches, commercial | 
+Cemeteries, including a crematorium if located
+at least 200 feet from the boundaries of the cemetery | 
+Marinas or yacht clubs | 
+Multifamily dwelling structures, subject to the provisions of Articles IV through XX, § 115-219 and Table 2 (included at the end of this chapter) | 
+Nursing and similar care facilities[Added 4-16-2019 by Ord.
+No. 2645] | 
+Private clubs | 
+Public or governmental buildings and uses, including
+schools, parks, parkways, playgrounds and public boat landings | 
+Public utilities or public service uses, buildings,
+generating or treatment plants, pumping or regulator stations, substations
+and transmission lines utilizing multilegged structures, but not telephone
+central offices | 
+Swimming or tennis clubs, private, nonprofit
+or commercially operated | 
+
+
+xiv      li   light industrial district
+https://ecode360.com/8884469
+0.5208741574299915
+ | Archery ranges | 
+ | Asphalt batching plants or concrete batching
+plants | 
+ | Commercial dog kennels | 
+ | Miniature golf courses or driving ranges | 
+ | Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+ | Pony rings | 
+ | Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+ | Riding academies, public stables or private
+stables | 
+ | Rifle or pistol ranges, trap or skeet shooting | 
+ | Sawmills for cutting timber grown on the premises | 
+ | Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+ | Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+ | Use of a manufactured-home-type structure for
+any business, commercial or industrial use or residence for a caretaker
+or watchman when not approved administratively by the Director or
+his or her designee | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.5207173038052657
+ | Archery ranges | 
+ | Commercial dog kennels | 
+ | Miniature golf courses or driving ranges | 
+ | Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+ | Riding academies | 
+ | Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+ | Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+ | Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation
+when not approved administratively by the Director or his or her designee,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+ | Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.5186651617438828
+Airports and landing fields or seaplane bases,
+provided that they shall comply with the recommendations of the Federal
+Aviation Administration | 
+Aquariums, commercial | 
+Beaches, commercial | 
+Bus terminals | 
+Cemeteries, including a crematorium if located
+at least 200 feet from the boundaries of the cemetery | 
+Drive-in theaters | 
+Exposition centers or fairgrounds | 
+Heliports or helistops | 
+Hospitals and sanitariums | 
+Institutions, educational or philanthropic,
+including museums, art galleries and libraries | 
+Multifamily dwelling structures, subject to the provisions of Articles XX through XXV, § 115-219 and Table III (included at the end of this chapter) | 
+Outdoor amusement places, including, but not
+limited to, batting cages, skating rinks, waterslides, miniature golf,
+model racing tracks and similar recreational activities. Mobile or
+fixed-type cranes or lifting devices, not designed, not approved for,
+not manufactured for or not intended to carry, transport or in any
+fashion move individual(s) or person(s), shall be prohibited and shall
+not be used for amusement purposes. | 
+Public or governmental buildings and uses, including
+schools, parks, parkways, playgrounds and public boat landings | 
+Public utilities or public service uses, buildings,
+generating or treatment plants, pumping or regulator stations, substations
+and transmission lines utilizing multilegged structures | 
+Racetracks, any type, including horses, stock
+cars or drag strip | 
+Recreation facilities, privately or commercially
+operated, such as a fishing or boating lake, picnic grounds or dude
+ranch, and accessory facilities, including sale of food, beverages,
+bait, incidentals, supplies and equipment | 
+Residential, business, commercial or industrial
+uses when the purposes of this chapter are more fully met by issuing
+a conditional use permit | 
+Special events such as circuses or carnival grounds, amusement parks or midways, festivals, concerts, race/walks or any other special event or gathering being held outdoors or within a temporary structure or at a site and for a purpose different from the designated use and usual occupancy of the premises and located on unincorporated lands within Sussex County, permanently or for a temporary time period exceeding three days. Special events not approved by the Director as a permitted use under § 115-83.2 shall require a conditional use permit. All special events, regardless of duration, shall be subject to the requirements of the Sussex County Special Event Policy.[Amended 8-20-2013 by Ord. No. 2316; 9-18-2018 by Ord. No. 2599] | 
+Sports arenas or stadiums, commercial athletic
+fields or baseball parks | 
+Swimming or tennis clubs, private, nonprofit
+or commercially operated | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.516200626688023
+Archery ranges | 
+Asphalt batching plants or concrete batching
+plants | 
+Commercial dog kennels | 
+Driving ranges | 
+Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+Pony rings | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+Riding academies, public stables or private
+stables | 
+Rifle or pistol ranges, trap or skeet shooting | 
+Sawmills for cutting timber grown on the premises | 
+Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+vi      gr general residential district
+https://ecode360.com/8884071
+0.5128708791437195
+Archery ranges | 
+Asphalt batching plants or concrete batching
+plants | 
+Commercial dog kennels | 
+Miniature golf courses or driving ranges | 
+Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+Pony rings | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+Riding academies, public stables or private
+stables | 
+Rifle or pistol ranges, trap or skeet shooting | 
+Sawmills for cutting timber grown on the premises | 
+Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation
+when not approved administratively by the Director or his or her designee,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+viii      ur urban residential district
+https://ecode360.com/8884142
+0.5068789276877614
+Archery ranges | 
+Miniature golf courses or driving ranges | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures. Building setbacks shall
+be the same as required for the main structure. | 
+Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation
+when not approved administratively by the Director or his or her designee,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.4894030333168086
+Alteration, extension or replacement of a nonconforming manufactured home, subject to the provisions of § 115-196[Amended 10-12-2010 by Ord. No. 2152] | 
+Business and commercial communications towers and radio or television broadcasting station towers as provided for in § 115-194.2 | 
+Cemeteries for pets[1] | 
+Day nurseries or child-care centers | 
+More than one manufactured home may be permitted on a farm of 10 acres or more pursuant to § 115-21A(5), provided that all manufactured homes or dwellings on the property are the primary place of residence for persons employed on the premises or immediate members of the family owning or operating the farm, and provided that the granting of this exception will not adversely affect the values or uses of adjacent properties.[Amended 10-12-2010 by Ord. No. 2152] | 
+Off-premises signs, subject to the provisions
+of § 115-81A(2) | 
+Public telephone booths in residential areas[2] | 
+Any temporary removable vendor stand for the sale of food, agricultural products or other food-related goods that is not a permitted use under the provisions of § 115-83.2; provided, however, that the use shall not operate until the owner presents the Director of Planning and Zoning with evidence of a current State of Delaware business license. Upon approval and submission of the business license, the Director shall issue a Sussex County Vendor Stand sticker in a form established by the Director. This sticker shall be visible on the stand at all times. | 
+
+
+x      b   neighborhood business district
+https://ecode360.com/8884212
+0.4864032631260873
+ | Alteration, extension or replacement of a nonconforming
+manufactured home subject to the provisions of § 159-196[Amended 10-12-2010 by Ord. No. 2152] | 
+ | Cemeteries for pets | 
+ | Commercial greenhouses, wholesale or retail,
+and nurseries for growing of plants, trees and shrubs, including a
+building for sale of products produced on the premises[1] | 
+ | Day nurseries or child-care centers | 
+ | Public telephone booths in residential areas | 
+ | Tourist homes (also referred to as "bed-and-breakfast
+inns")[2][Added 5-16-1989 by Ord. No. 585] | 
+ | Any temporary removable vendor stand for the sale of food, agricultural products or other food-related goods that is not a permitted use under the provisions of § 115-69; provided, however, that the use shall not operate until the owner presents the Director of Planning and Zoning with evidence of a current State of Delaware business license. Upon approval and submission of the business license, the Director shall issue a Sussex County Vendor Stand sticker in a form established by the Director. This sticker shall be visible on the stand at all times.[Added 5-19-2015 by Ord.
+No. 2397] | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.4858925609598006
+ | Alteration, extension or replacement of a nonconforming manufactured home, subject to the provisions of § 115-196 | 
+ | Cemeteries for pets | 
+ | Commercial greenhouses, wholesale or retail,
+and nurseries for growing of plants, trees and shrubs, including a
+building for sale of products produced on the premises | 
+ | Day nurseries or child-care centers | 
+ | Garage/studio apartments, when not approved administratively
+by the Director or his or her designee, provided that at least one
+parking space for the exclusive use of the tenant is included on the
+premises | 
+ | Public telephone booths in residential areas | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.48037428846751906
+Airports and landing fields or seaplane bases,
+provided that they shall comply with the recommendations of the Federal
+Aviation Administration | 
+Aquariums, commercial | 
+Beaches, commercial | 
+Bus terminals | 
+Cemeteries, including a crematorium if located
+at least 200 feet from the boundaries of the cemetery | 
+Drive-in theaters | 
+Exposition centers or fairgrounds | 
+Heliports or helistops | 
+Hospitals and sanitariums | 
+Institutions, educational or philanthropic,
+including museums, art galleries and libraries | 
+Outdoor amusement places and open-air drive-in
+theaters. Outdoor amusement places include, but are not limited to,
+batting cages, skating rinks, waterslides, miniature golf model racing
+tracks and similar recreational activities. Mobile or fixed-type cranes
+or lifting devices, not designed, not approved for, not manufactured
+for or not intended to carry, transport or in any fashion move individual(s)
+or person(s), shall be prohibited and shall not be used for amusement
+purposes.[Added 8-11-1992 by Ord. No. 849; amended 3-30-1993 by Ord. No.
+887; 8-22-2006 by Ord. No. 1870] | 
+Public or governmental buildings and uses, including
+schools, parks, parkways, playgrounds and public boat landings | 
+Public utilities or public service uses, buildings,
+generating or treatment plants, pumping or regulator stations, substations
+and transmission lines utilizing multilegged structures | 
+Racetracks, any type, including horses, stock
+cars or drag strip | 
+Recreation facilities, privately or commercially
+operated, such as a fishing or boating lake, picnic grounds or dude
+ranch, and accessory facilities, including sale of food, beverages,
+bait, incidentals, supplies and equipment | 
+Residential, business, commercial or industrial
+uses when the purposes of this chapter are more fully met by issuing
+a conditional use permit | 
+Special events such as circuses or carnival grounds, amusement parks or midways, festivals, concerts, race/walks or any other special event or gathering being held outdoors or within a temporary structure or at a site and for a purpose different from the designated use and usual occupancy of the premises and located on unincorporated lands within Sussex County, permanently or for a temporary time period exceeding three days. Special events not approved by the Director as a permitted use under § 115-79 shall require a conditional use permit. All special events, regardless of duration, shall be subject to the requirements of the Sussex County Special Event Policy.[Amended 5-1-1990 by Ord. No. 680; 11-10-1992 by Ord. No. 863; 8-20-2013 by Ord. No. 2316; 9-18-2018 by Ord. No. 2599] | 
+Sports arenas or stadiums, commercial athletic
+fields or baseball parks | 
+Swimming or tennis clubs, private, nonprofit
+or commercially operated | 
+
+
+vi      gr general residential district
+https://ecode360.com/8884071
+0.4753400830878487
+Airports and landing fields or seaplane bases,
+provided that they shall comply with the recommendations of the Federal
+Aviation Administration | 
+Aquariums, commercial | 
+Beaches, commercial | 
+Bus terminals | 
+Camps, day or boarding, private or commercial | 
+Cemeteries, including a crematorium if located
+at least 200 feet from the boundaries of the cemetery | 
+Excavation or backfilling of borrow pits, extraction, processing and removal of sand, gravel or stone, stripping of topsoil (but not including stripping of sod) and other major excavations other than for construction of swimming pools and foundations for buildings and other than those approved in connection with a street, subdivision or planned residential development. See § 115-172B. | 
+Heliports or helistops | 
+Hospitals and sanitariums, but not animal hospitals | 
+Institutions, educational or philanthropic,
+including museums, art galleries and libraries | 
+Manufactured home parks[Amended 10-12-2010 by Ord. No. 2152] | 
+Marinas or yacht clubs | 
+Multifamily dwelling structures, subject to the provisions of Articles IV through XX, § 115-219 and Table II (included at the end of this chapter) | 
+Nursing and similar care facilities[Added 4-16-2019 by Ord.
+No. 2645] | 
+Private clubs | 
+Public or governmental buildings and uses, including
+schools, parks, parkways, playgrounds and public boat landings | 
+Public utilities or public service uses, buildings,
+generating or treatment plants, pumping or regulator stations and
+substations, but not telephone central offices | 
+Residential, business, commercial or industrial
+uses when the purposes of this chapter are more fully met by issuing
+a conditional use permit.[Added 4-6-2004 by Ord. No. 1677] | 
+Special events such as circuses or carnival grounds, amusement parks or midways, festivals, concerts, race/walks or any other special event or gathering being held outdoors or within a temporary structure or at a site and for a purpose different from the designated use and usual occupancy of the premises and located on unincorporated lands within Sussex County, permanently or for a temporary time period exceeding three days. Special events not approved by the Director as a permitted use under § 115-37 shall require a conditional use permit. All special events, regardless of duration, shall be subject to the requirements of the Sussex County Special Event Policy.[Amended 5-1-1990 by Ord. No. 680; 11-10-1992 by Ord. No. 863; 8-20-2013 by Ord. No. 2316; 9-18-2018 by Ord. No. 2599] | 
+Swimming or tennis clubs, private, nonprivate
+or commercially operated | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.4676735446143616
+Archery ranges | 
+Miniature golf courses or driving ranges[1] | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures. The building setback
+shall be the same as required for a main structure | 
+Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation
+when not approved administratively by the Director or his or her designee,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.46647368451557686
+Archery ranges | 
+Commercial dog kennels | 
+Miniature golf courses or driving ranges | 
+Outdoor display or promotional activities at
+shopping centers or elsewhere | 
+Raising for sale of birds, bees, rabbits and
+other small animals, fish and other creatures | 
+Temporary buildings for use as a sales or rental
+office for an approved real estate development or subdivision | 
+Tents for special purposes for a period exceeding
+three days. The Director may, without requiring an application for
+a special use exception, grant approval for a tent for a special purpose
+(revival, reception, tent sale as an accessory to a business or commercial
+use, or other similar activities). If approved by the Director, a
+tent for special purposes may be utilized on a parcel no more than
+three times in a calendar year. | 
+Use of a manufactured home as a single-family
+dwelling in any district to meet an emergency or hardship situation,
+such permit not to exceed two years. The Director may, without requiring
+an application for a special use exception, grant an extension for
+an emergency or hardship situation previously approved by the County
+Board of Adjustment upon receipt of an affidavit from a doctor stating
+that the emergency or hardship situation still exists. Such extension
+may be granted annually as long as the emergency or hardship still
+exists. | 
+Use of a manufactured-home-type structure for
+any business, commercial or industrial use when not approved administratively
+by the Director or his or her designee | 
+
+
+i      definitions
+https://ecode360.com/8883385
+0.45730804470982495
+BOD — Biochemical oxygen demand. | 
+CFR — Code of Federal Regulations. | 
+COD — Chemical oxygen demand. | 
+CPCN — Certificate of Public Convenience and Necessity. | 
+DNREC — Delaware Department of Natural Resources and Environmental
+Control. | 
+EDU — Equivalent dwelling unit. | 
+FU — Fixture unit. | 
+mg/l — Milligrams per liter. | 
+NPDES — National Pollutant Discharge Elimination System. | 
+SIC — Standard industrial classification. | 
+SWDA — Solid Waste Disposal Act, 42 U.S.C. § 6901
+et. seq. | 
+TSS — Total suspended solids. | 
+USC — United States Code. | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.4497355687567346
+Any accessory use permitted in an AR District | 
+Storage of office supplies or merchandise normally
+carried in stock in connection with a permitted office, business or
+commercial use, subject to applicable district regulations | 
+
+
+xxv      supplementary regulations
+https://ecode360.com/8884945
+0.44870655681669813
+ | Chimneys | 
+ | Church belfries and spires | 
+ | Conveyors | 
+ | Cooling towers | 
+ | Elevator towers | 
+ | Fire towers | 
+ | Flagpoles | 
+ | Private and/or commercial radio and television
+towers, 150 feet and less | 
+ | Public monuments | 
+ | Silos and corn driers | 
+ | Smokestacks | 
+ | Stage towers and scenery lofts | 
+ | Tanks | 
+ | Transmission lines and their supporting elements | 
+ | Water towers and standpipes | 
+ | Windmills 100 feet and less | 
+
+
+viii      ur urban residential district
+https://ecode360.com/8884142
+0.43193168522319714
+*NOTE: A lot fronting on a numbered road shown
+on the General Highway Map for Sussex County of 1964, as revised,
+shall have a minimum lot width of 90 feet.[Added 11-7-1989 by Ord. No. 632] | 
+**NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre.[Added 7-15-1997 by Ord. No. 1157] | 
+
+
+building construction
+https://ecode360.com/8881495
+0.42932391151825067
+ | 0 to 599 | $120.00 | 
+ | 600 to 2,349 | $205.00 | 
+ | 2,350 to 2,999 | $230.00 | 
+ | 3,000 to 3,499 | $255.00 | 
+ | 3,500 to 3,999 | $280.00 | 
+ | 4,000 to 4,499 | $305.00 | 
+ | 4,500 to 4,999 | $330.00 | 
+ | 5,000 to 5,999 | $450.00 | 
+ | 6,000 and above | $550.00 | 
+ | Modular home | $150.00 | 
+ | Modular with additions | $190.00 | 
+
+
+ii      register in chancery
+https://ecode360.com/8881631
+0.4284580152518956
+Filing any paper filed with the Register in
+Chancery, per page | $2.00 | 
+Recording any paper filed with the Register
+in Chancery directed by the court to be recorded, per page | $2.00 | 
+Taking any bond other than that of guardian,
+executors or administrators | $10.00 | 
+Copy of record, per page | $2.00 | 
+Entering approval of court | $1.00 | 
+Taking affidavit | $1.00 | 
+Entering final decree, in case of allowance
+of any exception or any correction in account | $1.00 | 
+Certifying abstract under seal | $4.00 | 
+Entering and certifying recognizance | $4.00 | 
+Recording and indexing of same | $1.00 | 
+Entering satisfaction of same | $1.00 | 
+Making search of records | $50.00 | 
+Furnishing copy or abstract of any record or
+paper, per page | $2.00 | 
+Furnishing copy of plot or draft | $2.00 | 
+Issuing subpoena or citation to give evidence
+and return | $7.00 | 
+Filing interrogatories, giving notice and making
+entry of filing and notice, per page | $2.00 | 
+Furnishing copy of same, per page | $2.00 | 
+
+
+xiii      service charges
+https://ecode360.com/8883538
+0.4257826269013832
+Drive-in food service | 1 EDU + FU/6 EDUs | 
+Delicatessen, eat-in and take-out | 1 EDU + FU/6 EDUs | 
+Bars and lounges with no food service | 1 EDU/150 seats + FU/6 EDUs | 
+Restaurants and eating places, including combination eat-in
+and take-out and eating places with bar(s) | 1 EDU/50 seats + FU/6 EDUs | 
+Car dealerships without service bays | 1.0/3,000 square feet | 
+Car dealerships with service bays | 1.0/3,000 square feet + FU/6 EDUs for bays | 
+Service station with bays | 1 EDU + FU/6 EDUs | 
+General workshop for any trade | FU/6 EDUs; 1 EDU min | 
+Funeral home | FU/6 EDUs; 1 EDU min | 
+Grocery stores | 1 EDU + (#FUs/6) | 
+Convenience stores | 1.0 EDU + (#FUs/4) | 
+Marina without boat waste-pumping facilities | 1 EDU/200 boat slips + FU/6 EDUs | 
+Marina with boat waste-pumping facilities | 1 EDU/100 boat slips + FU/6 EDUs | 
+Campgrounds and recreational vehicle parks with waste-handling
+and/or water facilities | 1 EDU/4 sites + FU/6 EDUs | 
+Campgrounds and recreational vehicle parks without waste-handling
+and water facilities | 1 EDU/8 sites + FU/6 EDUs | 
+Theaters, indoor | 1 EDU/60 seats | 
+Theaters, outdoor | 1 EDU/30 spaces | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.418574440097488
+Alteration, extension or replacement of a nonconforming manufactured home, subject to the provisions of § 115-196[Amended 10-12-2010 by Ord. No. 2152] | 
+Cemeteries for pets[1] | 
+Day nurseries or child-care centers[2] | 
+More than one manufactured home may be permitted on a farm of 10 acres or more pursuant to § 115-21A(5), provided that all manufactured homes or dwellings on the property are the primary place of residence for persons employed on the premises or immediate members of the family owning or operating the farm, and provided that the granting of this exception will not adversely affect the values or uses of adjacent properties.[Amended 3-25-1997 by Ord. No. 1131; 10-12-2010 by Ord. No.
+2152] | 
+Off-premises signs, subject to the provisions
+of § 115-81A(2)[Added 12-14-1993 by Ord. No. 945] | 
+Public telephone booths in residential areas[3] | 
+Any temporary removable vendor stand for the sale of food, agricultural products or other food-related goods that is not a permitted use under the provisions of § 115-77; provided, however, that the use shall not operate until the owner presents the Director of Planning and Zoning with evidence of a current State of Delaware business license. Upon approval and submission of the business license, the Director shall issue a Sussex County Vendor Stand sticker in a form established by the Director. This sticker shall be visible on the stand at all times.[Added 5-19-2015 by Ord.
+No. 2397] | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.418525230335443
+** For lots located in the Coastal Area, the
+Development Districts or the Town Center Districts, the overlay ordinance
+for that district shall determine the minimum lot size. | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.4159851463821058
+ | *NOTE: A lot fronting on a numbered road shown
+on the General Highway Map for Sussex County of 1964, as revised,
+shall have a minimum lot width of 150 feet.[Added 11-7-1989 by Ord. No. 632] | 
+ | **NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre.[Added 7-15-1997 by Ord. No. 1157] | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.4152242768252433
+Alteration, extension or replacement of a nonconforming manufactured home, subject to the provisions of § 115-196[Amended 10-12-2010 by Ord. No. 2152] | 
+Cemeteries for pets | 
+Commercial greenhouses, wholesale or retail,
+and nurseries for growing of plants, trees and shrubs, including a
+building for sale of products produced on the premises[1] | 
+Day nurseries or child-care centers[2] | 
+
+
+xid      c   planned commercial district
+https://ecode360.com/33397588
+0.407465040189784
+* | NOTE: A lot fronting on a numbered road shown on the General
+Highway Map for Sussex County of 1964, as revised, shall have a minimum
+lot width of 150 feet. | 
+** | NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre. | 
+
+
+xxiii      off street loading
+https://ecode360.com/8884855
+0.40274751860381325
+Retail store, department store, restaurant,
+wholesale house, warehouse, general service, manufacturing or industrial
+establishment | 2,000 - 10,000
+10,000 - 20,000
+20,000 - 40,000
+40,000 - 60,000 | 1
+2
+3
+4 | 
+ | Each 50,000 over 60,000 | 1 additional | 
+Apartment building, motel, hotel, office or
+office building, hospital or similar institution or place of public
+assembly | 5,000 - 25,000
+25,000 - 100,000
+100,000 - 200,000 | 1
+2
+3 | 
+ | Each 100,000 over 200,000 | 1 additional | 
+Funeral home or mortuary | 1 berth for each chapel |  | 
+
+
+xa      b   business community district
+https://ecode360.com/33397394
+0.40152560196593434
+* | NOTE: A lot fronting on a numbered road shown on the General
+Highway Map for Sussex County of 1964, as revised, shall have a minimum
+lot width of 150 feet. | 
+** | NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre. | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.4011614368544939
+ | Abrasive wheels, stones, paper, cloth and related
+products | 
+ | Adhesives, but not glue or size manufacture | 
+ | Asbestos products | 
+ | Boat manufacture (over five tons or over 60
+feet) | 
+ | Brick, firebrick and clay products (except coal-fired) | 
+ | Candles | 
+ | Concrete products or central mixing and proportioning
+plants | 
+ | Docks, wharves and piers, marine warehouses,
+freight-storage sheds and freight-handling equipment | 
+ | Dredging bases, marine construction yards and
+marine | 
+ | Engine testing (internal-combustion engines),
+but not jet engines or rockets | 
+ | Flour, feed and grain packaging, blending and
+storage | 
+ | Galvanizing or plating (hot dip) | 
+ | Glass and glass products | 
+ | Ink manufacture from primary raw materials (including
+colors and pigments) | 
+ | Monuments and architectural stone | 
+ | Oils, shortenings and fats (edible), processing
+and storage | 
+ | Paper and paperboard (from paper machine only),
+but not pulp mills | 
+ | Petroleum storage | 
+ | Pickles, vegetable relishes and sauces | 
+ | Pottery and porcelain products (other than coal-fired) | 
+ | Sawmills (including cooperage stock mills) | 
+ | Shipyards, drydocks and marine railways | 
+ | Soap products, but not soap manufacture | 
+ | Stone products, but not crushing or grinding | 
+ | Structural iron and steel fabrication | 
+ | Wallboard and plaster, building, insulation
+and composition flooring | 
+ | Wire rope and cable | 
+
+
+xvii      sanitary sewer and water districts
+https://ecode360.com/33410547
+0.39871646312795306
+For sanitary sewer/water district |  | 
+Against sanitary sewer/water district |  | 
+
+
+x      b   neighborhood business district
+https://ecode360.com/8884212
+0.396198531616091
+*NOTE: A lot fronting on a numbered road shown
+on the General Highway Map for Sussex County of 1964, as revised,
+shall have a minimum lot width of 150 feet.[Added 11-7-1989 by Ord. No. 632] | 
+**NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre.[Added 7-15-1997 by Ord. No. 1157] | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.3954020517894329
+ | *NOTE: A lot fronting on a numbered road shown
+on the General Highway Map for Sussex County of 1964, as revised,
+shall have a minimum lot width of 90 feet.[Added 11-7-1989 by Ord. No. 632] | 
+ | **NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre.[Added 7-15-1997 by Ord. No. 1157] | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.39465798279617137
+* A lot fronting on a numbered road shown on
+the General Highway Map for Sussex County of 1964, as revised, shall
+have a minimum lot width of 150 feet. | 
+** Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre. | 
+
+
+xic      c   heavy commercial district
+https://ecode360.com/33397446
+0.3931695241977756
+* | NOTE: A lot fronting on a numbered road shown on the General
+Highway Map for Sussex County of 1964, as revised, shall have a minimum
+lot width of 150 feet. | 
+** | NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre. | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.39303461649366334
+*NOTE: A lot fronting on a numbered road shown
+on the General Highway Map for Sussex County of 1964, as revised,
+shall have a minimum lot width of 150 feet.[Added 11-7-1989 by Ord. No. 632] | 
+**NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre.[Added 7-15-1997 by Ord. No. 1157] | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.37943771208511945
+NOTES: | 
+* A lot having an area of less than 20,000 square
+feet or having a width of less than 100 feet, which lot was legally
+recorded prior to January 1, 1971, shall be subject to the minimum
+side yard requirements applicable to an MR District rather than to
+the minimum side yard requirements of this district. | 
+** See also the table of district regulations
+at the end of this chapter. | 
+
+
+xib      c   medium commercial district
+https://ecode360.com/33397433
+0.37530866216989645
+* | NOTE: A lot fronting on a numbered road shown on the General
+Highway Map for Sussex County of 1964, as revised, shall have a minimum
+lot width of 150 feet. | 
+** | NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre. | 
+
+
+xie      c   service limited manufacturing district
+https://ecode360.com/33398752
+0.37476751139852293
+* | NOTE: A lot fronting on a numbered road shown on the General
+Highway Map for Sussex County of 1964, as revised, shall have a minimum
+lot width of 150 feet. | 
+** | NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre. | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.3702185863801506
+ | Bakery products, wholesale (manufacturing permitted) | 
+ | Beverage blending, bottling (all types), but
+not distilling | 
+ | Boat manufacture and repair (vessels less than
+five tons), boat sales, service, storage or rentals | 
+ | Building materials (bulk cement and lime, sand,
+gravel, stone, structural or reinforcing steel, pipe and the like)
+storage and sales, open or enclosed, but not manufacture or steel
+fabricating or junk storage | 
+ | Button manufacture | 
+ | Cleaning and dyeing of garments, hats and rugs | 
+ | Contractors' shops and storage yards or equipment
+rental | 
+ | Dairy operations and dairy products, ice cream
+and cheese | 
+ | Electrical appliances or electronic apparatus,
+medical, optical or drafting equipment, toys, games, musical instruments,
+manufacture or assembly | 
+ | Fertilizer storage in bags or bulk storage of
+liquids or dry fertilizer in tanks or in a completely enclosed building,
+but not manufacture or processing | 
+ | Fruit and vegetable processing, including canning,
+preserving, drying and freezing | 
+ | Greenhouses, commercial, wholesale or retail | 
+ | Heating, ventilating, cooling and refrigeration
+supplies and appliances | 
+ | Ice manufacture, including dry ice | 
+ | Knitting, weaving, printing and finishing of
+textiles and fiber into fabric goods or clothing, hats or hosiery | 
+ | Laboratories, research or experimental, but
+not including combustion-engine testing | 
+ | Machinery manufacture and machine shops | 
+ | Manufacturing of modular and manufactured-home-type
+structures[Amended 10-12-2010 by Ord. No. 2152] | 
+ | Meat products, packing and processing (not slaughtering) | 
+ | Metal products manufacture, such products as
+bolts, nails, staples, needles, pins, metal containers, ornamental
+iron fabrication, silverware and plated wire | 
+ | Pharmaceutical products and drugs | 
+ | Plumbing supplies, manufacture, sale or storage | 
+ | Printing, publishing and engraving, photographic
+processing or blueprinting | 
+ | Sheet metal products, ductwork and containers | 
+ | Sign fabrication and painting shops | 
+ | Tire retreading, recapping and vulcanizing shops | 
+ | Trailers and truck bodies, assembly | 
+ | Truck and transfer terminals, freight | 
+ | Warehouses, wholesale houses and distributors
+and wholesale markets | 
+ | Welding or soldering shops | 
+ | Wood products manufacture, including baskets,
+boxes, crates, barrels and veneer | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.3685364651482209
+ | * See Table I, included at the end of this chapter,
+for additional information on detached single-family dwellings. | 
+ | ** See Subsection F(5) of this section. | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.3643457292831993
+* See also the table of district regulations
+at the end of this chapter. | 
+** See also § 115-194.1. | 
+
+
+xif      i   institutional district
+https://ecode360.com/33398753
+0.36188867103198397
+* | NOTE: A lot fronting on a numbered road shown on the General
+Highway Map for Sussex County of 1964, as revised, shall have a minimum
+lot width of 150 feet. | 
+** | NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre. | 
+
+
+x      b   neighborhood business district
+https://ecode360.com/8884212
+0.36042937798794017
+*NOTE: See also the Table of District Regulations
+at the end of this chapter. | 
+**NOTE: See also § 115-194.1. | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.35942533253226905
+ | *NOTE: A lot fronting on a numbered road shown
+on the General Highway Map for Sussex County of 1964, as revised,
+shall have a minimum lot width of 150 feet.[Added 11-7-1989 by Ord. No. 632] | 
+ | **NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre.[Added 7-15-1997 by Ord. No. 1157] | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.35561809104968245
+ | *NOTE: See also the table of district regulations
+at the end of this chapter. | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.35489952898113075
+Any use permitted in the MR District, § 115-29 | 
+Boat and marine engine sales and display, yacht
+broker and marine insurance broker, yard display of boats to be 30
+feet from the front property line | 
+Boat buildings, storage, repair or painting,
+including sale of boats and boat parts or accessories, and marine
+railways, provided that out-of-water work or storage shall be limited
+to boats 100 feet or less in length, and provided that any out-of-water
+work or storage shall be located at least 100 feet from any residential
+district. There are no restrictions on length for boat and marine
+motor service and minor repair while boats are in the water. | 
+Board docks, slips, piers, wharves, anchorages
+and moorages for yachts and pleasure boats or for boats for hire carrying
+passengers or excursions, sightseeing, pleasure or fishing trips | 
+Boat fuel sales for pleasure boats, provided
+that aboveground storage is in compliance with state and county fire
+safety regulations | 
+Boat sales or rentals, boat liveries and boats
+for hire, including out-of-water storage of new boats | 
+Hotels, motels and motor lodges | 
+Marinas, yacht clubs, swimming and tennis clubs
+or private clubs | 
+Multiple-family dwellings and structures of mixed commercial and residential use, subject to the mixed-use provisions of Articles XXII, XXIII and XXV | 
+Piers for fishing and commercial beaches | 
+Restaurants | 
+Retail sale or rental of boating, fishing, hunting,
+diving and bathing supplies and equipment or clothing and fish bait | 
+Special events[Added 9-18-2018 by Ord.
+No. 2599] | 
+(1) Special events held outdoors or within a temporary
+structure for a purpose different from the permitted use and usual
+occupancy of a premises or site that are administratively approved
+by the Director or his or her designee, when the event: will not impair
+the purpose and intent of the Zoning Ordinance; is not so recurring
+in nature as to constitute a permanent use not otherwise permitted
+in the district; and will not significantly affect the surrounding
+properties. Events that are consistent with the permitted use and
+usual occupancy of a site or that occur on land owned by the United
+States of America, the State of Delaware, Sussex County, municipalities
+and educational institutions are permitted. "Special events" include
+circuses, carnivals, midways, promotional and tent sales events, fairs,
+festivals, concerts, rodeos, shows, races/walks or any other event
+or mass gathering. | 
+(2) No more than three special events shall be approved
+for the same property or premises during a calendar year. Each special
+event shall be counted as one calendar day, not including reasonable
+set up and removal time when the event is not otherwise underway. | 
+(3) In determining whether to administratively approve
+a special event, the Director or his or her designee shall consider
+the following: | 
+(a) The estimated number of attendees; | 
+(b) The size of the parcel where the special event
+is to be located; | 
+(c) The parking requirements of the special event; | 
+(d) Roads and traffic patterns providing access
+to the special event; | 
+(e) Prior events conducted by the applicant; | 
+(f) Noise, light, odor, and dust generated by the
+special event; | 
+(g) Proposed hours of operation and number of consecutive
+days; and | 
+(h) Such other considerations that may be applicable
+to the requested event. | 
+(4) The Director or his or her designee may impose
+conditions upon an administrative approval. | 
+(5) All special events, regardless of size, location,
+use or duration, shall be subject to the requirements of the Sussex
+County Special Event and Public Safety Services Policies and Procedures.
+Failure to abide by the Sussex County Special Event and Public Safety
+Services Policies and Procedures may result in the termination of
+the special event's administrative approval. | 
+(6) Special events that do not meet these requirements
+or which are not administratively approved shall require a conditional
+use. | 
+Telephone stations or booths, including drive-in
+or talking-from-car stations, and telephone central offices, provided
+that all storage of materials, all repair facilities and all housing
+or repair crews are within a completely enclosed area | 
+Tourist homes (also referred to as "bed-and-breakfast
+inns")[Added 5-16-1989 by Ord. No. 585] | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.35345603063336584
+ | *NOTE: See also the table of district regulations
+at the end of this chapter. | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.3532506557539128
+**NOTE: See also the table of district regulations
+at the end of this chapter. | 
+
+
+ii      street naming
+https://ecode360.com/8882222
+0.3513938520104869
+ | Older recognized name (if known) | 1 | 
+ | Greater number of addresses | 1 | 
+ | Arterial street | 1 | 
+ | Historical relevance | 1 | 
+ | Existing street signs | 1 | 
+ | Relatedness of town/subdivision names | 1 | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.3435725324222752
+Article I, § 115-4, Definitions and word usage | 
+Article XX, Tables of Height, Area and Bulk Requirements | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+vi      gr general residential district
+https://ecode360.com/8884071
+0.3400165885388672
+ | *NOTE: A lot fronting on a numbered road shown
+on the General Highway Map for Sussex County of 1964, as revised,
+shall have a minimum lot width of 150 feet.[Added 11-7-1989 by Ord. No. 632] | 
+ | **NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre.[Added 7-15-1997 by Ord. No. 1157] | 
+
+
+xb      b   business research district
+https://ecode360.com/33397395
+0.3385969501089604
+* | NOTE: A lot fronting on a numbered road shown on the General
+Highway Map for Sussex County of 1964, as revised, shall have a minimum
+lot width of 150 feet. | 
+** | NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre. | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.33858137010375505
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.33707011763488337
+*NOTE: A lot fronting on a numbered road shown
+on the General Highway Map for Sussex County of 1964, as revised,
+shall have a minimum lot width of 150 feet.[Added 11-7-1989 by Ord. No. 632; amended 7-20-1999 by Ord. No. 1328] | 
+**NOTE: Any lot which is not connected to a central sewer system, as defined by § 115-194A, or which is located within a planning area as defined by a sewer planning study approved by the Sussex County Council, shall have a minimum area of 3/4 acre.[Added 7-15-1997 by Ord. No. 1157] | 
+
+
+housing units  moderately priced  rental units  affordably priced
+https://ecode360.com/8882037
+0.3272286174725828
+ | Tier A: greater than 100% and less than or equal
+to 125% of the area median income as established by the U.S. Department
+of Housing and Urban Development, adjusted for family size and updated
+annually. | 
+ | Tier B: greater than 80% and less than or equal
+to 100% of the area median income as established by the U.S. Department
+of Housing and Urban Development, adjusted for family size and updated
+annually. | 
+ | Tier C: less than or equal to 80% of the area
+median income as established by the U.S. Department of Housing and
+Urban Development, adjusted for family size, and updated annually. | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.3271077868757323
+* See also minimum buffers and setbacks contained in § 115-194.1E. | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.3269032923518319
+A lot fronting on a numbered road shown on the
+latest revision of the General Highway Map for Sussex County shall
+have a minimum width of 150 feet. | 
+
+
+xic      c   heavy commercial district
+https://ecode360.com/33397446
+0.3260594925287077
+Other | One acre | — | 75 | 100 | 
+
+
+dl      disposition list
+https://ecode360.com/8885476
+0.32585653458442393
+2677 | 8-20-2019 | Water and Sewers Amendment | Ch. 110 | 26 | 
+2682 | 10-8-2019 | Zoning Amendment | Ch. 115 | 26 | 
+2683 | 10-8-2019 | Zoning Amendment | Ch. 115 | 26 | 
+2684 | 10-22-2019 | Zoning Amendment | Ch. 115 | 26 | 
+2687 | 11-12-2019 | Taxation: Lodging Tax | Ch. 103, Art. VI | 26 | 
+2698 | 1-7-2020 | Water and Sewers Amendment | Ch. 110 | 26 | 
+2737 | 9-22-2020 | Building Construction: Standards and Regulations Amendment | Ch. 52, Art. I | 26 | 
+2738 | 9-22-2020 | Property Maintenance Code Amendment | Ch. 80 | 26 | 
+2739 | 9-22-2020 | Zoning Amendment | Ch. 115 | 26 | 
+2760 | 12-8-2020 | Pensions Amendment | Ch. 26 | 27 | 
+2764 | 2-2-2021 | Zoning Amendment | Ch. 115 | 27 | 
+2781 | 6-22-2021 | Fees: Clerk of the Peace Amendment | Ch. 62, Art. V | 27 | 
+2791 | 7-27-2021 | Zoning Amendment | Ch. 115 | 27 | 
+2792 | 7-27-2021 | Zoning Amendment | Ch. 115 | 27 | 
+2802 | 9-21-2021 | Zoning Amendment | Ch. 115 | 27 | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.32293711420244847
+Amusement places or theaters, except open-air
+drive-in theaters. Amusement places include bowling alleys, dance
+halls, subject to applicable county regulations, skating rinks, swimming
+pools, miniature golf, billiard or pool parlors, indoor model racing
+tracks and similar activities. | 
+Any use permitted in the UR District | 
+Automobile parking lots and garages, automobile
+sales, service and repair, but not auto salvage or junk, and any major
+repair or storage of equipment or materials or damaged vehicles shall
+be inside a completely enclosed building | 
+Bakeries, provided that all products produced
+on the premises shall be sold at retail on the premises | 
+Banks, drive-in or otherwise, so long as driveway
+space shall be provided off the street for all vehicles waiting for
+drive-in service | 
+Barbershops or beauty parlors | 
+Bicycle sales and repair shops | 
+Boat and boat sales and storage, but not marinas | 
+Bottling works, dyeing and cleaning works, plumbing
+and heating shops, painting shops, upholstering shops not involving
+furniture manufacture, tinsmithing shops, tire sales and service (including
+vulcanizing and recapping, but no manufacturing), appliance repairs
+and general service and repair establishments, similar in character
+to those listed in this item, provided that no outside storage of
+material is permitted, except as provided in this section | 
+Car washes or automobile laundries, automatic
+or otherwise | 
+Catering or delicatessen businesses | 
+Clinics | 
+Dry-cleaning laundries or pressing pickup stations
+or shops | 
+Farm implement sales, service, rental and repair,
+but not salvage or junk, provided that major repair or storage of
+materials or damaged or unusable implements or vehicles shall be inside
+a completely enclosed building | 
+Filling stations, subject to the requirements listed in § 115-69 | 
+Flower shops and greenhouses incidental thereto | 
+Frozen food lockers for individual or family
+use | 
+Laundromats or self-service dry-cleaning establishments | 
+Lawn mower, yard and garden equipment, rental,
+sales and service | 
+Manufactured home sales and storage, but not
+manufactured home parks[Amended 10-12-2010 by Ord. No. 2152] | 
+Monument sales establishments with incidental
+processing to order, but not including the shaping of headstones | 
+Offices, general business or professional | 
+Printing, publishing and engraving establishments | 
+Private clubs, lodges or meeting halls | 
+Radio and television broadcasting stations or
+studios | 
+Restaurants, drive-in or otherwise | 
+Shoe repairing shops | 
+Shops for the sale, service or repair of home
+appliances, office machines, electrical and television and radio equipment | 
+Stores or shops for the conduct of retail business,
+including sale of accessories, antiques, apparel, appliances, beverages,
+books, carpets, drugs, fabrics, food, furniture, general merchandise,
+hardware and lumber and building material, garden supplies, hobby
+supplies, jewelry, office supplies, paint, sporting goods and stationery,
+and similar stores and shops | 
+Studios for artists, photographers, teachers,
+sculptors and musicians | 
+Telephone stations or booths, including drive-in
+or talk-from-car stations, and telephone central offices, provided
+that all storage of materials, all repair facilities and all housing
+of repair crews are within a completely enclosed area | 
+Tourist homes | 
+Manufactured home sales and storage, but not
+manufactured home parks[Amended 10-12-2010 by Ord. No. 2152] | 
+Undertaking businesses or establishments or
+funeral homes | 
+Used car sales and storage lots | 
+Wholesale establishments | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.3222080569965601
+ | *NOTE: See also table of district regulations
+at the end of this chapter. | 
+
+
+xiii      li   limited industrial district
+https://ecode360.com/8884402
+0.31979185443453995
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+x      b   neighborhood business district
+https://ecode360.com/8884212
+0.318752315093496
+Single-family dwelling | 10,000 | 75 | 100 | 
+Other | 10,000 | 75 | 100 | 
+
+
+x      b   neighborhood business district
+https://ecode360.com/8884212
+0.318752315093496
+Single-family dwelling | 42 | 
+Other | 42 | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.3179558352668379
+Single-family dwelling | 10,000 | 75 | 100 | 
+Other | 10,000 | 75 | 100 | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.3179558352668379
+Single-family dwelling | 42 | 
+Other | 42 | 
+
+
+x      b   neighborhood business district
+https://ecode360.com/8884212
+0.31729858393789445
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.31583621509476545
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.31563084021531246
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+xiv      li   light industrial district
+https://ecode360.com/8884469
+0.31487835669912256
+ | *NOTE: See also the table of district regulations
+at the end of this chapter. | 
+
+
+architectural accessibility
+https://ecode360.com/8881450
+0.312999066586755
+ | Up to 25 | 1 | 
+ | 26 to 50 | 2 | 
+ | 51 to 75 | 3 | 
+ | 76 to 100 | 4 | 
+ | 101 to 150 | 5 | 
+ | 151 to 200 | 6 | 
+ | 201 to 300 | 7 | 
+ | 301 to 400 | 8 | 
+ | 401 to 500 | 9 | 
+ | 501 to 1,000 | 2% of total | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.31180961607768215
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.311767175833438
+Single-family dwelling | 10,000 | 75 | 100 | 
+Other | 10,000 | 75 | 100 | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.311767175833438
+Single-family dwelling | 42 | 
+Other | 42 | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.304611547077383
+*NOTE: See also the table of district regulations
+at the end of this chapter. | 
+**NOTE: See also § 115-194.1. | 
+
+
+vi      gr general residential district
+https://ecode360.com/8884071
+0.30023262779911664
+ | **NOTE: See also the table of district regulations
+at the end of this chapter. | 
+
+
+iii      design requirements and standards
+https://ecode360.com/8882667
+0.29878309457377195
+ | 2 to 5 | 10 | 
+ | 6 to 10 | 15 | 
+ | Over 10 | 25 or more | 
+
+
+xi      sewer system expansion procedures
+https://ecode360.com/33410465
+0.2970385206734446
+Where: Qmax = Maximum rate of sewage
+flow and Q avg = Average daily sewage flow | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.29160479361191666
+ | Single-family dwelling | 40 (30)* | 10 | 10 | 
+ | Multifamily dwelling | 40 (30)** | 10 | 10 | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.29160479361191666
+ | Single-family dwelling | 52 | 
+ | Multifamily dwelling | 52 | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.2911691825480891
+Single-family dwelling | 42 | 
+Multifamily dwelling | 42 | 
+Other | 45 | 
+
+
+viii      ur urban residential district
+https://ecode360.com/8884142
+0.290342866278685
+Single-family dwelling | 10,000 | 75 | 100 | 
+
+
+viii      ur urban residential district
+https://ecode360.com/8884142
+0.290342866278685
+ | Single-family dwelling | 42 | 
+
+
+viii      ur urban residential district
+https://ecode360.com/8884142
+0.287139531269827
+ | Article XXI, Signs | 
+ | Article XXII, Off-Street Parking | 
+ | Article XXIII, Off-Street Loading | 
+ | Article XXIV, Conditional Uses | 
+ | Article XXV, Supplementary Regulations | 
+
+
+xa      b   business community district
+https://ecode360.com/33397394
+0.2829637827583995
+Permitted uses | 3,000 | 3 acres | 30 | 100 | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.2820215562539182
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+xii      m marine district
+https://ecode360.com/8884377
+0.28197911600967407
+Single-family dwelling | 10,000 | 75 | 100 | 
+Other | 10,000 | 75 | 100 | 
+
+
+xif      i   institutional district
+https://ecode360.com/33398753
+0.2807005164070022
+Single-family dwelling | 42 | 
+Other | 42 | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.27758967703036547
+AR-1 and AR-2
+(Cluster with central sewer) | 25 | 10 | 10 | 60 | 
+AR- and AR-2
+(All others) | 40(30)** | 15 | 20 | 100 | 
+
+
+xiv      li   light industrial district
+https://ecode360.com/8884469
+0.27725854116052223
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+xiii      li   limited industrial district
+https://ecode360.com/8884402
+0.27599670555988853
+All uses | 43,560 | 150 | 200 | 
+
+
+xiii      li   limited industrial district
+https://ecode360.com/8884402
+0.27599670555988853
+All uses | 50 | 20 | 20 | 
+
+
+xiii      li   limited industrial district
+https://ecode360.com/8884402
+0.27599670555988853
+All uses | 42 | 
+
+
+xie      c   service limited manufacturing district
+https://ecode360.com/33398752
+0.27471919121267774
+Other | 50,000 | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.27204106622011404
+ | All uses | 2 | 200 | 200 | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.27204106622011404
+ | All uses | 50 | 20 | 20* | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.27204106622011404
+ | All uses | 125* | -- | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.2680144672030307
+All uses | 3 | 150 | 100 | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.2680144672030307
+All uses | 42 | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.2679631346426127
+*NOTE: See also minimum buffers and setbacks contained in § 115-194.1E. | 
+
+
+xid      c   planned commercial district
+https://ecode360.com/33397588
+0.26484156019718097
+Permitted uses | 7,500 | — | 75 | 100 | 
+
+
+xid      c   planned commercial district
+https://ecode360.com/33397588
+0.26484156019718097
+Permitted uses | — | 
+
+
+xid      c   planned commercial district
+https://ecode360.com/33397588
+0.26484156019718097
+Permitted uses | 42 | 
+
+
+xiv      li   light industrial district
+https://ecode360.com/8884469
+0.2647567151273972
+All uses | 43,560 (1 acre) | 150 | 200 | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.2629769244271831
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.26293448418293897
+Single-family dwelling | 10,000 | 75 | 100 | 
+Other | 10,000 | 75 | 100 | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.26293448418293897
+Single-family dwelling | 42 | 
+Other | 42 | 
+
+
+vi      gr general residential district
+https://ecode360.com/8884071
+0.26261281226051636
+Article I, § 115-4, Definitions and word usage | 
+Article XXI, Signs | 
+Article XXII, Off-Street Parking | 
+Article XXIII, Off-Street Loading | 
+Article XXIV, Conditional Uses | 
+Article XXV, Supplementary Regulations | 
+Article XXVII, Board of Adjustment | 
+
+
+xif      i   institutional district
+https://ecode360.com/33398753
+0.26184035084613877
+Other | 60 | 10 | 10 | 
+
+
+xif      i   institutional district
+https://ecode360.com/33398753
+0.26184035084613877
+Other | — | 
+
+
+pensions
+https://ecode360.com/8881146
+0.25920175636846454
+For plan years beginning after January 1, 1994, and before January
+1, 1997, for purposes of computing benefits under this chapter, compensation
+in excess of $150,000 shall be disregarded. Such amount shall be adjusted
+for increases in the cost of living in accordance with § 401(a)(17)(B)
+of the United States Internal Revenue Code [26 U.S.C. § 401(a)(17)(B)],
+except that the dollar increase in effect on January 1 of any calendar
+year shall be effective for the plan year beginning with or within
+such calendar year. | 
+For plan years beginning after December 31, 2001, for purposes
+of computing benefits under this chapter, compensation in excess of
+$200,000 shall be disregarded. Such amount shall be adjusted for increases
+in the cost of living in accordance with § 401(a)(17)(B)
+of the United States Internal Revenue Code [26 U.S.C. § 401(a)(17)(B)],
+except that the dollar increase in effect on January 1 of any calendar
+year shall be effective for the plan year beginning with or within
+such calendar year. | 
+For any short plan year, the compensation limit shall be an
+amount equal to the § 401(a)(17)(B) of the United States
+Internal Revenue Code [26 U.S.C. § 401(a)(17)(B)] limit
+on compensation for the calendar year in which the plan year begins
+multiplied by the ratio obtained by dividing the number of full months
+in the short plan year by 12. | 
+For plan years beginning after December 31, 1996, for purposes
+of determining compensation, the family member aggregation rules of
+§ 401(a)(17) of the United States Internal Revenue Code
+[26 U.S.C. § 401(a)(17)] and § 414(q)(6) of the
+United States Internal Revenue Code [26 U.S.C. § 414(q)(6)],
+(as in effect prior to the Small Business Job Protection Act of 1996)
+are eliminated. | 
+
+
+xa      b   business community district
+https://ecode360.com/33397394
+0.2589021219733312
+Permitted uses | 40 | 10 | 10 | 
+
+
+xa      b   business community district
+https://ecode360.com/33397394
+0.2589021219733312
+Permitted uses | 30,000 | 
+
+
+xa      b   business community district
+https://ecode360.com/33397394
+0.2589021219733312
+Permitted uses | 42 | 
+
+
+xic      c   heavy commercial district
+https://ecode360.com/33397446
+0.2585922300120532
+Permitted use | 60 | 5 | 5 | 
+
+
+xic      c   heavy commercial district
+https://ecode360.com/33397446
+0.2585922300120532
+Permitted use | 150,000 | 
+
+
+xic      c   heavy commercial district
+https://ecode360.com/33397446
+0.2585922300120532
+Permitted use | 42 | 
+
+
+xia      cr   commercial residential district
+https://ecode360.com/8884329
+0.25851844983852745
+All | 60* | 20 | 30 | 
+
+
+ii      establishment of districts  maps
+https://ecode360.com/8883884
+0.2570486588142853
+ | FP | Coastal Floodplain | 
+ | HA | Coastal High-Hazard Area | 
+ | FW | Floodway | 
+ | FF | Floodway Fringe | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.2514457975491511
+Single-family dwelling | 10,000 | 75 | 100 | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.2514457975491511
+Single-family dwelling | 40 (30)** | 10 | 10 | 
+
+
+v      mr medium density residential district
+https://ecode360.com/8884041
+0.2514457975491511
+Single-family dwelling | 42 | 
+
+
+iv      public sewer discharge standards
+https://ecode360.com/33410384
+0.2508683684133258
+Arsenic (As) | 0.5 | 
+Cadmium (Cd) | 0.4 | 
+Chromium (hexavalent) (Cr) | 0.2 | 
+Cyanide (Cn) | 0.5 | 
+Lead (Pb) | 0.5 | 
+Copper (Cu) | 1.0 | 
+Mercury (Hg) | 0.5 | 
+Nickel (Ni) | 2.0 | 
+Zinc (Zn) | 5.0 | 
+Total Toxic Organics (TTO) < EPA-recommended individual constituent
+limit |  | 
+Total trihalomethanes (TTHMs) | 0.08 | 
+
+
+ix      ub urban business district
+https://ecode360.com/8884177
+0.25060989783606274
+ | Article XXI, Signs | 
+ | Article XXII, Off-Street Parking | 
+ | Article XXIII, Off-Street Loading | 
+ | Article XXIV, Conditional Uses | 
+ | Article XXV, Supplementary Regulations | 
+
+
+xib      c   medium commercial district
+https://ecode360.com/33397433
+0.24705134473519227
+All permitted | 15,000 | — | 75 | 100 | 
+
+
+xib      c   medium commercial district
+https://ecode360.com/33397433
+0.24705134473519227
+All permitted | 60 | 5 | 5 | 
+
+
+xib      c   medium commercial district
+https://ecode360.com/33397433
+0.24705134473519227
+All permitted | 75,000 | 
+
+
+xib      c   medium commercial district
+https://ecode360.com/33397433
+0.24705134473519227
+All permitted | 42 | 
+
+
+xiv      li   light industrial district
+https://ecode360.com/8884469
+0.23346339228587074
+ | All uses | 50 | 20 | 20* | 
+
+
+xiv      li   light industrial district
+https://ecode360.com/8884469
+0.23346339228587074
+ | All uses | 52 | 
+
+
+xie      c   service limited manufacturing district
+https://ecode360.com/33398752
+0.23214403140591985
+Permitted Uses | 15,000 | — | 75 | 100 | 
+
+
+xie      c   service limited manufacturing district
+https://ecode360.com/33398752
+0.23214403140591985
+Permitted uses | 60 | 10 | 10 | 
+
+
+xie      c   service limited manufacturing district
+https://ecode360.com/33398752
+0.23214403140591985
+Permitted uses | 42 | 
+
+
+housing units  moderately priced  rental units  affordably priced
+https://ecode360.com/8882037
+0.23146959222457875
+ | Efficiency | 1 | 
+ | 1 | 1 to 2 | 
+ | 1 plus Den | 2 to 4 | 
+ | 2 | 2 to 4 | 
+ | 2 plus Den | 2 to 4 | 
+ | 3 | 4 to 6 | 
+ | 4 | 5 to 8 | 
+
+
+xif      i   institutional district
+https://ecode360.com/33398753
+0.21926519103938083
+Permitted uses | — | — | 75 | 100 | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.21918177555253157
+All uses | 3 | 150 | 100 | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.21541575933227206
+All uses: | 42 feet | 
+
+
+xi      c   general commercial district
+https://ecode360.com/8884278
+0.20968575818802834
+All | 60* | 20 | 30 | 
+
+
+xb      b   business research district
+https://ecode360.com/33397395
+0.19597347011635732
+Permitted uses | 40 | 10 | 10 | 
+
+
+xb      b   business research district
+https://ecode360.com/33397395
+0.19597347011635732
+Permitted uses | — | 
+
+
+xb      b   business research district
+https://ecode360.com/33397395
+0.19597347011635732
+Permitted uses | 42 | 
+
+
+housing units  moderately priced  rental units  affordably priced
+https://ecode360.com/8882037
+0.17429798073432767
+ |  | Tier A | Tier B | Tier C | 
+ | MPHUs required | 15% | 15% | 15% | 
+ | Density incentive | 20% | 25% | 30% | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.11051443971947014
+AR-1 and AR-2 | 42 | 
+
+
+xv      hi   heavy industrial district
+https://ecode360.com/8884503
+0.10920735530119852
+Asphalt products or central asphalt mixing or
+batching | 
+Atomic reactors | 
+Automobile wrecking yards | 
+Bleaching products | 
+Cement, lime, gypsum or plaster of paris | 
+Cider and vinegar | 
+Cleaning and polishing preparation, dressings
+and blackings processing | 
+Cotton ginning | 
+Cottonseed oil, refining | 
+Cotton wadding and linter | 
+Distillery (alcoholic), breweries and alcoholic
+spirits (nonindustrial) | 
+Dyestuff | 
+Excelsior, fiber | 
+Fertilizer manufacture | 
+Film, photographic | 
+Fish curing or smoking, fish oils and meal | 
+Flour, feed and grain milling | 
+Forge plant, pneumatic drop and forging hammering | 
+Foundries | 
+Glue, gelatin (animal) or glue and size (vegetable) | 
+Hair, hides and raw fur, curing, tanning, dressing,
+dyeing and storage | 
+Incinerators, industrial or public | 
+Insecticides, fungicides, disinfectants or related
+industrial or household chemical compounds | 
+Junkyards, open or enclosed storage of junk | 
+Jute, hemp and sisal products | 
+Linoleum and other hard-surface floor coverings
+(except wood) | 
+Match manufacture | 
+Meat, fish or seafood products, including slaughtering
+of animals or poultry or preparation of fish or seafood for packing | 
+Minerals and earths, including sand and gravel,
+quarrying, extracting, grinding, crushing and processing | 
+Molasses | 
+Paint, oil, shellac, turpentine or varnish | 
+Petroleum, gasoline and lubricating oil, wholesale
+storage or by-products processing, but not refining | 
+Plastic material and synthetic resins, processing
+only | 
+Power, light or steam plant, central generating
+station | 
+Radioactive waste handling | 
+Refractories (other than coal-fired) | 
+Rendering and storage of dead animals, offal,
+garbage and waste products | 
+Rubber products (natural or synthetic, including
+tires, tubes or similar products), gutta-percha, chickle and balta
+processing, but not rubber manufacture | 
+Shell grinding or dredging | 
+Slaughtering of animals | 
+Soaps or detergents, including fat rendering | 
+Solvent packaging or processing, but not refining | 
+Starch manufacture | 
+Stockyards | 
+Sugar refining | 
+Textile bleaching | 
+Wood preserving treatment, but not creosote
+manufacture | 
+Wool pulling or scouring | 
+
+
+vii      hr   and hr   high density residential districts
+https://ecode360.com/8884095
+0.05316870799771964
+ | 7,500 | 60 | 100 | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.02089784606805964
+AR-1 | 32,670 | 100 | 100 | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.02089784606805964
+AR-1 | 20,000 | 100 | 100 | 
+
+
+iv      ar   and ar   agricultural residential districts
+https://ecode360.com/8883922
+0.012113793903544806
+10 | 7500 | 30% | 
+
+
+vi      gr general residential district
+https://ecode360.com/8884071
+-0.022799849845519082
+10,000 | 75 | 100 | 
+
+
+vi      gr general residential district
+https://ecode360.com/8884071
+-0.022799849845519082
+ | 40 (30)** | 10 | 10 | 
+
+
+xi      sewer system expansion procedures
+https://ecode360.com/33410465
+-0.028009859173377366
+Qmax/Qavg = (20+2
+[EDU/10]0.5)/(5+2 [EDU/10]0.45) | 
+
+
+i      general provisions
+https://ecode360.com/8883717
+-0.03336954587460991
+ | 
+
+
+i      general provisions
+https://ecode360.com/8883717
+-0.03336954587460991
+ | 
+
+
+vi      improvements
+https://ecode360.com/8882795
+-0.04044246856242678
+ | 40% | 5 | 
+ | 50% | 3 | 
+ | 70% | 2 | 
+ | 90% | 1 | 
+
+
+xxi      signs
+https://ecode360.com/8884700
+-0.04517114538331532
+10 | 32 | 
+50 | 71 | 
+100 | 100 | 
+200 | 141 | 
+300 | 173 | 
+
+
+xiv      li   light industrial district
+https://ecode360.com/8884469
+-0.31792864268544796
+ | Agricultural, business, commercial or office
+uses permitted in any business or commercial district | 
+ | Agriculture or farm implements, manufacture,
+sale, storage or repair | 
+ | Aircraft and aircraft parts | 
+ | Aluminum extrusion, rolling, fabrication and
+forming | 
+ | Animal hospital, or animal pounds | 
+ | Animal, poultry and bird raising, commercial | 
+ | Any use permitted in the LI-1 District | 
+ | Automobiles, trucks, buses, truck trailers,
+motorcycles and bicycles, repair and assembly; transmission repair
+service | 
+ | Bakery products, wholesale (manufacturing permitted) | 
+ | Bedding (mattress, pillow and quilt) | 
+ | Beverage blending and bottling (all types),
+but not distilling | 
+ | Blacksmith shops, not including gas- and steam-fitting
+shops | 
+ | Boat manufacture and repair (vessels less than
+five tons), boat sales, service, storage or rentals | 
+ | Building materials (cement, lime in bags or
+containers, sand, gravel, stone, lumber, structural or reinforcing
+steel, pipe and the like), storage and sales, open or enclosed, but
+not manufacture or steel fabricating or junk storage | 
+ | Button manufacture | 
+ | Carbon paper and inked ribbon manufacture | 
+ | Carpets, rugs and mats, including cleaning | 
+ | Cigar and cigarette manufacture | 
+ | Cleaning and dyeing of garments, hats and rugs | 
+ | Coal and coke storage and sales | 
+ | Commercial greenhouses, wholesale or retail,
+and nurseries for growing of plants, trees and shrubs, including a
+building for sale of products produced on the premises | 
+ | Condensed and evaporated milk, processing and
+canning | 
+ | Contractors' shops and storage yards or equipment
+rental | 
+ | Cosmetics and toiletries, perfumes (compounding
+only) | 
+ | Dairy operations and dairy products, ice cream
+and cheese | 
+ | Dwellings for resident watchmen and caretakers
+employed on the premises | 
+ | Electrical appliances or electronic apparatus,
+medical, optical or drafting equipment, toys, games and musical instruments
+manufacture or assembly | 
+ | Exterminating establishments | 
+ | Farms and farming | 
+ | Fertilizer storage in bags or bulk storage of
+liquid or dry fertilizer in tanks or in a completely enclosed building,
+but not manufacture or processing | 
+ | Fireplace logs | 
+ | Fish, shrimp, crab, clam, oyster and other seafood
+processing, packing or storing, except fish curing or smoking | 
+ | Food products manufacture, processing and packaging
+of such products as candy, chewing gum, cocoa products, coffee, tea
+and spices, macaroni and noodles | 
+ | Foundry products manufacture (electrical only) | 
+ | Fruit and vegetable processing (including canning,
+preserving, drying and freezing) | 
+ | Furniture (wood, reed, rattan, metal and plastic) | 
+ | Grain blending and packaging, but not milling | 
+ | Heating, ventilating, cooling and refrigeration
+supplies and appliances | 
+ | Ice manufacture, including dry ice | 
+ | Industrial vocational training schools, including
+internal-combustion engines | 
+ | Ink manufacturing (mixing only) | 
+ | Insecticides, fungicides, disinfectants and
+related industrial and household chemical elements (blending only) | 
+ | Kennels, boarding or otherwise | 
+ | Knitting, weaving, printing, finishing of textiles
+and fibers into fabric goods or clothing, hats or hosiery | 
+ | Laboratories, research or experimental, but
+not including combustion-engine testing | 
+ | Laundries and linen service | 
+ | Leather goods manufacture, but not including
+tanning operations | 
+ | Livery stables and riding academies | 
+ | Machinery manufacture and machine shops | 
+ | Manufactured home and modular-home manufacturing[Amended 10-12-2010 by Ord. No. 2152] | 
+ | Meat products, packing and processing (not slaughtering) | 
+ | Metal products manufacture, such products as
+bolts, nails, staples, needles, pins, metal containers, ornamental
+iron fabrication, silverware and plated wire | 
+ | Oleomargarine (compounding and packing only) | 
+ | Pharmaceutical products and drugs | 
+ | Planning and millwork, lumberyard | 
+ | Plating, electrolytic process | 
+ | Plumbing supplies manufacture, sale or storage | 
+ | Poultry packing and slaughtering (wholesale) | 
+ | Printing, publishing and engraving, photographic
+processing or blueprinting | 
+ | Pulp goods, pressed or molded (including paper
+mache products) | 
+ | Radiator repair, cleaning and flushing | 
+ | Radio or television broadcasting stations, studios,
+offices and towers | 
+ | Railroad switching yards, primarily for railroad
+service in the district, team tracks and spur tracks | 
+ | Research centers | 
+ | Rubber and synthetic treated fabrics (excluding
+all rubber and synthetic processing) | 
+ | Sheet metal products, ductwork and containers | 
+ | Shipping containers (corrugated board, fiber
+or wire-bound) | 
+ | Sign fabrication and painting shops | 
+ | Soap, washing or cleaning, powder or soda (compounding
+only) | 
+ | Telephone central offices, including outdoor
+storage and repair facilities | 
+ | Telephone stations or booths, including drive-in
+or talking-from-car stations | 
+ | Theaters, including open-air drive-in theaters | 
+ | Tire retreading, recapping and vulcanizing shops | 
+ | Tools, dies and hardware products and firearms | 
+ | Trailer and truck body assembly | 
+ | Truck and transfer terminals, freight | 
+ | Vitreous enameled products | 
+ | Warehouses, wholesale houses and distributors
+and wholesale markets | 
+ | Welding or soldering shops | 
+ | Wood products manufacture, including baskets,
+boxes, crates, barrels and veneer | 
+ | Yarn, threads, cordage and industrial fibers | 
+
+
+dl      disposition list
+https://ecode360.com/8885476
+-1.1624503412363005
+1657 | 1-20-2004 | Fees for Register of Wills amendment | Ch. 62, Art. I | 
+1658 | 1-27-2004 | Zoning amendment | Ch. 115 | 
+1659 | 1-27-2004 | Zoning amendment | Ch. 115 | 
+1672 | 3-30-2004 | Realty transfer tax amendment | Ch. 103, Art. IV | 
+1676 | 4-6-2004 | Personnel amendment | Ch. 29 | 
+1677 | 4-6-2004 | Zoning amendment | Ch. 115 | 
+1678 | 4-6-2004 | Zoning amendment | Ch. 115 | 
+1709 | 8-3-2004 | Zoning amendment | Ch. 115 | 
+1710 | 8-3-2004 | Architectural accessibility amendment | Ch. 45 | 
+1711 | 8-3-2004 | Zoning amendment | Ch. 115 | 
+1714 | 8-17-2004 | Clerk of the Peace fees amendment | Ch. 62, Art. V | 
+1729 | 11-30-2004 | Zoning amendment | Ch. 115 | 
+1734 | 12-7-2004 | Subdivision of land amendment | Ch. 99 | 
+1748 | 2-1-2005 | Zoning amendment | Ch. 115 | 
+1754 | 2-15-2005 | Building construction amendment | Ch. 52 | 
+1783 | 6-28-2005 | Post-employment benefit plan | Ch. 27 | 
+1787 | 8-16-2005 | Zoning amendment | Ch. 115 | 
+1791 | 9-20-2005 | Building construction standards amendment | Ch. 52, Art. I | 
+1799 | 11-1-2005 | Pensions amendment | Ch. 26 | 
+1800 | 10-25-2005 | Addressing and street naming | Ch. 73 | 
+1804 | 11-8-2005 | Building fees amendment; subdivision of land
+amendment | Ch. 62, Art. III; Ch. 99 | 
+1809 | 12-13-2005 | Zoning amendment | Ch. 115 | 
+1816 | 1-10-2006 | Sheriff's fees amendment | Ch. 62, Art. IV | 
+1821 | 1-17-2006 | Moderately priced housing units | Ch. 72 | 
+1822 | 1-31-2006 | Zoning amendment | Ch. 115 | 
+1826 | 2-14-2006 | Zoning amendment | Ch. 115 | 
+1829 | 2-28-2006 | Subdivision of land amendment | Ch. 99 | 
+1831 | 3-14-2006 | Zoning amendment | Ch. 115 | 
+1842 | 4-4-2006 | Building fees amendment zoning amendment | Ch. 62, Art. III; Ch. 115 | 
+1855 | 6-27-2006 | Building construction standards amendment | Ch. 52, Art. I | 
+1856 | 6-27-2006 | Building fees amendment | Ch. 62, Art. III | 
+1859 | 7-18-2006 | Sewer connections in North Bethany Beach Coastal
+Area | Ch. 110, Part 4 | 
+1869 | 8-15-2006 | Zoning amendment | Ch. 115 | 
+1870 | 8-22-2006 | Zoning amendment | Ch. 115 | 
+1878 | 11-28-2006 | Building fees amendment | Ch. 62, Art. III | 
+1909 | 7-17-2007 | Clerk of the Peace fees amendment | Ch. 62, Art. V | 
+1920 | 7-31-2007 | Zoning amendment | Ch. 115 | 
+1921 | 8-21-2007 | Sheriff's fees amendment | Ch. 62, Art. IV | 
+1938 | 10-16-2007 | Enforcement of County obligations | Ch. 116 | 
+1941 | 11-20-2007 | Moderately priced housing units amendment | Ch. 72 | 
+1953 | 2-26-2008 | Zoning amendment | Ch. 115 | 
+1959 | 3-18-2008 | Zoning amendment | Ch. 115 | 
+1968 | 5-6-2008 | Lot maintenance amendment; zoning amendment | Chs. 80; 115 | 
+1979 | 6-24-2008 | Source water protection | Ch. 89 | 
+1984 | 7-29-2008 | Subdivision of land amendment; zoning amendment | Chs. 99; 115 | 
+2007 | 12-2-2008 | Realty transfer tax amendment | Ch. 103, Art. IV | 
+2008 | 12-2-2008 | Building fees amendment; zoning amendment | Chs. 62, Art. III; 115 | 
+2016 | 12-9-2008 | Moderately priced housing units; affordably priced rental units
+amendment | Ch. 72 | 
+2022 | 12-16-2008 | Subdivision of land amendment; zoning amendment | Chs. 99; 115 | 
+2023 | 12-16-2008 | Water and sewers: private community wastewater systems | Ch. 110, Part 7 | 
+2024 | 12-16-2008 | Zoning amendment | Ch. 115 | 
+2046 | 4-28-2009 | Clerk of the Peace fees amendment | Ch. 62, Art. V | 
+2052 | 6-2-2009 | Subdivision of land amendment | Ch. 99 | 
+2053 | 6-2-2009 | Zoning amendment | Ch. 115 | 
+2070 | 6-23-2009 | Sheriff's fees amendment | Ch. 62, Art. IV | 
+2071 | 7-21-2009 | Sussex community improvements | Ch. 96 | 
+2077 | 8-1-2009 | Recorder of Deeds fees amendment | Ch. 62, Art. VI | 
+2086 | 11-10-2009 | Sussex community improvements | Ch. 96 | 
+2090 | 12-1-2009 | Dog control | Ch. 60 | 
+2152 | 10-12-2010 | Manufactured homes wording amendment; zoning amendment | Chs. 62, Art. III; 71; 73; 103, Arts. IV and V; 110, Parts 1, 3 and 6; 115; 116 | 
+2153 | 10-12-2010 | Zoning amendment | Ch. 115 | 
+2167 | 12-14-2010 | Zoning amendment | Ch. 115 | 
+2168 | 12-14-2010 | Zoning amendment | Ch. 115 | 
+2213 | 9-13-2011 | Zoning amendment | Ch. 115 | 
+2223 | 10-4-2011 | Pensions amendment; personnel amendment | Chs. 26; 29 | 
+2227 | 11-15-2011 | Councilmanic Election Districts | Repealed by Ord. No. 2243 | 
+2228 | 11-15-2011 | Pensions amendment | Ch. 26 | 
+2229 | 12-6-2011 | Zoning amendment | Ch. 115 | 
+2230 | 1-10-2012 | Subdivision of land amendment | Ch. 99 | 
+2237 | 2-7-2012 | Pensions amendment | Ch. 26 | 
+2238 | 2-7-2012 | Personnel amendment | Ch. 29 | 
+2243 | 2-28-2012 | Councilmanic Election Districts | Ch. 11 | 
+2245 | 3-27-2012 | Zoning amendment | Ch. 115 | 
+2262 | 6-19-2012 | Zoning amendment | Ch. 115 | 
+2263 | 6-19-2012 | Zoning amendment | Ch. 115 | 
+2264 | 6-19-2012 | Zoning amendment | Ch. 115 | 
+2265 | 6-26-2012 | Sewer and water assessments and service charges amendment | Ch. 110, Part 3 | 
+2268 | 6-26-2012 | Subdivision of land amendment | Ch. 99 | 
+2269 | 6-26-2012 | Subdivision of land amendment | Ch. 99 | 
+2270 | 6-26-2012 | Subdivision of land amendment | Ch. 99 | 
+2271 | 6-26-2012 | Subdivision of land amendment | Ch. 99 | 
+2278 | 9-25-2012 | Zoning amendment | Ch. 115 | 
+2279 | 11-27-2012 | Clerk of the Peace fees amendment | Ch. 62, Art. V | 
+2280 | 11-27-2012 | Council procedures | Ch. 1, Art. II | 
+2291 | 1-22-2013 | Sewer use amendment | Ch. 110, Part 1 | 
+2302 | 4-23-2013 | Moderately priced housing units; affordably priced rental units
+amendment | Ch. 72 | 
+2307 | 6-4-2013 | Building construction: standards and regulations amendment | Ch. 52, Art. I | 
+2313 | 7-16-2013 | Lot maintenance | Ch. 80 | 
+2316 | 8-20-2013 | Zoning amendment | Ch. 115 | 
+2323 | 9-10-2013 | Personnel amendment | Ch. 29 | 
+2325 | 11-19-2013 | Subdivision of land amendment | Ch. 99 | 
+2326 | 11-19-2013 | Sediment control and stormwater management amendment; subdivision
+of land amendment | Chs. 90; 99 | 
+2335 | 1-28-2014 | Building construction: standards and regulations amendment | Ch. 52, Art. I | 
+2346 | 4-29-2014 | Pensions amendment | Ch. 26 | 
+2347 | 5-6-2014 | Zoning amendment | Ch. 115 | 
+2374 | 12-2-2014 | Zoning amendment | Ch. 115 | 
+2384 | 1-20-2015 | Zoning amendment | Ch. 115 | 
+2396 | 5-5-2015 | Zoning amendment | Ch. 115 | 
+2397 | 5-19-2015 | Zoning amendment | Ch. 115 | 
+2428 | 12-15-2015 | Subdivision of land amendment; zoning amendment | Ch. 99; Ch. 115 | 
+2470 | 10-11-2016 | Zoning amendment | Ch. 115 | 
+2474 | 11-1-2016 | Moderately priced housing units; affordably priced rental units
+amendment | Ch. 72 | 
+2476 | 11-29-2016 | Pensions amendment | Ch. 26 | 
+2488 | 3-28-2017 | Zoning amendment | Ch. 115 | 
+2489 | 3-28-2017 | Sediment control and stormwater management amendment; subdivision
+of land amendment; water and sewers: extension of public water and/or
+sewer systems amendment; water and sewers: private community wastewater
+systems amendment; zoning amendment | Ch. 90; Ch. 99; Ch. 110, Part 2; Ch. 110, Part 7; Ch. 115 | 
+2499 | 6-13-2017 | Clerk of the Peace fees amendment | Ch. 62, Art. V | 
+2500 | 6-13-2017 | County realty transfer tax amendment | Ch. 103, Art. IV | 
+2501 | 6-13-2017 | County realty transfer tax amendment | Ch. 103, Art. IV | 
+2509 | 7-25-2017 | Zoning amendment | Ch. 115 | 
+2524 | 10-10-2017 | Water and Sewers: Sewer and Water Assessments and Service Charges
+Amendment | Ch. 110, Pt. 3 | 
+2529 | 10-31-2017 | Firearms | Ch. 63 | 
+2550 | 2-27-2018 | Zoning Amendment | Ch. 115 | 
+2557 | 3-20-2018 | Zoning Amendment | Ch. 115 | 
+2558 | 3-20-2018 | Zoning Amendment | Ch. 115 | 
+2559 | 3-20-2018 | Zoning Amendment | Ch. 115 | 
+2560 | 3-20-2018 | Zoning Amendment | Ch. 115 | 
+2561 | 3-20-2018 | Zoning Amendment | Ch. 115 | 
+2562 | 3-20-2018 | Zoning Amendment | Ch. 115 | 
+2563 | 3-20-2018 | Zoning Amendment | Ch. 115 | 
+2564 | 3-20-2018 | Zoning Amendment | Ch. 115 | 
+2577 | 5-22-2018 | Water and Sewers | Ch. 110 | 
+2580 | 6-19-2018 | Fees: Recorder of Deeds Amendment | Ch. 62, Art. VI | 
+2599 | 9-18-2018 | Zoning Amendment | Ch. 115 | 
+2618 | 12-4-2018 | Zoning Amendment | Ch. 115 | 
+2629 | 2-5-2019 | Subdivision of Land Amendment | Ch. 99 | 
+2634 | 2-26-2019 | Pensions Amendment | Ch. 26 | 
+2644 | 4-16-2019 | Zoning Amendment | Ch. 115 | 
+2645 | 4-16-2019 | Zoning Amendment | Ch. 115 | 
+2656 | 5-21-2019 | Fees: Building Fees Amendment; Housing Units, Moderately Priced;
+Rental Units, Affordably Priced Amendment; Zoning Amendment | Ch. 62, Art. III; Ch. 72; Ch. 115 | 
+2658 | 6-11-2019 | Zoning Amendment | Ch. 115 | 
+
+

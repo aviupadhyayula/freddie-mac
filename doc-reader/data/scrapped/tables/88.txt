@@ -1,0 +1,674 @@
+residential code
+https://ecode360.com/13832642
+0.5821709911059696
+Ground snow load: 25 lbs. per square feet | 
+Wind design, Speed: 115 mph | 
+Wind design, Topographic effects: No | 
+Wind design, Special wind region: No | 
+Wind design, Wind-borne debris zone: No | 
+Seismic design category: B | 
+Subject to damage from, Weathering: Severe | 
+Subject to damage from, Frost line depth: 32 inches | 
+Subject to damage from, Termite: Yes, moderate to heavy | 
+Winter design temp: 15° F. | 
+Ice barrier underlayment required: No | 
+Flood hazards: January 17, 2007, or current flood hazard maps
+pursuant to the Federal Emergency Management of Delaware | 
+Air freezing index: 59.6 | 
+Mean annual design temp: 54° F. | 
+
+
+residential code
+https://ecode360.com/13832642
+0.5237948400367466
+Section R328, Sanitary. | 
+Section R328.1, Facilities required. Sanitary facilities shall
+be provided during construction, remodeling or demolition activities
+in accordance with the International Plumbing Code. | 
+Section R328.2, Storage of construction and demolition waste.
+Construction and demolition waste may be stored upon the land where
+actual construction or demolition is in progress; provided, however,
+that such waste shall not be stored for a period exceeding 120 days
+and all other waste not stored in a dumpster shall not be stored for
+periods exceeding 30 days. | 
+Section R328.3 Handling and storage of construction and demolition
+waste, trash, and litter. During all construction activities, the
+lot(s) shall be kept neat of trash and building materials. All construction
+sites shall be required to obtain and maintain on the site a container
+of suitable size and design to hold and confine trash, scraps, and
+other construction and demolition waste created or accumulated on
+the site, which might be blown from the site. All such construction
+refuse shall be maintained in a closed container of sufficient depth
+to prevent construction and demolition waste from blowing out of the
+container, at all times, until transferred to a landfill. Containers
+may be placed in setback areas, provided that the placement of the
+container does not obstruct the view of motorists and thereby create
+traffic hazards. It shall be a violation to permit accumulated debris,
+litter, or trash attributable to the construction site and the construction
+activity to blow or scatter onto adjoining properties, including the
+public street, or to accumulate on the site outside of the container,
+or in transit to a landfill or dump. The owner or contractor shall
+service the container as frequently as needed to prevent trash from
+overflowing. | 
+Section 328.4, Final. A final cleanup is required, the removal
+of portable toilets, storage containers, building debris and debris
+storage containers is required prior to final inspection of the parcel. | 
+Section R328.5, Enforcement. Any person who fails to comply
+with the requirements found in this section shall be subject to the
+penalty and enforcement provisions of the Code of The Town of Middletown. | 
+
+
+vii      parking
+https://ecode360.com/7272434
+0.4899310090804946
+ | East Lockwood Street | Both | From North Broad Street to North Alley | 
+ | East Main Street [Added 9-8-2003] | South | From the center line of South Broad Street easterly
+for 475 feet | 
+ | North Broad Street | West | Between Pennington Street and Shallcross Place,
+except that vehicles used in connection therewith may be parked in
+the prohibited area while funerals are being conducted in the Daniels
+Funeral Home at 212 North Broad Street | 
+ | North Cox Street | Both | 50 feet from the East Main Street intersection | 
+ | South Broad Street | East | Between Main Street and East Park Place | 
+ | South Scott Street[Added 8-7-2000] | Both | From West Main Street to West Green Street | 
+ | West Green Street[Added 8-7-2000] | Both | From South Scott Street to South Cass Street | 
+ | West Green Street [Added 7-10-2006] | North | From the center line of South Broad Street west
+for 972 feet to the intersection with Scott Street | 
+ | West Green Street [Added 7-10-2006] | South | From the center line of South Broad Street west
+for 228 feet to 6 West Green Street | 
+ | West Main Street[Added 9-8-2003] | South | From the center line of South Broad Street westerly
+for 270 feet | 
+
+
+residential code
+https://ecode360.com/13832642
+0.4867360498027881
+Elevation: 78 feet | 
+Latitude: 39° | 
+Winter heating: 14° F. | 
+Summer cooling: 89° F. | 
+Altitude correction factor: 1.0 | 
+Indoor design temperature: 72° F. | 
+Design temperature cooling: 75° F. | 
+Heating temperature difference: 58° F. | 
+Cooling temperature difference: 14° F. | 
+Wind velocity heating: 15 miles per hour | 
+Wind velocity cooling: 7.5 miles per hour | 
+Coincident wet bulb: 74 | 
+Daily range: M | 
+Winter humidity: 50% | 
+Summer humidity: 50% | 
+
+
+residential code
+https://ecode360.com/13832642
+0.4825117377606325
+From the residence: not less than double 5/8-inch type X gypsum
+board or equivalent | 
+From garage attic space: not less than 1/2-inch gypsum board
+or equivalent applied to the garage side | 
+From habitable rooms above the garage: not less than double
+5/8-inch Type X gypsum board or equivalent | 
+Structure(s) supporting flooring assemblies used for separation
+required by this section: not less than double 5/8-inch Type X gypsum
+board or equivalent | 
+Structure(s) supporting ceiling assemblies used for separation
+required by this section: not less than 1/2-inch gypsum board or equivalent | 
+Garages located less than 3 feet from the dwelling unit on the
+same lot with wall(s) that face the dwelling, side by side: not less
+than double 5/8-inch Type X gypsum board or equivalent. All other
+walls not less than 1/2-inch gypsum board or equivalent | 
+Concrete-filled steel lolly columns used in the structure supporting
+the separation shall not require a gypsum board application. | 
+
+
+vii      industrial wastewater pretreatment standards
+https://ecode360.com/7146315
+0.4763571918409824
+ | BOD — Biochemical oxygen demand. | 
+ | CFR — Code of Federal Regulations. | 
+ | COD — Chemical oxygen demand. | 
+ | EPA — U.S. Environmental Protection Agency. | 
+ | GPD — Gallons per day. | 
+ | LC50 — Lethal concentration
+for 50% of the test organisms. | 
+ | L — Liter. | 
+ | mg — Milligrams. | 
+ | mg/l — Milligrams per liter. | 
+ | NAICS — North American Industry Classification
+System. | 
+ | O & M — Operation and maintenance. | 
+ | POTW — Publicly owned treatment works. | 
+ | RCRA — Resource Conservation and Recovery
+Act. | 
+ | SIC — Standard industrial classification. | 
+ | SWDA — Solid Waste Disposal Act (42 U.S.C.
+§ 6901 et seq). | 
+ | TSS — Total suspended solids. | 
+ | USC — United States Code. | 
+
+
+residential code
+https://ecode360.com/13832642
+0.4264914009424857
+Section N1101, Criteria, Buildings shall be designed and constructed
+in accordance with the State of Delaware's current edition of
+the International Code Council's (ICC) International Energy Conservation
+Code, as adopted by the State of Delaware, the State of Delaware Department
+of Energy, pursuant to the Delaware Code Chapter 76, Title 16, Subsection
+7602. | 
+
+
+i      adoption of property maintenance code
+https://ecode360.com/13832909
+0.4101954007980375
+Section 308.2.2 Appliances. All household residential appliances
+designed for interior use shall not be used or stored outdoors, outside
+of the building envelope. | 
+
+
+residential code
+https://ecode360.com/13832642
+0.39348234077830846
+Section R405.2.3, Drainage system. In other than Group I soils
+a sump shall be provided to drain the porous layer and footings. The
+sump shall be at least 18 inches in diameter or 18 inches square,
+shall have a depth of at least 24 inches below the bottom of the basement
+floor and shall be capable or positive gravity or mechanical drainage
+to remove accumulated water. The sump piping shall conform to the
+International Plumbing Code, P702 and P1113. The sump shall discharge
+to the exterior of the structure at a sufficient distance to prevent
+recycling. The sump pump crock must have a removable cover designed
+for such purpose. | 
+
+
+residential code
+https://ecode360.com/13832642
+0.37512639988311347
+Section R404.1.7, Backfill placement. Backfill shall not be
+placed against the wall until the wall has sufficient strength to
+prevent damage by the backfill. | 
+
+
+residential code
+https://ecode360.com/13832642
+0.37356572099376195
+R313.1 Townhouse automatic fire sprinkler systems is amended
+by deleting the word "shall" in the first sentence and inserting "may." | 
+R313.2 One- and two-family dwellings automatic fire sprinkler
+systems is amended by deleting the word "shall" in the first sentence
+and inserting "may." | 
+
+
+vii      parking
+https://ecode360.com/7272434
+0.3614352190494876
+ | East Main Street | Both | 2 hrs., between 8:00 a.m. and 6:00 p.m., Monday
+through Saturday | From the intersection with Broad Street for
+a distance of 120 feet | 
+ | West Main Street | Both | 2 hrs., between 8:00 a.m. and 6:00 p.m., Monday
+through Saturday | Between Broad Street and Cass Street | 
+
+
+dl      disposition list
+https://ecode360.com/7272570
+0.35652832624721137
+17-12-01 | 1-8-2018 | Comprehensive Plan Amendment | NCM | 19 | 
+18-02-01 | 3-12-2018 | Zoning Map Amendment | NCM | 19 | 
+18-02-02 | 3-12-2018 | Subdivision Regulations Amendment | NCM | 19 | 
+18-02-03 | 9-10-2018 | Land Annexations Amendment | Ch. A194 | 19 | 
+18-06-01 | 7-2-2018 | Stormwater: Illicit Discharge Detection and Elimination | Ch. 145, Art. I | 19 | 
+18-07-01 | 8-6-2018 | Taxation: Lodging Tax | Ch. 154, Art. IV | 19 | 
+18-11-02 | 12-3-2018 | Water: Delayed Payment Penalty Amendment | Ch. 176, Art. II | 19 | 
+19-04-01 | 5-6-2019 | Downtown Development District Incentives | Ch. A195 | 19 | 
+19-07-01 | 8-5-2019 | Land Annexations Amendment | Ch. A194 | 19 | 
+19-09-01 | 10-7-2019 | Comprehensive Plan Amendment | NCM | 19 | 
+19-09-02 | 10-7-2019 | Administration of Licensing and Inspection Department Amendment;
+Building Construction Amendment; Residential Code Amendment; Buildings,
+Existing Amendment; Energy Code Amendment; Mechanical Standards Amendment;
+Plumbing Amendment; Fuel Gas Code Amendment; Property Maintenance:
+Adoption of Property Maintenance Code Amendment | Ch. 40; Ch. 41; Ch. 42; Ch. 43; Ch. 44; Ch. 96; Ch. 115; Ch. 116; Ch. 119, Art. I | 19 | 
+19-09-03 | 10-7-2019 | Swimming Pool and Spa Code | Ch. 47 | 19 | 
+
+
+parking
+https://ecode360.com/31422179
+0.3432687865006435
+ | 108-3 | All | $25 | $10 | $20 | $25 | 
+ | 108-4 | All | $25 | $10 | $20 | $25 | 
+ | 108-5 | All | $25 | $10 | $20 | $25 | 
+ | 108-6 | All | $25 | $10 | $20 | $25 | 
+ | 108-7 | All | $25 | $10 | $20 | $25 | 
+ | 108-8 | All | $50 | $10 | $20 | $25 | 
+ | 108-9 | All | $50 | $10 | $20 | $25 | 
+
+
+iv      sewer plan submission
+https://ecode360.com/7146288
+0.3389560643262602
+Restaurants | 0.40 GPD/sq ft | 
+Gas station with food service | 0.25 GPD/sq ft | 
+Gas station without food service | 0.10 GPD/sq ft | 
+Industrial / manufacturing | 0.10 GPD/sq ft | 
+Car wash | 0.10 GPD/sq ft | 
+Grocery store | 0.04 GPD/sq ft | 
+Other retail, up to 50,000 square feet | 0.025 GPD/sq ft | 
+Other retail, over 50,000 square feet | 0.01 GPD/sq ft | 
+Office space | 0.02 GPD/sq ft | 
+Warehouse | 0.01 GPD/sq ft | 
+Worship | 0.01 GPD/sq ft | 
+Day-care center | 0.075 GPD/sq ft | 
+Elementary school | 0.05 GPD/sq ft | 
+Secondary school | 0.02 GPD/sq ft | 
+Hospital | 150 GPD/bed | 
+Hotel/motel with restaurant | 0.06 GPD/sq ft | 
+Hotel/motel without restaurant | 0.01 GPD/sq ft | 
+Nursing home | 0.015 GPD/sq ft | 
+Dry cleaner/other cleaner | 0.15 GPD/sq ft | 
+Laundromat | 100 GPD/washing machine | 
+Salon/barber/hair-care/beauty | 0.10 GPD/sq ft | 
+Other commercial | 0.05 GPD/sq ft | 
+
+
+viii      one way streets
+https://ecode360.com/7272443
+0.3326598643049135
+East Lockwood Street | East | Between North Alley and Catherine Street | 
+North Cass Street | North | Between West Main Street and West Lake Street | 
+North Cox Street | North | Between East Main Street and East Lockwood Street | 
+South Cox Street | South | Between Main Street and Green Street | 
+Thompson Way | North | Between Crawford Street and East Lake Street | 
+
+
+iv      sewer plan submission
+https://ecode360.com/7146288
+0.3156844520961066
+ | *Fees represent an increase of 4.5% per year effective January
+1 of each year. | 
+ | *The connection charge will continue to increase at 4.5% per
+year after the 15th year. | 
+
+
+a         land annexations
+https://ecode360.com/7272568
+0.30333095869162574
+2-5-1996 | Lands owned by the Farm Corporation consisting
+of 315.38 acres more or less, situate on the east and west sides of
+Cedar Lane Road | R-1, R-2 and R-3 | 
+4-5-1996 | Lands owned by the estate of Virginia Kielkopf,
+consisting of 84.39 acres more or less | R-2 | 
+8-4-1997 | Lands owned by C.M. Cochran, III and C.M. Cochran,
+IV, consisting of 351 acres more or less, situate on the westerly
+side of Industrial Road | MI | 
+8-4-1997 | Lands owned by Rocks & Reading, L.P., consisting
+of 227.4 acres more or less, situate and contiguous to lands of Charles
+M. Cochran, III | M-1 | 
+10-6-1997 | Lands owned by Fusco Properties, L.P., consisting
+of 533.0964 acres more or less, situate on the southerly side of State
+Route 299 |  | 
+3-2-1998 | Lands owned by the Carters, Pattersons and Pisers,
+consisting of 68.74 acres more or less, situate on the westerly side
+of Summit Bridge Road | R-1-B | 
+4-6-1998 | Lands owned by Woodella Farms, LLC and the Woodwards,
+consisting of 222.2 acres more or less, situate on St. Anne's Church
+Road and Wiggins Mill Road | M-1 | 
+3-6-2000 | Lands owned by NuCar Middletown, LLC, consisting
+of 8.89 acres of land more or less, situate on Summit Bridge Road | C-3 | 
+6-5-2000 | Lands owned by Rudolph P. Von Croy, consisting
+of 313 acres of land more or less, situate at the intersection of
+County Route 437 and U.S. Route 301 | C-3, M-1, R-2 | 
+7-10-2000 | Lands owned by the State of Delaware, consisting
+of 25 acres of land more or less, situate on Silver Lake Road | R-1-A | 
+9-5-2000 | Lands owned by Louis N. Pederson and Christa
+E. Pederson, consisting of 41.18 acres of land more or less, situate
+on the northerly side of Delaware Route No. 299 | C-3 | 
+12-4-2000 | Lands owned by St. Andrew's School of Delaware,
+Inc., consisting of 120 acres of land more or less, situate on the
+westerly side of Silver Lake Road | R-1-A | 
+2-5-2001 | Lands owned by Donald Isaacs and Claudia D.
+Isaacs, consisting of 324 acres of land more or less, situate on the
+northerly side of Green Giant Road | R-1-B | 
+2-5-2001 | Lands owned by Middletown Greenways, LLC, consisting
+of 176 acres of land more or less, situate on the northerly side of
+Green Giant Road | R-1-B | 
+2-5-2001 | Lands owned by Middletown Greenways, LLC and
+Levels Development Company, LLC, consisting of 168 acres of land more
+or less, situate on the southerly side of Levels Road | R-1-B | 
+2-5-2001 | Lands owned by S. Rodmond Smith, Limited Partnership,
+a Delaware limited partnership, its successors and assigns; S. Rodmond
+Smith, III, individually and as Trustee U/A Rebecca Watkins Smith
+dated 5/4/89 F/B/O S. Rodmond Smith, III; and Lea S.C. Hutchins (F/K/A/
+Lea Smith Carl, F/K/A/ Lea Allison Smith), individually and as Trustee
+U/A/ Rebecca Watkins Smith dated 5/4/89 F/B/O Lea Smith Carl (F/K/A
+Lea Allison Smith), consisting of 428.12 acres of land more or less,
+situate on the northeasterly side of Noxontown Road | AP | 
+3-12-2001 | Lands owned by John Kutkoske, Mary Szabat, Felix
+J. Rutkoske, Jr., Frank Rutkowski and Joseph Rutkowski, consisting
+of 232 acres of land more or less, situate on the northerly side of
+Route 299 and the westerly side of Brick Mill Road | R-1-B; C-3 | 
+5-7-2001 | Lands owned by David G. Wicks, Fred Wicks, and
+the Claudia H. Wicks trust, consisting of 280 acres of land, more
+or less, situate on the southeasterly corner of Cedar Lane Road and
+Marl Pitt Road | R-1-B | 
+6-4-2001 | Lands owned by Stephan Von Croy consisting of
+422 acres of land located on Route 301 and Levels Road | AP and MI/C-3 | 
+6-4-2001 | Lands owned by Kohl LLC , consisting of 207
+acres of land , more or less, located on the northerly side of U.S.
+Route 301 | MI | 
+5-1-2006 | Lands owned by Robert C. Thompson, Jr. and Jane
+E. Thompson located on the east side of Brick Mill Road | R-1B | 
+7-2-2007 | Lands owned by Mr. and Mrs. Howard B. Carter
+III located at 5156 Summit Bridge Road | R-1B | 
+7-2-2007 | Lands owned by 301 Plaza, Inc., located at 921
+Middletown-Warwick Road | C-3 | 
+7-2-2007 | Lands owned by Rutkoske Bros., Inc., located
+at 819 Middletown-Warwick Road | C-3 | 
+7-2-2007 | Lands owned by Bunker Hill Associates, LLC,
+located at 0 Middletown-Warwick Road | C-3 | 
+7-2-2007 | Lands owned by Middletown Greenways, LLC, located
+at 0 Green Giant Road | R-1B | 
+7-2-2007 | Lands owned by Hedgelawn, LLC, located at 772
+Middletown-Warwick Road | C-3 | 
+7-2-2007 | Lands owned by the Town of Middletown located
+at 201 Silver Lake Road | R-1A | 
+7-2-2007 | Lands owned by Poole Ventures, LLC, located
+at 841 Middletown-Warwick Road | C-3 | 
+7-2-2007 | Lands owned by Appoquinimink School District
+located at 0 Bunker Hill Road | R-1B | 
+7-2-2007 | Lands owned by Gateway Properties, LLC, located
+at 308 Brick Mill Road, 633 Middletown-Odessa Road, 663 Middletown-Odessa
+Road, 669 Middletown-Odessa Road, 675 Middletown-Odessa Road, 0 Middletown-Odessa
+Road, 310 Brick Mill Road, 320 Brick Mill Road, 685 Middletown-Odessa
+Road | C-3 | 
+12-3-2007; amended 3-14-2011 | Lands owned by Mr. Richard P. Money located
+at 929 Middletown-Warwick Road | C-3 | 
+5-3-2010 | Lands owned by the State of Delaware, consisting of 75.883 acres
+of land, more or less, situated at 5369 Summit Bridge Road and contiguous
+to the Town of Middletown. | C-3 | 
+5-3-2010 | Lands owned by the State of Delaware, consisting of 19.820 acres
+of land, more or less, situated at the northerly side of Del. 299
+at the intersection with Del. 1, and contiguous to the Town of Middletown. | C-3 | 
+8-6-2012 | Lands owned by the State of Delaware, consisting of 2.1 acres
+of land, more or less, situated at the northerly side of Del. 299
+at the intersection with Del. 1, and contiguous to the Town of Middletown. | C-3 | 
+6-5-2017 | Lands owned by Frank D. Cantera Trust, located on the south
+side of Armstrong Corner and west of U.S. 301, and consisting of 36.27
+acres, more or less, and being Tax Parcel Numbers 13-017.00-141; 13-017.00-084;
+13-017.00-083; and 13-017.00-090 | R-3 and C-3 | 
+9-10-2018 | Lands owned by Charles E. Alfree III, Cynthia Stocktill, Rose
+Casapulla/Proffitt, Deborah K. Demarco, Joanne Francisco and Rose
+Leverage, consisting of 119.32 acres of land, more or less, located
+at 1924 Middle Neck Road, Tax Parcel Number 13-026.00-005. | R-2 and R-3 | 
+8-5-2019 | Lands owned by Richard Money, consisting of 114.95 acres, more
+or less, located along the northeasterly side of Middle Neck Road,
+Tax Parcel Number 13-026.00-042. | R-3 | 
+
+
+iv      sewer plan submission
+https://ecode360.com/7146288
+0.2865102136397703
+ | Single-family detached | 250 gallons per day | 
+ | Single-family duplex | 250 gallons per day | 
+ | Townhouses | 225 gallons per day | 
+ | Active adult | 250 gallons per day | 
+ | Apartments | 110 gallons per day | 
+
+
+vii      industrial wastewater pretreatment standards
+https://ecode360.com/7146315
+0.2845874309597164
+"I certify under penalty of law that this document
+and all attachments were prepared under my direction or supervision
+in accordance with a system designed to assure that qualified personnel
+properly gather and evaluate the information submitted. Based on my
+inquiry of the person or persons who manage the system, or those persons
+directly responsible for gathering the information, the information
+submitted is, to the best of my knowledge and belief, true, accurate,
+and complete. I am aware that there are significant penalties for
+submitting false information, including the possibility of fine and
+imprisonment for knowing violations." | 
+
+
+vii      industrial wastewater pretreatment standards
+https://ecode360.com/7146315
+0.23288844026315342
+ | Arsenic | 0.24 | 
+ | Cadmium | 0.015 | 
+ | Chromium, total | 1.50 | 
+ | Copper | 0.15 | 
+ | Lead | 0.50 | 
+ | Mercury | 0.001 | 
+ | Nickel | 0.020 | 
+ | Zinc | 1.00 | 
+ | Ammonia as nitrogen | 15.00 | 
+ | Cyanide, total | 0.30 | 
+ | Phenolics | 10.00 | 
+ | BOD | 350.00 | 
+ | COD | 100.00 | 
+ | Suspended solids | 500.00 | 
+ | PCB | 0.0001 | 
+ | Thallium | 5.0 | 
+ | Silver | 0.015 | 
+ | Selenium | 0.25 | 
+
+
+records
+https://ecode360.com/7146184
+0.1911105975587793
+ | "(a) All public records shall be open to inspection and copying by any
+citizen of the state of Delaware during regular business hours by the custodian
+of the records for the appropriate public body. Reasonable access to and reasonable
+facilities for copying of these records shall not be denied to any citizen.
+If the record is in active use or in storage, and, therefore, not available
+at the time a citizen requests access, the custodian shall so inform the citizen
+and make an appointment for said citizen to examine such records as expediently
+as they may be made available. Any reasonable expense involved in the copying
+of such records shall be levied as a charge on the citizen requesting such
+copy; | 
+ | (b) It shall be the responsibility of the public body to establish rules
+and regulations regarding access to public records as well as fees charged
+for copying of such records." | 
+
+
+iv      sewer plan submission
+https://ecode360.com/7146288
+0.17243547784165278
+ | 2009 | $40.05 | 
+ | 2010 | $40.05 | 
+ | 2011 | $41.85 | 
+ | 2012 | $43.74 | 
+ | 2013 | $45.70 | 
+ | 2014 | $47.76 | 
+ | 2015 | $49.91 | 
+ | 2016 | $52.16 | 
+ | 2017 | $54.50 | 
+ | 2018 | $56.96 | 
+ | 2019 | $59.52 | 
+ | 2020 | $62.20 | 
+ | 2021 | $65.00 | 
+ | 2022 | $67.92 | 
+ | 2023 | $70.98 | 
+
+
+iii      cross connections and backflow prevention
+https://ecode360.com/29373067
+-0.04473156626095584
+ | 
+
+
+dl      disposition list
+https://ecode360.com/7272570
+-1.6747069676557138
+Ord. | 2-5-1996 | Land annexation | Ch. A194 | 
+Ord. | 4-5-1996 | Land annexation | Ch. A194 | 
+Ord. | 12-2-1996 | Skates, skating and bicycling | Ch. 140 | 
+Ord. | 1-7-1997 | Zoning | NCM | 
+ | 3-10-1997 | Electrical rules and regulations amendment | Ch. A190 | 
+Ord. | 5-5-1997 | Nondomestic wastewater discharges amendment | Repealed by Ord. No. 10-01-01 | 
+Ord. | 7-7-1997 | Parks | Ch. 109 | 
+Ord. |  | Zoning amendment | NCM | 
+Ord. | 8-4-1997 | Land annexation | NCM | 
+Ord. | 8-4-1997 | Land annexation | NCM | 
+Ord. | 8-4-1997 | Land annexation | Ch. A194 | 
+Ord. | 8-4-1997 | Land annexation | Ch. A194 | 
+Ord. | 8-4-1997 | Parking amendment | Ch. 167, Art. VII | 
+Ord. | 10-6-1997 | Land annexation | Ch. A194 | 
+Ord. | 3-2-1998 | Land annexation | Ch. A194 | 
+Ord. | 4-6-1998 | Land annexation | Ch. A194 | 
+Ord. | 9-8-1998 | Adoption of Code | Ch. 1, Art. I | 
+Ord. | 9-8-1998 | Zoning Map amendment | NCM | 
+Ord. | 2-1-1999 | Zoning Map amendment | NCM | 
+Ord. | 2-1-1999 | Zoning amendment | NCM | 
+Ord. | 3-1-1999 | Zoning Map amendment | NCM | 
+Ord. | 9-7-1999 | Zoning Map amendment | NCM | 
+Ord. | 3-6-2000 | Cleaning of pavements amendment | Ch. 146, Art. IV | 
+Ord. | 3-6-2000 | Land annexation | Ch. A194 | 
+Ord. | 3-7-2000 | Zoning Map amendment | NCM | 
+Ord. | 3-7-2000 | Zoning Map amendment | NCM | 
+Ord. | 6-5-2000 | Land annexation | Ch. A194 | 
+Ord. | 6-5-2000 | Zoning Map amendment | NCM | 
+Ord. | 7-10-2000 | Land annexation | Ch. A194 | 
+Ord. | 8-7-2000 | Parking amendment | Ch. 167, Art. VII | 
+Ord. | 8-7-2000 | Zoning Map amendment | NCM | 
+Ord. | 9-5-2000 | Land annexation | Ch. A194 | 
+Ord. | 12-4-2000 | Land annexation | Ch. A194 | 
+Ord. | 12-4-2000 | Zoning amendment | NCM | 
+Ord. | 2-5-2001 | Land annexation | Ch. A194 | 
+Ord. | 2-5-2001 | Land annexation | Ch. A194 | 
+Ord. | 2-5-2001 | Land annexation | Ch. A194 | 
+Ord. | 2-5-2001 | Land annexation | Ch. A194 | 
+Ord. | 3-12-2001 | Land annexation | Ch. A194 | 
+Ord. | 4-2-2001 | 2001 Comprehensive Plan update | NCM | 
+Ord. | 4-2-2001 | Zoning amendment | NCM | 
+Ord. | 5-7-2001 | Land annexation | Ch. A194 | 
+Ord. | 6-4-2001 | Land annexation | Ch. A194 | 
+Ord. | 6-4-2001 | Land annexation | Ch. A194 | 
+Ord. | 8-5-2002 | Unauthorized digging; water or sewer theft;
+illicit discharge and improper disposal | Ch. 146, Art. IX; Ch. 177 | 
+Ord. | 8-5-2002 | Transfer of land | NCM | 
+Ord. | 8-5-2002 | Commercial vehicles | Ch. 167, Art. III | 
+Ord. | 8-5-2002 | Projections into residential lot setbacks | NCM | 
+Ord. | 9-9-2002 | Penalty for cutting grass and cleanup of residential
+properties | Ch. 119, Art. II | 
+Ord. | 10-7-2002 | Industrial wastewater pretreatment standards | Ch. 136, Art. VII | 
+Ord. | 8-4-2003 | Zoning map amendment | NCM | 
+Ord. | 9-8-2003 | Parking amendment | Ch. 167, Art. VII | 
+Ord. | 12-1-2003 | Business licenses | Ch. 45 | 
+Ord. | 2-2-2004 | Abandoned vehicles | Ch. 163 | 
+Res. | 11-7-2005 | Comprehensive Plan | NCM | 
+Ord. | 5-1-2006 | Land annexation | Ch. A194 | 
+Ord. | 7-10-2006 | Parking amendment | Ch. 167, Art. VII | 
+Ord. | 2-5-2007 | Compression brakes | Superseded by ordinance adopted 5-7-2007 | 
+Ord. | 3-12-2007 | Parking amendment | Ch. 167, Art. VII | 
+Ord. | 5-7-2007 | Exhaust brakes | Ch. 67, Art. I | 
+Ord. | 5-7-2007 | Records: freedom of information | Ch. 125, Art. I | 
+Ord. | 5-7-2007 | Riparian Buffer Area Conservation District | NCM | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 7-2-2007 | Land annexation | Ch. A194 | 
+Ord. | 10-1-2007 | Election Committee | NCM | 
+Ord. | 10-1-2007 | Public Safety Committee | NCM | 
+Ord. | 10-1-2007 | Action Network Commission | NCM | 
+Ord. | 12-3-2007 | Alcoholic beverages: possession and consumption
+by minors amendment | Ch. 34, Art. I | 
+Ord. | 12-3-2007 | Alcoholic beverages: possession and consumption
+by minors amendment | Ch. 34, Art. I | 
+Ord. | 12-3-2007 | Alcoholic beverages: open containers amendment | Ch. 34, Art. II | 
+Ord. | 12-3-2007 | Dogs at large amendment | Ch. 39, Art. I | 
+Ord. | 12-3-2007 | Noise by dogs amendment | Ch. 39, Art. II | 
+Ord. | 12-3-2007 | Nuisances by dogs amendment | Ch. 39, Art. VII | 
+Ord. | 12-3-2007 | Curfew amendment | Ch. 55 | 
+Ord. | 12-3-2007 | Emergency management amendment | Ch. 65 | 
+Ord. | 12-3-2007 | Public gatherings amendment | Ch. 82 | 
+Ord. | 12-3-2007 | Night prowling amendment | Ch. 92, Art. I | 
+Ord. | 12-3-2007 | Loitering amendment | Ch. 92, Art. II | 
+Ord. | 12-3-2007 | Noise amendment | Ch. 100 | 
+Ord. | 12-3-2007 | Sight obstructions amendment | Ch. 104, Art. I | 
+Ord. | 12-3-2007 | Obstructions: trees amendment | Ch. 104, Art. II | 
+Ord. | 12-3-2007 | Parking amendment | Repealed by Ord. No. 16-03-01 | 
+Ord. | 12-3-2007 | Parks amendment | Ch. 109 | 
+Ord. | 12-3-2007 | Peddling and soliciting amendment | Ch. 112 | 
+Ord. | 12-3-2007 | Railroads amendment | Ch. 123 | 
+Ord. | 12-3-2007 | Skates, skating and bicycling amendment | Ch. 140 | 
+Ord. | 12-3-2007 | Abandoned vehicles amendment | Ch. 163 | 
+Ord. | 12-3-2007 | Traffic signs and signals amendment | Ch. 167, Art. IV | 
+Ord. | 12-3-2007 | Towing of illegally parked vehicles amendment | Ch. 167, Art. V | 
+Ord. | 12-3-2007 | Parking amendment | Ch. 167, Art. VII | 
+Ord. | 12-3-2007 | One-way streets amendment | Ch. 167, Art. VIII | 
+Ord. | 12-3-2007 | Off-highway vehicles amendment | Ch. 172 | 
+Ord. | 12-3-2007 | Land annexation | Ch. A194 | 
+Ord. | 9-8-2008 | Commercial and industrial grass cutting fees | Ch. 119, Art. III | 
+Ord. | 9-8-2008 | Fees for heavy equipment usage | Ch. 68, Art. I | 
+Ord. | 11-3-2008 | Elections: absentee voters | Ch. 6, Art. I | 
+Ord. No. 09-03-01 | 5-4-2009 | Subdivision of land amendment (source water protection area
+standards) | See Ch. 150 | 
+Ord. No. 09-05-01 | 6-1-2009 | Administration of License and Inspection Department | Ch. 40 | 
+Ord. No. 09-05-02 | 6-1-2009 | Building construction | Repealed by Ord. No. 14-08-01 | 
+Ord. No. 09-05-03 | 6-1-2009 | Residential code | Ch. 42 | 
+Ord. No. 09-05-04 | 6-1-2009 | Mechanical standards | Repealed by Ord. No. 14-08-01 | 
+Ord. No. 09-05-05 | 6-1-2009 | Plumbing | Repealed by Ord. No. 14-08-01 | 
+Ord. No. 09-05-06 | 6-1-2009 | Fuel gas code | Repealed by Ord. No. 14-08-01 | 
+Ord. No. 09-05-07 | 6-1-2009 | Existing buildings | Repealed by Ord. No. 14-08-01 | 
+Ord. No. 09-05-08 | 6-1-2009 | Energy code | Repealed by Ord. No. 14-08-01 | 
+Ord. No. 09-05-09 | 6-1-2009 | Adoption of Property Maintenance Code | Repealed by Ord. No. 14-08-01 | 
+Ord. No. 09-05-10 | 6-1-2009 | Rental properties | Ch. 120 | 
+Ord. No. 09-05-11 | 6-1-2009 |  | Tabled | 
+Ord. No. 09-05-12 | 6-1-2009 | Zoning Map amendment | NCM | 
+ | 12-7-2009 | Abandoned vehicles amendment | Ch. 163 | 
+ | 12-7-2009 | Recreational equipment | Ch. 103 | 
+ | 12-7-2009 | Alarms | Repealed by Ord. No. 16-03-02 | 
+ | 12-7-2009 | Portable storage units | Ch. 118 | 
+Ord. No. 09-12-01 | 1-4-2010 | Commercial vehicles amendment | Ch. 167, Art. III | 
+Ord. No. 10-01-01 | 2-1-2010 | Sewers amendment | Ch. 136, Arts. I, II, III, IV, V, and VI | 
+ | 4-5-2010 | Comprehensive Plan amendment | NCM | 
+ | 5-3-2010 | Land annexation | Ch. A194 | 
+ | 5-3-2010 | Land annexation | Ch. A194 | 
+Ord. No. 10-05-01 | 6-7-2010 | Grass cutting and cleanup of residential property amendment | Ch. 119, Art. II | 
+Ord. No. 10-05-02 | 6-7-2010 | Rental properties amendment | Ch. 120 | 
+Ord. No. 10-06-01 | 7-12-2010 | International codes amendment | Ch. 42 | 
+Ord. No. 10-07-01 | 8-2-2010 | Water: delayed payment penalty amendment | Ch. 176, Art. II | 
+Ord. No. 10-07-02 | 8-2-2010 | Sewer rates and fees amendment | Ch. 136, Art.VI | 
+Ord. No. 10-10-01 | 11-1-2010 | Business licenses amendment | Ch. 45 | 
+ | 3-14-2011 | Land annexation amendment | Ch. A194 | 
+Ord. No. 11-04-01 | 5-2-2011 | Solid waste | Ch. 142 | 
+Ord. No. 11-10-01 | 11-7-2011 | Zoning Map amendment | NCM | 
+Ord. No. 11-10-02 | 11-7-2011 | Comprehensive Plan amendment | NCM | 
+Ord. No. 12-03-01 | 4-2-2012 | Administration of Licensing and Inspection Department amendment | Ch. 40 | 
+Ord. No. 12-04-01 | 5-7-2012 | Zoning Map amendment | NCM | 
+Ord. No. 12-07-01 | 8-6-2012 | Annexation | Ch. A194 | 
+Ord. No. 12-08-01 | 9-10-2012 | Comprehensive Plan amendment | NCM | 
+Ord. No. 13-03-01 | 4-1-2013 | Administration of Licensing and Inspection Department amendment | Ch. 40 | 
+Ord. No. 13-07-01 | 8-5-2013 | Gas distribution franchise: Chesapeake Utilities Corporation | Ch. A192, Art. I | 
+Ord. No. 13-11-01 | 2-3-2014 | Zoning Map amendment | NCM | 
+Ord. No. 13-12-01 | 2-3-2014 | Comprehensive Plan amendment | NCM | 
+Ord. No. 14-02-01 | 3-10-2014 | Water: cross-connections and backflow prevention | Ch. 176, Art. III | 
+Ord. No. 14-04-01 | 5-5-2014 | Rental properties amendment | Ch. 120 | 
+Ord. No. 14-04-02 | 5-5-2014 | Sewer plan submission amendment | Ch. 136, Art. IV | 
+Ord. No. 14-08-01 | 9-8-2014 | International codes amendment | Ch. 40; Ch. 41; Ch. 42; Ch. 43; Ch. 44; Ch. 96; Ch. 115; Ch. 116; Ch. 119, Art. I | 
+Ord. No. 14-11-01 | 12-1-2014 | Enforcement of Town obligations | Ch. 1, Art. II | 
+Ord. No. 14-12-01 | 1-5-2015 | Flood damage prevention | Ch. 78 | 
+Ord. No. 15-03-01 | 4-6-2015 | Administration of Licensing and Inspection Department amendment | Ch. 40 | 
+Ord. No. 15-08-01 | 9-14-2015 | Obstructions: trees; shrubbery; bushes; vines; plants amendment | Ch. 104, Art. II | 
+Ord. No. 16-03-01 | 5-2-2016 | Parking | Ch. 108 | 
+Ord. No. 16-03-02 | 5-2-2016 | Alarms | Ch. 93 | 
+Ord. No. 16-05-01 | 6-6-2016 | Abandoned vehicles amendment | Ch. 163 | 
+Ord. No. 16-09-01 | 10-3-2016 | Comprehensive Plan amendment | NCM | 
+Ord. No. 16-11-01 | 12-5-2016 | Sanitary standards amendment | Ch. 132 | 
+Ord. No. 16-11-02 | 12-5-2016 | Solid waste amendment | Ch. 142 | 
+Ord. No. 16-11-03 | 12-5-2016 | Residential code amendment | Ch. 42 | 
+Ord. No. 16-11-05 | 12-5-2016 | Comprehensive Plan amendment | NCM | 
+Ord. No. 16-12-01 | 1-9-2017 | Comprehensive Plan amendment | NCM | 
+Ord. No. 16-12-02 | 1-9-2017 | Residential code amendment | Ch. 42 | 
+Ord. No. 17-03-01 | 6-5-2017 | Land Annexations Amendment | Ch. A194 | 
+Ord. No. 17-07-01 | 8-7-2017 | Noise Amendment | Ch. 100 | 
+Ord. No. 17-08-01 | 9-11-2017 | Water: Water Rates Amendment | Ch. 176, Art. I | 
+Ord. No. 17-09-01 | 10-2-2017 | Zoning Amendment | NCM | 
+
+

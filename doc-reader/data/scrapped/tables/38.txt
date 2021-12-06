@@ -1,0 +1,1115 @@
+i      tax abatements  exemptions  deferrals and incentive programs
+https://ecode360.com/16063146
+0.4575416358064609
+Year 1 | 5% of the deferred assessment will be assessed in addition to
+the base assessment. | 
+Year 2 | 5% of the deferred assessment will be assessed in addition to
+the base assessment. | 
+Year 3 | 10% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 4 | 15% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 5 | 30% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 6 | 30% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 7 | 50% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 8 | 75% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 9 | 85% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 10 | 85% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+
+
+i      tax abatements  exemptions  deferrals and incentive programs
+https://ecode360.com/16063146
+0.4575416358064609
+Year 1 | 5% of the deferred assessment will be assessed in addition to
+the base assessment. | 
+Year 2 | 5% of the deferred assessment will be assessed in addition to
+the base assessment. | 
+Year 3 | 10% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 4 | 15% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 5 | 30% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 6 | 30% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 7 | 50% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 8 | 75% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 9 | 85% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 10 | 85% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+
+
+i      tax abatements  exemptions  deferrals and incentive programs
+https://ecode360.com/16063146
+0.4575416358064609
+Year 1 | 5% of the deferred assessment will be assessed in addition to
+the base assessment. | 
+Year 2 | 5% of the deferred assessment will be assessed in addition to
+the base assessment. | 
+Year 3 | 10% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 4 | 15% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 5 | 30% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 6 | 30% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 7 | 50% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 8 | 75% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 9 | 85% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+Year 10 | 85% of the deferred assessment will be assessed in addition
+to the base assessment. | 
+
+
+enterprise zone
+https://ecode360.com/8364279
+0.4374805956844885
+ | First | 100% | 
+ | Second | 100% | 
+ | Third | 50% | 
+ | Fourth | 40% | 
+ | Fifth | 30% | 
+ | Sixth | 20% | 
+ | Seventh | 10% | 
+
+
+elections
+https://ecode360.com/8363328
+0.3950474184041227
+Middlefield Town Line at Connecticut State Highway 66 (Washington
+Street) | 
+Connecticut State Highway 66 (Washington Street) to George Street | 
+George Street to Boston Road | 
+Boston Road to Beverly Heights | 
+Beverly Heights to Coginchaug River | 
+Coginchaug River to Villa Street | 
+Villa Street to Middlefield Street | 
+Middlefield Street to West Street | 
+West Street to Wadsworth Street | 
+Wadsworth Street to Pine Street | 
+Pine Street to Connecticut State Highway 155 (Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to Laurel Grove
+Road | 
+Laurel Grove Road to Wadsworth Street | 
+Wadsworth Street to Middlefield Town Line | 
+Middlefield Town Line to Connecticut State Highway 66 (Washington
+Street) | 
+
+
+elections
+https://ecode360.com/8363328
+0.379581738456603
+George Street at Boston Road to Connecticut State Highway Route
+66 (Washington Street) | 
+Connecticut State Highway Route 66 (Washington Street) to Camp
+Street | 
+Camp Street to Westfield Street | 
+Westfield Street to Newfield Street | 
+Newfield Street to Newfield Court | 
+Newfield Court to Walnut Grove Road | 
+Walnut Grove Road to Coginchaug River | 
+Coginchaug River to Newfield Street | 
+Newfield Street to Conrail railroad tracks | 
+Conrail railroad tracks to West Street | 
+West Street to Middlefield Street | 
+Middlefield Street to Villa Street | 
+Villa Street to Coginchaug River | 
+Coginchaug River to Beverly Heights | 
+Beverly Heights to Boston Road | 
+Boston Road to George Street | 
+
+
+elections
+https://ecode360.com/8363328
+0.3643272561960401
+Connecticut State Highway Route 66 (Washington Street) at Park
+Place | 
+Park Place to Berlin Street | 
+Berlin Street to Liberty Street | 
+Liberty Street to Newfield Street | 
+Newfield Street to Coginchaug River | 
+Coginchaug River to Mattabasset River | 
+Mattabasset River to Connecticut River | 
+Connecticut River to Sumner Brook | 
+Sumner Brook to Union Street | 
+Union Street to Main Street | 
+Main Street to Connecticut State Highway Route 66 (Washington
+Street) | 
+Connecticut State Highway Route 66 (Washington Street) to Park
+Place | 
+
+
+elections
+https://ecode360.com/8363328
+0.36021909650312073
+Westfield Street at Camp Street to Country Club Road | 
+Country Club Road to Higby Road | 
+Higby Road 1,000 feet south and then 90° west to Fall Brook | 
+Fall Brook to Country Club Road | 
+Country Club Road to Miner Street | 
+Miner Street to Smith Street | 
+Smith Street to Route 91 northbound | 
+Route 91 northbound to Miner Brook | 
+Miner Brook to Russett Lane | 
+Russett Lane to West Lake Drive | 
+West Lake Drive to East Street | 
+East Street to the Cromwell Town Line | 
+Cromwell Town Line to intersection of the Cromwell, Berlin,
+Middletown Town Lines | 
+Berlin Town Line to Meriden Town Line | 
+Meriden Town Line south to Middlefield Town Line | 
+Middlefield Town Line to Washington Street | 
+Washington Street to Camp Street | 
+Camp Street to Westfield Street | 
+
+
+elections
+https://ecode360.com/8363328
+0.3532840844133576
+West Street at Wadsworth Street to the Conrail Railroad tracks | 
+Conrail Railroad tracks to Jackson Street | 
+Jackson Street to Connecticut State Highway 66 (Washington Street) | 
+Connecticut State Highway 66 (Washington Street) to Vine Street | 
+Vine Street (both sides) to Knowles Avenue | 
+Knowles Avenue to Cross Street | 
+Cross Street to Warren Street | 
+Warren Street to Pine Avenue | 
+Pine Avenue to Pine Street | 
+Pine Street to Miles Avenue | 
+Miles Avenue to Ravine Avenue | 
+Ravine Avenue to Home Avenue | 
+Home Avenue to Beach Street | 
+Beach Street to High Street | 
+High Street to Bretton Road | 
+Bretton Road to Pine Street | 
+Pine Street to Wadsworth Street | 
+
+
+water
+https://ecode360.com/8366546
+0.34928216479045077
+ | 5/8 | $10 | 
+ | 3/4 | $15 | 
+ | 1 | $20 | 
+ | 1 1/2 | 40 | 
+ | 2 and larger | $50 | 
+
+
+elections
+https://ecode360.com/8363328
+0.3468205755562879
+Westfield Street at Newfield Street to Ridgewood Road | 
+Ridgewood Road to Poplar Road | 
+Poplar Road to East Miner Brook | 
+East Miner Brook to Congdon Street | 
+Congdon Street to East Street | 
+East Street to Miner Street | 
+West 375 feet on Miner Street | 
+North to Glenwood Terrace at 475 feet from East Street | 
+Glenwood Terrace 475 feet east to East Street | 
+East Street to Ridgewood Road | 
+Ridgewood Road to Mile Lane | 
+Mile Lane to Newfield Street | 
+Newfield Street to Westfield Street | 
+
+
+water
+https://ecode360.com/8366546
+0.3380382176240794
+ | 1 and under | $150 | 
+ | 1 1/2 and 2 | $250 | 
+ | 6 and 8 | $300 | 
+ | Larger than 8 | Actual cost plus overhead | 
+
+
+iii      fire department
+https://ecode360.com/8363269
+0.33307939340580395
+ | I, the subscriber, hereby enlist in _____________
+Company No. _______ of said City and engage to perform the duties
+of a member of said company so long as I remain a member thereof,
+subject to all the regulations, bylaws and ordinances of said City,
+including Fire Department regulations, and all bylaws adopted by said
+company. | 
+ | Dated at Middletown, Connecticut this _______
+day of _____________, ____. | 
+
+
+elections
+https://ecode360.com/8363328
+0.31472923411179543
+Westfield Street at Ridgewood Road to Country Club Road | 
+Country Club Road to Higby Road | 
+Higby Road 1,000 feet south and then 90° west to Fall Brook | 
+Fall Brook to Country Club Road | 
+Country Club Road to Miner Street | 
+Miner Street to Smith Street | 
+Smith Street to Route 91 northbound | 
+Route 91 northbound to Miner Brook | 
+Miner Brook to Russett Lane | 
+Russett Lane to West Lake Drive | 
+West Lake Drive to East Street | 
+East Street to Glenwood Terrace | 
+475 feet west on Glenwood Terrace | 
+South to Miner Street 375 from East Street | 
+Miner Street 375 feet to East Street | 
+East Street to Congdon Street | 
+Congdon Street to East Miner Brook | 
+East Miner Brook to Poplar Road | 
+Poplar Road to Ridgewood Road | 
+Ridgewood Road to Westfield Street | 
+
+
+elections
+https://ecode360.com/8363328
+0.3097437189101507
+Millbrook Road at Durham Town Line to Lyceum Road | 
+Lyceum Road to Chamberlain Hill Road | 
+Chamberlain Hill Road to Chamberlain Road | 
+Chamberlain Road to Sumner Brook | 
+Sumner Brook to Connecticut State Highway 155 (Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to Connecticut
+DOT Access Road | 
+Connecticut DOT Access Road to Paddock Road | 
+Paddock Road to Connecticut State Highway 155 (Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to Saybrook Road | 
+Saybrook Road to Coe Avenue | 
+Coe Avenue to Reservoir Road | 
+Reservoir Road to Saybrook Road | 
+Saybrook Road to Route 9 | 
+Route 9 to Bow Lane | 
+Bow Lane to Reservoir Brook | 
+Reservoir Brook to Connecticut River | 
+Connecticut River to Haddam Town Line | 
+Haddam Town Line to Durham Town Line | 
+Durham Town Line to Millbrook Road | 
+
+
+housing standards
+https://ecode360.com/8364512
+0.3061581898283214
+ | 6 to 9 | $100 | 
+ | 10 to 19 | $125 | 
+ | 20 to 29 | $150 | 
+ | 30 to 39 | $175 | 
+ | 40 to 49 | $200 | 
+ | 50 to 59 | $250 | 
+ | 60 to 69 | $300 | 
+ | 70+ | $350 | 
+
+
+i      equal opportunity in employment
+https://ecode360.com/8363187
+0.3041887440637926
+ | The contractor agrees and warrants that in the
+performance of this contract he will not discriminate or permit discrimination
+against any person or group of persons on the grounds of race, color,
+religious creed, age, marital status, national origin, ancestry, sex
+(including pregnancy), transgender status, gender identity or expression,
+intellectual disability or physical disability, including, but not
+limited to, blindness, unless it is shown by such contractor that
+such disability prevents performance of the work involved, political
+belief, Vietnam Era Veteran status, union membership, genetic history,
+criminal record (unless the provisions of § 46a-60, 46a-80(b)
+or 46a-81 of the Connecticut General Statutes are controlling or there
+is a bona fide occupational qualification excluding persons in one
+of the protected groups), present or past history of mental or physical
+disability, or sexual orientation in any manner prohibited by the
+laws of the United States or of the State of Connecticut or the City
+of Middletown. The contractor also agrees to provide the Affirmative
+Action Officer of the City of Middletown with such information that
+may be requested concerning the employment practices and procedures
+of the contractor as related to the provisions of this section. | 
+
+
+elections
+https://ecode360.com/8363328
+0.28985644073786204
+Congdon Street at Newfield Street | 
+Congdon Street to the Coginchaug River | 
+Coginchaug River to Mattabasset River | 
+Mattabasset River to Cromwell Town Line | 
+Cromwell Town Line to East Street | 
+East Street to Ridgewood Road | 
+Ridgewood Road to Mile Lane | 
+Mile Lane to Newfield Street | 
+Newfield Street to Congdon Street | 
+
+
+water
+https://ecode360.com/8366546
+0.28924591067996996
+ | 5/8 | $75 | 
+ | 3/4 | $100 | 
+ | 1 | $125 | 
+ | Larger than 1 | Actual cost plus overhead | 
+
+
+elections
+https://ecode360.com/8363328
+0.28819273294667375
+High Street at Loveland to Beach Street | 
+Beach Street to Ravine Avenue | 
+Ravine Avenue to Miles Avenue | 
+Miles Avenue to Pine Street | 
+Pine Street to Fountain Avenue | 
+Fountain Avenue to Pine Avenue | 
+Pine Avenue to Warren Street | 
+Warren Street to Cross Street | 
+Cross Street to Knowles Avenue | 
+Knowles Avenue to Vine Street (both sides) | 
+Vine Street (both sides) to Connecticut State Highway Route
+66 (Washington Street) | 
+Connecticut State Highway Route 66 (Washington Street) to Jackson
+Street | 
+Jackson Street to Conrail Railroad | 
+Conrail Railroad to Berlin Street | 
+Berlin Street to Park Place | 
+Park Place to Connecticut State Highway Route 66 (Washington
+Street) | 
+Connecticut State Highway Route 66 (Washington Street) to Main
+Street | 
+Main Street to Crescent Street | 
+Crescent Street to Main Street Extension | 
+Main Street Extension to Route 9 Connector | 
+Route 9 Connector to Loveland Street | 
+Loveland Street to High Street | 
+High Street to Beach Street | 
+
+
+iv      demolition of buildings
+https://ecode360.com/8364216
+0.28729158021491374
+ | $50 to 1,000 | $30 | 
+ | Over $1,000 | $20 for each $1,000 or fraction thereof | 
+
+
+elections
+https://ecode360.com/8363328
+0.2524113215656507
+Middlefield Town Line at Wadsworth Street | 
+Wadsworth Street to Laurel Grove Road | 
+Laurel Grove Road to Connecticut State Highway Route 155 (Randolph
+Road) | 
+Connecticut State Highway Route 155 (Randolph Road) to Arbutus
+Street | 
+Arbutus Street to Durham Town Line | 
+Durham Town Line to Middlefield Town Line | 
+
+
+dl      disposition list
+https://ecode360.com/8366751
+0.23847171020220723
+06-19 |  |  | Referred to Committee | 77 | 
+07-19 | 8-5-2019 | Appropriation | NCM | 77 | 
+08-19 | 8-5-2019 | Boards, Committees and Commissions: Recreation and Senior Services
+Commission Amendment; Parks, Facilities and Recreational Areas Amendment | Ch. 14, Art. III; Ch. 214 | 77 | 
+09-19 | 8-5-2019 | General Provisions: Adoption of Code Amendment | Ch. 1, Art. II | 77 | 
+10-19 | 8-5-2019 | Taxation Amendment | Ch. 272 | 77 | 
+11-19 | 8-5-2019 | Elections Amendment | Ch. 36 | 77 | 
+12-19 | 10-7-2019 | Appropriation | NCM | 77 | 
+13-19 | 11-4-2019 | Taxation Amendment | Ch. 272 | 77 | 
+14-19 | 11-4-2019 | Taxation Amendment | Ch. 272 | 77 | 
+15-19 | 11-4-2019 | Appropriation | NCM | 77 | 
+16-19 | 12-2-2019 | Personnel Amendment | Ch. 74 | 78 | 
+01-20 | 2-3-2020 | Boards, Committees and Commissions: Complete Count Committee | Ch. 14, Art. XVII | 78 | 
+02-20 | 3-2-2020 | Boards, Committees and Commissions: Youth Services Amendment | Ch. 14, Art. IV | 78 | 
+03-20 |  | Parks, Facilities, and Recreational Areas Amendment | Tabled |  | 
+04-20 | 7-6-2020 | Boards, Committees and Commissions: Permanent Task Force on
+Anti-Racism | Ch. 14, Art. XX | 78 | 
+05-20 | 9-2-2020 | Appropriation | NCM | 79 | 
+06-20 | 12-17-2020 | Boards, Committees and Commissions: Committee Concerning People
+with Disabilities | Ch. 14, Art. XXI | 79 | 
+01-21 | 2-1-2021 | Boards, Committees and Commissions: LGBTQ+ Advisory Committee
+Amendment | Ch. 14, Art. XIX | 79 | 
+02-21 | 2-1-2021 | Appropriation | NCM | 79 | 
+03-21 | 4-5-2021 | Taxation Amendment | Ch. 272 | 79 | 
+04-21 | 4-5-2021 | Solid Waste Amendment | Ch. 253 | 79 | 
+05-21 | 5-3-2021 | Appropriation | NCM | 80 | 
+06-21 | 5-3-2021 | Appropriation | NCM | 80 | 
+07-21 | 5-3-2021 | Boards, Committees and Commissions: Building Committees Amendment | Ch. 14, Art. VI | 80 | 
+
+
+elections
+https://ecode360.com/8363328
+0.2133352878743996
+Walnut Grove Road at Newfield Court | 
+Newfield Court to Newfield Street | 
+Newfield Street to Congdon Street | 
+Congdon Street to Coginchaug River | 
+Coginchaug River to Walnut Grove Road | 
+Walnut Grove Road to Newfield Court | 
+
+
+officers and employees
+https://ecode360.com/8363561
+0.20259003130352923
+ | "You (name) solemnly swear that you will faithfully discharge, according
+to law, your duties as (name of office) of the City of Middletown to the best
+of your ability; so help you God." Or: "You (name) solemnly and sincerely
+affirm and declare that you will faithfully discharge, according to law, your
+duties as (name of office) of the City of Middletown to the best of your ability;
+upon the pains and penalties of perjury or false statement." | 
+
+
+hazardous waste
+https://ecode360.com/8364474
+0.18045665320420345
+Berlin Street | Entire | 
+Bow Lane | From Eastern Drive to Bartholomew Road | 
+Brooks Road | Toll Gate to Maromas Road | 
+Cedar Lane | Entire | 
+Church Street (new) | High Street to Pine Street | 
+Country Club Road | From Higby Road to East Street | 
+Crescent Street | From South Main St. to Main St. Ext. | 
+Cross Street (new) | Pine Street to Long Lane Road | 
+Daniels Street | Entire | 
+deKoven Drive (new) | Entire | 
+Eastern Drive | Entire | 
+East Main Street | From Maple Street to Union Street | 
+Farm Hill Road | From Newtown Street to Russell Street | 
+Higby Road | Entire | 
+High Street (new) | Church Street to Washington Street | 
+Hunting Hill Avenue | From Newtown Street to Russell Street | 
+Laurel Grove Road | From Daniels Street to Randolph Road | 
+Livingston Road | Entire | 
+Long Lane | From Wadsworth Street to Cross Street | 
+Main Street Ext. | From Union Street to Route 17 connector | 
+Maynard Street | Entire | 
+Newtown Street | From Farm Hill Road to Ridge Road | 
+Pease Avenue (new) | From Spring Street to Stack Street | 
+Randolph Road (new) | Laurel Grove to Long Hill Road | 
+Reservoir Road | From Training Hill Road easterly to end | 
+Ridge Road (new) | From Russell Street to Newtown Street | 
+River Road | Entire | 
+Russell Street | Farm Hill to Ridge Road | 
+Silver Street | From Eastern Drive to River Road | 
+Spring Street (new) | From High Street to Pease Avenue | 
+Tiger Lane | Entire | 
+Training Hill Road | Entire | 
+Union Street (new) | From Main Street to River Road | 
+Wadsworth Street | Long Lane to Laurel Grove Road | 
+Walnut Street (new) | Maple to River Road | 
+Wesleyan Hills Road | Entire | 
+Westfield Street | From Old Mill to Military Road | 
+West Street | From Wadsworth Street to Butternut Street | 
+
+
+water
+https://ecode360.com/8366546
+0.17348770327425628
+ | 5/8 | Disc or piston | 1 | $1,000 | 
+ | 3/4 | Disc or piston | 1.5 | $1,500 | 
+ | 1 | Disc or piston | 2.5 | $2,500 | 
+ | 1 1/2 | Disc or piston | 6.0 | $6,000 | 
+ | 2 | Disc or piston | 10.5 | $10,500 | 
+ | 3 | Turbine | 23.5 | $23,500 | 
+ | 4 | Turbine | 42.0 | $42,000 | 
+ | 6 | Turbine | 94.0 | $94,000 | 
+
+
+water
+https://ecode360.com/8366546
+0.17348770327425628
+ | 5/8 | Disc or piston | 1 | $250 | 
+ | 3/4 | Disc or piston | 1.5 | $375 | 
+ | 1 | Disc or piston | 2.5 | $675 | 
+ | 1 1/2 | Disc or piston | 6.0 | $1,500 | 
+ | 2 | Disc or piston | 10.5 | $2,625 | 
+ | 3 | Turbine | 23.5 | $5,875 | 
+ | 4 | Turbine | 42.0 | $10,500 | 
+ | 6 | Turbine | 94.0 | $23,500 | 
+
+
+elections
+https://ecode360.com/8363328
+0.16800361814540404
+Connecticut State Highway 155 (Randolph Road) at East Ridge
+Road to Ridge Road | 
+Ridge Road to Hobson Street | 
+Hobson Street to Murray Street | 
+Murray Street to Connecticut State Highway 155 (Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to Farm Hill Road | 
+Farm Hill Road to Newtown Street | 
+Newtown Street to Hunting Hill Avenue | 
+Hunting Hill Avenue to Russell Street | 
+Russell Street to Farm Hill Road | 
+Farm Hill Road to Norfolk Street | 
+Norfolk Street to South Main Street | 
+South Main Street to Ward Street | 
+Ward Street to Lakeside Avenue | 
+Lakeside Avenue to Austin Street | 
+Austin Street to Highland Avenue | 
+Highland Avenue to High Street | 
+High Street to Loveland Street | 
+Loveland Street to Route 9 Connector | 
+Route 9 Connector to Main Street Extension | 
+Main Street Extension to Union Street | 
+Union Street to Connecticut River | 
+Connecticut River to Reservoir Brook | 
+Reservoir Brook to Bow Lane | 
+Bow Lane to Route 9 | 
+Route 9 to Saybrook Road | 
+Saybrook Road to Clew Drive | 
+Clew Drive to Hillside Avenue | 
+Hillside Avenue to Russell Street | 
+Russell Street to Fowler Avenue | 
+Fowler Avenue to Deerfield Avenue | 
+Deerfield Avenue to East Ridge Road | 
+East Ridge Road to Connecticut State Highway 155 (Randolph Road) | 
+
+
+sewers
+https://ecode360.com/8365430
+0.09399440721718876
+ | 5/8 | Disc or piston | 1 | $1,750 | 
+ | 3/4 | Disc or piston | 1.5 | $2,625 | 
+ | 1 | Disc or piston | 2.5 | $4,375 | 
+ | 1 1/2 | Disc or piston | 6.0 | $10,500 | 
+ | 2 | Disc or piston | 10.5 | $18,375 | 
+ | 3 | Turbine | 23.5 | $41,125 | 
+ | 4 | Turbine | 42.0 | $73,500 | 
+ | 6 | Turbine | 94.0 | $164,500 | 
+
+
+sewers
+https://ecode360.com/8365430
+0.09399440721718876
+ | 5/8 | Disc or piston | 1 | $750 | 
+ | 3/4 | Disc or piston | 1.5 | $1,125 | 
+ | 1 | Disc or piston | 2.5 | $1,875 | 
+ | 1 1/2 | Disc or piston | 6.0 | $4,500 | 
+ | 2 | Disc or piston | 10.5 | $7,875 | 
+ | 3 | Turbine | 23.5 | $17,625 | 
+ | 4 | Turbine | 42.0 | $31,500 | 
+ | 6 | Turbine | 94.0 | $70,500 | 
+
+
+elections
+https://ecode360.com/8363328
+0.04104908254470402
+Durham Town Line at Arbutus Street | 
+Arbutus Street to Connecticut State Highway 155 (Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to Pine Street | 
+Pine Street to Bretton Road | 
+Bretton Road to Highland Avenue | 
+Highland Avenue to Austin Street | 
+Austin Street to Lakeside Avenue | 
+Lakeside Avenue to Ward Street | 
+Ward Street to Connecticut State Highway Route 17 (South Main
+Street) | 
+Connecticut State Highway Route 17 (South Main Street) to Norfolk
+Street | 
+Norfolk Street to Farm Hill Road | 
+Farm Hill Road to Russell Street | 
+Russell Street to Hunting Hill Avenue | 
+Hunting Hill Avenue to Newtown Street | 
+Newtown Street to Farm Hill Road | 
+Farm Hill Road to Connecticut State Highway 155 (Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to Murray Street | 
+Murray Street to Hobson Street | 
+Hobson Street to Ridge Road | 
+Ridge Road to Connecticut State Highway 155 (Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to East Ridge
+Road | 
+East Ridge Road to Deerfield Avenue | 
+Deerfield Avenue to Fowler Avenue | 
+Fowler Avenue to Russell Street | 
+Russell Street to Hillside Avenue | 
+Hillside Avenue to Clew Drive | 
+Clew Drive to Saybrook Road | 
+Saybrook Road to Reservoir Road | 
+Reservoir Road to Coe Avenue | 
+Coe Avenue to Saybrook Road | 
+Saybrook Road to Connecticut State Highway 155 (Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to Paddock Road | 
+Paddock Road to Connecticut DOT Access Road | 
+Connecticut DOT Access Road to Connecticut State Highway 155
+(Randolph Road) | 
+Connecticut State Highway 155 (Randolph Road) to Summer Brook | 
+Summer Brook to Chamberlain Road | 
+Chamberlain Road to Chamberlain Hill Road | 
+Chamberlain Hill Road to Lyceum Road | 
+Lyceum Road to Millbrook Road | 
+Millbrook Road to Durham Town Line | 
+Durham Town Line to Arbutus Street | 
+
+
+dl      disposition list
+https://ecode360.com/8366751
+-5.276238863937999
+ | 11-13-2002 | Water Pollution Control Authority amendment | Ch. 9, Art. I | 
+ | 12-2-2002 | Commission on Human Relations; Walter C. Jones
+Fund Committee; Senior Services Commission; Youth Services Commission;
+Commission on the Arts | Ch. 14, Arts. I through V | 
+ | 12-2-2002 | Financial procedures; funds; investment policy;
+purchasing | Chs. 44; 47; 58 and 78 | 
+Ord. No. 01-03 | 1-6-2003 | Adoption of Code | Ch. 1, Art. II | 
+ | 2-3-2003 | Fair housing amendment | Ch. 156 | 
+ | 2-3-2003 | Streets, sidewalks and parking areas amendment | Ch. 262 | 
+ | 2-3-2003 | Contracts: equal opportunity in employment amendment | Ch. 26, Art. I | 
+ | 2-3-2003 | Contracts: tradesmen and laborers amendment | Ch. 26, Art. II | 
+ | 2-3-2003 | Personnel amendment | Ch. 74 | 
+ | 2-3-2003 | Personnel amendment | Ch. 74 | 
+ | 3-3-2003 | Personnel amendment | Ch. 74 | 
+ | 5-5-2003 | Commission on the Arts Program and Activity
+Fund | Ch. 47, Art. XIV | 
+ | 7-7-2003 | Legal Department amendment | Ch. 31, Art. IV | 
+ | 8-4-2003 | Legal Department amendment | Ch. 31, Art. IV | 
+ | 8-4-2003 | Solid waste collection rates amendment | Ch. 253 | 
+ | 9-2-2003 | Taxation amendment | Ch. 272 | 
+ | 10-6-2003 | Sanitation Commission | Ch. 14, Art. XII | 
+ | 10-6-2003 | Solid waste amendment | Ch. 253 | 
+ | 10-6-2003 | Parking lots and meters amendment | Ch. 285 | 
+ | 10-6-2003 | Stopping, standing or parking amendment | Ch. 285 | 
+ | 11-3-2003 | Newsracks | Ch. 262, Art. II | 
+ | 11-3-2003 | Vehicles and traffic amendment | Ch. 285 | 
+01-04 | 2-2-2004 | Personnel amendment | Ch. 74 | 
+02-04 | 3-1-2004 | Department of Technology Services | Ch. 31, Art. VII | 
+03-04 | 3-1-2004 | Alcohol possession by minors | Ch. 199, Art. II | 
+04-04 | 4-5-2004 | Alcohol possession by minors | Ch. 199, Art. II | 
+02-04 -- 07-04 | 5-3-2004 | Department of Technology Services | Ch. 31, Art. VII | 
+08-04 | 5-3-2004 | Loitering and trespassing amendment (panhandling) | Ch. 192 | 
+09-04 | 5-3-2004 | Loitering and trespassing amendment | Ch. 192 | 
+10-04 | 6-7-2004 | Departments amendment | Ch. 31 | 
+11-04 | 6-7-2004 | Personnel amendment | Ch. 74 | 
+12-04 | 8-2-2004 | Department of Finance and Revenue Services | Ch. 31, Art. IX | 
+13-04 | 11-1-2004 | Parking lots and meters amendment | Ch. 285 | 
+14-04 | 11-1-2004 | Motor scooters, minibikes, pocket bikes | Ch. 285 | 
+01-05 | 1-3-2005 | Repeal of Youth Services Commission | Ch. 14, Art. IV | 
+02-05 | 3-7-2005 | Housing standards amendment | Ch. 178 | 
+03-05 | 3-7-2005 | Solid waste amendment | Ch. 253 | 
+04-05 |  | Bond | NCM | 
+05-05 | 5-2-2005 | Personnel amendment | Ch. 74 | 
+06-05 | 8-1-2005 | Bond | NCM | 
+07-05 | 8-1-2005 | Parks and recreation areas amendment | Superseded by Ord. No. 28-13 | 
+08-05 | 8-1-2005 | Harbor management | Superseded by Ord. No. 28-13 | 
+09-05 | 11-7-2005 | Common Council amendment | Ch. 23 | 
+10-05 | 12-5-2005 | Building committees amendment | Ch. 14, Art. VI | 
+01-06 | 1-3-2006 | Aquifer Protection Agency | Ch. 5, Art. V | 
+02-06 |  |  | Tabled | 
+03-06 | 1-3-2006 | Juvenile Review Board | Ch. 14, Art. XIII | 
+04-06 | 2-6-2006 | Housing standards amendment | Ch. 178 | 
+05-06 | 2-6-2006 | Building construction amendment | Ch. 120 | 
+06-06 | 2-16-2006 | Community Center Campaign Fund | Repealed by Ord. No. 06-11 | 
+07-06 |  |  | NCM | 
+08-06 |  |  | NCM | 
+09-06 |  |  | NCM | 
+10-06 | 5-1-2006 | Commission on the Arts amendment | Ch. 14, Art. V | 
+11-06 | 7-3-2006 | Departments: Mayor's office | Vetoed by Mayor | 
+12-06 | 7-3-2006 | Personnel amendment | Vetoed by Mayor | 
+13-06 | 7-3-2006 | Personnel amendment | Ch. 74 | 
+14-06 | 7-3-2006 | Building construction amendment | Ch. 120 | 
+15-06 | 7-3-2006 | Fire prevention amendment | Ch. 161 | 
+16-06 | 7-3-2006 | Fire prevention amendment | Ch. 161 | 
+17-06 | 7-3-2006 | Solid waste amendment | Ch. 253 | 
+18-06 | 8-7-2006 | Personnel amendment | Ch. 74 | 
+19-06 |  | Bond | NCM | 
+20-06 |  | Bond | NCM | 
+21-06 |  | Bond | NCM | 
+22-06 |  | Bond | NCM | 
+23-06 |  | Bond | NCM | 
+24-06 | 10-2-2006 | Vehicles and traffic amendment | Ch. 285 | 
+25-06 | 11-6-2006 | Funds: Commission on the Arts Program and Activity
+Fund amendment | Ch. 47, Art. XIV | 
+26-06 | 12-4-2006 | Personnel: residency requirements amendment | Ch. 47, Art. III | 
+01-07 |  |  | NCM | 
+02-07 | 3-5-2007 | Building Committees amendment | Ch. 14, Art. VI | 
+03-07 | 2-5-2007 | Fire prevention amendment | Ch. 161 | 
+04-07 | 4-2-2007 | Fire prevention amendment | Ch. 161 | 
+05-07 | 5-7-2007 | Streets, sidewalks and parking areas: newsracks
+amendment | Ch. 262, Art. II | 
+06-07 | 5-7-2007 | Vehicles and traffic amendment | Ch. 285 | 
+07-07 | 5-7-2007 | Vehicles and traffic amendment | Ch. 285 | 
+08-07 | 5-7-2007 | Streets, sidewalks and parking areas: general
+provisions amendment | Ch. 262, Art. I | 
+09-07 | 5-7-2007 | Streets, sidewalks and parking areas: general
+provisions amendment | Ch. 262, Art. I | 
+10-07 | 5-7-2007 | Vehicles and traffic amendment | Ch. 285 | 
+11-07 | 6-4-2007 | Vehicles and traffic amendment | Ch. 285 | 
+12-07 | 7-2-2007 | Water | Ch. 292 | 
+13-07 | 7-2-2007 | Sanitary sewer system | Ch. 248 | 
+14-07 |  |  | Number not used | 
+15-07 |  | Bond | NCM | 
+16-07 | 8-6-2007 | Youth services amendment | Ch. 14, Art. IV | 
+17-07 | 9-4-2007 | Appropriation and bond authorization | NCM | 
+18-07 | 9-4-2007 | Appropriation and bond authorization | NCM | 
+19-07 | 9-4-2007 | Purchasing amendment | Ch. 78 | 
+20-07 | 9-4-2007 | Purchasing amendment | Ch. 78 | 
+21-07 | 9-4-2007 | Purchasing amendment | Ch. 78 | 
+22-07 | 9-4-2007 | Purchasing amendment | Ch. 78 | 
+23-07 | 9-4-2007 | Contracts: tradesworkers and laborers amendment | Ch. 26, Art. II | 
+24-07 | 9-4-2007 | Records Management Commission | Ch. 14, Art. XIV | 
+25-07 | 9-4-2007 | Purchasing amendment | Ch. 78 | 
+25-07A | 10-1-2007 | Sale of public property | Ch. 232, Art. I | 
+26-07 | 10-1-2007 | Purchasing amendment | Ch. 78 | 
+27-07 | 10-1-2007 | Purchasing amendment | Ch. 78 | 
+28-07 | 10-1-2007 | Purchasing amendment | Ch. 78 | 
+29-07 | 10-1-2007 | Purchasing amendment | Ch. 78 | 
+30-07 | 10-1-2007 | Purchasing amendment | Ch. 78 | 
+31-07 | 10-1-2007 | Purchasing amendment | Ch. 78 | 
+32-07 | 11-5-2007 | Ethics amendment | Ch. 40 | 
+33-07 | 11-5-2007 | Recreation activity fees amendment | Superseded by Ord. No. 28-13 | 
+34-07 | 11-5-2007 | Vehicles and traffic amendment | Ch. 285 | 
+35-07 | 12-3-2007 | Community Center Campaign Fund amendment | Ch. 47, Art. XV | 
+01-08 | 1-7-2008 | Walter C. Jones Fund Committee amendment | Ch. 14, Art. II | 
+02-08 | 1-7-2008 | Youth services amendment | Ch. 14, Art. IV | 
+03-08 | 3-3-2008 | Youth services amendment | Ch. 14, Art. IV | 
+04-08 | 3-3-2008 | Bond | NCM | 
+05-08 | 3-3-2008 | Bond | NCM | 
+06-08 | 4-7-2008 | Youth services amendment | Ch. 14, Art. IV | 
+07-08 | 4-7-2008 | Youth services amendment | Ch. 14, Art. IV | 
+08-08 | 6-2-2008 | Housing standards: enforcement; fines for Housing
+Code violations | Ch. 178, Art. II | 
+09-08 | 8-4-2008 | Appropriation amendment | NCM | 
+10-08 | 9-2-2008 | Appropriation | NCM | 
+11-08 | 11-3-2008 | Common Council amendment | Ch. 23 | 
+12-08 | 11-3-2008 | Taxation amendment | Ch. 272 | 
+ | 11-4-2008 | Charter amendments | Charter | 
+13-08 | 12-1-2008 | Solid waste amendment | Ch. 253 | 
+01-09 |  |  | Pending adoption | 
+02-09 | 1-5-2009 | Common Council amendment | Ch. 23 | 
+03-09 | 2-2-2009 | Temporary committees and task forces | Ch. 14, Art. XVI | 
+04-09 | 2-2-2009 | Common Council amendment | Ch. 23 | 
+05-09 | 3-2-2009 | Legal Department amendment | Ch. 31, Art. IV | 
+06-09 | 3-2-2009 | Personnel amendment | Ch. 74 | 
+07-09 | 3-2-2009 | Personnel amendment | Vetoed by the Mayor | 
+08-09 | 3-16-2009 | Personnel amendment | Ch. 74 | 
+09-09 | 4-6-2009 | Parking Department | First vote; see Ord. No. 09-36 | 
+10-09 | 4-6-2009 | Parking Fund | Ch. 47, Art. XVI | 
+11-09 | 4-6-2009 | Police Department amendment | First vote; see Ord. No. 09-35 | 
+12-09 | 4-6-2009 | Parking Authority Commission repealer | Ch. 14, Art. IX, footnote only | 
+13-09 | 4-6-2009 | Personnel amendment | Ch. 74 | 
+14-09 |  |  | Not adopted | 
+15-09 |  |  | Not adopted | 
+16-09 | 5-4-2009 | Commission on the Arts amendment | Ch. 14, Art. V | 
+17-09 | 5-4-2009 | Common Council amendment | Ch. 23 | 
+18-09 | 5-4-2009 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+19-09 | 5-4-2009 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+20-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+21-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+22-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+23-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+24-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+25-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+26-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+27-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+28-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+29-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+30-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+31-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+32-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+33-09 | 6-1-2009 | Authorization of lease financing | NCM | 
+34-09 |  |  | Not adopted | 
+35-09 |  |  | Not adopted | 
+36-09 |  |  | Not adopted | 
+37-09 | 6-22-2009 | Parking Authority Commission repealer | Ch. 14, Art. IX, footnote only | 
+38-09 | 6-22-2009 | Police Department amendment | Ch. 31, Art. II | 
+39-09 | 6-22-2009 | Parking Department | Ch. 31, Art. IX | 
+40-09 | 7-6-2009 | Clean Energy Task Force | Ch. 14, Art. XV | 
+41-09 | 7-6-2009 | Solid waste amendment | Ch. 253 | 
+42-09 |  |  | Not adopted | 
+43-09 | 9-8-2009 | Bond | NCM | 
+44-09 | 9-8-2009 | Building construction amendment | Ch. 120 | 
+45-09 | 9-8-2009 | Building construction amendment | Ch. 120, footnote only | 
+46-09 | 10-5-2009 | Taxation amendment | Ch. 272 | 
+47-09 | 10-5-2009 | Building construction amendment | Ch. 120 | 
+48-09 |  |  | Not adopted | 
+49-09 |  |  | Not adopted | 
+50-09 |  |  | Not adopted | 
+ | 11-3-2009 | Charter amendment | Charter | 
+01-10 | 1-4-2010 | Personnel amendment | Ch. 74 | 
+02-10 |  |  | Referred to Commission | 
+03-10 |  |  | Referred to Commission | 
+04-10 |  |  | Referred to Commission | 
+05-10 |  |  | Referred to Commission | 
+06-10 |  |  | Referred to Commission | 
+07-10 | 2-1-2010 | Parks and recreation areas: Crystal Lake amendment | Superseded by Ord. No. 28-13 | 
+08-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+09-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+10-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+11-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+12-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+13-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+14-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+15-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+16-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+17-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+18-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+19-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+20-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+21-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+22-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+23-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+24-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+25-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+26-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+27-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+28-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+29-10 | 2-1-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+30-10 | 2-1-2010 | Parks and recreation areas: law enforcement | Superseded by Ord. No. 28-13 | 
+31-10 | 2-1-2010 | Parks and recreation areas: curfews | Superseded by Ord. No. 28-13 | 
+32-10 | 2-1-2010 | Parks and recreation areas: closures and cancellations | Superseded by Ord. No. 28-13 | 
+33-10 |  |  | Referred to Commission | 
+34-10 | 2-1-2010 | Streets, sidewalks and parking areas: general
+provisions amendment | Ch. 262, Art. I | 
+35-10 | 2-1-2010 | Boards, committees and commissions: Walter C. Jones Fund Committee
+amendment | Ch. 14, Art. II | 
+36-10 | 2-1-2010 | Common Council amendment | Ch. 23 | 
+37-10 | 3-1-2010 | Appropriation and bond authorization | NCM | 
+38-10 | 3-1-2010 | Appropriation and bond authorization | NCM | 
+39-10 | 3-1-2010 | Appropriation and bond authorization | NCM | 
+40-10 | 3-1-2010 | Appropriation and bond authorization | NCM | 
+41-10 | 3-9-2010 | Charles Bacon treatment plant | NCM | 
+42-10 | 3-11-2010 | Public safety software and hardware upgrades for IT | NCM | 
+43-10 | 3-11-2010 | Public safety software and hardware upgrades for IT | NCM | 
+44-10 | 4-5-2010 | Walter C. Jones Fund Committee amendment | Ch. 14, Art. II | 
+45-10 |  |  | Referred to Committee | 
+46-10 | 4-5-2010 | Open burning amendment | Ch. 126 | 
+47-10 | 4-5-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+48-10 | 4-5-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+49-10 | 4-5-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+50-10 | 4-5-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+51-10 | 4-5-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+52-10 | 4-5-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+53-10 | 4-5-2010 | Regulation of sexually oriented businesses | Ch. 223, Art. IV | 
+54-10 | 4-5-2010 | Taxation amendment | Ch. 272 | 
+55-10 | 6-7-2010 | Personnel Department amendment | Ch. 31, Art. V | 
+56-10 |  | Boards, committees and commissions: Middletown Bicycle/Complete
+Streets Advisory Committee | Referred to Committee | 
+57-10 | 6-7-2010 | Boards, committees and commissions: Resource Recycling Advisory
+Commission | Ch. 14, Art. XVIII | 
+58-10 | 6-7-2010 | Personnel amendment | Ch. 74 | 
+59-10 | 6-7-2010 | Food and food products amendment | Ch. 166 | 
+60-10 | 6-29-2010 | Appropriation | NCM | 
+61-10 | 6-29-2010 | Appropriation | NCM | 
+62-10 | 6-29-2010 | Appropriation | NCM | 
+63-10 | 6-29-2010 | Appropriation | NCM | 
+64-10 | 6-29-2010 | Appropriation | NCM | 
+65-10 | 6-29-2010 | Appropriation | NCM | 
+66-10 | 6-29-2010 | Appropriation | NCM | 
+67-10 | 6-29-2010 | Appropriation | NCM | 
+68-10 | 6-29-2010 | Appropriation | NCM | 
+69-10 | 6-29-2010 | Appropriation | NCM | 
+70-10 | 6-29-2010 | Appropriation | NCM | 
+71-10 | 6-29-2010 | Appropriation | NCM | 
+72-10 | 6-29-2010 | Appropriation | NCM | 
+73-10 | 6-29-2010 | Appropriation | NCM | 
+74-10 | 6-29-2010 | Appropriation | NCM | 
+75-10 | 6-29-2010 | Appropriation | NCM | 
+76-10 |  |  | Referred to Committee | 
+77-10 | 8-2-2010 | Building construction amendment | Ch. 120 | 
+78-10 | 9-7-2010 | Streets, sidewalks and parking areas: general
+provisions amendment | Ch. 262, Art. I | 
+79-10 | 9-7-2010 | Licenses and fees: rental of showmobile unit amendment | Ch. 188, Art. I | 
+80-10 |  | Vehicles and traffic amendment | Referred to Committee | 
+81-10 | 11-1-2010 | Appropriation | NCM | 
+82-10 | 11-1-2010 | Appropriation | NCM | 
+83-10 | 11-1-2010 | Appropriation repealer | NCM | 
+84-10 | 11-9-2010 | Appropriation | NCM | 
+85-10 | 12-6-2010 | Vehicles and traffic amendment | Ch. 285 | 
+86-10 | 12-6-2010 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+87-10 | 12-6-2010 | Commission on the Arts amendment | Ch. 14, Art. V | 
+01-11 |  | Bond | NCM | 
+02-11 |  | Bond | NCM | 
+03-11 | 3-7-2011 | Keeping of certain animals restricted amendment | Ch. 107, Art. I | 
+04-11 | 3-7-2011 | Personnel amendment | Ch. 74 | 
+05-11 | 5-2-2011 | Bond | NCM | 
+06-11 | 5-2-2011 | Middletown Senior Center Fund | Ch. 47, Art. XV | 
+07-11 | 6-6-2011 | Bond | NCM | 
+08-11 | 6-6-2011 | Sewers amendment | Ch. 248 | 
+09-11 | 6-6-2011 | Parks and recreation areas: general regulations amendment | Superseded by Ord. No. 28-13 | 
+10-11 | 6-20-2011 | Bond | NCM | 
+11-11 | 7-5-2011 | Purchasing amendment | Ch. 78 | 
+12-11 | 7-5-2011 | Solid waste amendment | Ch. 253 | 
+13-11 |  | Vehicles and traffic: parking lots and meters amendment | Referred to Committees | 
+14-11 | 7-14-2011 | Bond | NCM | 
+15-11 | 8-1-2011 | Vehicles and traffic amendment | Referred to Committee | 
+16-11 | 9-6-2011 | Bond | NCM | 
+17-11 | 9-6-2011 | Bond | NCM | 
+18-11 | 9-6-2011 | Bond | NCM | 
+19-11 | 9-6-2011 | Bond | NCM | 
+20-11 | 11-7-2011 | Department of Consumer Protection | Ch. 31, Art. X | 
+21-11 | 10-3-2011 | Middletown Fireworks Fund | Ch. 47, Art. XVII | 
+22-11 | 11-7-2011 | Department of Consumer Protection | Ch. 31, Art. X | 
+23-11 | 12-5-2011 | Vehicles and traffic amendment | Ch. 285 | 
+01-12 | 2-6-2012 | Bond ordinance amendment | NCM | 
+02-12 | 2-6-2012 | Middletown Senior Center Fund amendment | Ch. 47, Art. XV | 
+03-12 | 2-6-2012 | Taxation amendment | Ch. 272 | 
+04-12 | 2-9-2012 | Bond | NCM | 
+05-12 | 3-20-2012 | Elections: voting districts amendment | Ch. 36, Art. II | 
+06-12 | 5-7-2012 | Vehicles and traffic amendment | Ch. 285 | 
+07-12 | 5-7-2012 | Common Council amendment | Ch. 23 | 
+08-12 | 5-7-2012 | Personnel amendment | Ch. 74 | 
+09-12 | 6-4-2012 | Bond | NCM | 
+10-12 | 6-4-2012 | Bond | NCM | 
+11-12 | 6-4-2012 | Bond | NCM | 
+12-12 | 6-4-2012 | Bond | NCM | 
+13-12 | 6-4-2012 | Taxation amendment | Ch. 272 | 
+14-12 |  | Bond | NCM | 
+15-12 |  | Bond | NCM | 
+16-12 |  | Bond | NCM | 
+17-12 |  | Bond | NCM | 
+18-12 |  | Bond | NCM | 
+19-12 | 7-2-2012 | Elections: voting districts amendment (amendment to Ord. No.
+05-12) | Ch. 36, Art. II | 
+20-12 | 7-23-2012 | Bond | NCM | 
+21-12 | 8-6-2012 | Bond | NCM | 
+22-12 |  | Bond | NCM | 
+23-12 |  | Bond | NCM | 
+24-12 |  | Bond | NCM | 
+25-12 | 11-5-2012 | Personnel amendment | Ch. 74 | 
+26-12 | 11-5-2012 | Common Council amendment | Ch. 23 | 
+01-13 | 1-7-2013 | Common Council amendment | Ch. 23 | 
+02-13 | 1-7-2013 | Clean Energy Finance and Investment Authority Fund | Ch. 47, Art. XVIII | 
+03-13 | 2-4-2013 | Personnel amendment | Ch. 74 | 
+04-13 | 2-4-2013 | Office of the General Counsel amendment | Ch. 31, Art. IV | 
+05-13 | 2-4-2013 | Personnel Department amendment | Ch. 31, Art. V | 
+06-13 | 4-1-2013 | Bond | NCM | 
+07-13 | 4-1-2013 | Streets, sidewalks and parking areas: general provisions amendment | Ch. 262, Art. I | 
+08-13 | 4-11-2013 | Bond | NCM | 
+09-13 | 5-2-2013 | Office of the General Counsel amendment | Ch. 31, Art. IV | 
+10-13 | 5-2-2013 | Personnel Department repealer | Ch. 31, Art. V | 
+11-13 | 5-2-2013 | Adoption of Code amendment | Ch. 1, Art. II | 
+12-13 | 5-6-2013 | Voting Districts amendment | Ch. 36, Art. II | 
+13-13 | 6-3-2013 | Contracts: equal opportunity in employment amendment | Ch. 26, Art. I | 
+14-13 | 6-3-2013 | Personnel amendment | Ch. 74 | 
+15-13 | 6-3-2013 | Fair housing amendment | Ch. 156 | 
+16-13 | 6-3-2013 | Stormwater management: illicit discharges and connections | Ch. 258, Art. II | 
+17-13 | 8-5-2013 | Recreation and Community Services Department | Ch. 31, Art. XII | 
+18-13 | 8-5-2013 | Public Works Department | Ch. 31, Art. XI | 
+19-13 | 8-5-2013 | Taxation amendment | Ch. 272 | 
+20-13 | 8-5-2013 | Personnel amendment | Ch. 74 | 
+21-13 | 9-3-2013 | Bond | NCM | 
+22-13 | 9-3-2013 | Bond | NCM | 
+23-13 | 10-7-2013 | Public Works Department | Ch. 31, Art. XI | 
+24-13 | 10-7-2013 | Recreation and Community Services Department | Ch. 31, Art. XII | 
+25-13 | 10-7-2013 | Common Council amendment | Ch. 23 | 
+26-13 | 10-7-2013 | Senior Services Commission repealer; Recreation and Community
+Services Commission | Ch. 14, Art. III | 
+27-13 | 10-7-2013 | Parks and Recreation Commission repealer | Ch. 14, Art. XI footnote only | 
+28-13 | 10-7-2013 | Parks, facilities and recreational areas | Ch. 214 | 
+29-13 |  |  | Number not used | 
+30-13 | 10-10-2013 | Bond | NCM | 
+31-13 | 11-4-2013 | Common Council amendment | Ch. 23 | 
+01-14 | 1-6-2014 | Bond | NCM | 
+02-14 | 3-3-2014 | Bond | NCM | 
+03-14 | 3-3-2014 | Bond | NCM | 
+04-14 | 3-3-2014 | Taxation amendment | Ch. 272 | 
+05-14 | 3-3-2014 | Solid waste amendment | Ch. 253 | 
+06-14 | 4-7-2014 | Bond | NCM | 
+07-14 | 4-7-2014 | Bond | NCM | 
+08-14 | 4-7-2014 | Bond | NCM | 
+09-14 | 6-2-2014 | Streets, sidewalks and parking areas: general provisions amendment | Ch. 262 | 
+10-14 |  | Bond | NCM | 
+11-14 |  | Bond | NCM | 
+12-14 |  | Bond | NCM | 
+13-14 |  | Bond | NCM | 
+14-14 |  |  | Referred to Committee | 
+15-14 | 11-3-2014 | Common Council amendment | Ch. 23 | 
+16-14 | 11-3-2014 | Vehicles and traffic amendment | Ch. 285 | 
+ | 11-4-2014 | Charter amendment | Charter | 
+17-14 | 12-1-2014 | Vehicles and traffic amendment | Ch. 285 | 
+01-15 | 1-5-2015 | Bond | NCM | 
+02-15 |  |  | Number not used | 
+03-15 | 1-5-2015 | Parks, facilities and recreational areas amendment | Ch. 214 | 
+04-15 | 1-5-2015 | Streets, sidewalks and parking areas: general provisions amendment | Ch. 262, Art. I | 
+05-15 | 2-3-2015 | Bond | NCM | 
+06-15 | 2-3-2015 | Bond | NCM | 
+07-15 | 2-3-2015 | Personnel amendment | Ch. 74 | 
+08-15 | 2-3-2015 | Recreation and Community Services Department Program and Activity
+Fund amendment | Ch. 47, Art. XI | 
+09-15 | 2-3-2015 | Parks, facilities and recreational areas amendment | Ch. 214 | 
+10-15 | 6-1-2015 | Long Hill Estate Authority amendment | Ch. 9, Art. IV | 
+11-15 |  |  | Referred to Committee | 
+12-15 | 6-1-2015 | Parks, facilities and recreational areas amendment | Ch. 214 | 
+13-15 | 7-6-2015 | Bond | NCM | 
+14-15 | 7-6-2015 | Vehicles and traffic amendment | Ch. 285 | 
+15-15 | 7-6-2015 | Building construction amendment | Ch. 120 | 
+16-15 | 8-3-2015 | Common Council amendment | Ch. 23 | 
+17-15 |  | Bond | NCM | 
+18-15 |  | Bond | NCM | 
+19-15 |  | Bond | NCM | 
+20-15 |  | Public Works CNR for 2015-2016 | NCM | 
+21-15 | 9-8-2015 | Purchasing amendment | Ch. 78 | 
+22-15 | 9-8-2015 | Parks, facilities and recreational areas amendment | Ch. 214 | 
+23-15 |  |  | Referred to Committee | 
+01-16 | 1-14-2016 | Bond | NCM | 
+02-16 | 2-1-2016 | Purchasing amendment | Ch. 78 | 
+03-16 | 2-1-2016 | Housing standards: housing code amendment | Ch. 178, Art. I | 
+04-16 | 3-7-2016 | Appropriation | NCM | 
+05-16 | 3-7-2016 | Streets, sidewalks and parking areas: complete streets | Ch. 262, Art. III | 
+06-16 | 5-2-2016 | Nomenclature change | Ch. 1, Art. II; Ch. 14; Ch. 26; Ch. 156 | 
+07-16 | 5-2-2016 | Financial procedures amendment | Ch. 44 | 
+08-16 | 5-2-2016 | Parking Fund amendment | Ch. 47, Art. XVI | 
+09-16 | 5-2-2016 | Vehicles and traffic amendment | Ch. 285 | 
+10-16 | 5-2-2016 | Taxation amendment | Ch. 272 | 
+11-16 | 7-5-2016 | Appropriation | NCM | 
+12-16 | 7-5-2016 | Licensing and peddling amendment | Ch. 218 | 
+13-16 | 7-5-2016 | Rental of Showmobile unit amendment | Ch. 188 | 
+14-16 | 7-14-2016 | Bond | NCM | 
+15-16 | 8-1-2016 | Bond | NCM | 
+16-16 | 8-1-2016 | Appropriation | NCM | 
+17-16 | 8-1-2016 | Taxation amendment | Ch. 272 | 
+18-16 | 8-22-2016 | Appropriation and bond authorization | NCM | 
+19-16 | 8-22-2016 | Appropriation and bond authorization | NCM | 
+20-16 | 8-22-2016 | Appropriation and bond authorization | NCM | 
+21-16 | 9-6-2016 | Taxation amendment | Ch. 272 | 
+22-16 | 9-6-2016 | Personnel amendment | Ch. 74 | 
+23-16 | 10-13-2016 | Appropriation and bond authorization | NCM | 
+24-16 | 12-5-2016 | Appropriation and bond authorization | NCM | 
+25-16 | 12-5-2016 | Common Council amendment | Ch. 23 | 
+26-16 | 12-5-2016 | Boards, committees and commissions: Conservation Commission
+amendment | Ch. 14 | 
+01-17 | 1-3-2017 | Hazardous waste amendment | Ch. 171 | 
+02-17 | 2-6-2017 | Personnel amendment | Ch. 74 | 
+03-17 | 3-6-2017 | Personnel amendment | Ch. 74 | 
+04-17 | 3-6-2017 | Taxation amendment | Ch. 272 | 
+05-17 | 3-6-2017 | Taxation amendment | Ch. 272 | 
+06-17 | 4-3-2017 | Appropriation and bond authorization | NCM | 
+07-17 | 6-5-2017 | Barbershops, salons, and tanning salons | Ch. 112 | 
+08-17 |  |  | Pulled from agenda | 
+09-17 |  | Bond | NCM | 
+10-17 | 7-3-2017 | Personnel amendment | Ch. 74 | 
+11-17 | 7-3-2017 | Building construction amendment; property maintenance repealer | Ch. 120; Ch. 228 (reference only) | 
+12-17 | 7-3-2017 | Taxation amendment | Ch. 272 | 
+13-17 | 7-3-2017 | Parks, facilities and recreational areas amendment | Ch. 214 | 
+14-17 | 9-5-2017 | Streets, sidewalks and parking areas: general provisions amendment | Ch. 262, Art. I | 
+15-17 | 10-2-2017 | Taxation amendment | Ch. 272 | 
+16-17 | 11-6-2017 | Licensing and peddling amendment | Ch. 218 | 
+17-17 | 12-4-2017 | Appropriation | NCM | 
+01-18 | 1-2-2018 | Boards, Committees and Commissions: Clean Energy Task Force
+Amendment | Ch. 14, Art. XV | 
+02-18 | 1-2-2018 | Taxation Amendment | Ch. 272 | 
+03-18 | 4-2-2018 | Appropriation | NCM | 
+04-18 | 4-2-2018 | Appropriation | NCM | 
+05-18 | 4-2-2018 | Appropriation | NCM | 
+06-18 | 6-4-2018 | Elections | Ch. 36 | 
+07-18 | 6-4-2018 | Parks, Facilities and Recreational Areas Amendment | Ch. 214 | 
+08-18 | 6-14-2018 | Alarms: False Alarms to Police Department Amendment | Ch. 98, Art. II | 
+09-18 | 9-4-2018 | Appropriation | NCM | 
+10-18 | 9-4-2018 | Appropriation | NCM | 
+11-18 | 9-4-2018 | Taxation Amendment | Ch. 272 | 
+12-18 | 9-4-2018 | Sewers Amendment | Ch. 248 | 
+13-18 | 10-1-2018 | Boards, Committees and Commissions: LGBTQ+ Advisory Committee | Ch. 14, Art. XIX | 
+14-18 | 10-1-2018 | Barbershops, Salons, Tattoo and Body Piercing Studios, and Tanning
+Salons Amendment | Ch. 112 | 
+01-19 | 2-4-2019 | Boards, Committees and Commissions: Commission on the Arts Amendment | Ch. 14, Art. V | 
+02-19 | 2-4-2019 | Bond | NCM | 
+03-19 | 2-4-2019 | Bond | NCM | 
+04-19 | 4-1-2019 | Parks, Facilities and Recreational Areas Amendment | Ch. 214 | 
+05-19 | 4-1-2019 | Solid Waste Amendment | Ch. 253 | 
+
+

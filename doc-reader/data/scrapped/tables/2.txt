@@ -1,0 +1,2770 @@
+residential code
+https://ecode360.com/35904845
+0.5720690413682845
+For S1: 1 pound per square foot = 0.0479 kPa, 1 mile per hour
+= 0.447 m/s | 
+a. Weathering may require a higher strength concrete or grade
+of masonry than necessary to satisfy the structural requirements of
+this code. The weathering column shall be filled in with the weathering
+index (i.e., "negligible," "moderate" or "severe") for concrete as
+determined from the Weathering Probability Map [Figure R301.2(3)].
+The grade of masonry units shall be determined from ASTM C 34, C 55,
+C 62, C 73, C 90, C 129, C 145, C 216 or C 652. | 
+b. The frost line depth may require deeper footings than indicated
+in Figure R403.1(1). The jurisdiction shall fill in the frost line
+depth column with the minimum depth of footing below finish grade. | 
+c. The jurisdiction shall fill in this part of the table to
+indicate the need for protection depending on whether there has been
+a history of local subterranean termite damage. | 
+d. The jurisdiction shall fill in this part of the table with
+the wind speed from the basic wind speed map [Figure R301.2(4)]. Wind
+exposure category shall be determined on a site-specific basis in
+accordance with Section R301.2.1.4. | 
+e. Temperatures shall be permitted to reflect local climates
+or local weather experience as determined by the building official. | 
+f. The jurisdiction shall fill in this part of the table with
+the seismic design category determined from Section R301.2.2.1. | 
+g. The jurisdiction shall fill in this part of the table with
+(a) the date of the jurisdiction's entry into the National Flood Insurance
+Program (date of adoption of the first code or ordinance for management
+of flood hazard areas), (b) the date(s) of the Flood Insurance Study
+and (c) the panel numbers and dates of all currently effective FIRMs
+and FBFMs or other flood hazard map adopted by the authority having
+jurisdiction, as amended. | 
+h. In accordance with Sections R905.2.7.1, R905.4.3.1, R905.5.3.1,
+R905.6.3.1, R905.7.3.1 and R905.8.3.1, where there has been a history
+of local damage from the effects of ice damming, the jurisdiction
+shall fill in this part of the table with "YES." Otherwise, the jurisdiction
+shall fill in this part of the table with "NO." | 
+i. The jurisdiction shall fill in this part of the table with
+the 100-year return period air freezing index (BF-days) from Figure
+R403.3(2) or from the 100-year (99%) value on the National Climatic
+Data Center data table "Air Freezing Index - USA Method (Base 32°)"
+at www.ncdc.noaa.gov/fpsf.html. | 
+j. The jurisdiction shall fill this part of the table with the
+mean annual temperature from the National Climatic Data Center data
+table "Air Freezing Index - USA Method (Base 32°)" at www.ncdc.noaa.gov/fpsf.html. | 
+k. In accordance with Section R301.2.1.5, where there is local
+historical data documenting structural damage to buildings due to
+topographic wind speed-up effects, the jurisdiction shall fill in
+this part of the table with "YES." Otherwise, the jurisdiction shall
+indicate "NO" in this part of the table." | 
+
+
+residential code
+https://ecode360.com/35904845
+0.47400603261261737
+"R902.1 Roofing Covering Materials. | 
+Roofs shall be covered with materials as set forth in Section
+R904 and R905. A minimum Class A or B roofing shall be installed in
+areas designated by this section. Classes A or B roofing required
+by this section to be listed shall be tested in accordance with UL
+790 or ADTM E108. | 
+Exceptions: | 
+(a) Class A roof assemblies include those with coverings
+of brick, masonry and exposed concrete roof deck. | 
+(b) Class A roof assemblies also include ferrous
+or copper shingles or sheets, metal sheets and shingles, clay or concrete
+roof tile, or slate installed on noncombustible decks." | 
+
+
+residential code
+https://ecode360.com/35904845
+0.46456241267251386
+"The Building Official or Planning Director may authorize refunding
+of any fee paid hereunder which was erroneously paid or collected. | 
+The Building Official or Planning Director may authorize refunding
+of not more than 80% of the permit fee when no work has been done
+under a permit issued in accordance with this Code. | 
+The Building Official or Planning Director may authorize refunding
+of not more than 80% of the plan review fee when an application for
+a permit for which a plan review fee has been paid is withdrawn or
+canceled before the plan is reviewed. | 
+The Building Official or Planning Director shall not authorize
+refunding of any fee paid except on written application filed by the
+original permittee not later than 90 days after the date of fee payment." | 
+
+
+fire code
+https://ecode360.com/35897103
+0.4607120831465966
+907.2.8A Group R, Divisions 1 and 3 Occupancies. | 
+907.2.8A.1 General. In existing Group R, Divisions
+1 and 3 occupancies, every dwelling unit and every guest room in a
+hotel, congregate residence or lodging house used for sleeping purposes
+shall be provided with smoke detectors conforming to State Fire Marshal
+Standards. All detectors shall be installed in accordance with the
+approved manufacturer's instructions. | 
+907.2.8A.2 Location within dwelling units. In dwelling
+units, a detector shall be installed in each sleeping room and at
+a point centrally located in the corridor or area giving access to
+each separate sleeping area. When the dwelling unit has more than
+one story and in dwellings with basements, a detector shall be installed
+on each story and in the basement. In dwelling units where a story
+or basement is split into two or more levels, the smoke detector shall
+be installed on each level. When sleeping rooms are on an upper level,
+the detector shall be placed at the ceiling of the upper level in
+close proximity to the stairway. In dwelling units where the ceiling
+height of a room open to the hallway serving the bedrooms exceeds
+that of the hallway by 24 inches or more, smoke detectors shall be
+installed in the hallway and in the adjacent room. Detectors shall
+sound an alarm audible in all sleeping areas of the dwelling unit
+in which they are located. | 
+907.2.8A.3 Location in efficiency dwelling units,
+congregate residences and hotels. In efficiency dwelling units, hotel,
+motel, lodging house and congregate residence sleeping rooms, and
+in hotel suites, detectors shall be located on the ceiling or wall
+of the main room or each sleeping room. Where sleeping rooms are on
+an upper level within the efficiency dwelling unit or hotel suite,
+the detector shall be placed at the ceiling of the upper level in
+close proximity to the stairway. When actuated, the detector shall
+sound an alarm audible within the sleeping area of the dwelling unit,
+hotel suite or sleeping room in which it is located. | 
+907.2.8A.4 Power source. Smoke detectors required
+by this section may be battery operated or they may be wired into
+the building wiring system when such wiring is served from a commercial
+source. The detector shall emit a signal when the batteries are low.
+When required smoke detectors receive their primary power from the
+building wiring, such wiring shall be permanent, without a disconnecting
+switch other than those required for overcurrent protection and equipped
+with a battery backup. | 
+907.2.8A.5 Transfer of title. No person may transfer
+title to a dwelling unit or guest room required by this section to
+be equipped with a smoke detector without first filing with the City
+and the purchaser a statement that the dwelling unit or guest room
+is equipped with smoke detectors meeting the requirements of this
+section. | 
+
+
+residential code
+https://ecode360.com/35904845
+0.45858354100112986
+"The Building Official may require a geologic or geotechnical
+report or both, in accordance with the 2019 California Residential
+Code Section R401.4. This section shall include any new residential
+construction or additions to existing structures. As part of this
+evaluation, the Building Official shall require a site visit to determine
+the need for a geologic or geotechnical report or both. A fee shall
+be collected for each site visit. | 
+A geologic report shall be prepared by a Certified Engineering
+Geologist licensed by the State of California. A geotechnical report
+shall be prepared by a registered Civil Engineer versed in soils engineering
+and qualified to perform this work. When both a geotechnical and geologic
+report are required, the two reports shall be coordinated before submission
+to the Building Official. The Building Official, at his or her discretion,
+shall obtain any technical support necessary to approve the report.
+Submitted reports shall contain a finding regarding the safety of
+the site from any variety of geologic hazard and a finding regarding
+the effect the proposed improvements, grading and/or construction
+and use of the site will have on the stability of the site and/or
+property outside the site. Any recommendation or action presented
+in the approved reports along with any conditions of approval shall
+be incorporated into the construction of site improvements. A fee
+shall be collected for the cost of review of the reports and any required
+addendums." | 
+
+
+residential code
+https://ecode360.com/35904845
+0.4508890618247281
+"R902.1.3 Roof coverings within all other areas. | 
+The entire roof covering of every existing structure where more
+than 50% of the total roof area is replaced within any one-year period,
+the entire roof covering of every new structure, and any roof covering
+applied in the alteration, repair or replacement of the roof of every
+existing structure, shall be a fire-retardant roof covering that is
+at least Class B." | 
+
+
+coastal development procedures
+https://ecode360.com/35895790
+0.44862670598557985
+All repair and maintenance activities governed by the above
+provisions shall be subject to the permit regulations promulgated
+pursuant to the California Coastal Act of 1976, including, but not
+limited to, the regulations governing administrative and emergency
+permits. The provisions of this section shall not be applicable to
+methods of repair and maintenance undertaken by the ports listed in
+Public Resources Code § 30700. | 
+
+
+establishment of loading  parking  and standing zones  curb markings
+https://ecode360.com/35893512
+0.44690337707782013
+In no event shall more than 1/2 of the total curb length in
+any block be reserved for loading zone purposes. | 
+
+
+building code
+https://ecode360.com/35904806
+0.4322699818184027
+"Where required, automatic fire sprinklers shall be provided
+as follows: | 
+(a) Notwithstanding any provision in Section 903.2 of the CBC
+and Section 903.2 of the California Fire Code, approved automatic
+fire sprinklers shall be installed and maintained in accordance with
+the National Fire Protection Association's ("NFPA") Standard
+13 throughout all new buildings as set forth herein. | 
+(b) All buildings and structures constructed after the effective
+date of Ordinance No. 1155-17, or March 23, 2017, regardless of when
+permitted or approved, shall be provided with an automatic sprinkler
+system installed in accordance with the applicable standards of the
+NFPA, of the rules and regulations of the State Fire Marshal and of
+this Code. In addition, an automatic sprinkler system shall be installed
+throughout an entire building or structure upon: 1) the rehabilitation,
+remodeling or reconstruction of 25% or more of the gross square footage
+of an existing commercial or multiple unit residential building or
+structure, whether done at one time or through successive projects
+approved at any time after March 23, 2017; 2) the rehabilitation,
+remodeling or reconstruction of 50% or more of the gross square footage
+of an existing single-family dwelling, whether done at one time or
+through successive projects approved at any time after March 23, 2017,
+except where the cost of the rehabilitation, remodeling or reconstruction
+is $10,000 or less as determined by the Building Official using City-approved
+construction cost estimates; and 3) upon a change in the use of any
+building or structure, except in the case of a change in the use of
+a single-family residence to use as a family day care home, in which
+case the provisions of Health and Safety Code Section 1596 et seq.
+shall apply. Where a property owner constructs changes to an existing
+building without first obtaining permits for such work and no readily
+available, reliable source of information exists to verify whether
+the unpermitted work triggers the provisions of this section, a rebuttable
+presumption that the installation of fire sprinklers is required under
+this section shall arise. The property owner may request a hearing
+before the Building Official, whose decision shall be appealable to
+the City Manager, for the purpose of rebutting the presumption. The
+City Council shall promulgate rules and regulations by resolution
+setting forth examples and guidance for the application of this ordinance." | 
+
+
+residential code
+https://ecode360.com/35904845
+0.4275839961318423
+"Any person who commences work on a building, structure, electrical,
+gas, mechanical or plumbing system before obtaining the necessary
+permits shall be subject to double the permit fees as a penalty. In
+addition, when required by the Building Official, a special investigation
+shall be performed at a cost established by separate resolution." | 
+
+
+residential code
+https://ecode360.com/35904845
+0.4259294103066439
+"Any existing building shall retrofit with automatic fire sprinklers
+installed and maintained in accordance with N.F.P.A., 1' Standard
+13 throughout when more than or equal to 50% of a structure's square
+footage is substantially remodeled, whether done at one time or through
+successive projects approved at any time after the effective date
+of Ordinance No. 1155-17, or March 23, 2017." | 
+
+
+building code
+https://ecode360.com/35904806
+0.4241887480703246
+"The Building Official or Planning Director may authorize refunding
+of any fee paid hereunder which was erroneously paid or collected. | 
+The Building Official or Planning Director may authorize refunding
+of not more than 80% of the permit fee when no work has been done
+under a permit issued in accordance with this Code. | 
+The Building Official or Planning Director may authorize refunding
+of not more than 80% of the plan review fee when an application for
+a permit for which a plan review fee has been paid is withdrawn or
+canceled before the plan is reviewed. | 
+The Building Official or Planning Director shall not authorize
+refunding of any fee paid except on written application filed by the
+original permittee not later than 90 days after the date of fee payment." | 
+
+
+establishment of loading  parking  and standing zones  curb markings
+https://ecode360.com/35893512
+0.4164376938002582
+Penalties shall be administered by the Vehicle Hearing Officer
+and may be made based upon written submission by the Code Enforcement
+Officer and the permittee. | 
+
+
+subdivisions
+https://ecode360.com/35898221
+0.4112977825142401
+ARTICLE XIII LOT LINE ADJUSTMENTS | 
+§ 401. Major Lot Line Adjustments: | 
+Notwithstanding any other provisions of this ordinance,
+the Planning Commission may approve Major Lot Line Adjustments as
+herein defined provided that: | 
+(a) Each parcel involved in the adjustment is a
+parcel approved under the procedures of this ordinance or any former
+ordinance regulating the design and improvement of subdivisions; | 
+(b) The Planning Commission finds: | 
+(1) That because no significant change in access,
+lot configuration or orientation of structures or utilities to lot
+lines is proposed, the adjustment will not result in any significant
+burden on public services or materially affect the proper rights of
+any adjacent owners; | 
+(2) That the parcels to be adjusted are eligible
+for unconditional certificates of compliance under the provisions
+of the Subdivision Map Act and this ordinance; and | 
+(3) That the adjusted parcel configurations are
+in accord with established neighborhood lot design patterns and not
+violative of any statute, ordinance, regulation or good planning practice. | 
+(c) If any of the parcels to be adjusted are improved
+with a primary structure, the applicant shall provide evidence to
+the satisfaction of the City Engineer that the changes in parcel lines
+will not violate any ordinances or regulations controlling such structures. | 
+The applicant for a major lot line adjustment shall
+supply to the City such complete forms and documentation as the City
+deems necessary to review and act upon the request. If the adjustment
+is approved, the applicant shall cause to be filed for record a parcel
+map pursuant to the applicable provision of this ordinance and the
+Subdivision Map Act and to the satisfaction of the City Engineer. | 
+The applicant may appeal any decision of the Planning
+Commission on a major lot line adjustment to the City Council. All
+appeals shall be submitted and acted upon in the manner prescribed
+in § 66452.2 of the Government Code. | 
+The fees for a major lot line adjustment shall be
+established by resolution of the City Council. | 
+§ 402. Minor Lot Line Adjustments: | 
+Notwithstanding any other provisions of this ordinance,
+the Planning Commission may approve Minor Lot Line Adjustments as
+herein defined, provided that: | 
+(a) Each parcel involved in the adjustment is one
+of the following: | 
+(1) A parcel improved with a primary structure; | 
+(2) A parcel approved under the procedures of this
+ordinance or any former ordinance regulating the design and improvement
+of subdivisions; | 
+(3) All or any portion of a former utility or public
+right-of-way; | 
+(b) The Planning Commission finds: | 
+(1) That because no significant change in access,
+lot configuration or orientation of structures or utilities to lot
+lines is proposed, the adjustment will not result in any burden on
+public services or materially affect the property rights of any adjacent
+owners; | 
+(2) That the parcels to be adjusted are eligible
+for unconditional certificates of compliance under the provisions
+of the Subdivision Map Act and this ordinance; and | 
+(3) That the adjusted parcel configurations are
+in accord with established neighborhood lot design patterns and not
+violative of any statute, ordinance, regulation or good planning practice. | 
+(c) If any of the parcels to be adjusted are improved
+with a primary structure, the applicant shall provide evidence to
+the satisfaction of the City Engineer that the changes in parcel lines
+will not violate any ordinances or regulations controlling such structures. | 
+The applicant for a minor lot line adjustment shall
+supply to the City such completed forms and documentation as the City
+deems necessary to review and act upon the request. If the adjustment
+is approved, the applicant shall cause to be filed for record a certificate
+of compliances containing the descriptions of the parcels as they
+will exist after adjustment pursuant to the applicable provisions
+of this ordinance, the Subdivision Map Act and to the satisfaction
+of the City Engineer. | 
+The applicant may appeal any decision of the Planning
+Commission minor lot line adjustments to the City Council. All appeals
+shall be submitted and acted upon in the manner prescribed in § 66452.5
+of the Government Code. | 
+The fees for a minor lot line adjustment shall be
+established by resolution of the City Council. | 
+
+
+building code
+https://ecode360.com/35904806
+0.41029438508921356
+"1505.1.3 Roof Coverings Within All Other Areas. | 
+(a) The entire roof covering of every existing structure where
+more than 50% of the total roof area is replaced within any one-year
+period, the entire roof covering of every new structure, and any roof
+covering applied in the alteration, repair or replacement of the roof
+of every existing structure, shall be a fire-retardant roof covering
+that is at least Class B." | 
+
+
+residential code
+https://ecode360.com/35904845
+0.4034050333566854
+"R902.2 Fire-retardant-treated shingles and shakes. | 
+Fire-retardant-treated wood shakes and shingles are wood shakes
+and shingles complying with UBC Standard 15-3 or 15-4 which are impregnated
+by the full-cell vacuum-pressure process with fire-retardant chemicals,
+and which have been qualified by UBC Standard 15-2 for use of Class
+A or B roofs." | 
+
+
+provisions for flood hazard reduction
+https://ecode360.com/35894649
+0.4008045267268866
+Upon the completion of the structure, the elevation of the lowest
+floor, including basement, shall be certified by a registered civil
+engineer or licensed land surveyor, and verified by the community
+building inspector to be properly elevated. Such certification and
+verification shall be provided to the Floodplain Administrator. | 
+
+
+provisions for flood hazard reduction
+https://ecode360.com/35894649
+0.4008045267268866
+Upon the completion of the structure, the elevation of the lowest
+floor including basement shall be certified by a registered civil
+engineer or licensed land surveyor, and verified by the community
+Building Inspector to be properly elevated. Such certification and
+verification shall be provided to the Floodplain Administrator. | 
+
+
+multiple unit housing regulations
+https://ecode360.com/35905091
+0.39971569960383146
+For purposes of this section, multiple owners of a single unit
+shall not be deemed possessed, in the aggregate, of any greater interest
+in the common area or in the cooperative housing corporation than
+that possessed by a single owner of a unit. | 
+
+
+multiple unit housing regulations
+https://ecode360.com/35905091
+0.3943028588028753
+This subsection shall only apply to the conversion to congregate
+use of a multiple family residential structure consisting of five
+or more units. | 
+
+
+building code
+https://ecode360.com/35904806
+0.3873592382671486
+"Any person who commences work on a building, structure, electrical,
+gas, mechanical or plumbing system before obtaining the necessary
+permits shall be subject to a penalty equal to double the permit fees.
+In addition, when required by the Building Official, a special investigation
+shall be performed at a cost established by separate resolution." | 
+
+
+subdivisions
+https://ecode360.com/35898221
+0.38212575361968604
+§ 15.7. Major Lot Line Adjustments. A
+lot line adjustment pursuant to § 66412(d) of the Subdivision
+Map Act that exceeds the limitation for minor lot line adjustments
+as herein defined. | 
+§ 15.8. Minor Lot Line Adjustments. A
+lot line adjustment pursuant to § 66412(d) of the Subdivision
+Map Act where the land, in total, taken from one parcel and added
+to an adjacent parcel, does not exceed 20% of the gross area of the
+parcel from which it is taken and where the same number of parcels
+as originally existed are the resultant. | 
+
+
+residential code
+https://ecode360.com/35904845
+0.37382208335308365
+"In Seismic Design Categories D0, D1 and D2, masonry stem walls without
+solid grout and vertical reinforcing are not permitted." | 
+
+
+establishment of loading  parking  and standing zones  curb markings
+https://ecode360.com/35893512
+0.363147125641749
+First offense | Written warning | 
+Second offense | $100 fine | 
+Third offense | Maximum of $250 fine and/or suspension or revocation | 
+
+
+subdivisions
+https://ecode360.com/35898221
+0.36190678895755124
+Plus any costs required to be expended by the City
+in order to process or effect the minor land division or subdivision. | 
+
+
+subdivisions
+https://ecode360.com/35898221
+0.3595607051422127
+Revised tentative map fee = One-quarter of the above
+schedule | 
+Subdivisions (5 or more parcels): | 
+
+
+taxes
+https://ecode360.com/35896846
+0.3570085872547717
+1 or 2 | Base Tax Rate | 
+3 to 10 | Base Tax Rate, plus $6.25 per each unit over 2 | 
+11 to 20 | Base Tax Rate, plus $62.50, plus $5 per each unit over 10 | 
+21 to 30 | Base Tax Rate, plus $112.50, plus $3.75 per each unit over 20 | 
+31 to 70 | Base Tax Rate, plus $150, plus $2.50 per each unit over 30 | 
+Over 70 | Base Tax Rate, plus $250, plus $1.25 per each unit over 70 | 
+
+
+subdivisions
+https://ecode360.com/35898221
+0.3511080286965773
+§ 89. Fees. At the time of filing a tentative
+map the subdivider shall pay a filing fee as follows: | 
+Minor Land Divisions (up to 4 parcels): | 
+
+
+california mechanical code
+https://ecode360.com/35904840
+0.35032864781650763
+"The Building Official or Planning Director may authorize refunding
+of any fee paid hereunder which was erroneously paid or collected. | 
+The Building Official or Planning Director may authorize refunding
+of not more than 80% of the permit fee when no work has been done
+under a permit issued in accordance with this Code. | 
+The Building Official or Planning Director may authorize refunding
+of not more than 80% of the plan review fee when an application for
+a permit for which a plan review fee has been paid is withdrawn or
+canceled before the plan is reviewed. | 
+The Building Official or Planning Director shall not authorize
+refunding of any fee paid except on written application filed by the
+original permittee not later than 90 days after the date of fee payment." | 
+
+
+registration of vehicles
+https://ecode360.com/35893643
+0.3467804750962339
+The foregoing shall not apply to any full-sized vehicle that
+exceeds the maximum length or width for which a resident vehicle permit
+(blue sticker) was issued as of January 1, 1989, and shall not prevent
+renewal of such permits provided that the vehicle remains in the ownership
+and possession of the permit holder of record as of that date; nor
+shall it apply to any full-sized vehicle or autoette which exceeds
+the maximum width for which a vehicle permit was issued prior to June
+1, 1999, and shall not prevent renewal of such permits provided that
+the vehicle remains in the ownership and possession of the permit
+holder of record as of that date. | 
+All measurements specified above shall be based on the vehicle
+as originally equipped by the manufacturer pursuant to the requirements
+of California Vehicle Code § 28001. No vehicle that exceeds
+the length limitation specified above for which a resident vehicle
+permit or autoette permit, as applicable, was first issued after April
+18, 1989 shall be parked on public streets between the hours of midnight
+and 6:00 a.m. No vehicle that exceeds the width limitation specified
+above for which a residence vehicle permit or autoette permit, as
+applicable, was first issued after June 5, 1999, shall be parked on
+public streets between the hours of midnight and 6:00 a.m. | 
+
+
+entertainment and amusement taxes
+https://ecode360.com/35893171
+0.3446442911717903
+A "place of amusement or entertainment" does not include any
+place where a show, performance, display or exhibition or any activity
+otherwise covered by this definition is wholly sponsored by or solely
+benefits a public school, a private nonprofit school, a church, a
+charitable or nonprofit organization or political organization, or
+where such show, performance, display or exhibition is an annual event
+exempted by resolution of the City Council. | 
+
+
+fences and landscaping
+https://ecode360.com/35895720
+0.34418772975822354
+All modifications on a lot or parcel of land shall be subject
+to the provisions of Chapter 9-8, Article 2 (Site Plan Review). | 
+
+
+private sanitary sewer laterals
+https://ecode360.com/35894219
+0.3341024151042099
+An inspection report meeting the requirements of this article
+shall be prepared and submitted to the City, prior to the issuance
+of any permit or other approval needed for construction, remodeling,
+modification or alteration. | 
+
+
+real property transfer tax
+https://ecode360.com/35893260
+0.33385337946042914
+The provisions of this section shall only apply if the making,
+delivery, or filing of instruments of transfer or conveyances occurs
+within five years from the date of such confirmation, approval, or
+change. | 
+
+
+plumbing code
+https://ecode360.com/35904826
+0.32871237685547716
+"The Building Official or Planning Director may authorize refunding
+of any fee paid hereunder which was erroneously paid or collected. | 
+The Building Official or Planning Director may authorize refunding
+of not more than 80% of the permit fee when no work has been done
+under a permit issued in accordance with this Code. | 
+The Building Official or Planning Director may authorize refunding
+of not more than 80% of the plan review fee when an application for
+a permit for which a plan review fee has been paid is withdrawn or
+canceled before the plan is reviewed. | 
+The Building Official or Planning Director shall not authorize
+refunding of any fee paid except on written application filed by the
+original permittee not later than 90 days after the date of fee payment." | 
+
+
+taxes
+https://ecode360.com/35896846
+0.3274427952703629
+1 or 2 | Minimum $50 | 
+3 to 10 | $25 per unit | 
+11 to 20 | $250, plus $20 per unit | 
+21 to 30 | $450, plus $15 per unit | 
+31 to 70 | $600, plus $10 per unit | 
+Over 70 | $1,000, plus $5 per unit | 
+
+
+penalty provisions
+https://ecode360.com/35891929
+0.32590878125299544
+Each person shall be guilty of a separate offense for each and
+every day during any portion of which any violation of any provision
+of this Code is committed, continued or permitted by such person and
+shall be punishable accordingly. | 
+In addition to the penalties hereinabove provided, any condition
+caused or permitted to exist in violation of any of the provisions
+of this Code shall be deemed a public nuisance and may be, by this
+City, summarily abated as such, and every day such condition continues
+shall be regarded as a new and separate offense. | 
+
+
+part        general provisions
+https://ecode360.com/35963171
+0.32487288269231474
+Nothing in this section or chapter shall authorize the maintenance
+of a public or private nuisance as defined under provisions of law
+or ordinance other than Chapter 10 (commencing with § 22660)
+of Division II of the Vehicle Code and this chapter. | 
+
+
+multiple unit housing regulations
+https://ecode360.com/35905091
+0.3239369340887219
+30 years | 70% | 
+40 years | 60% | 
+50 years | 50% | 
+60 years | 40% | 
+70 years | 30% | 
+
+
+subdivisions
+https://ecode360.com/35898221
+0.3238752338058518
+§ 32. Time of meetings. The Subdivision
+Committee shall meet regularly at a time to be determined and publicly
+announced by its chairman. | 
+
+
+california mechanical code
+https://ecode360.com/35904840
+0.322549397804413
+CMC Section 104.5.2, Investigation Fees, is hereby amended to
+read as follows: | 
+"Any person who commences work on a building, structure, electrical,
+gas, mechanical or plumbing system before obtaining the necessary
+permits shall be subject to a penalty equal to double the permit fees.
+In addition, when required by the Building Official, a special investigation
+shall be performed at a cost established by separate resolution." | 
+
+
+fences and landscaping
+https://ecode360.com/35895720
+0.32207071486419725
+Except as otherwise permitted in this title, fences and walls
+shall not exceed a height of 42 inches within the required front yard
+in any zone. | 
+
+
+taxes
+https://ecode360.com/35896846
+0.31937138813125565
+All persons that engage in nontransient rentals shall attest
+to such fact under penalty of perjury. Where the unit owner elects
+to change the use of any unit from nontransient to transient during
+the year for which the business license has been issued, then not
+less than 30 days prior to such change in use the business operator
+shall notify the Director of Finance of such modification to the business
+license and shall remit the additional tax amount owed for the transient
+rental. In the event that the Director of Finance determines that
+a business operator failed to make notification of the transient use
+and failed or refuses to remit the adjusted tax for the transient
+units, there shall be added to the tax due a one-time penalty in the
+amount of 10% thereof and the total of the tax and penalty shall be
+subject to interest from the date the change in use was made until
+paid at the rate of 1/2 of 1% per month. | 
+
+
+taxes
+https://ecode360.com/35896846
+0.31753811198955717
+1 or 2 | $12.50 | 
+3 to 10 | $12.50, plus $6.25 per each unit over 2 | 
+11 to 20 | $12.50, plus $62.50, plus $5 per each unit over 10 | 
+21 to 30 | $12.50, plus $112.50, plus $3.75 per each unit over 20 | 
+31 to 70 | $12.50, plus $150, plus $2.50 per each unit over 30 | 
+Over 70 | $12.50, plus $250, plus $1.25 per each unit over 70 | 
+
+
+recognition  appropriate units  council determination  withdrawal of recognition
+https://ecode360.com/35893069
+0.3161027919738123
+No unit shall be established solely on the basis of the extent
+to which employees in the proposed unit have organized. | 
+
+
+noise
+https://ecode360.com/35904405
+0.3077627792764108
+The definitions of technical terms not defined in this section
+shall be obtained from the American National Standards Institute's
+Acoustical Terminology S1-1-1971, or the most recent revision thereof. | 
+
+
+streets closed to traffic
+https://ecode360.com/35893573
+0.3073820603257831
+Limited exceptions to the restrictions stated above may be granted
+by the Fire Department or the Sheriffs Department in their sole discretion. | 
+
+
+taxes
+https://ecode360.com/35896846
+0.30557254953132273
+The conduct of a business which is subject to a license tax
+under this section shall also obtain a special permit from the Council
+pursuant to Chapters 5-11 or 5-14 of Title 5, as well as comply with
+the requirements for vehicles set forth in Chapter 4-4, Article 17
+of Title 4. | 
+
+
+vehicle and boat rentals
+https://ecode360.com/35897181
+0.3054148606877718
+Any approval may be subject to such conditions as will assure
+that the proposed business or provision of autoette(s) to hotel transient
+occupants will be conducted in accordance with the public health,
+safety and welfare and will not be a detriment to City visitors or
+residents. Such conditions may include a limitation on the number
+and type of vehicles/autoettes which may be used in conjunction with
+the business or hotel, or conditions pertaining to the parking of
+such vehicles/autoettes. | 
+
+
+water
+https://ecode360.com/35897927
+0.30423756382754474
+The City of Avalon shall be exempt from the provisions of § 6-6.13,
+but the City Manager shall implement all reasonable measures to conserve
+freshwater use by the City. | 
+A first violation of this section shall be punishable as an
+infraction, subject to a $50 fine. A second violation committed within
+12 months of the first violation, and any subsequent violations thereafter,
+shall be punishable as a misdemeanor. | 
+
+
+general provisions
+https://ecode360.com/35896777
+0.3034316165268728
+In granting any license, the City Council may, in the application
+of the standards stated herein and in order to protect the public
+health, safety and welfare, impose reasonable conditions pertaining
+to the conduct of the business licensed, in addition to, but not limited
+by, the regulations contained in this chapter. | 
+
+
+general provisions
+https://ecode360.com/35896777
+0.3027789571683923
+In granting any license, the Director of Finance may, in the
+application of the standards stated herein and in order to protect
+the public health, safety and welfare, impose reasonable conditions
+pertaining to the conduct of the business licensed, in addition to,
+but not limited by, the regulations contained in this chapter. | 
+
+
+registration of vehicles
+https://ecode360.com/35893643
+0.29823891166186955
+Prior to any such revocation or suspension the Hearing Officer,
+and the Council on appeal therefrom, shall give the permit holder
+or his authorized representative an opportunity to present facts in
+opposition thereto. Upon any revocation, the vehicle shall be removed
+from the City within 30 days. | 
+
+
+registration of vehicles
+https://ecode360.com/35893643
+0.29550697100896395
+Transfers or assignments pursuant to paragraph (b)(1) hereunder
+require a hearing pursuant to § 4-4.1703(b) prior to the
+transfer of the permit; transfers or assignments pursuant to paragraphs
+(a)(1), (2) and (3) and (b)(2) do not require a hearing except as
+otherwise required under § 4-4.1705, except that the Vehicle
+Clerk may request documentation or other proof of qualification prior
+to a transfer under those sections. | 
+
+
+dl      disposition list
+https://ecode360.com/35898287
+0.29317275212603383
+1175-19 | 6-4-2019 | Solicitations Amendment; Sidewalk Vending | Ch. 5-9; Ch. 5-21 | 30 | 
+1176-19 | 10-1-2019 | Encroachments of Streets, Alleys, Rights-Of-Way and Other Public
+Property Amendment | Ch. 4-9 | 30 | 
+1177-19 | 10-15-2019 | Public Liability Insurance Amendment | Ch. 1-6 | 30 | 
+1178-19 | 12-3-2019 | Nontransient Rental Inspections | Ch. 5-40 | 30 | 
+1179-19 | 12-17-2019 | Harbor Regulations Amendment | Ch. 10-2 | 30 | 
+1180-20 | 1-7-2020 | Affordable Housing Amendment; Special Needs Housing Amendment | Ch. 9-11; Ch. 9-17 | 30 | 
+1181-20 | 1-7-2020 | Building Code; California Electrical Code; Plumbing Code; California
+Mechanical Code; Residential Code | Ch. 8-1; Ch. 8-4; Ch. 8-5; Ch. 8-7; Ch. 8-8 | 30 | 
+1182-20 | 2-4-2020 | Purchasing System Amendment | Ch. 3-4 | 30 | 
+1183-20 | 3-2-2020 | Development Impact Fees | Ch. 9-18 | 30 | 
+1184-20 | 3-2-2020 | Sewers Amendment | Ch. 6-7 | 30 | 
+1185-20 | 3-2-2020 | Residential Zones Amendment | Ch. 9-5 | 30 | 
+1186-20 |  | Urgency Ordinance | NCM | 30 | 
+1187-20 | 4-7-2020 | Traffic Amendment | Ch. 4-4 | 30 | 
+1188-20 |  | Urgency Ordinance | NCM | 30 | 
+1189-20 | 5-19-2020 | Temporary Urgency Ordinance | NCM | 1 | 
+1190-20 | 10-6-2020 | Water Efficient Landscape Regulations Amendment | Ch. 6-12 | 1 | 
+1191-20 | 10-20-2020 | Harbor Regulations Amendment | Ch. 10-2 | 1 | 
+1192-20 | 12-15-2020 | Commercial Zones Amendment; Administration of Zoning Ordinance
+Amendment; Business Licensing: Transient Rental Licenses | Ch. 9-6; Ch. 9-8; Ch. 3-1, Art. 3 | 1 | 
+1193-20 | 12-29-2020 | Temporary Urgency Ordinance | NCM | 1 | 
+1194-21 | 3-2-2021 | Residential Zones: Accessory Dwelling Units Amendment | Ch. 9-5, Art. 6 | 1 | 
+1195-21 | 5-18-2021 | Traffic Amendment | Ch. 4-4 | 2 | 
+1196-21 | 6-1-2021 | General Provisions Amendment | Ch. 9-3 | 2 | 
+
+
+harbor facilities
+https://ecode360.com/35896255
+0.29298954934413435
+The City Council may deny the permit where the impacts listed
+in paragraphs (1) through (10) above are cumulatively significant,
+even though the individual impacts are limited. The City Council may
+approve a project where mitigation measures eliminating significant
+impacts are incorporated into the project, and the approval shall
+be conditioned upon the implementation of such mitigation measures.
+The failure to comply and maintain any mitigation measures shall be
+a basis for suspension or revocation of a waterside project permit
+pursuant to § 10-2.415. | 
+
+
+public transportation
+https://ecode360.com/35904423
+0.29086020501034393
+The taximeters of any taxicabs providing the foregoing fixed
+rate services shall be connected with the taxi roof light in such
+manner as to indicate when the taximeter is operating. | 
+The requirements of this section shall be in addition to any
+other requirements contained in this Code. The City Manager is hereby
+authorized to suspend any taxi permit upon violation of any of the
+foregoing requirements. | 
+
+
+definitions
+https://ecode360.com/35893409
+0.2898493977937744
+Upon application, any carrier meeting this definition may be
+issued a freight carrier permit by the City Council for the purposes
+of § 4-4.1102(a)(1). The fee for such permit shall be established
+by resolution of the City Council. | 
+
+
+definitions
+https://ecode360.com/35894489
+0.2851332925312964
+Use of replacement costs or accrued depreciation factors different
+from those contained in recognized building cost estimating guides
+may be considered only if such factors are included in a report prepared
+by an independent professional appraiser and supported by a written
+explanation of the differences. | 
+
+
+transient occupancy tax
+https://ecode360.com/35893201
+0.28196800312999504
+No exemption shall be granted except upon a claim therefor made
+at the time the rent is collected and under penalty of perjury upon
+a form prescribed by the Director of Finance. | 
+
+
+organizational relationships  grievances  peaceful performance of services
+https://ecode360.com/35893092
+0.2810862761986438
+Nothing provided in this section, however, shall limit or restrict
+management officials and employees or employee representatives from
+meeting and conferring before or after regular duty or work hours
+as a matter of mutual convenience. | 
+
+
+harbor facilities
+https://ecode360.com/35896255
+0.2776872512342212
+The term of any such franchise shall not exceed five years.
+The franchise shall enter into a franchise agreement with the City
+which sets forth the terms and conditions of operation of such service,
+including a franchise fee to be paid to the City. | 
+
+
+registration of vehicles
+https://ecode360.com/35893643
+0.27397352758049953
+Any permits issued pursuant to this subsection (a)(1) shall
+be subject to annual renewal hearings to determine whether the foregoing
+requirements continue to be met. | 
+
+
+definitions
+https://ecode360.com/35894872
+0.26980513345066404
+If an addition does not meet all of the above requirements,
+the room may not legally function as a bedroom and thus would not
+require a water allocation. | 
+
+
+harbor facilities
+https://ecode360.com/35896255
+0.2694838480307954
+The fees authorized by the provisions of this section shall be in addition to any rents paid to the City, and all other taxes, license and permit fees, if any, including those paid pursuant to the provisions of § 10-2.410 of this article. There shall be a credit of taxes paid, if any, pursuant to the provisions of Title 3, Article 3, Chapter 3-3 and § 3-1.204 subsections (b) through (f). | 
+
+
+advertising matter
+https://ecode360.com/35897156
+0.2683775590576448
+In the event that the City Manager declines to issue a sign
+permit, the applicant may, by filing a written appeal with the City
+Manager, appeal the decision to the City Council and such appeal shall
+be heard at the next following regularly scheduled City Council meeting. | 
+
+
+registration of vehicles
+https://ecode360.com/35893643
+0.2670282876088663
+Transfers or assignments hereunder do not require a hearing
+except as otherwise required under § 4-4.1705. | 
+
+
+registration of vehicles
+https://ecode360.com/35893643
+0.2670282876088663
+Transfers or assignments hereunder do not require a hearing
+except as otherwise required under § 4-4.1705. | 
+
+
+time share projects
+https://ecode360.com/35898096
+0.26569264264757453
+If the Commission grants the conditional use permit, the representations
+made by the applicant/permittee in this section shall constitute terms
+of the conditional use permit and the permit shall be subject to forfeiture
+if the permittee changes such terms without the City's prior
+express written approval. | 
+
+
+rights  representations  meetings and conferences  memorandums of understanding  mediation
+https://ecode360.com/35893044
+0.2643994759037559
+Management officials, in exercising these functions, shall not
+discriminate against any employee because of his membership or nonmembership
+in any recognized employee organization. | 
+
+
+general provisions
+https://ecode360.com/35896777
+0.26022163807009935
+All matters pertaining to revocation or suspension shall be
+referred by the Director of Finance to the City Council, with a written
+statement of the reasons for the proposed revocation or suspension.
+The City Council shall give reasonable notice to the licensee to appear
+before the City Council at a time and place set for the hearing, to
+show cause why the license shall not be revoked or suspended. The
+notice shall state the grounds for the complaint or reasons for the
+proposed revocation or suspension in clear and concise language. The
+notice shall be served upon the licensee personally or by mail not
+less than 10 and not more than 20 days prior to the hearing date.
+At the hearing, the licensee shall be given the opportunity to appear
+personally or through counsel, to be heard, to defend the charges
+and to call witnesses. Upon good cause shown, the licensee shall be
+entitled to a continuance until the next meeting of the City Council.
+After conducting such hearing, the City Council may revoke, suspend
+for a stated time period, or reinstate any license upon such terms
+and conditions as in the exercise of sound discretion is determined
+to be appropriate. The decision of the City Council shall be final
+and conclusive. | 
+
+
+plumbing code
+https://ecode360.com/35904826
+0.25709270900951764
+"Any person, firm or corporation violating any of the provisions
+of the Plumbing Code as set forth in this title shall be guilty of
+a misdemeanor and, upon conviction thereof, shall be punishable by
+a fine not to exceed $1,000 or by imprisonment in the county jail
+for a period not to exceed six months, or by both such fine and imprisonment.
+Each separate day or any portion thereof during which any violation
+of the Plumbing Code occurs or continues shall be deemed to constitute
+a separate offense, and upon conviction thereof shall be punishable
+as herein provided. | 
+
+
+time share projects
+https://ecode360.com/35898096
+0.25364403426831006
+The Commission may, in its discretion, establish and evaluate
+additional conditions which it determines to be appropriate. | 
+
+
+vehicle and boat rentals
+https://ecode360.com/35897181
+0.23829221940631037
+Prior to any such revocation, the Council shall give the permit
+holder or his authorized representative an opportunity to present
+facts in opposition to revocation. | 
+
+
+anchoring and mooring
+https://ecode360.com/35896178
+0.23392247129921737
+The location of each moorage maintained pursuant to the provisions
+of this section shall be approved by the Harbor Master. For each additional
+mooring the rate shall be $25 per year in addition to the annual footage
+fee. All moorings used as moorings for rental boats as permitted pursuant
+to the provisions of this section shall be paid for at the full annual
+rate. | 
+
+
+anchoring and mooring
+https://ecode360.com/35896178
+0.23113676450299683
+The permittee shall comply with all applicable County, State,
+and Federal laws, the provisions of the Avalon Municipal Code and
+any resolutions adopted by the City Council, and all terms and conditions
+of the permit. Failure to comply with these laws, ordinances, resolutions,
+or policies shall constitute grounds for revocation of the permit
+and may result in the loss of use of City moorings. If the Harbor
+Master finds a permittee has violated any term or condition of the
+permit, harbor regulations or other applicable harbor related laws,
+the Harbor Master may suspend or revoke the permit. A decision by
+the Harbor Master to suspend or revoke a Long Term Mooring permit
+pursuant to this section shall be appealable to the City Council.
+Any such appeal must be filed in writing with the City Clerk within
+10 days of the date of suspension or revocation. The suspension or
+revocation shall be stayed while the appeal is pending. The appeal
+shall be filed in writing and shall specify all of the grounds for
+the appeal. If the appeal is denied, suspension or revocation shall
+become effective three days following the City Council's decision. | 
+
+
+subdivisions
+https://ecode360.com/35898221
+0.22526008231715844
+ARTICLE XIV VESTING TENTATIVE MAPS | 
+§ 350. Purpose and Intent. | 
+The purpose of this article is to establish procedures
+for the implementation of Chapter 4.5 (commencing with § 66498.1)
+of Division 2 of Title 7 of the Government Code of the State of California
+which provides for the approval of vesting tentative maps. Except
+as otherwise specifically provided by this article, the provisions
+of this chapter shall apply to the filing, processing and review of
+vesting tentative maps as said term is defined by § 66424.5
+of the Government Code and § 352 of this article. | 
+§ 351. Consistency Requirement. | 
+The approval of a vesting tentative map shall be
+consistent with the General Plan, any applicable specific plan, the
+Zoning Ordinance, and any other applicable provision of this Code
+in effect at the time provided by § 358(a) of this article. | 
+§ 352. Definition of Vesting Tentative
+Map. | 
+A "vesting tentative map" shall mean a tentative
+map for a residential subdivision, as defined in this chapter, that
+shall have printed conspicuously on its face the words "Vesting Tentative
+Map" at the time it is filed in accordance with § 353 of
+this article, and is thereafter processed in accordance with the provisions
+of this article and the Subdivision Map Act. | 
+§ 353. Application. | 
+(a) This article shall apply only to residential
+subdivisions. Whenever a provision of the Subdivision Map Act or this
+chapter requires the filing of a tentative map or tentative parcel
+map for a residential subdivision, a vesting tentative map may instead
+be filed, in accordance with the provisions of this article. | 
+(b) If a subdivider does not seek the rights conferred
+by Chapter 4.5 of Division 2 of Title 7 of the Government Code and
+this article, the filing of a vesting tentative map shall not be a
+prerequisite to any approval for any proposed subdivision, permit
+for construction, or work preparatory to construction. | 
+§ 354. Filing and Processing. | 
+A vesting tentative map shall be filed in the same
+form, have the same contents, and provide the same information and
+shall be processed in the same manner as set forth in this chapter
+for a tentative map except as hereinafter provided: | 
+(a) At the time a vesting tentative map is filed
+it shall have printed conspicuously on its face the words "Vesting
+Tentative Map." | 
+(b) The application for a vesting tentative map
+shall describe the manner in which the subdivision is proposed to
+be developed, including but not limited to the height, size and location
+of all buildings and other improvements. | 
+(c) A vesting tentative map shall not be accepted
+for filing unless all other discretionary land use approvals required
+for the proposed development have been obtained or applications therefor
+are filed concurrently with such map. | 
+(d) Whenever a subdivider files a vesting tentative
+map for a subdivision whose intended development is inconsistent with
+the Zoning Ordinance in existence at the time of filing, such inconsistency
+shall be noted on the map. | 
+§ 355. Fees. | 
+Upon filing a vesting tentative map, the subdivider
+shall pay the fees required for the filing and processing of a tentative
+map. | 
+§ 356. Condition Precedent to Approval. | 
+A vesting tentative map shall not be approved unless
+all other discretionary land use approvals required for the proposed
+development have been obtained. | 
+§ 357. Expiration. | 
+The approval or conditional approval of a vesting
+tentative map shall expire at the end of the same time period, and
+shall be subject to the same extensions, established by this chapter
+for the expiration of the approval or conditional approval of a tentative
+map. | 
+§ 358. Vested Rights Created by Approval
+of Vesting Tentative Map. | 
+(a) Subject to the time limits established by paragraph
+(c) of this section, the approval or conditional approval of a vesting
+tentative map shall confer a vested right to proceed with development
+in substantial compliance with the ordinances, policies, and standards
+described in Government Code § 66474.2. If § 66474.2
+of the Government Code is repealed, however, the approval or conditional
+approval of a vesting tentative map shall confer a vested right to
+proceed with development in substantial compliance with the ordinances,
+policies, and standards in effect at the time the vesting tentative
+map is approved or conditionally approved subject to the time limits
+established by paragraph (c) of this section. | 
+(b) Notwithstanding paragraph (a) of this section,
+a permit, approval, extension, or entitlement may be made conditional
+or denied even though such action may be contrary to the ordinances,
+policies, and standards described in paragraph (a) if any of the following
+are determined: | 
+(1) A failure to do so would place the residents
+of the subdivision or the immediate community, or both, in a condition
+dangerous to their health or safety, or both. | 
+(2) The condition or denial is required in order
+to comply with state or federal law. | 
+(c) The rights referred to in paragraph (a) of this
+section shall expire if a final map is not approved prior to the expiration
+of the vesting tentative map as provided in § 357 of this
+article. If the final map is timely approved, such rights shall exist
+for the following periods of time: | 
+(1) An initial time period of one year after the
+recording of the final map. Where several final maps are recorded
+on various phases of a project covered by a single vesting tentative
+map, this initial time period shall begin for each phase when the
+final map for that phase is recorded. | 
+(2) The initial time period set forth in subparagraph
+(1) above shall be automatically extended by any time used for processing
+a complete application for a grading permit if such processing exceeds
+30 days from the date a complete application is filed. | 
+(3) The subdivider may apply to the Planning Commission
+for a one year extension at any time before the expiration of the
+initial time period set forth in subparagraph (c)(1) of this section.
+If the extension is denied, the subdivider may appeal that denial
+to the City Council within 15 days thereafter. | 
+(4) If the subdivider submits a complete application
+for a building permit during the periods of time specified in subparagraphs
+(1) — (3) above, the rights referred to herein shall continue
+to exist until the expiration of such permit, or any extension thereof. | 
+§ 359. Amendment to Vesting Tentative
+Map. | 
+Any time prior to the expiration of a vesting tentative
+map, the subdivide, or his or her assignee, may apply for an amendment
+to such map. A public hearing shall be held by the Planning Commission
+on any amendment involving a substantial modification to the subject
+subdivision or development related thereto. The decision by the Planning
+Commission on the requested amendment shall be appealable to the City
+Council in the manner provided by § 6.1 of this article. | 
+§ 360. Applications Inconsistent with
+Established Policies. | 
+Notwithstanding any provision of this article, a
+property owner or his or her designee may seek approvals or permits
+for development which depart from the ordinances, policies, and standards
+described in § 358(a), and the City may grant such approvals
+or issue such permits to the extent that the departures are authorized
+under applicable law. | 
+§ 361. Subsequent Permits, Licenses, and
+Other Entitlements for Use. | 
+The provisions of this article shall not be construed
+to prevent the City from conditionally approving or denying any permit,
+license or other entitlement for use which is applied for by the subdivider
+after the approval of a vesting tentative map provided such conditional
+approval or denial is made in accordance with the ordinances, policies
+and standards described in § 358(a) of this article. | 
+
+
+fats  oils  and grease
+https://ecode360.com/35894262
+0.21574833816334546
+The City Engineer may require additional information and an
+on-site inspection of the waste discharge system, treatment systems
+or other system relating to the waste discharge. Within 30 days of
+the submission of an application deemed complete by the City Manager,
+the City shall either issue subject to certain terms and conditions
+or deny an FSE sewer connection permit. | 
+
+
+fowl  dogs  and other animals
+https://ecode360.com/35893896
+0.21550938475104772
+A person shall be deemed guilty of a separate offense for every
+day during which portion of which any violation of this section is
+committed, continued, or permitted, and shall be punishable as provided
+herein. | 
+
+
+anchoring and mooring
+https://ecode360.com/35896178
+0.210198917542998
+The mooring permit shall provide that such permit shall be revocable
+for such violations (excluding nonpayment of permit fees) at any time
+by the Harbor Master upon giving five days' written notice to the
+permittee. Upon such permit being revoked, it shall be the duty of
+the former permittee to immediately remove the mooring hardware forthwith.
+If he shall fail, neglect, or refuse to do so, the mooring hardware
+may be removed by the Harbor Master, and the costs thereof shall be
+paid by the occupant of the mooring place. Such costs may be collected
+in any court of competent jurisdiction. At the option of the Harbor
+Master, the mooring hardware, if not removed forthwith, shall become
+the property of the City. | 
+
+
+motion picture  television and photographic reproduction
+https://ecode360.com/35897218
+0.19303008948716574
+The decision of the City Manager to issue, conditionally issue,
+or not issue a permit shall be final unless appealed in writing within
+five working days of the decision by requesting a hearing of the City
+Council at the next available meeting. | 
+
+
+subdivisions
+https://ecode360.com/35898221
+0.15844948785694132
+Fee | $58 | $66 | $74 | $82 | 
+
+
+affordable housing
+https://ecode360.com/35904869
+0.14952904916663964
+* | Rounding up from 0.5 | 
+
+
+golf carts
+https://ecode360.com/35893807
+0.13297544988209767
+Proof of written order executed prior to the effective date
+of this ordinance shall be submitted with the application for the
+permit. | 
+
+
+building code
+https://ecode360.com/35904806
+0.09770553417138106
+IA | IB | IIA | IIB | IIIA | IIIB | IV | VA | VB | 
+B | B | B | B | B | B | B | B | B | 
+
+
+affordable housing
+https://ecode360.com/35904869
+0.09448740652321641
+5 | 1 | 1 | 
+6 | 1.2 | 1 | 
+7 | 1.4 | 1 | 
+8 | 1.6 | 2 | 
+9 | 1.8 | 2 | 
+10 | 2 | 2 | 
+11 | 2.2 | 2 | 
+12 | 2.4 | 2 | 
+13 | 2.6 | 3 | 
+14 | 2.8 | 3 | 
+15 | 3 | 3 | 
+
+
+residential code
+https://ecode360.com/35904845
+0.09257661938007336
+ |  |  |  |  |  |  |  |  |  |  |  | 
+
+
+affordable housing
+https://ecode360.com/35904869
+-0.0027317288251363925
+0 BR | 1 | 2 | 
+1 BR | 1 | 2 | 
+2 BR | 2 | 4 | 
+3 BR | 3 | 6 | 
+4 BR | 4 | 8 | 
+
+
+fire code
+https://ecode360.com/35897103
+-0.06383473832045139
+505 |  |  | Premises identification | 
+ | 1. |  | Obstructing and control of fire apparatus access | 
+ |  | 326.10 | Restricted Entry on Closed Lands | 
+ |  | 901.6 | Maintenance of fire-protection systems and equipment | 
+ |  | 901.7 | Systems out of service | 
+ | 2. |  | Fire hydrant and fire appliances | 
+ |  | 2310.6.2 | Obstruction of fire protection equipment | 
+ |  | 906.6 | Portable fire extinguishers | 
+ |  | 3304.3; 3404.1 | Open burning | 
+ |  | 304.1.1 | Combustible materials | 
+ |  | 304.2 | Combustible waste - storage within buildings | 
+ |  | 303.1 — 303.9 | Asphalt kettles | 
+ |  | 2108.5 | Smoking | 
+ |  | 305.1 | Burning objects | 
+ |  | 305.2 | Hot ashes and spontaneous ignition sources | 
+ | 3. |  | Structures | 
+ |  | 325 | Clearance of brush - extra hazard | 
+ |  | 326.17 | Fire roads and firebreaks | 
+ |  | 1031.2.1 | Locking devices | 
+ |  | 1024.5 | Door identification | 
+ |  | 315.3.2.1 | Storage under stairways | 
+ |  | 1104.3 | Illumination | 
+ |  | 2504.6 | Smoking | 
+ |  | 2311.2.2 | Waste Oil Storage | 
+ |  | 5704.2.6.1 | Waste Control | 
+ |  | 2803.3.3 | Combustible waste | 
+ |  | 1008.1 | Means of egress illumination | 
+ |  | 3104.21 | Vegetation removal | 
+ |  | 304.2 | Storage | 
+ |  | 503 | Fire apparatus access roads | 
+ |  | 324.3 | Fire protection | 
+ |  | 306.2.2 | Smoking | 
+ |  | 4501.4 | Smoking | 
+ |  | 2403.2.7 | Welding warning signs | 
+ |  | 2404.7.8.5 | Filter disposal | 
+ |  | 306.2.1 | Fire extinguishers | 
+ |  | 2403.4 | Operations and maintenance | 
+ |  | 2403.4.3 | Metal Waste Cans for Rags and Waste | 
+ |  | 905.12.1 | General | 
+ |  | 2405.3.4 | Dip tank covers | 
+ |  | 912.4 | Signs | 
+ |  | 1104.16.7 | Maintenance | 
+ |  | 2204.3 | Dust Collection | 
+ |  | 2408.5 | Sources of ignition | 
+ |  | 2003.2 | Smoking | 
+ |  | 2803.3.1 | Housekeeping | 
+ |  | 3003.7.7 | Sources of ignition | 
+ |  | 910.1 | General | 
+ |  | 5303.5 | Security | 
+ |  | 326.13 | Open Flame Device | 
+ |  | 5701.6 | Maintenance and operating practices | 
+ |  | 2408.5 | Sources of ignition | 
+ |  | 5003.2.5 | Empty containers and tanks | 
+ |  | 324.3 | Fire protection | 
+ |  | 912.4 | Signs | 
+ |  | 325 | Clearance of Brush and Vegetative Growth | 
+ |  | 605.5 | Electrical Extension Cords | 
+ |  | 3604.4 | Portable Fire Extinguishers — marinas | 
+ |  | 3603.2 | Open flame device-boat or marina | 
+ |  | 2007.10.3 | Access | 
+ |  | 2405.4.2 | Portable fire protection equipment | 
+
+
+dl      disposition list
+https://ecode360.com/35898287
+-0.0963270542637158
+1121-13 | 6-18-2013 | Establishes saltwater service fees, sewer service fees, 6-6.05
+and 6-7.252 | 26 | 
+1122-13 | 8-20-2013 | Amends Title 10, Beaches, Parks and Recreation, 10-2.412, 10-2.416,
+waterside permit required | 26 | 
+1123-13 | 8-20-2013 | Amends Title 5, public welfare and morals, adds Chapter 5-20,
+Medical Marijuana Dispensaries | 26 | 
+1124-13 | 10-15-2013 | Amends Title 8, Building Regulations, adopts California Department
+of Forestry and Protection Very High Fire Hazard Severity Zone Map;
+adds 8-2.01, adopts California Building Code Chapter 7A | 26 | 
+1125-13 | 12-17-2013 | Amends Title 9, Planning and Zoning, 9-7.719, temporary signs | 26 | 
+1126-13 | 12-17-2013 | Amends Title II, Administration 2-2.202, 2-2.203, Chief of Fire
+Department; 2-2.306, 2-2.307, 2-2.309, City Manager; amends Title
+3, Finance, 3-4.103, 3-4.104, 3-4.105, 3-4.106, 3-4.107-purchasing-duties
+of City Manager | 26 | 
+1127-14 | 3-4-2014 | Amends Title 6, Sanitation and Health, Chapter 6-2, Solid Waste
+Collection | 26 | 
+1128-14 | 3-4-2014 | Amends Title 8, Building Regulations, Chapter 8-1, Building
+Code; Chapter 8-4, California Electrical Code; Chapter 8-5, Plumbing
+Code; Chapter 8-7, California Mechanical Code; Chapter 8-8, Residential
+Code | 26 | 
+1129-14 | 6-3-2014 | Approves amended development agreement between City and Hamilton
+Pacific, Inc. Special | 26 | 
+1130-14 | 6-17-2014 | Amends Title 1, General Provisions, 1-3.13, adds definition
+of "gross receipts" | 26 | 
+1131-14 | 7-15-2014 | Amends Title 9, Planning and Zoning, 9-6.202, 9-6.302, adds
+Title 9, Chapter 9-16, Emergency Shelters | 26 | 
+1132-14 | 10-7-2014 | Amends Title 1, General Provisions, Chapter 1-8, Reasonable
+Accommodations | 26 | 
+1133-14 | 10-21-2014 | Amends Title 9, Planning and Zoning, 9-1.01-9-1.04, Planning
+Commission; adds 9-1.05-9-1.06 including Alternate Planning Commissioner | 26 | 
+1134-14 | 11-4-2014 | Amends Title 3, Finance, 3-1.122, businesses, professions, trades
+requiring a special license | 26 | 
+1135-14 | 12-2-2014 | Add Title 1, General Provisions, Chapter 1-9, Administrative
+citations; amend 1-2.07 fees, charges, fines, penalties-civil debt | 26 | 
+1136-15 | 3-17-2015 | Amends Title 9, Planning and Zoning, 9-3.619 "s" definitions;
+adds Title 9, Chapter 9-17 Special Needs Housing, Article I, single-room
+occupancies; amends 9-5.404, 9-5.504, conditional uses | 26 | 
+1137-15 | 5-5-2015 | Amends Title 1, General Provisions, Ch. 1-7 Service Fees, 1-7.01,
+Public Hearing Requirement | 27 | 
+1138-15 | 6-2-2015 | Amends Title 6 Sanitation and Health, Ch. 6-6 Water and Ch.
+6-7 Sewers, Saltwater Service Fees, at 6-6.05 and 6-7.252 | 27 | 
+1139-15 | 7-7-2015 | Amends Title 9 Planning and Zoning, Ch. 9-8, Administration
+of Zoning Ordinance, 9-8.1201 Story Poles | 27 | 
+1140-15 | 7-7-2015 | Amends Title 6 Sanitation and Health, Ch. 6-11 Regulation of
+Smoking, 6-11.101 Definitions | 27 | 
+1141-15 | 7-21-2015 | Amends Title 8 Building Regulations, adds Ch. 8-6 Small Residential
+Rooftop Solar Systems | 27 | 
+1142-15 | 7-21-2015 | Amends Title 7, Public Works, Ch. 7-2 Excavations, 7-2.01, 7-2.03,
+7-2.04, 7-2.06, 7-2.07, 7-2.13 | 27 | 
+1143-15 | 11-17-2015 | Amends Title 6, Sanitation and Health, Ch. 6-9 Flood Management,
+6-9.509 Flood-Related Erosion Prone Area, adds Article 9, Buffering
+of Channels, amends Ch. 6-12 Water Efficient Landscape Regulations,
+6-12.06 Landscape Water Use Standards; amends Title 9 Planning and
+Zoning, Ch. 9-7 General Standards of Development, 9-7.404 Location
+of Other Structures and Projections into Yards | 27 | 
+1144-15 | 11-17-2015 | Amends Title 9, Planning and Zoning, Ch. 9-8 Administration
+of Zoning Ordinance, 9-8.501 Revocation or Modification of a Variance,
+Conditional Use Permit or Nonconforming Use | 27 | 
+1145-15 | 11-17-2015 | Amends Title 4 Public Safety, Ch. 4-4 Traffic, 4-4.1712 Penalty;
+Alternative Provisions | 27 | 
+1146-16 | 1-25-2016 | Amends Title 5 Public Welfare, Morals, Conduct, Ch. 5-20 Medical
+Marijuana Dispensaries, 5-20.01 Definitions, adds 5-20.07 Marijuana
+Cultivation | 27 | 
+1147-16 | 2-16-2016 | Amends Title 6 Sanitation and Health, Ch. 6-6 Water, 6-6.01,
+6-6.09, 6-6.14 Salt Water System Program; amends Title 8 Building
+Regulations, 8-5.05 Saltwater Service: Installation and Maintenance
+Required | 27 | 
+1148-16 | 4-5-2016 | Amends Title 6 Health and Sanitation, Ch. 6-2 Solid Waste 6-2.403
+Collection and Hauling of Construction and Demolition (C&D) Materials | 27 | 
+1149-16 | 6-21-2016 | Amends Title 6 Sanitation and Health, Ch. 6-6 Water and Ch.
+6-7 Sewers, Saltwater Service Fees,[2] | 27 | 
+1150-16 | 12-6-2016 | Amends Title 9 Planning and Zoning; Ch. 9-8 Administration of
+Zoning Ordinance, Article 2 Site Plan Review; 9-8.204 Action Upon
+Site Plans; Ch. 9-3 General Provisions, Article 6 Definitions, 9-3.613,
+adds Minor Renovation | 28 | 
+U-1151-16 | 12-20-2016 | Amends Title 4 Public Safety; Ch. 4-4 Traffic, Article 17 Registration
+of Vehicles, 4-4.1705 Maximum Length and Width; adds 4-4.1705.1 Replacement
+of Vehicles; adds Article 12, 4-4.1203 Micro-Cars Prohibited from
+Parking in Angled Parking Spaces; amends 4-4.1704 Maximum Number,
+adds subsection (e) Autoette Vehicle Permits | 28 | 
+U-1152-17 | 1-25-2017 | Amends Title 4 Public Safety; Ch. 4-4 Traffic, Article 17 Registration
+of Vehicles, 4-4.1705.1 Replacement of Vehicles; amends 4-4.1704 Maximum
+Number, deletes subsection (e) Autoette Vehicle Permits in its entirety | 28 | 
+1153-17 | 2-7-2017 | Amends Title 10 Beaches, Parks and Recreation, Ch. 10-2 Harbor
+Regulations, Article 4, 10-2.402(b) Use of Harbor Related Facilities:
+Use Fees | 28 | 
+1154-17 | 2-7-2017 | Amends Title 4 Public Safety; Ch. 4-4 Traffic, Article 17, Registrations
+of Vehicles, adds 4-4.1705.1 Replacement of Vehicles; amends 4-4.1704
+Maximum Number; deletes subsection (e) Autoette Vehicle Permits in
+its entirety | 28 | 
+1155-17 | 2-21-2017 | Amends Title 8 Building Regulations; repeals and replaces Ch.
+8-1 Building Code in its entirety, deletes 8-1.01 — 8-1.12;
+adds 8-1.01 — 8-1.09; repeals and replaces Ch. 8-4 California
+Electrical Code in its entirety 8-4.01 — 8-4.04; repeals and
+replaces Ch. 8-5 Plumbing Code in its entirety 8-5.01 — 8-5.07;
+repeals and replaces Ch. 8-7 California Mechanical Code in its entirety
+8-7.01 — 8-7.04; repeals and replaces Ch. 8-8 Residential Code
+in its entirety 8-8.01 — 8-8.10; repeals and replaces Title
+4 Public Safety, Ch. 4-3 Fire Prevention Article 1 Fire Code in its
+entirety 4-3.101 — 4-3.104 | 28 | 
+1156-17 | 3-7-2017 | Amends Title 9 Planning and Zoning; Ch. 9-7 General Standards
+of Development, adds Article 10A 9-7.10A01, 9-7.10A02 Temporary Use
+Permits | 28 | 
+U-1157-17 | 5-2-2017 | Amends Title 6 Sanitation and Health; Ch. 6-1 Fowl, Dogs, and
+Other Animals, 6-1.109 Animals at Large; amends 6-1.111 Restricted
+Areas; amends 6-1.130 Potentially Dangerous Dogs; Vicious Dog; amends
+6-1.132 Violations; Limitations on Subsequent Ownership; adds 6-1.134
+Declaring Dog Potentially Dangerous or Vicious; adds 6-1.135 Seizure
+and Impoundment of Potentially Dangerous or Vicious Dog; adds 6-1.136
+Destruction of Potentially Dangerous or Vicious Dogs; adds 6-1.141
+Mandatory Spay and Neuter Program; adds 6-1.142 Statistical Reporting
+Requirements | 28 | 
+1158-17 | 5-16-2017 | Amends Title 6 Sanitation and Health; Ch. 6-7 Sewers, Article
+2 Public Sanitary Sewer, 6-7.252 Charges | 28 | 
+1159-17 | 6-20-2017 | Amends Title 6 Sanitation and Health; adds Ch. 6-14 Environmentally
+Acceptable Food Packaging, 6-14.101 — 6-14.105 | 28 | 
+1160-17 | 8-1-2017 | Amends Title 3 Finance; Article 2 Taxes, 3-2.103 Funds Conditions
+of Expenditures | 29 | 
+1161-17 | 9-5-2017 | Amends Title 9 Planning and Zoning; Ch. 9-7 General Standards
+of Development, Article 7 Signs, 9-7.701 — 9-7.729 | 29 | 
+1162-17 | 10-3-2017 | Amends Title 9 Planning and Zoning; Ch. 9-17 Special Needs Housing,
+adds 9-17.104 Construction of Single Room Occupancies | 29 | 
+1163-17 | 11-7-2017 | Amends Title 5 Public Welfare, Morals, and Conduct; renames
+Ch. 5-20 to Medical Cannabis Delivery Service Businesses and Other
+Cannabis Businesses and Activities, 5-20.010 — 5-20.140 | 29 | 
+1164-17 | 11-7-2017 | Amends Title 5 Public Welfare, Morals, Conduct; adds Ch. 5-30
+Personal Cannabis Cultivation Regulations, 5-30.010 — 5-30.050 | 29 | 
+1165-18 | 3-6-2018 | Amends Title 3 Finance; reenact Chapter 3-4 Purchasing System,
+3-4.101 — 3-4.111 | 29 | 
+1166-18 | 5-8-2018 | Amends Title 2 Administration; Ch. 2-1 City Council, 2-1.01
+Regular Meetings | 29 | 
+1167-18 | 9-4-2018 | Amends Title 10 Beaches, Parks and Recreations, Ch. 10-2 Harbor
+Regulations, 10-2.214 Dingy Docks | 29 | 
+1168-18 | 9-4-2018 | Amends Title 6 Sanitation and Health; Ch. 6-14 Environmentally
+Acceptable Food Packaging, 6-14.102 — 6-14.104 to prohibit plastic
+straws, stirrers, single-use carry-out bags and additional polystyrene
+products | 29 | 
+1169-18 | 9-4-2018 | Amends Title 3 Finance; repeals and replaces Ch. 3-5 Cable Television
+Franchises with Ch. 3-5 State Video Service Franchises 3-5.101 —
+3.5.119 | 29 | 
+1170-18 | 11-6-2018 | General Municipal Election moved from second Tuesday in April
+of even-numbered years to the first Tuesday after the first Monday
+in March or such other month as the Statewide Direct Primary Election
+may be held per state law, beginning March 2020 [Editor's Note: Added
+at 2-1.03 and 2-1.04, Special] | 29 | 
+1171-18 | 12-18-2018 | Amends Title 10 Beaches, Parks, and Recreation; Ch. 10-2 Harbor
+Regulations, Article 4, 10-2.402 Use of Harbor Related Facilities:
+Use Fees | 29 | 
+1172-18 | 12-18-2018 | Amends Title 6 Sanitation and Health; Ch. 6-2 Garbage and Refuse,
+Article 2 Commercial and Public Place Accumulations, Disposal, and
+Collection, 6-2.201 — 6-2.212 | 29 | 
+1173-19 | 2-19-2019 | Amends Title 9 Planning and Zoning; Ch. 9-5 Residential Zones;
+adds Article 6 Accessory Dwelling Units, 9-5.601 — 9-5.607 | 29 | 
+1174-19 | 2-19-2019 | Amends Title 9 Planning and Zoning; Chapter 9-11 Affordable
+Housing; 9-11.103 Density Bonus Definition; 9-11.105 Density Bonus;
+9-11.107 Prohibition of Short-Term Rentals | 29 | 
+
+
+dl      disposition list
+https://ecode360.com/35898287
+-14.414490545203918
+1 | Repealed |  | 
+2 | Repealed |  | 
+3 | Repealed |  | 
+4 | Repealed |  | 
+5 | Repealed |  | 
+6 | Repealed |  | 
+7 | Repealed |  | 
+8 | 2-5.01, 2-5.02 |  | 
+9 | Repealed |  | 
+10 | Repealed |  | 
+11 | 6-1.101 — 6-1.103, 6-1.107, 6-1.111 — 6-1.113 |  | 
+12 | Repealed |  | 
+13 | 4-5.01 |  | 
+14 | Repealed |  | 
+15 | 7-1.01, 7-1 02 |  | 
+16 | 10-2.22 — 10-2.24 |  | 
+17 | Repealed |  | 
+18 | Repealed |  | 
+19 | 2-2.201 — 2-2.204 |  | 
+20 | 10-2.02, 10-2.20 |  | 
+21 | Repealed |  | 
+22 | Repealed |  | 
+23 | 10-7.01 — 10-7.07 |  | 
+24 | 3-3.101, 3-3.102 |  | 
+25 | Repealed |  | 
+26 | Calling a Special Bond Election for a Water Works, Electric
+Light Works, Completion of Sewers, and Gas Works |  | 
+27 | Repealed |  | 
+28 | Repealed |  | 
+29 | Establishing Street Grades | 2-27-1914 | 
+30 | Repealed |  | 
+31 | Repealed |  | 
+32 | Repealed |  | 
+33 | Repealed |  | 
+34 | 5-1.01, 5-1.02 |  | 
+35 | Repealed |  | 
+36 | 10-7.15, 10-7.16 |  | 
+37 | Repealed |  | 
+38 | Repealed |  | 
+39 | Repealed |  | 
+40 | Repealed |  | 
+41 | Repealed |  | 
+42 | Repealing Ordinance No. 22 Relating to Business Licensing | 8-16-1914 | 
+43 | Repealed |  | 
+44 | Establishing Street Grades | 7-31-1914 | 
+45 | Repealed |  | 
+46 | 5-4.01 — 5-4.06 |  | 
+47 | Repealed |  | 
+48 | Repealed |  | 
+49 | Repealed |  | 
+50 | Establishing Street Grades | 4-30-1915 | 
+51 | Establishing Street Grades | 5-7-1915 | 
+52 | Ordering the Vacation of Certain Streets | 5-28-1915 | 
+53 | Repealed |  | 
+54 | Repealed |  | 
+55 | Repealed |  | 
+56 | Repealed |  | 
+57 | Repealed |  | 
+58 | Repealed |  | 
+59 | Repealed |  | 
+60 | Repealed |  | 
+61 | Repealed |  | 
+61 A | Repealed |  | 
+62 | Repealed |  | 
+63 | 10-5.01, 10-5.02 |  | 
+64 | Repealed |  | 
+65 | Repealed |  | 
+66 | Repealed |  | 
+67 | Repealed |  | 
+68 | Repealed |  | 
+69 | 4-1.06 |  | 
+70 | Repealed |  | 
+71 | 10-7.03 |  | 
+72 | Repealed |  | 
+73 | Repealed |  | 
+74 | Repealed |  | 
+75 | Establishing Street Grades | 8-17-1917 | 
+76 | Repealed |  | 
+77 | 10-7.17, 10-7.18 |  | 
+78 | Repealing Ordinance No. 62 Relating to Salaries of Certain Officers | 3-1-1918 | 
+79 | Repealed |  | 
+80 | Repealed |  | 
+81 | Repealed |  | 
+82 | Repealed |  | 
+83 | Repealed |  | 
+84 | Repealed |  | 
+85 | 5-7.01 — 5-7.03 |  | 
+86 | Calling a Special Bond Election for a Combined Electric Light
+and Water Works and a Gas Works | 5-2-1919 | 
+87 | Declaring the Intention to Open St. Catherine Way | 5-16-1919 | 
+88 | 7-2.01 — 7-2.12 |  | 
+89 | Repealed |  | 
+90 | Issuing Bonds for a Combined Electric Light and Water Works
+and a Gas Works | 7-12-1919 | 
+91 | Repealed |  | 
+92 | Repealed |  | 
+93 | Repealed |  | 
+94 | 8-3.01 — 8-3.04 |  | 
+95 | Repealed |  | 
+96 | Repealed |  | 
+97 | Repealed |  | 
+98 | Repealed |  | 
+99 | Repealed |  | 
+100 | Declaring the Intention to Call an Election to Authorize the
+Issuance and Sale of Bonds in Municipal Improvement District No. 1 | 1-9-1920 | 
+101 | Calling a Special Bond Election for a Sewer System and Works | 2-6-1920 | 
+102 | Repealed |  | 
+103 | Repealing Ordinance No. 79 Relating to Salaries of Certain Officers | 3-26-1920 | 
+104 | Issuing Bonds for a Sewer System and Works | 3-26-1920 | 
+105 | Opening St. Catherine Way | 4-2-1920 | 
+106 | Repealed |  | 
+107 | Repealed |  | 
+108 | Repealed |  | 
+109 | Granting a Franchise to the Pacific Telephone and Telegraph
+Company | 7-30-1920 | 
+110 | Repealed |  | 
+111 | 5-9.02 |  | 
+112 | Repealed |  | 
+113 | Establishing Street Grades | 9-17-1920 | 
+114 | Establishing Street Grades | 10-15-1920 | 
+115 | Repealed |  | 
+116 | Repealed |  | 
+117 | Repealed |  | 
+118 | Ordering the Vacation of Eucalyptus Avenue | 4-15-1921 | 
+119 | Repealed |  | 
+120 | 4-3.201 |  | 
+121 | Repealed |  | 
+122 | Repealed |  | 
+123 | Repealed |  | 
+124 | Repealed |  | 
+125 | Repealed |  | 
+126 | Repealed |  | 
+127 | Repealing Ordinance No. 126 Relating to the Formation of Municipal
+Improvement District No. 2 | 12-9-1921 | 
+128 | Calling a Special Bond Election for a Water Works | 12-16-1921 | 
+129 | Issuing Bonds for a Water Works | 2-3-1922 | 
+130 | 10-7.03 |  | 
+131 | Repealed |  | 
+132 | Repealed |  | 
+133 | Repealed |  | 
+134 | Repealed |  | 
+135 | Repealed |  | 
+136 | Repealed |  | 
+137 | 4-4.1401 — 4-4.1403 |  | 
+138 | Repealed |  | 
+139 | Declaring the Intention to Open a Certain Alley | 8-18-1922 | 
+140 | Ordering the Vacation of Minnehaha Avenue | 12-1-1922 | 
+141 | Repealed |  | 
+142 | Repealed |  | 
+143 | Ordering the Vacation of Certain Streets | 3-9-1923 | 
+144 | Opening a Certain Alley | 3-16-1923 | 
+145 | Repealed |  | 
+146 | Repealed |  | 
+147 | 10-7.08 — 10-7.14 |  | 
+148 | 8-6.01 — 8-6.07 |  | 
+149 | Repealed |  | 
+150 | Ordering the Vacation of a Portion of Third Street | 8-24-1923 | 
+151 | Ordering the Vacation of a Portion of Beacon Street | 10-26-1923 | 
+152 | Repealed |  | 
+153 | Repealed |  | 
+154 | Repealed |  | 
+155 | Repealed |  | 
+156 | Repealed |  | 
+157 | Repealed |  | 
+158 | Repealed |  | 
+159 | Repealed |  | 
+160 | 6-5.12 |  | 
+161 | Repealed |  | 
+162 | Establishing Street Grades | 11-23-1925 | 
+163 | Opening Marilla Avenue | 11-23-1925 | 
+164 | Establishing Street Grades | 12-28-1925 | 
+165 | Opening Marilla Avenue | 2-1-1926 | 
+166 | Repealed |  | 
+167 | Repealed |  | 
+168 | Abandoning the Proceedings to Open Marilla Avenue | 11-9-1926 | 
+169 | Repealed |  | 
+170 | Opening Marilla Avenue | 3-3-1927 | 
+171 | Repealed |  | 
+172 | Repealed |  | 
+173 | Vacating a Portion of Whittley Avenue | 1-9-1928 | 
+174 | Repealed |  | 
+175 | Abandoning the Proceedings to Open Marilla Avenue and Repealing
+Ordinance No. 169 | 9-17-1928 | 
+176 | Declaring the Intention to Open Marilla Avenue | 9-24-1928 | 
+177 | Opening Marilla Avenue | 11-9-1928 | 
+178 | Authorizing the Execution of a Quitclaim Deed to the Santa Catalina
+Island Company | 4-1-1929 | 
+179 | Repealed |  | 
+180 | Repealed |  | 
+181 | Ordering the Vacation of a Portion of Loma Drive | 6-24-1929 | 
+182 | Repealed |  | 
+183 | Declaring the Intention to Open St. Catherine Way | 11-25-1929 | 
+184 | Opening St. Catherine Way | 1-20-1930 | 
+185 | Ordering the Vacation of Portions of Hiawatha Avenue and Marilla
+Avenue | 3-31-1930 | 
+186 | Repealed |  | 
+187 | Repealed |  | 
+188 | Repealed |  | 
+189 | Repealed |  | 
+190 | Repealed |  | 
+191 | Repealed |  | 
+192 | Repealed |  | 
+193 | Repealed |  | 
+194 | Repealed |  | 
+195 | Repealed |  | 
+196 | Repealed |  | 
+197 | Repealed |  | 
+198 | Repealed |  | 
+199 | Repealed |  | 
+200 | Repealed |  | 
+201 | Repealed |  | 
+202 | Repealed |  | 
+203 | Repealed |  | 
+204 | Repealing Ordinance No. 200 Relating to Traffic | 7-10-1933 | 
+205 | Repealed |  | 
+206 | Repealed |  | 
+207 | Repealed |  | 
+208 | Repealed |  | 
+209 | Repealed |  | 
+210 | Repealed |  | 
+211 | Repealed |  | 
+212 | Repealed |  | 
+213 | Repealed |  | 
+214 | Repealed |  | 
+215 | Repealed |  | 
+216 | Repealed |  | 
+217 | Repealed |  | 
+218 | 8-6.04 — 8-6.07 |  | 
+219 | Repealed |  | 
+220 | Repealed |  | 
+221 | 3-2.201 — 3-2.203 |  | 
+222 | Repealed |  | 
+223 | Repealed |  | 
+225 | Repealed |  | 
+226 | Repealed |  | 
+227 | Repealed |  | 
+228 | Repealed |  | 
+229 | Repealed |  | 
+230 | Repealed |  | 
+231 | Repealed |  | 
+232 | Repealed |  | 
+233 | Repealed |  | 
+234 | Repealed |  | 
+235 | Repealed |  | 
+236 | Repealed |  | 
+237 | 5-9.01, 5-9.03 |  | 
+238 | Repealed |  | 
+239 | Repealed |  | 
+240 | Repealed |  | 
+241 | Repealed |  | 
+242 | Repealed |  | 
+243 | Repealed |  | 
+244 | Repealed |  | 
+245 | Repealed |  | 
+246 | Repealed |  | 
+247 | Repealed |  | 
+248 | Repealed |  | 
+249 | Repealed |  | 
+250 | Repealed |  | 
+251 | Repealed |  | 
+252 | Repealed |  | 
+253 | Repealed |  | 
+254 | Repealed |  | 
+255 | Repealed |  | 
+256 | Repealed |  | 
+257 | Repealed |  | 
+258 | Repealed |  | 
+259 | Repealed |  | 
+260 | Repealed |  | 
+261 | Repealed |  | 
+262 | Repealed |  | 
+263 | Repealed |  | 
+264 | 10-2.01, 10-2.03 — 10-2.19, 10-2.21, 10-2.25 — 10-2.35 |  | 
+265 | 1-2.05 |  | 
+266 | Repealed |  | 
+267 | Repealed |  | 
+268 | Repealed |  | 
+269 | Repealed |  | 
+270 | Repealed |  | 
+271 | 5-2.01 — 5-2.13 |  | 
+272 | Repealed |  | 
+273 | Repealed |  | 
+274 | Imposing a License Tax for the Privilege of Selling Tangible
+Personal Property at Retail, Providing for Permits to Retailers, Providing
+for the Collecting and Payment of Such Tax, and Prescribing Penalties
+for Violations of the Provisions Thereof | 11-7-1946 | 
+275 | Not Adopted |  | 
+276 | Repealed |  | 
+277 | Repealed |  | 
+278 | Repealed |  | 
+279 | Repealed |  | 
+280 | 5-6.02, 5-6.03 |  | 
+281 | Repealed |  | 
+282 | Repealed |  | 
+283 | Repealed |  | 
+284 | Repealed |  | 
+285 | 4-1.01 — 4-1.05, 4-1.07, 4-1.08 |  | 
+286 | 9-3.101 — 9-3.1206, 9-3.1301 — 9-3.1403 |  | 
+287 | Repealed |  | 
+288 | Repealed |  | 
+289 | Repealed |  | 
+290 | Repealed |  | 
+291 | Repealed |  | 
+292 | Repealed |  | 
+293 | Repealed |  | 
+294 | Repealed |  | 
+295 | Repealed |  | 
+296 | Repealed |  | 
+297 | Repealed |  | 
+298 | Repealed |  | 
+299 | Repealed |  | 
+300 | Repealed |  | 
+301 | Repealed |  | 
+302 | Repealed |  | 
+303 | 10-1.01, 10-1.02 |  | 
+304 | 9-3.1207 |  | 
+305 | Amending § 1 of Ordinance No. 274 | 2-16-1950 | 
+306 | Repealed |  | 
+307 | Repealed |  | 
+308 | Tabled |  | 
+309 | Repealed |  | 
+310 | Tabled |  | 
+311 | Repealed |  | 
+312 | 4-2.01 — 4-2.10 |  | 
+313 | Repealed |  | 
+314 | Repealed |  | 
+315 | Repealed |  | 
+316 | 6-2.201, 6-2.210 — 6-2.214 |  | 
+317 | Repealed |  | 
+318 | Repealed |  | 
+319 | Tabled |  | 
+320 | Not Adopted |  | 
+321 | Repealing Ordinance No. 208 Relating to Permits for Hotels,
+Apartment Houses, Rooming Houses, and Lodging Houses | 5-3-1951 | 
+322 | Repealed |  | 
+323 | Repealed |  | 
+324 | Repealed |  | 
+325 | Not Adopted |  | 
+326 | Repealed |  | 
+327 | Regulations for fire prevention, continued in effect upon adoption
+of the Avalon Municipal Code, repealed by Ordinance No. 511, effective
+August 7, 1968. See Article 1 of Chapter 4-3 of Title 4. |  | 
+328 | Not Adopted |  | 
+329 | Repealed |  | 
+330 | 2-4.01 |  | 
+331 | 2-1.01 |  | 
+332 | Repealed |  | 
+333 | Not Adopted |  | 
+334 | Repealed |  | 
+335 | Repealed |  | 
+336 | 10-2.19 |  | 
+337 | Repealed |  | 
+338 | Not Adopted |  | 
+339 | Repealed |  | 
+340 | Repealed |  | 
+341 | Repealed |  | 
+342 | Repealed |  | 
+342-A | Repealed |  | 
+343 | Tabled |  | 
+344 | 10-2.08, 10-2.09, 10-2.21, 10-2.26 — 10-2.28, 10-2.31
+— 10-2.33 |  | 
+345 | Repealed |  | 
+346 | 6-4.01 — 6-4.03 |  | 
+347 | Repealed |  | 
+348 | Repealed |  | 
+349 | Repealed |  | 
+350 | Not Adopted |  | 
+351 | Repealed |  | 
+352 | Imposing an Excise Tax on the Use or Consumption of Tangible
+Personal Property | 9-25-1953 | 
+353 | Repealed |  | 
+353 A | Repealed |  | 
+354 | Repealed |  | 
+355 | Repealed |  | 
+356 | Repealed |  | 
+357 | 6-2.201, 6-2.210 — 6-2.212 |  | 
+358 | Repealed |  | 
+359 | Not Adopted |  | 
+360 | Repealed |  | 
+361 | Repealed |  | 
+362 | Repealed |  | 
+363 | Repealed |  | 
+364 | Repealed |  | 
+365 | Repealed |  | 
+366 | Repealed |  | 
+367 | Repealed |  | 
+368 | Repealed |  | 
+369 | Not Adopted |  | 
+370 | Repealed |  | 
+371 | Not Adopted |  | 
+372 | Repealed |  | 
+373 | Repealed |  | 
+374 | 6-2.201 — 6-2.209, 6-2.215 — 6-2.217 |  | 
+375 | Not Adopted |  | 
+376 | Not Adopted |  | 
+377 | 3-3.201 — 3-3.208 |  | 
+378 | 3-2.101 — 3-2.103 |  | 
+379 | Not Adopted |  | 
+380 | Repealing Ordinance No. 268 Relating to Fire Districts, and
+Ordinances Nos. 231, 277, 278, 279, 302, and 317 Relating to the Adoption
+of Building Codes | 5-11-1956 | 
+381 | 6-1.104 — 6-1.106, 6-1.108 — 6-1.110 |  | 
+382 | Repealed |  | 
+383 | Repealed |  | 
+384 | Repealed |  | 
+385 | Not Adopted |  | 
+386 | Repealed |  | 
+387 | Repealed |  | 
+388 | 6-1.201 — 6-1.205 |  | 
+389 | Not Adopted |  | 
+390 | Not Adopted |  | 
+391 | 4-1.01 — 4-1.04 |  | 
+392 | Calling a Special Election Relating to the Establishment of
+a Municipal Hospital | 8-1-1957 | 
+393 | Repealed |  | 
+394 | Repealed |  | 
+395 | 9-3.905 |  | 
+396 | Repealed |  | 
+397 | Repealed |  | 
+398 | Not Adopted |  | 
+399 | 3-1.101 — 3-1.120, 3-1.201 — 3-1.243 |  | 
+400 | Tabled |  | 
+401 | 10-4.01 — 10-4.07 |  | 
+402 | 9-1.01 — 9-1.03 |  | 
+403 | Repealed |  | 
+404 | 5-5.01, 5-5.02, 10-2.31 |  | 
+405 | 6-1.201, 6-1.204 |  | 
+406 | Repealed |  | 
+407 | 6-2.210, 6-2.211 |  | 
+408 | 10-2.13, 10-2.17 |  | 
+409 | Tabled |  | 
+409 A | Repealed |  | 
+410 | 6-2.101 — 6-2.128 |  | 
+410 A | Repealed |  | 
+411 | 3-1.211 |  | 
+412 | 1-2.06 |  | 
+413 | 10-3.01 — 10-3.05 |  | 
+414 | Not Adopted |  | 
+415 | Repealed |  | 
+416 | Not Adopted |  | 
+417 | 5-3.01 — 5-3.03 |  | 
+418 | 3-1.207 |  | 
+419 | Not Adopted |  | 
+420 | Repealed |  | 
+421 | 10-6.01 |  | 
+422 | Repealed |  | 
+423 | Repealed |  | 
+424 | Calling a Special Bond Election for a Salt Water Station | 11-9-1961 | 
+425 | Calling a Special Bond Election for a Sewer System | 11-9-1961 | 
+426 | Repealing Ordinance Nos. 424 and 425 Calling Special Elections | 12-21-1961 | 
+427 | Calling a Special Election Relating to the Sale of Public Utilities | 1-4-1962 | 
+428 | 3-3.202, 3-3.204, 3-3.205 |  | 
+429 | Calling a Special Bond Election for Sewage Facilities and a
+Salt Water System | 3-1-1962 | 
+430 | Not Adopted |  | 
+431 | 2-2.101 — 2-2.103 |  | 
+432 | 5-6.01, 5-6.04 — 5-6.07 |  | 
+433 | Granting a Franchise to the Southern California Edison Company
+for Transmitting and Distributing Electricity | 5-17-1962 | 
+434 | Granting a Franchise to the Southern California Edison Company
+for Transmitting and Distributing Gas | 5-17-1962 | 
+435 | Granting a Franchise to the Southern California Edison Company
+for Transmitting and Distributing Water | 5-17-1962 | 
+436 | 3-1.209, 3-1.243 |  | 
+437 | 10-2.15, 10-2.17, 10-2.18 |  | 
+438 | Repealing Subsection (c) of Subsection 29 of § 17
+of Ordinance No. 399 and § 2 of Ordinance No. 436 Relating
+to Business Licensing | 7-19-1962 | 
+439 | Not Adopted |  | 
+440 | Not Adopted |  | 
+441 | Issuing Bonds for Sewage Facilities and a Salt Water System | 10-18-1962 | 
+442 | 5-8.01 — 5-8.08 |  | 
+443 | 9-3.1208 |  | 
+444 | Temporary Interim Zoning Prohibiting All Construction Within
+a Certain Described Area Before the Approval of the Planning Commission | 3-7-1963 | 
+445 | Issuing Bonds for Sewage Facilities and a Salt Water System | 5-2-1963 | 
+446 | 6-6.01, 6-6.02 |  | 
+447 | Not Adopted |  | 
+448 | 4-4.1301 — 4-4.1305 |  | 
+448A | Repealed |  | 
+449 | 10-6.02, 10-6.03 |  | 
+450 | 6-5.01 — 6-5.11 |  | 
+451 | 3-1.112 |  | 
+452 | 4-4.101 — 4-4.1202, 4-4.1501 — 4-4.1504 |  | 
+453 | 9-3.1209 |  | 
+454 | 8-1.01 — 8-1.06 |  | 
+455 | 8-4.01 — 8-4.03 |  | 
+456 | 8-5.01 — 8-5.03 |  | 
+457 | Repealing Ordinance No. 415 Relating to a City Manager | 10-17-1963 | 
+458 | 5-11.01 — 5-11.05 |  | 
+459 | 4-1.01 |  | 
+460 | 5-10.01 |  | 
+461 | 6-3.01 — 6-3.08 |  | 
+462 | 9-2.01 — 9-2.06 |  | 
+463 | 5-6.05 |  | 
+464 | 1-5.01 — 1-5.08 |  | 
+465 | 3-1.217 |  | 
+466 | 2-2.203, 6-1.102 |  | 
+467 | 5-8.01, 5-8.08 |  | 
+468 | Fixing the Salary of the City Treasurer | 3-5-1964 | 
+469 | 2-2.103, 2-3.01 |  | 
+470 | 5-6.06 |  | 
+471 | Repealed |  | 
+472 | 10-2.08, 10-2.11 — 10-2.13, 10-2.16, 10-2.17 |  | 
+473 | 9-3.704 |  | 
+474 | 3-3.401 — 3-3.415 |  | 
+475 | 3-3.301 — 3-3.313 |  | 
+476 | 10-2.18 |  | 
+477 | 3-1.211, Repealing Subsections (36) (a) through (36) (e) of
+§ 17 of Ordinance No. 399 Relating to Business Licensing | 6-26-1964 | 
+478 | Adopting the Avalon Municipal Code | 10-15-1964 | 
+479 | 10-2.08, 10-2.16 |  | 
+480 | 8-1.01 |  | 
+481 | 2-2.301 — 2-2.310, 5-8.01 — 5-8.08 |  | 
+482 | 4-3.301 — 4-3.304 |  | 
+483 | 5-12.01 — 5-12.03 |  | 
+484 | 6-7.201 — 6-7.203 |  | 
+485 | 6-7.101 — 6-7.113 |  | 
+486 | 3-1.101 — 3-1.208 |  | 
+487 | 8-1.01 — 8-1.06 |  | 
+488 | 8-4.01 — 8-4.03 |  | 
+489 | 8-5.01 — 8-5.03 |  | 
+490 | Authorizing and Approving the Codification and Incorporation
+of Ordinance Nos. 480, 481, 482, 483, 484, 485, 487, 488, and 489
+into the Avalon Municipal Code | 5-19-1966 | 
+491 | 10-6.02 |  | 
+492 | 8-1.04 |  | 
+493 | 10-2.13 |  | 
+494 | 4-4.1102 |  | 
+495 | 10-2.17, 10-2.18 |  | 
+496 | 4-4.1301 |  | 
+497 | 8-1.04 |  | 
+498 | 8-5.03 |  | 
+499 | 8-4.03 |  | 
+500 | 6-3.01 — 6-3.08 |  | 
+501 | 3-3.501 — 3-3.511 |  | 
+502 | 10-4.01 |  | 
+503 | 2-2.401 — 2-2.407 |  | 
+504 | 6-6.03 — 6-6.09 |  | 
+505 | 8-1.07 |  | 
+506 | 4-4.1601 — 4-4.1607 |  | 
+507 | 6-6.01 — 6-6.10 |  | 
+508 | 3-3.403, 3-3.416 |  | 
+509 | 4-4.1404 — 4-4.1406 |  | 
+510 | 6-6.03, 6-6.06 |  | 
+511 | 5-3.101 — 4-3.104 |  | 
+512 | 4-4.1201, 4-4.1504 |  | 
+513 | 2-1.01 |  | 
+514 | 7-3.01 — 7-3.14 |  | 
+515 | 9-3.602 |  | 
+516 | 5-9.01, 5-9.02 |  | 
+517 | 5-9.01 — 5-9.13 |  | 
+518 | 6-4.02 |  | 
+519 | 10-2.101 — 10-2.510, 10-4.01 — 10-4.07, 10-5.01,
+10-5.02, 10-7.01 — 10-7.18 |  | 
+520 | Not Adopted |  | 
+521 | 10-2.210, 10-2.402 |  | 
+522 | 2-6.101 — 2-6.408 |  | 
+523 | 10-3.01 |  | 
+524 | 8-1.01 — 8-1.05 |  | 
+525 | 8-4.01 — 8-4.03 |  | 
+526 | 8-5.01 — 8-5.03 |  | 
+527 | 8-7.01 — 8-7.03 |  | 
+528 | 2-1.01 |  | 
+529 | 10-2.212 |  | 
+530 | 5-6.01 — 5-6.06 |  | 
+531 | 5-13.01 — 5-13.03 |  | 
+532 | 6-6.01 — 6-6.08 |  | 
+533 | Calling a Special Bond Election Relating to Waste Water Treatment
+Facilities | 12-15-1970 | 
+534 | 10-2.212 |  | 
+535 | 10-2.402 |  | 
+536 | 8-1.06 |  | 
+537 | 8-4.04 |  | 
+538 | 8-5.04 |  | 
+539 | 8-7.04 |  | 
+540 | 10-2.101, 10-2.206, 10-2.210, 10-2.216, 10-2.217 |  | 
+541 | 10-2.210 |  | 
+542 | 6-1.105 |  | 
+543 | 4-1.02, 4-1.07 — 4-1.09 |  | 
+544 | 3-3.403 |  | 
+545 | 3-1.105, 3-1.106, 3-1.108, 3-1.202 — 3-1.207 |  | 
+546 | Calling a Special Bond Election for Waste Water Treatment Facilities | 11-8-1971 | 
+547 | 6-7.301 — 6-7.304 |  | 
+548 | 10-2.207 |  | 
+549 | 3-1.105, 3-1.106, 3-1.108, 3-1.202 — 3-1.207 |  | 
+550 | 6-2.204, 6-2.210, 6-2.212 — 6-2.214 |  | 
+551 | Issuing Bonds for Waste Water Treatment Facilities | 2-7-1972 | 
+552 | 4-4.1001, 4-4.1101, 4-4.1102, 4-4.1104, 4-4.1105 |  | 
+553 | 10-2.304, 10-2.305 |  | 
+554 | Annexing Annexation No. 1 | 6-5-1972 | 
+555 | 6-2.105, 6-2.109, 6-2.204, 6-2.210 |  | 
+556 | 8-1.01 — 8-1.06 |  | 
+557 | 8-7.01 — 8-7.03 |  | 
+558 | 8-5.01 — 8-5.03 |  | 
+559 | 4-1.06, 4-4.1406 |  | 
+560 | 8-8.01 |  | 
+561 | 2-1.02 |  | 
+562 | 8-4.01 — 8-4.03 |  | 
+563 | Annexing Annexation No. 2 Balboa Bay Island Club Development | 10-24-1972 | 
+564 | 10-2.206, 10-2.210, 10-2.216 |  | 
+565 | 8-9.01 — 8-9.10 |  | 
+566 | 2-1.01, 2-1.02 |  | 
+567 | 5-14.101, 5-14.201 — 5-14.209, 5-14.301 — 5-14.308,
+5-14.401 — 5-14.403, 5-14.501, 5-14.601, 5-14.701 — 5-14.709 |  | 
+568 | Amending Ordinance No. 563 Relating to Annexation No. 2 | 3-5-1973 | 
+569 | 4-4.1701 — 4-4.1707 |  | 
+570 | 10-2.212 |  | 
+571 | 5-14.204 — 5-14.207, 5-14.305, 5-14.307, 5-14.403, 5-14.501 |  | 
+572 | 4-3.301 — 4-3.307 |  | 
+573 | 4-4.1705, 4-4.1801 — 4-4.1812 |  | 
+574 | 3-1.207 |  | 
+575 | 3-3.201 — 3-3.218 |  | 
+576 | 2-1.03 |  | 
+577 | 2-1.02 |  | 
+578 | 10-2.206, 10-2.210, 10-2.216 |  | 
+579 | 3-1.209 |  | 
+580 | 3-1.204 |  | 
+581 | 4-4.1702 — 4-4.1705 |  | 
+582 | 4-4.1802, 4-4.1809, 4-4.1812 |  | 
+583 | Declaring the Need for a Redevelopment Agency | 3-4-1974 | 
+584 | Declaring the Council To Be the Redevelopment Agency | 3-4-1974 | 
+585 | 5-14.204, 5-14.205, 5-14.305 |  | 
+586 | 10-2.214 |  | 
+587 | 6-4.02 |  | 
+588 | 6-6.09 — 6-6.11 |  | 
+589 | 8-6.07 |  | 
+590 | 5-14.101, 5-14.403 |  | 
+591 | 2-1.02 |  | 
+592 | Calling a Special Election Relating to the Sale of the Salt
+Water System | 8-19-1974 | 
+593 | 5-14.403, 5-14.501, Repealing Subsection (f) of § 5-14.403
+of Article 4 of Chapter 5-14 of Title 5 and Subsection (f) of § 5-14.501
+of Article 5 of Chapter 15-4 of Title 5 Relating to the Operation
+of Trams and Buses | 8-19-1974 | 
+594 | 4-4.1703, 4-4.1809, 4-4.1810, 4-4.1812 |  | 
+595 | 8-6.01 — 8-6.31 |  | 
+596 | 9-3.1210 |  | 
+597 | 10-2.216 |  | 
+598 | 9-3.1210, Repealing Ordinance No. 596 Relating to the Rezoning
+of Certain Property from the Unclassified District to the Apartment
+District | 12-19-1974 | 
+599 | 3-1.207 |  | 
+600 | 9-3.1210 |  | 
+601 | 4-1.06 |  | 
+602 | 9-2.01 — 9-2.06 |  | 
+603 | 4-3.301 — 4-3.304 |  | 
+604 | 5-9.07 |  | 
+605 | 8-1.01 — 8-1.07 |  | 
+606 | 8-4.01 — 8-4.03 |  | 
+607 | 8-5.01 — 8-5.03 |  | 
+608 | 8-7.01 — 8-7.03 |  | 
+609 | 6-1.01 — 6-1.133 |  | 
+610 | 8-8.01, Repealing Chapter 8-8 of Title 8 Relating to Standard
+Specifications for Public Works Construction | 9-15-1975 | 
+611 | 4-1.06 |  | 
+612 | 5-3.04 |  | 
+613 | 10-2.205 — 10-2.207, 10-2.210, 10-2.212, 10-2.214, 10-2.216,
+10-2.402 |  | 
+614 | 6-2.112 |  | 
+615 | 6-1.111, 6-1.112 |  | 
+616 | 9-3.1211 |  | 
+617 | 9-2.02 |  | 
+618 | 10-2.207 |  | 
+619 | Dissolving the Avalon Redevelopment Agency | 12-1-1975 | 
+620 | 1-4.01 |  | 
+621 | 4-4.1703 |  | 
+622 | 4-1.06 |  | 
+623 | 5-13.01 — 5-13.09 |  | 
+624 | 10-2.205 |  | 
+625 | 2-1.02, Repealing § 2-1.02 of Chapter 2-1 of Title
+2 Relating to Informal Study Meetings of the Council | 2-7-1977 | 
+626 | 2-1.01 |  | 
+627 | 7-2.03, 7-2.06, 7-2.12 — 7-2.14 |  | 
+628 | 5-14.01 — 5-14.14 |  | 
+629 | 4-4.1701 — 4-4.1712, 4-4.1801 — 4-4.1812, Sections
+of Ordinance No. 629 which established the method of measurement of
+noise emitted by stationary motorcycles was repealed by § 1
+of Ordinance No. 977-00. |  | 
+630 | Special |  | 
+631 | 6-6.12 |  | 
+632 | 6-6.12 |  | 
+633 | 6-6.12, Repealing § 6-6.12 of Chapter 6-6 of Title
+6 Relating to Water Regulations | 6-6-1977 | 
+634 | Establishing a Moratorium on Certain Permits and the Processing
+or Approval of Tentative Maps, Final Maps, or Parcel Maps | 6-20-1977 | 
+635 | 6-6.09 |  | 
+636 | 5-12.02 |  | 
+637 | 10-2.216 |  | 
+638 | 6-7.302 |  | 
+639 | 5-12.02 |  | 
+640 | Not Adopted |  | 
+641 | 6-7.301, 6-7.302, 6-7.304 |  | 
+642 | Establishing a Moratorium on Certain Permits and the Processing
+or Approval of Tentative Maps, Final Maps, or Parcel Maps | 12-19-1977 | 
+643 | Establishing a Moratorium on Certain Permits and the Processing
+or Approval of Tentative Maps, Final Maps, or Parcel Maps | 1-3-1978 | 
+644 | 8-1.01, 8-4.01, 8-5.01, 8-7.01 |  | 
+645*[1] | 2-2.601 |  | 
+646 | 8-1.08, 8-4.04, 8-5.04, 8-7.04 |  | 
+647 | Establishing a Moratorium on Certain Permits and the Processing
+or Approval of Tentative Maps, Final Maps, or Parcel Maps | 6-19-1978 | 
+648 | 10-2.208, 10-2.212 |  | 
+649 | Establishing a Moratorium on Certain Permits and the Processing
+or Approval of Tentative Maps, Final Maps, or Parcel Maps | 8-21-1978 | 
+650 | 2-2.307, 3-4.101 — 3-4.107 |  | 
+651 | Establishing Procedures for the Approval of Building Projects
+at the Conclusion of the Building Moratorium and Declaring the Urgency
+Thereof | 10-16-1978 | 
+652 | Establishing Procedures for the Approval of Building Projects
+at the Conclusion of the Building Moratorium | 11-16-1978 | 
+653 | 9-3.904 |  | 
+654 | 10-2.402, 10-2.410 |  | 
+655 | 4-4.806 |  | 
+656 | 4-4.1702 — 4-4.1709 |  | 
+657 | 8-9.02, 8-9.06 |  | 
+658 | 5-13.07.1 |  | 
+659 | 9-3.915 |  | 
+660 | 9-4.101 — 9-4.105 |  | 
+661 | An Interim Zoning Ordinance Extending the Moratorium on the
+Construction, Erection, Creation or Development of Any Condominium
+Conversions or Stock Cooperative Housing Within the City of Avalon
+and Declaring the Urgency Thereof | 4-16-1979 | 
+662 | 4-4.1703 |  | 
+663 | 10-2.216 |  | 
+664 | 8-6.05, 9-3.905, 9-3.1103, 9-3.1206 |  | 
+665 | 6-7.302, 6-7.203, 6-7.107, 6-7.108 |  | 
+666 | 3-3.403, 3-3.416 |  | 
+667 | 10-2.212 |  | 
+668 | An Interim Zoning Ordinance Extending the Moratorium on the
+Construction, Erection, Creation or Development of Any Condominium
+Conversions of Stock Cooperative Housing Within the City of Avalon
+and Declaring the Urgency Thereof | 8-20-1979 | 
+669 | 10-2.212 |  | 
+670 | 4-2.01 — 4-2.10 |  | 
+671 | 8-4.01 — 8-4.04 |  | 
+672 | 9-3.101 — 9-13.107 |  | 
+673 | 4-4.1704, 4-4.1705 |  | 
+674 | 4-6.01 — 4-6.07 |  | 
+675 | 6-1.129 |  | 
+676 | 4-4.1710 |  | 
+677 | Not Codified |  | 
+678 | 4-5.02 |  | 
+679 | Special |  | 
+680 | 10-2.402 |  | 
+681 | 5-8.01 — 5-8.03 |  | 
+682 | 6-7.302 |  | 
+683 | 4-7.01 — 4-7.03 |  | 
+684 | 6-6.12, 6-7.302 |  | 
+685 | 4-3.304 |  | 
+686 | 10-2.212 |  | 
+687 | Not Adopted |  | 
+688 | Not Adopted |  | 
+689 | 4-4.1706(c) |  | 
+690 | 10-2.212 |  | 
+691 | 6-2.206 |  | 
+692 | 9-7.704 |  | 
+693 | 4-8.01 |  | 
+694 | 2-4.01 |  | 
+695 | Not Codified |  | 
+696 | 10-2.511, 10-2.512 |  | 
+697 | 5-14.01, 5-14.04 |  | 
+698 | 10-2.103 |  | 
+699 | 5-6.02 |  | 
+700 | 9-8.802 |  | 
+701 | 3-1.204, 5-11.01 — 5-11.017, 5-14.01, 5-14.02 |  | 
+702 | 5-1.03 |  | 
+703 | 5-13.07 |  | 
+704 | 1-6.01, 1-6.02, 5-14.13, 6-2.121 |  | 
+705 | Not Codified |  | 
+706 | 4-6.08 |  | 
+707 | Not Codified |  | 
+708 | 6-6.09 |  | 
+709 | 4-4.1703, 4-4.1706, 4-4.1708 |  | 
+710 | 8-1.01, 8-1.02, 8-1.04, 8-5.01 |  | 
+711U | 9-1.01 |  | 
+712 | 9-1.01 |  | 
+713U | 9-2.06, 9-2.07 |  | 
+714 | 9-2.06, 9-2.07 |  | 
+715 | Not Codified |  | 
+716 | 2-1.03 |  | 
+717U | 5-9.01 — 5-9.24[Superseded by Ord. #718] |  | 
+718 | 5-9.01 — 5-9.24 |  | 
+719 | 2-1.01 |  | 
+720 | 6-7.302 |  | 
+721 | 3-1.207 |  | 
+722U | 4-4.1901 — 4-4.1905 |  | 
+723 | Rescind 5-2.01 — 5-2.13 |  | 
+724 | 4-4.1710[Superseded by Ord. #730U and Ord. #731] |  | 
+725 | 8-1.09, 8-1.10 |  | 
+726U | 10-2.410, 10-2.416, 10-2.421[Superseded by Ord. #727] |  | 
+727 | 10-2.410, 10-2.416, 10-2.421 |  | 
+728 | 9-6.202, 9-6.203, 9-8.102 — 9-8.103, 9-8.402, 9-8.403 |  | 
+729 | 4-4.1501 |  | 
+730U | 4-4.1710[Superseded by Ord. #731] |  | 
+731 | 4-4.1710 |  | 
+732 | Not Codified |  | 
+733 | 4-4.1705, 4-4.1706(a) — (c)[Superseded by Ord. #738] |  | 
+734 | 9-1.01 — 9-1.04 |  | 
+735U | Establishing a Moratorium on the Approval of Time Share Projects
+and Declaring the Urgency Thereof | 3-8-1983 | 
+736 | 10-2.411, 10-2.412 |  | 
+737 | 5-14.01, 5-14.02 |  | 
+738 | 4-4.1704 — 4-4.1706, 4-4.1711 — 4-4.1713 |  | 
+739U | Extending Ordinance No. 735U Relating to a Moratorium on Time
+Share Projects and Declaring the Urgency Thereof | 4-5-1983 | 
+740 | 3-5.101 — 3-5.405 |  | 
+741 | 9-3.207, 9-3.211, 9-3.603, 9-3.606, 9-3.619, 9-8.204 —
+9-8.207, 9-8.401, 9-8.402, 9-8.404 — 9-8.407 |  | 
+742 | 9-11.107 |  | 
+743U | 4-3.105[Superseded by Ord. #745] |  | 
+744 | 8-1.11 |  | 
+745 | 4-3.105 |  | 
+746 | Creating the Avalon Community Improvement Agency to Function
+in the City | 7-5-1983 | 
+747 | 9-1.01, 9-1.02 |  | 
+748 | Not Adopted |  | 
+749U | 5-13.07[Superseded by Ord. #751] |  | 
+750 | 3-2.101 — 3-2.104 |  | 
+751 | 5-13.07 |  | 
+752 | Repealer[Rescinded by Ord. #754] |  | 
+753U | 3-3.212 — 3-3.216 |  | 
+754 | Not Codified |  | 
+755 | Adopting a Redevelopment Plan as the Official Redevelopment
+Plan for the Community Improvement Project Area | 12-28-1983 | 
+756 | 8-4.01 |  | 
+757 | Extending Ordinance No. 739U Relating to a Moratorium on Time
+Share Projects and Declaring the Urgency Thereof | 3-20-1984 | 
+758 | Initiative Ordinance Approving Only 4 Projects for the Avalon
+Community Improvement Agency to Undertake in the Project Area in Accordance
+with the Agency's Plan for the Community Improvement Area | 4-20-1984 | 
+759 | 5-1.01, 9-7.711, 9-7.725 |  | 
+760 | 5-14.10 |  | 
+761 | 3-1.210 |  | 
+762 | 2-1.01 |  | 
+763 | 3-1.206 |  | 
+764 | 5-14.03 |  | 
+765 | 9-1.01, 9-1.02 |  | 
+766 | 10-2.218 |  | 
+767 | 4-4.1501 |  | 
+768 | 1-7.01 |  | 
+769 | 5-1.04 |  | 
+770U | Urgency Ordinance Establishing for Certain Housing Projects
+a Maximum Annual Increase in Rental Rates | 10-1-1984 | 
+771 | 4-4.1703 |  | 
+773 | 9-12.103(d) |  | 
+774 | 9-3.603, 9-3.619, 9-8.204 — 9-8.207, 9-8.401, 9-8.402,
+9-8.404 — 9-8.407 |  | 
+775 | 9-3.603, 9-3.618, 9-5.204, 9-5.302, 9-5.304, 9-5.402, 9-5.404,
+9-13.101 — 9-13.110 |  | 
+776 | 9-7.701 — 9-7.729 |  | 
+777 | 8-1.09 — 8-1.10 |  | 
+778 | 9-13.109(h) |  | 
+779U | Urgency Ordinance Establishing a Moratorium on the Establishment,
+Erection, or Installation of Satellite Antennas | 5-28-1985 | 
+780U | Urgency Ordinance Extending Ordinance No. 779-U Relating to
+a Moratorium on Satellite Antennas | 7-15-1985 | 
+781 | 4-3.106 |  | 
+782 | 1-4.02, 9-8.206, 9-8.407 |  | 
+783 | 4-4.109, 4-4.110, 4-4.1711, 4-4.1713, 4-4.1714 |  | 
+784 | 4-4.1713, 4-4.1714, 4-4.1715 |  | 
+785 | 4-9.01 |  | 
+786 | 9-2.08 |  | 
+787 | 9-7.901 |  | 
+788 | 3-1.211, 9-5.304(g), 9-5.404(g), 9-6.303(d), 9-14.101 —
+9-14.111 |  | 
+789 | Approving a Second Amendment to Development Agreement with Hamilton
+Cove | 1-13-1986 | 
+790 | 4-4.109 |  | 
+791U | Urgency Ordinance Extending Ordinance No. 780-U Relating to
+a Moratorium on Satellite Antennas | 5-19-1986 | 
+792U | Urgency Ordinance Establishing a Moratorium on the Establishment,
+Erection, or Installation of Satellite Antennas | 7-7-1986 | 
+793 | 2-1.01 |  | 
+794U | Urgency Ordinance Establishing a Moratorium on the Establishment,
+Erection, or Installation of Satellite Antennas | 10-7-1986 | 
+795 | Repeal 5-3.01 — 5-3.04 |  | 
+796 | 4-3.101 — 4-3.107, Repealed Title 4, Ch. 4-3, Art. 3 |  | 
+797 | 1-2.01 |  | 
+798 | 10-2.402(e) |  | 
+799U | Urgency Ordinance Establishing a Moratorium on the Establishment,
+Erection, or Installation of Satellite Antennas | 12-15-1986 | 
+800U | 2-1.03 |  | 
+801 | 6-8.101 — 6-8.106 |  | 
+802U | 9-6.601, 9-6.602 |  | 
+803 | 9-6.601, 9-6.602 |  | 
+804 | 6-1.127 |  | 
+805 | 10-2.304(a) |  | 
+806 | 4-3.105 — 4-3.106 |  | 
+807 | 6-7.302(a), (b), (d), (e) |  | 
+808 | 2-2.307.5, 3-4.105 |  | 
+809 | Approving a Third Amendment to Development Agreement with Hamilton
+Cove | 7-7-1987 | 
+810U | 4-4.1901 — 4-4.1905 |  | 
+811 | 10-2.410 |  | 
+812 | 6-7.203 |  | 
+813 | 4-4.1701 — 4-4.1714 |  | 
+814U | 4-4.1904 — 4-4.1905 |  | 
+815 | 1-6.01 |  | 
+816 | 3-3.304 — 3-3.305, 10-2.404, 10-2.407 |  | 
+817 | 6-15.01 — 6-15.12 |  | 
+818 | 8-1.10 |  | 
+819 | 2-1.03 |  | 
+820U | 4-4.1901 — 4-4.1905 |  | 
+821 | Title of Title 9, Ch. 6, Art. 6, 9-6.601(a), 9-6.603 |  | 
+822U | 4-4.1904(e) |  | 
+823U | 4-4.1703(f) |  | 
+824 | 4-4.1703(f) |  | 
+825 | 8-3.02 |  | 
+826 | 8-1.01, 8-1.04, 8-1.12, 8-5.01, 8-5.03, 8-7.01, 8-7.03 |  | 
+827U | 4-4.1703(f), 5-11.03 |  | 
+828 | 10-2.212 |  | 
+829 | 10-2.402(a) |  | 
+830 | 4-4.1703(f) |  | 
+831U | 6-9.101 |  | 
+832U | 10-2.209, 10-2.503 |  | 
+833 | 4-4.102 — 4-4.111, 4-4.206, 4-4.1102(a)(1) — (a)(6),
+4-4.1103 |  | 
+834 | 3-4.102, 3-4.105(b), 3-4.106, 3-4.108, 3-4.201 |  | 
+835 | 1-2.07 |  | 
+836 | 10-2.101(d), 10-2.104(e), 10-2.206(b), (d), (e), (f), 10-2.212(d),
+(e), 10-2.214 |  | 
+837 | Approving a Fourth Amendment to Development Agreement with Hamilton
+Cove | 2-7-1989 | 
+838U | Moratorium on the Issuance of Vehicle Permits | 3-8-1989 | 
+839 | 4-1.02 — 4-1.04 |  | 
+840 | 9-4.101(i), 9-6.404, 9-6.510, 9-6.511, 9-11.104, 9-11.105(a) |  | 
+841 | Changing Zone of Certain Property | 3-7-1989 | 
+842 | 2-1.04 |  | 
+843 | 4-4.1701 — 4-4.1715 |  | 
+844U | Urgency Ordinance Regulating Discharges into City Waters | 6-20-1989 | 
+845 | 10-2.503(i) |  | 
+846 | 10-2.205 |  | 
+847U | Urgency Ordinance Regulating the Use of Sewers | 8-1-1989 | 
+848 | 6-7.310 — 6-7.312 |  | 
+849 | 10-2.101(h), 10-2.410(d), 10-2.416(d) |  | 
+850 | 5-16.01 — 5-16.18 |  | 
+851 | 9-3.608, 9-3.613, 9-3.619, 9-5.205, 9-5.305, 9-5.405, 9-8.201,
+9-8.202 |  | 
+852-U | 8-1.01, 8-1.04, 8-1.13, 8-4.01, 8-4.03, 8-5.01, 8-5.03, 8-5.05,
+8-7.01, 8-7.03, 8-7.05 |  | 
+853 | 4-4.1703(a), 4-4.1705, 4-4.1708(c) |  | 
+854 | 9-8.703 |  | 
+855-U | 9-5.305(e), 9-5.405(d), 9-5.405(e) |  | 
+856 | 10-2.212(a), 10-2.306 |  | 
+857 | 4-4.1703(a), 4-4.1717(b) |  | 
+858 | 9-2.09, 9-8.305, 9-8.414 |  | 
+859-90 | Contract between City Council and the Board of Administration,
+California Public Employees' Retirement System | 9-18-1990 | 
+860-90 | 7-2.01 — 7-2.03, 7-2.06, 7-2.07, 7-2.11 — 7-2.13 |  | 
+861-91 | 8-1.09 |  | 
+862-91 | 4-4.1701 — 4-4.1715 |  | 
+863-91 | 9-3.603 |  | 
+864-91 | 4-10.01, 4-10.02 |  | 
+865-91 | 2-6.408(c) |  | 
+866-91 | 9-8.112,9-8.208, 9-8.410 |  | 
+867-91 | 10-2.216, 10-2.217 |  | 
+868-91 | 4-8.01 |  | 
+869-91 | 4-9.101 — 4-9.113, 4-9.201 — 4-9.206 |  | 
+870-92U | 5-2.01 — 5.2.04 |  | 
+871-92 | 5-2.01 — 5-2.04 |  | 
+872-92 | 10-2.410 — 10-2.416 |  | 
+873-92 | 8-4.01 — 8-4.03 |  | 
+874-92 | 8-1.01 — 8-1.11 |  | 
+875-92 | 8-5.01 — 8-5.13 |  | 
+876-92 | 8-7.01 — 8-7.03 |  | 
+877-92 | 10-2.503(i) |  | 
+878-92 | 6-7.302(b)(1), (3) |  | 
+879-92 | 3-3.601 — 3-3.614 |  | 
+880-U-92 | 4-1.06 |  | 
+881-92 | 9-15.101 — 9-15.114 |  | 
+882-92 | 10-2.402 |  | 
+883-92 | 4-1.06 |  | 
+884-U-92 | 8-1.01 |  | 
+885-U-92 | 8-7.01 |  | 
+886-92 | 8-1.01 |  | 
+887-92 | 8-7.01 |  | 
+888-92 | 9-6.404 |  | 
+889-92 | 8-8.01 |  | 
+890-92 | 5-13.05 |  | 
+891-93 | 3-3.402(b), (e), (f), 3-3.403, 3-3.406 — 3-3.408, 3-3.415
+— 3-3.423 |  | 
+892-93 | 4-3.101 — 4-3.105 |  | 
+893-93 | 4-3.201 — 4-3.210 |  | 
+894-U-93 | 4-4.1714 |  | 
+895-93 | 4-4.1714 |  | 
+896-93 | 9-6.404 |  | 
+897-93 | 9-8.112, 9-8.208, 9-8.410 |  | 
+898-93 | Not used |  | 
+899-93 | 1-2.01(a), 4-4.302 |  | 
+900-93U | 10-2.503(j) |  | 
+901-93 | 10-2.503(j) |  | 
+902-94 | 3-3.301 — 3-3.303, 3-3.310 |  | 
+903-94 | Approving Sixth Amendment to Development Agreement with Hamilton
+Cove | 3-1-1994 | 
+904-94 | 3-2.101 — 3-2.103, 3-3.403 |  | 
+905-94 | 2-1.05 |  | 
+906-94 | 5-17.01 — 5-17.10 |  | 
+907-94 | 4-4.1703(d)(1), (2) |  | 
+908-94 | 4-3.103 |  | 
+909-94 | Approving a Development Agreement with Catalina GBC Limited
+Partnership | 9-6-1994 | 
+910-94 | 6-2.101, 6-2.117 |  | 
+911-94 | 10-2.217 |  | 
+912-94 | 3-3.701 — 3-3.706 |  | 
+913-95 | 4-4.1301 |  | 
+914-95 | Amending Redevelopment Plan | 2-3-1995 | 
+915-95 | 4-11.101 — 4-11.113 |  | 
+916-95 | 5-12.02 — 5-12.03 |  | 
+917-95 | 4-4.1701 — 4-4.1715, 4-4.1906 |  | 
+918-95 | Designation of Very High Wildland Fire Hazard Severity Zones
+Map | 4-18-1995 | 
+919-95 | 6-7.203, 6-7.302 |  | 
+920-95 | 10-2.412 |  | 
+921-95 | 3-2.101 |  | 
+922-95 | 8-1.01, 8-5.01, 8-7.01 |  | 
+923-95 | 3-3.605(a), 3-3.612(c), 3-3.614 |  | 
+924-96 | Prezone Certain Property | 1-1-1996 | 
+925-96 | 9-6.602 |  | 
+926-96 | 4-4.1703, 4-4.1704(b), 4-4.1705, 4-4.1706, 4-4.1707(a), (b),
+(d), (i), 4-4.1714(a) |  | 
+927-96 | 4-1.06, 4-4.304 |  | 
+928-96 | 3-3.304, 3-3.305, 3-3.407, 3-3.408(e), (f) |  | 
+929-96 | Pending vote of electorate |  | 
+930-96 | 5-6.06 — 5-6.09 |  | 
+931-96 | 3-1.102 — 3-1.104, 3-1.106, 3-1.108 — 3-1.123, 3-1.208
+— 3-1.217 |  | 
+932-96 | 6-1.124 |  | 
+933-96 | 5-1.03, 5-9.01, 5-9.18(a), (d), (f), (k) |  | 
+934-96 | 9-7.606(a) |  | 
+935-96 | 9-5.305, 9-5.405, 9-5.505, 9-13-101, 9-13.103, 9-13.105 —
+9-13.109 |  | 
+936-96 | Not used |  | 
+937-96 | 4-5.101, 4-5.102 |  | 
+938-96 | 3-1.203 |  | 
+939-96 | 10-6.02, 10-6.03 |  | 
+940-96 | 9-6.601(e), (f), 9-6.602, 9-7.1001, 9-7.1002 |  | 
+941-97 | 4-3.103 |  | 
+942-97 | 2-1.05 |  | 
+943-97 | 4-3.101, 4-3.102, 4-3.104, 4-3.105 |  | 
+944-97 | 9-5.205(e)(1), 9-5.305(e)(1), 9-5.405(e)(1), 9-5.505(e)(1) |  | 
+945-97 | 9-5.405, 9-5.406, 9-8.703(a)(4) |  | 
+945A-97 | 4-1.06(b), (d) |  | 
+946-97 | 8-1.10 |  | 
+947-97 | 6-9.101 — 6-9.701 |  | 
+948-97 | 8-6.01 — 8-6.31, 9-3.619, 9-3.619(u), 9-7.703(b), 9-7.705,
+9-7.713(b), (d), 9-7.714, 9-7.719, 9-7.728(c) |  | 
+948A-98 | 4-1.09 |  | 
+949-98 | 6-3.01, 6-3.04 — 6-3.08 |  | 
+950-98 | 4-1.06(d), (e) |  | 
+951-98 | Rezone Certain Property | 4-7-1998 | 
+952-98 | 6-1.130 — 6-1.140 |  | 
+953-98 | 4-6.09 |  | 
+954-98 | 4-1.02 |  | 
+955-98 | 6-2.107, 6-2.201, 6-2.205, 6-2.209 |  | 
+956-98 | 4-4.1404, 4-4.1406, 4-4.1407 |  | 
+957-98 | 10-2.503(h) |  | 
+958-98 | 10-2.503(i) |  | 
+959-98 | 10-2.208, 10-2.212 |  | 
+960-99 | 10-2.216 |  | 
+961-99 | Amendment to Contract Between City Council and the Board of
+Administration, California Public Employees' Retirement System | 2-2-1999 | 
+962-99 | 4-4.1702, 4-4.1703(b)(5), (d)(1),(2), 4-4.1703.5(b)(5), 4-4.1705,
+4-4.1707, 4-4.1714(b), (c) |  | 
+963-99 | 4-4.1301 |  | 
+964-99 | 6-9.801 — 6-9.803[Repealed by Ord. 966-99] |  | 
+965-99 | 6-10.101 — 6-10.104 |  | 
+966-99 | 6-9.801 — 6-9.803 |  | 
+967-99 | 6-9.801 — 6-9.803 |  | 
+968-99 | 9-5.406(d), (e)(3), (4) |  | 
+969-99 | 5-12.02 |  | 
+970-99 | 5-13.07 |  | 
+971-99 | 4-4.1703(e) |  | 
+972-99 | 3-3.202, 3-3.209, 3-3.212(a), (b), 3-2.213, 3-2.214 |  | 
+973-00 | 10-2.421 |  | 
+974-00 | 10-2.503(k) |  | 
+975-00 | 3-3.202, 3-3.204, 3-3.209, 3-3.212, 3-3.213 |  | 
+976-00 | 4-4.1714(a)[Superseded by Ord. #982-00] |  | 
+977-00 | 4-4.1713, repeals Table 5 of Appendix A |  | 
+978-00 | Amendment to Contract Between City Council and Board of Administration,
+California Public Employees' Retirement System | 2-21-2000 | 
+979-00 | Amend the Redevelopment Plan of the Avalon Community Improvement
+Agency to Extend the Time Within Which It May Incur Debt | 3-21-2000 | 
+980-00 | Approve Finance and Development Agreement for the Bird Park
+Housing Phase I/Beacon Street Senior Housing Project | 5-16-2000 | 
+981-00 | 7-4.01 — 7-4.04 |  | 
+982-00 | 4-4.1714(a)[Superseded by Ord. #990-01] |  | 
+983-00 | 4-4.1705, 4-4.1707 |  | 
+984-00 | 4-4.1703(d) |  | 
+985-00 | 4-4.1703(f) |  | 
+986-00 | 4-4.1705 |  | 
+987-00 | 10-2.513 |  | 
+988-00 | 5-13.03, 5-13.07 |  | 
+989-00 | 4-12.101 — 4-12.108 |  | 
+990-01 | 4-4.1714(a) |  | 
+991-01-U | 6-6.13[Superseded by Ord. #993-01] |  | 
+992-01-U | Moratorium on the Issuance of Conditional Use Permits for Transient
+Rentals | 2-6-2001 | 
+993-01 | 6-6.13 |  | 
+994-01 | 10-2.402, 10-2.410 |  | 
+995-01 | 10-2.402, 10-2.410(d)(4) |  | 
+996-01 | 10-2.402(g), 10-2.404(c), 10-2.413.b |  | 
+997-01 | Amend the Redevelopment Plan of the Avalon Community Improvement
+Project Area | 4-17-2001 | 
+998-01 | 4-13.101 |  | 
+999-01 | 3-3.301, 3-3.302 |  | 
+1000-01 | 3.12.112 |  | 
+1001-01 | 4-1.02, 4-1.03, 4-1.04, 4-1.07, 5-17.03, 6-1.104, 6-1.105, 6-7.201,
+6-7.203, 7-2.02, 7-2.03 |  | 
+1002-01 | 6-6.01(b), 6-6.03, 6-6.04, 6-6.05, 6-6.07 |  | 
+1003-02 | 9-3613, 9-8.404(d),(e),(f), 9-8.411(a), 9-8.802, 9-8.901(b) |  | 
+1004-02 | 10-2.402(e),(f), 10-2.403, 10-2.410(d), 10-2.412, 10-2.416 |  | 
+1005-02 | 4-4.1703(a) |  | 
+1006-02 | 6-6.01(a) |  | 
+1007-02 | 4-4.1705 |  | 
+1008-02 | 4-4.1703(d) |  | 
+1009-02 | 10-2.101(m), 10-2.205, 10-2.207, 10-2.210 |  | 
+1010-02 | 4-4.112, 4-4.1004 |  | 
+1011-03 | 6-9.201, 6-9.401, 6-9.403, 6-9.504 |  | 
+1012-03 | 4-4.1703(g) |  | 
+1013-03 | 5-6.02, 5-6.08 |  | 
+1014-03 | 10-2.104, 10-2.214, 10-2.514 |  | 
+1015-03 | 10-2.104, 10-2.214, 10-2.514 |  | 
+1016-03 | 5-6.01 — 5-6.11 |  | 
+1017-04 | 6-2.110, 6-2.201 — 6-2.214, 6-2.301 — 6-2.303 |  | 
+1018-04 | 9-11.102(b), (c),(d), 9-11.104(a) |  | 
+1019-04 | 6-2.401 — 6-2.404 |  | 
+1020-04 | 10-3.01 |  | 
+1021-04 | 5-18.01, 5-18.02 |  | 
+1022-04 | 3-3.403 |  | 
+1023-04 | 10-2.402(b) |  | 
+1024-04 | 3-2.101 |  | 
+1025-04 | 6-1.109, 6-1.110 |  | 
+1026-04 | 3-3.424 |  | 
+1027-04 | 4-4.1703(b), 4-4.1704 |  | 
+1028-05 | 2-3.01 |  | 
+1029-05 | 1-6.01 — 1-6.02 |  | 
+1030-05 | 4-4.1408 — 4-4.1411 |  | 
+1031-05 | 6-6.02 |  | 
+1032-05 | 4-4.1707(a)(4) |  | 
+1033-05 | 4-4.1703(e) |  | 
+1034-05 | 10-2.402(e) |  | 
+1035-05 | 4-4.1703(b) |  | 
+1036-05 | 10-2.212, 10-2.213, 10-2.219, 10-2.511, 10-2.512, 10-2.515,
+10-2.516 |  | 
+1037-06 | 10-2.101(d),(o), 10-2.206(g) |  | 
+1038-06 | 9-8.404(e), 9-8.404(f)(1),(2),(4) |  | 
+1039-06 | 10-2.107, 10-2.503(j), 10-3.05 |  | 
+1040-06 | 4-4.1703(e)(2) |  | 
+1041-06 | 4-6.02, 4-6.05, 4-6.06, 4-6.07 |  | 
+1042-06U | 4-4.1408.1 |  | 
+1043-06U | 4-4.1408.1 |  | 
+1044-06 | 4-4.1408.1 |  | 
+1045-06 | 6-11.101, 6-11.102 |  | 
+1046-06 | 6-2.201(n), 6-2.204 |  | 
+1047-06 | 9-8.703(d) |  | 
+1048-06 | 4-5.101 |  | 
+1049-07 | 4-4.1703(d)(1)h,(2),(3) |  | 
+1050-07 | 4-4.1703.5(a), 4-4.1707(e) |  | 
+1051-07 | 4-4.1714(a) |  | 
+1052-07 | 4-4.1102(b) |  | 
+1053-07 | 4-4.1713(a),(c) |  | 
+1054-07 | 4-3.101, 4-3.102, 4-3.104 |  | 
+1055-07 | 8-1.01, 8-1.04, 8-1.05, 8-1.06, 8-1.07, 8-1.09, 8-1.10 |  | 
+1056-07 | 8-7.01 |  | 
+1057-07 | 8-4.01 |  | 
+1058-07 | 8-5.01 |  | 
+1059-07 | 8-6.01 |  | 
+1060-07 | 9-5.204(b) |  | 
+1061-07 | 9-11.101 — 9-11.123 |  | 
+1062-07 | Description of Community Improvement Program Regarding Eminent
+Domain | 9-18-2007 | 
+1063-07 | 4-14.1703(a)(1) |  | 
+1064-07 | Approving Development Agreement between the City of Avalon and
+Hamilton Pacific, LLC for Construction of Residential Congregate and
+Single-Family Units at Hamilton Cove | 11-6-2007 | 
+1065-08 | 9-5.406(d)(1),(2),(3) |  | 
+1066-08 | 8-1.01, 8-4.101, 8-5.101, 8-7.101 |  | 
+1067-08 | 4-4.1705 |  | 
+1068-08 | 4-4.1703(d)(1)h |  | 
+1069-08 | 4-4.1102(b) |  | 
+1070-08 | 9-1.01, 9-1.02 |  | 
+1071-08 | 9-1.03 |  | 
+1072-08 | 4-11.104 |  | 
+1073-08 | 6-1.111(c) |  | 
+1074-08 | 4-4.1102(a), 4-4.1103, 4-4.1104 |  | 
+1075-08 | 4-9.101, 4-9.102 |  | 
+1076-08 | 5-6.02 |  | 
+1077-08 | 5-14.02, 5-14.04 |  | 
+1078-08 | Approving First Amendment to Development Agreement between the
+City of Avalon and Hamilton Pacific LLC for Construction of a Residential
+Project at Hamilton Cove and Associated Improvements Including Support
+Housing at Bird Park and Related Infrastructure | 11-4-2008 | 
+1079-08 | 4-4.1707(a), 4-4.1707(a)(2) |  | 
+1080-08 | 4-14.01-4-14.16 |  | 
+1081-08 | 4-14.1703(d)(1), (d)(6) |  | 
+1082-08 | 4-4.1704 |  | 
+1083-09 | 4-15.101-4-15.108 |  | 
+1084-09 | 9-3.606 |  | 
+1085-09 | 5-1.01(b)(8) |  | 
+1086-09 | 5-6.02(a), 5-6.02(a)(4) |  | 
+1087-09 | 9-8.703(b), (c),(d) |  | 
+1088-09 | 2-2.202, 2-2.203(f)-(n), 2-2.307, 2-2.307(b), (c), (d), (h),
+(i), (j), (l), (m), 2-2.307.5(b), 2-2.309, 3-4.103, 3-4.104, 3-4.105(b),
+(c), 3-4.106, 3-4.106(b), (c), (d), 3-4.107 |  | 
+1089-09 | Amendment to Contract Between City Council and Board of Administration,
+California Public Employees' Retirement System | 11-3-2009 | 
+1090-09 | 6-12.01-6.12.10; 9-7.802 |  | 
+1091-10 | 9-7.706(c), 9-7.709(j), (k) |  | 
+1092-10 | 9-11.101-9-11.123 |  | 
+1093-10 | 3-4.109, 3-4.110 |  | 
+1094-10 | 6-1.137 |  | 
+1095-10 | 10-2.210(d) |  | 
+1096-10 | 4-4.1705, 4-4.1714 |  | 
+1097-10 | 9-8.404(d)(9)i |  | 
+1098-10 | 2-1.06, 2-1.07 |  | 
+U-1099-10 | Moratorium on establishment of tattoo parlors | 9-21-2010 | 
+U-1100-10 | Extend moratorium on establishment of tattoo parlors | 11-2-2010 | 
+1101-10 | 9-3.602 |  | 
+1102-10 | 9-8.1201 |  | 
+1103-10 | 8-1.01 — 8-1.11 8-4.01 — 8-4.04 8-5.01 — 8-5.07
+8-6.01 — Repealed 8-7.01 — 8-7.04 8-8.01 — 8-8.10 |  | 
+1104-11 | 10-2.219 |  | 
+1105-11 | 4-6.01 — 4-6.16 |  | 
+1106-11 | 1-8.01 — 1-8.07 |  | 
+1107-11 | 5-19.01 — 5-19.19 |  | 
+1108-11 | 10-2.402 |  | 
+1110-11 | 4-6.04 |  | 
+1111-11 | Amendment to development agreement with Hamilton Pacific LLC | 11-15-2011 | 
+U-1112-12 | Repealed by 1117-13 |  | 
+1113-12 | 4-15.102(d); 4-15.102(f)-(j)- Repealed 4-15.103(b)(c)(h)(r);
+4-15.104(a),(i); 4-15.105; 4-15.107 |  | 
+1114-12 | 2-1.01 |  | 
+1115-12 | 4-4.1408.1 — Repealed |  | 
+1116-12 | 9-5.404(h) |  | 
+1117-13 | 4-4.1703(g)(1) 5-11.03, 5-11.04, 5-11.06 |  | 
+1118-13 | 6-7.301-6-7.400 6-7.401-6-7.500 |  | 
+1119-11 | Compliance with alternative voluntary redevelopment program | 8-16-2011 | 
+1119-13 | 6-7.101 — 6-7.200 6-7.201 — 6-7.300 6-7.501 —
+6-7.600 6-13.101 — 6-13.200 |  | 
+1120-13 | 6-9.101 — 6-9.603 |  | 
+
+
