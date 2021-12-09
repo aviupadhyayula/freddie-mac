@@ -1,0 +1,55 @@
+idx,state,county,muni,unique_counts,all_counts
+3,California,Contra Costa County,DANVILLE,12,12
+6,California,Los Angeles County,TEMPLE CITY,0,0
+22,Florida,Broward County,COOPER CITY,1,1
+31,Idaho,Canyon County,MIDDLETON,0,0
+33,Illinois,Cook County,WESTERN SPRINGS,0,0
+34,Illinois,DuPage County,BARTLETT,0,0
+35,Illinois,DuPage County,HINSDALE,0,0
+36,Illinois,Grundy County,MINOOKA,0,0
+39,Illinois,Lake County,LINDENHURST,0,0
+41,Illinois,Will County,MANHATTAN,0,0
+43,Illinois,Cook County,WINNETKA,9,9
+45,Illinois,DuPage County,WINFIELD,0,0
+46,Illinois,Jersey County,JERSEYVILLE,1,1
+47,Illinois,Lake County,LAKE ZURICH,0,0
+49,Illinois,Lake County,WINTHROP HARBOR,5,6
+50,Illinois,Sangamon County,CHATHAM,1,3
+51,Illinois,Will County,LOCKPORT,1,1
+52,Illinois,Will County,MOKENA,0,0
+66,Illinois,Will County,ROMEOVILLE,19,19
+68,Indiana,Allen County,HUNTERTOWN,0,0
+69,Indiana,Lake County,CEDAR LAKE,0,0
+70,Indiana,Lake County,DYER,0,0
+80,Kentucky,Bullitt County,MOUNT WASHINGTON,0,0
+81,Kentucky,Campbell County,ALEXANDRIA,0,0
+82,Kentucky,Kenton County,EDGEWOOD,0,0
+83,Kentucky,Kenton County,VILLA HILLS,0,0
+86,Michigan,Kent County,EAST GRAND RAPIDS,4,8
+94,Michigan,Wayne County,GARDEN CITY,1,1
+98,Minnesota,Dakota County,FARMINGTON,0,0
+110,Ohio,Cuyahoga County,BROOK PARK,0,0
+111,Ohio,Cuyahoga County,HIGHLAND HEIGHTS,0,0
+112,Ohio,Cuyahoga County,SOLON,0,0
+113,Ohio,Hamilton County,SPRINGFIELD,5,5
+114,Ohio,Lake County,MENTOR,1,1
+115,Ohio,Lake County,WICKLIFFE,0,0
+116,Ohio,Lorain County,AMHERST,8,8
+117,Ohio,Lorain County,NORTH RIDGEVILLE,14,14
+118,Ohio,Butler County,FAIRFIELD,18,18
+119,Ohio,Cuyahoga County,SOUTH EUCLID,0,0
+121,Ohio,Hamilton County,MONTGOMERY,0,0
+122,Ohio,Hamilton County,WYOMING,3,3
+123,Ohio,Lorain County,AVON,0,0
+124,Ohio,Mahoning County,STRUTHERS,1,1
+126,Ohio,Cuyahoga County,SEVEN HILLS,0,0
+127,Ohio,Summit County,MACEDONIA,0,0
+128,Ohio,Delaware County,GENOA,0,0
+129,Ohio,Stark County,PERRY,0,0
+137,South Carolina,Charleston County,JAMES ISLAND,4,4
+142,Tennessee,Shelby County,COLLIERVILLE,17,17
+175,Utah,Davis County,FARMINGTON,0,0
+177,Utah,Davis County,SOUTH WEBER,11,11
+179,Utah,Salt Lake County,HERRIMAN,0,0
+181,Utah,Utah County,CEDAR HILLS,0,0
+184,Utah,Washington County,SANTA CLARA,0,0
