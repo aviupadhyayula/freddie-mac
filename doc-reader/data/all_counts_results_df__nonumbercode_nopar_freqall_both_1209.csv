@@ -1,0 +1,55 @@
+idx,state,county,muni,unique_matches,unique_counts,all_counts,muncipalcode,source
+3,California,Contra Costa County,DANVILLE,"['A', 'A-1', 'A-2', 'C', 'CC', 'D-1', 'FAR', 'G-1', 'I', 'IV', 'L-I', 'O-1', 'OR', 'P-1', 'PARK', 'R-B', 'V']",17,18,https://codelibrary.amlegal.com/codes/danvilleca/latest/overview,codelibrary
+6,California,Los Angeles County,TEMPLE CITY,"['A', 'C', 'I', 'IL', 'MU', 'OR', 'OS', 'P', 'RH', 'RL', 'RM']",11,19,https://codelibrary.amlegal.com/codes/templecityca/latest/overview,codelibrary
+22,Florida,Broward County,COOPER CITY,"['A', 'A-1', 'B-1', 'B-2', 'B-3', 'C-1', 'C-2', 'CS', 'E-1', 'E-2', 'E-3', 'I', 'I-1', 'IV', 'OP', 'P-1', 'PCD', 'PRD', 'R-1-C', 'R-2', 'R-3', 'R-4', 'TH-1']",23,68,https://codelibrary.amlegal.com/codes/coopercity/latest/overview,codelibrary
+31,Idaho,Canyon County,MIDDLETON,"['A', 'A-R', 'B', 'C-1', 'C-2', 'C-3', 'M-1', 'M-2', 'R-1', 'R-2', 'R-3', 'RV', 'TOD']",13,29,https://codelibrary.amlegal.com/codes/middletonid/latest/overview,codelibrary
+33,Illinois,Cook County,WESTERN SPRINGS,"['A', 'B', 'C1', 'C2', 'DT', 'MXD', 'O', 'R1', 'R2', 'R3', 'R4', 'R5', 'RB']",13,24,https://codelibrary.amlegal.com/codes/westernspringsil/latest/overview,codelibrary
+34,Illinois,DuPage County,BARTLETT,"['A', 'B', 'I', 'PUD']",4,21,https://codelibrary.amlegal.com/codes/bartlettil/latest/overview,codelibrary
+35,Illinois,DuPage County,HINSDALE,"['A', 'B', 'B-1', 'B-2', 'B-3', 'DR', 'HS', 'I', 'IV', 'O-1', 'O-2', 'O-3', 'OS', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5', 'R-6', 'V']",20,36,https://codelibrary.amlegal.com/codes/hinsdaleil/latest/overview,codelibrary
+36,Illinois,Grundy County,MINOOKA,"['A', 'B', 'B1', 'B2', 'R1', 'R1A', 'R2', 'R3', 'R4', 'R5', 'R6']",11,14,https://codelibrary.amlegal.com/codes/minookail/latest/overview,codelibrary
+39,Illinois,Lake County,LINDENHURST,"['A', 'B', 'C', 'E', 'G', 'H', 'I']",7,16,https://codelibrary.amlegal.com/codes/lindenhurstil/latest/overview,codelibrary
+41,Illinois,Will County,MANHATTAN,"['A', 'A-1', 'B', 'BP', 'C-1', 'C-2', 'C-3', 'CBD', 'CR', 'ER', 'I-1', 'I-2', 'I-3', 'P', 'PP', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5', 'R-6', 'S']",22,873,https://codelibrary.amlegal.com/codes/manhattanil/latest/overview,codelibrary
+43,Illinois,Cook County,WINNETKA,"['A', 'B-1', 'B-2', 'C-1', 'C-2', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5']",10,31,https://codelibrary.amlegal.com/codes/winnetka/latest/overview,codelibrary
+45,Illinois,DuPage County,WINFIELD,"['A', 'B', 'CAR', 'OR', 'S']",5,164,https://codelibrary.amlegal.com/codes/winfieldil/latest/overview,codelibrary
+46,Illinois,Jersey County,JERSEYVILLE,"['A', 'B', 'I', 'NO', 'O']",5,15,https://codelibrary.amlegal.com/codes/jerseyvilleil/latest/overview,codelibrary
+47,Illinois,Lake County,LAKE ZURICH,"['A', 'B', 'B-1', 'B-2', 'B-3', 'D1', 'D2', 'D3', 'DR', 'I', 'LP', 'O-1', 'O-2', 'O-3', 'OS', 'R-1/2', 'R-3', 'R-4', 'R-5', 'R-6']",20,33,https://codelibrary.amlegal.com/codes/lakezurichil/latest/overview,codelibrary
+49,Illinois,Lake County,WINTHROP HARBOR,"['A', 'B', 'B-1', 'B-4', 'B-5', 'C', 'E', 'G', 'H', 'I', 'OR', 'R-2', 'R-5', 'R-6']",14,59,https://codelibrary.amlegal.com/codes/winthropharbor/latest/overview,codelibrary
+50,Illinois,Sangamon County,CHATHAM,"['A', 'B', 'C', 'CAR', 'E', 'OR', 'P-1', 'PARK', 'PUD', 'R-2']",10,100,https://codelibrary.amlegal.com/codes/chatham/latest/overview,codelibrary
+51,Illinois,Will County,LOCKPORT,"['A', 'B', 'C', 'C-4', 'CAR', 'E', 'E-R', 'G', 'H', 'I', 'L', 'M', 'O', 'OR', 'P', 'PARK', 'Q', 'R', 'R-1', 'R-O', 'RV', 'S', 'T', 'U', 'V', 'W']",26,337,https://codelibrary.amlegal.com/codes/lockport/latest/overview,codelibrary
+52,Illinois,Will County,MOKENA,"['A', 'A-1', 'B', 'C-1', 'C-1A', 'C-2', 'C-3', 'C-4', 'C1', 'C3', 'E-1', 'I', 'I-1', 'I-2', 'I-3', 'O-1', 'O-2', 'OR-1', 'P-1', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5', 'R-6', 'TOD']",26,42,https://codelibrary.amlegal.com/codes/mokenail/latest/overview,codelibrary
+53,Illinois,Cook County,GLENCOE,"['A', 'A-1', 'B', 'C-1', 'C-1A', 'C-2', 'C-3', 'C-4', 'C1', 'C3', 'E-1', 'I', 'I-1', 'I-2', 'I-3', 'O-1', 'O-2', 'OR-1', 'P-1', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5', 'R-6', 'TOD']",26,42,https://codelibrary.amlegal.com/codes/glencoe/latest/overview,codelibrary
+54,Illinois,Cook County,INVERNESS,"['A', 'A-1', 'B', 'C-1', 'C-1A', 'C-2', 'C-3', 'C-4', 'C1', 'C3', 'E-1', 'I', 'I-1', 'I-2', 'I-3', 'O-1', 'O-2', 'OR-1', 'P-1', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5', 'R-6', 'TOD']",26,42,https://codelibrary.amlegal.com/codes/invernessil/latest/overview,codelibrary
+66,Illinois,Will County,ROMEOVILLE,"['A', 'A-1', 'B', 'B-1', 'B-2', 'B-3', 'B-4', 'C', 'E', 'E-R', 'FAR', 'G', 'H', 'I', 'L', 'M', 'M-1', 'M-2', 'M-R', 'O', 'OR', 'P', 'P-1', 'PARK', 'PUD', 'Q', 'R', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5', 'R-5A', 'R-6', 'R-7', 'S']",36,353,https://codelibrary.amlegal.com/codes/romeoville/latest/overview,codelibrary
+67,Illinois,Will County,SHOREWOOD,"['A', 'A-1', 'B', 'B-1', 'B-2', 'B-3', 'B-4', 'C', 'E', 'E-R', 'FAR', 'G', 'H', 'I', 'L', 'M', 'M-1', 'M-2', 'M-R', 'O', 'OR', 'P', 'P-1', 'PARK', 'PUD', 'Q', 'R', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5', 'R-5A', 'R-6', 'R-7', 'S']",36,353,https://codelibrary.amlegal.com/codes/shorewoodil/latest/overview,codelibrary
+70,Indiana,Lake County,DYER,"['A', 'B', 'B-1', 'B-2', 'B-3', 'I', 'PUD', 'R-1', 'R-2', 'R-3', 'R-4', 'RD']",12,39,https://codelibrary.amlegal.com/codes/dyer/latest/overview,codelibrary
+86,Michigan,Kent County,EAST GRAND RAPIDS,"['A', 'B', 'C-1', 'I', 'IV', 'O-P', 'OR', 'PUD']",8,55,https://codelibrary.amlegal.com/codes/eastgrandrapidsmi/latest/overview,codelibrary
+94,Michigan,Wayne County,GARDEN CITY,"['A', 'B', 'C', 'C-1', 'C-2', 'C-3', 'CAR', 'CBD', 'E', 'G', 'H', 'I', 'L', 'M', 'M-1', 'O-1', 'OR', 'PA', 'PARK', 'PD', 'PR', 'R-1', 'R-2', 'R-3', 'S', 'TV']",26,245,https://codelibrary.amlegal.com/codes/gardencity/latest/overview,codelibrary
+98,Minnesota,Dakota County,FARMINGTON,"['A-1', 'P/OS', 'PUD']",3,3,https://codelibrary.amlegal.com/codes/farmingtonmn/latest/overview,codelibrary
+102,Missouri,St. Charles County,COTTLEVILLE,[],0,0,https://ecode360.com/CO3275,ecode360
+103,Missouri,St. Charles County,O'FALLON,[],0,0,https://ecode360.com/OF3382,ecode360
+104,Missouri,St. Charles County,ST. PETERS,[],0,0,https://ecode360.com/ST3438,ecode360
+106,New Jersey,Atlantic County,NORTHFIELD,[],0,0,https://ecode360.com/NO0505,ecode360
+110,Ohio,Cuyahoga County,BROOK PARK,"['A', 'A-1', 'A-2', 'A-5', 'A-6', 'B', 'H-1', 'I', 'IN', 'LDR', 'OR']",11,56,https://codelibrary.amlegal.com/codes/brookpark/latest/overview,codelibrary
+111,Ohio,Cuyahoga County,HIGHLAND HEIGHTS,"['G-B', 'O-B', 'P']",3,3,https://codelibrary.amlegal.com/codes/highlandhts/latest/overview,codelibrary
+113,Ohio,Hamilton County,SPRINGFIELD,"['A', 'CO-1', 'G', 'M-1', 'M-2', 'PD', 'RR-1']",7,14,https://codelibrary.amlegal.com/codes/springfield/latest/overview,codelibrary
+114,Ohio,Lake County,MENTOR,"['A', 'B', 'I', 'PD', 'R-1']",5,10,https://codelibrary.amlegal.com/codes/mentor/latest/overview,codelibrary
+115,Ohio,Lake County,WICKLIFFE,"['OB', 'OS']",2,2,https://codelibrary.amlegal.com/codes/wickliffe/latest/overview,codelibrary
+116,Ohio,Lorain County,AMHERST,"['C-1', 'C-2', 'C-3', 'I-1', 'M-1', 'R-1', 'R-2', 'R-3']",8,15,https://codelibrary.amlegal.com/codes/amherst/latest/overview,codelibrary
+117,Ohio,Lorain County,NORTH RIDGEVILLE,"['B-1', 'B-2', 'B-3', 'B-4', 'B-5', 'I', 'I-1', 'I-2', 'I-3', 'PCD', 'R-1', 'R-2', 'R-3', 'R-4', 'R-5']",15,29,https://codelibrary.amlegal.com/codes/northridgeville/latest/overview,codelibrary
+118,Ohio,Butler County,FAIRFIELD,"['A-1', 'B-1', 'C-1', 'C-2', 'C-2A', 'C-2B', 'C-3', 'C-3A', 'C-4', 'D-1', 'M-1', 'M-1A', 'M-2', 'R-1', 'R-2', 'R-3', 'R-4', 'SE', 'ST']",19,34,https://codelibrary.amlegal.com/codes/fairfield/latest/overview,codelibrary
+119,Ohio,Cuyahoga County,SOUTH EUCLID,"['C-1', 'C-2', 'C-3', 'M-1', 'M-2', 'R-40', 'R-50', 'R-60', 'R-75', 'R-O']",10,10,https://codelibrary.amlegal.com/codes/southeuclid/latest/overview,codelibrary
+121,Ohio,Hamilton County,MONTGOMERY,"['A', 'B', 'C', 'E', 'OC', 'R-7']",6,9,https://codelibrary.amlegal.com/codes/montgomery/latest/overview,codelibrary
+122,Ohio,Hamilton County,WYOMING,"['A', 'B', 'C-1', 'C-2', 'C-3', 'E']",6,13,https://codelibrary.amlegal.com/codes/wyoming/latest/overview,codelibrary
+123,Ohio,Lorain County,AVON,"['A', 'B', 'C-1', 'C-2', 'C-3', 'C-4', 'M-1', 'M-2', 'O-1', 'O-2', 'R-1', 'R-2', 'R-3']",13,13,https://codelibrary.amlegal.com/codes/avonoh/latest/overview,codelibrary
+124,Ohio,Mahoning County,STRUTHERS,"['A', 'B', 'C', 'C-1']",4,16,https://codelibrary.amlegal.com/codes/struthers/latest/overview,codelibrary
+126,Ohio,Cuyahoga County,SEVEN HILLS,"['A', 'B', 'C']",3,5,https://codelibrary.amlegal.com/codes/sevenhills/latest/overview,codelibrary
+127,Ohio,Summit County,MACEDONIA,"['B', 'B-1', 'B-2', 'B-3', 'B-4', 'I', 'R', 'R-P']",8,8,https://codelibrary.amlegal.com/codes/macedonia/latest/overview,codelibrary
+135,Pennsylvania,Westmoreland County,MONESSEN,[],0,0,https://ecode360.com/MO1700,ecode360
+136,Rhode Island,Bristol County,BARRINGTON,[],0,0,https://ecode360.com/BA1328,ecode360
+137,South Carolina,Charleston County,JAMES ISLAND,"['A', 'B', 'C', 'CC', 'E', 'G', 'H', 'I', 'L', 'M', 'O', 'OR', 'PD', 'R', 'RV']",15,45,https://codelibrary.amlegal.com/codes/jamesisland/latest/overview,codelibrary
+142,Tennessee,Shelby County,COLLIERVILLE,"['A', 'AH', 'B', 'C', 'CA', 'CB', 'CO', 'E', 'FAR', 'G', 'GC', 'GI', 'H', 'H-1', 'I', 'IL', 'IN', 'L', 'M', 'MU', 'NC', 'OR', 'PARK', 'R-1', 'R-1A', 'R-2', 'R-25', 'R-2A', 'R-3', 'R-3A', 'R-4', 'R-L', 'RL', 'S', 'SCC', 'T']",36,345,https://codelibrary.amlegal.com/codes/collierville/latest/overview,codelibrary
+175,Utah,Davis County,FARMINGTON,"['A', 'B']",2,4,https://codelibrary.amlegal.com/codes/farmingtonut/latest/overview,codelibrary
+177,Utah,Davis County,SOUTH WEBER,"['A', 'B-C', 'C', 'C-H', 'C-R', 'L-I', 'PUD', 'R-7', 'R-L', 'R-LM', 'R-M', 'R-P', 'T-1']",13,15,https://codelibrary.amlegal.com/codes/southweberut/latest/overview,codelibrary
+179,Utah,Salt Lake County,HERRIMAN,"['A', 'A-1', 'B', 'C-1', 'C-2', 'EC', 'H', 'IN', 'M-1', 'MU', 'MU-2', 'OP', 'PD', 'R-1-10', 'R-1-15', 'R-M', 'RC', 'VMU', 'W']",19,28,https://codelibrary.amlegal.com/codes/herrimanut/latest/overview,codelibrary
+181,Utah,Utah County,CEDAR HILLS,"['A', 'B', 'B3']",3,7,https://codelibrary.amlegal.com/codes/cedarhillsut/latest/overview,codelibrary
+184,Utah,Washington County,SANTA CLARA,"['A', 'B', 'I', 'OS']",4,6,https://codelibrary.amlegal.com/codes/santaclaraut/latest/overview,codelibrary
