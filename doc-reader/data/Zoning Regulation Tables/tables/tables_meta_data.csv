@@ -1,0 +1,40 @@
+﻿file,zones,type,note
+1,"R-1, R-4, R-6, R-8, R-18, MR",single_table,
+2,"R4, WR, R6, R8-12, MFR",single_table,multi-page
+3,"MF-10, MF-18, MF-C",single_table,multi-page
+4,"R-6, R-7.5, R-10, R-12, R-15",single_table,multi-page
+5,"R-1, R-2, R-3, R-4, R-PD, R-MH",single_table,
+6,"SF-1, SF-2, SF-3, SF-4, SF-A, MX-D, MF-1, MF-2, MF-3, MX-R",single_table,multi-page
+7,"RE, R-40, R-30, R-20, R-15, R-D, R-MF, MH, CC2",single_table,multi-page
+8,"SF-1, SF-2, SF-3, SF-4, SF-5, SF-6, TF-1, MF1, MF2, MH1, MH2",single_table,multi-page
+9,"FA, RS, RG, CO, CN, CG, LM",single_table,multi-page
+10,"OS-P, OS-A, RE, AR, R-40, R-25, R-10, B, WB",single_table,
+11,"R-1, R-2, S, R3",multi_table,multi-page
+12,"R-40, R-15, R-10",single_table,no-frame
+13,"R-1, R-2",single_table,no-frame
+14,"R-1, R-2, R-3, R-4, O, M-2",single_table,multi-page
+15,"R-A, R-1L, R-1, R-2",multi_table,"multi-page, weird"
+16,"R A, R 1, R 2, R 3, R 4, R E, R-T",single_table,
+17,"R-1, R-2, R-3",single_table,
+18,"R-1, R-2, R-3",single_table,
+19,"R-1A, R-1B, R-1C, R-1D, R-2, R-M, R-M-H",single_table,multi-page
+20,"R-1A, R-1B, R2, RM, RMA",single_table,multi-page
+21,"RD, R-1, R-2, R-3, R-4, R-5M",single_table,
+22,"E-R, R-1, R-2, R-3, R-4, R-5, R-5A, R-6, R-7",single_table,
+23,"R-1, R-2, R-3, R-4, R-5, R-6",single_table,multi-page
+24,"A-1, R-1, R-O",single_table,multi-page
+25,"R-A, R-B, R-C, R-D",single_table,"multi-page, no-frame"
+26,"R-1, R-1A, R-2, R-3, R-3A, R-M4, R-O5",single_table,
+27,"A-R, R-1, R-2, R-3, RRR",single_table,
+28,"R-30, R-20, R-15, MDR",single_table,multi-page
+29,"R-1AAA, R-1AA, R-1A, R-1, R-1B, R-1BB, R-2, R-3, R-P",single_table,multi-page
+30,"R-1-A, R-1-B, R-1-C, R-1-D, R-2, R-3, R-4",single_table,
+31,"Res AAA, Res AA, Res A, Res B, Res C, Res AHZ, Res ANZ/W",single_table,multi-page
+32,"R-6, R-7, R-10, R-12, R-15, R-20, R-40, R-65, R-100",single_table,
+33,"R-4, R-5, R-3, R-2B, R-2A, R-2, R-1",multi_table,multi-page
+34,"RB-1, RB-2, RB-3",single_table,multi-page
+35,"RA-25, R-15, RPP-1, RPP-2, RA-15",single_table,
+36,"RA-1, RA-2, RA-3, RA-4, RA-MD, RA-C, RC, RA-3AH, RA-2, RA-4AH, RA-5AH",single_table,multi-page
+37,"R-1, R-2, R-3, R-4",single_table,multi-page
+38,"R-6, R-7, R-10, R-12, R-15, R-20, R-40",single_table,
+39,"R-1, R-2, R-3, R-4",single_table,
